@@ -10,6 +10,7 @@ const division = (votes: Record<string, VoteCast>): Division => ({
 	votes_for: 0,
 	votes_against: 0,
 	votes_abstain: 0,
+	casting_vote: null,
 	result: 'agreed',
 	votes
 });

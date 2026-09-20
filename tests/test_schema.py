@@ -35,7 +35,8 @@ def insert_fixture(conn):
         "verbatim_text_original, verbatim_text_english) VALUES ('c1', 'item-2024-05-14-04', 'ms-test', 1, 'en', 'x', 'x')"
     )
     conn.execute(
-        "INSERT INTO division_votes VALUES ('div-1', 'item-2024-05-14-04', 'motion', 1, 0, 0, 'agreed')"
+        "INSERT INTO division_votes (id, agenda_item_id, motion_text, votes_for, votes_against, votes_abstain, result) "
+        "VALUES ('div-1', 'item-2024-05-14-04', 'motion', 1, 0, 0, 'agreed')"
     )
     conn.execute("INSERT INTO member_votes VALUES ('div-1', 'ms-test', 'for')")
 
@@ -109,8 +110,8 @@ class SchemaTests(unittest.TestCase):
     def test_check_constraints(self):
         insert_fixture(self.conn)
         bad = [
-            "INSERT INTO division_votes VALUES ('d2', 'item-2024-05-14-04', 'm', -1, 0, 0, 'agreed')",
-            "INSERT INTO division_votes VALUES ('d2', 'item-2024-05-14-04', 'm', 0, 0, 0, 'passed')",
+            "INSERT INTO division_votes (id, agenda_item_id, motion_text, votes_for, votes_against, votes_abstain, result) VALUES ('d2', 'item-2024-05-14-04', 'm', -1, 0, 0, 'agreed')",
+            "INSERT INTO division_votes (id, agenda_item_id, motion_text, votes_for, votes_against, votes_abstain, result) VALUES ('d2', 'item-2024-05-14-04', 'm', 0, 0, 0, 'passed')",
             "INSERT INTO member_votes VALUES ('div-1', 'ms-test', 'maybe')",
             "INSERT INTO debate_contributions (id, agenda_item_id, member_id, sequence_number, spoken_language, "
             "verbatim_text_original, verbatim_text_english) VALUES ('c2', 'item-2024-05-14-04', 'ms-test', 2, 'fr', 'x', 'x')",

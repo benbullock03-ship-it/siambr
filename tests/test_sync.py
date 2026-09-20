@@ -10,7 +10,7 @@ from pathlib import Path
 from unittest import mock
 
 from pipeline import sync as sync_mod
-from pipeline.adapters import moderngov_divisions, plenary_xml
+from pipeline.adapters import plenary_votes, plenary_xml
 from pipeline.adapters.http import SourceUnavailable
 from pipeline.db import create_connection
 from tests.test_plenary_ingestion import MODERN, insert_speakers
@@ -35,7 +35,8 @@ class SyncTests(unittest.TestCase):
             mock.patch.object(plenary_xml, "PLENARY_BRONZE", self.bronze),
             mock.patch.object(plenary_xml, "list_plenary_meetings", side_effect=self.list_meetings),
             mock.patch.object(plenary_xml, "fetch", side_effect=self.fetch),
-            mock.patch.object(moderngov_divisions, "load_divisions", return_value=[]),
+            mock.patch.object(plenary_votes, "PLENARY_BRONZE", self.bronze),
+            mock.patch.object(plenary_votes, "fetch", side_effect=lambda url, **k: b'<?xml version="1.0"?><dataroot generated="x" />'),
         ]
         for p in self.patches:
             p.start()

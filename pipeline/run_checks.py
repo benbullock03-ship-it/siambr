@@ -14,7 +14,7 @@ import sqlite3
 from dataclasses import dataclass
 from pathlib import Path
 
-from pipeline.adapters import plenary_xml
+from pipeline.adapters import plenary_votes, plenary_xml
 from pipeline.db import DEFAULT_DB_PATH, create_connection
 from pipeline.export import DEFAULT_OUT
 
@@ -141,6 +141,36 @@ def check_static_verbatim(conn: sqlite3.Connection, bronze: Path, static: Path, 
     return Check(name, failures)
 
 
+def check_divisions(conn: sqlite3.Connection, bronze: Path) -> Check:
+    """Every division's member votes sum to its published tally, and its motion text is the Bronze Votes text."""
+    failures: list[str] = []
+    for session in _sessions(conn):
+        divisions = conn.execute(
+            """SELECT d.* FROM division_votes d JOIN agenda_items a ON a.id = d.agenda_item_id
+               WHERE a.session_id = ? ORDER BY d.id""",
+            (session["id"],),
+        ).fetchall()
+        if not divisions:
+            continue
+        tail = session["id"].rsplit("-", 1)[-1]
+        path = bronze / session["session_date"][:4] / f"{session['session_date']}-{tail}-votes.xml"
+        published = {d.id: d for d in plenary_votes.parse_votes(path.read_bytes())} if path.exists() else {}
+        if not published:
+            failures.append(f"{session['id']}: divisions in Gold but no Bronze Votes document")
+        for d in divisions:
+            counts = {row["vote_cast"]: row["n"] for row in conn.execute(
+                "SELECT vote_cast, count(*) AS n FROM member_votes WHERE division_id = ? GROUP BY vote_cast", (d["id"],)
+            )}
+            stated = (d["votes_for"], d["votes_against"], d["votes_abstain"])
+            got = (counts.get("for", 0), counts.get("against", 0), counts.get("abstain", 0))
+            if got != stated:
+                failures.append(f"{d['id']}: member votes {got} do not sum to the published tally {stated}")
+            src = published.get(d["id"])
+            if src is not None and src.motion_text_en != d["motion_text"]:
+                failures.append(f"{d['id']}: motion text differs from the Bronze Votes document")
+    return Check("division tallies equal their member votes and motion text equals Bronze", failures)
+
+
 def run_all(conn: sqlite3.Connection, bronze: Path = plenary_xml.PLENARY_BRONZE, static: Path | None = DEFAULT_OUT) -> list[Check]:
     checks = [
         check_referential(conn),
@@ -148,6 +178,7 @@ def run_all(conn: sqlite3.Connection, bronze: Path = plenary_xml.PLENARY_BRONZE,
         check_record_published_at(conn),
         check_no_derived_end_in_gold(conn),
         check_start_pos_matches_bronze(conn, bronze),
+        check_divisions(conn, bronze),
     ]
     if static is not None:
         checks.append(check_static_verbatim(conn, bronze, static))

@@ -34,7 +34,7 @@ export function speech(id: string, item_id: string, seq: number, t_start: number
 }
 
 export function division(id: string, item_id: string): Division {
-	return { id, item_id, motion_text: 'Fixture motion', votes_for: 1, votes_against: 0, votes_abstain: 0, result: 'agreed', votes: { 'ms-a0': 'for' } };
+	return { id, item_id, motion_text: 'Fixture motion', votes_for: 1, votes_against: 0, votes_abstain: 0, casting_vote: null, result: 'agreed', votes: { 'ms-a0': 'for' } };
 }
 
 export function sitting(overrides: Partial<Sitting>): Sitting {

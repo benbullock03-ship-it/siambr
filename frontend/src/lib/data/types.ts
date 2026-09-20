@@ -118,6 +118,8 @@ export interface Division {
 	votes_for: number;
 	votes_against: number;
 	votes_abstain: number;
+	/** The Presiding Officer's casting vote on a tie, as the Record lists it; outside the tally. */
+	casting_vote: 'for' | 'against' | null;
 	result: DivisionOutcome;
 	votes: Record<string, VoteCast>;
 }

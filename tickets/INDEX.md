@@ -45,7 +45,7 @@ Spec 2.0.0 run
 | [T-02](T-02-sqlite-schema-and-migrations.md) | SQLite Schema, Migrations, Policy Domain Seeding | Database | T-01 | `done` |
 | [T-03](T-03-canonical-members-registry.md) | Modern.Gov Adapter: Member Identities, Tenures, Portfolios | Pipeline | T-02 | `done` |
 | [T-04](T-04-plenary-xml-ingestion-engine.md) | Plenary XML Ingestion: Bronze Cache and Normalisation *(amended: Seventh Senedd first)* | Pipeline | T-03 | `pending` |
-| [T-05](T-05-divisions-and-petitions-linking.md) | Roll-Call Divisions *(amended: petitions optional)* | Pipeline | T-04 | `pending` |
+| [T-05](T-05-divisions-and-petitions-linking.md) | Roll-Call Divisions *(amended: petitions optional)* | Pipeline | T-04 | `done` (petitions not ingested) |
 | [T-06](T-06-api-and-fts5-search.md) | FastAPI Serving Layer and FTS5 Search *(dev-only from T-14)* | Backend | T-05 | `superseded` |
 | [T-07](T-07-2d-register-and-dossier-plate.md) | 2D Register and the Dossier Plate *(amended: Journey Track and compare withdrawn)* | Frontend | T-06 | `done` |
 | [T-08](T-08-3d-siambr-rotunda.md) | 3D Siambr Chamber, Funnel and Member Desks *(amended: walk becomes opt-in)* | 3D | T-07 | `done` |

@@ -1,13 +1,15 @@
-"""Link division votes and citizen petitions to their plenary agenda items, and upsert
-the Gold-tier rows. Never invents an agenda item: a division or petition that cannot be
-matched to an existing ``agenda_items`` row is skipped and reported, not synthesised.
+"""Link roll-call divisions and citizen petitions to their plenary agenda items and upsert
+the Gold-tier rows. Never invents an agenda item, a Member or a vote: a division whose item
+is not in Gold is skipped and reported; a ballot whose Member is not in the registry is
+reported and not written; a tally that the ballots do not add up to is an error.
 """
 
 from __future__ import annotations
 
 import sqlite3
 
-from pipeline.adapters.moderngov_divisions import DivisionRecord
+from pipeline.adapters.plenary_votes import DivisionRecord, tally
+from pipeline.plenary import member_id_for
 
 
 def resolve_agenda_item(conn: sqlite3.Connection, session_date: str, title_fragment: str | None) -> str | None:
@@ -31,39 +33,60 @@ def resolve_agenda_item(conn: sqlite3.Connection, session_date: str, title_fragm
     return rows[0]["id"] if len(rows) == 1 else None
 
 
-def upsert_divisions(conn: sqlite3.Connection, divisions: list[DivisionRecord]) -> tuple[dict[str, int], list[str]]:
+def upsert_divisions(
+    conn: sqlite3.Connection, divisions: list[DivisionRecord], known_members: set[str], *, replace_meetings: set[int] = frozenset()
+) -> tuple[dict[str, int], list[str], list[str]]:
+    """Write divisions keyed by the publisher's vote id. Returns (counts, unresolved items, unmatched Member names).
+
+    For every meeting in ``replace_meetings`` a division no longer in ``divisions`` is deleted,
+    so the Gold rows follow the current Votes document for that meeting.
+    """
     counts = {"divisions": 0, "member_votes": 0}
     unresolved: list[str] = []
+    unmatched: set[str] = set()
     with conn:
-        for i, d in enumerate(divisions):
-            agenda_item_id = resolve_agenda_item(conn, d.session_date, d.item_title)
-            if agenda_item_id is None:
-                unresolved.append(f"{d.session_date}: {d.item_title!r}")
+        for meeting_id in replace_meetings:
+            keep = [d.id for d in divisions if d.meeting_id == meeting_id]
+            stale = conn.execute(
+                f"""SELECT d.id FROM division_votes d JOIN agenda_items a ON a.id = d.agenda_item_id
+                    WHERE a.session_id = ? AND d.id NOT IN ({','.join('?' * len(keep)) or "''"})""",
+                (f"plenary-{meeting_id}", *keep),
+            ).fetchall()
+            for row in stale:
+                conn.execute("DELETE FROM member_votes WHERE division_id = ?", (row["id"],))
+                conn.execute("DELETE FROM division_votes WHERE id = ?", (row["id"],))
+        for d in divisions:
+            if tally(d) != (d.votes_for, d.votes_against, d.votes_abstain):
+                raise ValueError(f"division {d.id}: ballots {tally(d)} do not sum to the published tally "
+                                 f"{(d.votes_for, d.votes_against, d.votes_abstain)}")
+            item = conn.execute("SELECT 1 FROM agenda_items WHERE id = ?", (d.agenda_item_id,)).fetchone()
+            if item is None:
+                unresolved.append(f"{d.session_date}: {d.agenda_item_id} ({d.item_title_en!r}) not in Gold")
                 continue
-            if sum(1 for b in d.ballots if b.vote_cast == "for") != d.votes_for or \
-               sum(1 for b in d.ballots if b.vote_cast == "against") != d.votes_against or \
-               sum(1 for b in d.ballots if b.vote_cast == "abstain") != d.votes_abstain:
-                raise ValueError(f"member ballots do not sum to the stated tally for division on {d.session_date}")
-            division_id = f"division-{agenda_item_id}-{i}"
             conn.execute(
                 """INSERT INTO division_votes (id, agenda_item_id, motion_text, votes_for, votes_against,
-                       votes_abstain, result)
-                   VALUES (?, ?, ?, ?, ?, ?, ?)
+                       votes_abstain, result, casting_vote)
+                   VALUES (?, ?, ?, ?, ?, ?, ?, ?)
                    ON CONFLICT(id) DO UPDATE SET
-                       motion_text = excluded.motion_text, votes_for = excluded.votes_for,
-                       votes_against = excluded.votes_against, votes_abstain = excluded.votes_abstain,
-                       result = excluded.result""",
-                (division_id, agenda_item_id, d.motion_text, d.votes_for, d.votes_against, d.votes_abstain, d.result),
+                       agenda_item_id = excluded.agenda_item_id, motion_text = excluded.motion_text,
+                       votes_for = excluded.votes_for, votes_against = excluded.votes_against,
+                       votes_abstain = excluded.votes_abstain, result = excluded.result,
+                       casting_vote = excluded.casting_vote""",
+                (d.id, d.agenda_item_id, d.motion_text_en, d.votes_for, d.votes_against, d.votes_abstain, d.result,
+                 d.casting_vote),
             )
             counts["divisions"] += 1
-            conn.execute("DELETE FROM member_votes WHERE division_id = ?", (division_id,))
-            conn.executemany(
-                "INSERT INTO member_votes (division_id, member_id, vote_cast) VALUES (?, ?, ?)",
-                [(division_id, b.member_id, b.vote_cast) for b in d.ballots
-                 if conn.execute("SELECT 1 FROM members WHERE id = ?", (b.member_id,)).fetchone()],
-            )
-            counts["member_votes"] += len(d.ballots)
-    return counts, unresolved
+            conn.execute("DELETE FROM member_votes WHERE division_id = ?", (d.id,))
+            rows = []
+            for b in d.ballots:
+                member_id = member_id_for(b.member_name, known_members)
+                if member_id is None:
+                    unmatched.add(f"{b.member_name} (Modern.Gov {b.mg_member_id})")
+                    continue
+                rows.append((d.id, member_id, b.vote_cast))
+            conn.executemany("INSERT INTO member_votes (division_id, member_id, vote_cast) VALUES (?, ?, ?)", rows)
+            counts["member_votes"] += len(rows)
+    return counts, unresolved, sorted(unmatched)
 
 
 def upsert_petitions(conn: sqlite3.Connection, petitions: list[dict]) -> tuple[dict[str, int], list[str]]:

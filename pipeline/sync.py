@@ -18,11 +18,12 @@ from dataclasses import dataclass, field
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
-from pipeline.adapters import moderngov_divisions, plenary_xml
+from pipeline.adapters import plenary_votes, plenary_xml
 from pipeline.adapters.http import SourceUnavailable
 from pipeline.apply_migrations import apply_migrations
 from pipeline.db import DEFAULT_DB_PATH, create_connection
 from pipeline.divisions_petitions import upsert_divisions
+from pipeline.plenary import known_member_ids
 from pipeline.export import DEFAULT_OUT, export_connection
 from pipeline.plenary import known_member_ids, normalise, write_session
 from pipeline.seed import seed_baseline
@@ -76,6 +77,7 @@ def sync(conn: sqlite3.Connection, *, window_days: int = WINDOW_DAYS, today: dat
 
     listed = plenary_xml.list_plenary_meetings(start, today.isoformat())
     result.listed = len(listed)
+    changed_meetings: list[tuple[int, str]] = []
     for session_date, meeting_id in listed:
         try:
             body = plenary_xml.fetch_transcript(meeting_id, use_cache=False)
@@ -87,20 +89,23 @@ def sync(conn: sqlite3.Connection, *, window_days: int = WINDOW_DAYS, today: dat
         status = write_session(conn, n)
         if status == "written":
             result.changed_dates.append(n.session_date)
+            changed_meetings.append((meeting_id, n.session_date))
             log(f"meeting {meeting_id} ({n.session_date}): replaced; {len(n.items)} items, {len(n.contributions)} speeches")
             for reason in n.skipped:
                 log(f"  skipped item {reason}")
 
     if result.changed_dates:
-        try:
-            divisions = moderngov_divisions.load_divisions(use_cache=False)
-        except SourceUnavailable as e:
-            log(f"divisions: unavailable ({e}); links for changed dates left as they are")
-            divisions = []
-        changed = set(result.changed_dates)
-        counts, unresolved = upsert_divisions(conn, [d for d in divisions if d.session_date in changed])
+        divisions: list[plenary_votes.DivisionRecord] = []
+        fetched: set[int] = set()
+        for meeting_id, session_date in changed_meetings:
+            try:
+                divisions.extend(plenary_votes.parse_votes(plenary_votes.fetch_votes(meeting_id, session_date, use_cache=False)))
+                fetched.add(meeting_id)
+            except SourceUnavailable as e:
+                log(f"meeting {meeting_id} ({session_date}): votes unavailable ({e}); its divisions are left as they are")
+        counts, unresolved, unmatched = upsert_divisions(conn, divisions, known_member_ids(conn), replace_meetings=fetched)
         result.divisions = counts["divisions"]
-        result.unresolved_divisions = unresolved
+        result.unresolved_divisions = unresolved + [f"ballot for {name}" for name in unmatched]
         conn.execute("PRAGMA wal_checkpoint(TRUNCATE)")
         export_connection(conn, out)
         result.exported = True

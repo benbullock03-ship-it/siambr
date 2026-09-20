@@ -153,6 +153,7 @@ class Exporter:
                 "votes_for": d["votes_for"],
                 "votes_against": d["votes_against"],
                 "votes_abstain": d["votes_abstain"],
+                "casting_vote": d["casting_vote"],
                 "result": d["result"],
                 "votes": {v["member_id"]: v["vote_cast"] for v in votes},
             })
