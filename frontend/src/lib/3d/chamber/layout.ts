@@ -205,6 +205,10 @@ export const CHAMBER_DOORS = [
 	{ deg: 270, width: 2.6 }
 ] as const;
 
+/** Wall screens and the two red division clocks, as bearings clear of the doorways. */
+export const CHAMBER_SCREENS = [75, 150, 225, 300] as const;
+export const CHAMBER_CLOCKS = [20, 340] as const;
+
 export interface Opening {
 	deg: number;
 	width: number;

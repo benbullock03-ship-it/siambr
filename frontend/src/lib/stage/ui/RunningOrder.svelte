@@ -8,16 +8,19 @@
 	const live = $derived(clock.floor.live);
 	const liveIndex = $derived(live?.index ?? -1);
 	const name = (memberId: string) => sitting.speakers[memberId]?.canonical_name ?? memberId;
-	/** Record order per item, each contribution paired with its beat. */
+	/** Record order per item: each contribution paired with its beat, then the item's divisions. */
 	const rows = $derived(
-		timeline.items.map((item) => ({
-			item,
-			beats: sitting.contributions
+		timeline.items.map((item) => {
+			const beats = sitting.contributions
 				.filter((c) => c.item_id === item.id)
 				.map((c) => timeline.beats[timeline.beatIndexByContributionId.get(c.id) ?? -1])
-				.filter(Boolean),
-			divisions: sitting.divisions.filter((d) => d.item_id === item.id).map((d) => timeline.beats[timeline.beatIndexByDivisionId.get(d.id) ?? -1]).filter(Boolean)
-		}))
+				.filter(Boolean);
+			const divisions = sitting.divisions
+				.filter((d) => d.item_id === item.id)
+				.map((d) => timeline.beats[timeline.beatIndexByDivisionId.get(d.id) ?? -1])
+				.filter(Boolean);
+			return { item, beats, divisions, all: [...beats, ...divisions].sort((a, b) => a.t - b.t || a.index - b.index) };
+		})
 	);
 	let open = $state<Record<string, boolean>>({});
 	$effect(() => {
@@ -28,7 +31,7 @@
 </script>
 
 <nav class="order" aria-label="Running order">
-	{#each rows as { item, beats, divisions } (item.id)}
+	{#each rows as { item, beats, divisions, all } (item.id)}
 		<details open={isOpen(item.id)} ontoggle={(e) => (open[item.id] = e.currentTarget.open)}>
 			<summary class:live={live?.itemId === item.id}>
 				<span class="title">{item.title_en}</span>
@@ -38,26 +41,21 @@
 				<p class="small empty">No contributions on record for this item.</p>
 			{/if}
 			<ol>
-				{#each beats as beat (beat.index)}
-					{#if beat.kind === 'contribution'}
-						<li>
+				{#each all as beat (beat.index)}
+					<li>
+						{#if beat.kind === 'contribution'}
 							<button type="button" class="row" aria-current={beat.index === liveIndex ? 'true' : undefined} onclick={() => clock.seek(beat.t)}>
 								<span class="time small" data-numeric>{beat.timed ? (wallClockAt(sitting.meeting_start_time, beat.t) ?? `${beat.t} s`) : 'untimed'}</span>
 								<span class="who">{name(beat.contribution.member_id)}</span>
 								{#if beat.contribution.lang === 'cy'}<span class="lang small">cy</span>{/if}
 							</button>
-						</li>
-					{/if}
-				{/each}
-				{#each divisions as beat (beat.index)}
-					{#if beat.kind === 'division'}
-						<li>
+						{:else}
 							<button type="button" class="row division" aria-current={beat.index === liveIndex ? 'true' : undefined} onclick={() => clock.seek(beat.t)}>
 								<span class="time small">division</span>
 								<span class="who">{beat.division.result === 'agreed' ? 'Agreed' : 'Negatived'}: {beat.division.motion_text}</span>
 							</button>
-						</li>
-					{/if}
+						{/if}
+					</li>
 				{/each}
 			</ol>
 		</details>
@@ -140,6 +138,12 @@
 	.lang {
 		font-family: var(--font-mono);
 		color: var(--color-muted);
+	}
+
+	.row.division .time {
+		color: var(--color-timber-cedar-dark);
+		text-transform: uppercase;
+		letter-spacing: 0.06em;
 	}
 
 	.empty {

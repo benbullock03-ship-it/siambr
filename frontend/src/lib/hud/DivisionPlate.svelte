@@ -1,10 +1,26 @@
 <script lang="ts">
-	import type { Division, MemberLight } from '$lib/data/types';
+	import type { Division, MemberLight, VoteCast } from '$lib/data/types';
 	import { divisionAnchor } from '$lib/dossier/anchors';
 	import { ballotsByParty } from '$lib/dossier/divisions';
 	import { partyColor, partyLabel } from '$lib/dossier/parties';
 
-	let { division, speakers }: { division: Division; speakers: Record<string, MemberLight> } = $props();
+	let {
+		division,
+		speakers,
+		members = false
+	}: {
+		division: Division;
+		speakers: Record<string, MemberLight>;
+		/** Also list every Member's own ballot under their party. */
+		members?: boolean;
+	} = $props();
+
+	const VOTE_LABEL: Record<VoteCast, string> = {
+		for: 'For',
+		against: 'Against',
+		abstain: 'Abstain',
+		did_not_vote: 'Did not vote'
+	};
 
 	const rows = $derived(ballotsByParty(division, speakers));
 	const headingId = $derived(`${divisionAnchor(division.id)}-heading`);
@@ -44,6 +60,19 @@
 				</tbody>
 			</table>
 		</div>
+
+		{#if members}
+			{#each rows as r (r.partyId)}
+				<details class="ballots">
+					<summary><span class="swatch" style:background={partyColor(r.partyId)}></span>{partyLabel(r.partyId)}<span class="small" data-numeric>{r.members.length}</span></summary>
+					<ul>
+						{#each r.members as b (b.memberId)}
+							<li><a href={`/members/${b.memberId}`}>{b.name}</a><span class="small">{VOTE_LABEL[b.vote]}</span></li>
+						{/each}
+					</ul>
+				</details>
+			{/each}
+		{/if}
 	{:else}
 		<p class="small">No member-level ballots on record for this division.</p>
 	{/if}
@@ -98,6 +127,35 @@
 		font-size: var(--text-small);
 		color: var(--color-body-text);
 		font-weight: 600;
+	}
+
+	.ballots summary {
+		display: flex;
+		gap: 0.45rem;
+		align-items: baseline;
+		min-height: var(--tap-min);
+		padding: 0.3rem 0;
+		cursor: pointer;
+		font-weight: 600;
+	}
+
+	.ballots summary .small {
+		margin-left: auto;
+		color: var(--color-muted);
+	}
+
+	.ballots ul {
+		list-style: none;
+		margin: 0 0 0.5rem;
+		padding: 0 0 0 1.15rem;
+	}
+
+	.ballots li {
+		display: flex;
+		gap: 0.6rem;
+		justify-content: space-between;
+		padding: 0.15rem 0;
+		border-bottom: 1px solid var(--color-border);
 	}
 
 	.swatch {

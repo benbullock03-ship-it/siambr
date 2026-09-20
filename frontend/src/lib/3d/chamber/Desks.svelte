@@ -6,6 +6,7 @@
 	import { cedarBoard, CHAMBER_TONES, ESTATE, partyHex, TIMBER } from '../materials';
 	import { mergeGeometries } from 'three/addons/utils/BufferGeometryUtils.js';
 	import { deskRunGeometry } from './deskGeometry';
+	import { deskTint } from './divisionLight';
 	import { Eased, FLOOR_LIGHT, FLOOR_LIGHT_MS, liveDeskId, mixInto } from './floorLight';
 	import { CHAMBER, deskPoint, type Desk } from './layout';
 	import type { SeatAssignment } from './seating';
@@ -68,6 +69,7 @@
 		return e;
 	};
 	const colour = new Color();
+	const voteColour = new Color();
 	const liveId = $derived(liveDeskId(floor, deskByMember, presiding));
 	const liveDesk = $derived(liveId ? (places.find((d) => d.id === liveId) ?? null) : null);
 	const poolLit = new Eased();
@@ -81,10 +83,15 @@
 			eased(spoken, d.id).set(seat && floor.spokenMemberIds.has(seat.member.id) ? 1 : 0);
 		}
 		if (hitMesh) {
+			const tint = floor.divisionTint;
 			places.forEach((d, i) => {
 				const e = eased(lit, d.id);
 				e.step(dt, ms);
-				hitMesh!.setColorAt(i, mixInto(colour, FLOOR_LIGHT.worktop, FLOOR_LIGHT.worktopLit, e.value));
+				const c = mixInto(colour, FLOOR_LIGHT.worktop, FLOOR_LIGHT.worktopLit, e.value);
+				// A division overrides the floor light: the worktop carries the Member's own vote.
+				const vote = deskTint(tint, seatByDesk.get(d.id)?.member.id ?? null);
+				if (vote) c.lerp(voteColour.set(vote.tone), vote.mix);
+				hitMesh!.setColorAt(i, c);
 			});
 			if (hitMesh.instanceColor) hitMesh.instanceColor.needsUpdate = true;
 		}

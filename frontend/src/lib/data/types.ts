@@ -121,6 +121,8 @@ export interface Division {
 	/** The Presiding Officer's casting vote on a tie, as the Record lists it; outside the tally. */
 	casting_vote: 'for' | 'against' | null;
 	result: DivisionOutcome;
+	/** The Record's Votes document for the meeting. */
+	source_url: string | null;
 	votes: Record<string, VoteCast>;
 }
 
@@ -235,4 +237,3 @@ export interface SearchIndexFile {
 	store_fields: string[];
 	documents: SearchDocument[];
 }
-

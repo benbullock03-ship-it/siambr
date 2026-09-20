@@ -3,11 +3,13 @@ import type { Sitting } from '$lib/data/types';
 import { PROVENANCE_DERIVED } from '$lib/data/types';
 import real from '../../../static/data/sittings/2026-05-12.json';
 import realWithTies from '../../../static/data/sittings/2026-09-15.json';
+import realWithDivisions from '../../../static/data/sittings/2026-06-24.json';
 import { buildTimeline, DIVISION_BEAT_SECONDS, FIXED_BEAT_SECONDS, type Beat } from './timeline';
-import { item, sitting, speech, syntheticSitting } from './fixtures';
+import { division, item, sitting, speech, syntheticSitting } from './fixtures';
 
 const realSitting = real as unknown as Sitting;
 const tieSitting = realWithTies as unknown as Sitting;
+const divisionSitting = realWithDivisions as unknown as Sitting;
 
 function expectSortedAndDisjoint(beats: Beat[]) {
 	for (let i = 0; i < beats.length; i++) {
@@ -180,5 +182,69 @@ describe('buildTimeline edge cases', () => {
 			['p', 50, 60],
 			['r', 60, 64]
 		]);
+	});
+});
+
+describe('divisions on the real sitting of 24 June 2026', () => {
+	const timeline = buildTimeline(divisionSitting);
+	const beats = timeline.beats.filter((b) => b.kind === 'division');
+
+	it('places every division from the export on the timeline', () => {
+		expect(divisionSitting.divisions.length).toBeGreaterThan(0);
+		expect(beats).toHaveLength(divisionSitting.divisions.length);
+		expect(timeline.beatIndexByDivisionId.size).toBe(divisionSitting.divisions.length);
+	});
+
+	it('sits each division beat inside the bounds of its own agenda item', () => {
+		for (const beat of beats) {
+			const item = timeline.items.find((i) => i.id === beat.itemId)!;
+			expect(beat.itemId).toBe(beat.division.item_id);
+			expect(beat.t).toBeGreaterThanOrEqual(item.t);
+			expect(beat.tEnd).toBeLessThanOrEqual(item.tEnd);
+			expect(beat.index).toBeGreaterThanOrEqual(item.beatStart);
+			expect(beat.index).toBeLessThan(item.beatEnd);
+		}
+	});
+
+	it('follows the item’s last timed contribution and badges its placement derived', () => {
+		for (const beat of beats) {
+			const timed = timeline.beats.filter((b) => b.itemId === beat.itemId && b.kind === 'contribution' && b.timed);
+			expect(beat.t).toBeGreaterThanOrEqual(Math.max(...timed.map((b) => b.t)));
+			expect(beat.placement).toBe(PROVENANCE_DERIVED);
+		}
+	});
+
+	it('keeps the whole timeline sorted and non-overlapping with the divisions in it', () => {
+		expectSortedAndDisjoint(timeline.beats);
+	});
+});
+
+describe('the length of a division beat', () => {
+	it('runs the full 20 s when the Record leaves room after the item', () => {
+		const built = buildTimeline(
+			sitting({ items: [item('A', 0, 1), item('B', 1, 1)], contributions: [speech('a', 'A', 0, 0), speech('b', 'B', 0, 500)], divisions: [division('d', 'A')] })
+		);
+		const beat = built.beats.find((b) => b.kind === 'division')!;
+		expect(beat.tEnd - beat.t).toBe(DIVISION_BEAT_SECONDS);
+	});
+
+	/**
+	 * Ten divisions in one Voting Time against a nine-second gap to the next item: the beats
+	 * share what the Record leaves rather than overrun the next published startPos. The desk
+	 * tints outlast the beat by the fade (floor.ts), which is what keeps a squeezed run readable.
+	 */
+	it('shares the gap when the Record leaves less than the whole run asks for', () => {
+		const built = buildTimeline(
+			sitting({
+				items: [item('A', 0, 1), item('B', 1, 1)],
+				contributions: [speech('a', 'A', 0, 0), speech('b', 'B', 0, 10)],
+				divisions: [division('d1', 'A'), division('d2', 'A')]
+			})
+		);
+		const beats = built.beats.filter((b) => b.kind === 'division');
+		expect(beats).toHaveLength(2);
+		expect(beats[1].tEnd).toBe(10);
+		expect(beats.every((b) => b.tEnd - b.t < DIVISION_BEAT_SECONDS)).toBe(true);
+		expectSortedAndDisjoint(built.beats);
 	});
 });

@@ -2,6 +2,7 @@
 	import type { MemberLight, Sitting } from '$lib/data/types';
 	import { BADGE } from '$lib/data/provenance';
 	import { partyColor, partyLabel } from '$lib/dossier/parties';
+	import DivisionPlate from '$lib/hud/DivisionPlate.svelte';
 	import type { SittingClock } from '../clock.svelte';
 	import type { Beat } from '../timeline';
 
@@ -110,13 +111,14 @@
 				<h2 class="name">Division</h2>
 			</div>
 		</header>
-		<div class="body" bind:this={column}>
-			<p class="badge small">{BADGE.division}</p>
-			<div class="text"><p>{live.division.motion_text}</p></div>
-			<p class="small">
-				For <span data-numeric>{live.division.votes_for}</span>, against <span data-numeric>{live.division.votes_against}</span>, abstain
-				<span data-numeric>{live.division.votes_abstain}</span>: {live.division.result === 'agreed' ? 'agreed' : 'negatived'}.
-			</p>
+		<div class="body plate" bind:this={column}>
+			<DivisionPlate division={live.division} speakers={sitting.speakers} members />
+			{#if live.division.casting_vote}
+				<p class="small">Y Llywydd's casting vote was cast {live.division.casting_vote}. It sits outside the tally.</p>
+			{/if}
+			{#if live.division.source_url}
+				<p class="small tv"><a href={live.division.source_url} rel="external">The Record's Votes document for this meeting</a></p>
+			{/if}
 		</div>
 	{:else}
 		<div class="body empty">
@@ -224,6 +226,11 @@
 
 	.tv {
 		margin-top: 1rem;
+	}
+
+	.plate :global(.division:first-child) {
+		border-top: 0;
+		padding-top: 0;
 	}
 
 	.empty {

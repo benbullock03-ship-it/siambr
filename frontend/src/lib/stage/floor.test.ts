@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import type { Sitting } from '$lib/data/types';
 import real from '../../../static/data/sittings/2026-05-12.json';
-import { floorState, liveBeat, spokenMemberIds } from './floor';
+import { DIVISION_FADE_SECONDS, divisionTint, floorState, liveBeat, spokenMemberIds } from './floor';
 import { syntheticSitting } from './fixtures';
 import { buildTimeline } from './timeline';
 
@@ -65,5 +65,34 @@ describe('floorState', () => {
 		expect(inside.division?.division.id).toBe('dA');
 		expect(inside.live).toBe(inside.division);
 		expect(floorState(synthetic, 296).division).toBeNull();
+	});
+});
+
+describe('divisionTint', () => {
+	const beat = synthetic.beats.find((b) => b.kind === 'division')!;
+
+	it('is nothing before the first division', () => {
+		expect(divisionTint(synthetic, beat.t - 0.1)).toBeNull();
+	});
+
+	it('holds at full strength through the beat', () => {
+		expect(divisionTint(synthetic, beat.t)?.strength).toBe(1);
+		expect(divisionTint(synthetic, beat.tEnd - 0.1)?.strength).toBe(1);
+	});
+
+	it('fades to nothing over the six seconds after it', () => {
+		expect(divisionTint(synthetic, beat.tEnd + DIVISION_FADE_SECONDS / 2)?.strength).toBeCloseTo(0.5);
+		expect(divisionTint(synthetic, beat.tEnd + DIVISION_FADE_SECONDS)).toBeNull();
+	});
+
+	it('names the division it belongs to, live or fading', () => {
+		expect(divisionTint(synthetic, beat.t + 1)?.beat.division.id).toBe('dA');
+		expect(divisionTint(synthetic, beat.tEnd + 1)?.beat.division.id).toBe('dA');
+	});
+
+	it('shows nothing at all on a sitting with no divisions', () => {
+		expect(realTimeline.beats.some((b) => b.kind === 'division')).toBe(false);
+		expect(divisionTint(realTimeline, 1000)).toBeNull();
+		expect(floorState(realTimeline, 1000).divisionTint).toBeNull();
 	});
 });

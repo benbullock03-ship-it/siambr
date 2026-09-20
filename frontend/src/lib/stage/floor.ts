@@ -2,11 +2,22 @@
 import type { Beat, DivisionBeat, Timeline } from './timeline';
 import { lastBeatStartingBy } from './timeline';
 
+/** Desk tints hold through the division beat, then fade out over this many sitting seconds. */
+export const DIVISION_FADE_SECONDS = 6;
+
+export interface DivisionTint {
+	beat: DivisionBeat;
+	/** 1 through the beat, easing to 0 across the fade that follows it. */
+	strength: number;
+}
+
 export interface FloorState {
 	live: Beat | null;
 	/** Members with a contribution beat starting before t. */
 	spokenMemberIds: Set<string>;
 	division: DivisionBeat | null;
+	/** The division the desks are showing: the live one, or the last one still fading. */
+	divisionTint: DivisionTint | null;
 }
 
 interface SpokenIndex {
@@ -17,6 +28,13 @@ interface SpokenIndex {
 }
 
 const spokenIndexes = new WeakMap<Timeline, SpokenIndex>();
+const divisionIndexes = new WeakMap<Timeline, DivisionBeat[]>();
+
+function divisionBeats(timeline: Timeline): DivisionBeat[] {
+	let beats = divisionIndexes.get(timeline);
+	if (!beats) divisionIndexes.set(timeline, (beats = timeline.beats.filter((b): b is DivisionBeat => b.kind === 'division')));
+	return beats;
+}
 
 function spokenIndex(timeline: Timeline): SpokenIndex {
 	let index = spokenIndexes.get(timeline);
@@ -64,11 +82,33 @@ export function spokenMemberIds(timeline: Timeline, t: number): Set<string> {
 	return index.cached;
 }
 
+/**
+ * The division whose tint the desks carry at t: the beat itself at full strength, then the
+ * fade after it. Null before the first division and more than the fade past the last one.
+ * O(log n).
+ */
+export function divisionTint(timeline: Timeline, t: number): DivisionTint | null {
+	const beats = divisionBeats(timeline);
+	let lo = 0;
+	let hi = beats.length;
+	while (lo < hi) {
+		const mid = (lo + hi) >> 1;
+		if (beats[mid].t <= t) lo = mid + 1;
+		else hi = mid;
+	}
+	const beat = beats[lo - 1];
+	if (!beat) return null;
+	if (t < beat.tEnd) return { beat, strength: 1 };
+	const over = t - beat.tEnd;
+	return over < DIVISION_FADE_SECONDS ? { beat, strength: 1 - over / DIVISION_FADE_SECONDS } : null;
+}
+
 export function floorState(timeline: Timeline, t: number): FloorState {
 	const live = liveBeat(timeline, t);
 	return {
 		live,
 		spokenMemberIds: spokenMemberIds(timeline, t),
-		division: live?.kind === 'division' ? live : null
+		division: live?.kind === 'division' ? live : null,
+		divisionTint: divisionTint(timeline, t)
 	};
 }

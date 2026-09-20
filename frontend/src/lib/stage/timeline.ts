@@ -7,7 +7,8 @@
  *  - contributions with a missing or negative startPos are untimed and play as fixed 4 s beats
  *    taken from the tail of the Record-preceding timed beat, so nothing is skipped;
  *  - two timed contributions sharing a startPos split the span to the next start equally;
- *  - a division is a 20 s beat at the end of its item, taken from the item's last timed beat.
+ *  - a division is a 20 s beat at the end of its item, taken from the item's last timed beat;
+ *    a run of divisions sharing one short gap splits it rather than overrun the next startPos.
  * Inserted beats never take more than half the gap to the next timed start, so the timed
  * contribution always holds the floor for at least half of its own span. After the last timed
  * contribution there is no next start: its beat is 4 s and any inserts follow at full length.

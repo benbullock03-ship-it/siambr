@@ -5,6 +5,7 @@
 	import type { SittingClock } from '$lib/stage/clock.svelte';
 	import Dais from './chamber/Dais.svelte';
 	import Desks from './chamber/Desks.svelte';
+	import DivisionDisplays from './chamber/DivisionDisplays.svelte';
 	import Envelope from './chamber/Envelope.svelte';
 	import Floor from './chamber/Floor.svelte';
 	import Funnel from './chamber/Funnel.svelte';
@@ -47,7 +48,7 @@
 	let llywyddHit = $state<Mesh>();
 	const places = $derived(seats.map((s) => s.desk));
 
-	const EMPTY_FLOOR: FloorState = { live: null, spokenMemberIds: new Set(), division: null };
+	const EMPTY_FLOOR: FloorState = { live: null, spokenMemberIds: new Set(), division: null, divisionTint: null };
 	const floor = $derived<FloorState>(clock?.floor ?? EMPTY_FLOOR);
 
 	useTask((dt) => {
@@ -61,6 +62,7 @@
 <Envelope />
 <Dais />
 <Desks {desks} {seats} focus={hud.focus} {floor} {presiding} reducedMotion={hud.reducedMotion} bind:hitMesh={deskMesh} bind:llywyddHit />
+<DivisionDisplays {floor} t={clock?.t ?? 0} />
 {#if hud.walk}
 	<Walker {player} {hud} desks={places} {seats} floors={[floorMesh]} {deskMesh} {llywyddHit} {paused} />
 {:else}

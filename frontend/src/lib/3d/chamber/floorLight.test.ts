@@ -26,7 +26,7 @@ describe('liveDeskId', () => {
 	it('lights nothing outside a contribution beat', () => {
 		expect(liveDeskId(floorState(timeline, 5), deskByMember, presiding)).toBeNull();
 		expect(liveDeskId(floorState(timeline, 280), deskByMember, presiding)).toBeNull();
-		const empty: FloorState = { live: null, spokenMemberIds: new Set(), division: null };
+		const empty: FloorState = { live: null, spokenMemberIds: new Set(), division: null, divisionTint: null };
 		expect(liveDeskId(empty, deskByMember, presiding)).toBeNull();
 	});
 });

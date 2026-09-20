@@ -38,6 +38,16 @@ export const CHAMBER_TONES = {
 	ceiling: '#f2f1ee'
 } as const;
 
+/**
+ * Division tints for the desks: chamber tones, deliberately not party colours, chosen so the
+ * three stay apart under deuteranopia as well as normal vision (see divisionLight.test.ts).
+ */
+export const DIVISION_TONES = {
+	for: '#1c5f9c',
+	against: '#e0912f',
+	abstain: '#a9adb2'
+} as const;
+
 export const SLATE = {
 	riven: '#4c5359',
 	honed: '#c4c6c3',

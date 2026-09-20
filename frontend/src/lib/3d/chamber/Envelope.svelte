@@ -2,7 +2,7 @@
 	import { T } from '@threlte/core';
 	import { BackSide, DoubleSide } from 'three';
 	import { acousticPanel, cedarBoard, cedarSlats, CHAMBER_TONES, SLATE, slateSlabs, TIMBER } from '../materials';
-	import { bearingToXZ, CHAMBER, CHAMBER_DOORS, chamberWallSegments, DEG, isInOpening } from './layout';
+	import { bearingToXZ, CHAMBER, CHAMBER_CLOCKS, CHAMBER_DOORS, CHAMBER_SCREENS, chamberWallSegments, DEG, isInOpening } from './layout';
 
 	const wall = CHAMBER.wallRadius;
 	const wallH = CHAMBER.wallHeight;
@@ -22,9 +22,9 @@
 	);
 	// CylinderGeometry measures theta from +Z towards +X, so a bearing b sits at theta = π − b.
 	const wallArcs = chamberWallSegments().map((s) => ({ start: Math.PI - s.end, length: s.end - s.start }));
-	const wallScreens = [90, 210, 315];
+	const wallScreens = CHAMBER_SCREENS;
 	const doors = CHAMBER_DOORS;
-	const clocks = [20, 340];
+	const clocks = CHAMBER_CLOCKS;
 	const posts = Array.from({ length: 48 }, (_, i) => (i * 360) / 48);
 	const downlights = Array.from({ length: 72 }, (_, i) => (i * 360) / 72);
 	const mullions = Array.from({ length: 36 }, (_, i) => (i * 360) / 36);
@@ -65,7 +65,8 @@
 	<T.MeshBasicMaterial color="#fff4dc" side={DoubleSide} />
 </T.Mesh>
 
-<!-- Wall screens, open oak doorways and the two division clocks. -->
+<!-- Wall screens, open oak doorways and the two division clocks; all dark until a division
+     lights them (DivisionDisplays). -->
 {#each wallScreens as deg (deg)}
 	<T.Mesh position={at(wall - 0.14, deg, 2.75)} rotation.y={facing(deg)}>
 		<T.BoxGeometry args={[1.7, 0.95, 0.06]} />
@@ -94,7 +95,7 @@
 {#each clocks as deg (deg)}
 	<T.Mesh position={at(wall - 0.14, deg, wallH - 0.75)} rotation.y={facing(deg)}>
 		<T.BoxGeometry args={[0.6, 0.18, 0.05]} />
-		<T.MeshStandardMaterial color="#111417" roughness={0.4} emissive="#ff2a1a" emissiveIntensity={0.9} />
+		<T.MeshStandardMaterial color="#111417" roughness={0.4} />
 	</T.Mesh>
 {/each}
 

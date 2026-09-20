@@ -12,6 +12,7 @@ const division = (votes: Record<string, VoteCast>): Division => ({
 	votes_abstain: 0,
 	casting_vote: null,
 	result: 'agreed',
+	source_url: null,
 	votes
 });
 
@@ -25,8 +26,13 @@ describe('ballotsByParty', () => {
 			speakers({ a: 'plaid_cymru', b: 'labour', c: 'labour', d: 'labour', e: 'plaid_cymru' })
 		);
 		expect(rows.map((r) => r.partyId)).toEqual(['labour', 'plaid_cymru']);
-		expect(rows[0]).toEqual({ partyId: 'labour', for: 2, against: 0, abstain: 1, didNotVote: 0 });
-		expect(rows[1]).toEqual({ partyId: 'plaid_cymru', for: 0, against: 1, abstain: 0, didNotVote: 1 });
+		expect(rows[0]).toMatchObject({ partyId: 'labour', for: 2, against: 0, abstain: 1, didNotVote: 0 });
+		expect(rows[0].members.map((m) => [m.memberId, m.vote])).toEqual([
+			['b', 'for'],
+			['c', 'for'],
+			['d', 'abstain']
+		]);
+		expect(rows[1]).toMatchObject({ partyId: 'plaid_cymru', for: 0, against: 1, abstain: 0, didNotVote: 1 });
 	});
 
 	it('keeps Members with no recorded party in a final row rather than dropping them', () => {
