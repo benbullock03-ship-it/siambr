@@ -128,7 +128,8 @@ def normalise(body: bytes, known_members: set[str], source_url: str) -> Normalis
                                       original, english, plenary_xml.start_pos(r.spoken_tv_url)))
 
     out.session = (session_id, first.assembly, first.session_date, PLENARY_TITLE_EN, PLENARY_TITLE_CY,
-                   presiding, source_url, plenary_xml.sha256(body))
+                   presiding, source_url, plenary_xml.sha256(body),
+                   plenary_xml.record_published_at(body), plenary_xml.meeting_start_time(body))
     return out
 
 
@@ -136,21 +137,25 @@ def known_member_ids(conn: sqlite3.Connection) -> set[str]:
     return {r[0] for r in conn.execute("SELECT id FROM members")}
 
 
-def write_session(conn: sqlite3.Connection, n: NormalisedSession) -> str:
+def write_session(conn: sqlite3.Connection, n: NormalisedSession, *, rewrite: bool = False) -> str:
     """Returns 'unchanged' when the stored checksum matches, else replaces the whole session.
 
-    Replacing cascades to divisions linked by T-05, so re-run that ingest afterwards.
+    ``rewrite`` replaces the session even when the checksum matches, for rows written before
+    a field existed; the record itself is the same bytes either way.
+
+    Replacing cascades to divisions linked by T-05, so re-run that ingest afterwards. The
+    session row carries record_published_at, so it moves with the checksum and never alone.
     """
     existing = conn.execute("SELECT xml_sha256 FROM plenary_sessions WHERE id = ?", (n.session_id,)).fetchone()
-    if existing and existing[0] == n.session[7]:
+    if existing and existing[0] == n.session[7] and not rewrite:
         return "unchanged"
     conn.execute("BEGIN")
     try:
         conn.execute("DELETE FROM plenary_sessions WHERE id = ?", (n.session_id,))
         conn.execute(
             """INSERT INTO plenary_sessions (id, senedd_term, session_date, title_en, title_cy,
-                   presiding_officer_id, source_xml_url, xml_sha256)
-               VALUES (?, ?, ?, ?, ?, ?, ?, ?)""",
+                   presiding_officer_id, source_xml_url, xml_sha256, record_published_at, meeting_start_time)
+               VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
             n.session,
         )
         conn.executemany(

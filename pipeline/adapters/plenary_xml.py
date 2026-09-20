@@ -36,6 +36,10 @@ _BR = re.compile(r"<br\s*/?>", re.I)
 _TAG = re.compile(r"<[^>]+>")
 
 
+class NotPlenary(SourceUnavailable):
+    """XMLExport served a transcript, but of a committee, not Plenary."""
+
+
 @dataclass(frozen=True)
 class TranscriptRow:
     meeting_id: int
@@ -84,6 +88,29 @@ def meeting_date(body: bytes) -> str:
     return m.group(1).decode()
 
 
+def meeting_start_time(body: bytes) -> str | None:
+    """HH:MM:SS of the first <MeetingDate>, the wall clock at Senedd TV offset 0; None when the date has no time."""
+    m = re.search(rb"<MeetingDate>\d{4}-\d{2}-\d{2}T(\d{2}:\d{2}:\d{2})", body)
+    return m.group(1).decode() if m else None
+
+
+def record_published_at(body: bytes) -> str | None:
+    """The transcript's dataroot@generated, verbatim: Senedd's publication stamp for this release."""
+    m = re.search(rb'<dataroot[^>]*\sgenerated="([^"]+)"', body)
+    return m.group(1).decode() if m else None
+
+
+def assembly_of(body: bytes) -> int | None:
+    m = re.search(rb"<Assembly>(\d+)</Assembly>", body)
+    return int(m.group(1)) if m else None
+
+
+def is_plenary(body: bytes) -> bool:
+    """Committee transcripts share the schema; only the row element name says which body met."""
+    m = re.search(rb"<dataroot[^>]*>\s*<([A-Za-z_]+)", body)
+    return bool(m) and m.group(1).startswith(b"XML_Plenary")
+
+
 def sha256(body: bytes) -> str:
     return hashlib.sha256(body).hexdigest()
 
@@ -98,6 +125,8 @@ def fetch_transcript(meeting_id: int, *, session: requests.Session | None = None
     # An unknown meetingID redirects to an HTML error page rather than returning 404.
     if b"<dataroot" not in body[:500]:
         raise SourceUnavailable(f"meeting {meeting_id}: XMLExport returned no transcript")
+    if not is_plenary(body):
+        raise NotPlenary(f"meeting {meeting_id}: not a Plenary transcript")
     path = bronze_path(meeting_date(body), meeting_id)
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_bytes(body)
@@ -136,13 +165,18 @@ def html_to_text(fragment: str) -> str:
     return html.unescape(_TAG.sub("", text)).strip()
 
 
-def start_pos(tv_url: str) -> int | None:
-    """Seconds from meeting start; the preamble row carries a negative startPos, which is no offset."""
+def raw_start_pos(tv_url: str) -> str | None:
+    """The startPos query value exactly as published, or None when the link carries none."""
     values = parse_qs(urlsplit(tv_url).query).get("startPos") if tv_url else None
-    if not values or not re.fullmatch(r"-?\d+", values[0]):
+    return values[0] if values else None
+
+
+def start_pos(tv_url: str) -> int | None:
+    """Seconds from meeting start, Senedd's own figure. A negative or malformed startPos is untimed (None)."""
+    raw = raw_start_pos(tv_url)
+    if raw is None or not re.fullmatch(r"\d+", raw):
         return None
-    seconds = int(values[0])
-    return seconds if seconds >= 0 else None
+    return int(raw)
 
 
 def english_clip_base(tv_url: str) -> str | None:

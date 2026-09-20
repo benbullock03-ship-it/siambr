@@ -22,7 +22,8 @@ def insert_fixture(conn):
         "'Test Member', NULL, NULL, NULL, 'https://senedd.wales/people/1', 'active')"
     )
     conn.execute(
-        "INSERT INTO plenary_sessions VALUES ('plenary-2024-05-14', 6, '2024-05-14', 'Plenary', "
+        "INSERT INTO plenary_sessions (id, senedd_term, session_date, title_en, title_cy, presiding_officer_id, "
+        "source_xml_url, xml_sha256) VALUES ('plenary-2024-05-14', 6, '2024-05-14', 'Plenary', "
         "'Cyfarfod Llawn', 'ms-test', 'https://record.senedd.wales/x.xml', ?)", (SHA,)
     )
     conn.execute(
@@ -77,7 +78,8 @@ class SchemaTests(unittest.TestCase):
     def test_foreign_keys_enforced(self):
         with self.assertRaises(sqlite3.IntegrityError):
             self.conn.execute(
-                "INSERT INTO plenary_sessions VALUES ('p', 6, '2024-01-01', 't', 't', 'ms-missing', 'u', ?)", (SHA,)
+                "INSERT INTO plenary_sessions (id, senedd_term, session_date, title_en, title_cy, presiding_officer_id, "
+                "source_xml_url, xml_sha256) VALUES ('p', 6, '2024-01-01', 't', 't', 'ms-missing', 'u', ?)", (SHA,)
             )
         insert_fixture(self.conn)
         with self.assertRaises(sqlite3.IntegrityError):
@@ -117,6 +119,7 @@ class SchemaTests(unittest.TestCase):
             "INSERT INTO policy_domains VALUES ('z', 'x', 'x', 'w', 360)",
             "INSERT INTO parliamentary_terms VALUES (8, 'x', 'x', '2031-01-01', NULL, 96)",
             "UPDATE members SET current_status = 'retired'",
+            "UPDATE plenary_sessions SET meeting_start_time = '1330'",
         ]
         for sql in bad:
             with self.assertRaises(sqlite3.IntegrityError, msg=sql):
