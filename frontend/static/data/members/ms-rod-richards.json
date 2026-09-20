@@ -1,0 +1,36 @@
+{
+  "ballots": [],
+  "canonical_name": "Rod Richards",
+  "constituency_name_cy": "",
+  "constituency_name_en": "",
+  "contribution_count": 0,
+  "contributions_by_date": [],
+  "current_status": "former",
+  "cymraeg_name": null,
+  "gss_constituency_code": null,
+  "honorific": null,
+  "id": "ms-rod-richards",
+  "is_regional_member": true,
+  "official_profile_url": "https://senedd.wales/people/Rod-Richards/",
+  "party_id": "conservatives",
+  "portrait_url": "https://business.senedd.wales/UserData/2/6/4/Info00004462/bigpic.jpg",
+  "region_name": "North Wales",
+  "role_title_cy": null,
+  "role_title_en": null,
+  "roles": [],
+  "tenures": [
+    {
+      "end_date": null,
+      "is_regional_member": true,
+      "party_id": "conservatives",
+      "party_label": "Conservative",
+      "party_provenance": "curated_reference",
+      "region_name": "North Wales",
+      "seat_gss_code": null,
+      "seat_name": "North Wales",
+      "senedd_term": 1,
+      "source_url": "https://web.archive.org/web/2026/http://news.bbc.co.uk/hi/english/static/vote_99/wales_99/html/region/1.stm",
+      "start_date": "1999-05-06"
+    }
+  ]
+}

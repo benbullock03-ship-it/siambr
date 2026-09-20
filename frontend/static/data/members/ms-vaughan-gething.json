@@ -1,0 +1,73 @@
+{
+  "ballots": [],
+  "canonical_name": "Vaughan Gething",
+  "constituency_name_cy": "De Caerdydd a Phenarth",
+  "constituency_name_en": "Cardiff South and Penarth",
+  "contribution_count": 0,
+  "contributions_by_date": [],
+  "current_status": "former",
+  "cymraeg_name": null,
+  "gss_constituency_code": "W09000043",
+  "honorific": null,
+  "id": "ms-vaughan-gething",
+  "is_regional_member": false,
+  "official_profile_url": "https://senedd.wales/people/Vaughan-Gething-MS/",
+  "party_id": "labour",
+  "portrait_url": "https://business.senedd.wales/UserData/9/4/2/Info00000249/bigpic.jpg",
+  "region_name": null,
+  "role_title_cy": null,
+  "role_title_en": null,
+  "roles": [
+    {
+      "cabinet_level": "first_minister",
+      "end_date": "2024-08-06",
+      "provenance": "curated_reference",
+      "source_url": "https://senedd.wales/archive/sixth-senedd-2021-2026/",
+      "start_date": "2024-03-20",
+      "start_date_precision": "exact",
+      "title_cy": "Prif Weinidog Cymru",
+      "title_en": "First Minister of Wales"
+    }
+  ],
+  "tenures": [
+    {
+      "end_date": "2016-04-05",
+      "is_regional_member": false,
+      "party_id": "labour",
+      "party_label": "Welsh Labour and Co-operative Party",
+      "party_provenance": "profile_current",
+      "region_name": null,
+      "seat_gss_code": "W09000043",
+      "seat_name": "Cardiff South and Penarth",
+      "senedd_term": 4,
+      "source_url": "https://senedd.wales/people/Vaughan-Gething-MS/",
+      "start_date": "2011-05-06"
+    },
+    {
+      "end_date": "2021-04-28",
+      "is_regional_member": false,
+      "party_id": "labour",
+      "party_label": "Welsh Labour and Co-operative Party",
+      "party_provenance": "profile_current",
+      "region_name": null,
+      "seat_gss_code": "W09000043",
+      "seat_name": "Cardiff South and Penarth",
+      "senedd_term": 5,
+      "source_url": "https://senedd.wales/people/Vaughan-Gething-MS/",
+      "start_date": "2016-05-06"
+    },
+    {
+      "end_date": "2026-04-07",
+      "is_regional_member": false,
+      "party_id": "labour",
+      "party_label": "Welsh Labour and Co-operative Party",
+      "party_provenance": "profile_current",
+      "region_name": null,
+      "seat_gss_code": "W09000043",
+      "seat_name": "Cardiff South and Penarth",
+      "senedd_term": 6,
+      "source_url": "https://senedd.wales/people/Vaughan-Gething-MS/",
+      "start_date": "2021-05-08"
+    }
+  ]
+}

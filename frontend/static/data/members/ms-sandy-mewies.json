@@ -1,0 +1,36 @@
+{
+  "ballots": [],
+  "canonical_name": "Sandy Mewies",
+  "constituency_name_cy": "Delyn",
+  "constituency_name_en": "Delyn",
+  "contribution_count": 0,
+  "contributions_by_date": [],
+  "current_status": "former",
+  "cymraeg_name": null,
+  "gss_constituency_code": "W09000006",
+  "honorific": null,
+  "id": "ms-sandy-mewies",
+  "is_regional_member": false,
+  "official_profile_url": "https://senedd.wales/people/Sandy-Mewies/",
+  "party_id": "other",
+  "portrait_url": "https://business.senedd.wales/UserData/0/7/1/Info00000170/bigpic.jpg",
+  "region_name": null,
+  "role_title_cy": null,
+  "role_title_en": null,
+  "roles": [],
+  "tenures": [
+    {
+      "end_date": null,
+      "is_regional_member": false,
+      "party_id": "other",
+      "party_label": null,
+      "party_provenance": "profile_current",
+      "region_name": null,
+      "seat_gss_code": "W09000006",
+      "seat_name": "Delyn",
+      "senedd_term": 2,
+      "source_url": "https://senedd.wales/archive/second-assembly-2003-2007/elected-members-second-assembly/",
+      "start_date": "2003-05-01"
+    }
+  ]
+}

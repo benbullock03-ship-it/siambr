@@ -1,8 +1,19 @@
-import { members, terms } from '$lib/api/client';
+import { error } from '@sveltejs/kit';
+import { loadIndex, loadMembersIndex, loadSittingsIndex, loadTerm } from '$lib/data/loaders';
 import type { PageLoad } from './$types';
 
+export const prerender = true;
+
 export const load: PageLoad = async ({ fetch }) => {
-	const [current, allTerms] = await Promise.all([members(fetch, { current: true }), terms(fetch)]);
-	const term = allTerms.find((t) => t.end_date === null) ?? allTerms[allTerms.length - 1];
-	return { members: current, term };
+	try {
+		const index = await loadIndex(fetch);
+		const [term, members, sittings] = await Promise.all([
+			loadTerm(fetch, index.current_term),
+			loadMembersIndex(fetch),
+			loadSittingsIndex(fetch)
+		]);
+		return { index, term, members, sittings };
+	} catch {
+		error(502, 'The chamber data could not be loaded.');
+	}
 };

@@ -1,0 +1,36 @@
+{
+  "ballots": [],
+  "canonical_name": "Sue Essex",
+  "constituency_name_cy": "",
+  "constituency_name_en": "",
+  "contribution_count": 0,
+  "contributions_by_date": [],
+  "current_status": "former",
+  "cymraeg_name": null,
+  "gss_constituency_code": null,
+  "honorific": null,
+  "id": "ms-sue-essex",
+  "is_regional_member": false,
+  "official_profile_url": "https://senedd.wales/people/Sue-Essex/",
+  "party_id": "labour",
+  "portrait_url": "https://business.senedd.wales/UserData/9/7/1/Info00001179/bigpic.jpg",
+  "region_name": null,
+  "role_title_cy": null,
+  "role_title_en": null,
+  "roles": [],
+  "tenures": [
+    {
+      "end_date": null,
+      "is_regional_member": false,
+      "party_id": "labour",
+      "party_label": "Labour",
+      "party_provenance": "curated_reference",
+      "region_name": null,
+      "seat_gss_code": "W09000042",
+      "seat_name": "Cardiff North",
+      "senedd_term": 1,
+      "source_url": "https://web.archive.org/web/2026/http://news.bbc.co.uk/hi/english/static/vote_99/wales_99/html/constituency/9.stm",
+      "start_date": "1999-05-06"
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-import type { DivisionResult } from '$lib/api/types';
+import type { Division, MemberLight } from '$lib/data/types';
 
 export interface PartyTally {
 	partyId: string | null;
@@ -10,17 +10,19 @@ export interface PartyTally {
 
 const total = (t: PartyTally) => t.for + t.against + t.abstain + t.didNotVote;
 
-export function ballotsByParty(division: DivisionResult): PartyTally[] {
+/** Ballots by the party each Member sat for on the day (the sitting file carries that), largest delegation first. */
+export function ballotsByParty(division: Division, speakers: Record<string, MemberLight>): PartyTally[] {
 	const tallies = new Map<string | null, PartyTally>();
-	for (const b of division.ballots) {
-		let t = tallies.get(b.party_id_at_date);
+	for (const [memberId, cast] of Object.entries(division.votes)) {
+		const party = speakers[memberId]?.party_id ?? null;
+		let t = tallies.get(party);
 		if (!t) {
-			t = { partyId: b.party_id_at_date, for: 0, against: 0, abstain: 0, didNotVote: 0 };
-			tallies.set(b.party_id_at_date, t);
+			t = { partyId: party, for: 0, against: 0, abstain: 0, didNotVote: 0 };
+			tallies.set(party, t);
 		}
-		if (b.vote_cast === 'for') t.for++;
-		else if (b.vote_cast === 'against') t.against++;
-		else if (b.vote_cast === 'abstain') t.abstain++;
+		if (cast === 'for') t.for++;
+		else if (cast === 'against') t.against++;
+		else if (cast === 'abstain') t.abstain++;
 		else t.didNotVote++;
 	}
 	return [...tallies.values()].sort((a, b) => {

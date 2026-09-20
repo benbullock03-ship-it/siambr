@@ -1,0 +1,62 @@
+{
+  "ballots": [],
+  "canonical_name": "Russell George",
+  "constituency_name_cy": "Sir Drefaldwyn",
+  "constituency_name_en": "Montgomeryshire",
+  "contribution_count": 0,
+  "contributions_by_date": [],
+  "current_status": "former",
+  "cymraeg_name": null,
+  "gss_constituency_code": "W09000011",
+  "honorific": null,
+  "id": "ms-russell-george",
+  "is_regional_member": false,
+  "official_profile_url": "https://senedd.wales/people/Russell-George-MS/",
+  "party_id": "independent",
+  "portrait_url": "https://business.senedd.wales/UserData/3/0/3/Info00000303/bigpic.jpg",
+  "region_name": null,
+  "role_title_cy": null,
+  "role_title_en": null,
+  "roles": [],
+  "tenures": [
+    {
+      "end_date": "2016-04-05",
+      "is_regional_member": false,
+      "party_id": "independent",
+      "party_label": "Independent Member",
+      "party_provenance": "profile_current",
+      "region_name": null,
+      "seat_gss_code": "W09000011",
+      "seat_name": "Montgomeryshire",
+      "senedd_term": 4,
+      "source_url": "https://senedd.wales/people/Russell-George-MS/",
+      "start_date": "2011-05-06"
+    },
+    {
+      "end_date": "2021-04-28",
+      "is_regional_member": false,
+      "party_id": "independent",
+      "party_label": "Independent Member",
+      "party_provenance": "profile_current",
+      "region_name": null,
+      "seat_gss_code": "W09000011",
+      "seat_name": "Montgomeryshire",
+      "senedd_term": 5,
+      "source_url": "https://senedd.wales/people/Russell-George-MS/",
+      "start_date": "2016-05-06"
+    },
+    {
+      "end_date": "2026-04-07",
+      "is_regional_member": false,
+      "party_id": "independent",
+      "party_label": "Independent Member",
+      "party_provenance": "profile_current",
+      "region_name": null,
+      "seat_gss_code": "W09000011",
+      "seat_name": "Montgomeryshire",
+      "senedd_term": 6,
+      "source_url": "https://senedd.wales/people/Russell-George-MS/",
+      "start_date": "2021-05-08"
+    }
+  ]
+}

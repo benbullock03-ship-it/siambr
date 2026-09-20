@@ -1,26 +1,46 @@
 <script lang="ts">
+	import { browser } from '$app/environment';
 	import { goto } from '$app/navigation';
 	import { page } from '$app/state';
-	import { dossier as fetchDossier } from '$lib/api/client';
-	import type { DossierPlate as Dossier, SessionSummary } from '$lib/api/types';
+	import { dossierFor, type Dossier } from '$lib/data/dossier';
+	import { loadSittingForItem } from '$lib/data/loaders';
+	import { DERIVED_NOTICE } from '$lib/data/provenance';
+	import type { SittingSummary } from '$lib/data/types';
 	import DossierPlate from '$lib/hud/DossierPlate.svelte';
-	import { itemTypeLabel, SENEDD_TERMS } from '$lib/register/labels';
+	import { itemTypeLabel, parseFilters, SENEDD_TERMS } from '$lib/register/labels';
 
 	let { data } = $props();
 
-	const itemId = $derived(page.url.searchParams.get('item'));
+	// Filters live in the URL and apply in the browser: the page is prerendered once for every query.
+	const params = $derived(browser ? page.url.searchParams : new URLSearchParams());
+	const filters = $derived(parseFilters(params));
+	const itemId = $derived(params.get('item'));
 	let openDossier = $state<Dossier | null>(null);
 	let dossierError = $state<string | null>(null);
 
-	const domainName = $derived(new Map(data.domains.map((d) => [d.id, d.name_en])));
+	const domainName = $derived(new Map(data.index.policy_domains.map((d) => [d.id, d.name_en])));
+
+	const filtered = $derived.by(() => {
+		const out: SittingSummary[] = [];
+		for (const s of data.sittings) {
+			if (filters.term !== null && s.term !== filters.term) continue;
+			const items = s.items.filter(
+				(i) =>
+					(!filters.domain || i.policy_domain_id === filters.domain) &&
+					(!filters.speaker || i.speaker_ids.includes(filters.speaker))
+			);
+			if (items.length || (!filters.domain && !filters.speaker)) out.push({ ...s, items });
+		}
+		return out;
+	});
 
 	const byTerm = $derived.by(() => {
-		const terms = new Map<number, SessionSummary[]>();
-		for (const s of [...data.sessions].sort((a, b) => b.session_date.localeCompare(a.session_date))) {
-			terms.set(s.senedd_term, [...(terms.get(s.senedd_term) ?? []), s]);
-		}
+		const terms = new Map<number, SittingSummary[]>();
+		for (const s of filtered) terms.set(s.term, [...(terms.get(s.term) ?? []), s]);
 		return [...terms.entries()].sort(([a], [b]) => b - a);
 	});
+
+	const termLabel = $derived(new Map(data.index.terms.map((t) => [t.term, t.label_en])));
 
 	$effect(() => {
 		const id = itemId;
@@ -28,8 +48,13 @@
 		dossierError = null;
 		if (!id) return;
 		let live = true;
-		fetchDossier(fetch, id)
-			.then((d) => live && (openDossier = d))
+		loadSittingForItem(fetch, data.sittings, id)
+			.then((sitting) => {
+				if (!live) return;
+				const d = sitting && dossierFor(sitting, id);
+				if (d) openDossier = d;
+				else dossierError = 'This agenda item is not on record.';
+			})
 			.catch(() => live && (dossierError = 'This agenda item could not be loaded.'));
 		return () => {
 			live = false;
@@ -37,9 +62,9 @@
 	});
 
 	function itemHref(id: string) {
-		const params = new URLSearchParams(page.url.searchParams);
-		params.set('item', id);
-		return `?${params}`;
+		const next = new URLSearchParams(params);
+		next.set('item', id);
+		return `?${next}`;
 	}
 
 	const itemLinkId = (id: string) => `item-link-${id}`;
@@ -61,27 +86,33 @@
 <main id="main">
 	<p class="kicker">Siambr · Civic Register</p>
 	<h1>Plenary Register</h1>
-	<p class="small">Item types and policy domains grouped by Siambr engine — speeches verbatim.</p>
-	<p class="lede">Plenary sessions of Senedd Cymru, newest first. Every speech is quoted from the Record of Proceedings.</p>
+	<p class="small">{DERIVED_NOTICE.topic}</p>
+	<p class="lede">Plenary sittings of Senedd Cymru, newest first. Every speech is quoted from the Record of Proceedings.</p>
+	{#if data.index.generated_at}
+		<p class="small currency">
+			Latest record published by the Senedd at
+			<time data-numeric datetime={data.index.generated_at}>{data.index.generated_at.replace('T', ' ')}</time>.
+		</p>
+	{/if}
 
-	<form method="GET" class="filters" data-sveltekit-keepfocus>
+	<form method="GET" class="filters" data-sveltekit-keepfocus data-sveltekit-noscroll>
 		<div class="field">
 			<label for="f-term">Term</label>
-			<select id="f-term" name="term" value={data.filters.term ?? ''}>
+			<select id="f-term" name="term" value={filters.term ?? ''}>
 				<option value="">All terms</option>
-				{#each SENEDD_TERMS as t (t)}<option value={String(t)}>Term {t}</option>{/each}
+				{#each SENEDD_TERMS as t (t)}<option value={String(t)}>{termLabel.get(t) ?? `Term ${t}`}</option>{/each}
 			</select>
 		</div>
 		<div class="field">
 			<label for="f-domain">Policy domain</label>
-			<select id="f-domain" name="domain" value={data.filters.domain ?? ''}>
+			<select id="f-domain" name="domain" value={filters.domain ?? ''}>
 				<option value="">All domains</option>
-				{#each data.domains as d (d.id)}<option value={d.id}>{d.name_en}</option>{/each}
+				{#each data.index.policy_domains as d (d.id)}<option value={d.id}>{d.name_en}</option>{/each}
 			</select>
 		</div>
 		<div class="field">
 			<label for="f-speaker">Speaker</label>
-			<select id="f-speaker" name="speaker" value={data.filters.speaker ?? ''}>
+			<select id="f-speaker" name="speaker" value={filters.speaker ?? ''}>
 				<option value="">All Members</option>
 				{#each data.members as m (m.id)}<option value={m.id}>{m.canonical_name}</option>{/each}
 			</select>
@@ -93,22 +124,25 @@
 	</form>
 
 	{#if byTerm.length === 0}
-		<p class="empty">No plenary sessions on record for these filters.</p>
+		<p class="empty">No plenary sittings on record for these filters.</p>
 	{/if}
 
-	{#each byTerm as [term, termSessions] (term)}
+	{#each byTerm as [term, termSittings] (term)}
 		<section aria-labelledby="term-{term}">
-			<h2 id="term-{term}">Term <span data-numeric>{term}</span></h2>
-			{#each termSessions as session (session.id)}
-				<article class="session" aria-labelledby="session-{session.id}">
+			<h2 id="term-{term}">{termLabel.get(term) ?? `Term ${term}`}</h2>
+			{#each termSittings as sitting (sitting.id)}
+				<article class="session" aria-labelledby="session-{sitting.id}">
 					<header class="session-head">
-						<h3 id="session-{session.id}"><time datetime={session.session_date}>{session.session_date}</time> · {session.title_en}</h3>
-						<a class="small" href={session.source_xml_url} rel="external">Record of Proceedings</a>
+						<h3 id="session-{sitting.id}"><time datetime={sitting.date}>{sitting.date}</time> · {sitting.title_en}</h3>
+						<p class="small links">
+							<a href="/sitting/{sitting.date}">Watch it play</a>
+							<a href={sitting.source_xml_url} rel="external">Record of Proceedings</a>
+						</p>
 					</header>
 					<ol class="items">
-						{#each session.items as item (item.id)}
+						{#each sitting.items as item (item.id)}
 							<li>
-								<span class="order small" data-numeric>{item.item_order + 1}</span>
+								<span class="order small" data-numeric>{item.order + 1}</span>
 								<div class="item-body">
 									<a
 										id={itemLinkId(item.id)}
@@ -116,7 +150,7 @@
 										data-sveltekit-noscroll
 										data-sveltekit-keepfocus
 									>{item.title_en}</a>
-									<span class="small meta">{itemTypeLabel(item.item_type)} · {domainName.get(item.policy_domain_id) ?? item.policy_domain_id}</span>
+									<span class="small meta">{itemTypeLabel(item.type)} · {domainName.get(item.policy_domain_id) ?? item.policy_domain_id}</span>
 								</div>
 							</li>
 						{/each}
@@ -144,6 +178,10 @@
 
 	.lede {
 		max-width: 60ch;
+	}
+
+	.currency {
+		color: var(--color-body-text);
 	}
 
 	.filters {
@@ -200,8 +238,14 @@
 		border-bottom: 1px solid var(--color-rule-strong);
 	}
 
-	.session-head h3 {
+	.session-head h3,
+	.links {
 		margin: 0;
+	}
+
+	.links {
+		display: flex;
+		gap: 1rem;
 	}
 
 	.items {

@@ -1,0 +1,47 @@
+{
+  "ballots": [],
+  "canonical_name": "Alun Michael",
+  "constituency_name_cy": "",
+  "constituency_name_en": "",
+  "contribution_count": 0,
+  "contributions_by_date": [],
+  "current_status": "former",
+  "cymraeg_name": null,
+  "gss_constituency_code": null,
+  "honorific": null,
+  "id": "ms-alun-michael",
+  "is_regional_member": true,
+  "official_profile_url": "https://senedd.wales/people/Alun-Michael/",
+  "party_id": "labour",
+  "portrait_url": "https://business.senedd.wales/UserData/7/5/5/Info00004557/bigpic.jpg",
+  "region_name": "Mid and West Wales",
+  "role_title_cy": null,
+  "role_title_en": null,
+  "roles": [
+    {
+      "cabinet_level": "first_minister",
+      "end_date": "2000-02-09",
+      "provenance": "curated_reference",
+      "source_url": "https://senedd.wales/archive/first-assembly-1999-2003/",
+      "start_date": "1999-05-12",
+      "start_date_precision": "exact",
+      "title_cy": "Prif Ysgrifennydd Cynulliad Cenedlaethol Cymru",
+      "title_en": "First Secretary of the National Assembly for Wales"
+    }
+  ],
+  "tenures": [
+    {
+      "end_date": null,
+      "is_regional_member": true,
+      "party_id": "labour",
+      "party_label": "Labour",
+      "party_provenance": "curated_reference",
+      "region_name": "Mid and West Wales",
+      "seat_gss_code": null,
+      "seat_name": "Mid and West Wales",
+      "senedd_term": 1,
+      "source_url": "https://web.archive.org/web/2026/http://news.bbc.co.uk/hi/english/static/vote_99/wales_99/html/region/2.stm",
+      "start_date": "1999-05-06"
+    }
+  ]
+}

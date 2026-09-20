@@ -1,0 +1,36 @@
+{
+  "ballots": [],
+  "canonical_name": "Nathan Gill",
+  "constituency_name_cy": "Gogledd Cymru",
+  "constituency_name_en": "North Wales",
+  "contribution_count": 0,
+  "contributions_by_date": [],
+  "current_status": "former",
+  "cymraeg_name": null,
+  "gss_constituency_code": null,
+  "honorific": null,
+  "id": "ms-nathan-gill",
+  "is_regional_member": true,
+  "official_profile_url": "https://senedd.wales/people/Nathan-Gill/",
+  "party_id": "other",
+  "portrait_url": "https://business.senedd.wales/UserData/3/3/4/Info00000433/bigpic.jpg",
+  "region_name": "North Wales",
+  "role_title_cy": null,
+  "role_title_en": null,
+  "roles": [],
+  "tenures": [
+    {
+      "end_date": null,
+      "is_regional_member": true,
+      "party_id": "other",
+      "party_label": null,
+      "party_provenance": "profile_current",
+      "region_name": "North Wales",
+      "seat_gss_code": null,
+      "seat_name": "North Wales",
+      "senedd_term": 5,
+      "source_url": "https://senedd.wales/archive/fifth-senedd-2016-2021/elected-members-fifth-senedd-2016-2021/",
+      "start_date": "2016-05-05"
+    }
+  ]
+}

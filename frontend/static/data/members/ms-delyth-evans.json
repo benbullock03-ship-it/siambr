@@ -1,0 +1,36 @@
+{
+  "ballots": [],
+  "canonical_name": "Delyth Evans",
+  "constituency_name_cy": "",
+  "constituency_name_en": "",
+  "contribution_count": 0,
+  "contributions_by_date": [],
+  "current_status": "former",
+  "cymraeg_name": null,
+  "gss_constituency_code": null,
+  "honorific": null,
+  "id": "ms-delyth-evans",
+  "is_regional_member": true,
+  "official_profile_url": "https://senedd.wales/people/Delyth-Evans/",
+  "party_id": "labour",
+  "portrait_url": "https://business.senedd.wales/UserData/8/5/5/Info00004558/bigpic.jpg",
+  "region_name": "Mid and West Wales",
+  "role_title_cy": null,
+  "role_title_en": null,
+  "roles": [],
+  "tenures": [
+    {
+      "end_date": "2003-05-01",
+      "is_regional_member": true,
+      "party_id": "labour",
+      "party_label": "Labour",
+      "party_provenance": "curated_reference",
+      "region_name": "Mid and West Wales",
+      "seat_gss_code": null,
+      "seat_name": "Mid and West Wales",
+      "senedd_term": 1,
+      "source_url": "https://web.archive.org/web/2026/http://news.bbc.co.uk/hi/english/static/uk/wales/13128.stm",
+      "start_date": "2000-05-01"
+    }
+  ]
+}

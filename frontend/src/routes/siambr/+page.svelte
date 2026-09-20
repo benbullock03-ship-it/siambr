@@ -1,14 +1,16 @@
 <script lang="ts">
+	import { browser } from '$app/environment';
 	import { goto } from '$app/navigation';
 	import { page } from '$app/state';
 	import { onMount, untrack } from 'svelte';
-	import { dossier as fetchDossier, memberRecord } from '$lib/api/client';
-	import type { DossierPlate as Dossier, MemberRecord } from '$lib/api/types';
 	import { decideMode, probeDevice } from '$lib/3d/capability';
 	import { buildDesks, chamberColliders, chamberWallSegments, CHAMBER, spawnPoint, walkRadius, type Collider } from '$lib/3d/chamber/layout';
 	import { assignSeats, llywyddDesk, llywyddOf, SEATING_PROVENANCE, type SeatAssignment } from '$lib/3d/chamber/seating';
 	import { Player } from '$lib/3d/controls/player.svelte';
 	import { SiambrState } from '$lib/3d/state.svelte';
+	import { dossierFor, type Dossier } from '$lib/data/dossier';
+	import { loadMember, loadSittingForItem } from '$lib/data/loaders';
+	import type { MemberFile } from '$lib/data/types';
 	import DossierPlate from '$lib/hud/DossierPlate.svelte';
 	import MemberPlate from '$lib/hud/MemberPlate.svelte';
 	import SiambrHud from '$lib/hud/SiambrHud.svelte';
@@ -42,10 +44,11 @@
 	let Scene = $state<SceneModule['default']>();
 	let renderer = $state<'webgpu' | 'webgl2' | null>(null);
 
-	const memberId = $derived(page.url.searchParams.get('member'));
-	let record = $state<MemberRecord | null>(null);
+	const params = $derived(browser ? page.url.searchParams : new URLSearchParams());
+	const memberId = $derived(params.get('member'));
+	let record = $state<MemberFile | null>(null);
 	let recordError = $state<string | null>(null);
-	const itemId = $derived(page.url.searchParams.get('item'));
+	const itemId = $derived(params.get('item'));
 	let dossier = $state<Dossier | null>(null);
 	let dossierError = $state<string | null>(null);
 	const paused = $derived(record !== null || recordError !== null || dossier !== null || dossierError !== null);
@@ -75,14 +78,20 @@
 		url.searchParams.set('member', seat.member.id);
 		goto(url, { noScroll: true, keepFocus: true });
 	};
+
 	$effect(() => {
 		const id = itemId;
 		dossier = null;
 		dossierError = null;
 		if (!id) return;
 		let live = true;
-		fetchDossier(fetch, id)
-			.then((d) => live && (dossier = d))
+		loadSittingForItem(fetch, data.sittings, id)
+			.then((sitting) => {
+				if (!live) return;
+				const d = sitting && dossierFor(sitting, id);
+				if (d) dossier = d;
+				else dossierError = 'This debate is not on record.';
+			})
 			.catch(() => live && (dossierError = 'This debate could not be loaded.'));
 		return () => {
 			live = false;
@@ -101,7 +110,7 @@
 		recordError = null;
 		if (!id) return;
 		let live = true;
-		memberRecord(fetch, id)
+		loadMember(fetch, id)
 			.then((r) => live && (record = r))
 			.catch(() => live && (recordError = 'This Member’s record could not be loaded.'));
 		return () => {

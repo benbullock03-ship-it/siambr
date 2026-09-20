@@ -1,0 +1,60 @@
+{
+  "ballots": [],
+  "canonical_name": "Eluned Morgan",
+  "constituency_name_cy": "Canolbarth a Gorllewin Cymru",
+  "constituency_name_en": "Mid and West Wales",
+  "contribution_count": 0,
+  "contributions_by_date": [],
+  "current_status": "former",
+  "cymraeg_name": null,
+  "gss_constituency_code": null,
+  "honorific": null,
+  "id": "ms-eluned-morgan",
+  "is_regional_member": true,
+  "official_profile_url": "https://senedd.wales/people/Eluned-Morgan-MS/",
+  "party_id": "labour",
+  "portrait_url": "https://business.senedd.wales/UserData/0/7/9/Info00004970/bigpic.jpg",
+  "region_name": "Mid and West Wales",
+  "role_title_cy": null,
+  "role_title_en": null,
+  "roles": [
+    {
+      "cabinet_level": "first_minister",
+      "end_date": "2026-05-12",
+      "provenance": "curated_reference",
+      "source_url": "https://senedd.wales/archive/sixth-senedd-2021-2026/",
+      "start_date": "2024-08-06",
+      "start_date_precision": "exact",
+      "title_cy": "Prif Weinidog Cymru",
+      "title_en": "First Minister of Wales"
+    }
+  ],
+  "tenures": [
+    {
+      "end_date": "2021-04-28",
+      "is_regional_member": true,
+      "party_id": "labour",
+      "party_label": "Welsh Labour",
+      "party_provenance": "profile_current",
+      "region_name": "Mid and West Wales",
+      "seat_gss_code": null,
+      "seat_name": "Mid and West Wales",
+      "senedd_term": 5,
+      "source_url": "https://senedd.wales/people/Eluned-Morgan-MS/",
+      "start_date": "2016-05-06"
+    },
+    {
+      "end_date": "2026-04-07",
+      "is_regional_member": true,
+      "party_id": "labour",
+      "party_label": "Welsh Labour",
+      "party_provenance": "profile_current",
+      "region_name": "Mid and West Wales",
+      "seat_gss_code": null,
+      "seat_name": "Mid and West Wales",
+      "senedd_term": 6,
+      "source_url": "https://senedd.wales/people/Eluned-Morgan-MS/",
+      "start_date": "2021-05-08"
+    }
+  ]
+}

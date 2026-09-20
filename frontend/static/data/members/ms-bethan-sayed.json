@@ -1,0 +1,36 @@
+{
+  "ballots": [],
+  "canonical_name": "Bethan Sayed",
+  "constituency_name_cy": "Gorllewin De Cymru",
+  "constituency_name_en": "South Wales West",
+  "contribution_count": 0,
+  "contributions_by_date": [],
+  "current_status": "former",
+  "cymraeg_name": null,
+  "gss_constituency_code": null,
+  "honorific": null,
+  "id": "ms-bethan-sayed",
+  "is_regional_member": true,
+  "official_profile_url": "https://senedd.wales/people/Bethan-Sayed-MS/",
+  "party_id": "plaid_cymru",
+  "portrait_url": "https://business.senedd.wales/UserData/9/5/1/Info00000159/bigpic.jpg",
+  "region_name": "South Wales West",
+  "role_title_cy": null,
+  "role_title_en": null,
+  "roles": [],
+  "tenures": [
+    {
+      "end_date": null,
+      "is_regional_member": true,
+      "party_id": "plaid_cymru",
+      "party_label": "Plaid Cymru",
+      "party_provenance": "profile_current",
+      "region_name": "South Wales West",
+      "seat_gss_code": null,
+      "seat_name": "South Wales West",
+      "senedd_term": 3,
+      "source_url": "https://senedd.wales/archive/third-assembly-2007-2011/elected-members-third-assembly/",
+      "start_date": "2007-05-03"
+    }
+  ]
+}

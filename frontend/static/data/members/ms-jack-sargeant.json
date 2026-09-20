@@ -1,0 +1,49 @@
+{
+  "ballots": [],
+  "canonical_name": "Jack Sargeant",
+  "constituency_name_cy": "Alun a Glannau Dyfrdwy",
+  "constituency_name_en": "Alyn and Deeside",
+  "contribution_count": 0,
+  "contributions_by_date": [],
+  "current_status": "former",
+  "cymraeg_name": null,
+  "gss_constituency_code": "W09000007",
+  "honorific": null,
+  "id": "ms-jack-sargeant",
+  "is_regional_member": false,
+  "official_profile_url": "https://senedd.wales/people/Jack-Sargeant-MS/",
+  "party_id": "labour",
+  "portrait_url": "https://business.senedd.wales/UserData/1/7/5/Info00006571/bigpic.jpg",
+  "region_name": null,
+  "role_title_cy": null,
+  "role_title_en": null,
+  "roles": [],
+  "tenures": [
+    {
+      "end_date": "2021-04-28",
+      "is_regional_member": false,
+      "party_id": "labour",
+      "party_label": "Welsh Labour",
+      "party_provenance": "profile_current",
+      "region_name": null,
+      "seat_gss_code": "W09000007",
+      "seat_name": "Alyn and Deeside",
+      "senedd_term": 5,
+      "source_url": "https://senedd.wales/people/Jack-Sargeant-MS/",
+      "start_date": "2018-02-07"
+    },
+    {
+      "end_date": "2026-04-07",
+      "is_regional_member": false,
+      "party_id": "labour",
+      "party_label": "Welsh Labour",
+      "party_provenance": "profile_current",
+      "region_name": null,
+      "seat_gss_code": "W09000007",
+      "seat_name": "Alyn and Deeside",
+      "senedd_term": 6,
+      "source_url": "https://senedd.wales/people/Jack-Sargeant-MS/",
+      "start_date": "2021-05-08"
+    }
+  ]
+}

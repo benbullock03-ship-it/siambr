@@ -1,61 +1,61 @@
 <script lang="ts">
-	import type { DossierPlate } from '$lib/api/types';
+	import type { Dossier } from '$lib/data/dossier';
+	import { DERIVED_NOTICE } from '$lib/data/provenance';
 	import { broadcastLink } from '$lib/dossier/broadcast';
 	import DivisionPlate from './DivisionPlate.svelte';
 	import Drawer from './Drawer.svelte';
 	import SpeechStack from './SpeechStack.svelte';
 
-	let { dossier, onclose }: { dossier: DossierPlate; onclose: () => void } = $props();
+	let { dossier, onclose }: { dossier: Dossier; onclose: () => void } = $props();
 
-	const titleId = $derived(`dossier-${dossier.id}-title`);
+	const titleId = $derived(`dossier-${dossier.item.id}-title`);
 	const itemBroadcast = $derived.by(() => {
-		const starts = dossier.contributions.flatMap((c) => c.video_timestamp_start ?? []);
-		return broadcastLink(dossier.senedd_tv_clip_url, starts.length ? Math.min(...starts) : null);
+		const starts = dossier.contributions.flatMap((c) => c.t_start ?? []);
+		return broadcastLink(dossier.item.clip_url, starts.length ? Math.min(...starts) : null);
+	});
+	const stageHref = $derived.by(() => {
+		const starts = dossier.contributions.flatMap((c) => c.t_start ?? []);
+		const t = starts.length ? Math.min(...starts) : null;
+		return `/sitting/${dossier.sitting.date}${t === null ? `?item=${encodeURIComponent(dossier.item.id)}` : `?t=${t}`}`;
 	});
 </script>
 
 <Drawer {titleId} {onclose} closeLabel="Close dossier">
 	<header class="head">
-		<p class="kicker">Dossier Plate · <time datetime={dossier.session_date}>{dossier.session_date}</time></p>
-		<h2 id={titleId}>{dossier.title_en}</h2>
-		<p class="title-cy" lang="cy">{dossier.title_cy}</p>
+		<p class="kicker">Dossier Plate · <time datetime={dossier.sitting.date}>{dossier.sitting.date}</time></p>
+		<h2 id={titleId}>{dossier.item.title_en}</h2>
+		<p class="title-cy" lang="cy">{dossier.item.title_cy}</p>
+		<p class="small provenance">{DERIVED_NOTICE.topic}</p>
 	</header>
 
-	{#if itemBroadcast}
-		<section class="seam" aria-label="Senedd TV broadcast">
+	<section class="seam" aria-label="Where to watch">
+		{#if itemBroadcast}
 			<a class="button-primary watch" href={itemBroadcast} rel="external">Watch on Senedd TV</a>
-		</section>
-	{/if}
-
-	{#if dossier.petitions.length}
-		<section class="petitions" aria-labelledby="{titleId}-petitions">
-			<h3 id="{titleId}-petitions">Linked petitions</h3>
-			<ul>
-				{#each dossier.petitions as p (p.id)}
-					<li>
-						<a href={p.source_url} rel="external">{p.title_en}</a>
-						<span class="small"><span data-numeric>{p.signature_count.toLocaleString('en-GB')}</span> signatures</span>
-					</li>
-				{/each}
-			</ul>
-		</section>
-	{/if}
+		{/if}
+		<a class="stage" href={stageHref}>Watch it play in the chamber</a>
+	</section>
 
 	<section aria-labelledby="{titleId}-record">
 		<h3 id="{titleId}-record" class="kicker">Verbatim Official Record</h3>
+		{#if dossier.sitting.record_published_at}
+			<p class="small published">
+				Record published by the Senedd at
+				<time data-numeric datetime={dossier.sitting.record_published_at}>{dossier.sitting.record_published_at.replace('T', ' ')}</time>.
+			</p>
+		{/if}
 		{#if dossier.contributions.length}
-			<SpeechStack speeches={dossier.contributions} clipUrl={dossier.senedd_tv_clip_url} />
+			<SpeechStack speeches={dossier.contributions} speakers={dossier.speakers} />
 		{:else}
 			<p>No contributions on record for this item.</p>
 		{/if}
 	</section>
 
 	{#each dossier.divisions as division (division.id)}
-		<DivisionPlate {division} />
+		<DivisionPlate {division} speakers={dossier.speakers} />
 	{/each}
 
 	<footer class="citation small">
-		Source: <a href={dossier.source_xml_url} rel="external">Official Record of Proceedings</a>
+		Source: <a href={dossier.sitting.source_xml_url} rel="external">Official Record of Proceedings</a>
 	</footer>
 </Drawer>
 
@@ -70,7 +70,16 @@
 		color: var(--color-body-text);
 	}
 
+	.provenance {
+		margin: 0.5rem 0 0;
+		color: var(--color-muted);
+	}
+
 	.seam {
+		display: flex;
+		flex-wrap: wrap;
+		align-items: center;
+		gap: 1rem;
 		margin: 1.25rem 0;
 	}
 
@@ -80,12 +89,7 @@
 		text-decoration: none;
 	}
 
-	.petitions ul {
-		padding-left: 1.1rem;
-	}
-
-	.petitions li span {
-		margin-left: 0.5rem;
+	.published {
 		color: var(--color-body-text);
 	}
 

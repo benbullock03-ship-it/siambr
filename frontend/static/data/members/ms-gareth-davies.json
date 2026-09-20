@@ -1,0 +1,36 @@
+{
+  "ballots": [],
+  "canonical_name": "Gareth Davies",
+  "constituency_name_cy": "Dyffryn Clwyd",
+  "constituency_name_en": "Vale of Clwyd",
+  "contribution_count": 0,
+  "contributions_by_date": [],
+  "current_status": "former",
+  "cymraeg_name": null,
+  "gss_constituency_code": "W09000005",
+  "honorific": null,
+  "id": "ms-gareth-davies",
+  "is_regional_member": false,
+  "official_profile_url": "https://senedd.wales/people/Gareth-Davies-MS/",
+  "party_id": "conservatives",
+  "portrait_url": "https://business.senedd.wales/UserData/1/7/5/Info00008571/bigpic.jpg",
+  "region_name": null,
+  "role_title_cy": null,
+  "role_title_en": null,
+  "roles": [],
+  "tenures": [
+    {
+      "end_date": "2026-04-07",
+      "is_regional_member": false,
+      "party_id": "conservatives",
+      "party_label": "Welsh Conservative Party",
+      "party_provenance": "profile_current",
+      "region_name": null,
+      "seat_gss_code": "W09000005",
+      "seat_name": "Vale of Clwyd",
+      "senedd_term": 6,
+      "source_url": "https://senedd.wales/people/Gareth-Davies-MS/",
+      "start_date": "2021-05-08"
+    }
+  ]
+}

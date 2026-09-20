@@ -1,5 +1,5 @@
 <script lang="ts">
-	import type { MemberSummary, ParliamentaryTerm } from '$lib/api/types';
+	import type { MemberLight as MemberSummary, TermFile as ParliamentaryTerm } from '$lib/data/types';
 	import { SEATING_NOTICE } from '$lib/3d/chamber/seating';
 	import type { SiambrState } from '$lib/3d/state.svelte';
 	import { partyColor, partyLabel } from '$lib/dossier/parties';

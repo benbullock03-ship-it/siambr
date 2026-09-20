@@ -1,0 +1,62 @@
+{
+  "ballots": [],
+  "canonical_name": "David Rees",
+  "constituency_name_cy": "Aberafan",
+  "constituency_name_en": "Aberavon",
+  "contribution_count": 0,
+  "contributions_by_date": [],
+  "current_status": "former",
+  "cymraeg_name": null,
+  "gss_constituency_code": "W09000022",
+  "honorific": null,
+  "id": "ms-david-rees",
+  "is_regional_member": false,
+  "official_profile_url": "https://senedd.wales/people/David-Rees-MS/",
+  "party_id": "labour",
+  "portrait_url": "https://business.senedd.wales/UserData/5/0/2/Info00000205/bigpic.jpg",
+  "region_name": null,
+  "role_title_cy": null,
+  "role_title_en": null,
+  "roles": [],
+  "tenures": [
+    {
+      "end_date": "2016-04-05",
+      "is_regional_member": false,
+      "party_id": "labour",
+      "party_label": "Welsh Labour",
+      "party_provenance": "profile_current",
+      "region_name": null,
+      "seat_gss_code": "W09000022",
+      "seat_name": "Aberavon",
+      "senedd_term": 4,
+      "source_url": "https://senedd.wales/people/David-Rees-MS/",
+      "start_date": "2011-05-06"
+    },
+    {
+      "end_date": "2021-04-28",
+      "is_regional_member": false,
+      "party_id": "labour",
+      "party_label": "Welsh Labour",
+      "party_provenance": "profile_current",
+      "region_name": null,
+      "seat_gss_code": "W09000022",
+      "seat_name": "Aberavon",
+      "senedd_term": 5,
+      "source_url": "https://senedd.wales/people/David-Rees-MS/",
+      "start_date": "2016-05-06"
+    },
+    {
+      "end_date": "2026-04-07",
+      "is_regional_member": false,
+      "party_id": "labour",
+      "party_label": "Welsh Labour",
+      "party_provenance": "profile_current",
+      "region_name": null,
+      "seat_gss_code": "W09000022",
+      "seat_name": "Aberavon",
+      "senedd_term": 6,
+      "source_url": "https://senedd.wales/people/David-Rees-MS/",
+      "start_date": "2021-05-08"
+    }
+  ]
+}

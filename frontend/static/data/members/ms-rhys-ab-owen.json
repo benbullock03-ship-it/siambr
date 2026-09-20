@@ -1,0 +1,36 @@
+{
+  "ballots": [],
+  "canonical_name": "Rhys ab Owen",
+  "constituency_name_cy": "Canol De Cymru",
+  "constituency_name_en": "South Wales Central",
+  "contribution_count": 0,
+  "contributions_by_date": [],
+  "current_status": "former",
+  "cymraeg_name": null,
+  "gss_constituency_code": null,
+  "honorific": null,
+  "id": "ms-rhys-ab-owen",
+  "is_regional_member": true,
+  "official_profile_url": "https://senedd.wales/people/Rhys-ab-Owen-MS/",
+  "party_id": "independent",
+  "portrait_url": "https://business.senedd.wales/UserData/5/2/6/Info00008625/bigpic.jpg",
+  "region_name": "South Wales Central",
+  "role_title_cy": null,
+  "role_title_en": null,
+  "roles": [],
+  "tenures": [
+    {
+      "end_date": "2026-04-07",
+      "is_regional_member": true,
+      "party_id": "independent",
+      "party_label": "Independent Member",
+      "party_provenance": "profile_current",
+      "region_name": "South Wales Central",
+      "seat_gss_code": null,
+      "seat_name": "South Wales Central",
+      "senedd_term": 6,
+      "source_url": "https://senedd.wales/people/Rhys-ab-Owen-MS/",
+      "start_date": "2021-05-08"
+    }
+  ]
+}

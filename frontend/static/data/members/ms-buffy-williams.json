@@ -1,0 +1,36 @@
+{
+  "ballots": [],
+  "canonical_name": "Buffy Williams",
+  "constituency_name_cy": "Rhondda",
+  "constituency_name_en": "Rhondda",
+  "contribution_count": 0,
+  "contributions_by_date": [],
+  "current_status": "former",
+  "cymraeg_name": null,
+  "gss_constituency_code": "W09000025",
+  "honorific": null,
+  "id": "ms-buffy-williams",
+  "is_regional_member": false,
+  "official_profile_url": "https://senedd.wales/people/Buffy-Williams-MS/",
+  "party_id": "labour",
+  "portrait_url": "https://business.senedd.wales/UserData/5/9/6/Info00008695/bigpic.jpg",
+  "region_name": null,
+  "role_title_cy": null,
+  "role_title_en": null,
+  "roles": [],
+  "tenures": [
+    {
+      "end_date": "2026-04-07",
+      "is_regional_member": false,
+      "party_id": "labour",
+      "party_label": "Welsh Labour",
+      "party_provenance": "profile_current",
+      "region_name": null,
+      "seat_gss_code": "W09000025",
+      "seat_name": "Rhondda",
+      "senedd_term": 6,
+      "source_url": "https://senedd.wales/people/Buffy-Williams-MS/",
+      "start_date": "2021-05-08"
+    }
+  ]
+}

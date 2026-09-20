@@ -1,0 +1,36 @@
+{
+  "ballots": [],
+  "canonical_name": "Neil Hamilton",
+  "constituency_name_cy": "Canolbarth a Gorllewin Cymru",
+  "constituency_name_en": "Mid and West Wales",
+  "contribution_count": 0,
+  "contributions_by_date": [],
+  "current_status": "former",
+  "cymraeg_name": null,
+  "gss_constituency_code": null,
+  "honorific": null,
+  "id": "ms-neil-hamilton",
+  "is_regional_member": true,
+  "official_profile_url": "https://senedd.wales/people/Neil-Hamilton-MS/",
+  "party_id": "other",
+  "portrait_url": "https://business.senedd.wales/UserData/8/4/0/Info00005048/bigpic.jpg",
+  "region_name": "Mid and West Wales",
+  "role_title_cy": null,
+  "role_title_en": null,
+  "roles": [],
+  "tenures": [
+    {
+      "end_date": "2021-04-28",
+      "is_regional_member": true,
+      "party_id": "other",
+      "party_label": null,
+      "party_provenance": "profile_current",
+      "region_name": "Mid and West Wales",
+      "seat_gss_code": null,
+      "seat_name": "Mid and West Wales",
+      "senedd_term": 5,
+      "source_url": "https://senedd.wales/people/Neil-Hamilton-MS/",
+      "start_date": "2016-06-05"
+    }
+  ]
+}

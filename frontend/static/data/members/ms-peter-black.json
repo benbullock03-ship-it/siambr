@@ -1,0 +1,36 @@
+{
+  "ballots": [],
+  "canonical_name": "Peter Black",
+  "constituency_name_cy": "Gorllewin De Cymru",
+  "constituency_name_en": "South Wales West",
+  "contribution_count": 0,
+  "contributions_by_date": [],
+  "current_status": "former",
+  "cymraeg_name": null,
+  "gss_constituency_code": null,
+  "honorific": null,
+  "id": "ms-peter-black",
+  "is_regional_member": true,
+  "official_profile_url": "https://senedd.wales/people/Peter-Black/",
+  "party_id": "other",
+  "portrait_url": "https://business.senedd.wales/UserData/3/3/1/Info00000133/bigpic.jpg",
+  "region_name": "South Wales West",
+  "role_title_cy": null,
+  "role_title_en": null,
+  "roles": [],
+  "tenures": [
+    {
+      "end_date": null,
+      "is_regional_member": true,
+      "party_id": "other",
+      "party_label": null,
+      "party_provenance": "profile_current",
+      "region_name": "South Wales West",
+      "seat_gss_code": null,
+      "seat_name": "South Wales West",
+      "senedd_term": 1,
+      "source_url": "https://senedd.wales/archive/first-assembly-1999-2003/elected-members-first-assembly/",
+      "start_date": "1999-05-06"
+    }
+  ]
+}

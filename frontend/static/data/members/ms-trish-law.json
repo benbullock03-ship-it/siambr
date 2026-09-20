@@ -1,0 +1,36 @@
+{
+  "ballots": [],
+  "canonical_name": "Trish Law",
+  "constituency_name_cy": "Blaenau Gwent",
+  "constituency_name_en": "Blaenau Gwent",
+  "contribution_count": 0,
+  "contributions_by_date": [],
+  "current_status": "former",
+  "cymraeg_name": null,
+  "gss_constituency_code": "W09000038",
+  "honorific": null,
+  "id": "ms-trish-law",
+  "is_regional_member": false,
+  "official_profile_url": "https://senedd.wales/people/Trish-Law/",
+  "party_id": "other",
+  "portrait_url": "https://business.senedd.wales/UserData/8/3/4/Info00004438/bigpic.jpg",
+  "region_name": null,
+  "role_title_cy": null,
+  "role_title_en": null,
+  "roles": [],
+  "tenures": [
+    {
+      "end_date": null,
+      "is_regional_member": false,
+      "party_id": "other",
+      "party_label": null,
+      "party_provenance": "profile_current",
+      "region_name": null,
+      "seat_gss_code": "W09000038",
+      "seat_name": "Blaenau Gwent",
+      "senedd_term": 2,
+      "source_url": "https://senedd.wales/archive/second-assembly-2003-2007/elected-members-second-assembly/",
+      "start_date": "2003-05-01"
+    }
+  ]
+}

@@ -1,3 +1,9 @@
+"""Siambr API: DEV ONLY. Serves data/siambr.db locally for inspection and debugging.
+
+Not deployed. The site is static (frontend/static/data, written by pipeline.export) and
+nothing in frontend/src may depend on these routes.
+"""
+
 from fastapi import FastAPI
 
 from backend.routes import domains, members, plenary, search, terms

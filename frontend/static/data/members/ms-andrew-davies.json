@@ -1,0 +1,49 @@
+{
+  "ballots": [],
+  "canonical_name": "Andrew Davies",
+  "constituency_name_cy": "Gorllewin Abertawe",
+  "constituency_name_en": "Swansea West",
+  "contribution_count": 0,
+  "contributions_by_date": [],
+  "current_status": "former",
+  "cymraeg_name": null,
+  "gss_constituency_code": "W09000019",
+  "honorific": null,
+  "id": "ms-andrew-davies",
+  "is_regional_member": false,
+  "official_profile_url": "https://senedd.wales/people/Andrew-Davies/",
+  "party_id": "other",
+  "portrait_url": "https://business.senedd.wales/UserData/9/1/1/Info00002119/bigpic.jpg",
+  "region_name": null,
+  "role_title_cy": null,
+  "role_title_en": null,
+  "roles": [],
+  "tenures": [
+    {
+      "end_date": "2003-04-30",
+      "is_regional_member": false,
+      "party_id": "other",
+      "party_label": null,
+      "party_provenance": "profile_current",
+      "region_name": null,
+      "seat_gss_code": "W09000019",
+      "seat_name": "Swansea West",
+      "senedd_term": 1,
+      "source_url": "https://senedd.wales/people/Andrew-Davies/",
+      "start_date": "1999-07-05"
+    },
+    {
+      "end_date": "2011-03-31",
+      "is_regional_member": false,
+      "party_id": "other",
+      "party_label": null,
+      "party_provenance": "profile_current",
+      "region_name": null,
+      "seat_gss_code": "W09000019",
+      "seat_name": "Swansea West",
+      "senedd_term": 2,
+      "source_url": "https://senedd.wales/people/Andrew-Davies/",
+      "start_date": "2007-04-05"
+    }
+  ]
+}

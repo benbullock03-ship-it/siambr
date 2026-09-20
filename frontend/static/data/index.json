@@ -1,0 +1,96 @@
+{
+  "current_term": 7,
+  "generated_at": "2026-09-19T06:13:10",
+  "latest_sitting": "2026-09-16",
+  "policy_domains": [
+    {
+      "id": "communities",
+      "name_cy": "Tai a Chyfiawnder Cymdeithasol",
+      "name_en": "Housing & Social Justice"
+    },
+    {
+      "id": "devolution",
+      "name_cy": "Y Cyfansoddiad a Materion Allanol",
+      "name_en": "Constitution & External Affairs"
+    },
+    {
+      "id": "economy",
+      "name_cy": "Yr Economi a Threth Cymru",
+      "name_en": "Economy & Welsh Tax"
+    },
+    {
+      "id": "education",
+      "name_cy": "Addysg a'r Gymraeg",
+      "name_en": "Education & Welsh Language"
+    },
+    {
+      "id": "health",
+      "name_cy": "Iechyd a Gofal Cymdeithasol",
+      "name_en": "Health & Social Care"
+    },
+    {
+      "id": "transport",
+      "name_cy": "Newid Hinsawdd a Thrafnidiaeth",
+      "name_en": "Climate Change & Transport"
+    }
+  ],
+  "sitting_count": 17,
+  "terms": [
+    {
+      "end_date": "2003-04-30",
+      "label_cy": "Y Cynulliad Cyntaf",
+      "label_en": "First Assembly",
+      "seat_count": 60,
+      "start_date": "1999-05-06",
+      "term": 1
+    },
+    {
+      "end_date": "2007-05-02",
+      "label_cy": "Yr Ail Gynulliad",
+      "label_en": "Second Assembly",
+      "seat_count": 60,
+      "start_date": "2003-05-01",
+      "term": 2
+    },
+    {
+      "end_date": "2011-05-04",
+      "label_cy": "Y Trydydd Cynulliad",
+      "label_en": "Third Assembly",
+      "seat_count": 60,
+      "start_date": "2007-05-03",
+      "term": 3
+    },
+    {
+      "end_date": "2016-05-04",
+      "label_cy": "Y Pedwerydd Cynulliad",
+      "label_en": "Fourth Assembly",
+      "seat_count": 60,
+      "start_date": "2011-05-05",
+      "term": 4
+    },
+    {
+      "end_date": "2021-05-05",
+      "label_cy": "Y Pumed Senedd",
+      "label_en": "Fifth Senedd",
+      "seat_count": 60,
+      "start_date": "2016-05-05",
+      "term": 5
+    },
+    {
+      "end_date": "2026-05-06",
+      "label_cy": "Y Chweched Senedd",
+      "label_en": "Sixth Senedd",
+      "seat_count": 60,
+      "start_date": "2021-05-06",
+      "term": 6
+    },
+    {
+      "end_date": null,
+      "label_cy": "Y Seithfed Senedd",
+      "label_en": "Seventh Senedd",
+      "seat_count": 96,
+      "start_date": "2026-05-07",
+      "term": 7
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "ballots": [],
+  "canonical_name": "Gareth Bennett",
+  "constituency_name_cy": "Canol De Cymru",
+  "constituency_name_en": "South Wales Central",
+  "contribution_count": 0,
+  "contributions_by_date": [],
+  "current_status": "former",
+  "cymraeg_name": null,
+  "gss_constituency_code": null,
+  "honorific": null,
+  "id": "ms-gareth-bennett",
+  "is_regional_member": true,
+  "official_profile_url": "https://senedd.wales/people/Gareth-Bennett-MS/",
+  "party_id": "other",
+  "portrait_url": "https://business.senedd.wales/UserData/0/4/0/Info00005040/bigpic.jpg",
+  "region_name": "South Wales Central",
+  "role_title_cy": null,
+  "role_title_en": null,
+  "roles": [],
+  "tenures": [
+    {
+      "end_date": "2021-04-28",
+      "is_regional_member": true,
+      "party_id": "other",
+      "party_label": null,
+      "party_provenance": "profile_current",
+      "region_name": "South Wales Central",
+      "seat_gss_code": null,
+      "seat_name": "South Wales Central",
+      "senedd_term": 5,
+      "source_url": "https://senedd.wales/people/Gareth-Bennett-MS/",
+      "start_date": "2016-06-05"
+    }
+  ]
+}

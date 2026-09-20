@@ -1,5 +1,3 @@
-import type { SessionFilters } from '$lib/api/client';
-
 const ITEM_TYPES: Record<string, string> = {
 	debate: 'Debate',
 	oral_questions: 'Questions',
@@ -11,6 +9,12 @@ const ITEM_TYPES: Record<string, string> = {
 export const itemTypeLabel = (type: string) => ITEM_TYPES[type] ?? type;
 
 export const SENEDD_TERMS = [1, 2, 3, 4, 5, 6, 7] as const;
+
+export interface SessionFilters {
+	term: number | null;
+	domain: string | null;
+	speaker: string | null;
+}
 
 export function parseFilters(params: URLSearchParams): SessionFilters {
 	const term = Number(params.get('term'));

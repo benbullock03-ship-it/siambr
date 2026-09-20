@@ -1,0 +1,36 @@
+{
+  "ballots": [],
+  "canonical_name": "Mick Bates",
+  "constituency_name_cy": "Sir Drefaldwyn",
+  "constituency_name_en": "Montgomeryshire",
+  "contribution_count": 0,
+  "contributions_by_date": [],
+  "current_status": "former",
+  "cymraeg_name": null,
+  "gss_constituency_code": "W09000011",
+  "honorific": null,
+  "id": "ms-mick-bates",
+  "is_regional_member": false,
+  "official_profile_url": "https://senedd.wales/people/Mick-Bates/",
+  "party_id": "other",
+  "portrait_url": "https://business.senedd.wales/UserData/0/0/5/Info00004500/bigpic.jpg",
+  "region_name": null,
+  "role_title_cy": null,
+  "role_title_en": null,
+  "roles": [],
+  "tenures": [
+    {
+      "end_date": null,
+      "is_regional_member": false,
+      "party_id": "other",
+      "party_label": null,
+      "party_provenance": "profile_current",
+      "region_name": null,
+      "seat_gss_code": "W09000011",
+      "seat_name": "Montgomeryshire",
+      "senedd_term": 1,
+      "source_url": "https://senedd.wales/archive/first-assembly-1999-2003/elected-members-first-assembly/",
+      "start_date": "1999-05-06"
+    }
+  ]
+}

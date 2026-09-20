@@ -2,7 +2,6 @@
 
 from __future__ import annotations
 
-import io
 import tempfile
 import unittest
 from pathlib import Path
@@ -86,12 +85,12 @@ class GoldWriteTests(unittest.TestCase):
             path = Path(tmp) / "2026" / "2026-07-15-16086.xml"
             path.parent.mkdir()
             path.write_bytes(MODERN)
-            checks = run_checks.run_all(self.conn, Path(tmp))
+            checks = run_checks.run_all(self.conn, Path(tmp), static=None)
             self.assertTrue(all(c.ok for c in checks), [c.failures for c in checks if not c.ok])
 
             self.conn.execute("UPDATE debate_contributions SET video_timestamp_start = video_timestamp_start + 1 "
                               "WHERE video_timestamp_start IS NOT NULL")
-            drift = next(c for c in run_checks.run_all(self.conn, Path(tmp)) if c.name.startswith("every timed"))
+            drift = next(c for c in run_checks.run_all(self.conn, Path(tmp), static=None) if c.name.startswith("every timed"))
             self.assertFalse(drift.ok)
             self.assertIn("Senedd published", drift.failures[0])
 

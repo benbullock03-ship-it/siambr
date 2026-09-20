@@ -1,15 +1,24 @@
 import { describe, expect, it } from 'vitest';
-import type { MemberSummary } from '$lib/api/types';
+import type { MemberLight } from '$lib/data/types';
 import { buildDesks } from './layout';
 import { assignSeats, SEATING_PROVENANCE } from './seating';
 
-const member = (id: string, party: string | null): MemberSummary => ({
+const member = (id: string, party: string | null): MemberLight => ({
 	id,
 	canonical_name: id,
 	cymraeg_name: null,
+	honorific: null,
 	party_id: party,
 	constituency_name_en: 'Somewhere',
-	portrait_url: null
+	constituency_name_cy: 'Rhywle',
+	gss_constituency_code: null,
+	is_regional_member: false,
+	region_name: null,
+	portrait_url: null,
+	official_profile_url: 'https://senedd.wales/',
+	current_status: 'active',
+	role_title_en: null,
+	role_title_cy: null
 });
 
 describe('assignSeats', () => {

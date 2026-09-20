@@ -1,0 +1,65 @@
+{
+  "ballots": [],
+  "canonical_name": "Donna Cushing",
+  "constituency_name_cy": "Sir Fynwy Torfaen",
+  "constituency_name_en": "Sir Fynwy Torfaen",
+  "contribution_count": 2,
+  "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-767051",
+          "item_id": "item-16084-260708-6",
+          "item_title_en": "6. Member Debate under Standing Order 11.21(iv): Ophthalmology services",
+          "lang": "en",
+          "t_start": 10156,
+          "text_english": "I'd like to also declare an interest in this subject—basically, I will be supporting my colleague Gwyn Williams on his contribution today—I worked for a deaf charitable organisation for over 20 years and know how important ophthalmology is for an individual with hearing loss.\n\nOne in six of the adult population has hearing loss in Wales. With hearing loss, their eyes, whether it's lip reading or British Sign Language, are their ears. With an older generation and the increase of macular degeneration, which is the commonest cause of blindness in the UK, cataracts and glaucoma, it is important that individuals suffering hearing loss become a priority on detection and treatment. So, that's my wish. I'm not making demands, I just wish.",
+          "text_original": "I'd like to also declare an interest in this subject—basically, I will be supporting my colleague Gwyn Williams on his contribution today—I worked for a deaf charitable organisation for over 20 years and know how important ophthalmology is for an individual with hearing loss.\n\nOne in six of the adult population has hearing loss in Wales. With hearing loss, their eyes, whether it's lip reading or British Sign Language, are their ears. With an older generation and the increase of macular degeneration, which is the commonest cause of blindness in the UK, cataracts and glaucoma, it is important that individuals suffering hearing loss become a priority on detection and treatment. So, that's my wish. I'm not making demands, I just wish."
+        }
+      ],
+      "date": "2026-07-08"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-763480",
+          "item_id": "item-16074-260616-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 154,
+          "text_english": "We know that smartphones are impacting children's well-being and ability to concentrate in classrooms. As you have stated, it is crucial that we improve attainment in our schools, and I believe that restricting the use of smartphones in schools for those under 16 is an important piece of the puzzle. Could the First Minister outline the Government's ambitions to promote students' safety, learning and well-being through restricting the use of smartphones in schools for under-16s?",
+          "text_original": "We know that smartphones are impacting children's well-being and ability to concentrate in classrooms. As you have stated, it is crucial that we improve attainment in our schools, and I believe that restricting the use of smartphones in schools for those under 16 is an important piece of the puzzle. Could the First Minister outline the Government's ambitions to promote students' safety, learning and well-being through restricting the use of smartphones in schools for under-16s?"
+        }
+      ],
+      "date": "2026-06-16"
+    }
+  ],
+  "current_status": "active",
+  "cymraeg_name": null,
+  "gss_constituency_code": "W09000062",
+  "honorific": null,
+  "id": "ms-donna-cushing",
+  "is_regional_member": false,
+  "official_profile_url": "https://senedd.wales/people/donna-cushing-ms/",
+  "party_id": "plaid_cymru",
+  "portrait_url": "https://business.senedd.wales/UserData/8/6/1/Info00012168/bigpic.jpg",
+  "region_name": null,
+  "role_title_cy": null,
+  "role_title_en": null,
+  "roles": [],
+  "tenures": [
+    {
+      "end_date": null,
+      "is_regional_member": false,
+      "party_id": "plaid_cymru",
+      "party_label": "Plaid Cymru",
+      "party_provenance": "profile_current",
+      "region_name": null,
+      "seat_gss_code": "W09000062",
+      "seat_name": "Sir Fynwy Torfaen",
+      "senedd_term": 7,
+      "source_url": "https://senedd.wales/people/donna-cushing-ms/",
+      "start_date": "2026-05-08"
+    }
+  ]
+}

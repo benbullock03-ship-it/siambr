@@ -1,17 +1,17 @@
 <script lang="ts">
-	import type { DivisionResult } from '$lib/api/types';
-	import { ballotsByParty } from '$lib/dossier/divisions';
+	import type { Division, MemberLight } from '$lib/data/types';
 	import { divisionAnchor } from '$lib/dossier/anchors';
+	import { ballotsByParty } from '$lib/dossier/divisions';
 	import { partyColor, partyLabel } from '$lib/dossier/parties';
 
-	let { division }: { division: DivisionResult } = $props();
+	let { division, speakers }: { division: Division; speakers: Record<string, MemberLight> } = $props();
 
-	const rows = $derived(ballotsByParty(division));
+	const rows = $derived(ballotsByParty(division, speakers));
 	const headingId = $derived(`${divisionAnchor(division.id)}-heading`);
 </script>
 
 <section id={divisionAnchor(division.id)} tabindex="-1" class="division" aria-labelledby={headingId}>
-	<p class="kicker">Division</p>
+	<p class="kicker">Division · Official division result</p>
 	<h3 id={headingId}>{division.motion_text}</h3>
 	<p class="tally">
 		<span data-numeric>{division.votes_for} For / {division.votes_against} Against / {division.votes_abstain} Abstain</span>

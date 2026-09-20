@@ -1,0 +1,36 @@
+{
+  "ballots": [],
+  "canonical_name": "Michelle Brown",
+  "constituency_name_cy": "Gogledd Cymru",
+  "constituency_name_en": "North Wales",
+  "contribution_count": 0,
+  "contributions_by_date": [],
+  "current_status": "former",
+  "cymraeg_name": null,
+  "gss_constituency_code": null,
+  "honorific": null,
+  "id": "ms-michelle-brown",
+  "is_regional_member": true,
+  "official_profile_url": "https://senedd.wales/people/Michelle-Brown-MS/",
+  "party_id": "other",
+  "portrait_url": "https://business.senedd.wales/UserData/5/7/9/Info00004975/bigpic.jpg",
+  "region_name": "North Wales",
+  "role_title_cy": null,
+  "role_title_en": null,
+  "roles": [],
+  "tenures": [
+    {
+      "end_date": "2021-04-28",
+      "is_regional_member": true,
+      "party_id": "other",
+      "party_label": null,
+      "party_provenance": "profile_current",
+      "region_name": "North Wales",
+      "seat_gss_code": null,
+      "seat_name": "North Wales",
+      "senedd_term": 5,
+      "source_url": "https://senedd.wales/people/Michelle-Brown-MS/",
+      "start_date": "2016-06-05"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "ballots": [],
+  "canonical_name": "Mark Reckless",
+  "constituency_name_cy": "Dwyrain De Cymru",
+  "constituency_name_en": "South Wales East",
+  "contribution_count": 0,
+  "contributions_by_date": [],
+  "current_status": "former",
+  "cymraeg_name": null,
+  "gss_constituency_code": null,
+  "honorific": null,
+  "id": "ms-mark-reckless",
+  "is_regional_member": true,
+  "official_profile_url": "https://senedd.wales/people/Mark-Reckless-MS/",
+  "party_id": "other",
+  "portrait_url": "https://business.senedd.wales/UserData/7/2/2/Info00005227/bigpic.jpg",
+  "region_name": "South Wales East",
+  "role_title_cy": null,
+  "role_title_en": null,
+  "roles": [],
+  "tenures": [
+    {
+      "end_date": "2021-04-28",
+      "is_regional_member": true,
+      "party_id": "other",
+      "party_label": null,
+      "party_provenance": "profile_current",
+      "region_name": "South Wales East",
+      "seat_gss_code": null,
+      "seat_name": "South Wales East",
+      "senedd_term": 5,
+      "source_url": "https://senedd.wales/people/Mark-Reckless-MS/",
+      "start_date": "2016-06-05"
+    }
+  ]
+}

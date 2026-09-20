@@ -1,0 +1,36 @@
+{
+  "ballots": [],
+  "canonical_name": "Ieuan Wyn Jones",
+  "constituency_name_cy": "Ynys Môn",
+  "constituency_name_en": "Ynys Môn",
+  "contribution_count": 0,
+  "contributions_by_date": [],
+  "current_status": "former",
+  "cymraeg_name": null,
+  "gss_constituency_code": "W09000001",
+  "honorific": null,
+  "id": "ms-ieuan-wyn-jones",
+  "is_regional_member": false,
+  "official_profile_url": "https://senedd.wales/people/Ieuan-Wyn-Jones/",
+  "party_id": "other",
+  "portrait_url": "https://business.senedd.wales/UserData/3/0/1/Info00000103/bigpic.jpg",
+  "region_name": null,
+  "role_title_cy": null,
+  "role_title_en": null,
+  "roles": [],
+  "tenures": [
+    {
+      "end_date": null,
+      "is_regional_member": false,
+      "party_id": "other",
+      "party_label": null,
+      "party_provenance": "profile_current",
+      "region_name": null,
+      "seat_gss_code": "W09000001",
+      "seat_name": "Ynys Môn",
+      "senedd_term": 1,
+      "source_url": "https://senedd.wales/archive/first-assembly-1999-2003/elected-members-first-assembly/",
+      "start_date": "1999-05-06"
+    }
+  ]
+}

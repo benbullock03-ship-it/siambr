@@ -1,10 +1,11 @@
 <script lang="ts">
-	import type { SpeakerContribution } from '$lib/api/types';
-	import { broadcastLink, formatOffset } from '$lib/dossier/broadcast';
+	import { speakerOf } from '$lib/data/dossier';
+	import type { Contribution, MemberLight } from '$lib/data/types';
 	import { speechAnchor } from '$lib/dossier/anchors';
+	import { formatOffset } from '$lib/dossier/broadcast';
 	import { partyColor, partyLabel } from '$lib/dossier/parties';
 
-	let { speeches, clipUrl }: { speeches: SpeakerContribution[]; clipUrl: string | null } = $props();
+	let { speeches, speakers }: { speeches: Contribution[]; speakers: Record<string, MemberLight> } = $props();
 
 	const initials = (name: string) =>
 		name
@@ -16,43 +17,39 @@
 
 <ol class="stack">
 	{#each speeches as s (s.id)}
+		{@const who = speakerOf(speakers, s.member_id)}
 		<li id={speechAnchor(s.id)} tabindex="-1">
 			<article aria-labelledby="{speechAnchor(s.id)}-speaker">
 				<header>
-					{#if s.member.portrait_url}
-						<img class="portrait" src={s.member.portrait_url} alt="" width="48" height="48" loading="lazy" />
+					{#if who.portrait_url}
+						<img class="portrait" src={who.portrait_url} alt="" width="48" height="48" loading="lazy" />
 					{:else}
-						<span class="portrait initials" aria-hidden="true">{initials(s.member.canonical_name)}</span>
+						<span class="portrait initials" aria-hidden="true">{initials(who.canonical_name)}</span>
 					{/if}
 					<div>
-						<h3 id="{speechAnchor(s.id)}-speaker">{s.member.canonical_name}</h3>
+						<h3 id="{speechAnchor(s.id)}-speaker">{who.canonical_name}</h3>
 						<p class="meta small">
-							{#if s.role_title_en}<span class="role">{s.role_title_en}</span>{/if}
-							<span class="party" style:--party={partyColor(s.party_id_at_date)}>{partyLabel(s.party_id_at_date)}</span>
-							<span
-								class="lang"
-								aria-label={s.spoken_language === 'cy' ? 'Spoken in Welsh' : 'Spoken in English'}
-								>{s.spoken_language}</span
-							>
+							{#if who.role_title_en}<span class="role">{who.role_title_en}</span>{/if}
+							<span class="party" style:--party={partyColor(who.party_id)}>{partyLabel(who.party_id)}</span>
+							<span class="lang" aria-label={s.lang === 'cy' ? 'Spoken in Welsh' : 'Spoken in English'}>{s.lang}</span>
 						</p>
 					</div>
 				</header>
-				<blockquote lang={s.spoken_language}>
-					<p>{s.verbatim_text_original}</p>
+				<blockquote lang={s.lang}>
+					<p>{s.text_original}</p>
 				</blockquote>
-				{#if s.spoken_language === 'cy' && s.verbatim_text_english && s.verbatim_text_english !== s.verbatim_text_original}
+				{#if s.lang === 'cy' && s.text_english && s.text_english !== s.text_original}
 					<details>
 						<summary class="small">Official English translation</summary>
-						<p lang="en">{s.verbatim_text_english}</p>
+						<p lang="en">{s.text_english}</p>
 					</details>
 				{/if}
-				{#if s.video_timestamp_start !== null}
-					{@const href = broadcastLink(clipUrl, s.video_timestamp_start)}
+				{#if s.t_start !== null}
 					<p class="offset small">
-						{#if href}
-							<a {href} rel="external">Watch from <time data-numeric>{formatOffset(s.video_timestamp_start)}</time></a>
+						{#if s.tv_url}
+							<a href={s.tv_url} rel="external">Watch from <time data-numeric>{formatOffset(s.t_start)}</time></a>
 						{:else}
-							Broadcast offset <time data-numeric>{formatOffset(s.video_timestamp_start)}</time>
+							Broadcast offset <time data-numeric>{formatOffset(s.t_start)}</time>
 						{/if}
 					</p>
 				{/if}

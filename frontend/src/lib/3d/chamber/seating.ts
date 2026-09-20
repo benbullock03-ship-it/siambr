@@ -1,4 +1,4 @@
-import type { MemberSummary, ParliamentaryTerm } from '$lib/api/types';
+import type { MemberLight as MemberSummary, TermFile as ParliamentaryTerm } from '$lib/data/types';
 import { bearingToXZ, CHAMBER, DEG, type Desk } from './layout';
 
 /**

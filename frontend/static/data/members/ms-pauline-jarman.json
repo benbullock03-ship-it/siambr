@@ -1,0 +1,36 @@
+{
+  "ballots": [],
+  "canonical_name": "Pauline Jarman",
+  "constituency_name_cy": "",
+  "constituency_name_en": "",
+  "contribution_count": 0,
+  "contributions_by_date": [],
+  "current_status": "former",
+  "cymraeg_name": null,
+  "gss_constituency_code": null,
+  "honorific": null,
+  "id": "ms-pauline-jarman",
+  "is_regional_member": true,
+  "official_profile_url": "https://senedd.wales/people/Pauline-Jarman/",
+  "party_id": "plaid_cymru",
+  "portrait_url": "https://business.senedd.wales/UserData/1/6/5/Info00004561/bigpic.jpg",
+  "region_name": "South Wales Central",
+  "role_title_cy": null,
+  "role_title_en": null,
+  "roles": [],
+  "tenures": [
+    {
+      "end_date": null,
+      "is_regional_member": true,
+      "party_id": "plaid_cymru",
+      "party_label": "Plaid Cymru",
+      "party_provenance": "curated_reference",
+      "region_name": "South Wales Central",
+      "seat_gss_code": null,
+      "seat_name": "South Wales Central",
+      "senedd_term": 1,
+      "source_url": "https://web.archive.org/web/2026/http://news.bbc.co.uk/hi/english/static/vote_99/wales_99/html/region/4.stm",
+      "start_date": "1999-05-06"
+    }
+  ]
+}

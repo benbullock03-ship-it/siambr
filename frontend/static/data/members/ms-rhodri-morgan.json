@@ -1,0 +1,47 @@
+{
+  "ballots": [],
+  "canonical_name": "Rhodri Morgan",
+  "constituency_name_cy": "Gorllewin Caerdydd",
+  "constituency_name_en": "Cardiff West",
+  "contribution_count": 0,
+  "contributions_by_date": [],
+  "current_status": "former",
+  "cymraeg_name": null,
+  "gss_constituency_code": "W09000029",
+  "honorific": "Rt. Hon.",
+  "id": "ms-rhodri-morgan",
+  "is_regional_member": false,
+  "official_profile_url": "https://senedd.wales/people/Rt.-Hon-Rhodri-Morgan/",
+  "party_id": "other",
+  "portrait_url": "https://business.senedd.wales/UserData/7/2/4/Info00004427/smallpic.jpg",
+  "region_name": null,
+  "role_title_cy": null,
+  "role_title_en": null,
+  "roles": [
+    {
+      "cabinet_level": "first_minister",
+      "end_date": "2009-12-10",
+      "provenance": "curated_reference",
+      "source_url": "https://senedd.wales/archive/third-assembly-2007-2011/",
+      "start_date": "2000-02-09",
+      "start_date_precision": "exact",
+      "title_cy": "Prif Weinidog Cymru",
+      "title_en": "First Minister of Wales"
+    }
+  ],
+  "tenures": [
+    {
+      "end_date": null,
+      "is_regional_member": false,
+      "party_id": "other",
+      "party_label": null,
+      "party_provenance": "profile_current",
+      "region_name": null,
+      "seat_gss_code": "W09000029",
+      "seat_name": "Cardiff West",
+      "senedd_term": 1,
+      "source_url": "https://senedd.wales/archive/first-assembly-1999-2003/elected-members-first-assembly/",
+      "start_date": "1999-05-06"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "ballots": [],
+  "canonical_name": "David Jones",
+  "constituency_name_cy": "",
+  "constituency_name_en": "",
+  "contribution_count": 0,
+  "contributions_by_date": [],
+  "current_status": "former",
+  "cymraeg_name": null,
+  "gss_constituency_code": null,
+  "honorific": null,
+  "id": "ms-david-jones",
+  "is_regional_member": true,
+  "official_profile_url": "https://senedd.wales/people/David-Jones/",
+  "party_id": "conservatives",
+  "portrait_url": "https://business.senedd.wales/UserData/7/6/4/Info00004467/smallpic.jpg",
+  "region_name": "North Wales",
+  "role_title_cy": null,
+  "role_title_en": null,
+  "roles": [],
+  "tenures": [
+    {
+      "end_date": "2003-04-30",
+      "is_regional_member": true,
+      "party_id": "conservatives",
+      "party_label": "Conservative",
+      "party_provenance": "curated_reference",
+      "region_name": "North Wales",
+      "seat_gss_code": null,
+      "seat_name": "North Wales",
+      "senedd_term": 1,
+      "source_url": "https://en.wikipedia.org/wiki/David_Jones_(Clwyd_West_MP)",
+      "start_date": "2002-09-10"
+    }
+  ]
+}

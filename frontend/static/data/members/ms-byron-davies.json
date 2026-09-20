@@ -1,0 +1,36 @@
+{
+  "ballots": [],
+  "canonical_name": "Byron Davies",
+  "constituency_name_cy": "Gorllewin De Cymru",
+  "constituency_name_en": "South Wales West",
+  "contribution_count": 0,
+  "contributions_by_date": [],
+  "current_status": "former",
+  "cymraeg_name": null,
+  "gss_constituency_code": null,
+  "honorific": null,
+  "id": "ms-byron-davies",
+  "is_regional_member": true,
+  "official_profile_url": "https://senedd.wales/people/Byron-Davies/",
+  "party_id": "other",
+  "portrait_url": "https://business.senedd.wales/UserData/2/4/5/Info00000542/bigpic.jpg",
+  "region_name": "South Wales West",
+  "role_title_cy": null,
+  "role_title_en": null,
+  "roles": [],
+  "tenures": [
+    {
+      "end_date": null,
+      "is_regional_member": true,
+      "party_id": "other",
+      "party_label": null,
+      "party_provenance": "profile_current",
+      "region_name": "South Wales West",
+      "seat_gss_code": null,
+      "seat_name": "South Wales West",
+      "senedd_term": 4,
+      "source_url": "https://senedd.wales/archive/fourth-assembly-2011-2016/elected-members-fourth-assembly-2011-2016/",
+      "start_date": "2011-05-05"
+    }
+  ]
+}
