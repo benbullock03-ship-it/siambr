@@ -9,11 +9,15 @@ export interface ScreenAnchor {
 
 /** State shared between the Threlte scene and the DOM HUD. */
 export class SiambrState {
-	/** The seat within reach, if any. */
+	/** The seat within reach (walk) or framed (guided), if any. */
 	focus = $state<SeatAssignment | null>(null);
 	anchor = $state<ScreenAnchor>({ x: 0, y: 0, visible: false });
 	pointerLocked = $state(false);
 	touch = $state(false);
+	/** Free walk is opt-in; the guided camera is the default. */
+	walk = $state(false);
+	reducedMotion = $state(false);
+	kiosk = $state(false);
 	/** Set by the page; the scene calls it when a seat is activated. */
 	onopen: (seat: SeatAssignment) => void = () => {};
 }

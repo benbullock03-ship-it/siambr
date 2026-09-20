@@ -6,19 +6,19 @@ export interface DeviceReport {
 }
 
 export type SceneDecision =
-	| { mode: 'webgpu' | 'webgl2' }
-	| { mode: 'register'; reason: 'reduced-motion' | 'no-webgl' | 'low-memory' };
+	| { mode: 'webgpu' | 'webgl2'; reducedMotion: boolean }
+	| { mode: 'register'; reason: 'no-webgl' | 'low-memory' };
 
 /** Devices reporting under this much RAM go straight to the 2D Register. */
 export const MIN_DEVICE_MEMORY_GB = 2;
 
+/** Reduced motion keeps the stage (cuts instead of eased camera moves, no walk mode); only capability sends a visitor to the Register. */
 export function decideMode(r: DeviceReport): SceneDecision {
-	if (r.reducedMotion) return { mode: 'register', reason: 'reduced-motion' };
 	if (!r.webgl2 && !r.webgpu) return { mode: 'register', reason: 'no-webgl' };
 	if (r.deviceMemoryGb !== null && r.deviceMemoryGb < MIN_DEVICE_MEMORY_GB) {
 		return { mode: 'register', reason: 'low-memory' };
 	}
-	return { mode: r.webgpu ? 'webgpu' : 'webgl2' };
+	return { mode: r.webgpu ? 'webgpu' : 'webgl2', reducedMotion: r.reducedMotion };
 }
 
 export function probeDevice(win: Window & typeof globalThis): DeviceReport {

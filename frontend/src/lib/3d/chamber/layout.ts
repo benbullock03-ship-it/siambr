@@ -283,3 +283,74 @@ export function spawnPoint(): { x: number; z: number; yaw: number } {
 	const [x, z] = bearingToXZ(CHAMBER.wallRadius - 1.2, bearing);
 	return { x, z, yaw: Math.PI - bearing };
 }
+
+/** World point `dz` metres along a desk's local +Z (away from the centre), `dx` along local +X, `y` above the desk floor. */
+export function deskPoint(d: Desk, dx: number, dz: number, y: number): [number, number, number] {
+	return [d.x + dz * Math.sin(d.yaw) + dx * Math.cos(d.yaw), d.y + y, d.z + dz * Math.cos(d.yaw) - dx * Math.sin(d.yaw)];
+}
+
+export type Vec3 = [number, number, number];
+
+export interface CameraPose {
+	position: Vec3;
+	target: Vec3;
+}
+
+export type VantageId = 'gallery' | 'llywydd' | 'floor' | 'speaker';
+
+const vantageAt = (radius: number, deg: number, y: number, target: Vec3): CameraPose => {
+	const [x, z] = bearingToXZ(radius, deg * DEG);
+	return { position: [x, y, z], target };
+};
+
+/**
+ * The guided camera's fixed vantage points. Gallery: above the public gallery on the south side,
+ * looking at the dais. Y Llywydd: over the Presiding Officer's shoulder across the chamber.
+ * Floor: eye height in the wide western aisle. Speaker is computed per desk by `speakerPose`.
+ */
+export const VANTAGES: Record<Exclude<VantageId, 'speaker'>, CameraPose> = {
+	gallery: vantageAt(14.6, 180, CHAMBER.galleryFloorY + 2.0, [0, 0.8, -2]),
+	llywydd: vantageAt(CHAMBER.dais.radius + 0.9, 0, CHAMBER.dais.height + 2.2, [0, 0.9, 5]),
+	floor: vantageAt(9.5, 270, floorHeightAt(9.5) + 1.62, [0, 1.0, -3])
+};
+
+/** Three-quarter framing of a desk over the Member's shoulder toward the dais (or, from the dais, across the chamber). */
+export function speakerPose(d: Desk): CameraPose {
+	// Outer-row desks sit close to the wall, so the over-the-shoulder point is pulled inside it.
+	// A wall-side desk has little room behind it: the sideways step and the height scale with what is left.
+	const behind = clampInsideEnvelope(deskPoint(d, 0, 2.4, 2.0));
+	const reach = Math.hypot(behind[0] - d.x, behind[2] - d.z);
+	const position = clampInsideEnvelope(deskPoint(d, -Math.min(1.2, 0.45 * reach), reach, Math.max(1.5, 0.8 + 0.5 * reach)));
+	const ahead: Vec3 = d.row < 0 ? [0, 0, 5] : [0, 0, -CHAMBER.dais.radius];
+	const target: Vec3 = [d.x + 0.2 * (ahead[0] - d.x), 0.95, d.z + 0.2 * (ahead[2] - d.z)];
+	return { position, target };
+}
+
+/** Radius of the cedar bell at height y, above its throat; the camera stays outside it. */
+export function bellRadiusAt(y: number): number {
+	return CHAMBER.funnelThroatRadius + Math.max(0, y - CHAMBER.funnelThroatY) * 1.6;
+}
+
+export const CAMERA_LIMITS = { minY: 0.5, maxY: 8.0, clearance: 0.4 } as const;
+
+/** Nearest point to `p` that keeps the camera inside the chamber: under the wall or over the gallery, above the floor, outside the bell. */
+export function clampInsideEnvelope([x, y, z]: Vec3): Vec3 {
+	const r0 = Math.hypot(x, z);
+	let r = r0;
+	const bearing = r > 1e-9 ? Math.atan2(x, -z) : 0;
+	let cy = Math.min(CAMERA_LIMITS.maxY, Math.max(CAMERA_LIMITS.minY, y));
+	cy = Math.max(cy, floorHeightAt(r) + CAMERA_LIMITS.clearance);
+	const maxR = cy >= CHAMBER.galleryFloorY + 0.3 ? CHAMBER.galleryOuterRadius - 0.6 : CHAMBER.wallRadius - CAMERA_LIMITS.clearance;
+	r = Math.min(r, maxR);
+	if (cy > CHAMBER.funnelThroatY - 0.3) r = Math.max(r, bellRadiusAt(cy) + CAMERA_LIMITS.clearance);
+	// An inside point comes back untouched so repeated clamps never drift.
+	if (r === r0 && cy === y) return [x, y, z];
+	const [cx, cz] = bearingToXZ(r, bearing);
+	return [cx, cy, cz];
+}
+
+export function isInsideEnvelope(p: Vec3, tolerance = 1e-6): boolean {
+	const c = clampInsideEnvelope(p);
+	return Math.hypot(c[0] - p[0], c[1] - p[1], c[2] - p[2]) <= tolerance;
+}
+

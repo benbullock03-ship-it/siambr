@@ -35,12 +35,53 @@ test('a Member record opens from the chamber as an accessible dossier', async ({
 	await expect(page).toHaveURL(/\/siambr$/);
 });
 
-test('reduced motion sends the visitor to the Register without a canvas', async ({ page }) => {
+test('reduced motion keeps the stage, hides the walk toggle and offers the Register', async ({ page }) => {
 	await page.emulateMedia({ reducedMotion: 'reduce' });
 	await page.goto('/siambr');
-	await expect(page).toHaveURL(/\/register\?from=siambr&reason=reduced-motion/);
-	await expect(page.getByRole('heading', { level: 1, name: 'Plenary Register' })).toBeVisible();
-	expect(await page.locator('canvas').count()).toBe(0);
+	await expect(page.locator('canvas')).toHaveCount(1, { timeout: 20_000 });
+	await expect(page.getByRole('group', { name: 'Camera' })).toBeVisible();
+	await expect(page.getByRole('switch', { name: 'Walk the floor' })).toHaveCount(0);
+	await expect(page.getByRole('link', { name: 'Open the Register' })).toBeVisible();
+});
+
+test('a kiosk hides the walk toggle', async ({ page }) => {
+	await page.goto('/siambr?kiosk=1');
+	await expect(page.getByRole('group', { name: 'Camera' })).toBeVisible({ timeout: 20_000 });
+	await expect(page.getByRole('switch', { name: 'Walk the floor' })).toHaveCount(0);
+});
+
+test('the guided camera frames a desk on the first click and opens the Member on the second', async ({ page }) => {
+	await page.goto('/siambr');
+	const canvas = page.locator('canvas');
+	await expect(canvas).toHaveCount(1, { timeout: 20_000 });
+	await page.getByRole('button', { name: 'Floor' }).click();
+	// Give the software renderer a few frames so the click raycasts against a drawn scene.
+	await page.waitForTimeout(1500);
+	const box = (await canvas.boundingBox())!;
+	// Scan a horizontal band across the middle of the view until a desk answers with a nametag.
+	let framed = false;
+	for (let i = 0; i < 12 && !framed; i++) {
+		const x = box.x + box.width * (0.2 + i * 0.05);
+		const y = box.y + box.height * 0.6;
+		await page.mouse.click(x, y);
+		framed = (await page.locator('.nametag').count()) > 0;
+	}
+	expect(framed).toBe(true);
+	const name = await page.locator('.nametag .name').textContent();
+	// A second click on the same desk opens the Member record; the desk is now framed, so click the screen centre.
+	await page.waitForTimeout(800);
+	await page.mouse.click(box.x + box.width * 0.5, box.y + box.height * 0.62);
+	await expect(page.getByRole('dialog', { name: new RegExp(name!.trim()) })).toBeVisible({ timeout: 10_000 });
+});
+
+test('the sitting clock plays and lights a desk', async ({ page }) => {
+	await page.goto('/siambr');
+	await expect(page.locator('canvas')).toHaveCount(1, { timeout: 20_000 });
+	const play = page.getByRole('button', { name: 'Play' });
+	await expect(play).toBeVisible();
+	await play.click();
+	await expect(page.getByRole('button', { name: 'Pause' })).toBeVisible();
+	await expect(page.getByRole('group', { name: 'Sitting clock' }).locator('.live')).not.toHaveText('No one holds the floor.');
 });
 
 test('a device without WebGL falls back to the Register', async ({ page }) => {

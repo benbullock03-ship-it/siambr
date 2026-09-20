@@ -5,15 +5,12 @@ const base: DeviceReport = { webgl2: true, webgpu: false, deviceMemoryGb: 8, red
 
 describe('decideMode', () => {
 	it('prefers WebGPU, then WebGL2', () => {
-		expect(decideMode({ ...base, webgpu: true })).toEqual({ mode: 'webgpu' });
-		expect(decideMode(base)).toEqual({ mode: 'webgl2' });
+		expect(decideMode({ ...base, webgpu: true })).toEqual({ mode: 'webgpu', reducedMotion: false });
+		expect(decideMode(base)).toEqual({ mode: 'webgl2', reducedMotion: false });
 	});
 
-	it('sends reduced-motion visitors to the Register before anything else', () => {
-		expect(decideMode({ ...base, webgpu: true, reducedMotion: true })).toEqual({
-			mode: 'register',
-			reason: 'reduced-motion'
-		});
+	it('keeps reduced-motion visitors on the stage and reports the preference', () => {
+		expect(decideMode({ ...base, webgpu: true, reducedMotion: true })).toEqual({ mode: 'webgpu', reducedMotion: true });
 	});
 
 	it('falls back when no GPU context is available', () => {
@@ -22,6 +19,6 @@ describe('decideMode', () => {
 
 	it('falls back on low-memory devices but tolerates unknown memory', () => {
 		expect(decideMode({ ...base, deviceMemoryGb: 1 })).toEqual({ mode: 'register', reason: 'low-memory' });
-		expect(decideMode({ ...base, deviceMemoryGb: null })).toEqual({ mode: 'webgl2' });
+		expect(decideMode({ ...base, deviceMemoryGb: null })).toEqual({ mode: 'webgl2', reducedMotion: false });
 	});
 });

@@ -6,11 +6,14 @@
 	import { decideMode, probeDevice } from '$lib/3d/capability';
 	import { buildDesks, chamberColliders, chamberWallSegments, CHAMBER, spawnPoint, walkRadius, type Collider } from '$lib/3d/chamber/layout';
 	import { assignSeats, llywyddDesk, llywyddOf, SEATING_PROVENANCE, type SeatAssignment } from '$lib/3d/chamber/seating';
+	import { GuidedRig } from '$lib/3d/controls/guided.svelte';
 	import { Player } from '$lib/3d/controls/player.svelte';
 	import { SiambrState } from '$lib/3d/state.svelte';
 	import { dossierFor, type Dossier } from '$lib/data/dossier';
 	import { loadMember, loadSittingForItem } from '$lib/data/loaders';
 	import type { MemberFile } from '$lib/data/types';
+	import { SittingClock } from '$lib/stage/clock.svelte';
+	import { buildTimeline } from '$lib/stage/timeline';
 	import DossierPlate from '$lib/hud/DossierPlate.svelte';
 	import MemberPlate from '$lib/hud/MemberPlate.svelte';
 	import SiambrHud from '$lib/hud/SiambrHud.svelte';
@@ -37,6 +40,36 @@
 		walkRadius(0),
 		spawnPoint()
 	);
+	const rig = new GuidedRig();
+	// One sitting on the stage: the latest, paused at its first timed contribution (T-18 adds the route and transport).
+	const clock = untrack(() => (data.sitting ? new SittingClock(buildTimeline(data.sitting), data.sitting.meeting_start_time) : null));
+	const presiding = $derived(new Set(data.term.presiding_officers.map((o) => o.member_id)));
+	const deskByMember = $derived(new Map(seats.map((s) => [s.member.id, s.desk])));
+	const liveContribution = $derived(clock?.floor.live?.kind === 'contribution' ? clock.floor.live.contribution : null);
+	const liveSpeaker = $derived(liveContribution ? (data.sitting?.speakers[liveContribution.member_id] ?? null) : null);
+	// The desk the floor light is on: a seated, non-presiding speaker's own desk, else Y Llywydd's place.
+	const liveDesk = $derived.by(() => {
+		if (!liveContribution) return null;
+		const id = liveContribution.member_id;
+		return (id && !presiding.has(id) && deskByMember.get(id)) || deskByMember.get(llywydd?.id ?? '') || null;
+	});
+
+	$effect(() => {
+		const desk = liveDesk;
+		if (!rig.follow || hud.walk) return;
+		untrack(() => {
+			if (desk && desk.id !== rig.framedDeskId) rig.frameDesk(desk);
+		});
+	});
+
+	// Entering walk mode stands the walker at the spawn; leaving it drops pointer lock and the rig resumes where it was.
+	$effect(() => {
+		if (hud.walk) {
+			player.placeAt(spawnPoint(), spawnPoint().yaw);
+		} else if (browser && document.pointerLockElement) {
+			document.exitPointerLock();
+		}
+	});
 
 	type CanvasModule = typeof import('$lib/3d/SiambrCanvas.svelte');
 	type SceneModule = typeof import('$lib/3d/SiambrScene.svelte');
@@ -65,6 +98,10 @@
 		}
 		renderer = decision.mode;
 		hud.touch = window.matchMedia?.('(pointer: coarse)').matches || navigator.maxTouchPoints > 0;
+		hud.reducedMotion = decision.reducedMotion;
+		rig.reducedMotion = decision.reducedMotion;
+		hud.kiosk = new URL(window.location.href).searchParams.get('kiosk') === '1';
+		if (hud.reducedMotion || hud.kiosk) hud.walk = false;
 		const [canvas, scene] = await Promise.all([
 			import('$lib/3d/SiambrCanvas.svelte'),
 			import('$lib/3d/SiambrScene.svelte')
@@ -139,7 +176,7 @@
 				onfailure={() => toRegister('no-webgl')}
 				onready={(backend) => (renderer = backend)}
 			>
-				<SiambrScene {desks} {seats} {player} {hud} {paused} />
+				<SiambrScene {desks} {seats} {clock} {rig} {player} {hud} {presiding} {paused} />
 			</SiambrCanvas>
 		</div>
 	{:else}
@@ -148,6 +185,11 @@
 
 	<SiambrHud
 		{hud}
+		{rig}
+		{clock}
+		sitting={data.sitting}
+		{liveSpeaker}
+		{liveDesk}
 		term={data.term}
 		{llywydd}
 		deskCount={desks.length}
