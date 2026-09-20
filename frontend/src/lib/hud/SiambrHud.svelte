@@ -1,111 +1,30 @@
 <script lang="ts">
-	import type { MemberLight as MemberSummary, Sitting, TermFile as ParliamentaryTerm } from '$lib/data/types';
-	import type { Desk, VantageId } from '$lib/3d/chamber/layout';
-	import { SEATING_NOTICE } from '$lib/3d/chamber/seating';
-	import type { GuidedRig } from '$lib/3d/controls/guided.svelte';
 	import type { SiambrState } from '$lib/3d/state.svelte';
 	import { partyColor, partyLabel } from '$lib/dossier/parties';
-	import type { SittingClock } from '$lib/stage/clock.svelte';
 	import TouchJoystick from './TouchJoystick.svelte';
 
+	/** The overlay on the canvas: nametag, controls hint, crosshair and the walk joystick. */
 	let {
 		hud,
-		rig,
-		clock = null,
-		sitting = null,
-		liveSpeaker = null,
-		liveDesk = null,
-		term,
-		llywydd,
-		deskCount,
-		seatedCount,
 		renderer,
 		onjoystick
 	}: {
 		hud: SiambrState;
-		rig: GuidedRig;
-		clock?: SittingClock | null;
-		sitting?: Sitting | null;
-		liveSpeaker?: MemberSummary | null;
-		liveDesk?: Desk | null;
-		term: ParliamentaryTerm;
-		llywydd: MemberSummary | null;
-		deskCount: number;
-		seatedCount: number;
 		renderer: 'webgpu' | 'webgl2' | null;
 		onjoystick: (v: { x: number; y: number }) => void;
 	} = $props();
 
 	const focus = $derived(hud.focus);
 	const anchor = $derived(hud.anchor);
-	const vantages: { id: Exclude<VantageId, 'speaker'>; label: string }[] = [
-		{ id: 'gallery', label: 'Gallery' },
-		{ id: 'llywydd', label: 'Y Llywydd' },
-		{ id: 'floor', label: 'Floor' }
-	];
-	const walkAllowed = $derived(!hud.reducedMotion && !hud.kiosk);
-	const liveContribution = $derived(clock?.floor.live?.kind === 'contribution' ? clock.floor.live.contribution : null);
-
-	function pick(id: Exclude<VantageId, 'speaker'>) {
-		hud.walk = false;
-		rig.setVantage(id);
-	}
-	function speaker() {
-		hud.walk = false;
-		rig.speaker(liveDesk);
-	}
 </script>
 
 <div class="hud">
-	<header class="plate title">
-		<p class="kicker">Siambr · Spatial Walkthrough</p>
-		<h1>Y Siambr</h1>
-		<p class="small">
-			{term.label_en} · <span data-numeric>{seatedCount}</span> Members,
-			<span data-numeric>{deskCount}</span> desks.
-			{#if llywydd}<span class="llywydd">Y Llywydd: {llywydd.canonical_name}.</span>{/if}
-		</p>
-		<p class="small provenance">{SEATING_NOTICE}</p>
-		<a class="button-primary switch" href="/register">Open the Register</a>
-	</header>
-
-	<div class="plate camera" role="group" aria-label="Camera">
-		{#each vantages as v (v.id)}
-			<button type="button" class="chip" aria-pressed={!hud.walk && rig.vantage === v.id} onclick={() => pick(v.id)}>{v.label}</button>
-		{/each}
-		<button type="button" class="chip" aria-pressed={!hud.walk && rig.vantage === 'speaker'} onclick={speaker}>Speaker</button>
-		<button type="button" class="chip" role="switch" aria-checked={rig.follow} onclick={() => (rig.follow = !rig.follow)}>Follow</button>
-		{#if walkAllowed}
-			<button type="button" class="chip" role="switch" aria-checked={hud.walk} onclick={() => (hud.walk = !hud.walk)}>Walk the floor</button>
-		{/if}
-	</div>
-
-	{#if clock && sitting}
-		<div class="plate stage-strip" role="group" aria-label="Sitting clock">
-			<button type="button" class="button-primary play" onclick={() => clock.toggle()} disabled={clock.atEnd}>
-				{clock.playing ? 'Pause' : 'Play'}
-			</button>
-			<p class="small">
-				<span class="date">Plenary, {sitting.date}</span>
-				{#if clock.wallClock}<span class="wall" data-numeric>{clock.wallClock}</span>{/if}
-			</p>
-			<p class="small live" aria-live="polite">
-				{#if liveContribution}
-					{liveSpeaker?.canonical_name ?? liveContribution.member_id}
-					{#if liveSpeaker?.role_title_en}· {liveSpeaker.role_title_en}{/if}
-				{:else}
-					No one holds the floor.
-				{/if}
-			</p>
-		</div>
-	{/if}
-
 	<p class="plate controls small" aria-label="Controls">
 		{#if hud.walk}
 			{#if hud.touch}
 				Drag the joystick to walk. Drag the view to look. Tap the floor to move there. Tap a desk to open its Member.
 			{:else}
-				<kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> walk · click, then move the mouse to look · <kbd>Esc</kbd> release · <kbd>E</kbd> open a Member
+				<kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> walk · click, then move the mouse to look · <kbd>Esc</kbd> leave walk · <kbd>E</kbd> open a Member
 			{/if}
 		{:else if hud.touch}
 			Drag to orbit. Pinch to zoom. Tap a desk to frame it, then tap Open record.
@@ -158,7 +77,7 @@
 		font-family: var(--font-sans);
 	}
 
-	.hud :is(a, button) {
+	.hud button {
 		pointer-events: auto;
 	}
 
@@ -167,97 +86,11 @@
 		backdrop-filter: blur(6px);
 	}
 
-	.title {
-		position: absolute;
-		top: 1rem;
-		left: 1rem;
-		max-width: min(22rem, calc(100vw - 2rem));
-		padding: 1rem 1.25rem;
-	}
-
-	.title h1 {
-		font-size: clamp(1.5rem, 3vw, 2rem);
-		margin-bottom: 0.25rem;
-	}
-
-	.title p {
-		margin: 0 0 0.35rem;
-	}
-
-	.provenance {
-		color: var(--color-muted);
-	}
-
-	.switch {
-		display: inline-flex;
-		align-items: center;
-		margin-top: 0.5rem;
-		text-decoration: none;
-	}
-
-	.camera {
-		position: absolute;
-		top: 1rem;
-		right: 1rem;
-		display: flex;
-		flex-wrap: wrap;
-		justify-content: flex-end;
-		gap: 0.35rem;
-		max-width: min(30rem, calc(100vw - 2rem));
-		padding: 0.5rem;
-	}
-
-	.chip {
-		min-height: var(--tap-min);
-		padding: 0 0.8rem;
-		border: 1px solid var(--color-border);
-		background: var(--color-ground);
-		color: var(--color-ink);
-		font: 600 var(--text-small) var(--font-sans);
-		cursor: pointer;
-	}
-
-	.chip[aria-pressed='true'],
-	.chip[aria-checked='true'] {
-		background: var(--color-ink);
-		color: var(--color-ground);
-		border-color: var(--color-ink);
-	}
-
-	.stage-strip {
-		position: absolute;
-		left: 50%;
-		bottom: 1rem;
-		transform: translateX(-50%);
-		display: flex;
-		align-items: center;
-		gap: 0.9rem;
-		max-width: min(40rem, calc(100vw - 2rem));
-		padding: 0.5rem 0.9rem;
-	}
-
-	.stage-strip p {
-		margin: 0;
-	}
-
-	.play {
-		min-width: 5rem;
-	}
-
-	.wall {
-		margin-left: 0.6rem;
-		font-family: var(--font-mono);
-	}
-
-	.live {
-		color: var(--color-body-text);
-	}
-
 	.controls {
 		position: absolute;
 		right: 1rem;
 		bottom: 1rem;
-		max-width: min(30rem, calc(100vw - 2rem));
+		max-width: min(30rem, calc(100% - 2rem));
 		margin: 0;
 		padding: 0.6rem 0.9rem;
 		color: var(--color-body-text);
@@ -281,7 +114,7 @@
 	.nametag {
 		position: absolute;
 		left: 50%;
-		bottom: 6rem;
+		bottom: 5rem;
 		transform: translate(-50%, 0);
 		min-width: 14rem;
 		max-width: 20rem;
@@ -369,66 +202,15 @@
 		box-shadow: 0 0 0 1px var(--color-ink-room);
 	}
 
-	@media (max-width: 640px) {
-		.title {
-			top: 0.75rem;
-			left: 0.75rem;
-			max-width: calc(100vw - 1.5rem);
-			padding: 0.6rem 0.85rem;
-		}
-
-		.title h1 {
-			font-size: 1.25rem;
-		}
-
-		.title .small,
+	@media (max-width: 720px) {
 		.controls {
-			font-size: 0.78rem;
-			line-height: 1.35;
-		}
-
-		.title p {
-			margin-bottom: 0.2rem;
-		}
-
-		.switch {
-			margin-top: 0.3rem;
-			min-height: var(--tap-min);
-		}
-
-		.camera {
-			top: auto;
-			bottom: 4.5rem;
-			right: 0.75rem;
-			left: 0.75rem;
-			max-width: none;
-			justify-content: center;
-		}
-
-		.stage-strip {
-			bottom: 9rem;
-			flex-wrap: wrap;
-			justify-content: center;
-			gap: 0.4rem;
-			max-width: calc(100vw - 1.5rem);
-		}
-
-		/* Joystick owns the bottom-left 9.5rem; controls sit beside it, the nametag above both. */
-		.controls {
-			right: 0.75rem;
-			bottom: 0.75rem;
-			max-width: calc(100vw - 11rem);
-			padding: 0.5rem 0.7rem;
+			display: none;
 		}
 
 		.nametag {
-			bottom: 11rem;
+			bottom: 1rem;
 			min-width: 0;
-			max-width: calc(100vw - 1.5rem);
-		}
-
-		.nametag.floating {
-			bottom: auto;
+			max-width: calc(100% - 1.5rem);
 		}
 	}
 </style>

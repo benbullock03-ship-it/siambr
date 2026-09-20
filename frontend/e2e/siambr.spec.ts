@@ -2,86 +2,117 @@ import AxeBuilder from '@axe-core/playwright';
 import { expect, test, type Page } from '@playwright/test';
 
 const WCAG_22_AA = ['wcag2a', 'wcag2aa', 'wcag21a', 'wcag21aa', 'wcag22aa'];
+/** The fixture export's latest sitting. */
+const DATE = '2026-06-10';
 
 async function violations(page: Page) {
 	await page.evaluate(() => Promise.all(document.getAnimations().map((a) => a.finished)));
 	return (await new AxeBuilder({ page }).withTags(WCAG_22_AA).analyze()).violations;
 }
 
-test('the chamber renders with its HUD and zero axe violations', async ({ page }) => {
-	await page.goto('/siambr');
-	await expect(page.getByRole('heading', { level: 1, name: 'Y Siambr' })).toBeVisible();
-	await expect(page.getByText('Seventh Senedd')).toBeVisible();
+test('the front door is the latest sitting, paused, with one Play', async ({ page }) => {
+	await page.goto('/');
+	await expect(page).toHaveURL(new RegExp(`/sitting/${DATE}$`));
+	await expect(page.getByRole('button', { name: 'Play' })).toHaveCount(1);
 	await expect(page.getByText('Desk positions arranged by Siambr engine')).toBeVisible();
+	await expect(page.getByText(/Record as published/)).toBeVisible();
 	await expect(page.locator('canvas')).toHaveCount(1, { timeout: 20_000 });
-	await expect(page).toHaveURL(/\/siambr$/);
+	expect(await violations(page)).toEqual([]);
+});
+
+test('/siambr still opens the chamber', async ({ page }) => {
+	await page.goto('/siambr');
+	await expect(page).toHaveURL(new RegExp(`/sitting/${DATE}`));
+});
+
+test('the stage HUD passes axe at phone width with the sheet', async ({ page }) => {
+	await page.setViewportSize({ width: 360, height: 740 });
+	await page.goto(`/sitting/${DATE}`);
+	await expect(page.getByRole('tab', { name: 'Transcript' })).toBeVisible();
+	await expect(page.getByRole('region', { name: 'Sitting' }).getByRole('button', { name: 'Play' })).toBeVisible();
+	await page.getByRole('tab', { name: 'Running order' }).click();
+	await expect(page.getByRole('navigation', { name: 'Running order' })).toBeVisible();
+	const overflow = await page.evaluate(() => document.documentElement.scrollWidth - document.documentElement.clientWidth);
+	expect(overflow).toBeLessThanOrEqual(0);
+	await expect(page.locator('canvas')).toHaveCount(1, { timeout: 20_000 });
 	expect(await violations(page)).toEqual([]);
 });
 
 test('a Member record opens from the chamber as an accessible dossier', async ({ page }) => {
-	await page.goto('/siambr?member=ms-jane-doe');
+	await page.goto(`/sitting/${DATE}?member=ms-jane-doe`);
 	const dialog = page.getByRole('dialog', { name: /Jane Doe/ });
 	// A cold Vite compiles three.js on the first hit, so the record can take a while to arrive.
 	await expect(dialog).toBeVisible({ timeout: 20_000 });
 	await expect(dialog.getByText('NHS dentistry waiting lists in Wales remain unacceptably long.')).toBeVisible();
 	await expect(dialog.getByRole('cell', { name: 'For' })).toBeVisible();
-	await expect(dialog.getByRole('link', { name: 'Official Senedd profile' })).toHaveAttribute(
-		'href',
-		'https://senedd.wales/people/jane-doe/'
-	);
+	await expect(dialog.getByRole('link', { name: 'Official Senedd profile' })).toHaveAttribute('href', 'https://senedd.wales/people/jane-doe/');
 	expect(await violations(page)).toEqual([]);
 	await page.keyboard.press('Escape');
 	await expect(dialog).toBeHidden();
-	await expect(page).toHaveURL(/\/siambr$/);
+	await expect(page).toHaveURL(new RegExp(`/sitting/${DATE}$`));
 });
 
 test('reduced motion keeps the stage, hides the walk toggle and offers the Register', async ({ page }) => {
 	await page.emulateMedia({ reducedMotion: 'reduce' });
-	await page.goto('/siambr');
+	await page.goto(`/sitting/${DATE}`);
 	await expect(page.locator('canvas')).toHaveCount(1, { timeout: 20_000 });
 	await expect(page.getByRole('group', { name: 'Camera' })).toBeVisible();
 	await expect(page.getByRole('switch', { name: 'Walk the floor' })).toHaveCount(0);
-	await expect(page.getByRole('link', { name: 'Open the Register' })).toBeVisible();
+	await expect(page.getByRole('link', { name: 'Register' })).toBeVisible();
 });
 
 test('a kiosk hides the walk toggle', async ({ page }) => {
-	await page.goto('/siambr?kiosk=1');
+	await page.goto(`/sitting/${DATE}?kiosk=1`);
 	await expect(page.getByRole('group', { name: 'Camera' })).toBeVisible({ timeout: 20_000 });
 	await expect(page.getByRole('switch', { name: 'Walk the floor' })).toHaveCount(0);
 });
 
 test('the guided camera frames a desk on the first click and opens the Member on the second', async ({ page }) => {
-	await page.goto('/siambr');
+	await page.goto(`/sitting/${DATE}`);
 	const canvas = page.locator('canvas');
 	await expect(canvas).toHaveCount(1, { timeout: 20_000 });
 	await page.getByRole('button', { name: 'Floor' }).click();
 	// Give the software renderer a few frames so the click raycasts against a drawn scene.
 	await page.waitForTimeout(1500);
 	const box = (await canvas.boundingBox())!;
-	// Scan a horizontal band across the middle of the view until a desk answers with a nametag.
 	let framed = false;
 	for (let i = 0; i < 12 && !framed; i++) {
-		const x = box.x + box.width * (0.2 + i * 0.05);
-		const y = box.y + box.height * 0.6;
-		await page.mouse.click(x, y);
+		await page.mouse.click(box.x + box.width * (0.2 + i * 0.05), box.y + box.height * 0.6);
 		framed = (await page.locator('.nametag').count()) > 0;
 	}
 	expect(framed).toBe(true);
 	const name = await page.locator('.nametag .name').textContent();
-	// A second click on the same desk opens the Member record; the desk is now framed, so click the screen centre.
 	await page.waitForTimeout(800);
 	await page.mouse.click(box.x + box.width * 0.5, box.y + box.height * 0.62);
 	await expect(page.getByRole('dialog', { name: new RegExp(name!.trim()) })).toBeVisible({ timeout: 10_000 });
 });
 
-test('the sitting clock plays and lights a desk', async ({ page }) => {
-	await page.goto('/siambr');
+test('transport, keyboard and deep links drive the clock', async ({ page }) => {
+	await page.goto(`/sitting/${DATE}`);
 	await expect(page.locator('canvas')).toHaveCount(1, { timeout: 20_000 });
-	const play = page.getByRole('button', { name: 'Play' });
-	await expect(play).toBeVisible();
-	await play.click();
+	const transcript = page.getByRole('region', { name: 'Transcript' });
+	await expect(transcript.getByText('Official verbatim record')).toBeVisible();
+	await page.getByRole('button', { name: 'Next contribution' }).click();
+	await expect(page.getByRole('navigation', { name: 'Running order' }).locator('[aria-current="true"]')).toHaveCount(1);
+	await page.getByRole('button', { name: 'Play' }).click();
 	await expect(page.getByRole('button', { name: 'Pause' })).toBeVisible();
-	await expect(page.getByRole('group', { name: 'Sitting clock' }).locator('.live')).not.toHaveText('No one holds the floor.');
+	await expect(page).toHaveURL(/\?t=\d+/, { timeout: 5_000 });
+	await page.keyboard.press('Space');
+	await expect(page.getByRole('button', { name: 'Play' })).toBeVisible();
+	await page.keyboard.press(']');
+	await expect(page.getByRole('button', { name: '4x' })).toHaveAttribute('aria-pressed', 'true');
+
+	await page.goto(`/sitting/${DATE}?t=0`);
+	await expect(page.getByRole('button', { name: 'Play' })).toBeVisible({ timeout: 20_000 });
+	await expect(page.getByRole('region', { name: 'Transcript' }).getByText('Jane Doe')).toBeVisible();
+});
+
+test('an untimed contribution says the record gives no timestamp', async ({ page }) => {
+	await page.goto(`/sitting/${DATE}`);
+	await expect(page.locator('canvas')).toHaveCount(1, { timeout: 20_000 });
+	await page.evaluate(() => document.querySelectorAll('details').forEach((d) => (d.open = true)));
+	await page.getByRole('navigation', { name: 'Running order' }).getByRole('button', { name: /untimed/ }).first().click();
+	await expect(page.getByText('No broadcast timestamp published for this contribution.')).toBeVisible();
 });
 
 test('a device without WebGL falls back to the Register', async ({ page }) => {
@@ -93,30 +124,25 @@ test('a device without WebGL falls back to the Register', async ({ page }) => {
 		} as typeof original;
 		Object.defineProperty(navigator, 'gpu', { value: undefined, configurable: true });
 	});
-	await page.goto('/siambr');
-	await expect(page).toHaveURL(/\/register\?from=siambr&reason=no-webgl/);
+	await page.goto(`/sitting/${DATE}`);
+	await expect(page.getByText('This device cannot draw the chamber.')).toBeVisible();
+	await expect(page.getByRole('link', { name: 'Open the Register' })).toBeVisible();
+	expect(await page.locator('canvas').count()).toBe(0);
 });
 
 test('a low-memory device falls back to the Register', async ({ page }) => {
 	await page.addInitScript(() => {
 		Object.defineProperty(navigator, 'deviceMemory', { value: 1, configurable: true });
 	});
-	await page.goto('/siambr');
-	await expect(page).toHaveURL(/\/register\?from=siambr&reason=low-memory/);
+	await page.goto(`/sitting/${DATE}`);
+	await expect(page.getByText(/too little memory/)).toBeVisible();
 });
 
-test('a debate deep link opens its dossier over the chamber', async ({ page }) => {
-	await page.goto('/siambr?item=item-1');
-	const dialog = page.getByRole('dialog', { name: /NHS Dentistry Waiting Times/ });
-	await expect(dialog).toBeVisible({ timeout: 20_000 });
-	await expect(dialog.getByText('NHS dentistry waiting lists in Wales remain unacceptably long.')).toBeVisible();
-	await expect(dialog.getByRole('link', { name: 'Official Record of Proceedings' })).toHaveAttribute(
-		'href',
-		'https://record.senedd.wales/Plenary/2026-06-10.xml'
-	);
-	await expect(page.locator('canvas')).toHaveCount(1, { timeout: 20_000 });
-	expect(await violations(page)).toEqual([]);
-	await page.keyboard.press('Escape');
-	await expect(dialog).toBeHidden();
-	await expect(page).toHaveURL(/\/siambr$/);
+test('an item deep link opens at that item, paused', async ({ page }) => {
+	const items = (await (await page.request.get('/data/sittings/index.json')).json()) as { date: string; items: { id: string; title_en: string }[] }[];
+	const sitting = items.find((s) => s.date === DATE)!;
+	const last = sitting.items[sitting.items.length - 1];
+	await page.goto(`/sitting/${DATE}?item=${encodeURIComponent(last.id)}`);
+	await expect(page.getByRole('button', { name: 'Play' })).toBeVisible({ timeout: 20_000 });
+	await expect(page.getByRole('region', { name: 'Transcript' }).getByText(last.title_en)).toBeVisible();
 });
