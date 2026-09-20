@@ -5,10 +5,12 @@ import type { PageLoad } from './$types';
 
 export const prerender = true;
 
-/** The front door is the latest sitting, paused at its first timed contribution. */
+/** The front door is the latest sitting, paused at its first timed contribution. ?home=1 opens the landing page. */
 export const load: PageLoad = async ({ fetch, url }) => {
 	const index = await loadIndex(fetch).catch(() => null);
 	// The prerendered file cannot read the query; a client-side arrival keeps it.
-	if (index?.latest_sitting) redirect(307, `/sitting/${index.latest_sitting}${building ? '' : url.search}`);
+	if (!url.searchParams.has('home') && index?.latest_sitting) {
+		redirect(307, `/sitting/${index.latest_sitting}${building ? '' : url.search}`);
+	}
 	return { index };
 };

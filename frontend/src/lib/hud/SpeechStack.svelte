@@ -1,11 +1,23 @@
 <script lang="ts">
+	import { browser } from '$app/environment';
 	import { speakerOf } from '$lib/data/dossier';
 	import type { Contribution, MemberLight } from '$lib/data/types';
 	import { speechAnchor } from '$lib/dossier/anchors';
 	import { formatOffset } from '$lib/dossier/broadcast';
 	import { partyColor, partyLabel } from '$lib/dossier/parties';
+	import ExternalLink from './ExternalLink.svelte';
 
-	let { speeches, speakers }: { speeches: Contribution[]; speakers: Record<string, MemberLight> } = $props();
+	let {
+		speeches,
+		speakers,
+		targetSpeechId,
+		targetSpeakerId
+	}: {
+		speeches: Contribution[];
+		speakers: Record<string, MemberLight>;
+		targetSpeechId?: string;
+		targetSpeakerId?: string;
+	} = $props();
 
 	const initials = (name: string) =>
 		name
@@ -13,13 +25,39 @@
 			.map((w) => w[0])
 			.slice(0, 2)
 			.join('');
+
+	$effect(() => {
+		if (targetSpeechId && browser) {
+			const anchor = speechAnchor(targetSpeechId);
+			setTimeout(() => {
+				const el = document.getElementById(anchor);
+				if (el) {
+					el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+					el.focus();
+				}
+			}, 100);
+		}
+	});
 </script>
 
 <ol class="stack">
 	{#each speeches as s (s.id)}
 		{@const who = speakerOf(speakers, s.member_id)}
-		<li id={speechAnchor(s.id)} tabindex="-1">
+		{@const isTarget = targetSpeechId === s.id}
+		{@const isSpeakerMatch = Boolean(targetSpeakerId && targetSpeakerId === s.member_id)}
+		<li
+			id={speechAnchor(s.id)}
+			tabindex="-1"
+			class:target-speech={isTarget}
+			class:speaker-match={isSpeakerMatch && !isTarget}
+		>
 			<article aria-labelledby="{speechAnchor(s.id)}-speaker">
+				{#if isTarget}
+					<div class="target-badge" role="status">
+						<span class="target-dot"></span>
+						<span>Selected Contribution · {who.canonical_name}</span>
+					</div>
+				{/if}
 				<header>
 					{#if who.portrait_url}
 						<img class="portrait" src={who.portrait_url} alt="" width="48" height="48" loading="lazy" />
@@ -47,7 +85,7 @@
 				{#if s.t_start !== null}
 					<p class="offset small">
 						{#if s.tv_url}
-							<a href={s.tv_url} rel="external">Watch from <time data-numeric>{formatOffset(s.t_start)}</time></a>
+							<ExternalLink href={s.tv_url}>Watch from <time data-numeric>{formatOffset(s.t_start)}</time></ExternalLink>
 						{:else}
 							Broadcast offset <time data-numeric>{formatOffset(s.t_start)}</time>
 						{/if}
@@ -68,7 +106,45 @@
 	li {
 		padding: 1.25rem 0;
 		border-top: 1px solid var(--color-border);
-		scroll-margin-top: 1rem;
+		scroll-margin-top: 1.5rem;
+		transition: background 0.2s ease, border-color 0.2s ease;
+	}
+
+	li.target-speech {
+		background: rgba(201, 24, 126, 0.07);
+		border-left: 4px solid var(--color-accent-plum);
+		padding: 1.25rem 1.1rem;
+		margin: 0.75rem 0;
+		border-radius: 4px;
+		box-shadow: 0 0 0 1px rgba(201, 24, 126, 0.2), 0 4px 16px rgba(201, 24, 126, 0.08);
+	}
+
+	li.speaker-match {
+		background: rgba(200, 125, 74, 0.06);
+		border-left: 3px solid var(--color-timber-cedar);
+		padding-left: 0.85rem;
+	}
+
+	.target-badge {
+		display: inline-flex;
+		align-items: center;
+		gap: 0.45rem;
+		margin-bottom: 0.85rem;
+		padding: 0.25rem 0.65rem;
+		background: var(--color-accent-plum);
+		color: #ffffff;
+		font: 700 0.72rem var(--font-sans);
+		letter-spacing: 0.06em;
+		text-transform: uppercase;
+		border-radius: 2px;
+	}
+
+	.target-dot {
+		width: 6px;
+		height: 6px;
+		border-radius: 50%;
+		background: #ffffff;
+		box-shadow: 0 0 4px #ffffff;
 	}
 
 	li:focus-visible {

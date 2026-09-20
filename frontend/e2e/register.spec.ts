@@ -42,9 +42,10 @@ test('dossier plate opens accessibly and Escape returns focus to the item', asyn
 	await expect(item).toBeFocused();
 });
 
-test('a sitting row links to the stage and every item opens its dossier from JSON alone', async ({ page }) => {
+test('a sitting row links to the stage, stats, and every item opens its dossier from JSON alone', async ({ page }) => {
 	await page.goto('/register');
 	await expect(page.getByRole('link', { name: 'Watch it play' }).first()).toHaveAttribute('href', '/sitting/2026-06-10');
+	await expect(page.getByRole('link', { name: 'Session stats →' }).first()).toHaveAttribute('href', '/sitting/2026-06-10/stats');
 	await page.getByRole('link', { name: 'Rural Bus Routes' }).click();
 	const dialog = page.getByRole('dialog', { name: 'Rural Bus Routes' });
 	await expect(dialog.getByText('Item types and policy domains grouped by Siambr engine — speeches verbatim.')).toBeVisible();

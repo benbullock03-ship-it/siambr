@@ -3,6 +3,7 @@
 	import { BADGE } from '$lib/data/provenance';
 	import { partyColor, partyLabel } from '$lib/dossier/parties';
 	import DivisionPlate from '$lib/hud/DivisionPlate.svelte';
+	import ExternalLink from '$lib/hud/ExternalLink.svelte';
 	import type { SittingClock } from '../clock.svelte';
 	import type { Beat } from '../timeline';
 
@@ -100,7 +101,7 @@
 				{#if untimed}
 					No broadcast timestamp published for this contribution.
 				{:else if contribution.tv_url}
-					<a href={contribution.tv_url} rel="external">Watch this moment on Senedd TV</a>
+					<ExternalLink href={contribution.tv_url}>Watch this moment on Senedd TV</ExternalLink>
 				{/if}
 			</p>
 		</div>
@@ -112,12 +113,18 @@
 			</div>
 		</header>
 		<div class="body plate" bind:this={column}>
-			<DivisionPlate division={live.division} speakers={sitting.speakers} members />
+			<DivisionPlate
+				division={live.division}
+				speakers={sitting.speakers}
+				items={sitting.items}
+				date={sitting.date}
+				members
+			/>
 			{#if live.division.casting_vote}
 				<p class="small">Y Llywydd's casting vote was cast {live.division.casting_vote}. It sits outside the tally.</p>
 			{/if}
 			{#if live.division.source_url}
-				<p class="small tv"><a href={live.division.source_url} rel="external">The Record's Votes document for this meeting</a></p>
+				<p class="small tv"><ExternalLink href={live.division.source_url}>The Record's Votes document for this meeting</ExternalLink></p>
 			{/if}
 		</div>
 	{:else}

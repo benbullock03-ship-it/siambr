@@ -64,6 +64,19 @@
 		} else if (hud.anchor.visible) {
 			hud.anchor = { x: 0, y: 0, visible: false };
 		}
+
+		const speakerSeat = hud.liveSpeaker;
+		if (speakerSeat) {
+			probe.set(speakerSeat.desk.x, speakerSeat.desk.y + 1.35, speakerSeat.desk.z).project(camera);
+			const visible = probe.z < 1 && Math.abs(probe.x) < 1.05 && Math.abs(probe.y) < 1.05;
+			hud.liveSpeakerAnchor = {
+				x: ((probe.x + 1) / 2) * size.current.width,
+				y: ((1 - probe.y) / 2) * size.current.height,
+				visible
+			};
+		} else if (hud.liveSpeakerAnchor.visible) {
+			hud.liveSpeakerAnchor = { x: 0, y: 0, visible: false };
+		}
 	});
 
 	$effect(() => {

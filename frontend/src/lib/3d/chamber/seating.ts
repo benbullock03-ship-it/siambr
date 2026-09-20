@@ -12,6 +12,7 @@ export interface SeatAssignment {
 	desk: Desk;
 	member: MemberSummary;
 	provenance: typeof SEATING_PROVENANCE;
+	officeTitle?: string;
 }
 
 const partyKey = (m: MemberSummary) => m.party_id ?? 'independent';
@@ -53,4 +54,47 @@ export function assignSeats(members: MemberSummary[], desks: Desk[]): SeatAssign
 		member,
 		provenance: SEATING_PROVENANCE
 	}));
+}
+
+/** Official title in English and Welsh for Presiding Officers. */
+export function presidingOfficeTitle(office?: 'llywydd' | 'deputy_presiding_officer' | string | null): string {
+	if (office === 'deputy_presiding_officer') {
+		return 'Y Dirprwy Lywydd · Deputy Presiding Officer';
+	}
+	return 'Y Llywydd · Presiding Officer';
+}
+
+/**
+ * Chamber seating plan for a sitting:
+ * - All Members are allocated stable home desks across the floor by party bloc.
+ * - The active Presiding Officer occupies the dais, leaving their home floor desk vacant.
+ * - If another Presiding Officer is not currently in the chair, they occupy their normal floor desk.
+ */
+export function assignChamberSeats(
+	members: MemberSummary[],
+	desks: Desk[],
+	term: ParliamentaryTerm,
+	activePresidingMemberId?: string | null
+): SeatAssignment[] {
+	const baseFloorSeats = assignSeats(members, desks);
+	const activePoRecord = term.presiding_officers.find((o) => o.member_id === activePresidingMemberId);
+	const activePoMember = activePresidingMemberId ? members.find((m) => m.id === activePresidingMemberId) : null;
+	const fallbackLlywydd = llywyddOf(term, members);
+
+	const poMember = activePoMember ?? fallbackLlywydd;
+	const office =
+		activePoRecord?.office ??
+		(poMember && term.presiding_officers.find((o) => o.member_id === poMember.id)?.office) ??
+		'llywydd';
+
+	const seats = baseFloorSeats.filter((s) => s.member.id !== poMember?.id);
+	if (poMember) {
+		seats.push({
+			desk: llywyddDesk(),
+			member: poMember,
+			provenance: SEATING_PROVENANCE,
+			officeTitle: presidingOfficeTitle(office)
+		});
+	}
+	return seats;
 }

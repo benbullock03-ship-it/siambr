@@ -9,7 +9,7 @@
 	import { deskTint } from './divisionLight';
 	import { Eased, FLOOR_LIGHT, FLOOR_LIGHT_MS, liveDeskId, mixInto } from './floorLight';
 	import { CHAMBER, deskPoint, type Desk } from './layout';
-	import type { SeatAssignment } from './seating';
+	import { llywyddDesk, type SeatAssignment } from './seating';
 
 	let {
 		desks,
@@ -48,8 +48,8 @@
 			return { row, y: desks.find((d) => d.row === row)?.y ?? 0, geometry };
 		})
 	);
-	// Everything with a Member behind it, including Y Llywydd's place at the dais, in `seats` order.
-	const places = $derived(seats.map((s) => s.desk));
+	// All chamber places, including Y Llywydd's place at the dais.
+	const places = $derived([...desks, llywyddDesk()]);
 	const llywydd = $derived(places.find((d) => d.row < 0) ?? null);
 
 	const behind = (d: Desk, dz: number, y: number) => deskPoint(d, 0, dz, y);
@@ -61,6 +61,8 @@
 	let screenMesh = $state<ThreeInstancedMesh>();
 	let tabMesh = $state<ThreeInstancedMesh>();
 	let pool = $state<Mesh>();
+	let halo = $state<Mesh>();
+	let beam = $state<Mesh>();
 	const lit = new Map<string, Eased>();
 	const spoken = new Map<string, Eased>();
 	const eased = (map: Map<string, Eased>, id: string) => {
@@ -113,11 +115,24 @@
 				poolDeskId = liveDesk.id;
 				const [x, y, z] = behind(liveDesk, liveDesk.row < 0 ? -0.9 : 0.9, 0.015);
 				pool.position.set(x, y, z);
+				if (halo) halo.position.set(x, y + 0.002, z);
+				if (beam) beam.position.set(x, y + 3.2, z);
 			}
 			poolLit.set(liveDesk ? 1 : 0);
 			poolLit.step(dt, ms);
-			pool.visible = poolLit.value > 0;
-			(pool.material as { opacity: number }).opacity = 0.55 * poolLit.value;
+			const active = poolLit.value > 0;
+			pool.visible = active;
+			(pool.material as { opacity: number }).opacity = 0.65 * poolLit.value;
+
+			if (halo) {
+				halo.visible = active;
+				const pulse = 0.5 + 0.5 * Math.sin(performance.now() * 0.004);
+				(halo.material as { opacity: number }).opacity = (0.2 + 0.25 * pulse) * poolLit.value;
+			}
+			if (beam) {
+				beam.visible = active;
+				(beam.material as { opacity: number }).opacity = 0.22 * poolLit.value;
+			}
 		}
 	});
 </script>
@@ -165,6 +180,16 @@
 <T.Mesh bind:ref={pool} rotation.x={-Math.PI / 2} visible={false} renderOrder={1}>
 	<T.CircleGeometry args={[1.1, 40]} />
 	<T.MeshBasicMaterial color={FLOOR_LIGHT.pool} transparent opacity={0} blending={AdditiveBlending} depthWrite={false} />
+</T.Mesh>
+<!-- Outer radiant halo on the carpet -->
+<T.Mesh bind:ref={halo} rotation.x={-Math.PI / 2} visible={false} renderOrder={1}>
+	<T.RingGeometry args={[1.15, 1.8, 48]} />
+	<T.MeshBasicMaterial color="#ffc466" transparent opacity={0} blending={AdditiveBlending} depthWrite={false} side={DoubleSide} />
+</T.Mesh>
+<!-- Vertical architectural downlight column from the ceiling down to the speaker -->
+<T.Mesh bind:ref={beam} visible={false} renderOrder={1}>
+	<T.CylinderGeometry args={[0.35, 1.4, 6.4, 32, 1, true]} />
+	<T.MeshBasicMaterial color="#ffe699" transparent opacity={0} blending={AdditiveBlending} depthWrite={false} side={DoubleSide} />
 </T.Mesh>
 
 <!-- Microphone on a gooseneck, leaning towards the Member. -->

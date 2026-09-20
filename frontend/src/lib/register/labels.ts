@@ -14,6 +14,7 @@ export interface SessionFilters {
 	term: number | null;
 	domain: string | null;
 	speaker: string | null;
+	query: string | null;
 }
 
 export function parseFilters(params: URLSearchParams): SessionFilters {
@@ -21,6 +22,7 @@ export function parseFilters(params: URLSearchParams): SessionFilters {
 	return {
 		term: Number.isInteger(term) && term >= 1 && term <= 7 ? term : null,
 		domain: params.get('domain') || null,
-		speaker: params.get('speaker') || null
+		speaker: params.get('speaker') || null,
+		query: params.get('q') || null
 	};
 }

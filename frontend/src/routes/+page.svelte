@@ -17,12 +17,12 @@
 	</p>
 	{#if data.index?.latest_sitting}
 		<p>
-			Latest sitting: <a href="/register"><time datetime={data.index.latest_sitting} data-numeric>{data.index.latest_sitting}</time></a>
+			Latest sitting: <a href="/sitting/{data.index.latest_sitting}"><time datetime={data.index.latest_sitting} data-numeric>{data.index.latest_sitting}</time></a>
 			· <span data-numeric>{data.index.sitting_count}</span> sittings on record.
 		</p>
 	{/if}
 	<nav class="doors" aria-label="Enter">
-		<a class="button-primary" href="/siambr">Enter the chamber</a>
+		<a class="button-primary" href={data.index?.latest_sitting ? `/sitting/${data.index.latest_sitting}` : '/register'}>Enter the chamber</a>
 		<a href="/register">Open the Register</a>
 		<a href="/members">Find your Member</a>
 	</nav>

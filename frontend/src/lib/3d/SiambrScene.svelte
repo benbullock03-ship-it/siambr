@@ -10,7 +10,7 @@
 	import Floor from './chamber/Floor.svelte';
 	import Funnel from './chamber/Funnel.svelte';
 	import type { Desk } from './chamber/layout';
-	import type { SeatAssignment } from './chamber/seating';
+	import { llywyddDesk, type SeatAssignment } from './chamber/seating';
 	import type { GuidedRig } from './controls/guided.svelte';
 	import type { Player } from './controls/player.svelte';
 	import GuidedCamera from './GuidedCamera.svelte';
@@ -46,7 +46,7 @@
 	let floorMesh = $state<Mesh>();
 	let deskMesh = $state<InstancedMesh>();
 	let llywyddHit = $state<Mesh>();
-	const places = $derived(seats.map((s) => s.desk));
+	const places = $derived([...desks, llywyddDesk()]);
 
 	const EMPTY_FLOOR: FloorState = { live: null, spokenMemberIds: new Set(), division: null, divisionTint: null };
 	const floor = $derived<FloorState>(clock?.floor ?? EMPTY_FLOOR);

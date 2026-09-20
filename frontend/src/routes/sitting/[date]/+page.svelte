@@ -5,7 +5,8 @@
 	import { onMount, untrack } from 'svelte';
 	import { decideMode, probeDevice } from '$lib/3d/capability';
 	import { buildDesks, chamberColliders, chamberWallSegments, CHAMBER, spawnPoint, walkRadius, type Collider } from '$lib/3d/chamber/layout';
-	import { assignSeats, llywyddDesk, llywyddOf, SEATING_PROVENANCE, type SeatAssignment } from '$lib/3d/chamber/seating';
+	import { assignChamberSeats, assignSeats, llywyddDesk, llywyddOf, SEATING_PROVENANCE, type SeatAssignment } from '$lib/3d/chamber/seating';
+	import { buildPresidingSpans, presidingAt } from '$lib/stage/presiding';
 	import { GuidedRig } from '$lib/3d/controls/guided.svelte';
 	import { Player } from '$lib/3d/controls/player.svelte';
 	import { SiambrState } from '$lib/3d/state.svelte';
@@ -13,7 +14,9 @@
 	import type { MemberFile } from '$lib/data/types';
 	import MemberPlate from '$lib/hud/MemberPlate.svelte';
 	import SiambrHud from '$lib/hud/SiambrHud.svelte';
+	import { kiosk } from '$lib/kiosk.svelte';
 	import { SittingClock } from '$lib/stage/clock.svelte';
+	import { KioskIdleController } from '$lib/stage/kiosk.svelte';
 	import { applyAction, keyboardAction } from '$lib/stage/keys';
 	import { buildTimeline } from '$lib/stage/timeline';
 	import ProvenanceStrip from '$lib/stage/ui/ProvenanceStrip.svelte';
@@ -27,12 +30,6 @@
 
 	const sitting = $derived(data.sitting);
 	const desks = $derived(buildDesks(data.term.seat_count));
-	const llywydd = $derived(llywyddOf(data.term, data.members));
-	// The Llywydd presides from the dais, so their Member desk stays empty.
-	const seats = $derived<SeatAssignment[]>([
-		...assignSeats(data.members.filter((m) => m.id !== llywydd?.id), desks),
-		...(llywydd ? [{ desk: llywyddDesk(), member: llywydd, provenance: SEATING_PROVENANCE }] : [])
-	]);
 	const hud = new SiambrState();
 	// The chamber plan is fixed for the life of the page, so the walker's colliders are built once.
 	const wallColliders: Collider[] = chamberWallSegments().map((seg) => ({
@@ -44,20 +41,44 @@
 	const player = new Player([...chamberColliders(untrack(() => desks)), ...wallColliders], walkRadius(0), spawnPoint());
 	const rig = new GuidedRig();
 	const clock = untrack(() => new SittingClock(buildTimeline(data.sitting), data.sitting.meeting_start_time));
-	const presiding = $derived(new Set(data.term.presiding_officers.map((o) => o.member_id)));
+	const presidingSpans = $derived(buildPresidingSpans(sitting, data.term, clock.timeline));
+	const activePresidingMemberId = $derived(presidingAt(presidingSpans, clock.t));
+	const activePresiding = $derived(new Set(activePresidingMemberId ? [activePresidingMemberId] : []));
+	const activePresidingMember = $derived(
+		activePresidingMemberId ? data.members.find((m) => m.id === activePresidingMemberId) ?? null : null
+	);
+	const seats = $derived<SeatAssignment[]>(
+		assignChamberSeats(data.members, desks, data.term, activePresidingMemberId)
+	);
 	const deskByMember = $derived(new Map(seats.map((s) => [s.member.id, s.desk])));
 	const liveContribution = $derived(clock.floor.live?.kind === 'contribution' ? clock.floor.live.contribution : null);
-	// The desk the floor light is on: a seated, non-presiding speaker's own desk, else Y Llywydd's place.
+	// The desk the floor light is on: a seated, non-presiding speaker's own desk, else the dais desk.
 	const liveDesk = $derived.by(() => {
 		if (!liveContribution) return null;
 		const id = liveContribution.member_id;
-		return (id && !presiding.has(id) && deskByMember.get(id)) || deskByMember.get(llywydd?.id ?? '') || null;
+		return (id && !activePresiding.has(id) && deskByMember.get(id)) || deskByMember.get(activePresidingMemberId ?? '') || null;
+	});
+	const liveSeat = $derived.by(() => {
+		if (!liveContribution) return null;
+		const id = liveContribution.member_id;
+		if (id && !activePresiding.has(id)) {
+			const s = seats.find((seat) => seat.member.id === id);
+			if (s) return s;
+		}
+		if (activePresidingMember) {
+			return seats.find((seat) => seat.member.id === activePresidingMember.id) ?? null;
+		}
+		return null;
+	});
+
+	$effect(() => {
+		hud.liveSpeaker = liveSeat;
 	});
 
 	// Follow: each speaker change during playback re-frames the live desk. A deep link frames on arrival.
 	$effect(() => {
 		const desk = liveDesk;
-		if (!rig.follow || hud.walk || !clock.playing) return;
+		if (!rig.follow || hud.walk || !clock.playing || (hud.kiosk && hud.reducedMotion)) return;
 		untrack(() => {
 			if (desk && desk.id !== rig.framedDeskId) rig.frameDesk(desk);
 		});
@@ -86,10 +107,21 @@
 	let recordError = $state<string | null>(null);
 	const paused = $derived(record !== null || recordError !== null);
 
-	/** ?t= seeks and pauses with the camera on the speaker; ?item= seeks to the item's first timed contribution. */
+	/** ?t= seeks and pauses with the camera on the speaker; ?speech= seeks to that contribution; ?item= seeks to the item's first timed contribution. */
 	function applyDeepLink() {
+		const speech = params.get('speech');
 		const t = params.get('t');
 		const item = params.get('item');
+		if (speech) {
+			const c = sitting.contributions.find((contrib) => contrib.id === speech);
+			if (c && c.t_start !== null) {
+				clock.seek(c.t_start);
+				clock.pause();
+				const desk = liveDesk;
+				if (desk) rig.frameDesk(desk, 0);
+				return;
+			}
+		}
 		if (t !== null && Number.isFinite(Number(t))) {
 			clock.seek(Number(t));
 			clock.pause();
@@ -114,8 +146,11 @@
 		hud.touch = window.matchMedia?.('(pointer: coarse)').matches || navigator.maxTouchPoints > 0;
 		hud.reducedMotion = decision.reducedMotion;
 		rig.reducedMotion = decision.reducedMotion;
-		hud.kiosk = new URL(window.location.href).searchParams.get('kiosk') === '1';
+		kiosk.sync(page.url);
+		hud.kiosk = kiosk.active;
 		if (hud.reducedMotion || hud.kiosk) hud.walk = false;
+		const kioskController = new KioskIdleController(clock, rig, hud);
+		const cleanupKiosk = kioskController.start();
 		const narrow = window.matchMedia('(max-width: 720px)');
 		phone = narrow.matches;
 		const onNarrow = (e: MediaQueryListEvent) => (phone = e.matches);
@@ -125,7 +160,19 @@
 			Canvas = canvas.default;
 			Scene = scene.default;
 		});
-		return () => narrow.removeEventListener('change', onNarrow);
+		return () => {
+			cleanupKiosk();
+			narrow.removeEventListener('change', onNarrow);
+		};
+	});
+
+	$effect(() => {
+		hud.kiosk = kiosk.active;
+		if (hud.kiosk) hud.walk = false;
+		if (hud.drifting && (record || recordError)) {
+			record = null;
+			recordError = null;
+		}
 	});
 
 	// The URL is a moment: ?t= follows playback, throttled to once a second, without a navigation.
@@ -212,7 +259,7 @@
 			{@const SiambrScene = Scene}
 			<div class="canvas" aria-hidden="true">
 				<SiambrCanvas forceWebGL={renderer === 'webgl2'} onfailure={() => (fallback = 'no-webgl')} onready={(backend) => (renderer = backend)}>
-					<SiambrScene {desks} {seats} {clock} {rig} {player} {hud} {presiding} {paused} />
+					<SiambrScene {desks} {seats} {clock} {rig} {player} {hud} presiding={activePresiding} {paused} />
 				</SiambrCanvas>
 			</div>
 		{:else}
@@ -226,8 +273,11 @@
 				player.joystick.x = v.x;
 				player.joystick.y = v.y;
 			}}
-		/>
-		<ProvenanceStrip recordPublishedAt={sitting.record_published_at} sourceXmlUrl={sitting.source_xml_url} />
+		>
+			{#snippet provenance()}
+				<ProvenanceStrip recordPublishedAt={sitting.record_published_at} sourceXmlUrl={sitting.source_xml_url} />
+			{/snippet}
+		</SiambrHud>
 
 		{#if phone}
 			<StageSheet {clock}>
@@ -275,6 +325,7 @@
 		min-width: 0;
 		min-height: 0;
 		overflow: hidden;
+		isolation: isolate;
 	}
 
 	.canvas {
@@ -288,6 +339,8 @@
 		min-height: 0;
 		border-left: 1px solid var(--color-border);
 		background: var(--color-ground);
+		position: relative;
+		z-index: 25;
 	}
 
 	.column > :global(.order) {

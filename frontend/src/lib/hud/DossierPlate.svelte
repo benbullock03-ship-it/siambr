@@ -4,9 +4,20 @@
 	import { broadcastLink } from '$lib/dossier/broadcast';
 	import DivisionPlate from './DivisionPlate.svelte';
 	import Drawer from './Drawer.svelte';
+	import ExternalLink from './ExternalLink.svelte';
 	import SpeechStack from './SpeechStack.svelte';
 
-	let { dossier, onclose }: { dossier: Dossier; onclose: () => void } = $props();
+	let {
+		dossier,
+		targetSpeechId,
+		targetSpeakerId,
+		onclose
+	}: {
+		dossier: Dossier;
+		targetSpeechId?: string;
+		targetSpeakerId?: string;
+		onclose: () => void;
+	} = $props();
 
 	const titleId = $derived(`dossier-${dossier.item.id}-title`);
 	const itemBroadcast = $derived.by(() => {
@@ -30,7 +41,7 @@
 
 	<section class="seam" aria-label="Where to watch">
 		{#if itemBroadcast}
-			<a class="button-primary watch" href={itemBroadcast} rel="external">Watch on Senedd TV</a>
+			<ExternalLink class="button-primary watch" href={itemBroadcast}>Watch on Senedd TV</ExternalLink>
 		{/if}
 		<a class="stage" href={stageHref}>Watch it play in the chamber</a>
 	</section>
@@ -44,18 +55,28 @@
 			</p>
 		{/if}
 		{#if dossier.contributions.length}
-			<SpeechStack speeches={dossier.contributions} speakers={dossier.speakers} />
+			<SpeechStack
+				speeches={dossier.contributions}
+				speakers={dossier.speakers}
+				{targetSpeechId}
+				{targetSpeakerId}
+			/>
 		{:else}
 			<p>No contributions on record for this item.</p>
 		{/if}
 	</section>
 
 	{#each dossier.divisions as division (division.id)}
-		<DivisionPlate {division} speakers={dossier.speakers} />
+		<DivisionPlate
+			{division}
+			speakers={dossier.speakers}
+			items={dossier.sitting.items}
+			date={dossier.sitting.date}
+		/>
 	{/each}
 
 	<footer class="citation small">
-		Source: <a href={dossier.sitting.source_xml_url} rel="external">Official Record of Proceedings</a>
+		Source: <ExternalLink href={dossier.sitting.source_xml_url}>Official Record of Proceedings</ExternalLink>
 	</footer>
 </Drawer>
 
@@ -83,7 +104,7 @@
 		margin: 1.25rem 0;
 	}
 
-	.watch {
+	.seam :global(.watch) {
 		display: inline-flex;
 		align-items: center;
 		text-decoration: none;

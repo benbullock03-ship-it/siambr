@@ -313,7 +313,7 @@ const vantageAt = (radius: number, deg: number, y: number, target: Vec3): Camera
  * Floor: eye height in the wide western aisle. Speaker is computed per desk by `speakerPose`.
  */
 export const VANTAGES: Record<Exclude<VantageId, 'speaker'>, CameraPose> = {
-	gallery: vantageAt(14.6, 180, CHAMBER.galleryFloorY + 2.0, [0, 0.8, -2]),
+	gallery: vantageAt(12.0, 180, CHAMBER.galleryFloorY + 0.5, [0, 0.5, -2.5]),
 	llywydd: vantageAt(CHAMBER.dais.radius + 0.9, 0, CHAMBER.dais.height + 2.2, [0, 0.9, 5]),
 	floor: vantageAt(9.5, 270, floorHeightAt(9.5) + 1.62, [0, 1.0, -3])
 };

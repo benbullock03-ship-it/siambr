@@ -20,7 +20,7 @@ PLENARY_TITLE_CY = "Cyfarfod Llawn"
 # C = spoken contribution, O = tabled oral question printed under the asking Member.
 # B (question headings), I (editorial notes) and V (vote outcomes) are not speech.
 SPEECH_TYPES = {"C", "O"}
-PRESIDING_TITLES = {"llywydd", "presiding officer"}
+PRESIDING_TITLES = {"llywydd", "presiding officer", "deputy presiding officer", "dirprwy lywydd"}
 FALLBACK_DOMAIN = "devolution"
 
 ITEM_TYPE_RULES = [

@@ -2,6 +2,7 @@
 	import { BADGE } from '$lib/data/provenance';
 	import type { MemberContribution } from '$lib/data/types';
 	import { partyColor, partyLabel } from '$lib/dossier/parties';
+	import ExternalLink from '$lib/hud/ExternalLink.svelte';
 
 	let { data } = $props();
 
@@ -18,7 +19,7 @@
 			.slice(0, 2)
 			.join('');
 	const VOTE_LABEL: Record<string, string> = { for: 'For', against: 'Against', abstain: 'Abstain', did_not_vote: 'Did not vote' };
-	const chamberHref = (date: string, s: MemberContribution) => (s.t_start === null ? null : `/sitting/${date}?t=${s.t_start}`);
+	const chamberHref = (date: string, s: MemberContribution) => (s.t_start === null ? null : `/sitting/${date}?t=${s.t_start}&speech=${encodeURIComponent(s.id)}`);
 	const span = (start: string, end: string | null) => `${start} to ${end ?? 'present'}`;
 </script>
 
@@ -44,7 +45,7 @@
 				<span>{currentTenure?.is_regional_member && currentTenure.region_name ? `Regional Member, ${currentTenure.region_name}` : m.constituency_name_en}</span>
 				{#if m.current_status !== 'active'}<span>· {m.current_status === 'former' ? 'Former Member' : 'Deceased'}</span>{/if}
 			</p>
-			<p class="small"><a href={m.official_profile_url} rel="external">Official Senedd profile</a></p>
+			<p class="small"><ExternalLink href={m.official_profile_url}>Official Senedd profile</ExternalLink></p>
 		</div>
 	</header>
 
@@ -93,7 +94,7 @@
 					{#each day.contributions as s (s.id)}
 						<li id={s.id}>
 							<p class="small where">
-								<a href="/register?item={encodeURIComponent(s.item_id)}">{s.item_title_en}</a>
+								<a href="/register?item={encodeURIComponent(s.item_id)}&speech={encodeURIComponent(s.id)}">{s.item_title_en}</a>
 								<span class="lang" aria-label={s.lang === 'cy' ? 'Spoken in Welsh' : 'Spoken in English'}>{s.lang}</span>
 							</p>
 							<blockquote lang={s.lang}><p>{s.text_original}</p></blockquote>
@@ -109,7 +110,7 @@
 								{:else}
 									<span>No broadcast timestamp published, so this contribution cannot be placed on the stage.</span>
 								{/if}
-								{#if s.tv_url}<a href={s.tv_url} rel="external">Senedd TV</a>{/if}
+								{#if s.tv_url}<ExternalLink href={s.tv_url}>Senedd TV</ExternalLink>{/if}
 							</p>
 						</li>
 					{/each}
@@ -146,8 +147,8 @@
 	</section>
 
 	<footer class="citation small">
-		Source: <a href={m.official_profile_url} rel="external">Official Senedd profile</a>. Speeches quoted verbatim from the
-		<a href="https://record.senedd.wales/" rel="external">Record of Proceedings</a>; division results from Modern.Gov. Party and roles as recorded for each date.
+		Source: <ExternalLink href={m.official_profile_url}>Official Senedd profile</ExternalLink>. Speeches quoted verbatim from the
+		<ExternalLink href="https://record.senedd.wales/">Record of Proceedings</ExternalLink>; division results from Modern.Gov. Party and roles as recorded for each date.
 	</footer>
 </main>
 

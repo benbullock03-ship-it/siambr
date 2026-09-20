@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest';
-import type { MemberLight } from '$lib/data/types';
+import type { MemberLight, TermFile } from '$lib/data/types';
 import { buildDesks } from './layout';
-import { assignSeats, SEATING_PROVENANCE } from './seating';
+import { assignChamberSeats, assignSeats, SEATING_PROVENANCE } from './seating';
 
 const member = (id: string, party: string | null): MemberLight => ({
 	id,
@@ -51,3 +51,80 @@ describe('assignSeats', () => {
 		expect(() => assignSeats(members, desks)).toThrow();
 	});
 });
+
+describe('assignChamberSeats', () => {
+	const desks = buildDesks(96);
+	const kerry = member('ms-kerry-ferguson', 'plaid_cymru');
+	const huw = member('ms-huw-irranca-davies', 'labour');
+	const others = Array.from({ length: 94 }, (_, i) => member(`m${i}`, i < 40 ? 'plaid_cymru' : 'labour'));
+	const allMembers = [kerry, huw, ...others];
+
+	const term: TermFile = {
+		term: 7,
+		label_en: 'Seventh Senedd',
+		label_cy: 'Y Seithfed Senedd',
+		start_date: '2026-05-07',
+		end_date: null,
+		seat_count: 96,
+		presiding_officers: [
+			{
+				member_id: 'ms-kerry-ferguson',
+				office: 'deputy_presiding_officer',
+				start_date: '2026-05-12',
+				end_date: null,
+				provenance: 'test',
+				source_url: ''
+			},
+			{
+				member_id: 'ms-huw-irranca-davies',
+				office: 'llywydd',
+				start_date: '2026-05-12',
+				end_date: null,
+				provenance: 'test',
+				source_url: ''
+			}
+		],
+		members: allMembers
+	};
+
+	it('seats Kerry Ferguson at the dais as Deputy Presiding Officer when she is presiding', () => {
+		const seats = assignChamberSeats(allMembers, desks, term, 'ms-kerry-ferguson');
+		expect(seats).toHaveLength(96);
+
+		const daisSeat = seats.find((s) => s.desk.id === 'llywydd');
+		expect(daisSeat).toBeDefined();
+		expect(daisSeat?.member.id).toBe('ms-kerry-ferguson');
+		expect(daisSeat?.officeTitle).toBe('Y Dirprwy Lywydd · Deputy Presiding Officer');
+
+		const huwSeat = seats.find((s) => s.member.id === 'ms-huw-irranca-davies');
+		expect(huwSeat).toBeDefined();
+		expect(huwSeat?.desk.row).toBeGreaterThanOrEqual(0); // On the chamber floor
+	});
+
+	it('seats Huw Irranca-Davies at the dais as Presiding Officer when he is presiding', () => {
+		const seats = assignChamberSeats(allMembers, desks, term, 'ms-huw-irranca-davies');
+		expect(seats).toHaveLength(96);
+
+		const daisSeat = seats.find((s) => s.desk.id === 'llywydd');
+		expect(daisSeat).toBeDefined();
+		expect(daisSeat?.member.id).toBe('ms-huw-irranca-davies');
+		expect(daisSeat?.officeTitle).toBe('Y Llywydd · Presiding Officer');
+
+		const kerrySeat = seats.find((s) => s.member.id === 'ms-kerry-ferguson');
+		expect(kerrySeat).toBeDefined();
+		expect(kerrySeat?.desk.row).toBeGreaterThanOrEqual(0); // On the chamber floor
+	});
+
+	it('keeps other Members at identical floor desks when the chair switches', () => {
+		const kerryChairs = assignChamberSeats(allMembers, desks, term, 'ms-kerry-ferguson');
+		const huwChairs = assignChamberSeats(allMembers, desks, term, 'ms-huw-irranca-davies');
+
+		const kerryDeskMap = new Map(kerryChairs.map((s) => [s.member.id, s.desk.id]));
+		const huwDeskMap = new Map(huwChairs.map((s) => [s.member.id, s.desk.id]));
+
+		for (const m of others) {
+			expect(kerryDeskMap.get(m.id)).toBe(huwDeskMap.get(m.id));
+		}
+	});
+});
+

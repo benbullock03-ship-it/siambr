@@ -2,6 +2,7 @@
 	import { BADGE, PROVENANCE_DERIVED } from '$lib/data/provenance';
 	import { itemTypeLabel } from '$lib/register/labels';
 	import { count, duration, share } from '$lib/stats/format';
+	import ExternalLink from '$lib/hud/ExternalLink.svelte';
 	import MemberTable from '$lib/stats/MemberTable.svelte';
 	import PartyBars from '$lib/stats/PartyBars.svelte';
 
@@ -26,7 +27,7 @@
 		<p class="small links">
 			<a href="/sitting/{s.date}">Watch this sitting play</a>
 			<a href="/terms/{s.term}/stats">Stats for the {termLabel}</a>
-			<a href={s.source_xml_url} rel="external">Record of Proceedings</a>
+			<ExternalLink href={s.source_xml_url}>Record of Proceedings</ExternalLink>
 		</p>
 	</header>
 
@@ -93,7 +94,7 @@
 
 	<footer class="citation small">
 		Figures derived by Siambr from the
-		<a href={s.source_xml_url} rel="external">Record of Proceedings</a> for this date. Speaking time is a sum of the Senedd's own
+		<ExternalLink href={s.source_xml_url}>Record of Proceedings</ExternalLink> for this date. Speaking time is a sum of the Senedd's own
 		broadcast offsets; item types and policy domains are Siambr groupings.
 	</footer>
 </main>

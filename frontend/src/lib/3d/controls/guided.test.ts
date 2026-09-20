@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest';
 import { buildDesks, isInsideEnvelope, speakerPose, VANTAGES } from '../chamber/layout';
-import { GuidedRig, MOVE_MS, ORBIT, poseFromSpherical, sphericalOf } from './guided.svelte';
+import { DRIFT_LOOP_MS, driftPoseAt, GuidedRig, MOVE_MS, ORBIT, poseFromSpherical, sphericalOf } from './guided.svelte';
 
 const desks = buildDesks(96);
 
@@ -83,6 +83,50 @@ describe('GuidedRig', () => {
 		rig.speaker(desks[1], 0);
 		expect(rig.vantage).toBe('speaker');
 		expect(rig.framedDeskId).toBe(desks[1].id);
+	});
+
+	it('drift loop is 40 s, continuous, closed, and always stays inside the envelope', () => {
+		expect(DRIFT_LOOP_MS).toBe(40_000);
+		const start = driftPoseAt(0);
+		expect(start.position.map((v) => +v.toFixed(3))).toEqual(VANTAGES.gallery.position.map((v) => +v.toFixed(3)));
+		const end = driftPoseAt(1);
+		expect(end.position.map((v) => +v.toFixed(3))).toEqual(start.position.map((v) => +v.toFixed(3)));
+
+		let lastPos = start.position;
+		for (let i = 1; i <= 200; i++) {
+			const u = i / 200;
+			const pose = driftPoseAt(u);
+			expect(isInsideEnvelope(pose.position)).toBe(true);
+			const stepDist = Math.hypot(pose.position[0] - lastPos[0], pose.position[1] - lastPos[1], pose.position[2] - lastPos[2]);
+			// Step must be smooth and bounded, no sudden teleportation
+			expect(stepDist).toBeLessThan(1.0);
+			lastPos = pose.position;
+		}
+	});
+
+	it('GuidedRig starts and stops drift, and holds gallery under reduced motion', () => {
+		const rig = new GuidedRig();
+		rig.startDrift(0);
+		expect(rig.drifting).toBe(true);
+		expect(rig.moving).toBe(true);
+
+		rig.update(10_000); // 10s into 40s loop
+		const midPos = [...rig.position];
+		expect(midPos).not.toEqual(VANTAGES.gallery.position);
+		expect(isInsideEnvelope(rig.position)).toBe(true);
+
+		rig.stopDrift(10_000);
+		expect(rig.drifting).toBe(false);
+		expect(rig.vantage).toBe('gallery');
+
+		// Reduced motion holds gallery
+		const rmRig = new GuidedRig();
+		rmRig.reducedMotion = true;
+		rmRig.startDrift(0);
+		expect(rmRig.drifting).toBe(false);
+		expect(rmRig.position).toEqual(VANTAGES.gallery.position);
+		rmRig.update(10_000);
+		expect(rmRig.position).toEqual(VANTAGES.gallery.position);
 	});
 });
 

@@ -2,6 +2,8 @@
 	import type { MemberFile } from '$lib/data/types';
 	import { partyColor, partyLabel } from '$lib/dossier/parties';
 	import Drawer from './Drawer.svelte';
+	import ExternalLink from './ExternalLink.svelte';
+	import SpeechStack from './SpeechStack.svelte';
 
 	let { record, onclose }: { record: MemberFile; onclose: () => void } = $props();
 
@@ -131,7 +133,7 @@
 	</section>
 
 	<footer class="citation small">
-		Source: <a href={m.official_profile_url} rel="external">Official Senedd profile</a>. Speeches quoted from the Record of Proceedings.
+		Source: <ExternalLink href={m.official_profile_url}>Official Senedd profile</ExternalLink>. Speeches quoted from the Record of Proceedings.
 	</footer>
 </Drawer>
 

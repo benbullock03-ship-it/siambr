@@ -35,12 +35,66 @@ export function poseFromSpherical(target: Vec3, yaw: number, pitch: number, dist
 	};
 }
 
+export const DRIFT_LOOP_MS = 40_000;
+
+export const DRIFT_WAYPOINTS: CameraPose[] = [
+	VANTAGES.gallery,
+	VANTAGES.floor,
+	VANTAGES.llywydd,
+	{ position: [9.5, 2.12, 0], target: [0, 1.0, -3] }
+];
+
+function catmullRom(p0: number, p1: number, p2: number, p3: number, t: number): number {
+	const v0 = (p2 - p0) * 0.5;
+	const v1 = (p3 - p1) * 0.5;
+	const t2 = t * t;
+	const t3 = t * t * t;
+	return (2 * p1 - 2 * p2 + v0 + v1) * t3 + (-3 * p1 + 3 * p2 - 2 * v0 - v1) * t2 + v0 * t + p1;
+}
+
+export function driftPoseAt(progress: number, waypoints: CameraPose[] = DRIFT_WAYPOINTS): CameraPose {
+	const n = waypoints.length;
+	const p = ((progress % 1) + 1) % 1;
+	const u = p * n;
+	const i = Math.floor(u);
+	const t = u - i;
+
+	const i0 = (i - 1 + n) % n;
+	const i1 = i;
+	const i2 = (i + 1) % n;
+	const i3 = (i + 2) % n;
+
+	const w0 = waypoints[i0];
+	const w1 = waypoints[i1];
+	const w2 = waypoints[i2];
+	const w3 = waypoints[i3];
+
+	const pos: Vec3 = [
+		catmullRom(w0.position[0], w1.position[0], w2.position[0], w3.position[0], t),
+		catmullRom(w0.position[1], w1.position[1], w2.position[1], w3.position[1], t),
+		catmullRom(w0.position[2], w1.position[2], w2.position[2], w3.position[2], t)
+	];
+
+	const target: Vec3 = [
+		catmullRom(w0.target[0], w1.target[0], w2.target[0], w3.target[0], t),
+		catmullRom(w0.target[1], w1.target[1], w2.target[1], w3.target[1], t),
+		catmullRom(w0.target[2], w1.target[2], w2.target[2], w3.target[2], t)
+	];
+
+	return {
+		position: clampInsideEnvelope(pos),
+		target
+	};
+}
+
 export class GuidedRig {
 	vantage = $state<VantageId | 'desk'>('gallery');
 	follow = $state(true);
 	/** Desk the camera is framing, if any. */
 	framedDeskId = $state<string | null>(null);
 	reducedMotion = false;
+	drifting = $state(false);
+	private driftStartTime = 0;
 
 	position: Vec3 = [...VANTAGES.gallery.position];
 	target: Vec3 = [...VANTAGES.gallery.target];
@@ -54,11 +108,30 @@ export class GuidedRig {
 	}
 
 	get moving(): boolean {
-		return this.from !== null;
+		return this.from !== null || this.drifting;
+	}
+
+	startDrift(now = performance.now()): void {
+		this.framedDeskId = null;
+		this.from = null;
+		if (this.reducedMotion) {
+			this.drifting = false;
+			this.setVantage('gallery', 0, now);
+			return;
+		}
+		this.drifting = true;
+		this.driftStartTime = now;
+	}
+
+	stopDrift(now = performance.now()): void {
+		if (!this.drifting) return;
+		this.drifting = false;
+		this.setVantage('gallery', MOVE_MS, now);
 	}
 
 	/** Ease to a pose over `ms` (a cut when zero or under reduced motion). */
 	moveTo(pose: CameraPose, ms = MOVE_MS, now = performance.now()): void {
+		this.drifting = false;
 		this.to = clampPose(pose);
 		if (ms <= 0 || this.reducedMotion) {
 			this.from = null;
@@ -110,14 +183,28 @@ export class GuidedRig {
 	}
 
 	private settle(pose: CameraPose): void {
+		this.drifting = false;
 		this.from = null;
 		this.to = clampPose(pose);
 		this.position = [...this.to.position];
 		this.target = [...this.to.target];
 	}
 
-	/** Advance an eased move. Returns true while the camera is still travelling. */
+	/** Advance an eased move or drift. Returns true while the camera is still travelling. */
 	update(now = performance.now()): boolean {
+		if (this.drifting) {
+			if (this.reducedMotion) {
+				this.position = [...VANTAGES.gallery.position];
+				this.target = [...VANTAGES.gallery.target];
+				return false;
+			}
+			const elapsed = now - this.driftStartTime;
+			const progress = (((elapsed % DRIFT_LOOP_MS) + DRIFT_LOOP_MS) % DRIFT_LOOP_MS) / DRIFT_LOOP_MS;
+			const pose = driftPoseAt(progress);
+			this.position = [...pose.position];
+			this.target = [...pose.target];
+			return true;
+		}
 		if (!this.from) return false;
 		const k = Math.min(1, (now - this.started) / this.duration);
 		const e = easeOutCubic(k);

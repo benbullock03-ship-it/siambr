@@ -94,3 +94,42 @@ test('search finds a verbatim passage and links to the Register item and the sta
 	await page.getByRole('button', { name: 'Search' }).click();
 	await expect(page.getByText(/No contribution on record matches/)).toBeVisible();
 });
+
+test('member page speech links deep-link directly to highlighted speech in register', async ({ page }) => {
+	await page.goto('/members/ms-jane-doe');
+	const speechLink = page.locator('.where a').first();
+	await expect(speechLink).toBeVisible();
+	const href = await speechLink.getAttribute('href');
+	expect(href).toMatch(/\/register\?item=.+&speech=.+/);
+
+	await speechLink.click();
+	const dialog = page.getByRole('dialog');
+	await expect(dialog).toBeVisible();
+	const targetSpeech = dialog.locator('.target-speech');
+	await expect(targetSpeech).toBeVisible();
+	await expect(targetSpeech.locator('.target-badge')).toHaveText(/Selected Contribution/);
+	expect(await violations(page)).toEqual([]);
+});
+
+test('global navigation header and onboarding guide modal are accessible', async ({ page }) => {
+	await page.goto('/register');
+	await page.waitForLoadState('networkidle');
+	const header = page.getByRole('banner');
+	await expect(header).toBeVisible();
+	await expect(header.getByRole('link', { name: 'Chamber Stage' })).toBeVisible();
+	await expect(header.getByRole('link', { name: 'Members' })).toBeVisible();
+
+	const guideBtn = header.getByRole('button', { name: 'Guide' });
+	await expect(guideBtn).toBeVisible();
+	await guideBtn.click();
+
+	const modal = page.getByRole('dialog', { name: /How to explore the Senedd/ });
+	await expect(modal).toBeVisible();
+	await expect(modal.getByText(/The Chamber Stage/)).toBeVisible();
+	await expect(modal.getByText(/Find Your Member/)).toBeVisible();
+	await expect(modal.getByText(/Verbatim Truth/)).toBeVisible();
+
+	await page.keyboard.press('Escape');
+	await expect(modal).toBeHidden();
+	expect(await violations(page)).toEqual([]);
+});
