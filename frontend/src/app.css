@@ -1,0 +1,178 @@
+/* Senedd Estate design tokens. Source of truth: DESIGN.md */
+@import '@fontsource/lora/400.css';
+@import '@fontsource/lora/600.css';
+@import '@fontsource/dm-sans/400.css';
+@import '@fontsource/dm-sans/600.css';
+@import '@fontsource/dm-sans/700.css';
+@import '@fontsource/jetbrains-mono/400.css';
+@import '@fontsource/jetbrains-mono/600.css';
+
+:root {
+	color-scheme: light;
+
+	--color-ground: #f7f6f2;
+	--color-panel: #eceae3;
+	--color-ink: #16191d;
+	--color-body-text: #3f474f;
+	--color-muted: #65717c;
+	--color-border: #d1cebe;
+	--color-rule-strong: #3f474f;
+	--color-accent-plum: #c9187e;
+	--color-accent-plum-dark: #8f0d57;
+	--color-accent-plum-on-ink: #f485c2;
+	--color-timber-cedar: #c87d4a;
+	--color-timber-cedar-dark: #915025;
+	--color-timber-cedar-on-ink: #e6a87c;
+	--color-focus: #e8590c;
+	--color-inset-bar: #d1cebe;
+	--color-inset-bar-strong: #16191d;
+	--color-success: #1e6b41;
+	--color-warning: #a65b00;
+	--color-error: #c7261a;
+	--color-ink-room: #111417;
+	--color-ink-room-raised: #191d22;
+
+	--color-party-labour: #d93b3b;
+	--color-party-conservatives: #3b7bd9;
+	--color-party-plaid: #329966;
+	--color-party-libdems: #e59e2b;
+	--color-party-reform: #12b6cf;
+	--color-party-independent: #7a828a;
+
+	--font-serif: 'Lora', Georgia, serif;
+	--font-sans: 'DM Sans', 'Segoe UI', system-ui, -apple-system, sans-serif;
+	--font-mono: 'JetBrains Mono', Consolas, monospace;
+
+	--text-h1: clamp(2rem, 5vw, 3.5rem);
+	--text-h2: clamp(1.6rem, 3.2vw, 2.6rem);
+	--text-h3: 1.15rem;
+	--text-body: 0.95rem;
+	--text-small: 0.85rem;
+	--text-kicker: 0.75rem;
+	--text-figure: clamp(2rem, 5vw, 3.5rem);
+
+	--rounded-none: 0px;
+	--rounded-small: 4px;
+	--rounded-pill: 100px;
+
+	--focus-ring: 3px solid var(--color-focus);
+	--focus-ring-offset: 2px;
+	--tap-min: 44px;
+}
+
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+html {
+	background: var(--color-ground);
+	color: var(--color-ink);
+	font-family: var(--font-sans);
+	-webkit-text-size-adjust: 100%;
+}
+
+body {
+	margin: 0;
+	font-size: var(--text-body);
+	line-height: 1.65;
+	color: var(--color-body-text);
+}
+
+h1,
+h2 {
+	font-family: var(--font-serif);
+	font-weight: 600;
+	color: var(--color-ink);
+	margin: 0 0 0.5em;
+}
+
+h1 {
+	font-size: var(--text-h1);
+	line-height: 1.08;
+}
+
+h2 {
+	font-size: var(--text-h2);
+	line-height: 1.12;
+}
+
+h3 {
+	font-family: var(--font-sans);
+	font-size: var(--text-h3);
+	font-weight: 600;
+	line-height: 1.3;
+	color: var(--color-ink);
+	margin: 0 0 0.5em;
+}
+
+small,
+.small {
+	font-size: var(--text-small);
+	line-height: 1.45;
+}
+
+.kicker {
+	font-size: var(--text-kicker);
+	font-weight: 700;
+	letter-spacing: 0.14em;
+	text-transform: uppercase;
+	color: var(--color-muted);
+}
+
+.figure,
+time,
+[data-numeric] {
+	font-family: var(--font-mono);
+	font-variant-numeric: tabular-nums;
+}
+
+.figure {
+	font-size: var(--text-figure);
+	font-weight: 600;
+	color: var(--color-ink);
+}
+
+a {
+	color: var(--color-ink);
+	text-decoration-color: var(--color-timber-cedar);
+	text-underline-offset: 0.15em;
+}
+
+:focus-visible {
+	outline: var(--focus-ring);
+	outline-offset: var(--focus-ring-offset);
+}
+
+.plate {
+	background: var(--color-ground);
+	border: 1px solid var(--color-border);
+	border-radius: var(--rounded-none);
+}
+
+.button-primary {
+	background: var(--color-accent-plum);
+	color: #ffffff;
+	border: 0;
+	border-radius: var(--rounded-none);
+	min-height: var(--tap-min);
+	padding: 0 1.25rem;
+	font: 600 var(--text-body) var(--font-sans);
+	cursor: pointer;
+}
+
+.button-primary:hover {
+	background: var(--color-accent-plum-dark);
+}
+
+@media (prefers-reduced-motion: reduce) {
+	*,
+	*::before,
+	*::after {
+		animation-duration: 0.01ms !important;
+		animation-iteration-count: 1 !important;
+		transition-duration: 0.01ms !important;
+		scroll-behavior: auto !important;
+	}
+}

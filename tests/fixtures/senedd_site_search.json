@@ -1,0 +1,39 @@
+{
+  "totalCount": 2,
+  "count": 2,
+  "pageSize": 200,
+  "results": [
+    {
+      "document": {
+        "id": "1001",
+        "url_en_gb": "http://senedd.wales/people/test-person-ms/",
+        "url_cy_gb": "http://senedd.cymru/pobl/test-person-as/",
+        "site_personName_en_gb": "rt. hon. test person ms",
+        "site_personName_cy_gb": "rt. hon. test person as",
+        "site_personTitle_en_gb": "deputy first minister and cabinet minister for social justice and equality",
+        "site_personTitle_cy_gb": "y dirprwy brif weinidog a gweinidog cabinet dros gyfiawnder cymdeithasol a chydraddoldeb",
+        "site_constituency_en_gb": "bangor conwy môn",
+        "site_isActiveMs": true,
+        "site_isMinister": true,
+        "site_politicalParty": [{"id": "1", "partyName": "plaid cymru"}],
+        "site_politicalPartyGroup": [{"id": "2", "partyGroupName": "plaid cymru group"}]
+      }
+    },
+    {
+      "document": {
+        "id": "1002",
+        "url_en_gb": "http://senedd.wales/people/another-member-ms/",
+        "url_cy_gb": "http://senedd.cymru/pobl/another-member-as/",
+        "site_personName_en_gb": "another member ms",
+        "site_personName_cy_gb": "another member as",
+        "site_personTitle_en_gb": null,
+        "site_personTitle_cy_gb": null,
+        "site_constituency_en_gb": "gŵyr abertawe",
+        "site_isActiveMs": true,
+        "site_isMinister": false,
+        "site_politicalParty": [{"id": "3", "partyName": "reform uk"}],
+        "site_politicalPartyGroup": [{"id": "4", "partyGroupName": "reform uk wales group"}]
+      }
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+<script lang="ts">
+	import type { SpeakerContribution } from '$lib/api/types';
+	import { broadcastLink, formatOffset } from '$lib/dossier/broadcast';
+	import { speechAnchor } from '$lib/dossier/anchors';
+	import { partyColor, partyLabel } from '$lib/dossier/parties';
+
+	let { speeches, clipUrl }: { speeches: SpeakerContribution[]; clipUrl: string | null } = $props();
+
+	const initials = (name: string) =>
+		name
+			.split(/\s+/)
+			.map((w) => w[0])
+			.slice(0, 2)
+			.join('');
+</script>
+
+<ol class="stack">
+	{#each speeches as s (s.id)}
+		<li id={speechAnchor(s.id)} tabindex="-1">
+			<article aria-labelledby="{speechAnchor(s.id)}-speaker">
+				<header>
+					{#if s.member.portrait_url}
+						<img class="portrait" src={s.member.portrait_url} alt="" width="48" height="48" loading="lazy" />
+					{:else}
+						<span class="portrait initials" aria-hidden="true">{initials(s.member.canonical_name)}</span>
+					{/if}
+					<div>
+						<h3 id="{speechAnchor(s.id)}-speaker">{s.member.canonical_name}</h3>
+						<p class="meta small">
+							{#if s.role_title_en}<span class="role">{s.role_title_en}</span>{/if}
+							<span class="party" style:--party={partyColor(s.party_id_at_date)}>{partyLabel(s.party_id_at_date)}</span>
+							<span
+								class="lang"
+								aria-label={s.spoken_language === 'cy' ? 'Spoken in Welsh' : 'Spoken in English'}
+								>{s.spoken_language}</span
+							>
+						</p>
+					</div>
+				</header>
+				<blockquote lang={s.spoken_language}>
+					<p>{s.verbatim_text_original}</p>
+				</blockquote>
+				{#if s.spoken_language === 'cy' && s.verbatim_text_english && s.verbatim_text_english !== s.verbatim_text_original}
+					<details>
+						<summary class="small">Official English translation</summary>
+						<p lang="en">{s.verbatim_text_english}</p>
+					</details>
+				{/if}
+				{#if s.video_timestamp_start !== null}
+					{@const href = broadcastLink(clipUrl, s.video_timestamp_start)}
+					<p class="offset small">
+						{#if href}
+							<a {href} rel="external">Watch from <time data-numeric>{formatOffset(s.video_timestamp_start)}</time></a>
+						{:else}
+							Broadcast offset <time data-numeric>{formatOffset(s.video_timestamp_start)}</time>
+						{/if}
+					</p>
+				{/if}
+			</article>
+		</li>
+	{/each}
+</ol>
+
+<style>
+	.stack {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+	}
+
+	li {
+		padding: 1.25rem 0;
+		border-top: 1px solid var(--color-border);
+		scroll-margin-top: 1rem;
+	}
+
+	li:focus-visible {
+		outline-offset: 4px;
+	}
+
+	header {
+		display: flex;
+		gap: 0.75rem;
+		align-items: center;
+	}
+
+	h3 {
+		margin: 0;
+	}
+
+	.portrait {
+		flex: none;
+		width: 48px;
+		height: 48px;
+		object-fit: cover;
+		background: var(--color-panel);
+	}
+
+	.initials {
+		display: grid;
+		place-items: center;
+		font-weight: 600;
+		color: var(--color-body-text);
+	}
+
+	.meta {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 0.35rem 0.75rem;
+		margin: 0.1rem 0 0;
+		color: var(--color-body-text);
+	}
+
+	.role {
+		font-weight: 600;
+		color: var(--color-ink);
+	}
+
+	.party::before {
+		content: '';
+		display: inline-block;
+		width: 0.6em;
+		height: 0.6em;
+		margin-right: 0.35em;
+		background: var(--party);
+	}
+
+	.lang {
+		font-family: var(--font-mono);
+		text-transform: uppercase;
+		padding: 0 0.35rem;
+		border: 1px solid var(--color-rule-strong);
+		color: var(--color-ink);
+	}
+
+	blockquote {
+		margin: 0.75rem 0 0;
+		padding: 0;
+		color: var(--color-ink);
+		white-space: pre-line;
+	}
+
+	blockquote p {
+		margin: 0;
+		max-width: 68ch;
+	}
+
+	details {
+		margin-top: 0.5rem;
+	}
+
+	summary {
+		cursor: pointer;
+		color: var(--color-body-text);
+	}
+
+	.offset {
+		margin: 0.5rem 0 0;
+	}
+</style>

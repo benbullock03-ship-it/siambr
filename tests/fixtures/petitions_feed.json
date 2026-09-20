@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": 1353,
+      "links": {"self": "https://petitions.senedd.wales/petitions/P-06-1353.json"},
+      "attributes": {
+        "action": "Introduce a default 20mph speed limit review",
+        "creator_name": "Jane Petitioner",
+        "signature_count": 12450,
+        "created_at": "2025-01-10T09:00:00Z",
+        "closed_at": "2025-07-10T09:00:00Z",
+        "state": "closed",
+        "committee_response": "The Petitions Committee referred this to plenary.",
+        "debate": {
+          "debated": true,
+          "debated_on": "2026-09-10T00:00:00Z",
+          "debated_topic": "20mph default speed limit petition debate"
+        }
+      }
+    },
+    {
+      "id": 999,
+      "links": {"self": "https://petitions.senedd.wales/petitions/P-06-0999.json"},
+      "attributes": {
+        "action": "A small petition with too few signatures",
+        "creator_name": "John Small",
+        "signature_count": 42,
+        "created_at": "2026-02-01T09:00:00Z",
+        "state": "open",
+        "committee_response": null,
+        "debate": {"debated": false}
+      }
+    }
+  ],
+  "links": {"next": null}
+}

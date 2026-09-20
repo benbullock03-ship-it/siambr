@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Shape copied from business.senedd.wales/mgWebService.asmx/GetCouncillorsByWard (2026-09-14). Two synthetic entries. -->
+<councillorsbyward>
+  <wards>
+    <ward>
+      <wardtitle>Bangor Conwy Môn</wardtitle>
+      <councillors>
+        <councillorcount> 2</councillorcount>
+        <councillor>
+          <councillorid>1001</councillorid>
+          <fullusername>Rt. Hon. Test Person MS</fullusername>
+          <photosmallurl>https://business.senedd.wales/UserData/1/0/0/Info00001001/smallpic.jpg</photosmallurl>
+          <photobigurl>https://business.senedd.wales/UserData/1/0/0/Info00001001/bigpic.jpg</photobigurl>
+          <politicalpartytitle>Plaid Cymru</politicalpartytitle>
+          <politicalgrouptitle>Plaid Cymru Group</politicalgrouptitle>
+          <keyposts>
+          </keyposts>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>08/05/2021</startdate>
+              <enddate>07/04/2026</enddate>
+            </termofoffice>
+            <termofoffice>
+              <startdate>08/05/2026</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+        <councillor>
+          <councillorid>1002</councillorid>
+          <fullusername>Another Member MS</fullusername>
+          <photosmallurl></photosmallurl>
+          <photobigurl></photobigurl>
+          <politicalpartytitle>Reform UK</politicalpartytitle>
+          <politicalgrouptitle>Reform UK Wales Group</politicalgrouptitle>
+          <keyposts>
+          </keyposts>
+          <termsofoffice>
+            <termofoffice>
+              <startdate>08/05/2026</startdate>
+              <enddate>unspecified</enddate>
+            </termofoffice>
+          </termsofoffice>
+        </councillor>
+      </councillors>
+    </ward>
+  </wards>
+</councillorsbyward>
