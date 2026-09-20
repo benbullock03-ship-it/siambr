@@ -2,7 +2,7 @@
 id: T-21
 title: "Derived Stats: Speaking Time by Party and Member, per Sitting and per Term"
 kind: pipeline+frontend
-status: pending
+status: done
 depends: [T-20, T-16]
 ---
 
@@ -12,14 +12,21 @@ depends: [T-20, T-16]
 Answer "which parties spoke about what, and for how long" with sums of the record, badged as derived. Spec 2.0.0 section 5.2.
 
 ### Acceptance Criteria
-- [ ] `pipeline.export` writes `stats/sittings/{date}.json` and `stats/terms/{n}.json`, each with `provenance: "PROVENANCE_DERIVED"` at the top level and a `method` string in plain English ("Speaking time is the gap between a contribution's Senedd TV start and the next timed contribution's start. Untimed contributions carry no time.").
-- [ ] Per sitting: speaking seconds and contribution count by Member; by party (using `party_id_at_date`); by agenda item; count and share of Welsh-language contributions; number of untimed contributions (reported, not hidden); divisions count.
-- [ ] Per term: the same aggregated across sittings, plus contributions and speaking seconds by party by policy domain (domain badged derived).
-- [ ] `/sitting/[date]/stats`: a Register-style page with a derived badge in the header, a horizontal bar chart of speaking time by party, a table by Member (sortable), a table by item, and the untimed count. Charts follow the `dataviz` skill conventions and DESIGN.md tokens; party colours only where the bar is a party.
-- [ ] `/terms/[n]/stats`: the same plus a party-by-domain matrix (counts, not percentages, with the row and column totals shown).
-- [ ] The Stage top strip links to the sitting's stats page; the Register term header links to the term's.
-- [ ] Every figure on both pages reconciles to the sitting JSON: a `vitest` test recomputes one sitting's stats from its exported JSON and compares.
-- [ ] Provenance badging test (T-24) recognises these pages.
+- [x] `pipeline.export` writes `stats/sittings/{date}.json` and `stats/terms/{n}.json`, each with `provenance: "PROVENANCE_DERIVED"` at the top level and a `method` string in plain English ("Speaking time is the gap between a contribution's Senedd TV start and the next timed contribution's start. Untimed contributions carry no time.").
+- [x] Per sitting: speaking seconds and contribution count by Member; by party (using `party_id_at_date`); by agenda item; count and share of Welsh-language contributions; number of untimed contributions (reported, not hidden); divisions count.
+- [x] Per term: the same aggregated across sittings, plus contributions and speaking seconds by party by policy domain (domain badged derived).
+- [x] `/sitting/[date]/stats`: a Register-style page with a derived badge in the header, a horizontal bar chart of speaking time by party, a table by Member (sortable), a table by item, and the untimed count. Charts follow the `dataviz` skill conventions and DESIGN.md tokens; party colours only where the bar is a party.
+- [x] `/terms/[n]/stats`: the same plus a party-by-domain matrix (counts, not percentages, with the row and column totals shown).
+- [x] The Stage top strip links to the sitting's stats page; the Register term header links to the term's.
+- [x] Every figure on both pages reconciles to the sitting JSON: a `vitest` test recomputes one sitting's stats from its exported JSON and compares.
+- [ ] Provenance badging test (T-24) recognises these pages. *(Deferred to T-24: both pages carry a `data-provenance="PROVENANCE_DERIVED"` badge on the header for that test to find.)*
 
 **Notes:**
 - No percentages of "attention" or "dominance", no rankings with adjectives. Counts, seconds, and shares of a stated total only. The prose linter bans the rest.
+
+**Built:**
+- `pipeline/export.py`: `seconds_by_contribution`, `Exporter.stats_sitting`, `Exporter.stats_term`; writes `stats/sittings/{date}.json` and `stats/terms/{n}.json`.
+- `frontend/src/lib/stats/`: `reconcile.ts` (the method, recomputed from the sitting file, for the test), `format.ts`, `PartyBars.svelte`, `MemberTable.svelte`.
+- Routes `/sitting/[date]/stats` and `/terms/[n]/stats`, both prerendered from `svelte.config.js` entries.
+- Tests: `tests/test_export.py::StatsExportTests`, `frontend/src/lib/stats/reconcile.test.ts`.
+- Two contributions sharing a `startPos` split the gap between them, as the stage timeline does; the method string says so.

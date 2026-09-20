@@ -7,8 +7,17 @@ const staticDir = process.env.SIAMBR_STATIC_DIR ?? 'static';
 function sittingEntries() {
 	const index = join(staticDir, 'data', 'sittings', 'index.json');
 	if (!existsSync(index)) return [];
-	return JSON.parse(readFileSync(index, 'utf-8')).map((s) => `/sitting/${s.date}`);
+	return JSON.parse(readFileSync(index, 'utf-8')).flatMap((s) => [`/sitting/${s.date}`, `/sitting/${s.date}/stats`]);
 }
+/** Every exported term gets a prerendered /terms/{n}/stats. */
+function termStatsEntries() {
+	const dir = join(staticDir, 'data', 'stats', 'terms');
+	if (!existsSync(dir)) return [];
+	return readdirSync(dir)
+		.filter((f) => f.endsWith('.json'))
+		.map((f) => `/terms/${f.slice(0, -5)}/stats`);
+}
+
 /** Every exported Member file, current and former, gets a prerendered /members/{id}. */
 function memberEntries() {
 	const dir = join(staticDir, 'data', 'members');
@@ -30,7 +39,7 @@ const config = {
 		// No server at runtime: every route is prerendered or served from the SPA fallback.
 		adapter: adapter({ fallback: '404.html' }),
 		prerender: {
-			entries: ['/', '/register', '/members', '/search', '/siambr', ...sittingEntries(), ...memberEntries()]
+			entries: ['/', '/register', '/members', '/search', '/siambr', ...sittingEntries(), ...memberEntries(), ...termStatsEntries()]
 		}
 	}
 };

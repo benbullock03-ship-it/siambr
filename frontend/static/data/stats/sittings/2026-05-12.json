@@ -1,0 +1,138 @@
+{
+  "by_item": [
+    {
+      "contributions": 20,
+      "item_id": "item-16033-260512-1",
+      "order": 0,
+      "policy_domain_id": "devolution",
+      "seconds": 2824.0,
+      "title_cy": "1. Ethol Llywydd o dan Reol Sefydlog 6",
+      "title_en": "1. Election of the Presiding Officer under Standing Order 6",
+      "type": "debate",
+      "untimed_contributions": 0
+    },
+    {
+      "contributions": 7,
+      "item_id": "item-16033-260512-2",
+      "order": 1,
+      "policy_domain_id": "devolution",
+      "seconds": 88.0,
+      "title_cy": "2. Ethol Dirprwy Lywydd o dan Reol Sefydlog 6",
+      "title_en": "2. Election of the Deputy Presiding Officer under Standing Order 6",
+      "type": "debate",
+      "untimed_contributions": 0
+    }
+  ],
+  "by_member": [
+    {
+      "canonical_name": "Elin Jones",
+      "contributions": 7,
+      "member_id": "ms-elin-jones",
+      "party_id": "plaid_cymru",
+      "seconds": 2526.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Huw Irranca-Davies",
+      "contributions": 15,
+      "member_id": "ms-huw-irranca-davies",
+      "party_id": "labour",
+      "seconds": 372.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Matthew Jones",
+      "contributions": 1,
+      "member_id": "ms-matthew-jones",
+      "party_id": "plaid_cymru",
+      "seconds": 5.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Anthony Slaughter",
+      "contributions": 1,
+      "member_id": "ms-anthony-slaughter",
+      "party_id": "greens",
+      "seconds": 3.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Jane Dodds",
+      "contributions": 1,
+      "member_id": "ms-jane-dodds",
+      "party_id": "libdems",
+      "seconds": 2.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Jayne Bryant",
+      "contributions": 1,
+      "member_id": "ms-jayne-bryant",
+      "party_id": "labour",
+      "seconds": 2.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Sam Rowlands",
+      "contributions": 1,
+      "member_id": "ms-sam-rowlands",
+      "party_id": "conservatives",
+      "seconds": 2.0,
+      "untimed_contributions": 0
+    }
+  ],
+  "by_party": [
+    {
+      "contributions": 8,
+      "members": 2,
+      "party_id": "plaid_cymru",
+      "seconds": 2531.0,
+      "untimed_contributions": 0
+    },
+    {
+      "contributions": 16,
+      "members": 2,
+      "party_id": "labour",
+      "seconds": 374.0,
+      "untimed_contributions": 0
+    },
+    {
+      "contributions": 1,
+      "members": 1,
+      "party_id": "greens",
+      "seconds": 3.0,
+      "untimed_contributions": 0
+    },
+    {
+      "contributions": 1,
+      "members": 1,
+      "party_id": "conservatives",
+      "seconds": 2.0,
+      "untimed_contributions": 0
+    },
+    {
+      "contributions": 1,
+      "members": 1,
+      "party_id": "libdems",
+      "seconds": 2.0,
+      "untimed_contributions": 0
+    }
+  ],
+  "date": "2026-05-12",
+  "method": "Speaking time is the gap between a contribution's Senedd TV start and the next timed contribution's start. Untimed contributions carry no time. Where contributions share a start, the gap is split equally between them. The last timed contribution of a sitting has no next start, so it carries no time.",
+  "provenance": "PROVENANCE_DERIVED",
+  "record_published_at": "2026-05-13T21:54:07",
+  "source_xml_url": "https://record.senedd.wales/XMLExport/Download?meetingID=16033&xmlDownloadType=BilingualTranscript",
+  "term": 7,
+  "title_cy": "Cyfarfod Llawn",
+  "title_en": "Plenary",
+  "totals": {
+    "contributions": 27,
+    "divisions": 0,
+    "speaking_seconds": 2912.0,
+    "timed_contributions": 27,
+    "untimed_contributions": 0,
+    "welsh_contributions": 18,
+    "welsh_share": 0.667
+  }
+}

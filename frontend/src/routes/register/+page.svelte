@@ -129,7 +129,10 @@
 
 	{#each byTerm as [term, termSittings] (term)}
 		<section aria-labelledby="term-{term}">
-			<h2 id="term-{term}">{termLabel.get(term) ?? `Term ${term}`}</h2>
+			<header class="term-head">
+				<h2 id="term-{term}">{termLabel.get(term) ?? `Term ${term}`}</h2>
+				<p class="small"><a href="/terms/{term}/stats">Speaking time in this term</a></p>
+			</header>
 			{#each termSittings as sitting (sitting.id)}
 				<article class="session" aria-labelledby="session-{sitting.id}">
 					<header class="session-head">
@@ -185,6 +188,17 @@
 		max-width: 60rem;
 		margin: 0 auto;
 		padding: 3rem 1rem 4rem;
+	}
+
+	.term-head {
+		display: flex;
+		flex-wrap: wrap;
+		align-items: baseline;
+		gap: 0.5rem 1rem;
+	}
+
+	.term-head p {
+		margin: 0;
 	}
 
 	.lede {

@@ -92,7 +92,10 @@
 		{/if}
 	</div>
 
-	<a class="register" href="/register">Register</a>
+	<p class="links">
+		<a href="/sitting/{date}/stats">Stats</a>
+		<a href="/register">Register</a>
+	</p>
 </div>
 
 <style>
@@ -154,11 +157,12 @@
 		border-color: var(--color-ink);
 	}
 
-	.register {
-		margin-left: auto;
-		min-height: var(--tap-min);
-		display: inline-flex;
+	.links {
+		margin: 0 0 0 auto;
+		display: flex;
 		align-items: center;
+		gap: 0.75rem;
+		min-height: var(--tap-min);
 		font: 600 var(--text-small) var(--font-sans);
 	}
 

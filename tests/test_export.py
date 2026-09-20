@@ -8,7 +8,7 @@ import unittest
 from pathlib import Path
 
 from pipeline import run_checks
-from pipeline.export import export_connection
+from pipeline.export import export_connection, is_timed, rows, round3, seconds_by_contribution
 from pipeline.plenary import known_member_ids, normalise, write_session
 from tests.memory_db import memory_db
 from tests.test_plenary_ingestion import MODERN, SOURCE, insert_speakers
@@ -83,6 +83,18 @@ class ExportTests(unittest.TestCase):
         for c in (c for c in sitting["contributions"] if c["t_start"] is None):
             self.assertEqual(c["tv_url"], "http://www.senedd.tv/en/16086")
 
+    def test_division_carries_the_votes_document_it_came_from(self):
+        item_id = self.conn.execute("SELECT id FROM agenda_items ORDER BY item_order LIMIT 1").fetchone()["id"]
+        member_id = self.conn.execute("SELECT id FROM members LIMIT 1").fetchone()["id"]
+        self.conn.execute(
+            """INSERT INTO division_votes (id, agenda_item_id, motion_text, votes_for, votes_against, votes_abstain, result)
+               VALUES ('division-16086-1', ?, 'Motion NDM1', 1, 0, 0, 'agreed')""", (item_id,))
+        self.conn.execute("INSERT INTO member_votes (division_id, member_id, vote_cast) VALUES ('division-16086-1', ?, 'for')", (member_id,))
+        export_connection(self.conn, self.out)
+        division = read(self.out / "sittings" / "2026-07-15.json")["divisions"][0]
+        self.assertEqual(division["source_url"], "https://record.senedd.wales/XMLExport/Download?meetingID=16086&xmlDownloadType=Votes")
+        self.assertEqual(division["votes"], {member_id: "for"})
+
     def test_sittings_index_is_newest_first_with_item_speakers(self):
         index = read(self.out / "sittings" / "index.json")
         self.assertEqual([s["date"] for s in index], sorted((s["date"] for s in index), reverse=True))
@@ -145,9 +157,6 @@ class ExportTests(unittest.TestCase):
             self.assertIn("differs from Gold", check.failures[0])
 
 
-if __name__ == "__main__":
-    unittest.main()
-
     def test_search_index_lists_every_contribution_verbatim(self):
         index = read(self.out / "search" / "index.json")
         self.assertEqual(index["engine"], "minisearch")
@@ -171,3 +180,70 @@ if __name__ == "__main__":
         if speech["t_start"] is not None and speech["tv_url"]:
             self.assertTrue(speech["tv_url"].endswith(f"?startPos={speech['t_start']}"))
 
+
+class StatsExportTests(unittest.TestCase):
+    """T-21: derived stats files, badged and reconciling to the sitting they came from."""
+
+    def setUp(self):
+        self.conn = memory_db()
+        insert_speakers(self.conn, MODERN)
+        write_session(self.conn, normalise(MODERN, known_member_ids(self.conn), SOURCE))
+        self.tmp = tempfile.TemporaryDirectory()
+        self.out = Path(self.tmp.name) / "data"
+        export_connection(self.conn, self.out)
+        self.stats = read(self.out / "stats" / "sittings" / "2026-07-15.json")
+        self.sitting = read(self.out / "sittings" / "2026-07-15.json")
+
+    def tearDown(self):
+        self.tmp.cleanup()
+        self.conn.close()
+
+    def test_stats_files_are_badged_derived_and_state_their_method(self):
+        self.assertEqual(self.stats["provenance"], "PROVENANCE_DERIVED")
+        self.assertIn("Untimed contributions carry no time.", self.stats["method"])
+        term = read(self.out / "stats" / "terms" / "7.json")
+        self.assertEqual(term["provenance"], "PROVENANCE_DERIVED")
+        self.assertEqual(term["party_by_domain"]["domain_provenance"], "PROVENANCE_DERIVED")
+        self.assertEqual(term["method"], self.stats["method"])
+
+    def test_speaking_time_is_the_gap_to_the_next_timed_start(self):
+        contributions = rows(self.conn, "SELECT * FROM debate_contributions")
+        seconds = seconds_by_contribution(contributions)
+        timed = sorted(c["video_timestamp_start"] for c in contributions if is_timed(c))
+        self.assertEqual(round3(sum(seconds.values())), round3(timed[-1] - timed[0]))
+        for c in contributions:
+            self.assertEqual(is_timed(c), c["id"] in seconds)
+
+    def test_sitting_totals_and_breakdowns_reconcile(self):
+        totals = self.stats["totals"]
+        self.assertEqual(totals["contributions"], len(self.sitting["contributions"]))
+        self.assertEqual(totals["timed_contributions"] + totals["untimed_contributions"], totals["contributions"])
+        self.assertEqual(totals["welsh_contributions"], sum(1 for c in self.sitting["contributions"] if c["lang"] == "cy"))
+        self.assertEqual(totals["divisions"], len(self.sitting["divisions"]))
+        for key in ("by_member", "by_party", "by_item"):
+            self.assertEqual(sum(r["contributions"] for r in self.stats[key]), totals["contributions"], key)
+            self.assertEqual(round3(sum(r["seconds"] for r in self.stats[key])), totals["speaking_seconds"], key)
+        self.assertEqual([r["item_id"] for r in self.stats["by_item"]], [i["id"] for i in self.sitting["items"]])
+        for r in self.stats["by_member"]:
+            mine = [c for c in self.sitting["contributions"] if c["member_id"] == r["member_id"]]
+            self.assertEqual(r["contributions"], len(mine))
+            self.assertEqual(r["party_id"], self.sitting["speakers"][r["member_id"]]["party_id"])
+
+    def test_untimed_contributions_are_reported_not_hidden(self):
+        untimed = [c for c in self.sitting["contributions"] if c["t_start"] is None or c["t_start"] < 0]
+        self.assertEqual(self.stats["totals"]["untimed_contributions"], len(untimed))
+        self.assertEqual(sum(r["untimed_contributions"] for r in self.stats["by_member"]), len(untimed))
+
+    def test_term_stats_aggregate_the_sittings_and_cross_party_by_domain(self):
+        term = read(self.out / "stats" / "terms" / "7.json")
+        self.assertEqual(term["sitting_count"], 1)
+        self.assertEqual(term["totals"], self.stats["totals"])
+        self.assertEqual([s["date"] for s in term["by_sitting"]], ["2026-07-15"])
+        matrix = term["party_by_domain"]
+        self.assertEqual(sum(c["contributions"] for c in matrix["cells"]), term["totals"]["contributions"])
+        self.assertEqual(sorted({c["party_id"] for c in matrix["cells"]}, key=lambda p: p or ""), sorted(matrix["parties"], key=lambda p: p or ""))
+        self.assertTrue(set(matrix["domains"]) >= {c["domain_id"] for c in matrix["cells"]})
+
+
+if __name__ == "__main__":
+    unittest.main()

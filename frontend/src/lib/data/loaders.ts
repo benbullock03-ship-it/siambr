@@ -1,4 +1,14 @@
-import type { SearchIndexFile, MemberFile, MemberLight, SiteIndex, Sitting, SittingSummary, TermFile } from './types';
+import type {
+	MemberFile,
+	MemberLight,
+	SearchIndexFile,
+	SiteIndex,
+	Sitting,
+	SittingStats,
+	SittingSummary,
+	TermFile,
+	TermStats
+} from './types';
 
 type Fetch = typeof fetch;
 
@@ -38,3 +48,6 @@ export async function loadSittingForItem(fetch: Fetch, index: SittingSummary[], 
 	const sitting = await loadSitting(fetch, date);
 	return sitting.items.some((i) => i.id === itemId) ? sitting : null;
 }
+
+export const loadSittingStats = (fetch: Fetch, date: string) => getJson<SittingStats>(fetch, `/data/stats/sittings/${enc(date)}.json`);
+export const loadTermStats = (fetch: Fetch, term: number) => getJson<TermStats>(fetch, `/data/stats/terms/${term}.json`);

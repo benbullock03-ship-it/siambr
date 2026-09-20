@@ -11,14 +11,47 @@ from __future__ import annotations
 
 import argparse
 import json
+import math
 import sqlite3
-from collections import defaultdict
+from collections import Counter, defaultdict
 from pathlib import Path
 
+from pipeline.adapters.plenary_votes import votes_url
 from pipeline.db import DEFAULT_DB_PATH, REPO_ROOT, create_connection
 
 DEFAULT_OUT = REPO_ROOT / "frontend" / "static" / "data"
 PROVENANCE_DERIVED = "PROVENANCE_DERIVED"
+
+STATS_METHOD = (
+    "Speaking time is the gap between a contribution's Senedd TV start and the next timed "
+    "contribution's start. Untimed contributions carry no time. Where contributions share a start, "
+    "the gap is split equally between them. The last timed contribution of a sitting has no next "
+    "start, so it carries no time."
+)
+
+
+def round3(x: float) -> float:
+    """Half up to three decimals. The frontend rounds the same way, so the two reconcile exactly."""
+    return math.floor(x * 1000 + 0.5) / 1000
+
+
+def is_timed(c: dict) -> bool:
+    t = c["video_timestamp_start"]
+    return t is not None and t >= 0
+
+
+def seconds_by_contribution(contributions: list[dict]) -> dict[str, float]:
+    """Seconds on the floor per contribution id, by STATS_METHOD. Untimed ids are absent."""
+    timed = [c for c in contributions if is_timed(c)]
+    starts = sorted({c["video_timestamp_start"] for c in timed})
+    following = dict(zip(starts, starts[1:]))
+    sharers = Counter(c["video_timestamp_start"] for c in timed)
+    out = {}
+    for c in timed:
+        t = c["video_timestamp_start"]
+        end = following.get(t)
+        out[c["id"]] = 0.0 if end is None else (end - t) / sharers[t]
+    return out
 
 
 def dump(path: Path, payload) -> None:
@@ -142,6 +175,8 @@ class Exporter:
         for c in contributions:
             counts[c["agenda_item_id"]] += 1
         divisions = []
+        # The Votes document the divisions were read from; one per meeting.
+        votes_source = votes_url(mid) if (mid := meeting_id_of(s["id"])) is not None else None
         for d in rows(self.conn,
                       """SELECT d.* FROM division_votes d JOIN agenda_items a ON a.id = d.agenda_item_id
                          WHERE a.session_id = ? ORDER BY a.item_order, d.id""", (s["id"],)):
@@ -155,6 +190,7 @@ class Exporter:
                 "votes_abstain": d["votes_abstain"],
                 "casting_vote": d["casting_vote"],
                 "result": d["result"],
+                "source_url": votes_source,
                 "votes": {v["member_id"]: v["vote_cast"] for v in votes},
             })
         speaker_ids = sorted({c["member_id"] for c in contributions} | {mid for d in divisions for mid in d["votes"]})
@@ -339,6 +375,163 @@ class Exporter:
             "members": [self.member_light(mid) for mid in member_ids],
         }
 
+    # --- derived stats -------------------------------------------------------------------------
+
+    def stat_rows(self, s: dict) -> tuple[list[dict], list[dict], int]:
+        """One row per contribution, with the party and domain it counts towards, plus the items."""
+        items = rows(self.conn, "SELECT * FROM agenda_items WHERE session_id = ? ORDER BY item_order, id", (s["id"],))
+        domain_of = {i["id"]: i["policy_domain_id"] for i in items}
+        contributions = rows(
+            self.conn,
+            """SELECT c.* FROM debate_contributions c JOIN agenda_items a ON a.id = c.agenda_item_id
+               WHERE a.session_id = ? ORDER BY a.item_order, c.sequence_number, c.id""",
+            (s["id"],),
+        )
+        seconds = seconds_by_contribution(contributions)
+        date = s["session_date"]
+        out = [{
+            "member_id": c["member_id"],
+            "party_id": party_on(self.tenures[c["member_id"]], date),
+            "item_id": c["agenda_item_id"],
+            "domain_id": domain_of.get(c["agenda_item_id"]),
+            "lang": c["spoken_language"],
+            "seconds": seconds.get(c["id"]),
+        } for c in contributions]
+        divisions = self.conn.execute(
+            """SELECT count(*) FROM division_votes d JOIN agenda_items a ON a.id = d.agenda_item_id
+               WHERE a.session_id = ?""", (s["id"],)).fetchone()[0]
+        return out, items, divisions
+
+    @staticmethod
+    def tally(stat_rows: list[dict], key: str) -> dict:
+        buckets: dict = {}
+        for r in stat_rows:
+            b = buckets.setdefault(r[key], {"seconds": 0.0, "contributions": 0, "untimed_contributions": 0, "members": set()})
+            b["contributions"] += 1
+            b["members"].add(r["member_id"])
+            if r["seconds"] is None:
+                b["untimed_contributions"] += 1
+            else:
+                b["seconds"] += r["seconds"]
+        return buckets
+
+    def member_rows(self, stat_rows: list[dict]) -> list[dict]:
+        party_of = {r["member_id"]: r["party_id"] for r in stat_rows}
+        out = []
+        for member_id, b in self.tally(stat_rows, "member_id").items():
+            member = self.members.get(member_id)
+            out.append({
+                "member_id": member_id,
+                "canonical_name": member["canonical_name"] if member else member_id,
+                "party_id": party_of.get(member_id),
+                "seconds": round3(b["seconds"]),
+                "contributions": b["contributions"],
+                "untimed_contributions": b["untimed_contributions"],
+            })
+        return sorted(out, key=lambda r: (-r["seconds"], -r["contributions"], r["member_id"] or ""))
+
+    def party_rows(self, stat_rows: list[dict]) -> list[dict]:
+        out = [{
+            "party_id": party_id,
+            "seconds": round3(b["seconds"]),
+            "contributions": b["contributions"],
+            "untimed_contributions": b["untimed_contributions"],
+            "members": len(b["members"]),
+        } for party_id, b in self.tally(stat_rows, "party_id").items()]
+        return sorted(out, key=lambda r: (-r["seconds"], -r["contributions"], r["party_id"] or ""))
+
+    @staticmethod
+    def totals(stat_rows: list[dict], divisions: int) -> dict:
+        welsh = sum(1 for r in stat_rows if r["lang"] == "cy")
+        untimed = sum(1 for r in stat_rows if r["seconds"] is None)
+        return {
+            "contributions": len(stat_rows),
+            "timed_contributions": len(stat_rows) - untimed,
+            "untimed_contributions": untimed,
+            "speaking_seconds": round3(sum(r["seconds"] for r in stat_rows if r["seconds"] is not None)),
+            "divisions": divisions,
+            "welsh_contributions": welsh,
+            # Share of the contributions on record here, not of speaking time.
+            "welsh_share": round3(welsh / len(stat_rows)) if stat_rows else 0.0,
+        }
+
+    def stats_sitting(self, s: dict) -> dict:
+        stat_rows, items, divisions = self.stat_rows(s)
+        by_item = self.tally(stat_rows, "item_id")
+        empty = {"seconds": 0.0, "contributions": 0, "untimed_contributions": 0}
+        return {
+            "provenance": PROVENANCE_DERIVED,
+            "method": STATS_METHOD,
+            "date": s["session_date"],
+            "term": s["senedd_term"],
+            "title_en": s["title_en"],
+            "title_cy": s["title_cy"],
+            "source_xml_url": s["source_xml_url"],
+            "record_published_at": s["record_published_at"],
+            "totals": self.totals(stat_rows, divisions),
+            "by_member": self.member_rows(stat_rows),
+            "by_party": self.party_rows(stat_rows),
+            "by_item": [{
+                "item_id": i["id"],
+                "order": i["item_order"],
+                "title_en": i["title_en"],
+                "title_cy": i["title_cy"],
+                "type": i["item_type"],
+                "policy_domain_id": i["policy_domain_id"],
+                "seconds": round3(by_item.get(i["id"], empty)["seconds"]),
+                "contributions": by_item.get(i["id"], empty)["contributions"],
+                "untimed_contributions": by_item.get(i["id"], empty)["untimed_contributions"],
+            } for i in items],
+        }
+
+    def stats_term(self, t: dict) -> dict:
+        sessions = [s for s in self.sessions if s["senedd_term"] == t["term"]]
+        stat_rows: list[dict] = []
+        divisions = 0
+        sittings = []
+        for s in sessions:
+            own, _items, own_divisions = self.stat_rows(s)
+            stat_rows += own
+            divisions += own_divisions
+            sittings.append({"date": s["session_date"], **self.totals(own, own_divisions)})
+        matrix: dict = {}
+        for r in stat_rows:
+            cell = matrix.setdefault((r["party_id"], r["domain_id"]), {"seconds": 0.0, "contributions": 0})
+            cell["contributions"] += 1
+            if r["seconds"] is not None:
+                cell["seconds"] += r["seconds"]
+        parties = self.party_rows(stat_rows)
+        domains = [d["id"] for d in self.domains if any(r["domain_id"] == d["id"] for r in stat_rows)]
+        return {
+            "provenance": PROVENANCE_DERIVED,
+            "method": STATS_METHOD,
+            "term": t["term"],
+            "label_en": t["label_en"],
+            "label_cy": t["label_cy"],
+            "start_date": t["start_date"],
+            "end_date": t["end_date"],
+            "sitting_count": len(sessions),
+            "totals": self.totals(stat_rows, divisions),
+            "by_member": self.member_rows(stat_rows),
+            "by_party": parties,
+            "by_sitting": sorted(sittings, key=lambda r: r["date"], reverse=True),
+            # Contributions and seconds by party by policy domain; the domain is a Siambr grouping.
+            "party_by_domain": {
+                "domain_provenance": PROVENANCE_DERIVED,
+                "parties": [p["party_id"] for p in parties],
+                "domains": domains,
+                "cells": sorted(
+                    [{
+                        "party_id": party_id,
+                        "domain_id": domain_id,
+                        "contributions": cell["contributions"],
+                        "seconds": round3(cell["seconds"]),
+                    } for (party_id, domain_id), cell in matrix.items()],
+                    key=lambda c: (c["party_id"] or "", c["domain_id"] or ""),
+                ),
+            },
+        }
+
     # --- search --------------------------------------------------------------------------------
 
     def search_index(self) -> dict:
@@ -403,6 +596,10 @@ class Exporter:
             self.write(f"members/{mid}.json", self.member_file(mid))
         for t in self.terms:
             self.write(f"terms/{t['term']}.json", self.term_file(t))
+        for s in self.sessions:
+            self.write(f"stats/sittings/{s['session_date']}.json", self.stats_sitting(s))
+        for t in self.terms:
+            self.write(f"stats/terms/{t['term']}.json", self.stats_term(t))
         self.write("search/index.json", self.search_index())
         published = [s["record_published_at"] for s in self.sessions if s["record_published_at"]]
         last_run = self.conn.execute(

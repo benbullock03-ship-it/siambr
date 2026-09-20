@@ -237,3 +237,89 @@ export interface SearchIndexFile {
 	store_fields: string[];
 	documents: SearchDocument[];
 }
+
+/** Totals shared by the sitting and term stats files. Every figure is a count or a sum. */
+export interface StatTotals {
+	contributions: number;
+	timed_contributions: number;
+	untimed_contributions: number;
+	speaking_seconds: number;
+	divisions: number;
+	welsh_contributions: number;
+	/** Welsh contributions as a share of the contributions counted here. */
+	welsh_share: number;
+}
+
+export interface MemberStat {
+	member_id: string;
+	canonical_name: string;
+	party_id: string | null;
+	seconds: number;
+	contributions: number;
+	untimed_contributions: number;
+}
+
+export interface PartyStat {
+	party_id: string | null;
+	seconds: number;
+	contributions: number;
+	untimed_contributions: number;
+	members: number;
+}
+
+export interface ItemStat {
+	item_id: string;
+	order: number;
+	title_en: string;
+	title_cy: string;
+	type: string;
+	policy_domain_id: string;
+	seconds: number;
+	contributions: number;
+	untimed_contributions: number;
+}
+
+/** stats/sittings/{date}.json */
+export interface SittingStats {
+	provenance: ProvenanceDerived;
+	method: string;
+	date: string;
+	term: number;
+	title_en: string;
+	title_cy: string;
+	source_xml_url: string;
+	record_published_at: string | null;
+	totals: StatTotals;
+	by_member: MemberStat[];
+	by_party: PartyStat[];
+	by_item: ItemStat[];
+}
+
+export interface PartyDomainCell {
+	party_id: string | null;
+	domain_id: string;
+	contributions: number;
+	seconds: number;
+}
+
+/** stats/terms/{n}.json */
+export interface TermStats {
+	provenance: ProvenanceDerived;
+	method: string;
+	term: number;
+	label_en: string;
+	label_cy: string;
+	start_date: string;
+	end_date: string | null;
+	sitting_count: number;
+	totals: StatTotals;
+	by_member: MemberStat[];
+	by_party: PartyStat[];
+	by_sitting: ({ date: string } & StatTotals)[];
+	party_by_domain: {
+		domain_provenance: ProvenanceDerived;
+		parties: (string | null)[];
+		domains: string[];
+		cells: PartyDomainCell[];
+	};
+}

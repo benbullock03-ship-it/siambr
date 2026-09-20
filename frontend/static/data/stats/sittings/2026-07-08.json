@@ -1,0 +1,622 @@
+{
+  "by_item": [
+    {
+      "contributions": 72,
+      "item_id": "item-16084-260708-1",
+      "order": 0,
+      "policy_domain_id": "communities",
+      "seconds": 2975.0,
+      "title_cy": "1. Cwestiynau i’r Dirprwy Brif Weinidog a’r Gweinidog Cabinet dros Gyfiawnder Cymdeithasol a Chydraddoldeb",
+      "title_en": "1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice",
+      "type": "oral_questions",
+      "untimed_contributions": 6
+    },
+    {
+      "contributions": 64,
+      "item_id": "item-16084-260708-2",
+      "order": 1,
+      "policy_domain_id": "transport",
+      "seconds": 2816.0,
+      "title_cy": "2. Cwestiynau i'r Gweinidog Cabinet dros  Wydnwch Gwledig a Chynaliadwyedd",
+      "title_en": "2. Questions to the Cabinet Minister for Rural Resilience and Sustainability",
+      "type": "oral_questions",
+      "untimed_contributions": 8
+    },
+    {
+      "contributions": 1,
+      "item_id": "item-16084-260708-3",
+      "order": 2,
+      "policy_domain_id": "devolution",
+      "seconds": 3.0,
+      "title_cy": "3. Cwestiynau Amserol",
+      "title_en": "3. Topical Questions",
+      "type": "oral_questions",
+      "untimed_contributions": 0
+    },
+    {
+      "contributions": 10,
+      "item_id": "item-16084-260708-4",
+      "order": 3,
+      "policy_domain_id": "devolution",
+      "seconds": 414.0,
+      "title_cy": "4. Datganiadau 90 eiliad",
+      "title_en": "4. 90-second Statements",
+      "type": "statement",
+      "untimed_contributions": 0
+    },
+    {
+      "contributions": 25,
+      "item_id": "item-16084-260708-5",
+      "order": 4,
+      "policy_domain_id": "devolution",
+      "seconds": 1964.0,
+      "title_cy": "5. Dadl Deddfwriaethol Aelodau o dan Reol Sefydlog 11.21(iv): Bil ar rianta corfforaethol",
+      "title_en": "5. Member’s Legislative Debate under Standing Order 11.21(iv): A Bill on corporate parenting",
+      "type": "bill_stage",
+      "untimed_contributions": 0
+    },
+    {
+      "contributions": 25,
+      "item_id": "item-16084-260708-6",
+      "order": 5,
+      "policy_domain_id": "devolution",
+      "seconds": 3508.0,
+      "title_cy": "6. Dadl Aelodau o dan Reol Sefydlog 11.21(iv): Gwasanaethau offthalmoleg",
+      "title_en": "6. Member Debate under Standing Order 11.21(iv): Ophthalmology services",
+      "type": "debate",
+      "untimed_contributions": 0
+    },
+    {
+      "contributions": 42,
+      "item_id": "item-16084-260708-7",
+      "order": 6,
+      "policy_domain_id": "economy",
+      "seconds": 3664.0,
+      "title_cy": "7. Dadl Reform UK: Y sector twristiaeth",
+      "title_en": "7. Reform UK Debate: The tourism sector",
+      "type": "debate",
+      "untimed_contributions": 0
+    },
+    {
+      "contributions": 7,
+      "item_id": "item-16084-260708-8",
+      "order": 7,
+      "policy_domain_id": "devolution",
+      "seconds": 363.0,
+      "title_cy": "8. Cyfnod Pleidleisio",
+      "title_en": "8. Voting Time",
+      "type": "debate",
+      "untimed_contributions": 0
+    },
+    {
+      "contributions": 12,
+      "item_id": "item-16084-260708-9",
+      "order": 8,
+      "policy_domain_id": "health",
+      "seconds": 1585.0,
+      "title_cy": "9. Dadl Fer: Anghydraddoldebau iechyd ym meysydd glo de Cymru",
+      "title_en": "9. Short Debate: Health inequalities in the south Wales coalfield",
+      "type": "debate",
+      "untimed_contributions": 0
+    }
+  ],
+  "by_member": [
+    {
+      "canonical_name": "Sioned Williams",
+      "contributions": 34,
+      "member_id": "ms-sioned-williams",
+      "party_id": "plaid_cymru",
+      "seconds": 1833.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Llyr Gruffydd",
+      "contributions": 29,
+      "member_id": "ms-llyr-gruffydd",
+      "party_id": "plaid_cymru",
+      "seconds": 1483.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Gwyn Williams",
+      "contributions": 4,
+      "member_id": "ms-gwyn-williams",
+      "party_id": "plaid_cymru",
+      "seconds": 781.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Matthew Jones",
+      "contributions": 3,
+      "member_id": "ms-matthew-jones",
+      "party_id": "plaid_cymru",
+      "seconds": 715.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Nerys Evans",
+      "contributions": 4,
+      "member_id": "ms-nerys-evans",
+      "party_id": "plaid_cymru",
+      "seconds": 692.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Huw Irranca-Davies",
+      "contributions": 31,
+      "member_id": "ms-huw-irranca-davies",
+      "party_id": "labour",
+      "seconds": 638.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Jane Dodds",
+      "contributions": 7,
+      "member_id": "ms-jane-dodds",
+      "party_id": "libdems",
+      "seconds": 580.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Sarah Cooper-Lesadd",
+      "contributions": 9,
+      "member_id": "ms-sarah-cooper-lesadd",
+      "party_id": "plaid_cymru",
+      "seconds": 570.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Shav Taj",
+      "contributions": 8,
+      "member_id": "ms-shav-taj",
+      "party_id": "labour",
+      "seconds": 567.0,
+      "untimed_contributions": 1
+    },
+    {
+      "canonical_name": "Adam Price",
+      "contributions": 4,
+      "member_id": "ms-adam-price",
+      "party_id": "plaid_cymru",
+      "seconds": 535.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Louise Emery",
+      "contributions": 7,
+      "member_id": "ms-louise-emery",
+      "party_id": "reform_uk",
+      "seconds": 526.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Mabon ap Gwynfor",
+      "contributions": 3,
+      "member_id": "ms-mabon-ap-gwynfor",
+      "party_id": "plaid_cymru",
+      "seconds": 525.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Natasha Asghar",
+      "contributions": 4,
+      "member_id": "ms-natasha-asghar",
+      "party_id": "conservatives",
+      "seconds": 469.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Huw Thomas",
+      "contributions": 11,
+      "member_id": "ms-huw-thomas",
+      "party_id": "labour",
+      "seconds": 462.0,
+      "untimed_contributions": 1
+    },
+    {
+      "canonical_name": "Delyth Jewell",
+      "contributions": 5,
+      "member_id": "ms-delyth-jewell",
+      "party_id": "plaid_cymru",
+      "seconds": 420.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "John Davies",
+      "contributions": 3,
+      "member_id": "ms-john-davies",
+      "party_id": "plaid_cymru",
+      "seconds": 405.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Cristiana Emsley",
+      "contributions": 3,
+      "member_id": "ms-cristiana-emsley",
+      "party_id": "reform_uk",
+      "seconds": 389.0,
+      "untimed_contributions": 1
+    },
+    {
+      "canonical_name": "Tom Montgomery",
+      "contributions": 2,
+      "member_id": "ms-tom-montgomery",
+      "party_id": "reform_uk",
+      "seconds": 381.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Sara Crowley",
+      "contributions": 1,
+      "member_id": "ms-sara-crowley",
+      "party_id": "plaid_cymru",
+      "seconds": 348.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Paul Davies",
+      "contributions": 1,
+      "member_id": "ms-paul-davies",
+      "party_id": "conservatives",
+      "seconds": 335.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Sam Rowlands",
+      "contributions": 1,
+      "member_id": "ms-sam-rowlands",
+      "party_id": "conservatives",
+      "seconds": 323.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Steven Rodaway",
+      "contributions": 1,
+      "member_id": "ms-steven-rodaway",
+      "party_id": "reform_uk",
+      "seconds": 315.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Anna Nicholl",
+      "contributions": 3,
+      "member_id": "ms-anna-nicholl",
+      "party_id": "plaid_cymru",
+      "seconds": 282.0,
+      "untimed_contributions": 1
+    },
+    {
+      "canonical_name": "Safa Elhassan",
+      "contributions": 1,
+      "member_id": "ms-safa-elhassan",
+      "party_id": "plaid_cymru",
+      "seconds": 264.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "John Clark",
+      "contributions": 3,
+      "member_id": "ms-john-clark",
+      "party_id": "reform_uk",
+      "seconds": 263.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Beca Brown",
+      "contributions": 3,
+      "member_id": "ms-beca-brown",
+      "party_id": "plaid_cymru",
+      "seconds": 244.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Paul Marr",
+      "contributions": 2,
+      "member_id": "ms-paul-marr",
+      "party_id": "reform_uk",
+      "seconds": 242.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Laura Anne Jones",
+      "contributions": 3,
+      "member_id": "ms-laura-anne-jones",
+      "party_id": "reform_uk",
+      "seconds": 222.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Nigel Williams",
+      "contributions": 1,
+      "member_id": "ms-nigel-williams",
+      "party_id": "reform_uk",
+      "seconds": 196.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Elwyn Vaughan",
+      "contributions": 4,
+      "member_id": "ms-elwyn-vaughan",
+      "party_id": "plaid_cymru",
+      "seconds": 175.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Lis McLean",
+      "contributions": 3,
+      "member_id": "ms-lis-mclean",
+      "party_id": "plaid_cymru",
+      "seconds": 167.0,
+      "untimed_contributions": 1
+    },
+    {
+      "canonical_name": "Sera Evans",
+      "contributions": 1,
+      "member_id": "ms-sera-evans",
+      "party_id": "plaid_cymru",
+      "seconds": 135.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Vikki Howells",
+      "contributions": 2,
+      "member_id": "ms-vikki-howells",
+      "party_id": "labour",
+      "seconds": 132.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "James Evans",
+      "contributions": 1,
+      "member_id": "ms-james-evans",
+      "party_id": "reform_uk",
+      "seconds": 124.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Kerry Ferguson",
+      "contributions": 18,
+      "member_id": "ms-kerry-ferguson",
+      "party_id": "plaid_cymru",
+      "seconds": 120.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Sarah Rees",
+      "contributions": 3,
+      "member_id": "ms-sarah-rees",
+      "party_id": "plaid_cymru",
+      "seconds": 117.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Andrew RT Davies",
+      "contributions": 2,
+      "member_id": "ms-andrew-rt-davies",
+      "party_id": "conservatives",
+      "seconds": 117.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Kiera Marshall",
+      "contributions": 4,
+      "member_id": "ms-kiera-marshall",
+      "party_id": "plaid_cymru",
+      "seconds": 107.0,
+      "untimed_contributions": 2
+    },
+    {
+      "canonical_name": "Jayne Bryant",
+      "contributions": 3,
+      "member_id": "ms-jayne-bryant",
+      "party_id": "labour",
+      "seconds": 95.0,
+      "untimed_contributions": 1
+    },
+    {
+      "canonical_name": "Anthony Slaughter",
+      "contributions": 1,
+      "member_id": "ms-anthony-slaughter",
+      "party_id": "greens",
+      "seconds": 91.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Paul Rock",
+      "contributions": 1,
+      "member_id": "ms-paul-rock",
+      "party_id": "greens",
+      "seconds": 79.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Darren Millar",
+      "contributions": 1,
+      "member_id": "ms-darren-millar",
+      "party_id": "conservatives",
+      "seconds": 74.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Gareth Thomas",
+      "contributions": 1,
+      "member_id": "ms-gareth-thomas",
+      "party_id": "reform_uk",
+      "seconds": 71.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Elyn Stephens",
+      "contributions": 3,
+      "member_id": "ms-elyn-stephens",
+      "party_id": "plaid_cymru",
+      "seconds": 68.0,
+      "untimed_contributions": 1
+    },
+    {
+      "canonical_name": "Lynne Neagle",
+      "contributions": 1,
+      "member_id": "ms-lynne-neagle",
+      "party_id": "labour",
+      "seconds": 66.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "David Hughes",
+      "contributions": 1,
+      "member_id": "ms-david-hughes",
+      "party_id": "reform_uk",
+      "seconds": 59.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Carrie Harper",
+      "contributions": 2,
+      "member_id": "ms-carrie-harper",
+      "party_id": "plaid_cymru",
+      "seconds": 58.0,
+      "untimed_contributions": 1
+    },
+    {
+      "canonical_name": "Zaynub Akbar",
+      "contributions": 1,
+      "member_id": "ms-zaynub-akbar",
+      "party_id": "plaid_cymru",
+      "seconds": 57.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Donna Cushing",
+      "contributions": 1,
+      "member_id": "ms-donna-cushing",
+      "party_id": "plaid_cymru",
+      "seconds": 54.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Sarah Edwards",
+      "contributions": 2,
+      "member_id": "ms-sarah-edwards",
+      "party_id": "reform_uk",
+      "seconds": 51.0,
+      "untimed_contributions": 1
+    },
+    {
+      "canonical_name": "Francesca O'Brien",
+      "contributions": 1,
+      "member_id": "ms-francesca-o-brien",
+      "party_id": "reform_uk",
+      "seconds": 51.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Marc Jones",
+      "contributions": 2,
+      "member_id": "ms-marc-jones",
+      "party_id": "plaid_cymru",
+      "seconds": 43.0,
+      "untimed_contributions": 1
+    },
+    {
+      "canonical_name": "Benjamin Hodge Mckenna",
+      "contributions": 1,
+      "member_id": "ms-benjamin-hodge-mckenna",
+      "party_id": "reform_uk",
+      "seconds": 41.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Helen Jenner",
+      "contributions": 2,
+      "member_id": "ms-helen-jenner",
+      "party_id": "reform_uk",
+      "seconds": 36.0,
+      "untimed_contributions": 1
+    },
+    {
+      "canonical_name": "Stephen Senior",
+      "contributions": 1,
+      "member_id": "ms-stephen-senior",
+      "party_id": "reform_uk",
+      "seconds": 36.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Jason O'Connell",
+      "contributions": 3,
+      "member_id": "ms-jason-o-connell",
+      "party_id": "reform_uk",
+      "seconds": 35.0,
+      "untimed_contributions": 1
+    },
+    {
+      "canonical_name": "Joe Martin",
+      "contributions": 1,
+      "member_id": "ms-joe-martin",
+      "party_id": "reform_uk",
+      "seconds": 28.0,
+      "untimed_contributions": 0
+    }
+  ],
+  "by_party": [
+    {
+      "contributions": 148,
+      "members": 25,
+      "party_id": "plaid_cymru",
+      "seconds": 10198.0,
+      "untimed_contributions": 7
+    },
+    {
+      "contributions": 36,
+      "members": 18,
+      "party_id": "reform_uk",
+      "seconds": 3066.0,
+      "untimed_contributions": 4
+    },
+    {
+      "contributions": 56,
+      "members": 6,
+      "party_id": "labour",
+      "seconds": 1960.0,
+      "untimed_contributions": 3
+    },
+    {
+      "contributions": 9,
+      "members": 5,
+      "party_id": "conservatives",
+      "seconds": 1318.0,
+      "untimed_contributions": 0
+    },
+    {
+      "contributions": 7,
+      "members": 1,
+      "party_id": "libdems",
+      "seconds": 580.0,
+      "untimed_contributions": 0
+    },
+    {
+      "contributions": 2,
+      "members": 2,
+      "party_id": "greens",
+      "seconds": 170.0,
+      "untimed_contributions": 0
+    }
+  ],
+  "date": "2026-07-08",
+  "method": "Speaking time is the gap between a contribution's Senedd TV start and the next timed contribution's start. Untimed contributions carry no time. Where contributions share a start, the gap is split equally between them. The last timed contribution of a sitting has no next start, so it carries no time.",
+  "provenance": "PROVENANCE_DERIVED",
+  "record_published_at": "2026-07-11T06:13:23",
+  "source_xml_url": "https://record.senedd.wales/XMLExport/Download?meetingID=16084&xmlDownloadType=BilingualTranscript",
+  "term": 7,
+  "title_cy": "Cyfarfod Llawn",
+  "title_en": "Plenary",
+  "totals": {
+    "contributions": 258,
+    "divisions": 4,
+    "speaking_seconds": 17292.0,
+    "timed_contributions": 244,
+    "untimed_contributions": 14,
+    "welsh_contributions": 99,
+    "welsh_share": 0.384
+  }
+}

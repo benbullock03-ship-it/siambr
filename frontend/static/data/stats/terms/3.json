@@ -1,0 +1,28 @@
+{
+  "by_member": [],
+  "by_party": [],
+  "by_sitting": [],
+  "end_date": "2011-05-04",
+  "label_cy": "Y Trydydd Cynulliad",
+  "label_en": "Third Assembly",
+  "method": "Speaking time is the gap between a contribution's Senedd TV start and the next timed contribution's start. Untimed contributions carry no time. Where contributions share a start, the gap is split equally between them. The last timed contribution of a sitting has no next start, so it carries no time.",
+  "party_by_domain": {
+    "cells": [],
+    "domain_provenance": "PROVENANCE_DERIVED",
+    "domains": [],
+    "parties": []
+  },
+  "provenance": "PROVENANCE_DERIVED",
+  "sitting_count": 0,
+  "start_date": "2007-05-03",
+  "term": 3,
+  "totals": {
+    "contributions": 0,
+    "divisions": 0,
+    "speaking_seconds": 0.0,
+    "timed_contributions": 0,
+    "untimed_contributions": 0,
+    "welsh_contributions": 0,
+    "welsh_share": 0.0
+  }
+}
