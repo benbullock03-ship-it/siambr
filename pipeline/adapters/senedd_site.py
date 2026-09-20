@@ -290,7 +290,9 @@ def build_records(current: list[dict], archives: list[dict], profiles: dict[str,
             current_status="active" if cur and cur["is_active"] else "former",
             **_seat_fields(seat_now),
         )
-        if rec.cymraeg_name == rec.canonical_name:
+        # The search-index fallback is a lowercased English name re-cased by rule; when it is the
+        # English name in any casing it is no Welsh name at all and must not be shown as one.
+        if rec.cymraeg_name and rec.cymraeg_name.casefold() == rec.canonical_name.casefold():
             rec.cymraeg_name = None
 
         ranges = prof.get("terms_of_office") or []

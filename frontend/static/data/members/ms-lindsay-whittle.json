@@ -625,13 +625,13 @@
   "tenures": [
     {
       "end_date": "2016-04-05",
-      "is_regional_member": true,
+      "is_regional_member": false,
       "party_id": "plaid_cymru",
       "party_label": "Plaid Cymru",
       "party_provenance": "profile_current",
-      "region_name": "South Wales Central",
+      "region_name": null,
       "seat_gss_code": null,
-      "seat_name": "South Wales Central",
+      "seat_name": null,
       "senedd_term": 4,
       "source_url": "https://senedd.wales/people/lindsay-whittle-ms/",
       "start_date": "2011-05-06"
@@ -643,8 +643,8 @@
       "party_label": "Plaid Cymru",
       "party_provenance": "profile_current",
       "region_name": null,
-      "seat_gss_code": "W09000035",
-      "seat_name": "Caerphilly",
+      "seat_gss_code": null,
+      "seat_name": null,
       "senedd_term": 6,
       "source_url": "https://senedd.wales/people/lindsay-whittle-ms/",
       "start_date": "2025-10-24"

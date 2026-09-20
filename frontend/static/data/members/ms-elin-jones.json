@@ -1584,12 +1584,12 @@
       "is_regional_member": false,
       "party_id": "plaid_cymru",
       "party_label": "Plaid Cymru",
-      "party_provenance": "profile_current",
+      "party_provenance": "curated_reference",
       "region_name": null,
       "seat_gss_code": "W09000012",
       "seat_name": "Ceredigion",
       "senedd_term": 1,
-      "source_url": "https://senedd.wales/people/elin-jones-ms/",
+      "source_url": "https://web.archive.org/web/2026/http://news.bbc.co.uk/hi/english/static/vote_99/wales_99/html/constituency/14.stm",
       "start_date": "1999-05-07"
     },
     {
@@ -1597,12 +1597,12 @@
       "is_regional_member": false,
       "party_id": "plaid_cymru",
       "party_label": "Plaid Cymru",
-      "party_provenance": "profile_current",
+      "party_provenance": "curated_reference",
       "region_name": null,
       "seat_gss_code": "W09000012",
       "seat_name": "Ceredigion",
       "senedd_term": 2,
-      "source_url": "https://senedd.wales/people/elin-jones-ms/",
+      "source_url": "https://web.archive.org/web/2026/http://news.bbc.co.uk/1/shared/bsp/hi/vote2003/welsh_assembly/html/133.stm",
       "start_date": "2003-05-02"
     },
     {
@@ -1612,8 +1612,8 @@
       "party_label": "Plaid Cymru",
       "party_provenance": "profile_current",
       "region_name": null,
-      "seat_gss_code": "W09000012",
-      "seat_name": "Ceredigion",
+      "seat_gss_code": null,
+      "seat_name": null,
       "senedd_term": 3,
       "source_url": "https://senedd.wales/people/elin-jones-ms/",
       "start_date": "2007-05-04"
@@ -1625,8 +1625,8 @@
       "party_label": "Plaid Cymru",
       "party_provenance": "profile_current",
       "region_name": null,
-      "seat_gss_code": "W09000012",
-      "seat_name": "Ceredigion",
+      "seat_gss_code": null,
+      "seat_name": null,
       "senedd_term": 4,
       "source_url": "https://senedd.wales/people/elin-jones-ms/",
       "start_date": "2011-05-06"
@@ -1638,8 +1638,8 @@
       "party_label": "Plaid Cymru",
       "party_provenance": "profile_current",
       "region_name": null,
-      "seat_gss_code": "W09000012",
-      "seat_name": "Ceredigion",
+      "seat_gss_code": null,
+      "seat_name": null,
       "senedd_term": 5,
       "source_url": "https://senedd.wales/people/elin-jones-ms/",
       "start_date": "2016-05-06"
@@ -1651,8 +1651,8 @@
       "party_label": "Plaid Cymru",
       "party_provenance": "profile_current",
       "region_name": null,
-      "seat_gss_code": "W09000012",
-      "seat_name": "Ceredigion",
+      "seat_gss_code": null,
+      "seat_name": null,
       "senedd_term": 6,
       "source_url": "https://senedd.wales/people/elin-jones-ms/",
       "start_date": "2021-05-08"

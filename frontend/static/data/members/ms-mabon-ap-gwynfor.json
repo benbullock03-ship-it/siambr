@@ -1781,8 +1781,8 @@
       "party_label": "Plaid Cymru",
       "party_provenance": "profile_current",
       "region_name": null,
-      "seat_gss_code": "W09000010",
-      "seat_name": "Dwyfor Meirionnydd",
+      "seat_gss_code": null,
+      "seat_name": null,
       "senedd_term": 6,
       "source_url": "https://senedd.wales/people/mabon-ap-gwynfor-ms/",
       "start_date": "2021-05-08"

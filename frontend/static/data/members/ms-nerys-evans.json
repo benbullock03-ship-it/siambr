@@ -741,13 +741,13 @@
   "tenures": [
     {
       "end_date": "2011-03-31",
-      "is_regional_member": true,
+      "is_regional_member": false,
       "party_id": "plaid_cymru",
       "party_label": "Plaid Cymru",
       "party_provenance": "profile_current",
-      "region_name": "Mid and West Wales",
+      "region_name": null,
       "seat_gss_code": null,
-      "seat_name": "Mid and West Wales",
+      "seat_name": null,
       "senedd_term": 3,
       "source_url": "https://senedd.wales/people/nerys-evans-ms/",
       "start_date": "2007-05-04"
