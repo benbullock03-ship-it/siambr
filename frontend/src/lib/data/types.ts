@@ -173,6 +173,7 @@ export interface MemberContribution {
 	item_id: string;
 	item_title_en: string;
 	t_start: number | null;
+	tv_url: string | null;
 	lang: Lang;
 	text_original: string;
 	text_english: string;
@@ -211,3 +212,25 @@ export interface TermFile extends TermSummary {
 	presiding_officers: PresidingOfficer[];
 	members: MemberLight[];
 }
+
+/** search/index.json: documents the browser indexes with MiniSearch. Text is verbatim. */
+export interface SearchDocument {
+	id: string;
+	date: string;
+	item_id: string;
+	item: string;
+	member_id: string;
+	member: string;
+	lang: Lang;
+	t: number | null;
+	text: string;
+	text_cy: string;
+}
+
+export interface SearchIndexFile {
+	engine: 'minisearch';
+	fields: string[];
+	store_fields: string[];
+	documents: SearchDocument[];
+}
+

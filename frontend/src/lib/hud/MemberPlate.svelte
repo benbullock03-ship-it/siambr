@@ -59,6 +59,7 @@
 			{#if firstTerm !== null}
 				<p class="small">Member since term <span data-numeric>{firstTerm}</span>.</p>
 			{/if}
+			<p class="small"><a href="/members/{encodeURIComponent(m.id)}">Full register of record for this Member</a></p>
 		</div>
 	</header>
 

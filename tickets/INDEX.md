@@ -60,7 +60,7 @@ Spec 2.0.0 run
 | [T-17](T-17-chamber-stage-floor-light-and-guided-camera.md) | Chamber Stage: Floor Light, Spoken Marks, Guided Camera | 3D | T-16, T-08 | `done` (software-renderer trace fails) |
 | [T-18](T-18-stage-hud-transcript-and-transport.md) | Stage HUD: /sitting/[date], Transcript Column, Running Order, Transport | Frontend | T-17 | `done` |
 | [T-19](T-19-divisions-on-the-stage.md) | Divisions on the Stage: Desk Tints, Wall Clocks, Division Plate | 3D + Frontend | T-05, T-17, T-18 | `pending` |
-| [T-20](T-20-member-register-and-search.md) | The Register: Member Pages, Members Index, Postcode Lookup, Client Search | Frontend | T-14 | `pending` |
+| [T-20](T-20-member-register-and-search.md) | The Register: Member Pages, Members Index, Postcode Lookup, Client Search | Frontend | T-14 | `done` |
 | [T-21](T-21-derived-stats.md) | Derived Stats: Speaking Time by Party and Member | Pipeline + Frontend | T-20, T-16 | `pending` |
 | [T-22](T-22-kiosk-attract-mode.md) | Kiosk and Attract Mode | Frontend | T-18 | `pending` |
 | [T-23](T-23-chamber-polish-pass.md) | Chamber Polish Pass: Lighting, Materials, Clocks, Screens, Gallery | 3D | T-17 | `pending` |

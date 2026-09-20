@@ -26,6 +26,8 @@
 		"@types/node": "^26.5.1",
 		"@types/three": "^0.186.0",
 		"jsdom": "^30.0.1",
+		"lighthouse": "^13.5.0",
+		"minisearch": "^7.2.0",
 		"svelte": "^5.56.1",
 		"svelte-check": "^4.6.0",
 		"typescript": "^6.0.3",

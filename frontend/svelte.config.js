@@ -1,5 +1,5 @@
 import adapter from '@sveltejs/adapter-static';
-import { existsSync, readFileSync } from 'node:fs';
+import { existsSync, readdirSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
 
 const staticDir = process.env.SIAMBR_STATIC_DIR ?? 'static';
@@ -8,6 +8,14 @@ function sittingEntries() {
 	const index = join(staticDir, 'data', 'sittings', 'index.json');
 	if (!existsSync(index)) return [];
 	return JSON.parse(readFileSync(index, 'utf-8')).map((s) => `/sitting/${s.date}`);
+}
+/** Every exported Member file, current and former, gets a prerendered /members/{id}. */
+function memberEntries() {
+	const dir = join(staticDir, 'data', 'members');
+	if (!existsSync(dir)) return [];
+	return readdirSync(dir)
+		.filter((f) => f.endsWith('.json') && f !== 'index.json')
+		.map((f) => `/members/${f.slice(0, -5)}`);
 }
 
 /** @type {import('@sveltejs/kit').Config} */
@@ -22,7 +30,7 @@ const config = {
 		// No server at runtime: every route is prerendered or served from the SPA fallback.
 		adapter: adapter({ fallback: '404.html' }),
 		prerender: {
-			entries: ['/', '/register', '/members', '/siambr', ...sittingEntries()]
+			entries: ['/', '/register', '/members', '/search', '/siambr', ...sittingEntries(), ...memberEntries()]
 		}
 	}
 };

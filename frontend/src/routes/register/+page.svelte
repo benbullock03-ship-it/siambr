@@ -139,6 +139,14 @@
 							<a href={sitting.source_xml_url} rel="external">Record of Proceedings</a>
 						</p>
 					</header>
+					<p class="small published">
+						{#if sitting.record_published_at}
+							Record published <time data-numeric datetime={sitting.record_published_at}>{sitting.record_published_at.replace('T', ' ')}</time>
+						{:else}
+							Record publication time not stated
+						{/if}
+						· <span data-numeric>{sitting.contribution_count}</span> contributions.
+					</p>
 					<ol class="items">
 						{#each sitting.items as item (item.id)}
 							<li>
@@ -150,7 +158,10 @@
 										data-sveltekit-noscroll
 										data-sveltekit-keepfocus
 									>{item.title_en}</a>
-									<span class="small meta">{itemTypeLabel(item.type)} · {domainName.get(item.policy_domain_id) ?? item.policy_domain_id}</span>
+									<span class="small meta">
+										{itemTypeLabel(item.type)} · {domainName.get(item.policy_domain_id) ?? item.policy_domain_id}
+										· <a href="/sitting/{sitting.date}?item={encodeURIComponent(item.id)}">Watch it play</a>
+									</span>
 								</div>
 							</li>
 						{/each}
@@ -264,8 +275,13 @@
 	}
 
 	.order,
-	.meta {
+	.meta,
+	.published {
 		color: var(--color-body-text);
+	}
+
+	.published {
+		margin: 0.4rem 0 0.2rem;
 	}
 
 	.item-body {

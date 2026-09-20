@@ -1,4 +1,4 @@
-import type { MemberFile, MemberLight, SiteIndex, Sitting, SittingSummary, TermFile } from './types';
+import type { SearchIndexFile, MemberFile, MemberLight, SiteIndex, Sitting, SittingSummary, TermFile } from './types';
 
 type Fetch = typeof fetch;
 
@@ -25,6 +25,7 @@ export const loadSitting = (fetch: Fetch, date: string) => getJson<Sitting>(fetc
 export const loadMembersIndex = (fetch: Fetch) => getJson<MemberLight[]>(fetch, '/data/members/index.json');
 export const loadMember = (fetch: Fetch, id: string) => getJson<MemberFile>(fetch, `/data/members/${enc(id)}.json`);
 export const loadTerm = (fetch: Fetch, term: number) => getJson<TermFile>(fetch, `/data/terms/${term}.json`);
+export const loadSearchIndex = (fetch: Fetch) => getJson<SearchIndexFile>(fetch, '/data/search/index.json');
 
 export function sittingDateForItem(index: SittingSummary[], itemId: string): string | null {
 	return index.find((s) => s.items.some((i) => i.id === itemId))?.date ?? null;

@@ -241,7 +241,7 @@ class Exporter:
             self.conn,
             """SELECT c.id, c.agenda_item_id, a.title_en, s.session_date, c.spoken_language,
                       c.verbatim_text_original, c.verbatim_text_english, c.video_timestamp_start,
-                      a.item_order, c.sequence_number
+                      a.item_order, c.sequence_number, a.senedd_tv_clip_url
                FROM debate_contributions c
                JOIN agenda_items a ON a.id = c.agenda_item_id
                JOIN plenary_sessions s ON s.id = a.session_id
@@ -256,6 +256,11 @@ class Exporter:
                 "item_id": sp["agenda_item_id"],
                 "item_title_en": sp["title_en"],
                 "t_start": sp["video_timestamp_start"],
+                "tv_url": (
+                    f"{sp['senedd_tv_clip_url']}?startPos={sp['video_timestamp_start']}"
+                    if sp["senedd_tv_clip_url"] and sp["video_timestamp_start"] is not None
+                    else sp["senedd_tv_clip_url"]
+                ),
                 "lang": sp["spoken_language"],
                 "text_original": sp["verbatim_text_original"],
                 "text_english": sp["verbatim_text_english"],
@@ -333,6 +338,45 @@ class Exporter:
             "members": [self.member_light(mid) for mid in member_ids],
         }
 
+    # --- search --------------------------------------------------------------------------------
+
+    def search_index(self) -> dict:
+        """Documents for the client-side search (MiniSearch builds its index in the browser).
+
+        The English text is the search field for every contribution; a Welsh original is indexed
+        too, so a Welsh phrase finds the speech. Snippets come from the stored text, verbatim.
+        """
+        speeches = rows(
+            self.conn,
+            """SELECT c.id, c.agenda_item_id, a.title_en, s.session_date, c.member_id, c.spoken_language,
+                      c.verbatim_text_original, c.verbatim_text_english, c.video_timestamp_start
+               FROM debate_contributions c
+               JOIN agenda_items a ON a.id = c.agenda_item_id
+               JOIN plenary_sessions s ON s.id = a.session_id
+               ORDER BY s.session_date DESC, a.item_order, c.sequence_number, c.id""",
+        )
+        docs = []
+        for sp in speeches:
+            member = self.members.get(sp["member_id"])
+            docs.append({
+                "id": sp["id"],
+                "date": sp["session_date"],
+                "item_id": sp["agenda_item_id"],
+                "item": sp["title_en"],
+                "member_id": sp["member_id"],
+                "member": member["canonical_name"] if member else sp["member_id"],
+                "lang": sp["spoken_language"],
+                "t": sp["video_timestamp_start"],
+                "text": sp["verbatim_text_english"],
+                "text_cy": sp["verbatim_text_original"] if sp["spoken_language"] == "cy" else "",
+            })
+        return {
+            "engine": "minisearch",
+            "fields": ["text", "text_cy", "member", "item", "date"],
+            "store_fields": ["date", "item_id", "item", "member_id", "member", "lang", "t", "text", "text_cy"],
+            "documents": docs,
+        }
+
     # --- run -----------------------------------------------------------------------------------
 
     def write(self, rel: str, payload) -> None:
@@ -358,6 +402,7 @@ class Exporter:
             self.write(f"members/{mid}.json", self.member_file(mid))
         for t in self.terms:
             self.write(f"terms/{t['term']}.json", self.term_file(t))
+        self.write("search/index.json", self.search_index())
         published = [s["record_published_at"] for s in self.sessions if s["record_published_at"]]
         last_run = self.conn.execute(
             "SELECT finished_at FROM sync_runs WHERE finished_at IS NOT NULL ORDER BY id DESC LIMIT 1"

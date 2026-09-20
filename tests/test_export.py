@@ -105,7 +105,7 @@ class ExportTests(unittest.TestCase):
         self.assertEqual({c["id"] for c in exported}, {c["id"] for c in mine})
         self.assertEqual(member["contribution_count"], len(mine))
         for c in exported:
-            self.assertEqual(set(c), {"id", "item_id", "item_title_en", "t_start", "lang", "text_original", "text_english"})
+            self.assertEqual(set(c), {"id", "item_id", "item_title_en", "t_start", "tv_url", "lang", "text_original", "text_english"})
 
     def test_stale_files_are_pruned_and_unchanged_files_untouched(self):
         stale = self.out / "sittings" / "1999-05-12.json"
@@ -147,3 +147,27 @@ class ExportTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+    def test_search_index_lists_every_contribution_verbatim(self):
+        index = read(self.out / "search" / "index.json")
+        self.assertEqual(index["engine"], "minisearch")
+        docs = index["documents"]
+        count = self.conn.execute("SELECT count(*) FROM debate_contributions").fetchone()[0]
+        self.assertEqual(len(docs), count)
+        for d in docs:
+            row = self.conn.execute(
+                "SELECT verbatim_text_english, verbatim_text_original, spoken_language, member_id FROM debate_contributions WHERE id = ?",
+                (d["id"],),
+            ).fetchone()
+            self.assertEqual(d["text"], row[0])
+            self.assertEqual(d["text_cy"], row[1] if row[2] == "cy" else "")
+            self.assertEqual(d["member_id"], row[3])
+        self.assertEqual([d["date"] for d in docs], sorted((d["date"] for d in docs), reverse=True))
+
+    def test_member_contributions_carry_the_senedd_tv_link(self):
+        member = next(p for p in (self.out / "members").glob("ms-*.json") if read(p)["contribution_count"])
+        speech = read(member)["contributions_by_date"][0]["contributions"][0]
+        self.assertIn("tv_url", speech)
+        if speech["t_start"] is not None and speech["tv_url"]:
+            self.assertTrue(speech["tv_url"].endswith(f"?startPos={speech['t_start']}"))
+
