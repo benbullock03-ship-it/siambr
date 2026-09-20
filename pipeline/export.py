@@ -359,6 +359,9 @@ class Exporter:
         for t in self.terms:
             self.write(f"terms/{t['term']}.json", self.term_file(t))
         published = [s["record_published_at"] for s in self.sessions if s["record_published_at"]]
+        last_run = self.conn.execute(
+            "SELECT finished_at FROM sync_runs WHERE finished_at IS NOT NULL ORDER BY id DESC LIMIT 1"
+        ).fetchone()
         self.write("index.json", {
             "terms": [{
                 "term": t["term"], "label_en": t["label_en"], "label_cy": t["label_cy"],
@@ -370,6 +373,8 @@ class Exporter:
             "sitting_count": len(sittings),
             # Senedd's newest publication stamp among the exported records, not the export's own clock.
             "generated_at": max(published) if published else None,
+            # When pipeline.sync last finished checking the Record (UTC), from the newest sync_runs row.
+            "checked_at": last_run["finished_at"] if last_run else None,
         })
         return {"sittings": len(self.sessions), "members": len(self.members), "terms": len(self.terms), "pruned": self.prune()}
 

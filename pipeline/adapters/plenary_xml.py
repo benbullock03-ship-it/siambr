@@ -129,7 +129,8 @@ def fetch_transcript(meeting_id: int, *, session: requests.Session | None = None
         raise NotPlenary(f"meeting {meeting_id}: not a Plenary transcript")
     path = bronze_path(meeting_date(body), meeting_id)
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_bytes(body)
+    if not (path.exists() and path.read_bytes() == body):
+        path.write_bytes(body)
     return body
 
 

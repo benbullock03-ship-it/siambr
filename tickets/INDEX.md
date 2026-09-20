@@ -55,7 +55,7 @@ Spec 2.0.0 run
 | [T-12](T-12-withdraw-corridors-and-plinths.md) | Withdraw Corridors, Plinths, Trails and Quotation Cards | Cleanup | T-09 | `done` |
 | [T-13](T-13-sitting-clock-fields-and-term7-backfill.md) | Sitting Clock Fields, Record Currency, Seventh Senedd Backfill | Pipeline | T-12, T-04 | `done` |
 | [T-14](T-14-static-export-and-data-layer.md) | Static Export (Gold to JSON), adapter-static, Frontend Data Layer | Pipeline + Frontend | T-13 | `done` |
-| [T-15](T-15-sync-and-deploy.md) | pipeline.sync, GitHub Actions Poller, Cloudflare Pages Deploy | Pipeline + Ops | T-14 | `pending` |
+| [T-15](T-15-sync-and-deploy.md) | pipeline.sync, GitHub Actions Poller, Cloudflare Pages Deploy | Pipeline + Ops | T-14 | `done` (deploy secrets pending) |
 | [T-16](T-16-playback-engine.md) | The Sitting Clock: Pure TypeScript Playback Engine | Frontend | T-14 | `pending` |
 | [T-17](T-17-chamber-stage-floor-light-and-guided-camera.md) | Chamber Stage: Floor Light, Spoken Marks, Guided Camera | 3D | T-16, T-08 | `pending` |
 | [T-18](T-18-stage-hud-transcript-and-transport.md) | Stage HUD: /sitting/[date], Transcript Column, Running Order, Transport | Frontend | T-17 | `pending` |

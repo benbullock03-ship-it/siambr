@@ -31,6 +31,8 @@ export interface SiteIndex {
 	sitting_count: number;
 	/** Senedd's newest record-published stamp among the exported sittings. */
 	generated_at: string | null;
+	/** When pipeline.sync last finished checking the Record, UTC. */
+	checked_at: string | null;
 }
 
 /** A Member as the sitting or index files carry them. party_id and role_* are derived for a date. */
