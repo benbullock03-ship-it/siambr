@@ -1,9 +1,9 @@
 <script lang="ts">
 	import { T, useTask } from '@threlte/core';
 	import { Instance, InstancedMesh } from '@threlte/extras';
-	import { AdditiveBlending, Color, DoubleSide, type InstancedMesh as ThreeInstancedMesh, type Mesh } from 'three';
+	import { AdditiveBlending, CatmullRomCurve3, Color, DoubleSide, TubeGeometry, Vector3, type InstancedMesh as ThreeInstancedMesh, type Mesh } from 'three';
 	import type { FloorState } from '$lib/stage/floor';
-	import { cedarBoard, CHAMBER_TONES, ESTATE, partyHex, TIMBER } from '../materials';
+	import { chamberTextures, CHAMBER_TONES, ESTATE, partyHex } from '../materials';
 	import { mergeGeometries } from 'three/addons/utils/BufferGeometryUtils.js';
 	import { deskRunGeometry } from './deskGeometry';
 	import { deskTint } from './divisionLight';
@@ -33,11 +33,19 @@
 	} = $props();
 
 	const { width, depth, height } = CHAMBER.desk;
-	const board = cedarBoard(6, 1);
+	const tex = chamberTextures();
+	// Gooseneck: rises from the worktop, then bends back towards the Member.
+	const gooseneck = new TubeGeometry(
+		new CatmullRomCurve3([new Vector3(0, 0, 0), new Vector3(0, 0.2, 0), new Vector3(0, 0.29, 0.05), new Vector3(0, 0.33, 0.13)]),
+		12,
+		0.007,
+		6,
+		false
+	);
 	const seatByDesk = $derived(new Map(seats.map((s) => [s.desk.id, s])));
 	const deskByMember = $derived(new Map(seats.map((s) => [s.member.id, s.desk.id])));
-	// Each desk is its own wedge with a small gap to its neighbour, as in the scan; merged per row.
-	const DESK_GAP = 0.12;
+	// Each desk is its own wedge with a board joint to its neighbour, as in the scan; merged per row.
+	const DESK_GAP = 0.03;
 	const rows = $derived(
 		[...new Set(desks.map((d) => d.row))].map((row) => {
 			const radius = CHAMBER.rowRadii[row];
@@ -137,42 +145,53 @@
 	});
 </script>
 
-<!-- Curved oak desk units, one wedge per Member, merged per row. -->
+<!-- Curved oak desk units, one wedge per Member, merged per row; rows alternate the board
+     set so the grain reads per wedge rather than as one wrapped texture. -->
 {#each rows as { row, y, geometry } (row)}
 	<T.Mesh {geometry} position.y={y} castShadow receiveShadow>
-		<T.MeshStandardMaterial map={board} roughness={0.55} side={DoubleSide} />
+		<T.MeshStandardMaterial map={row % 2 ? tex.joineryB : tex.joineryA} roughness={0.5} side={DoubleSide} />
 	</T.Mesh>
 {/each}
 
 <!-- Charcoal worktop inset, one instance per seated place in `seats` order: it doubles as
      the raycast target, so instanceId → the Walker's desks[i]. -->
 <InstancedMesh bind:ref={hitMesh} limit={places.length} range={places.length} name="desks" update={false}>
-	<T.BoxGeometry args={[width - 0.16, 0.014, depth - 0.16]} />
-	<T.MeshStandardMaterial color="#ffffff" roughness={0.5} />
+	<T.BoxGeometry args={[width - 0.22, 0.014, depth - 0.3]} />
+	<T.MeshStandardMaterial color="#ffffff" roughness={0.6} />
 	{#each places as d (d.id)}
-		<Instance position={behind(d, d.row < 0 ? 0 : 0.02, (d.row < 0 ? 1.0 : height) + 0.007)} rotation.y={d.yaw} />
+		<Instance position={behind(d, d.row < 0 ? 0 : 0.04, (d.row < 0 ? 1.0 : height) + 0.007)} rotation.y={d.yaw} />
 	{/each}
 </InstancedMesh>
+
+<!-- Pop-up monitor: dark bezel to the Member, brushed silver back to the chamber. -->
 <InstancedMesh limit={desks.length} range={desks.length} castShadow>
-	<T.BoxGeometry args={[0.44, 0.26, 0.018]} />
-	<T.MeshStandardMaterial color={CHAMBER_TONES.monitor} roughness={0.35} metalness={0.3} />
+	<T.BoxGeometry args={[0.44, 0.27, 0.02]} />
+	<T.MeshStandardMaterial color={CHAMBER_TONES.bezel} roughness={0.45} metalness={0.2} />
 	{#each desks as d (d.id)}
-		<Instance position={behind(d, -0.28, height + 0.14)} rotation.order="YXZ" rotation.y={d.yaw} rotation.x={monitorTilt} />
+		<Instance position={behind(d, -0.28, height + 0.145)} rotation.order="YXZ" rotation.y={d.yaw} rotation.x={monitorTilt} />
+	{/each}
+</InstancedMesh>
+<InstancedMesh limit={desks.length} range={desks.length}>
+	<T.BoxGeometry args={[0.44, 0.27, 0.004]} />
+	<T.MeshStandardMaterial color={CHAMBER_TONES.monitor} roughness={0.3} metalness={0.5} />
+	{#each desks as d (d.id)}
+		<Instance position={behind(d, -0.292, height + 0.145)} rotation.order="YXZ" rotation.y={d.yaw} rotation.x={monitorTilt} />
 	{/each}
 </InstancedMesh>
 <InstancedMesh bind:ref={screenMesh} limit={desks.length} range={desks.length} name="screens" update={false}>
-	<T.BoxGeometry args={[0.4, 0.22, 0.004]} />
-	<T.MeshStandardMaterial color="#ffffff" roughness={0.2} />
+	<T.BoxGeometry args={[0.4, 0.225, 0.004]} />
+	<T.MeshStandardMaterial color="#ffffff" roughness={0.15} metalness={0.1} />
 	{#each desks as d (d.id)}
-		<Instance position={behind(d, -0.268, height + 0.145)} rotation.order="YXZ" rotation.y={d.yaw} rotation.x={monitorTilt} />
+		<Instance position={behind(d, -0.268, height + 0.15)} rotation.order="YXZ" rotation.y={d.yaw} rotation.x={monitorTilt} />
 	{/each}
 </InstancedMesh>
+<!-- Party tab on the front lip, read from behind the Member's shoulder. -->
 <InstancedMesh bind:ref={tabMesh} limit={desks.length} range={desks.length} name="tabs" update={false}>
-	<T.BoxGeometry args={[0.26, 0.018, 0.05]} />
-	<T.MeshStandardMaterial roughness={0.35} />
+	<T.BoxGeometry args={[0.34, 0.02, 0.07]} />
+	<T.MeshStandardMaterial roughness={0.3} />
 	{#each desks as d (d.id)}
 		{@const seat = seatByDesk.get(d.id)}
-		<Instance position={behind(d, -depth / 2 + 0.05, height + 0.009)} rotation.y={d.yaw} color={seat ? partyHex(seat.member.party_id) : ESTATE.border} />
+		<Instance position={behind(d, -depth / 2 + 0.06, height + 0.01)} rotation.y={d.yaw} color={seat ? partyHex(seat.member.party_id) : ESTATE.border} />
 	{/each}
 </InstancedMesh>
 
@@ -192,56 +211,55 @@
 	<T.MeshBasicMaterial color="#ffe699" transparent opacity={0} blending={AdditiveBlending} depthWrite={false} side={DoubleSide} />
 </T.Mesh>
 
-<!-- Microphone on a gooseneck, leaning towards the Member. -->
-<InstancedMesh limit={desks.length} range={desks.length}>
-	<T.CylinderGeometry args={[0.006, 0.008, 0.34, 8]} />
-	<T.MeshStandardMaterial color="#2b2f33" roughness={0.4} metalness={0.6} />
+<!-- Microphone on a bent gooseneck, its head turned towards the Member. -->
+<InstancedMesh limit={desks.length} range={desks.length} geometry={gooseneck}>
+	<T.MeshStandardMaterial color="#2b2f33" roughness={0.35} metalness={0.7} />
 	{#each desks as d (d.id)}
-		<Instance position={beside(d, 0.3, 0.0, height + 0.16)} rotation.order="YXZ" rotation.y={d.yaw} rotation.x={0.35} />
+		<Instance position={beside(d, 0.3, 0.0, height + 0.01)} rotation.y={d.yaw} />
 	{/each}
 </InstancedMesh>
 <InstancedMesh limit={desks.length} range={desks.length}>
-	<T.SphereGeometry args={[0.018, 10, 8]} />
+	<T.CylinderGeometry args={[0.014, 0.02, 0.05, 10]} />
 	<T.MeshStandardMaterial color="#111417" roughness={0.6} />
 	{#each desks as d (d.id)}
-		<Instance position={beside(d, 0.3, 0.06, height + 0.33)} />
+		<Instance position={beside(d, 0.3, 0.16, height + 0.35)} rotation.order="YXZ" rotation.y={d.yaw} rotation.x={1.1} />
+	{/each}
+</InstancedMesh>
+<InstancedMesh limit={desks.length} range={desks.length}>
+	<T.CylinderGeometry args={[0.03, 0.035, 0.012, 12]} />
+	<T.MeshStandardMaterial color="#1c1f23" roughness={0.5} metalness={0.4} />
+	{#each desks as d (d.id)}
+		<Instance position={beside(d, 0.3, 0.0, height + 0.006)} />
 	{/each}
 </InstancedMesh>
 
-<!-- High-back task chairs in charcoal mesh: star base, gas stem, seat, back, arms. -->
+<!-- Task chairs in charcoal mesh, tucked in behind the desk: star base, gas stem, seat, mesh back, arms. -->
 <InstancedMesh limit={desks.length} range={desks.length}>
 	<T.CylinderGeometry args={[0.3, 0.32, 0.02, 20]} />
 	<T.MeshStandardMaterial color="#3a3d41" roughness={0.4} metalness={0.5} />
 	{#each desks as d (d.id)}
-		<Instance position={behind(d, 0.9, 0.01)} />
+		<Instance position={behind(d, 0.78, 0.01)} />
 	{/each}
 </InstancedMesh>
 <InstancedMesh limit={desks.length} range={desks.length}>
 	<T.CylinderGeometry args={[0.03, 0.035, 0.4, 10]} />
 	<T.MeshStandardMaterial color="#5c6166" roughness={0.35} metalness={0.7} />
 	{#each desks as d (d.id)}
-		<Instance position={behind(d, 0.9, 0.22)} />
+		<Instance position={behind(d, 0.78, 0.22)} />
 	{/each}
 </InstancedMesh>
 <InstancedMesh limit={desks.length} range={desks.length} castShadow>
 	<T.BoxGeometry args={[0.5, 0.07, 0.48]} />
-	<T.MeshStandardMaterial color={TIMBER.leather} roughness={0.7} />
+	<T.MeshStandardMaterial map={tex.chairMesh} roughness={0.85} />
 	{#each desks as d (d.id)}
-		<Instance position={behind(d, 0.9, 0.46)} rotation.y={d.yaw} />
+		<Instance position={behind(d, 0.78, 0.46)} rotation.y={d.yaw} />
 	{/each}
 </InstancedMesh>
 <InstancedMesh limit={desks.length} range={desks.length} castShadow>
-	<T.BoxGeometry args={[0.48, 0.6, 0.08]} />
-	<T.MeshStandardMaterial color="#3d4147" roughness={0.75} />
+	<T.BoxGeometry args={[0.48, 0.56, 0.05]} />
+	<T.MeshStandardMaterial map={tex.chairMesh} roughness={0.85} />
 	{#each desks as d (d.id)}
-		<Instance position={behind(d, 1.12, 0.82)} rotation.order="YXZ" rotation.y={d.yaw} rotation.x={-0.12} />
-	{/each}
-</InstancedMesh>
-<InstancedMesh limit={desks.length} range={desks.length}>
-	<T.BoxGeometry args={[0.3, 0.16, 0.07]} />
-	<T.MeshStandardMaterial color="#3d4147" roughness={0.75} />
-	{#each desks as d (d.id)}
-		<Instance position={behind(d, 1.17, 1.2)} rotation.order="YXZ" rotation.y={d.yaw} rotation.x={-0.12} />
+		<Instance position={behind(d, 0.99, 0.78)} rotation.order="YXZ" rotation.y={d.yaw} rotation.x={-0.12} />
 	{/each}
 </InstancedMesh>
 {#each [-0.26, 0.26] as side (side)}
@@ -249,7 +267,7 @@
 		<T.BoxGeometry args={[0.04, 0.02, 0.3]} />
 		<T.MeshStandardMaterial color="#3a3d41" roughness={0.5} />
 		{#each desks as d (d.id)}
-			<Instance position={beside(d, side, 0.9, 0.68)} rotation.y={d.yaw} />
+			<Instance position={beside(d, side, 0.78, 0.68)} rotation.y={d.yaw} />
 		{/each}
 	</InstancedMesh>
 {/each}

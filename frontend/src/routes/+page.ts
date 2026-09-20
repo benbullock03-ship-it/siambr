@@ -9,7 +9,8 @@ export const prerender = true;
 export const load: PageLoad = async ({ fetch, url }) => {
 	const index = await loadIndex(fetch).catch(() => null);
 	// The prerendered file cannot read the query; a client-side arrival keeps it.
-	if (!url.searchParams.has('home') && index?.latest_sitting) {
+	const home = !building && url.searchParams.has('home');
+	if (!home && index?.latest_sitting) {
 		redirect(307, `/sitting/${index.latest_sitting}${building ? '' : url.search}`);
 	}
 	return { index };

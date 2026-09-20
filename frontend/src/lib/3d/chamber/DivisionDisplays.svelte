@@ -1,14 +1,14 @@
 <script lang="ts">
-	import { T, useTask } from '@threlte/core';
-	import { CanvasTexture, SRGBColorSpace, type Texture } from 'three';
+	import { useTask, useThrelte } from '@threlte/core';
+	import { CanvasTexture, SRGBColorSpace, type Mesh, type MeshBasicMaterial, type Texture } from 'three';
 	import type { FloorState } from '$lib/stage/floor';
+	import { DISPLAY_SURFACES } from '../materials';
 	import { clockDigits, wallDisplay } from './divisionLight';
-	import { bearingToXZ, CHAMBER, CHAMBER_CLOCKS, CHAMBER_SCREENS, DEG } from './layout';
+	import { CHAMBER_CLOCKS, CHAMBER_SCREENS } from './layout';
 
 	let { floor, t }: { floor: FloorState; t: number } = $props();
 
-	const wall = CHAMBER.wallRadius;
-	const wallH = CHAMBER.wallHeight;
+	const { scene } = useThrelte();
 	const tint = $derived(floor.divisionTint);
 	const running = $derived(floor.division);
 	const display = $derived(tint ? wallDisplay(tint.beat.division) : null);
@@ -25,8 +25,10 @@
 		return [ctx, texture];
 	}
 
-	const [screenCtx, screenTexture] = surface(1024, 576);
-	const [clockCtx, clockTexture] = surface(480, 128);
+	const [screenCtx, screenTexture] = surface(...DISPLAY_SURFACES.screen);
+	const [clockCtx, clockTexture] = surface(...DISPLAY_SURFACES.clock);
+	// The screen is laid out on a 1024x576 grid whatever its surface size.
+	screenCtx.scale(DISPLAY_SURFACES.screen[0] / 1024, DISPLAY_SURFACES.screen[1] / 576);
 
 	/** Greedy wrap at the canvas's own metrics; the motion text is never shortened or edited. */
 	function lines(ctx: CanvasRenderingContext2D, text: string, width: number, max: number): string[] {
@@ -74,6 +76,29 @@
 		clockTexture.needsUpdate = true;
 	}
 
+	// The faces are Envelope's named meshes (`wall-screen-{deg}`, `division-clock-{deg}`); this
+	// component only swaps their texture slot and opacity, never their geometry.
+	const faces = new Map<string, MeshBasicMaterial>();
+	function face(name: string): MeshBasicMaterial | null {
+		const hit = faces.get(name);
+		if (hit) return hit;
+		const mesh = scene.getObjectByName(name) as Mesh | undefined;
+		if (!mesh) return null;
+		const material = mesh.material as MeshBasicMaterial;
+		faces.set(name, material);
+		return material;
+	}
+	function show(name: string, texture: Texture | null, opacity: number) {
+		const material = face(name);
+		if (!material) return;
+		if (material.map !== texture) {
+			material.map = texture;
+			material.color.set(texture ? '#ffffff' : '#0a0c0e');
+			material.needsUpdate = true;
+		}
+		material.opacity = texture ? opacity : 1;
+	}
+
 	// Both surfaces are redrawn only when their content changes, not every frame.
 	let drawnMotion: string | null = null;
 	let drawnDigits: string | null = null;
@@ -86,33 +111,7 @@
 			drawClock(digits);
 			drawnDigits = digits;
 		}
+		for (const deg of CHAMBER_SCREENS) show(`wall-screen-${deg}`, display ? screenTexture : null, tint?.strength ?? 1);
+		for (const deg of CHAMBER_CLOCKS) show(`division-clock-${deg}`, digits ? clockTexture : null, 1);
 	});
-
-	const at = (radius: number, deg: number, y: number): [number, number, number] => {
-		const [x, z] = bearingToXZ(radius, deg * DEG);
-		return [x, y, z];
-	};
-	// A plane's +Z must point back into the chamber, the opposite way round from Envelope's
-	// housing boxes, or the face is culled and the text reads mirrored.
-	const facing = (deg: number) => -deg * DEG;
 </script>
-
-<!-- The motion and the publisher's own tally on the four wall screens, fading with the desk tints. -->
-{#if display}
-	{#each CHAMBER_SCREENS as deg (deg)}
-		<T.Mesh position={at(wall - 0.175, deg, 2.75)} rotation.y={facing(deg)} renderOrder={1}>
-			<T.PlaneGeometry args={[1.66, 0.91]} />
-			<T.MeshBasicMaterial map={screenTexture} transparent opacity={tint?.strength ?? 1} />
-		</T.Mesh>
-	{/each}
-{/if}
-
-<!-- The two red clocks run only while the division is on the floor. -->
-{#if digits}
-	{#each CHAMBER_CLOCKS as deg (deg)}
-		<T.Mesh position={at(wall - 0.17, deg, wallH - 0.75)} rotation.y={facing(deg)} renderOrder={1}>
-			<T.PlaneGeometry args={[0.56, 0.15]} />
-			<T.MeshBasicMaterial map={clockTexture} />
-		</T.Mesh>
-	{/each}
-{/if}

@@ -1,6 +1,8 @@
 <script lang="ts">
 	import { useTask, useThrelte } from '@threlte/core';
 	import { Color, Fog, type InstancedMesh, type Mesh } from 'three';
+	import { PMREMGenerator } from 'three/webgpu';
+	import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
 	import type { FloorState } from '$lib/stage/floor';
 	import type { SittingClock } from '$lib/stage/clock.svelte';
 	import Dais from './chamber/Dais.svelte';
@@ -39,9 +41,24 @@
 		paused?: boolean;
 	} = $props();
 
-	const { scene } = useThrelte();
+	const { scene, renderer } = useThrelte();
 	scene.background = new Color(ESTATE.sky);
 	scene.fog = new Fog(ESTATE.sky, 30, 90);
+
+	// A neutral room environment gives the glass, monitors and mace something to reflect; built
+	// once the renderer is up, on the first frame.
+	let environmentReady = false;
+	function buildEnvironment() {
+		environmentReady = true;
+		try {
+			const pmrem = new PMREMGenerator(renderer as unknown as ConstructorParameters<typeof PMREMGenerator>[0]);
+			scene.environment = pmrem.fromScene(new RoomEnvironment(), 0.04).texture;
+			scene.environmentIntensity = 0.14;
+			pmrem.dispose();
+		} catch (error) {
+			console.warn('Siambr: environment reflections unavailable', error);
+		}
+	}
 
 	let floorMesh = $state<Mesh>();
 	let deskMesh = $state<InstancedMesh>();
@@ -52,6 +69,7 @@
 	const floor = $derived<FloorState>(clock?.floor ?? EMPTY_FLOOR);
 
 	useTask((dt) => {
+		if (!environmentReady) buildEnvironment();
 		if (!paused) clock?.tick(Math.min(dt, 0.25));
 	});
 </script>

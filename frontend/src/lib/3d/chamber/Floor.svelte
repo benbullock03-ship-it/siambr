@@ -1,10 +1,12 @@
 <script lang="ts">
 	import { T } from '@threlte/core';
 	import { CircleGeometry, DoubleSide, LatheGeometry, RingGeometry, Vector2, type Mesh } from 'three';
-	import { CHAMBER_TONES, oakBoards } from '../materials';
+	import { chamberTextures, CHAMBER_TONES } from '../materials';
 	import { CHAMBER, DEG, floorHeightAt, SPAWN_BEARING_DEG } from './layout';
 
 	let { ref = $bindable<Mesh | undefined>() }: { ref?: Mesh } = $props();
+
+	const tex = chamberTextures();
 
 	// Lathe profile from the centre out to the wall, following the ramp.
 	const profile = [
@@ -21,15 +23,17 @@
 	for (let i = 0; i < uv.count; i++) uv.setXY(i, pos.getX(i) / tile, pos.getZ(i) / tile);
 	uv.needsUpdate = true;
 
-	const boards = oakBoards();
+	const boards = tex.floorBoards;
 	const kerb = 0.06;
-	// The oak well sits on a low kerb; carpet runs from its edge out across the rows.
-	const oakRadius = CHAMBER.wellRadius;
+	// The oak well sits on a low kerb and runs out to the inner desk front, as the scan shows;
+	// carpet takes over between the rows.
+	const oakRadius = CHAMBER.rowRadii[0] - CHAMBER.desk.depth / 2 - 0.08;
 	const apron = new CircleGeometry(oakRadius, 96);
 	const apronUv = apron.getAttribute('uv');
 	const apronPos = apron.getAttribute('position');
 	for (let i = 0; i < apronUv.count; i++) apronUv.setXY(i, apronPos.getX(i) / tile, apronPos.getY(i) / tile);
 	apronUv.needsUpdate = true;
+	const roundelRadius = 1.6;
 
 	// Oak radial aisles across the carpet, the western entrance aisle widest; UVs in plan.
 	const aisles = CHAMBER.aisleBearingsDeg.map((deg) => {
@@ -54,7 +58,7 @@
 
 {#each aisles as geometry, i (i)}
 	<T.Mesh {geometry} rotation.x={-Math.PI / 2} receiveShadow>
-		<T.MeshStandardMaterial map={boards} roughness={0.7} side={DoubleSide} />
+		<T.MeshStandardMaterial map={boards} roughness={0.55} side={DoubleSide} />
 	</T.Mesh>
 {/each}
 
@@ -63,11 +67,19 @@
 	<T.MeshStandardMaterial color={CHAMBER_TONES.carpet} roughness={1} metalness={0} side={DoubleSide} />
 </T.Mesh>
 
-<!-- Oak-boarded well on a low kerb. -->
+<!-- Oak-boarded well on a low kerb, with the blue mosaic roundel let into its centre. -->
 <T.Mesh position={[0, kerb / 2, 0]} receiveShadow>
-	<T.CylinderGeometry args={[CHAMBER.wellRadius, CHAMBER.wellRadius, kerb, 96, 1, true]} />
-	<T.MeshStandardMaterial map={boards} roughness={0.7} />
+	<T.CylinderGeometry args={[oakRadius, oakRadius, kerb, 96, 1, true]} />
+	<T.MeshStandardMaterial map={boards} roughness={0.55} />
 </T.Mesh>
 <T.Mesh geometry={apron} position={[0, kerb, 0]} rotation.x={-Math.PI / 2} receiveShadow>
-	<T.MeshStandardMaterial map={boards} roughness={0.7} />
+	<T.MeshStandardMaterial map={boards} roughness={0.55} />
+</T.Mesh>
+<T.Mesh position={[0, kerb + 0.002, 0]} rotation.x={-Math.PI / 2} receiveShadow>
+	<T.CircleGeometry args={[roundelRadius, 64]} />
+	<T.MeshStandardMaterial map={tex.roundel} roughness={0.35} />
+</T.Mesh>
+<T.Mesh position={[0, kerb + 0.003, 0]} rotation.x={-Math.PI / 2}>
+	<T.RingGeometry args={[roundelRadius, roundelRadius + 0.04, 64]} />
+	<T.MeshStandardMaterial color="#8d9297" roughness={0.3} metalness={0.8} />
 </T.Mesh>

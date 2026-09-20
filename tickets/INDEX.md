@@ -63,7 +63,7 @@ Spec 2.0.0 run
 | [T-20](T-20-member-register-and-search.md) | The Register: Member Pages, Members Index, Postcode Lookup, Client Search | Frontend | T-14 | `done` |
 | [T-21](T-21-derived-stats.md) | Derived Stats: Speaking Time by Party and Member | Pipeline + Frontend | T-20, T-16 | `done` |
 | [T-22](T-22-kiosk-attract-mode.md) | Kiosk and Attract Mode | Frontend | T-18 | `done` |
-| [T-23](T-23-chamber-polish-pass.md) | Chamber Polish Pass: Lighting, Materials, Clocks, Screens, Gallery | 3D | T-17 | `pending` |
+| [T-23](T-23-chamber-polish-pass.md) | Chamber Polish Pass: Lighting, Materials, Clocks, Screens, Gallery | 3D | T-17 | `done` |
 | [T-24](T-24-verification-gates.md) | Verification Gates: Verbatim, Timeline, Provenance, Prose, A11y, Perf, Determinism | Verification | T-18, T-20, T-21 | `pending` |
 
 ---

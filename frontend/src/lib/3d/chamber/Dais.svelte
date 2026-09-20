@@ -1,7 +1,7 @@
 <script lang="ts">
 	import { T } from '@threlte/core';
 	import { DoubleSide } from 'three';
-	import { cedarBoard, CHAMBER_TONES, TIMBER } from '../materials';
+	import { chamberTextures, CHAMBER_TONES, TIMBER } from '../materials';
 	import { deskRunGeometry } from './deskGeometry';
 	import { bearingToXZ, CHAMBER, DEG } from './layout';
 
@@ -10,7 +10,7 @@
 	const [dx, dz] = bearingToXZ(CHAMBER.dais.radius, b);
 	const [cx, cz] = bearingToXZ(CHAMBER.clerks.radius, b);
 	const { width, height } = CHAMBER.dais;
-	const board = cedarBoard(4, 1);
+	const board = chamberTextures().joineryB;
 
 	// Y Llywydd's desk is a taller curved oak run on the same radius as the platform,
 	// with the mace in an open slot at its centre; the clerks sit at a lower run in front.
@@ -36,12 +36,17 @@
 <T.Mesh geometry={llywydd} position.y={height} castShadow receiveShadow>
 	<T.MeshStandardMaterial map={board} roughness={0.55} side={DoubleSide} />
 </T.Mesh>
+<!-- Y Llywydd's centre bay stands a little proud of the run, as the scan shows. -->
+<T.Mesh position={[dx - 0.02 * Math.sin(b), height + 0.5, dz + 0.02 * Math.cos(b)]} rotation.y={yaw} castShadow receiveShadow>
+	<T.BoxGeometry args={[1.5, 1.14, 1.08]} />
+	<T.MeshStandardMaterial map={board} roughness={0.55} />
+</T.Mesh>
 <!-- Mace slot: a dark recess in the desk front with the mace lying inside. -->
-<T.Mesh position={[dx - 0.47 * Math.sin(b), height + 0.62, dz + 0.47 * Math.cos(b)]} rotation.y={yaw}>
-	<T.BoxGeometry args={[1.1, 0.24, 0.05]} />
+<T.Mesh position={[dx - 0.53 * Math.sin(b), height + 0.7, dz + 0.53 * Math.cos(b)]} rotation.y={yaw}>
+	<T.BoxGeometry args={[1.1, 0.26, 0.06]} />
 	<T.MeshStandardMaterial color="#141618" roughness={0.6} />
 </T.Mesh>
-<T.Mesh position={[dx - 0.45 * Math.sin(b), height + 0.6, dz + 0.45 * Math.cos(b)]} rotation.y={yaw} rotation.z={Math.PI / 2}>
+<T.Mesh position={[dx - 0.52 * Math.sin(b), height + 0.66, dz + 0.52 * Math.cos(b)]} rotation.y={yaw} rotation.z={Math.PI / 2}>
 	<T.CylinderGeometry args={[0.02, 0.03, 0.95, 10]} />
 	<T.MeshStandardMaterial color="#d8b25a" roughness={0.3} metalness={0.9} />
 </T.Mesh>
@@ -76,6 +81,6 @@
 		rotation.x={-0.2}
 	>
 		<T.BoxGeometry args={[0.44, 0.26, 0.018]} />
-		<T.MeshStandardMaterial color={CHAMBER_TONES.monitor} roughness={0.35} metalness={0.3} />
+		<T.MeshStandardMaterial color={CHAMBER_TONES.monitor} roughness={0.3} metalness={0.4} />
 	</T.Mesh>
 {/each}

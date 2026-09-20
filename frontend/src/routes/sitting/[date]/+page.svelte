@@ -134,6 +134,13 @@
 		}
 		const desk = liveDesk;
 		if (desk && (t !== null || item)) rig.frameDesk(desk, 0);
+		const vantage = params.get('vantage');
+		if (vantage === 'gallery' || vantage === 'llywydd' || vantage === 'floor') rig.setVantage(vantage, 0);
+		// ?pose=x,y,z,tx,ty,tz places the camera exactly, for the chamber review screenshots.
+		const pose = params.get('pose')?.split(',').map(Number);
+		if (pose?.length === 6 && pose.every(Number.isFinite)) {
+			rig.moveTo({ position: [pose[0], pose[1], pose[2]], target: [pose[3], pose[4], pose[5]] }, 0);
+		}
 	}
 
 	onMount(() => {
@@ -142,7 +149,8 @@
 			fallback = decision.reason;
 			return;
 		}
-		renderer = decision.mode;
+		// ?renderer=webgl2 forces the fallback path so the two backends can be compared side by side.
+		renderer = params.get('renderer') === 'webgl2' ? 'webgl2' : decision.mode;
 		hud.touch = window.matchMedia?.('(pointer: coarse)').matches || navigator.maxTouchPoints > 0;
 		hud.reducedMotion = decision.reducedMotion;
 		rig.reducedMotion = decision.reducedMotion;

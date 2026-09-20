@@ -2,13 +2,13 @@
 	import { T } from '@threlte/core';
 </script>
 
-<!-- Even, cool daylight through the glass, as the scan shows; the cornice uplighters warm the oak. -->
-<T.HemisphereLight args={['#f4f4f2', '#8a8378', 1.0]} />
-<T.AmbientLight intensity={0.35} color="#f6f1e8" />
-<T.DirectionalLight position={[0, -10, 0]} intensity={0.5} color="#ffe9d0" />
+<!-- Neutral daylight down the funnel throat with a cool sky bounce; the cornice pendants and the
+     downlight ring are drawn as emissive fittings, so the wall wash is not a light here. -->
+<T.HemisphereLight args={['#eef1f4', '#5f5950', 0.5]} />
+<T.AmbientLight intensity={0.05} color="#f6f1e8" />
 <T.DirectionalLight
-	position={[6, 14, 4]}
-	intensity={1.5}
+	position={[2, 15, 3]}
+	intensity={2.1}
 	color="#fdfcfa"
 	castShadow
 	shadow.mapSize.width={2048}
@@ -19,5 +19,8 @@
 	shadow.camera.bottom={-18}
 	shadow.camera.near={1}
 	shadow.camera.far={40}
-	shadow.bias={-0.0005}
+	shadow.bias={-0.0004}
+	shadow.normalBias={0.02}
+	shadow.radius={3}
 />
+<T.DirectionalLight position={[-8, 9, -6]} intensity={0.3} color="#f3ede2" />
