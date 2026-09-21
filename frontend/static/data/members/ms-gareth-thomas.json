@@ -547,7 +547,8 @@
           "tv_url": "http://www.senedd.tv/en/16260?startPos=19481"
         }
       ],
-      "date": "2026-09-15"
+      "date": "2026-09-15",
+      "record_page_url": "https://record.senedd.wales/Plenary/16260"
     },
     {
       "contributions": [
@@ -602,7 +603,8 @@
           "tv_url": "http://www.senedd.tv/en/16085?startPos=4725"
         }
       ],
-      "date": "2026-07-14"
+      "date": "2026-07-14",
+      "record_page_url": "https://record.senedd.wales/Plenary/16085"
     },
     {
       "contributions": [
@@ -617,7 +619,8 @@
           "tv_url": "http://www.senedd.tv/en/16084?startPos=864"
         }
       ],
-      "date": "2026-07-08"
+      "date": "2026-07-08",
+      "record_page_url": "https://record.senedd.wales/Plenary/16084"
     },
     {
       "contributions": [
@@ -632,7 +635,8 @@
           "tv_url": "http://www.senedd.tv/en/16083?startPos=15852"
         }
       ],
-      "date": "2026-07-07"
+      "date": "2026-07-07",
+      "record_page_url": "https://record.senedd.wales/Plenary/16083"
     },
     {
       "contributions": [
@@ -667,7 +671,8 @@
           "tv_url": "http://www.senedd.tv/en/16077?startPos=6524"
         }
       ],
-      "date": "2026-06-24"
+      "date": "2026-06-24",
+      "record_page_url": "https://record.senedd.wales/Plenary/16077"
     },
     {
       "contributions": [
@@ -682,7 +687,8 @@
           "tv_url": "http://www.senedd.tv/en/16076?startPos=16986"
         }
       ],
-      "date": "2026-06-23"
+      "date": "2026-06-23",
+      "record_page_url": "https://record.senedd.wales/Plenary/16076"
     },
     {
       "contributions": [
@@ -697,7 +703,8 @@
           "tv_url": "http://www.senedd.tv/en/16075?startPos=3493"
         }
       ],
-      "date": "2026-06-17"
+      "date": "2026-06-17",
+      "record_page_url": "https://record.senedd.wales/Plenary/16075"
     },
     {
       "contributions": [
@@ -722,7 +729,8 @@
           "tv_url": "http://www.senedd.tv/en/16060?startPos=3017"
         }
       ],
-      "date": "2026-06-02"
+      "date": "2026-06-02",
+      "record_page_url": "https://record.senedd.wales/Plenary/16060"
     }
   ],
   "current_status": "active",

@@ -169,6 +169,16 @@ class ExportTests(unittest.TestCase):
         self.assertEqual(sitting["meeting_id"], 16086)
         self.assertEqual(sitting["id"], "plenary-16086")
 
+    def test_record_page_url_is_the_readable_plenary_page(self):
+        page = "https://record.senedd.wales/Plenary/16086"
+        sitting = read(self.out / "sittings" / "2026-07-15.json")
+        self.assertEqual(sitting["record_page_url"], page)
+        self.assertEqual(sitting["source_xml_url"], SOURCE)
+        self.assertEqual(read(self.out / "sittings" / "index.json")[0]["record_page_url"], page)
+        member = read(self.out / "members" / f"{sitting['contributions'][0]['member_id']}.json")
+        self.assertEqual({g["record_page_url"] for g in member["contributions_by_date"]}, {page})
+        self.assertTrue(all("record_anchor" not in c for c in sitting["contributions"]))
+
     def test_index_generated_at_is_senedds_stamp_not_the_clock(self):
         index = read(self.out / "index.json")
         self.assertEqual(index["generated_at"], "2026-07-18T06:13:23")

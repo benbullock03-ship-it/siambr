@@ -67,7 +67,7 @@ test.describe('phone stage', () => {
 		await expect(page.getByText('Desk positions arranged by Siambr engine')).toBeHidden();
 		await info.click();
 		await expect(page.getByText('Desk positions arranged by Siambr engine')).toBeVisible();
-		await expect(page.getByText(/Record as published/)).toBeVisible();
+		await expect(page.getByRole('link', { name: /^Record of Proceedings ·/ })).toBeVisible();
 	});
 });
 

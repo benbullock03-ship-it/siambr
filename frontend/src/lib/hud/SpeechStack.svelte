@@ -11,10 +11,12 @@
 		speeches,
 		speakers,
 		targetSpeechId,
-		targetSpeakerId
+		targetSpeakerId,
+		recordUrl = null
 	}: {
 		speeches: Contribution[];
 		speakers: Record<string, MemberLight>;
+		recordUrl?: string | null;
 		targetSpeechId?: string;
 		targetSpeakerId?: string;
 	} = $props();
@@ -90,6 +92,9 @@
 							Broadcast offset <time data-numeric>{formatOffset(s.t_start)}</time>
 						{/if}
 					</p>
+				{/if}
+				{#if recordUrl}
+					<p class="small record"><ExternalLink href={recordUrl}>Read this in the Record</ExternalLink></p>
 				{/if}
 			</article>
 		</li>

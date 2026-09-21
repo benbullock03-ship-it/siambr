@@ -7,10 +7,12 @@
 	let {
 		recordPublishedAt,
 		sourceXmlUrl,
+		recordPageUrl,
 		compact = false
 	}: {
 		recordPublishedAt: string | null;
 		sourceXmlUrl: string;
+		recordPageUrl: string | null;
 		/** Phone: one "i" button that opens the notice, so the text never sits over the chamber. */
 		compact?: boolean;
 	} = $props();
@@ -35,19 +37,26 @@
 	}
 </script>
 
+{#snippet record()}
+	<p>
+		<ExternalLink href={recordPageUrl ?? sourceXmlUrl}>Record of Proceedings · <time data-numeric datetime={recordPublishedAt ?? undefined}>{stamp}</time></ExternalLink>
+		{#if recordPageUrl && !kiosk.active}· <ExternalLink href={sourceXmlUrl} class="xml">XML</ExternalLink>{/if}
+	</p>
+{/snippet}
+
 {#if compact}
 	<aside class="info" aria-label="Provenance">
 		<button type="button" class="info-button" popovertarget="provenance-notice" bind:this={infoButton} aria-label="Seating and record notice">i</button>
 		<div id="provenance-notice" class="info-popover small" popover="auto" bind:this={infoPopover} ontoggle={placeInfo}>
 			<p>{SEATING_NOTICE}</p>
-			<p>Record as published <ExternalLink href={sourceXmlUrl}><time data-numeric datetime={recordPublishedAt ?? undefined}>{stamp}</time></ExternalLink>.</p>
+			{@render record()}
 		</div>
 	</aside>
 {:else if !dismissed}
 	<aside class="provenance small" aria-label="Provenance">
 		<div class="provenance-text">
 			<p>{SEATING_NOTICE}</p>
-			<p>Record as published <ExternalLink href={sourceXmlUrl}><time data-numeric datetime={recordPublishedAt ?? undefined}>{stamp}</time></ExternalLink>.</p>
+			{@render record()}
 		</div>
 		<button
 			type="button"
@@ -124,6 +133,11 @@
 	.provenance-text p {
 		margin: 0;
 		line-height: 1.35;
+	}
+
+	:global(.provenance .xml),
+	:global(.info-popover .xml) {
+		font-size: 0.85em;
 	}
 
 	.btn-dismiss {

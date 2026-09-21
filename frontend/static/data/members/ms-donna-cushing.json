@@ -547,7 +547,8 @@
           "tv_url": "http://www.senedd.tv/en/16084?startPos=10156"
         }
       ],
-      "date": "2026-07-08"
+      "date": "2026-07-08",
+      "record_page_url": "https://record.senedd.wales/Plenary/16084"
     },
     {
       "contributions": [
@@ -562,7 +563,8 @@
           "tv_url": "http://www.senedd.tv/en/16074?startPos=154"
         }
       ],
-      "date": "2026-06-16"
+      "date": "2026-06-16",
+      "record_page_url": "https://record.senedd.wales/Plenary/16074"
     }
   ],
   "current_status": "active",

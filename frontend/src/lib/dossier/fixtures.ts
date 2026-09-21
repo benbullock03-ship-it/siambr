@@ -47,6 +47,7 @@ export function dossier(overrides: Partial<Dossier> = {}): Dossier {
 			meeting_id: null,
 			term: 7,
 			source_xml_url: 'https://record.senedd.wales/fixture.xml',
+			record_page_url: null,
 			record_published_at: '2026-06-11T06:00:00',
 			meeting_start_time: '13:30:00'
 		},

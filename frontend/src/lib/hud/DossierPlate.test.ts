@@ -11,6 +11,7 @@ const plate = dossier({
 		meeting_id: null,
 		term: 7,
 		source_xml_url: 'https://record.senedd.wales/Plenary/2026-06-10.xml',
+		record_page_url: 'https://record.senedd.wales/Plenary/1',
 		record_published_at: '2026-06-11T06:00:00',
 		meeting_start_time: '13:30:00'
 	},
@@ -91,5 +92,8 @@ describe('DossierPlate', () => {
 		expect(stage.getAttribute('href')).toBe('/sitting/2026-06-10?t=60');
 		const cite = screen.getByRole('link', { name: /Official Record of Proceedings/ });
 		expect(cite.getAttribute('href')).toBe('https://record.senedd.wales/Plenary/2026-06-10.xml');
+		const record = screen.getAllByRole('link', { name: 'Read this in the Record' });
+		expect(record.length).toBe(plate.contributions.length);
+		expect(record.every((a) => a.getAttribute('href') === 'https://record.senedd.wales/Plenary/1')).toBe(true);
 	});
 });

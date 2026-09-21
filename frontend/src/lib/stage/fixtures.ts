@@ -47,6 +47,7 @@ export function sitting(overrides: Partial<Sitting>): Sitting {
 		title_cy: 'Cyfarfod Llawn',
 		presiding_officer_id: null,
 		source_xml_url: 'https://record.senedd.wales/fixture',
+		record_page_url: null,
 		xml_sha256: '',
 		record_published_at: null,
 		meeting_start_time: '13:30:00',

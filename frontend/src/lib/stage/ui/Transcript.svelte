@@ -170,6 +170,9 @@
 					<ExternalLink href={contribution.tv_url}>Watch this moment on Senedd TV</ExternalLink>
 				{/if}
 			</p>
+			{#if sitting.record_page_url}
+				<p class="small record"><ExternalLink href={sitting.record_page_url}>Read this in the Record</ExternalLink></p>
+			{/if}
 		</div>
 	{:else if vote && reading}
 		<header class="head vote-head" class:agreed={vote.division.result === 'agreed'}>
@@ -492,6 +495,10 @@
 
 	.tv {
 		margin-top: 1rem;
+	}
+
+	.record {
+		margin-top: 0.35rem;
 	}
 
 	.on {

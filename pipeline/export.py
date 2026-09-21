@@ -22,6 +22,7 @@ from pipeline.db import DEFAULT_DB_PATH, REPO_ROOT, create_connection
 
 DEFAULT_OUT = REPO_ROOT / "frontend" / "static" / "data"
 PROVENANCE_DERIVED = "PROVENANCE_DERIVED"
+RECORD_BASE = "https://record.senedd.wales"
 
 STATS_METHOD = (
     "Speaking time is the gap between a contribution's Senedd TV start and the next timed "
@@ -119,6 +120,13 @@ def meeting_id_of(session_id: str) -> int | None:
     """'plenary-16086' -> 16086; fixture or legacy IDs without a numeric suffix give None."""
     tail = session_id.rsplit("-", 1)[-1]
     return int(tail) if tail.isdigit() else None
+
+
+def record_page_url(session_id: str) -> str | None:
+    """The readable Record page for the meeting (checked live for 16261 on 2026-09-21). No
+    per-contribution anchor: the page's #C ids do not match every transcript contribution id."""
+    mid = meeting_id_of(session_id)
+    return f"{RECORD_BASE}/Plenary/{mid}" if mid is not None else None
 
 
 class Exporter:
@@ -263,6 +271,7 @@ class Exporter:
             "title_cy": s["title_cy"],
             "presiding_officer_id": s["presiding_officer_id"],
             "source_xml_url": s["source_xml_url"],
+            "record_page_url": record_page_url(s["id"]),
             "xml_sha256": s["xml_sha256"],
             "record_published_at": s["record_published_at"],
             "meeting_start_time": s["meeting_start_time"],
@@ -315,6 +324,7 @@ class Exporter:
                 "title_en": s["title_en"],
                 "title_cy": s["title_cy"],
                 "source_xml_url": s["source_xml_url"],
+                "record_page_url": record_page_url(s["id"]),
                 "record_published_at": s["record_published_at"],
                 "meeting_start_time": s["meeting_start_time"],
                 "item_count": len(items),
@@ -338,7 +348,7 @@ class Exporter:
         m = self.members[member_id]
         speeches = rows(
             self.conn,
-            """SELECT c.id, c.agenda_item_id, a.title_en, s.session_date, c.spoken_language,
+            """SELECT c.id, c.agenda_item_id, a.title_en, s.session_date, s.id AS session_id, c.spoken_language,
                       c.verbatim_text_original, c.verbatim_text_english, c.video_timestamp_start,
                       a.item_order, c.sequence_number, a.senedd_tv_clip_url
                FROM debate_contributions c
@@ -349,6 +359,7 @@ class Exporter:
             (member_id,),
         )
         by_date: dict[str, list[dict]] = {}
+        record_by_date = {sp["session_date"]: record_page_url(sp["session_id"]) for sp in speeches}
         for sp in speeches:
             by_date.setdefault(sp["session_date"], []).append({
                 "id": sp["id"],
@@ -402,7 +413,9 @@ class Exporter:
                 "source_url": r["source_url"],
             } for r in self.roles[member_id]],
             "contribution_count": len(speeches),
-            "contributions_by_date": [{"date": d, "contributions": cs} for d, cs in by_date.items()],
+            "contributions_by_date": [
+                {"date": d, "record_page_url": record_by_date[d], "contributions": cs} for d, cs in by_date.items()
+            ],
             "ballots": [{
                 "division_id": b["division_id"],
                 "item_id": b["agenda_item_id"],

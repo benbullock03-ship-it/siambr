@@ -111,6 +111,7 @@
 									<span>No broadcast timestamp published, so this contribution cannot be placed on the stage.</span>
 								{/if}
 								{#if s.tv_url}<ExternalLink href={s.tv_url}>Senedd TV</ExternalLink>{/if}
+								{#if day.record_page_url}<ExternalLink href={day.record_page_url}>Read this in the Record</ExternalLink>{/if}
 							</p>
 						</li>
 					{/each}
@@ -126,7 +127,9 @@
 
 	<footer class="citation small">
 		Source: <ExternalLink href={m.official_profile_url}>Official Senedd profile</ExternalLink>. Speeches quoted verbatim from the
-		<ExternalLink href="https://record.senedd.wales/">Record of Proceedings</ExternalLink>; division results from Modern.Gov. Party and roles as recorded for each date.
+		Record of Proceedings for each day:
+		{#each m.contributions_by_date.filter((d) => d.record_page_url) as day, i (day.date)}{i ? ', ' : ''}<ExternalLink href={day.record_page_url!}><time datetime={day.date}>{day.date}</time></ExternalLink>{/each}.
+		Division results from Modern.Gov. Party and roles as recorded for each date.
 	</footer>
 </main>
 

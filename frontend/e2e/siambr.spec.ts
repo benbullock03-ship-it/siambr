@@ -18,7 +18,7 @@ test('the front door is the latest sitting, paused, with one Play', async ({ pag
 	await expect(page).toHaveURL(new RegExp(`/sitting/${DATE}$`));
 	await expect(page.getByRole('button', { name: 'Play' })).toHaveCount(1);
 	await expect(page.getByText('Desk positions arranged by Siambr engine')).toBeVisible();
-	await expect(page.getByText(/Record as published/)).toBeVisible();
+	await expect(page.getByRole('link', { name: /^Record of Proceedings ·/ })).toBeVisible();
 	await expect(page.locator('canvas')).toHaveCount(1, { timeout: 20_000 });
 	expect(await violations(page)).toEqual([]);
 });

@@ -19,7 +19,7 @@
 	const currentRoles = $derived(m.roles.filter((r) => r.end_date === null));
 	const firstTerm = $derived(m.tenures.length ? Math.min(...m.tenures.map((t) => t.senedd_term)) : null);
 	const latest = $derived(
-		m.contributions_by_date.flatMap((g) => g.contributions.map((c) => ({ ...c, date: g.date }))).slice(0, LATEST)
+		m.contributions_by_date.flatMap((g) => g.contributions.map((c) => ({ ...c, date: g.date, record_page_url: g.record_page_url }))).slice(0, LATEST)
 	);
 	let portraitFailed = $state(false);
 
@@ -90,6 +90,9 @@
 									<summary class="small">Official English translation</summary>
 									<p lang="en">{s.text_english}</p>
 								</details>
+							{/if}
+							{#if s.record_page_url}
+								<p class="small"><ExternalLink href={s.record_page_url}>Read this in the Record</ExternalLink></p>
 							{/if}
 						</article>
 					</li>

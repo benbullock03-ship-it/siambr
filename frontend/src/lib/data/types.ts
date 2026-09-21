@@ -74,6 +74,8 @@ export interface SittingSummary {
 	title_en: string;
 	title_cy: string;
 	source_xml_url: string;
+	/** The readable Record page for the meeting; the XML stays the audit source. */
+	record_page_url: string | null;
 	record_published_at: string | null;
 	meeting_start_time: string | null;
 	item_count: number;
@@ -148,6 +150,7 @@ export interface Sitting {
 	title_cy: string;
 	presiding_officer_id: string | null;
 	source_xml_url: string;
+	record_page_url: string | null;
 	xml_sha256: string;
 	record_published_at: string | null;
 	meeting_start_time: string | null;
@@ -214,7 +217,7 @@ export interface MemberFile extends MemberLight {
 	tenures: Tenure[];
 	roles: MinisterialRole[];
 	contribution_count: number;
-	contributions_by_date: { date: string; contributions: MemberContribution[] }[];
+	contributions_by_date: { date: string; record_page_url: string | null; contributions: MemberContribution[] }[];
 	ballots: MemberBallot[];
 }
 

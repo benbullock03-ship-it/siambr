@@ -2,7 +2,7 @@ import type { Contribution, Division, MemberLight, Sitting, SittingItem, TabledT
 
 /** One agenda item with everything the Dossier Plate shows, cut from a sitting file. */
 export interface Dossier {
-	sitting: Pick<Sitting, 'date' | 'id' | 'meeting_id' | 'term' | 'source_xml_url' | 'record_published_at' | 'meeting_start_time'> & {
+	sitting: Pick<Sitting, 'date' | 'id' | 'meeting_id' | 'term' | 'source_xml_url' | 'record_page_url' | 'record_published_at' | 'meeting_start_time'> & {
 		items?: SittingItem[];
 	};
 	item: SittingItem;
@@ -22,6 +22,7 @@ export function dossierFor(sitting: Sitting, itemId: string): Dossier | null {
 			meeting_id: sitting.meeting_id,
 			term: sitting.term,
 			source_xml_url: sitting.source_xml_url,
+			record_page_url: sitting.record_page_url,
 			record_published_at: sitting.record_published_at,
 			meeting_start_time: sitting.meeting_start_time,
 			items: sitting.items

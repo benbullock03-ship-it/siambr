@@ -3,9 +3,10 @@
 	import { page } from '$app/state';
 	import { afterNavigate, replaceState } from '$app/navigation';
 	import type MiniSearch from 'minisearch';
-	import { loadSearchIndex } from '$lib/data/loaders';
+	import { loadSearchIndex, loadSittingsIndex } from '$lib/data/loaders';
 	import { BADGE } from '$lib/data/provenance';
 	import type { SearchDocument } from '$lib/data/types';
+	import ExternalLink from '$lib/hud/ExternalLink.svelte';
 
 	type Hit = SearchDocument & { terms: string[] };
 	type Engine = MiniSearch<SearchDocument>;
@@ -15,6 +16,7 @@
 	let loading = $state(false);
 	let failed = $state(false);
 	let hits = $state<Hit[]>([]);
+	let recordByDate = $state<Record<string, string | null>>({});
 	let searched = $state('');
 	const LIMIT = 50;
 
@@ -23,7 +25,12 @@
 		if (loading) return null;
 		loading = true;
 		try {
-			const [{ default: MiniSearch }, file] = await Promise.all([import('minisearch'), loadSearchIndex(fetch)]);
+			const [{ default: MiniSearch }, file, sittings] = await Promise.all([
+				import('minisearch'),
+				loadSearchIndex(fetch),
+				loadSittingsIndex(fetch)
+			]);
+			recordByDate = Object.fromEntries(sittings.map((s) => [s.date, s.record_page_url]));
 			const built = new MiniSearch<SearchDocument>({
 				fields: file.fields,
 				storeFields: file.store_fields,
@@ -47,7 +54,8 @@
 			const url = new URL(page.url);
 			if (q) url.searchParams.set('q', q);
 			else url.searchParams.delete('q');
-			replaceState(url, page.state);
+			// A ?q= arrival already carries the query, and the router may not be started yet.
+			if (url.search !== page.url.search) replaceState(url, page.state);
 		}
 		if (!q) {
 			hits = [];
@@ -121,6 +129,7 @@
 							<p class="small links">
 								<a href={stageHref(h)}>See it in the chamber</a>
 								<a href="/register?item={encodeURIComponent(h.item_id)}">Register item</a>
+								{#if recordByDate[h.date]}<ExternalLink href={recordByDate[h.date]!}>Read this in the Record</ExternalLink>{/if}
 							</p>
 						</li>
 					{/each}

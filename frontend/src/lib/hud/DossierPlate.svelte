@@ -60,6 +60,7 @@
 				speakers={dossier.speakers}
 				{targetSpeechId}
 				{targetSpeakerId}
+				recordUrl={dossier.sitting.record_page_url}
 			/>
 		{:else}
 			<p>No contributions on record for this item.</p>
