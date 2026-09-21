@@ -41,18 +41,61 @@
 		if (id && open[id] === undefined) open[id] = true;
 	});
 	const isOpen = (id: string) => open[id] ?? id === live?.itemId;
+	/** scrollIntoView({ block: 'nearest' }) by hand: Chrome's version also moves the Tab starting point to the row. */
+	function scrollNearest(row: HTMLElement) {
+		let box = row.parentElement;
+		while (box && !(box.scrollHeight > box.clientHeight && /auto|scroll/.test(getComputedStyle(box).overflowY))) box = box.parentElement;
+		if (!box) return;
+		const r = row.getBoundingClientRect();
+		const b = box.getBoundingClientRect();
+		if (r.top < b.top) box.scrollTop += r.top - b.top;
+		else if (r.bottom > b.bottom) box.scrollTop += r.bottom - b.bottom;
+	}
 	// The live row keeps itself in view as playback moves on.
 	let nav = $state<HTMLElement>();
 	$effect(() => {
 		void liveIndex;
-		nav?.querySelector('[aria-current="true"]')?.scrollIntoView({ block: 'nearest' });
+		const row = nav?.querySelector<HTMLElement>('[aria-current="true"]');
+		if (row) scrollNearest(row);
 	});
+
+	// Roving tabindex: one stop in the tab order, the live row (or its item when closed); arrows move within.
+	let roved = $state<string | null>(null);
+	$effect(() => {
+		void liveIndex;
+		roved = null;
+	});
+	const stop = $derived.by(() => {
+		if (roved) return roved;
+		const itemId = live?.itemId ?? timeline.items[0]?.id;
+		if (live && itemId && isOpen(itemId)) return `b:${live.index}`;
+		return itemId ? `s:${itemId}` : null;
+	});
+	const tab = (key: string) => (key === stop ? 0 : -1);
+
+	function onkeydown(e: KeyboardEvent) {
+		if (!nav || !['ArrowDown', 'ArrowUp', 'Home', 'End'].includes(e.key)) return;
+		const stops = [...nav.querySelectorAll<HTMLElement>('[data-rove]')].filter((el) => el.tagName === 'SUMMARY' || el.closest('details')?.open);
+		const at = stops.indexOf(document.activeElement as HTMLElement);
+		const next = e.key === 'Home' ? 0 : e.key === 'End' ? stops.length - 1 : Math.min(stops.length - 1, Math.max(0, at + (e.key === 'ArrowDown' ? 1 : -1)));
+		const el = stops[next];
+		if (!el) return;
+		e.preventDefault();
+		roved = el.dataset.rove ?? null;
+		el.focus();
+	}
+	function onfocusin(e: FocusEvent) {
+		const key = (e.target as HTMLElement).dataset?.rove;
+		if (key) roved = key;
+	}
 </script>
 
-<nav class="order" aria-label="Running order" bind:this={nav} data-provenance={PROVENANCE_DERIVED}>
+<!-- The keys move focus between the rows inside; the nav itself takes no action. -->
+<!-- svelte-ignore a11y_no_noninteractive_element_interactions -->
+<nav class="order" aria-label="Running order" bind:this={nav} data-provenance={PROVENANCE_DERIVED} {onkeydown} {onfocusin}>
 	{#each rows as { item, beats, divisions, all } (item.id)}
 		<details open={isOpen(item.id)} ontoggle={(e) => (open[item.id] = e.currentTarget.open)}>
-			<summary class:live={live?.itemId === item.id}>
+			<summary class:live={live?.itemId === item.id} data-rove="s:{item.id}" tabindex={tab(`s:${item.id}`)}>
 				<span class="title">{item.title_en}</span>
 				{#if divisions.length}<span class="votes small" data-numeric>{divisions.length} {divisions.length === 1 ? 'vote' : 'votes'}</span>{/if}
 				{#if votesOn.get(item.id)}<span class="votes small">to a vote</span>{/if}
@@ -65,7 +108,7 @@
 				{#each all as beat (beat.index)}
 					<li>
 						{#if beat.kind === 'contribution'}
-							<button type="button" class="row" aria-current={beat.index === liveIndex ? 'true' : undefined} onclick={() => clock.seek(beat.t)}>
+							<button type="button" class="row" data-rove="b:{beat.index}" tabindex={tab(`b:${beat.index}`)} aria-current={beat.index === liveIndex ? 'true' : undefined} onclick={() => clock.seek(beat.t)}>
 								<span class="time small" data-numeric>{beat.timed ? (wallClockAt(sitting.meeting_start_time, beat.t) ?? `${beat.t} s`) : 'untimed'}</span>
 								<span class="who">{name(beat.contribution.member_id)}</span>
 								{#if beat.contribution.lang === 'cy'}<span class="lang small">cy</span>{/if}
@@ -74,7 +117,7 @@
 							{@const r = readMotion(beat.division.motion_text)}
 							{@const debate = debateOf.get(beat.division.id)}
 							{@const party = memberNamed(r.tabledBy, sitting.speakers)?.party_id}
-							<button type="button" class="row division" class:agreed={beat.division.result === 'agreed'} aria-current={beat.index === liveIndex ? 'true' : undefined} onclick={() => clock.seek(beat.t)}>
+							<button type="button" class="row division" data-rove="b:{beat.index}" tabindex={tab(`b:${beat.index}`)} class:agreed={beat.division.result === 'agreed'} aria-current={beat.index === liveIndex ? 'true' : undefined} onclick={() => clock.seek(beat.t)}>
 								<span class="time small">Vote</span>
 								<span class="who">
 									<span class="question">{targetLabel(r.target)}{#if r.tabledBy} · {r.tabledBy}{/if}{#if party} <span class="tabler-party">{partyLabel(party)}</span>{/if}</span>

@@ -234,10 +234,25 @@
 			return;
 		}
 		if (hud.walk && (e.key === 'ArrowLeft' || e.key === 'ArrowRight')) return;
+		// Space on a control outside the transport presses that control, not Play.
+		const control = target?.closest('button, a, summary, [role="tab"], [role="switch"]');
+		if (e.key === ' ' && control && !control.closest('#transport')) return;
 		const action = keyboardAction(e);
 		if (!action) return;
 		e.preventDefault();
 		applyAction(clock, action);
+	}
+
+	// A button activates on Space's keyup; the keydown already toggled the clock, so the click must not.
+	function onkeyup(e: KeyboardEvent) {
+		if (e.key === ' ' && (e.target as HTMLElement | null)?.closest('#transport button')) e.preventDefault();
+	}
+
+	function skipToTransport(e: MouseEvent) {
+		const play = document.querySelector<HTMLButtonElement>('#transport .play');
+		if (!play) return;
+		e.preventDefault();
+		play.focus();
 	}
 
 	function speaker() {
@@ -250,9 +265,10 @@
 	<title>Plenary {sitting.date} · Siambr</title>
 </svelte:head>
 
-<svelte:window {onkeydown} />
+<svelte:window {onkeydown} {onkeyup} />
 
 <main id="main" class="stage" class:phone>
+	<a class="skip-link" href="#transport" onclick={skipToTransport}>Skip to transport</a>
 	<TopStrip {clock} {rig} {hud} date={sitting.date} sittings={data.sittings} onspeaker={speaker} compact={phone} />
 	<ScrubBar {clock} {sitting} />
 
@@ -277,6 +293,8 @@
 		<SiambrHud
 			{hud}
 			{renderer}
+			date={sitting.date}
+			{phone}
 			division={clock.floor.divisionTint !== null}
 			onjoystick={(v) => {
 				player.joystick.x = v.x;
@@ -389,5 +407,21 @@
 
 	.stage.phone {
 		grid-template-columns: minmax(0, 1fr);
+	}
+
+	.skip-link {
+		position: absolute;
+		left: 0.5rem;
+		top: 0.5rem;
+		z-index: 50;
+		padding: 0.6rem 1rem;
+		background: var(--color-ink);
+		color: var(--color-ground);
+		font: 600 var(--text-small) var(--font-sans);
+		transform: translateY(-200%);
+	}
+
+	.skip-link:focus {
+		transform: none;
 	}
 </style>

@@ -35,6 +35,9 @@ Spec 2.0.0 run
   T-24 Verification gates
      |
   T-25 Register and vote legibility
+     |
+  Ease-of-use audit 2026-09-21 (docs/ease-of-use-audit-2026-09-21.md)
+  T-26 Stage wayfinding + first run   T-27 Phone layout   T-28 Record links   T-29 Divisions index   T-30 Register filters
 ```
 
 ---
@@ -68,6 +71,11 @@ Spec 2.0.0 run
 | [T-23](T-23-chamber-polish-pass.md) | Chamber Polish Pass: Lighting, Materials, Clocks, Screens, Gallery | 3D | T-17 | `done` |
 | [T-24](T-24-verification-gates.md) | Verification Gates: Verbatim, Timeline, Provenance, Prose, A11y, Perf, Determinism | Verification | T-18, T-20, T-21 | `done` (perf trace reports only on SwiftShader) |
 | [T-25](T-25-register-and-vote-legibility.md) | Register and Vote Legibility: Record Overlay, Party Tabs, Division Tones, Ballot History | Frontend + 3D | T-19, T-20 | `done` |
+| [T-26](T-26-stage-wayfinding-and-first-run.md) | Stage Wayfinding and First Run: Site Nav on the Stage, Reachable Landing Page, Orientation, Keyboard Entry | Frontend | T-18, T-22 | `done` |
+| [T-27](T-27-phone-stage-and-header-layout.md) | Phone Layout: HUD Plates Clear of the Sheet, Header Nav That Fits | Frontend | T-18, T-25 | `pending` |
+| [T-28](T-28-record-links-on-every-quote.md) | Record Links on Every Quote: Readable Y Cofnod Page, Not an XML Download | Pipeline + Frontend | T-14, T-20 | `pending` |
+| [T-29](T-29-divisions-index-and-search.md) | Divisions Index and Search: Find a Vote Without Knowing the Date | Pipeline + Frontend | T-19, T-20, T-25 | `pending` |
+| [T-30](T-30-register-filters-and-page-length.md) | Register Filters and Page Length: One Filter Behaviour, Shorter First Paint | Frontend | T-20 | `pending` |
 
 ---
 
@@ -86,3 +94,7 @@ Spec 2.0.0 run
 - Data depth on the Seventh Senedd first: all sittings, timestamps, divisions.
 - Zero-cost hosting: static site on Cloudflare Pages, GitHub Actions polling every 30 minutes on sitting days.
 - Sync failures: default Actions email only.
+
+## Decisions recorded 2026-09-21
+
+- T-26: `/` is the landing page and the prerender redirect is removed. The front door stays the latest sitting through the landing page's primary button, `GlobalHeader`'s brand link and its "Chamber Stage" link. The `/welcome` alternative was not taken.

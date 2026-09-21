@@ -127,6 +127,7 @@ describe('wallClockAt', () => {
 describe('keyboard map', () => {
 	it('maps the documented keys and nothing else', () => {
 		expect(keyboardAction({ key: ' ', shiftKey: false })).toBe('toggle');
+		expect(keyboardAction({ key: 'k', shiftKey: false })).toBe('toggle');
 		expect(keyboardAction({ key: 'ArrowRight', shiftKey: false })).toBe('nextContribution');
 		expect(keyboardAction({ key: 'ArrowLeft', shiftKey: true })).toBe('previousItem');
 		expect(keyboardAction({ key: '[', shiftKey: false })).toBe('slower');

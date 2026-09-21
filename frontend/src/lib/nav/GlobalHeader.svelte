@@ -14,7 +14,7 @@
 	const latestSitting = $derived(site?.latest_sitting ?? null);
 	const currentTerm = $derived(site?.current_term ?? 7);
 
-	const isChamber = $derived(currentPath === '/' || currentPath.startsWith('/sitting'));
+	const isChamber = $derived(currentPath.startsWith('/sitting') && !currentPath.endsWith('/stats'));
 	const isRegister = $derived(currentPath.startsWith('/register'));
 	const isMembers = $derived(currentPath.startsWith('/members'));
 	const isSearch = $derived(currentPath.startsWith('/search'));
@@ -24,7 +24,7 @@
 <header class="global-header">
 	<div class="header-inner">
 		<div class="brand-group">
-			<a href="/" class="brand-link">
+			<a href={latestSitting ? `/sitting/${latestSitting}` : '/'} class="brand-link" aria-label="Siambr: the latest sitting">
 				<div class="brand-text">
 					<span class="brand-title">Siambr</span>
 					<span class="brand-sub">Senedd Cymru</span>

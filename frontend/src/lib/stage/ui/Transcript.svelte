@@ -146,7 +146,9 @@
 			</button>
 		{/if}
 
-		<div class="body" bind:this={column} {onscroll} onwheel={hold} ontouchmove={hold} role="group" aria-label="Contribution text" tabindex="-1">
+		<!-- A scrolling region must take focus so a keyboard can scroll it and Space can play from it. -->
+		<!-- svelte-ignore a11y_no_noninteractive_tabindex -->
+		<div class="body" bind:this={column} {onscroll} onwheel={hold} ontouchmove={hold} role="group" aria-label="Contribution text" tabindex="0">
 			<p class="badge small">{BADGE.verbatim}</p>
 			<div class="text" lang={contribution.lang}>
 				{#each contribution.text_original.split(/\n+/) as para, i (i)}

@@ -10,7 +10,6 @@
 	} = $props();
 
 	let closeButton: HTMLButtonElement;
-	let dontShowAgain = $state(false);
 
 	onMount(() => {
 		const opener = document.activeElement instanceof HTMLElement ? document.activeElement : null;
@@ -19,13 +18,6 @@
 	});
 
 	function handleClose() {
-		if (dontShowAgain && typeof localStorage !== 'undefined') {
-			try {
-				localStorage.setItem('siambr_onboarded', 'true');
-			} catch {
-				// localStorage unavailable
-			}
-		}
 		onclose();
 	}
 
@@ -67,8 +59,8 @@
 			<div class="step-content">
 				<h3>1. The Chamber Stage</h3>
 				<p>
-					Watch full Plenary sessions playback in the 3D Siambr. The speaking Member’s desk
-					lights up with an architectural beacon, and their exact verbatim speech scrolls in real time.
+					Play back a whole Plenary day in the 3D Siambr. A light falls on the desk of the Member
+					who has the floor. Their words scroll beside the chamber at the pace they were spoken.
 				</p>
 			</div>
 		</div>
@@ -87,10 +79,10 @@
 		<div class="step-card">
 			<div class="step-num" aria-hidden="true">3</div>
 			<div class="step-content">
-				<h3>3. Verbatim Truth</h3>
+				<h3>3. Quoted Word for Word</h3>
 				<p>
-					Siambr never synthesises or paraphrases. Every speech and roll-call division is quoted
-					word-for-word from the official Record of Proceedings with direct Senedd TV video links.
+					Siambr never paraphrases. Every speech and every division result is quoted as printed in the
+					Record of Proceedings. Timed speeches link to that moment on Senedd TV.
 				</p>
 			</div>
 		</div>
@@ -116,10 +108,6 @@
 	</div>
 
 	<footer class="dialog-foot">
-		<label class="remember">
-			<input type="checkbox" bind:checked={dontShowAgain} />
-			<span>Don’t show this guide on startup</span>
-		</label>
 		<button type="button" class="done-button" onclick={handleClose}>Got it</button>
 	</footer>
 </div>
@@ -286,20 +274,11 @@
 	.dialog-foot {
 		display: flex;
 		flex-wrap: wrap;
-		justify-content: space-between;
+		justify-content: flex-end;
 		align-items: center;
 		gap: 1rem;
 		padding-top: 1rem;
 		border-top: 1px solid var(--color-border);
-	}
-
-	.remember {
-		display: inline-flex;
-		align-items: center;
-		gap: 0.5rem;
-		font-size: var(--text-small);
-		color: var(--color-muted);
-		cursor: pointer;
 	}
 
 	.done-button {

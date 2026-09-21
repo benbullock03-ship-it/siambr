@@ -11,7 +11,10 @@ async function violations(page: Page) {
 }
 
 test('the front door is the latest sitting, paused, with one Play', async ({ page }) => {
+	// Two page loads now: the landing page, then the stage on SwiftShader.
+	test.slow();
 	await page.goto('/');
+	await page.getByRole('link', { name: 'Enter the chamber' }).click();
 	await expect(page).toHaveURL(new RegExp(`/sitting/${DATE}$`));
 	await expect(page.getByRole('button', { name: 'Play' })).toHaveCount(1);
 	await expect(page.getByText('Desk positions arranged by Siambr engine')).toBeVisible();

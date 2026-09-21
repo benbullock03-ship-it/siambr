@@ -12,6 +12,8 @@ export type ClockAction =
 
 export const KEYBOARD_MAP: { key: string; shift: boolean; action: ClockAction; label: string }[] = [
 	{ key: ' ', shift: false, action: 'toggle', label: 'Space: play or pause' },
+	{ key: 'k', shift: false, action: 'toggle', label: 'K: play or pause' },
+	{ key: 'K', shift: true, action: 'toggle', label: 'K: play or pause' },
 	{ key: 'ArrowLeft', shift: false, action: 'previousContribution', label: 'Left: previous contribution' },
 	{ key: 'ArrowRight', shift: false, action: 'nextContribution', label: 'Right: next contribution' },
 	{ key: 'ArrowLeft', shift: true, action: 'previousItem', label: 'Shift+Left: previous item' },

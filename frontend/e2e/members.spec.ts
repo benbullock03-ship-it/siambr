@@ -131,7 +131,7 @@ test('global navigation header and onboarding guide modal are accessible', async
 	await expect(modal).toBeVisible();
 	await expect(modal.getByText(/The Chamber Stage/)).toBeVisible();
 	await expect(modal.getByText(/Find Your Member/)).toBeVisible();
-	await expect(modal.getByText(/Verbatim Truth/)).toBeVisible();
+	await expect(modal.getByText(/Quoted Word for Word/)).toBeVisible();
 
 	await page.keyboard.press('Escape');
 	await expect(modal).toBeHidden();

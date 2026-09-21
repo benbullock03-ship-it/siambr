@@ -22,8 +22,12 @@ function setupLocalStorageProxy() {
 	} catch {}
 }
 
+export type KioskLink = 'search' | 'stats';
+
 export class KioskManager {
 	active = $state(false);
+	/** Stage menu links a kiosk opts into with ?kiosk_links=search,stats; Members and Register always show. */
+	links = $state<KioskLink[]>([]);
 
 	constructor() {
 		if (typeof window !== 'undefined') {
@@ -38,6 +42,14 @@ export class KioskManager {
 			const currentUrl = url ?? new URL(window.location.href);
 			const param = currentUrl.searchParams.get('kiosk');
 			const storage = window.localStorage;
+			const links = currentUrl.searchParams.get('kiosk_links');
+			if (links !== null) {
+				if (links) storage.setItem('siambr.kiosk.links', links);
+				else storage.removeItem('siambr.kiosk.links');
+			}
+			this.links = (storage.getItem('siambr.kiosk.links') ?? '')
+				.split(',')
+				.filter((l): l is KioskLink => l === 'search' || l === 'stats');
 
 			if (param === '1') {
 				storage.setItem('siambr.kiosk', '1');
@@ -47,6 +59,8 @@ export class KioskManager {
 
 			if (param === '0') {
 				storage.removeItem('siambr.kiosk');
+				storage.removeItem('siambr.kiosk.links');
+				this.links = [];
 				this.active = false;
 				return;
 			}

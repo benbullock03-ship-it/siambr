@@ -4,12 +4,13 @@
 	let { clock }: { clock: SittingClock } = $props();
 </script>
 
-<div class="transport" role="group" aria-label="Transport">
-	<button type="button" class="step" onclick={() => clock.stepItem(-1)} aria-label="Previous item" title="Previous item (Shift+Left)">⇤</button>
-	<button type="button" class="step" onclick={() => clock.stepContribution(-1)} aria-label="Previous contribution" title="Previous contribution (Left)">←</button>
-	<button type="button" class="button-primary play" onclick={() => clock.toggle()} disabled={clock.atEnd} aria-label={clock.playing ? 'Pause' : 'Play'} title="Play or pause (Space)">
+<!-- Play leads so it is the first stop after the sitting picker (T-26 keyboard entry). -->
+<div id="transport" class="transport" role="group" aria-label="Transport">
+	<button type="button" class="button-primary play" onclick={() => clock.toggle()} disabled={clock.atEnd} aria-label={clock.playing ? 'Pause' : 'Play'} title="Play or pause (Space or K)">
 		{clock.playing ? 'Pause' : 'Play'}
 	</button>
+	<button type="button" class="step" onclick={() => clock.stepItem(-1)} aria-label="Previous item" title="Previous item (Shift+Left)">⇤</button>
+	<button type="button" class="step" onclick={() => clock.stepContribution(-1)} aria-label="Previous contribution" title="Previous contribution (Left)">←</button>
 	<button type="button" class="step" onclick={() => clock.stepContribution(1)} aria-label="Next contribution" title="Next contribution (Right)">→</button>
 	<button type="button" class="step" onclick={() => clock.stepItem(1)} aria-label="Next item" title="Next item (Shift+Right)">⇥</button>
 </div>

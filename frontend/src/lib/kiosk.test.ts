@@ -44,4 +44,13 @@ describe('kiosk persistence & sync', () => {
 		kiosk.sync(url2);
 		expect(kiosk.active).toBe(true);
 	});
+
+	it('?kiosk_links= opts Search and Stats into the stage menu, and ?kiosk=0 drops them', () => {
+		kiosk.sync(new URL('https://siambr.test/sitting/2026-06-10?kiosk=1&kiosk_links=search,stats,bogus'));
+		expect(kiosk.links).toEqual(['search', 'stats']);
+		kiosk.sync(new URL('https://siambr.test/register'));
+		expect(kiosk.links).toEqual(['search', 'stats']);
+		kiosk.sync(new URL('https://siambr.test/register?kiosk=0'));
+		expect(kiosk.links).toEqual([]);
+	});
 });

@@ -2,6 +2,8 @@
 	import type { Snippet } from 'svelte';
 	import type { SiambrState } from '$lib/3d/state.svelte';
 	import { partyColor, partyLabel } from '$lib/dossier/parties';
+	import { kiosk } from '$lib/kiosk.svelte';
+	import { rememberDismissed, wasDismissed } from './dismissed';
 	import TouchJoystick from './TouchJoystick.svelte';
 	import VoteLegend from './VoteLegend.svelte';
 
@@ -11,9 +13,14 @@
 		renderer,
 		onjoystick,
 		provenance,
-		division = false
+		division = false,
+		date,
+		phone = false
 	}: {
 		hud: SiambrState;
+		date: string;
+		/** Phone: the transcript is in the sheet below the chamber, not the column on the right. */
+		phone?: boolean;
 		renderer: 'webgpu' | 'webgl2' | null;
 		onjoystick: (v: { x: number; y: number }) => void;
 		provenance?: Snippet;
@@ -22,6 +29,13 @@
 	} = $props();
 
 	let dismissedControls = $state(false);
+	$effect(() => {
+		if (wasDismissed('controls', kiosk.active)) dismissedControls = true;
+	});
+	function dismissControls() {
+		dismissedControls = true;
+		rememberDismissed('controls', kiosk.active);
+	}
 
 	const focus = $derived(hud.focus);
 	const anchor = $derived(hud.anchor);
@@ -35,6 +49,10 @@
 		{#if !dismissedControls}
 			<div class="plate controls small" aria-label="Controls">
 				<div class="controls-content">
+					<p class="lead">
+						Plenary, <time data-numeric datetime={date}>{date}</time>. Press Play to start the day;
+						{phone ? 'the transcript is in the sheet below.' : 'the transcript follows on the right.'}
+					</p>
 					{#if hud.walk}
 						{#if hud.touch}
 							Drag the joystick to walk. Drag the view to look. Tap the floor to move there. Tap a desk to open its Member.
@@ -51,7 +69,7 @@
 				<button
 					type="button"
 					class="btn-dismiss"
-					onclick={() => (dismissedControls = true)}
+					onclick={dismissControls}
 					aria-label="Dismiss controls guide"
 				>
 					<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
@@ -205,6 +223,12 @@
 
 	.controls-content {
 		line-height: 1.4;
+	}
+
+	.lead {
+		margin: 0 0 0.2rem;
+		font-weight: 600;
+		color: var(--color-ink);
 	}
 
 	.btn-dismiss {
@@ -539,10 +563,6 @@
 	}
 
 	@media (max-width: 720px) {
-		.controls {
-			display: none;
-		}
-
 		.nametag {
 			bottom: 1rem;
 			min-width: 0;

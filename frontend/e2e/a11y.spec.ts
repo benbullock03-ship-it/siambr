@@ -54,8 +54,16 @@ test.describe('@a11y stage', () => {
 	// A cold Vite compiles three.js on the first stage hit.
 	test.slow();
 
-	test('the front door and the stage HUD pass axe at desktop width', async ({ page }) => {
+	test('the landing page, the Guide and the stage HUD pass axe at desktop width', async ({ page }) => {
 		await page.goto('/');
+		await expect(page.getByRole('heading', { level: 1 })).toBeVisible();
+		await settled(page);
+		expect(await violations(page)).toEqual([]);
+		await page.goto('/?guide=1');
+		const guide = page.getByRole('dialog', { name: 'How to explore the Senedd' });
+		await expect(guide).toBeVisible();
+		expect(await violations(page)).toEqual([]);
+		await guide.getByRole('link', { name: 'Enter the Chamber' }).click();
 		await expect(page).toHaveURL(new RegExp(`/sitting/${DATE}$`));
 		await expect(page.locator('canvas')).toHaveCount(1, { timeout: 30_000 });
 		await expect(page.getByRole('button', { name: 'Play' })).toBeVisible();

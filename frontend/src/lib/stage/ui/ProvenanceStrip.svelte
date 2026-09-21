@@ -1,10 +1,19 @@
 <script lang="ts">
 	import { SEATING_NOTICE } from '$lib/3d/chamber/seating';
 	import ExternalLink from '$lib/hud/ExternalLink.svelte';
+	import { rememberDismissed, wasDismissed } from '$lib/hud/dismissed';
+	import { kiosk } from '$lib/kiosk.svelte';
 
 	let { recordPublishedAt, sourceXmlUrl }: { recordPublishedAt: string | null; sourceXmlUrl: string } = $props();
 	const stamp = $derived(recordPublishedAt ? recordPublishedAt.replace('T', ' ') : 'date not stated');
 	let dismissed = $state(false);
+	$effect(() => {
+		if (wasDismissed('seating', kiosk.active)) dismissed = true;
+	});
+	function dismiss() {
+		dismissed = true;
+		rememberDismissed('seating', kiosk.active);
+	}
 </script>
 
 {#if !dismissed}
@@ -16,7 +25,7 @@
 		<button
 			type="button"
 			class="btn-dismiss"
-			onclick={() => (dismissed = true)}
+			onclick={dismiss}
 			aria-label="Dismiss seating notice"
 		>
 			<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">

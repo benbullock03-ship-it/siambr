@@ -23,8 +23,10 @@
 	{/if}
 	<nav class="doors" aria-label="Enter">
 		<a class="button-primary" href={data.index?.latest_sitting ? `/sitting/${data.index.latest_sitting}` : '/register'}>Enter the chamber</a>
-		<a href="/register">Open the Register</a>
 		<a href="/members">Find your Member</a>
+		<a href="/register">Open the Register</a>
+		<a href="/search">Search what was said</a>
+		<a href="/?guide=1">How Siambr works</a>
 	</nav>
 </main>
 

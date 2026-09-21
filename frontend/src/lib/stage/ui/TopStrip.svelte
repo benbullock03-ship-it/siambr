@@ -4,6 +4,7 @@
 	import type { GuidedRig } from '$lib/3d/controls/guided.svelte';
 	import type { SiambrState } from '$lib/3d/state.svelte';
 	import type { SittingSummary } from '$lib/data/types';
+	import { kiosk } from '$lib/kiosk.svelte';
 	import { SPEEDS, type SittingClock } from '../clock.svelte';
 	import Transport from './Transport.svelte';
 
@@ -49,6 +50,29 @@
 	const walkAllowed = $derived(!hud.reducedMotion && !hud.kiosk);
 	const speedHint: Record<number, string> = { 1: 'Real time', 4: 'Four times real time', 16: 'Sixteen times real time' };
 
+	const liveItem = $derived(clock.floor.live?.itemId ?? null);
+	/** The site menu. A kiosk shows Members and the Register, plus Search and Stats only when its config opts in. */
+	const menu = $derived.by(() => {
+		const all = [
+			{ id: 'members', label: 'Members', href: '/members' },
+			{ id: 'search', label: 'Search', href: '/search' },
+			{ id: 'register', label: 'Register', href: liveItem ? `/register?item=${encodeURIComponent(liveItem)}` : '/register' },
+			{ id: 'stats', label: 'Stats', href: `/sitting/${date}/stats` },
+			{ id: 'guide', label: 'Guide', href: `/sitting/${date}?guide=1` }
+		];
+		if (!hud.kiosk) return all;
+		return all.filter((l) => l.id === 'members' || l.id === 'register' || (kiosk.links as string[]).includes(l.id));
+	});
+	let menuPopover = $state<HTMLElement>();
+	let menuButton = $state<HTMLButtonElement>();
+	/** The popover sits in the top layer, so it is placed under its button by hand. */
+	function placeMenu(e: ToggleEvent) {
+		if (e.newState !== 'open' || !menuButton || !menuPopover) return;
+		const r = menuButton.getBoundingClientRect();
+		menuPopover.style.top = `${r.bottom + 4}px`;
+		menuPopover.style.right = `${Math.max(8, window.innerWidth - r.right)}px`;
+	}
+
 	function pick(id: Exclude<VantageId, 'speaker'>) {
 		hud.walk = false;
 		rig.setVantage(id);
@@ -61,7 +85,6 @@
 
 <div class="strip" role="toolbar" aria-label="Chamber stage controls">
 	<div class="group group-nav">
-		<a href="/?home=1" class="brand hinted" aria-label="Siambr home">Siambr{@render hint('Back to the landing page')}</a>
 		<label class="field">
 			<span class="kicker">Sitting</span>
 			<select value={date} onchange={(e) => goto(`/sitting/${e.currentTarget.value}`)} aria-label="Sitting date">
@@ -115,10 +138,25 @@
 		</div>
 	</div>
 
-	<div class="group group-links">
-		<a class="link" href="/sitting/{date}/stats">Session stats</a>
-		<a class="link register" href="/register">Register</a>
-	</div>
+	<nav class="group group-links" class:kiosk={hud.kiosk} aria-label="Site">
+		{#if compact}
+			<button type="button" class="menu-button" popovertarget="stage-menu" bind:this={menuButton}>Menu</button>
+			<ul id="stage-menu" class="menu-popover" popover="auto" bind:this={menuPopover} ontoggle={placeMenu}>
+				{#each menu as l (l.id)}
+					<li><a class="link" href={l.href} onclick={() => menuPopover?.hidePopover()}>{l.label}</a></li>
+				{/each}
+			</ul>
+		{:else}
+			<ul class="menu-row">
+				{#each menu as l (l.id)}
+					<li><a class="link" href={l.href}>{l.label}</a></li>
+				{/each}
+			</ul>
+		{/if}
+	</nav>
+
+	<!-- Last in the tab order so the sitting picker and Play come first; drawn first by `order`. -->
+	<a href="/" class="brand hinted" aria-label="Siambr home">Siambr{@render hint('The landing page')}</a>
 </div>
 
 <style>
@@ -167,6 +205,7 @@
 	}
 
 	.brand {
+		order: -1;
 		font: 700 1.25rem var(--font-serif);
 		color: var(--color-ink);
 		letter-spacing: -0.01em;
@@ -307,12 +346,23 @@
 	.group-links {
 		flex-direction: row;
 		align-items: center;
-		gap: 1rem;
 		margin-left: auto;
 		padding-bottom: 0.35rem;
 	}
 
+	.menu-row {
+		display: flex;
+		align-items: center;
+		gap: 0.25rem 1rem;
+		margin: 0;
+		padding: 0;
+		list-style: none;
+	}
+
 	.link {
+		display: inline-flex;
+		align-items: center;
+		min-height: 1.75rem;
 		font: 600 var(--text-small) var(--font-sans);
 		color: var(--color-ink);
 		text-decoration: none;
@@ -323,13 +373,43 @@
 		border-bottom-color: var(--color-ink);
 	}
 
-	.link.register {
-		color: var(--color-accent-plum-dark);
-		border-bottom-color: transparent;
+	.kiosk .link {
+		min-height: var(--tap-min);
+		padding: 0 0.5rem;
 	}
 
-	.link.register:hover {
-		border-bottom-color: var(--color-accent-plum-dark);
+	.menu-button {
+		min-width: var(--tap-min);
+		min-height: var(--tap-min);
+		padding: 0 0.75rem;
+		border: 1px solid var(--color-border);
+		background: var(--color-ground);
+		color: var(--color-ink);
+		font: 600 var(--text-small) var(--font-sans);
+		cursor: pointer;
+	}
+
+	.menu-popover {
+		position: fixed;
+		inset: 3.25rem 0.5rem auto auto;
+		margin: 0;
+		padding: 0.25rem 0;
+		min-width: 12rem;
+		list-style: none;
+		background: var(--color-ground);
+		border: 1px solid var(--color-border);
+		box-shadow: 0 8px 24px rgb(17 20 23 / 0.2);
+	}
+
+	.menu-popover .link {
+		display: flex;
+		min-height: var(--tap-min);
+		padding: 0 1rem;
+		border-bottom: 0;
+	}
+
+	.menu-popover .link:hover {
+		background: var(--color-panel);
 	}
 
 	/* Wide: the record links sit on the kicker line, top right, clear of the controls. */
@@ -389,6 +469,12 @@
 
 		.group-links {
 			padding-bottom: 0;
+			margin-left: auto;
+		}
+
+		/* Menu stays on the first row beside the clock; the camera wraps below. */
+		.group-camera {
+			order: 1;
 		}
 
 		.hint {
