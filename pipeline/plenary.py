@@ -169,17 +169,21 @@ def write_session(conn: sqlite3.Connection, n: NormalisedSession, *, rewrite: bo
     Replacing cascades to divisions linked by T-05, so re-run that ingest afterwards. The
     session row carries record_published_at, so it moves with the checksum and never alone.
     """
-    existing = conn.execute("SELECT xml_sha256 FROM plenary_sessions WHERE id = ?", (n.session_id,)).fetchone()
+    existing = conn.execute("SELECT xml_sha256, stream_url, stream_vbegin FROM plenary_sessions WHERE id = ?",
+                            (n.session_id,)).fetchone()
     if existing and existing[0] == n.session[7] and not rewrite:
         return "unchanged"
+    # The stream is Senedd TV's, not the Record's, so a new Record release keeps it.
+    stream = tuple(existing[1:]) if existing else (None, None)
     conn.execute("BEGIN")
     try:
         conn.execute("DELETE FROM plenary_sessions WHERE id = ?", (n.session_id,))
         conn.execute(
             """INSERT INTO plenary_sessions (id, senedd_term, session_date, title_en, title_cy,
-                   presiding_officer_id, source_xml_url, xml_sha256, record_published_at, meeting_start_time)
-               VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
-            n.session,
+                   presiding_officer_id, source_xml_url, xml_sha256, record_published_at, meeting_start_time,
+                   stream_url, stream_vbegin)
+               VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
+            n.session + stream,
         )
         conn.executemany(
             """INSERT INTO agenda_items (id, session_id, item_order, item_type, title_en, title_cy,

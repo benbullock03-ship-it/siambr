@@ -4,6 +4,9 @@ import { bearingToXZ, CHAMBER, DEG, type Desk } from './layout';
 /**
  * The official seating plan of the Siambr is not published as open data, so
  * desk positions are arranged by Siambr and must always be labelled as such.
+ * What the Senedd does publish is followed: Ministers in the front row facing
+ * the Chair, the First Minister at its centre, other Members in party groups.
+ * https://senedd.wales/senedd-business/plenary/about-the-siambr/
  */
 export const SEATING_PROVENANCE = 'PROVENANCE_DERIVED' as const;
 export const SEATING_NOTICE = 'Desk positions arranged by Siambr engine — not the official seating plan.';
@@ -16,6 +19,33 @@ export interface SeatAssignment {
 }
 
 const partyKey = (m: MemberSummary) => m.party_id ?? 'independent';
+
+const MINISTER_RANK = ['first_minister', 'deputy_first_minister', 'cabinet_secretary', 'cabinet_minister', 'counsel_general', 'minister', 'deputy_minister'];
+
+/** Members holding a ministerial role on `date`, First Minister first, then by rank and name. */
+export function frontBench(term: ParliamentaryTerm, members: MemberSummary[], date: string): MemberSummary[] {
+	const rank = new Map<string, number>();
+	for (const r of term.ministers ?? []) {
+		if (r.start_date > date || (r.end_date !== null && r.end_date < date)) continue;
+		const level = MINISTER_RANK.indexOf(r.cabinet_level);
+		const k = level < 0 ? MINISTER_RANK.length : level;
+		rank.set(r.member_id, Math.min(rank.get(r.member_id) ?? k, k));
+	}
+	return members
+		.filter((m) => rank.has(m.id))
+		.sort((a, b) => rank.get(a.id)! - rank.get(b.id)! || a.canonical_name.localeCompare(b.canonical_name, 'en-GB'));
+}
+
+/** Inner-row desks facing the dais, nearest the centre line first. */
+function frontRow(desks: Desk[], n: number): Desk[] {
+	const facing = CHAMBER.dais.bearingDeg * DEG + Math.PI;
+	const off = (d: Desk) => Math.abs(Math.atan2(Math.sin(d.bearing - facing), Math.cos(d.bearing - facing)));
+	const inner = Math.min(...desks.map((d) => d.row));
+	return desks
+		.filter((d) => d.row === inner)
+		.sort((a, b) => off(a) - off(b) || a.bearing - b.bearing)
+		.slice(0, n);
+}
 
 /** The Member holding the office of Llywydd for the term today, if the term records one. */
 export function llywyddOf(term: ParliamentaryTerm, members: MemberSummary[]): MemberSummary | null {
@@ -31,29 +61,39 @@ export function llywyddDesk(): Desk {
 }
 
 /**
- * Seat Members in contiguous party blocs sweeping the arc from Y Llywydd's
- * left to right, largest party first, alphabetical within a party. Blocs run
- * across all tiers so a party occupies a wedge, as in a real chamber.
+ * Seat `bench` (in order) in the front row from its centre outwards, then the
+ * rest in contiguous party blocs sweeping the arc from Y Llywydd's left to
+ * right, largest party first, alphabetical within a party. Blocs run across
+ * all tiers so a party occupies a wedge, as in a real chamber.
  */
-export function assignSeats(members: MemberSummary[], desks: Desk[]): SeatAssignment[] {
+export function assignSeats(members: MemberSummary[], desks: Desk[], bench: MemberSummary[] = []): SeatAssignment[] {
 	if (members.length > desks.length) {
 		throw new Error(`${members.length} Members but only ${desks.length} desks`);
 	}
+	const front = frontRow(desks, bench.length);
+	const benchSeats: SeatAssignment[] = front.map((desk, i) => ({ desk, member: bench[i], provenance: SEATING_PROVENANCE }));
+	const seated = new Set(benchSeats.map((s) => s.member.id));
+	const taken = new Set(front.map((d) => d.id));
+	const rest = members.filter((m) => !seated.has(m.id));
+	const restDesks = desks.filter((d) => !taken.has(d.id));
 	const blocs = new Map<string, MemberSummary[]>();
-	for (const m of members) blocs.set(partyKey(m), [...(blocs.get(partyKey(m)) ?? []), m]);
+	for (const m of rest) blocs.set(partyKey(m), [...(blocs.get(partyKey(m)) ?? []), m]);
 	const ordered = [...blocs.entries()]
 		.sort(([ka, a], [kb, b]) => b.length - a.length || ka.localeCompare(kb))
 		.flatMap(([, ms]) => ms.sort((a, b) => a.canonical_name.localeCompare(b.canonical_name, 'en-GB')));
 
 	// A left-to-right sweep by bearing; ties across tiers resolve inner first.
-	const byBearing = [...desks].sort((a, b) => a.bearing - b.bearing || a.row - b.row);
+	const byBearing = [...restDesks].sort((a, b) => a.bearing - b.bearing || a.row - b.row);
 	// Spread any empty desks evenly so a short house does not leave a gap at one end.
 	const stride = byBearing.length / ordered.length;
-	return ordered.map((member, i) => ({
-		desk: byBearing[Math.min(byBearing.length - 1, Math.floor(i * stride))],
-		member,
-		provenance: SEATING_PROVENANCE
-	}));
+	return [
+		...benchSeats,
+		...ordered.map((member, i) => ({
+			desk: byBearing[Math.min(byBearing.length - 1, Math.floor(i * stride))],
+			member,
+			provenance: SEATING_PROVENANCE
+		}))
+	];
 }
 
 /** Official title in English and Welsh for Presiding Officers. */
@@ -74,9 +114,10 @@ export function assignChamberSeats(
 	members: MemberSummary[],
 	desks: Desk[],
 	term: ParliamentaryTerm,
-	activePresidingMemberId?: string | null
+	activePresidingMemberId?: string | null,
+	date?: string
 ): SeatAssignment[] {
-	const baseFloorSeats = assignSeats(members, desks);
+	const baseFloorSeats = assignSeats(members, desks, date ? frontBench(term, members, date) : []);
 	const activePoRecord = term.presiding_officers.find((o) => o.member_id === activePresidingMemberId);
 	const activePoMember = activePresidingMemberId ? members.find((m) => m.id === activePresidingMemberId) : null;
 	const fallbackLlywydd = llywyddOf(term, members);

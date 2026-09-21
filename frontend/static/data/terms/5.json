@@ -1007,6 +1007,20 @@
       "role_title_en": null
     }
   ],
+  "ministers": [
+    {
+      "cabinet_level": "first_minister",
+      "end_date": "2018-12-13",
+      "member_id": "ms-carwyn-jones",
+      "start_date": "2009-12-10"
+    },
+    {
+      "cabinet_level": "first_minister",
+      "end_date": "2024-03-20",
+      "member_id": "ms-mark-drakeford",
+      "start_date": "2018-12-13"
+    }
+  ],
   "presiding_officers": [],
   "seat_count": 60,
   "start_date": "2016-05-05",

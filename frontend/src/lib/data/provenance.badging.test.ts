@@ -31,6 +31,7 @@ const BADGE_COMPONENTS = new Set(['ProvenanceStrip']);
  * on the only route that mounts them, /sitting/[date], which this test also asserts.
  */
 const EXEMPT: Record<string, string> = {
+	'lib/3d/chamber/ChamberScreen.svelte': 'video: yields the Senedd TV frame to a division tally; renders no figure',
 	'lib/3d/chamber/Desks.svelte': 'geometry: desk positions come from seating.ts (typed SEATING_PROVENANCE); the sitting route shows ProvenanceStrip',
 	'lib/3d/chamber/DivisionDisplays.svelte': 'geometry: wall clocks read the division beat; the sitting route shows the badge and VoteLegend',
 	'lib/3d/SiambrScene.svelte': 'scene graph: passes seats and floor state to the chamber; no figure rendered as text',
@@ -80,7 +81,7 @@ describe('provenance badging on derived figures', () => {
 
 	it('finds the files that render derived figures', () => {
 		expect(derived.map((f) => f.rel)).toEqual(expect.arrayContaining([
-			'routes/sitting/[date]/+page.svelte',
+			'routes/sitting/[date]/Stage.svelte',
 			'routes/sitting/[date]/stats/+page.svelte',
 			'routes/terms/[n]/stats/+page.svelte',
 			'routes/register/+page.svelte',
@@ -108,7 +109,7 @@ describe('provenance badging on derived figures', () => {
 	});
 
 	it('the sitting route shows the seating notice for the chamber it mounts', () => {
-		const sitting = files.find((f) => f.rel === 'routes/sitting/[date]/+page.svelte')!;
+		const sitting = files.find((f) => f.rel === 'routes/sitting/[date]/Stage.svelte')!;
 		let strip = false;
 		walk(parse(sitting.source, { modern: true }), (n) => {
 			if (n.type === 'Component' && n.name === 'ProvenanceStrip') strip = true;

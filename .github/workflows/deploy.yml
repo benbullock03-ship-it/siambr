@@ -85,8 +85,11 @@ jobs:
         continue-on-error: true
         run: npm run test:perf
 
+      # Senedd TV on the wall screens stays off in production until the Senedd news team replies in writing (T-33).
       - name: Build the site
         working-directory: frontend
+        env:
+          PUBLIC_SCREEN_VIDEO: '0'
         run: npm run build
 
       - uses: actions/upload-artifact@v4

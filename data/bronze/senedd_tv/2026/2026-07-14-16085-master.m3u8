@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:1
+## Created with Unified Streaming Platform (version=1.15.16-32383)
+
+# variants
+#EXT-X-STREAM-INF:BANDWIDTH=2807000,CODECS="mp4a.40.2,avc1.100.51",RESOLUTION=1280x720,VIDEO-RANGE=SDR
+60c932f3-e9b6-4a2f-a887-343c942de97c_I-audio=256000-video=2391372.m3u8?vbegin=0
+
+# variants
+#EXT-X-STREAM-INF:BANDWIDTH=272000,CODECS="mp4a.40.2"
+60c932f3-e9b6-4a2f-a887-343c942de97c_I-audio=256000.m3u8?vbegin=0

@@ -38,6 +38,8 @@ Spec 2.0.0 run
      |
   Ease-of-use audit 2026-09-21 (docs/ease-of-use-audit-2026-09-21.md)
   T-26 Stage wayfinding + first run   T-27 Phone layout   T-28 Record links   T-29 Divisions index   T-30 Register filters
+     |
+  T-31 Senedd TV stream URL  ->  T-32 Chamber screen playback  ->  T-33 Screen audio, credit and flag
 ```
 
 ---
@@ -76,6 +78,9 @@ Spec 2.0.0 run
 | [T-28](T-28-record-links-on-every-quote.md) | Record Links on Every Quote: Readable Y Cofnod Page, Not an XML Download | Pipeline + Frontend | T-14, T-20 | `done` |
 | [T-29](T-29-divisions-index-and-search.md) | Divisions Index and Search: Find a Vote Without Knowing the Date | Pipeline + Frontend | T-19, T-20, T-25 | `done` |
 | [T-30](T-30-register-filters-and-page-length.md) | Register Filters and Page Length: One Filter Behaviour, Shorter First Paint | Frontend | T-20 | `done` |
+| [T-31](T-31-senedd-tv-stream-url.md) | Senedd TV Stream URL: Resolve, Mirror and Align the Meeting Stream | Pipeline | T-14 | `done` |
+| [T-32](T-32-chamber-screen-playback.md) | Chamber Screen Playback: Senedd TV on the Wall Screens, Following the Clock | Frontend | T-31 | `done` |
+| [T-33](T-33-screen-audio-credit-and-flag.md) | Screen Audio, Credit and Flag: Interpretation Audio, Attribution, Off Until Cleared | Frontend | T-32 | `done` (email not sent; flag off in production) |
 
 ---
 
@@ -86,7 +91,7 @@ Spec 2.0.0 run
 - English UI now; a reviewed Welsh interface pass later, not machine translation.
 - Chamber model stays; polish passes only.
 - Front door is the latest sitting, paused, one Play.
-- Senedd TV is link-out only.
+- Senedd TV is link-out, plus in-chamber screen playback of the unaltered stream (T-31 to T-33), subject to the Commission's reply.
 - Full verbatim text in the stage HUD, scrolling at real pace.
 - Member profile pages are the register of record.
 - Stats per sitting and per term, badged derived.
@@ -98,3 +103,4 @@ Spec 2.0.0 run
 ## Decisions recorded 2026-09-21
 
 - T-26: `/` is the landing page and the prerender redirect is removed. The front door stays the latest sitting through the landing page's primary button, `GlobalHeader`'s brand link and its "Chamber Stage" link. The `/welcome` alternative was not taken.
+- T-31 to T-33: the chamber wall screens play the Senedd TV stream. A division tally takes the screens over the video. Interpretation audio on by default, as on senedd.tv, with a mute toggle and the track named. The stage clock leads and the video follows; screens go dark at 4x and 16x. No video on phone, with reduced motion or in kiosk. `stream_url` ships only when `vbegin` matches the sitting start within 2 s; no offsets. Frames unaltered, credited, and behind a flag until the Senedd news team replies. This amends the 2026-09-20 link-out-only decision.

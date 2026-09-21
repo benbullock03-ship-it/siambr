@@ -3,9 +3,12 @@
 	import type { VantageId } from '$lib/3d/chamber/layout';
 	import type { GuidedRig } from '$lib/3d/controls/guided.svelte';
 	import type { SiambrState } from '$lib/3d/state.svelte';
+	import Mark from '$lib/nav/Mark.svelte';
 	import type { SittingSummary } from '$lib/data/types';
 	import { kiosk } from '$lib/kiosk.svelte';
 	import { SPEEDS, type SittingClock } from '../clock.svelte';
+	import { ScreenSound } from '../screenVideo.svelte';
+	import ScreenAudio from './ScreenAudio.svelte';
 	import Transport from './Transport.svelte';
 
 	let {
@@ -15,7 +18,11 @@
 		date,
 		sittings,
 		onspeaker,
-		compact = false
+		compact = false,
+		sound = new ScreenSound(),
+		screenAvailable = false,
+		screenMissing = false,
+		verbatim = false
 	}: {
 		clock: SittingClock;
 		rig: GuidedRig;
@@ -25,6 +32,11 @@
 		onspeaker: () => void;
 		/** Phone: the transport lives in the sheet header instead. */
 		compact?: boolean;
+		sound?: ScreenSound;
+		screenAvailable?: boolean;
+		screenMissing?: boolean;
+		/** The sitting also has the verbatim feed. */
+		verbatim?: boolean;
 	} = $props();
 
 	const MONTHS = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
@@ -116,6 +128,9 @@
 					{/each}
 				</div>
 			{/if}
+			{#if !compact}
+				<ScreenAudio {sound} available={screenAvailable} missing={screenMissing} {verbatim} />
+			{/if}
 		</div>
 	</div>
 
@@ -157,7 +172,7 @@
 	</nav>
 
 	<!-- Last in the tab order so the sitting picker and Play come first; drawn first by `order`. -->
-	<a href="/" class="brand hinted" aria-label="Siambr home">Siambr{@render hint('The landing page')}</a>
+	<a href="/" class="brand hinted" aria-label="Siambr home"><Mark size={22} />Siambr{@render hint('The landing page')}</a>
 </div>
 
 <style>
@@ -207,6 +222,9 @@
 
 	.brand {
 		order: -1;
+		display: inline-flex;
+		align-items: flex-end;
+		gap: 0.4rem;
 		font: 700 1.25rem var(--font-serif);
 		color: var(--color-ink);
 		letter-spacing: -0.01em;

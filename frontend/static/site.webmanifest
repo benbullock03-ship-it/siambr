@@ -1,0 +1,13 @@
+{
+	"name": "Siambr",
+	"short_name": "Siambr",
+	"description": "One sitting day of Senedd Cymru on a 3D stage, with the register of record behind it.",
+	"start_url": "/",
+	"background_color": "#F7F6F2",
+	"theme_color": "#F7F6F2",
+	"icons": [
+		{ "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+		{ "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" },
+		{ "src": "/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+	]
+}

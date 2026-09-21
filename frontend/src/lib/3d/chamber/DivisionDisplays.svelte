@@ -1,12 +1,12 @@
 <script lang="ts">
 	import { useTask, useThrelte } from '@threlte/core';
-	import { CanvasTexture, SRGBColorSpace, type Mesh, type MeshBasicMaterial, type Texture } from 'three';
+	import { CanvasTexture, SRGBColorSpace, VideoTexture, type Mesh, type MeshBasicMaterial, type Texture } from 'three';
 	import type { FloorState } from '$lib/stage/floor';
 	import { DISPLAY_SURFACES } from '../materials';
 	import { clockDigits, wallDisplay } from './divisionLight';
 	import { CHAMBER_CLOCKS, CHAMBER_SCREENS } from './layout';
 
-	let { floor, t }: { floor: FloorState; t: number } = $props();
+	let { floor, t, video = null }: { floor: FloorState; t: number; video?: Texture | null } = $props();
 
 	const { scene } = useThrelte();
 	const tint = $derived(floor.divisionTint);
@@ -94,6 +94,8 @@
 		if (material.map !== texture) {
 			material.map = texture;
 			material.color.set(texture ? '#ffffff' : '#0a0c0e');
+			// Senedd TV frames go out unaltered: no tone mapping or fog on the video.
+			material.toneMapped = material.fog = !(texture instanceof VideoTexture);
 			material.needsUpdate = true;
 		}
 		material.opacity = texture ? opacity : 1;
@@ -111,7 +113,8 @@
 			drawClock(digits);
 			drawnDigits = digits;
 		}
-		for (const deg of CHAMBER_SCREENS) show(`wall-screen-${deg}`, display ? screenTexture : null, tint?.strength ?? 1);
+		// A division tally takes the screens over the video.
+		for (const deg of CHAMBER_SCREENS) show(`wall-screen-${deg}`, display ? screenTexture : video, display ? (tint?.strength ?? 1) : 1);
 		for (const deg of CHAMBER_CLOCKS) show(`division-clock-${deg}`, digits ? clockTexture : null, 1);
 	});
 </script>

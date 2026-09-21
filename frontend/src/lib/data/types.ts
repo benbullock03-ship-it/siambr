@@ -155,6 +155,10 @@ export interface Sitting {
 	record_published_at: string | null;
 	meeting_start_time: string | null;
 	clip_url: string | null;
+	/** Senedd TV HLS master playlist; set only when its first frame is within 2 s of meeting_start_time. */
+	stream_url: string | null;
+	/** The same pictures with the floor audio as spoken; gated like stream_url. */
+	stream_url_verbatim: string | null;
 	items: SittingItem[];
 	contributions: Contribution[];
 	tabled_texts: TabledText[];
@@ -231,9 +235,18 @@ export interface PresidingOfficer {
 }
 
 /** terms/{n}.json */
+/** A ministerial role held during the term; seats the front bench for a sitting date. */
+export interface TermMinister {
+	member_id: string;
+	cabinet_level: string;
+	start_date: string;
+	end_date: string | null;
+}
+
 export interface TermFile extends TermSummary {
 	presiding_officers: PresidingOfficer[];
 	members: MemberLight[];
+	ministers: TermMinister[];
 }
 
 /** search/index.json: documents the browser indexes with MiniSearch. Text is verbatim. */

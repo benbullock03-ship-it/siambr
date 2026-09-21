@@ -33,6 +33,8 @@ export class SittingClock {
 	t = $state(0);
 	playing = $state(false);
 	speed = $state<Speed>(1);
+	/** Counts seek() calls, so followers can tell a jump from playback. */
+	seeks = $state(0);
 
 	floor: FloorState;
 	wallClock: string | null;
@@ -67,6 +69,7 @@ export class SittingClock {
 
 	seek(t: number): void {
 		this.t = this.clamp(Number.isFinite(t) ? t : 0);
+		this.seeks++;
 	}
 
 	setSpeed(speed: Speed): void {

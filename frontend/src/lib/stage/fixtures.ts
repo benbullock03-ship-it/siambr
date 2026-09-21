@@ -52,6 +52,8 @@ export function sitting(overrides: Partial<Sitting>): Sitting {
 		record_published_at: null,
 		meeting_start_time: '13:30:00',
 		clip_url: null,
+		stream_url: null,
+		stream_url_verbatim: null,
 		items: [],
 		contributions: [],
 		tabled_texts: [],

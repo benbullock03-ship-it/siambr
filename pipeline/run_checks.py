@@ -19,6 +19,7 @@ from pathlib import Path
 
 import requests
 
+from pipeline import senedd_tv
 from pipeline.adapters import plenary_votes, plenary_xml
 from pipeline.adapters.http import SourceUnavailable, fetch
 from pipeline.db import DEFAULT_DB_PATH, create_connection
@@ -233,6 +234,59 @@ def check_live_verbatim(conn: sqlite3.Connection, bronze: Path, static: Path, sa
     return Check(name, failures, notes)
 
 
+def _published_streams(conn: sqlite3.Connection, static: Path) -> tuple[list[tuple[dict, str | None]], list[str]]:
+    """One (stream, exported url) per sitting and feed; each stream carries the feed's Gold url and vbegin."""
+    out, missing = [], []
+    for s in conn.execute("SELECT * FROM plenary_sessions ORDER BY session_date"):
+        path = static / "sittings" / f"{s['session_date']}.json"
+        if not path.exists():
+            missing.append(f"{s['id']}: no {path.name} in the export")
+            continue
+        sitting = json.loads(path.read_text(encoding="utf-8"))
+        for feed, (_, url_col, vbegin_col) in senedd_tv.FEEDS.items():
+            stream = {"id": s["id"], "feed": url_col, "session_date": s["session_date"],
+                      "meeting_start_time": s["meeting_start_time"], "url": s[url_col], "vbegin": s[vbegin_col]}
+            out.append((stream, sitting.get(url_col)))
+    return out, missing
+
+
+def check_stream_gate(conn: sqlite3.Connection, static: Path) -> Check:
+    """An exported stream url is Gold's, and only where its first segment is within the tolerance of the sitting start."""
+    name = "exported stream urls pass the alignment gate"
+    published, failures = _published_streams(conn, static)
+    for s, url in published:
+        aligned = senedd_tv.is_aligned(s["vbegin"], s["session_date"], s["meeting_start_time"])
+        expected = s["url"] if aligned else None
+        if url != expected:
+            failures.append(f"{s['id']}: exported {s['feed']} {url!r}, gate gives {expected!r}")
+    return Check(name, failures)
+
+
+def check_live_streams(conn: sqlite3.Connection, static: Path, sample_size: int = SAMPLE_SIZE, seed: int = 0,
+                       get: Callable[[str], bytes] | None = None) -> Check:
+    """Sampled published streams: the master still answers and its first segment still starts where Gold says.
+
+    A stream that cannot be fetched is reported in ``notes`` and does not fail.
+    """
+    name = "sampled published streams still start at the sitting start"
+    get = get or senedd_tv.http_get
+    published, failures = _published_streams(conn, static)
+    live = [s for s, url in published if url]
+    notes: list[str] = []
+    for s in random.Random(seed).sample(live, min(sample_size, len(live))):
+        try:
+            master = get(s["url"])
+            vbegin = senedd_tv.first_segment_time(get(senedd_tv.first_variant_url(master, s["url"])))
+        except (SourceUnavailable, requests.RequestException, OSError) as e:
+            notes.append(f"{s['id']}: {s['feed']} source unavailable ({e}); stream not checked live")
+            continue
+        if vbegin is None or abs(vbegin - s["vbegin"]) > 0.001:
+            failures.append(f"{s['id']}: live {s['feed']} first segment at {vbegin}, Gold holds {s['vbegin']}")
+        elif not senedd_tv.is_aligned(vbegin, s["session_date"], s["meeting_start_time"]):
+            failures.append(f"{s['id']}: live {s['feed']} no longer aligned with the sitting start")
+    return Check(name, failures, notes)
+
+
 def check_divisions(conn: sqlite3.Connection, bronze: Path) -> Check:
     """Every division's member votes sum to its published tally, and its motion text is the Bronze Votes text."""
     failures: list[str] = []
@@ -276,8 +330,10 @@ def run_all(conn: sqlite3.Connection, bronze: Path = plenary_xml.PLENARY_BRONZE,
     ]
     if static is not None:
         checks.append(check_static_verbatim(conn, bronze, static, sample_size))
+        checks.append(check_stream_gate(conn, static))
         if live:
             checks.append(check_live_verbatim(conn, bronze, static, sample_size, fetch_xml=fetch_xml))
+            checks.append(check_live_streams(conn, static, sample_size))
     return checks
 
 

@@ -56,6 +56,16 @@ describe('SittingClock', () => {
 		expect(clock.floor.division?.division.id).toBe('dA');
 	});
 
+	it('counts seeks, not playback', () => {
+		const clock = new SittingClock(synthetic);
+		clock.play();
+		clock.tick(1);
+		expect(clock.seeks).toBe(0);
+		clock.stepContribution(1);
+		clock.seek(10);
+		expect(clock.seeks).toBe(2);
+	});
+
 	it('steps contributions by distinct beat start, through untimed beats', () => {
 		const clock = new SittingClock(synthetic, null, 93);
 		clock.stepContribution(1);

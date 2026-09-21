@@ -1109,6 +1109,20 @@
       "role_title_en": null
     }
   ],
+  "ministers": [
+    {
+      "cabinet_level": "first_minister",
+      "end_date": "2000-02-09",
+      "member_id": "ms-alun-michael",
+      "start_date": "1999-05-12"
+    },
+    {
+      "cabinet_level": "first_minister",
+      "end_date": "2009-12-10",
+      "member_id": "ms-rhodri-morgan",
+      "start_date": "2000-02-09"
+    }
+  ],
   "presiding_officers": [],
   "seat_count": 60,
   "start_date": "1999-05-06",

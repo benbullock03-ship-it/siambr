@@ -4,7 +4,7 @@ Usage: python -m pipeline.sync [--window-days 21] [--db PATH] [--out frontend/st
 
 Lists the XMLExport index for the window, fetches every listed plenary fresh (Bronze cache
 bypassed), replaces sessions whose checksum changed, relinks divisions for the changed dates,
-exports if anything changed, and records one sync_runs row. Idempotent: a run with no upstream
+looks up each listed sitting's Senedd TV stream, exports if anything changed, and records one sync_runs row. Idempotent: a run with no upstream
 change touches no file. Exit 0 whether or not anything changed; non-zero on an unhandled error.
 """
 
@@ -18,6 +18,7 @@ from dataclasses import dataclass, field
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
+from pipeline import senedd_tv
 from pipeline.adapters import plenary_votes, plenary_xml
 from pipeline.adapters.http import SourceUnavailable
 from pipeline.apply_migrations import apply_migrations
@@ -42,6 +43,7 @@ class SyncResult:
     unavailable: list[int] = field(default_factory=list)
     divisions: int = 0
     unresolved_divisions: list[str] = field(default_factory=list)
+    streams_changed: list[str] = field(default_factory=list)
     exported: bool = False
     error: str | None = None
 
@@ -61,6 +63,8 @@ class SyncResult:
             parts.append(f"{self.divisions} divisions relinked")
             if self.unresolved_divisions:
                 parts.append(f"{len(self.unresolved_divisions)} divisions unresolved")
+        if self.streams_changed:
+            parts.append(f"{len(self.streams_changed)} streams changed")
         parts.append("exported" if self.exported else "no export")
         return "sync: " + ", ".join(parts)
 
@@ -94,6 +98,10 @@ def sync(conn: sqlite3.Connection, *, window_days: int = WINDOW_DAYS, today: dat
             for reason in n.skipped:
                 log(f"  skipped item {reason}")
 
+    for session_date, meeting_id in listed:
+        if meeting_id not in result.unavailable and senedd_tv.refresh_stream(conn, meeting_id, log=log):
+            result.streams_changed.append(session_date)
+
     if result.changed_dates:
         divisions: list[plenary_votes.DivisionRecord] = []
         fetched: set[int] = set()
@@ -106,6 +114,7 @@ def sync(conn: sqlite3.Connection, *, window_days: int = WINDOW_DAYS, today: dat
         counts, unresolved, unmatched = upsert_divisions(conn, divisions, known_member_ids(conn), replace_meetings=fetched)
         result.divisions = counts["divisions"]
         result.unresolved_divisions = unresolved + [f"ballot for {name}" for name in unmatched]
+    if result.changed_dates or result.streams_changed:
         conn.execute("PRAGMA wal_checkpoint(TRUNCATE)")
         export_connection(conn, out)
         result.exported = True

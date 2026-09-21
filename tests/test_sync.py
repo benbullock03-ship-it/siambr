@@ -9,11 +9,12 @@ from datetime import date
 from pathlib import Path
 from unittest import mock
 
-from pipeline import sync as sync_mod
+from pipeline import senedd_tv, sync as sync_mod
 from pipeline.adapters import plenary_votes, plenary_xml
 from pipeline.adapters.http import SourceUnavailable
 from pipeline.db import create_connection
 from tests.test_plenary_ingestion import MODERN, insert_speakers
+from tests.test_senedd_tv import upstream
 
 TODAY = date(2026, 7, 20)
 REVISED = MODERN.replace(b'generated="2026-07-18T06:13:23"', b'generated="2026-07-21T06:00:00"')
@@ -31,12 +32,15 @@ class SyncTests(unittest.TestCase):
         self.out = root / "data"
         self.db = root / "siambr.db"
         self.upstream = {16086: MODERN}
+        self.tv = mock.Mock(side_effect=SourceUnavailable("senedd.tv down"))
         self.patches = [
             mock.patch.object(plenary_xml, "PLENARY_BRONZE", self.bronze),
             mock.patch.object(plenary_xml, "list_plenary_meetings", side_effect=self.list_meetings),
             mock.patch.object(plenary_xml, "fetch", side_effect=self.fetch),
             mock.patch.object(plenary_votes, "PLENARY_BRONZE", self.bronze),
             mock.patch.object(plenary_votes, "fetch", side_effect=lambda url, **k: b'<?xml version="1.0"?><dataroot generated="x" />'),
+            mock.patch.object(senedd_tv, "SENEDD_TV_BRONZE", root / "bronze_tv"),
+            mock.patch.object(senedd_tv, "http_get", self.tv),
         ]
         for p in self.patches:
             p.start()
@@ -118,6 +122,26 @@ class SyncTests(unittest.TestCase):
             finally:
                 conn.close()
         self.assertEqual(tuple(row), (0, "RuntimeError: index exploded"))
+
+    def test_a_failed_stream_lookup_leaves_null_and_does_not_fail(self):
+        result, runs = self.run_sync()
+        self.assertEqual(runs, [(1, None)])
+        self.assertEqual(result.streams_changed, [])
+        sitting = json.loads((self.out / "sittings" / "2026-07-15.json").read_text(encoding="utf-8"))
+        self.assertIsNone(sitting["stream_url"])
+
+    def test_a_new_stream_alone_is_exported(self):
+        self.run_sync()
+        self.tv.side_effect = upstream()
+        result, runs = self.run_sync()
+        self.assertEqual((result.changed_dates, result.streams_changed), ([], ["2026-07-15"]))
+        self.assertTrue(result.exported)
+        self.assertEqual(runs[-1], (0, None))
+        sitting = json.loads((self.out / "sittings" / "2026-07-15.json").read_text(encoding="utf-8"))
+        self.assertTrue(sitting["stream_url"].startswith("https://nafw.cdn.vustreams.com/"))
+        self.assertIn("1 streams changed", result.summary())
+        quiet, _ = self.run_sync()
+        self.assertFalse(quiet.exported)
 
     def test_export_carries_the_last_check_time(self):
         self.run_sync()

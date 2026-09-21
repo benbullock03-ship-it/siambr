@@ -26,7 +26,7 @@
      +----------------+---------+---------+------------------+
      v                v                   v                  v
  Plenary XML     Modern.Gov         senedd.wales /       Senedd TV
- (XMLExport:     (Members,          gov.wales            (link-out only,
+ (XMLExport:     (Members,          gov.wales            (link-out + HLS,
   transcripts +   divisions)        (profiles, titles)    startPos from XML)
   TV offsets)
      |                |                   |
@@ -64,7 +64,7 @@ Source of truth: `pipeline/migrations/*.sql` (applied by `python -m pipeline.app
 6. **`ministerial_roles`**:
    - `id`, `member_id`, `title_en`, `title_cy`, `cabinet_level` (`first_minister`/`deputy_first_minister`/`cabinet_secretary`/`cabinet_minister`/`minister`/`deputy_minister`/`counsel_general`), `start_date`, `end_date`, `provenance` (`senedd_profile`/`gov_wales`/`moderngov`/`curated_reference`), `source_url`, `start_date_precision` (`exact`/`term_floor`).
 7. **`plenary_sessions`**:
-   - `id`, `senedd_term`, `session_date`, `title_en`, `title_cy`, `presiding_officer_id`, `source_xml_url`, `xml_sha256`, `record_published_at` (transcript `dataroot@generated`), `meeting_start_time` (`HH:MM:SS`, anchors the sitting clock).
+   - `id`, `senedd_term`, `session_date`, `title_en`, `title_cy`, `presiding_officer_id`, `source_xml_url`, `xml_sha256`, `record_published_at` (transcript `dataroot@generated`), `meeting_start_time` (`HH:MM:SS`, anchors the sitting clock), `stream_url` (Senedd TV HLS master, as the player names it, on https), `stream_vbegin` (unix seconds of its first segment's `EXT-X-PROGRAM-DATE-TIME`; export ships `stream_url` only within 2 s of the sitting start), `stream_url_verbatim`/`stream_vbegin_verbatim` (the floor-audio feed the senedd.tv/cy player names, same gate).
 8. **`agenda_items`**:
    - `id`, `session_id`, `item_order`, `item_type` (`debate`/`oral_questions`/`statement`/`bill_stage`/`emergency_debate`), `title_en`, `title_cy`, `policy_domain_id`, `senedd_tv_clip_id`, `senedd_tv_clip_url`, `origin_type` (`government_business`/`committee_report`/`petition`/`member_motion`), `origin_ref_id`.
 9. **`debate_contributions`** (mirrored into FTS5 `debate_contributions_fts` by triggers):
@@ -92,6 +92,7 @@ All pipeline scripts run as package modules from the repository root:
 - **Reconcile Members**: `python -m pipeline.reconcile_members --source mgwebservice`
 - **Divisions**: `python -m pipeline.ingest_divisions_and_petitions`
 - **Sync (what the scheduler runs)**: `python -m pipeline.sync` — idempotent; re-fetches the last 21 days, exports if changed
+- **Senedd TV streams**: `python -m pipeline.senedd_tv` (or `--meeting-id N`); `sync` runs it for the sittings it re-fetches
 - **Export Static JSON**: `python -m pipeline.export`
 - **Run Verification & Audit**: `python -m pipeline.run_checks`
 

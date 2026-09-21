@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { page } from '$app/state';
 	import type { SiteIndex } from '$lib/data/types';
+	import Mark from './Mark.svelte';
 
 	let {
 		site,
@@ -26,6 +27,7 @@
 	<div class="header-inner">
 		<div class="brand-group">
 			<a href={latestSitting ? `/sitting/${latestSitting}` : '/'} class="brand-link" aria-label="Siambr: the latest sitting">
+				<Mark size={34} />
 				<div class="brand-text">
 					<span class="brand-title">Siambr</span>
 					<span class="brand-sub">Senedd Cymru</span>

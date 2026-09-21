@@ -38,6 +38,21 @@ class ExportTests(unittest.TestCase):
         member_files = list((self.out / "members").glob("ms-*.json"))
         self.assertEqual(len(member_files), self.conn.execute("SELECT count(*) FROM members").fetchone()[0])
 
+    def test_term_lists_ministerial_roles_within_the_term(self):
+        mid = self.conn.execute("SELECT id FROM members ORDER BY id").fetchone()[0]
+        self.conn.execute(
+            "INSERT INTO member_tenures (member_id, party_id, party_provenance, senedd_term, is_regional_member, start_date)"
+            " VALUES (?, 'plaid_cymru', 'profile_current', 7, 0, '2026-05-07')", (mid,))
+        for level, start, end in (("first_minister", "2026-05-12", None), ("deputy_minister", "2020-01-01", "2021-01-01")):
+            self.conn.execute(
+                "INSERT INTO ministerial_roles (member_id, title_en, title_cy, cabinet_level, start_date, end_date,"
+                " provenance, start_date_precision) VALUES (?, 't', 't', ?, ?, ?, 'gov_wales', 'exact')",
+                (mid, level, start, end))
+        export_connection(self.conn, self.out)
+        term = read(self.out / "terms" / "7.json")
+        self.assertEqual(term["ministers"], [
+            {"member_id": mid, "cabinet_level": "first_minister", "start_date": "2026-05-12", "end_date": None}])
+
     def test_export_is_deterministic(self):
         first = {p.relative_to(self.out): p.read_bytes() for p in self.out.rglob("*.json")}
         export_connection(self.conn, self.out)

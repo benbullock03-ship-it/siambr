@@ -40,6 +40,7 @@
 	"dependencies": {
 		"@threlte/core": "^8.6.0",
 		"@threlte/extras": "^9.21.1",
+		"hls.js": "^1.7.3",
 		"three": "^0.186.0",
 		"uqr": "^0.1.3"
 	}

@@ -3,7 +3,6 @@
 	import { onNavigate, replaceState } from '$app/navigation';
 	import { page } from '$app/state';
 	import { browser } from '$app/environment';
-	import favicon from '$lib/assets/favicon.svg';
 	import ExternalLink from '$lib/hud/ExternalLink.svelte';
 	import { kiosk } from '$lib/kiosk.svelte';
 	import GlobalHeader from '$lib/nav/GlobalHeader.svelte';
@@ -44,10 +43,6 @@
 	const published = $derived(data.site?.generated_at ?? null);
 	const utc = (iso: string) => iso.replace('T', ' ').replace('Z', '');
 </script>
-
-<svelte:head>
-	<link rel="icon" href={favicon} />
-</svelte:head>
 
 {#if !kiosk.active && !page.url.pathname.startsWith('/sitting')}
 	<GlobalHeader site={data.site} onopenguide={() => (showGuide = true)} />

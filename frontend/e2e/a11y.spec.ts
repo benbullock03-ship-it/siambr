@@ -76,6 +76,10 @@ test.describe('@a11y stage', () => {
 		await expect(page).toHaveURL(new RegExp(`/sitting/${DATE}$`));
 		await expect(page.locator('canvas')).toHaveCount(1, { timeout: 30_000 });
 		await expect(page.getByRole('button', { name: 'Play' })).toBeVisible();
+		// The fixture sitting has a stream, so the screen audio toggle and its credit are in the HUD (T-33).
+		await expect(page.getByRole('button', { name: 'Mute' })).toHaveAttribute('aria-pressed', 'false');
+		await expect(page.getByText('© Senedd Commission · Senedd TV')).toBeVisible();
+		await expect(page.getByRole('button', { name: 'As spoken' })).toHaveAttribute('aria-pressed', 'false');
 		expect(await violations(page)).toEqual([]);
 	});
 

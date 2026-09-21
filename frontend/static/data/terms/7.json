@@ -1636,6 +1636,92 @@
       "role_title_en": null
     }
   ],
+  "ministers": [
+    {
+      "cabinet_level": "deputy_minister",
+      "end_date": null,
+      "member_id": "ms-cefin-campbell",
+      "start_date": "2026-05-08"
+    },
+    {
+      "cabinet_level": "cabinet_minister",
+      "end_date": null,
+      "member_id": "ms-mabon-ap-gwynfor",
+      "start_date": "2026-05-08"
+    },
+    {
+      "cabinet_level": "deputy_minister",
+      "end_date": null,
+      "member_id": "ms-nerys-evans",
+      "start_date": "2026-05-08"
+    },
+    {
+      "cabinet_level": "cabinet_minister",
+      "end_date": null,
+      "member_id": "ms-sian-gwenllian",
+      "start_date": "2026-05-08"
+    },
+    {
+      "cabinet_level": "first_minister",
+      "end_date": null,
+      "member_id": "ms-rhun-ap-iorwerth",
+      "start_date": "2026-05-12"
+    },
+    {
+      "cabinet_level": "cabinet_minister",
+      "end_date": null,
+      "member_id": "ms-adam-price",
+      "start_date": "2026-05-13"
+    },
+    {
+      "cabinet_level": "cabinet_minister",
+      "end_date": null,
+      "member_id": "ms-anna-brychan",
+      "start_date": "2026-05-13"
+    },
+    {
+      "cabinet_level": "cabinet_minister",
+      "end_date": null,
+      "member_id": "ms-dafydd-trystan-davies",
+      "start_date": "2026-05-13"
+    },
+    {
+      "cabinet_level": "deputy_minister",
+      "end_date": null,
+      "member_id": "ms-delyth-jewell",
+      "start_date": "2026-05-13"
+    },
+    {
+      "cabinet_level": "cabinet_minister",
+      "end_date": null,
+      "member_id": "ms-elin-jones",
+      "start_date": "2026-05-13"
+    },
+    {
+      "cabinet_level": "cabinet_minister",
+      "end_date": null,
+      "member_id": "ms-heledd-fychan",
+      "start_date": "2026-05-13"
+    },
+    {
+      "cabinet_level": "cabinet_minister",
+      "end_date": null,
+      "member_id": "ms-llyr-gruffydd",
+      "start_date": "2026-05-13"
+    },
+    {
+      "cabinet_level": "deputy_minister",
+      "end_date": null,
+      "member_id": "ms-mark-hooper",
+      "start_date": "2026-05-13"
+    },
+    {
+      "cabinet_level": "deputy_first_minister",
+      "end_date": null,
+      "member_id": "ms-sioned-williams",
+      "start_date": "2026-05-13"
+    }
+  ],
   "presiding_officers": [
     {
       "end_date": null,

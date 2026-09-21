@@ -9,8 +9,16 @@ import { expect, test } from '@playwright/test';
 const PERF = !!process.env.PERF || process.env.npm_lifecycle_event === 'test:perf';
 test.skip(!PERF, 'run npm run test:perf for the 30 s frame trace');
 
+const REAL_STREAM_GUID = '895772f3-294c-4f28-bc78-74f224e2e3c6';
+
 test('gallery view, floor light active, no frame over 33 ms in 30 s on the software renderer', async ({ page }) => {
 	test.setTimeout(120_000);
+	// The fixture sitting's stream is served from the 2026-07-15 sitting, so the trace includes the
+	// wall-screen video; offline, the screens stay dark and the trace runs without it.
+	await page.route(/\/m\/fixture\//, (route) => {
+		const url = route.request().url().replace('/m/fixture/', `/m/${REAL_STREAM_GUID}/`);
+		return route.continue({ url: url.endsWith('/interpretation.m3u8') ? `${url}?t=2026-07-15T12:30:07` : url });
+	});
 	await page.goto('/siambr');
 	await expect(page.locator('canvas')).toHaveCount(1, { timeout: 30_000 });
 	await page.getByRole('button', { name: 'Play' }).click();

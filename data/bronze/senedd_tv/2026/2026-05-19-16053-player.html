@@ -1,0 +1,175 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Nafw Video Player</title>
+
+    <link rel="stylesheet" href="/Content/css/player.css">
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="/bundles/js/postmessage?v=rTDs2KHxaTT9jNpJ_6M5sm74lnqkVU0mcMAngsc9uLc1"></script>
+
+    <script type="text/javascript" src="https://cdn.vuplay.co.uk/vuplay-smart/1.16.4/vuplay-smart.js"></script>
+    <script type="text/javascript" src="https://cdn.vuplay.co.uk/nafw/wrapper/0.1.15/nafw-player.js"></script>
+    <script type="text/javascript" src="https://cdn.vuplay.co.uk/vualto-skin/theme/nafw/0.1.11/vualto-skin/vualto-skin.js"></script>
+    <script type="text/javascript" src="/Scripts/vuplay/iframe-messenger.js"></script>
+    <script src="//www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1"></script>
+
+</head>
+<body>
+    <div class="player-content">
+
+            
+
+<div id="vuplay-player-container" lang="en"></div>
+
+<script type="text/javascript">
+    var messenger;
+    var player;
+    var videoSkin;
+    var container;
+
+    var vuplayPlayerKey = "nafw|634cd5f4-6684-4a53-ab1b-a2a7f410580f";
+    var autoStart = true;
+    var meetingStart = "2026-05-19T13:30:07+01:00";
+    var langCode = "en";
+    var seekStart;
+
+    var config = {
+        playerKey: vuplayPlayerKey,
+        src: "http://nafw.cdn.vustreams.com/m/c2c95a3a-6182-42f8-a55e-574d86884048/interpretation/interpretation.isml/interpretation.m3u8?t=2026-05-19T12:30:07",
+        autoStart: autoStart,
+        title: "Plenary",
+        streamTypeOverride: "vod",
+        skipAmount: 10
+    };
+
+    var subtitleVTTPath = "";
+    if (subtitleVTTPath) {
+        config.externalTextTracks = [{
+            url: subtitleVTTPath,
+            lang: langCode
+        }];
+    }
+
+    var thumbnailsTrackUrl = "https://d15s0s5p6n38fq.cloudfront.net/content/vod/meeting_thumbs/b0133925-47f8-401c-8ed6-a8ef3991753e/meeting_thumbnails.vtt";
+    if (thumbnailsTrackUrl) {
+        config.thumbnailsTrackUrl = thumbnailsTrackUrl;
+    }
+
+    $(function () {
+        player = new NAfWPlayer(config);
+
+        videoSkin = document.createElement("vualto-skin");
+        videoSkin.classList.add("nafw");
+        container = document.getElementById("vuplay-player-container");
+
+        player.setup(container, videoSkin);
+
+        player.vuplaySmart.on(Vuplay.EventType.VUPLAY, Vuplay.Events.playerready, onPlayerReady);
+
+        function onPlayerReady() {
+            messenger = IFrameMessenger({
+                PlayerWrapper: player,
+                parentUrl: decodeURIComponent(document.location.hash.replace(/^#/, '')),
+                parent: window.parent,
+                startUTC: meetingStart
+            });
+
+            if (seekStart) { player.vuplaySmart.seek(seekStart); }
+
+            videoSkin.skinTitle = config.title;
+        }
+    });
+</script>
+
+    </div>
+<script type="text/javascript">
+    function run() { }
+
+    var currentState = "Archive";
+
+    var livePlayerUrl = "/Player/LivePlayer/c2c95a3a-6182-42f8-a55e-574d86884048?autostart=True&captionsOn=False";
+    var archivePlayerUrl = "/Player/ArchivePlayer/c2c95a3a-6182-42f8-a55e-574d86884048?autoStart=True&captionsOn=False";
+    var pausedPlayerUrl = "/Player/PausedPlayer/c2c95a3a-6182-42f8-a55e-574d86884048";
+
+    var parentUrl = decodeURIComponent(document.location.hash.replace(/^#/, ''));
+
+    var externalCaptions = true;
+    var dirtyFeed = false;
+
+    $(function () {
+        var stateChanger = $.connection.changeMeetingStateHub;
+        stateChanger.client.meetingStateChange = function (linkId, meetingState) { meetingStateChange(linkId, meetingState); };
+        stateChanger.client.changeCaption = function (linkId, lineOne, lineTwo, lineThree) { changeCaption(linkId, lineOne, lineTwo, lineThree); };
+        stateChanger.client.removeCaption = function (linkId) { removeCaption(linkId); };
+
+        $.connection.hub.start().done(run);
+    });
+
+    function changeCaption(linkId, lineOne, lineTwo, lineThree) {
+        if (linkId == "b0133925-47f8-401c-8ed6-a8ef3991753e" && currentState == "Live") {
+            $.postMessage("ChangeCaption_" + lineOne + "_" + lineTwo + "_" + lineThree, parentUrl, parent);
+        }
+    }
+
+    function removeCaption(linkId) {
+        if (linkId == "b0133925-47f8-401c-8ed6-a8ef3991753e" && currentState == "Live") {
+            $.postMessage("RemoveCaption", parentUrl, parent);
+        }
+    }
+
+    function meetingStateChange(linkId, meetingState) {
+        if (linkId == "b0133925-47f8-401c-8ed6-a8ef3991753e" && currentState != meetingState) {
+            changeMeetingState(meetingState);
+        }
+    }
+
+    function sendisWatchingDvr() {
+        $.postMessage("IsWatchingDvr_" + isWatchingDvr(), parentUrl, parent);
+    }
+
+    function changeMeetingState(newMeetingState) {
+
+        var url = "";
+        switch (newMeetingState) {
+        case "Live":
+            url = livePlayerUrl;
+            currentState = newMeetingState;
+            break;
+        case "Archive":
+            isWatchingDvr();
+            $.postMessage("GoToArchive", parentUrl, parent);
+            url = archivePlayerUrl;
+            currentState = newMeetingState;
+
+            break;
+        case "Paused":
+            isWatchingDvr();
+            url = pausedPlayerUrl;
+            currentState = newMeetingState;
+            break;
+        }
+
+        $.get(url, function (data) {
+            $('.player-content').html(data);
+            run();
+        });
+    }
+
+    function checkMeetingState() {
+        $.get("/Player/MeetingState?linkId=b0133925-47f8-401c-8ed6-a8ef3991753e", function (state) {
+            if (state != currentState) changeMeetingState(state);
+        });
+        return;
+    }
+</script>
+
+<script src="/Scripts/jquery.signalR-2.0.3.js"></script>
+<script src="/signalr/hubs"></script>
+</body>
+</html>
+
+

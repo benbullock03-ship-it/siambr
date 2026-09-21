@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import type { MemberLight, TermFile } from '$lib/data/types';
 import { buildDesks } from './layout';
-import { assignChamberSeats, assignSeats, SEATING_PROVENANCE } from './seating';
+import { assignChamberSeats, assignSeats, frontBench, SEATING_PROVENANCE } from './seating';
 
 const member = (id: string, party: string | null): MemberLight => ({
 	id,
@@ -84,7 +84,8 @@ describe('assignChamberSeats', () => {
 				source_url: ''
 			}
 		],
-		members: allMembers
+		members: allMembers,
+		ministers: []
 	};
 
 	it('seats Kerry Ferguson at the dais as Deputy Presiding Officer when she is presiding', () => {
@@ -128,3 +129,53 @@ describe('assignChamberSeats', () => {
 	});
 });
 
+
+describe('front bench', () => {
+	const desks = buildDesks(96);
+	const fm = member('fm', 'plaid_cymru');
+	const cab = member('cab', 'plaid_cymru');
+	const dep = member('dep', 'plaid_cymru');
+	const gone = member('gone', 'labour');
+	const others = Array.from({ length: 92 }, (_, i) => member(`m${i}`, i < 40 ? 'plaid_cymru' : 'reform_uk'));
+	const members = [dep, cab, gone, fm, ...others];
+	const term: TermFile = {
+		term: 7,
+		label_en: 'Seventh Senedd',
+		label_cy: 'Y Seithfed Senedd',
+		start_date: '2026-05-07',
+		end_date: null,
+		seat_count: 96,
+		presiding_officers: [],
+		members,
+		ministers: [
+			{ member_id: 'gone', cabinet_level: 'first_minister', start_date: '2024-08-06', end_date: '2026-05-12' },
+			{ member_id: 'fm', cabinet_level: 'first_minister', start_date: '2026-05-12', end_date: null },
+			{ member_id: 'cab', cabinet_level: 'cabinet_minister', start_date: '2026-05-13', end_date: null },
+			{ member_id: 'dep', cabinet_level: 'deputy_minister', start_date: '2026-05-13', end_date: null }
+		]
+	};
+	const facing = (d: { bearing: number }) => Math.abs(Math.atan2(Math.sin(d.bearing - Math.PI), Math.cos(d.bearing - Math.PI)));
+
+	it('lists the Ministers in office on the date, First Minister first', () => {
+		expect(frontBench(term, members, '2026-06-10').map((m) => m.id)).toEqual(['fm', 'cab', 'dep']);
+		expect(frontBench(term, members, '2026-05-10').map((m) => m.id)).toEqual(['gone']);
+	});
+
+	it('seats the First Minister at the centre of the inner row facing the Chair, Ministers beside', () => {
+		const seats = assignChamberSeats(members, desks, term, null, '2026-06-10');
+		expect(seats).toHaveLength(96);
+		expect(new Set(seats.map((s) => s.desk.id)).size).toBe(96);
+		const inner = Math.min(...desks.map((d) => d.row));
+		const at = (id: string) => seats.find((s) => s.member.id === id)!.desk;
+		for (const id of ['fm', 'cab', 'dep']) expect(at(id).row).toBe(inner);
+		const nearest = Math.min(...desks.filter((d) => d.row === inner).map(facing));
+		expect(facing(at('fm'))).toBe(nearest);
+		expect(facing(at('cab'))).toBeLessThanOrEqual(facing(at('dep')));
+		expect(at('gone').row === inner && facing(at('gone')) <= facing(at('dep'))).toBe(false);
+	});
+
+	it('keeps the party wedges when no date is given', () => {
+		const seats = assignChamberSeats(members, desks, term, null);
+		expect(seats.map((s) => s.member.id)).toEqual(assignSeats(members, desks).map((s) => s.member.id));
+	});
+});

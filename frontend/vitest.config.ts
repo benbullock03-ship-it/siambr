@@ -4,6 +4,7 @@ import { defineConfig } from 'vitest/config';
 
 export default defineConfig({
 	plugins: [sveltekit(), svelteTesting()],
+	define: { __SCREEN_VIDEO__: 'true' },
 	test: {
 		environment: 'jsdom',
 		include: ['src/**/*.test.ts']

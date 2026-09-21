@@ -78,8 +78,8 @@ export const TEXTURE_SIZES = {
 
 export const TEXTURE_BUDGET_BYTES = 12 * 1024 * 1024;
 
-/** Canvas surfaces DivisionDisplays draws the motion and the clock digits on; counted in the budget. */
-export const DISPLAY_SURFACES = { screen: [768, 432], clock: [480, 128] } as const;
+/** Surfaces on the wall screens and clocks, counted in the budget: two DivisionDisplays canvases and the 360p Senedd TV frame. */
+export const DISPLAY_SURFACES = { screen: [768, 432], clock: [480, 128], video: [640, 360] } as const;
 export const displaySurfaceBytes = () =>
 	Object.values(DISPLAY_SURFACES).reduce((n, [w, h]) => n + w * h * 4, 0);
 

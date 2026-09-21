@@ -19,6 +19,7 @@ from pathlib import Path
 
 from pipeline.adapters.plenary_votes import votes_url
 from pipeline.db import DEFAULT_DB_PATH, REPO_ROOT, create_connection
+from pipeline.senedd_tv import is_aligned
 
 DEFAULT_OUT = REPO_ROOT / "frontend" / "static" / "data"
 PROVENANCE_DERIVED = "PROVENANCE_DERIVED"
@@ -295,6 +296,10 @@ class Exporter:
             "record_published_at": s["record_published_at"],
             "meeting_start_time": s["meeting_start_time"],
             "clip_url": next((i["senedd_tv_clip_url"] for i in items if i["senedd_tv_clip_url"]), None),
+            # Senedd TV's own playlist, only when its first frame is the Record's startPos origin.
+            "stream_url": s["stream_url"] if is_aligned(s["stream_vbegin"], s["session_date"], s["meeting_start_time"]) else None,
+            "stream_url_verbatim": s["stream_url_verbatim"]
+            if is_aligned(s["stream_vbegin_verbatim"], s["session_date"], s["meeting_start_time"]) else None,
             "items": [{
                 "id": i["id"],
                 "order": i["item_order"],
@@ -470,6 +475,15 @@ class Exporter:
                 "source_url": o["source_url"],
             } for o in officers],
             "members": [self.member_light(mid) for mid in member_ids],
+            "ministers": sorted(({
+                "member_id": mid,
+                "cabinet_level": r["cabinet_level"],
+                "start_date": r["start_date"],
+                "end_date": r["end_date"],
+            } for mid in member_ids for r in self.roles[mid]
+                if (r["end_date"] is None or r["end_date"] >= t["start_date"])
+                and (t["end_date"] is None or r["start_date"] <= t["end_date"])),
+                key=lambda r: (r["start_date"], r["member_id"], r["cabinet_level"])),
         }
 
     # --- derived stats -------------------------------------------------------------------------
