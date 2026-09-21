@@ -17,6 +17,7 @@
 	const isChamber = $derived(currentPath.startsWith('/sitting') && !currentPath.endsWith('/stats'));
 	const isRegister = $derived(currentPath.startsWith('/register'));
 	const isMembers = $derived(currentPath.startsWith('/members'));
+	const isVotes = $derived(currentPath.startsWith('/divisions'));
 	const isSearch = $derived(currentPath.startsWith('/search'));
 	const isStats = $derived(currentPath.startsWith('/terms') || currentPath.includes('/stats'));
 </script>
@@ -56,6 +57,14 @@
 				aria-current={isMembers ? 'page' : undefined}
 			>
 				Members
+			</a>
+			<a
+				href="/divisions"
+				class="nav-link"
+				class:active={isVotes}
+				aria-current={isVotes ? 'page' : undefined}
+			>
+				Votes
 			</a>
 			<a
 				href="/search"

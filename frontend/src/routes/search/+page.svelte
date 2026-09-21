@@ -7,6 +7,7 @@
 	import { BADGE } from '$lib/data/provenance';
 	import type { SearchDocument } from '$lib/data/types';
 	import ExternalLink from '$lib/hud/ExternalLink.svelte';
+	import { itemTitle } from '$lib/stage/votes';
 
 	type Hit = SearchDocument & { terms: string[] };
 	type Engine = MiniSearch<SearchDocument>;
@@ -68,7 +69,7 @@
 
 	/** The matched passage with each matched term marked; verbatim text either side, never rewritten. */
 	function snippet(doc: SearchDocument, terms: string[]): { before: string; parts: { text: string; mark: boolean }[]; after: string } {
-		const source = doc.lang === 'cy' && terms.some((t) => doc.text_cy.toLowerCase().includes(t.toLowerCase())) ? doc.text_cy : doc.text;
+		const source = doc.type !== 'division' && doc.lang === 'cy' && terms.some((t) => doc.text_cy.toLowerCase().includes(t.toLowerCase())) ? doc.text_cy : doc.text;
 		const lower = source.toLowerCase();
 		let at = -1;
 		for (const t of terms) {
@@ -83,7 +84,10 @@
 		return { before: start > 0 ? '…' : '', parts, after: end < source.length ? '…' : '' };
 	}
 
-	const stageHref = (d: SearchDocument) => `/sitting/${d.date}${d.t === null ? `?item=${encodeURIComponent(d.item_id)}` : `?t=${d.t}`}`;
+	const stageHref = (d: SearchDocument) =>
+		d.type === 'division'
+			? `/sitting/${d.date}?division=${encodeURIComponent(d.division_id)}`
+			: `/sitting/${d.date}${d.t === null ? `?item=${encodeURIComponent(d.item_id)}` : `?t=${d.t}`}`;
 
 	// A ?q= arrival searches once the router is ready (replaceState needs it).
 	afterNavigate(() => {
@@ -98,7 +102,7 @@
 <main id="main">
 	<p class="kicker">Siambr · Search the Record</p>
 	<h1>Search contributions</h1>
-	<p class="lede">Every Plenary contribution on record, searched in your browser. Results quote the Record of Proceedings verbatim.</p>
+	<p class="lede">Every Plenary contribution and division on record, searched in your browser. Results quote the Record of Proceedings verbatim.</p>
 
 	<form class="search" onsubmit={(e) => (e.preventDefault(), run())} role="search">
 		<label for="q">Search words, a Member or an item title</label>
@@ -117,6 +121,23 @@
 				<ol class="results">
 					{#each hits as h (h.id)}
 						{@const s = snippet(h, h.terms)}
+						{#if h.type === 'division'}
+							<li class="vote">
+								<p class="small where">
+									<span class="kicker-vote">Vote</span>
+									<time datetime={h.date}>{h.date}</time> · <span>{itemTitle(h.item)}</span> · <span>{h.target}</span>
+									<span class="result" class:agreed={h.result === 'agreed'}>{h.result === 'agreed' ? 'Agreed' : 'Not agreed'}</span>
+								</p>
+								<blockquote lang="en">
+									<p>{s.before}{#each s.parts as part, i (i)}{#if part.mark}<mark>{part.text}</mark>{:else}{part.text}{/if}{/each}{s.after}</p>
+								</blockquote>
+								<p class="small links">
+									<a href={stageHref(h)}>Watch it in the chamber</a>
+									<a href="/register?item={encodeURIComponent(h.item_id)}">{h.has_debate ? 'Read the debate' : 'Read the division'}</a>
+									{#if recordByDate[h.date]}<ExternalLink href={recordByDate[h.date]!}>Read this in the Record</ExternalLink>{/if}
+								</p>
+							</li>
+						{:else}
 						<li>
 							<p class="small where">
 								<time datetime={h.date}>{h.date}</time> · <a href="/members/{encodeURIComponent(h.member_id)}">{h.member}</a> ·
@@ -132,6 +153,7 @@
 								{#if recordByDate[h.date]}<ExternalLink href={recordByDate[h.date]!}>Read this in the Record</ExternalLink>{/if}
 							</p>
 						</li>
+						{/if}
 					{/each}
 				</ol>
 			{:else}
@@ -221,6 +243,22 @@
 		margin: 0;
 		font-family: var(--font-serif);
 		line-height: 1.6;
+	}
+
+	.kicker-vote {
+		font-weight: 700;
+		letter-spacing: 0.06em;
+		text-transform: uppercase;
+		color: var(--color-accent-plum-dark);
+	}
+
+	.result {
+		font-weight: 600;
+		color: var(--color-body-text);
+	}
+
+	.result.agreed {
+		color: var(--color-ink);
 	}
 
 	mark {

@@ -130,6 +130,42 @@ class ExportTests(unittest.TestCase):
         export_connection(self.conn, self.out)
         self.assertEqual(first, {p.relative_to(self.out): p.read_bytes() for p in self.out.rglob("*.json")})
 
+    def test_divisions_index_points_at_the_debate_or_says_none(self):
+        items = self.conn.execute("SELECT id, item_order, title_en FROM agenda_items ORDER BY item_order").fetchall()
+        voting_time, debate = items[-1]["id"], items[0]
+        number = int(m.group(1)) if (m := re.match(r"^\s*(\d+)\.", debate["title_en"] or "")) else debate["item_order"] + 1
+        matched = f"Item {number}. Some debate. Amendment 2, tabled in the name of Darren Millar."
+        self.conn.execute(
+            """INSERT INTO division_votes (id, agenda_item_id, motion_text, votes_for, votes_against, votes_abstain, result)
+               VALUES ('division-16086-10', ?, ?, 30, 20, 1, 'agreed')""", (voting_time, matched))
+        self.conn.execute(
+            """INSERT INTO division_votes (id, agenda_item_id, motion_text, votes_for, votes_against, votes_abstain, result)
+               VALUES ('division-16086-9', ?, 'Item 999. No such debate. Motion as amended.', 0, 1, 0, 'negatived')""", (voting_time,))
+        export_connection(self.conn, self.out)
+        index = read(self.out / "divisions" / "index.json")
+        self.assertEqual([d["id"] for d in index], ["division-16086-9", "division-16086-10"])
+        found, orphan = index[1], index[0]
+        self.assertEqual(found["debate_item_id"], debate["id"])
+        self.assertEqual(found["debate_item_title_en"], debate["title_en"])
+        self.assertEqual(found["target"], "Amendment 2")
+        self.assertEqual(found["tabled_by"], "Darren Millar")
+        self.assertEqual((found["votes_for"], found["votes_against"], found["votes_abstain"], found["result"]), (30, 20, 1, "agreed"))
+        self.assertEqual(found["motion_text"], matched)
+        self.assertEqual((found["date"], found["term"], found["item_id"]), ("2026-07-15", 7, voting_time))
+        self.assertIsNone(orphan["debate_item_id"])
+        self.assertIsNone(orphan["debate_item_title_en"])
+        self.assertEqual(orphan["item_title_en"], items[-1]["title_en"])
+        self.assertEqual(orphan["target"], "Motion as amended")
+        self.assertIsNone(orphan["tabled_by"])
+        docs = {d["id"]: d for d in read(self.out / "search" / "index.json")["documents"] if d.get("type") == "division"}
+        self.assertEqual(docs["division-16086-10"]["text"], matched)
+        self.assertEqual(docs["division-16086-10"]["item_id"], debate["id"])
+        self.assertEqual(docs["division-16086-9"]["item_id"], voting_time)
+        self.assertEqual((docs["division-16086-10"]["has_debate"], docs["division-16086-9"]["has_debate"]), (True, False))
+        first = {p.relative_to(self.out): p.read_bytes() for p in self.out.rglob("*.json")}
+        export_connection(self.conn, self.out)
+        self.assertEqual(first, {p.relative_to(self.out): p.read_bytes() for p in self.out.rglob("*.json")})
+
     def test_sittings_index_is_newest_first_with_item_speakers(self):
         index = read(self.out / "sittings" / "index.json")
         self.assertEqual([s["date"] for s in index], sorted((s["date"] for s in index), reverse=True))

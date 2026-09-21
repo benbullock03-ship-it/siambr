@@ -27,6 +27,7 @@ const STATIC_ROUTES: [string, RegExp][] = [
 	['/members', /Members of the Senedd/],
 	[`/members/${MEMBER}`, /Jane Doe/],
 	['/search', /Search contributions/],
+	['/divisions', /Divisions/],
 	[`/sitting/${DATE}/stats`, /Speaking time on/],
 	[`/terms/${TERM}/stats`, /Speaking time in/]
 ];
@@ -40,6 +41,14 @@ test.describe('@a11y register routes', () => {
 			expect(await violations(page)).toEqual([]);
 		});
 	}
+
+	test('/divisions passes axe at 390 px as cards', async ({ page }) => {
+		await page.setViewportSize({ width: 390, height: 844 });
+		await page.goto('/divisions');
+		await expect(page.getByRole('heading', { level: 1, name: 'Divisions' })).toBeVisible();
+		await settled(page);
+		expect(await violations(page)).toEqual([]);
+	});
 
 	test('the dossier drawer open on /register passes axe', async ({ page }) => {
 		await page.goto('/register?item=item-1');

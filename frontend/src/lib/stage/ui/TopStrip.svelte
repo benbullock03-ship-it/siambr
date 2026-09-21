@@ -55,6 +55,7 @@
 	const menu = $derived.by(() => {
 		const all = [
 			{ id: 'members', label: 'Members', href: '/members' },
+			{ id: 'votes', label: 'Votes', href: '/divisions' },
 			{ id: 'search', label: 'Search', href: '/search' },
 			{ id: 'register', label: 'Register', href: liveItem ? `/register?item=${encodeURIComponent(liveItem)}` : '/register' },
 			{ id: 'stats', label: 'Stats', href: `/sitting/${date}/stats` },

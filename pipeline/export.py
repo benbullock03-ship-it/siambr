@@ -98,6 +98,25 @@ def _motion_topic(motion_text: str) -> str:
     return topic.rstrip(".")
 
 
+def read_motion(motion_text: str) -> dict:
+    """What a division decided and who tabled it, read from its motion text as the frontend's
+    readMotion reads it (frontend/src/lib/stage/votes.ts); votes.export.test.ts holds them equal."""
+    head = _MOTION_HEAD.match(motion_text.strip())
+    rest = (head.group(2) if head else motion_text.strip()).strip()
+    sentences = [s.strip() for s in re.split(r"\.\s+(?=[A-Z])", rest) if s.strip()]
+    has_question = len(sentences) > 1 and re.search(r"amendment|motion", sentences[-1], re.IGNORECASE) is not None
+    question = re.sub(r"\.$", "", sentences[-1]) if has_question else ""
+    amendment = re.search(r"amendment\s+(\d+)", question.lower())
+    if amendment:
+        target = f"Amendment {int(amendment.group(1))}"
+    elif re.search(r"as\s+amended", question.lower()):
+        target = "Motion as amended"
+    else:
+        target = "Motion"
+    tabled = re.search(r"tabled\s+in\s+the\s+name\s+of\s+(.+)\Z", question, re.IGNORECASE)
+    return {"target": target, "tabled_by": re.sub(r"\.$", "", tabled.group(1).strip()) if tabled else None}
+
+
 def debate_item_of(motion_text: str, items: list[dict]) -> dict | None:
     """The agenda item a division decided, by the item number printed in its motion text (the same
     match as the frontend's debateItemOf); a topic substring match when no number is printed."""
@@ -610,9 +629,42 @@ class Exporter:
             },
         }
 
+    # --- divisions -----------------------------------------------------------------------------
+
+    def divisions_index(self) -> list[dict]:
+        """Every division across sittings, newest first: a pointer table over the publisher's rows."""
+        out = []
+        for d in rows(
+            self.conn,
+            """SELECT d.*, s.id AS session_id, s.session_date, s.senedd_term, a.item_order, a.title_en AS item_title_en
+               FROM division_votes d
+               JOIN agenda_items a ON a.id = d.agenda_item_id
+               JOIN plenary_sessions s ON s.id = a.session_id""",
+        ):
+            debate = debate_item_of(d["motion_text"], self.session_items(d["session_id"]))
+            tail = d["id"].rsplit("-", 1)[-1]
+            out.append((d["session_date"], d["item_order"], int(tail) if tail.isdigit() else 0, d["id"], {
+                "id": d["id"],
+                "date": d["session_date"],
+                "term": d["senedd_term"],
+                "item_id": d["agenda_item_id"],
+                "item_title_en": d["item_title_en"],
+                "debate_item_id": debate["id"] if debate else None,
+                "debate_item_title_en": debate["title_en"] if debate else None,
+                **read_motion(d["motion_text"]),
+                "votes_for": d["votes_for"],
+                "votes_against": d["votes_against"],
+                "votes_abstain": d["votes_abstain"],
+                "result": d["result"],
+                "motion_text": d["motion_text"],
+            }))
+        out.sort(key=lambda r: (r[1], r[2], r[3]))
+        out.sort(key=lambda r: r[0], reverse=True)
+        return [r[-1] for r in out]
+
     # --- search --------------------------------------------------------------------------------
 
-    def search_index(self) -> dict:
+    def search_index(self, divisions: list[dict]) -> dict:
         """Documents for the client-side search (MiniSearch builds its index in the browser).
 
         The English text is the search field for every contribution; a Welsh original is indexed
@@ -642,10 +694,26 @@ class Exporter:
                 "text": sp["verbatim_text_english"],
                 "text_cy": sp["verbatim_text_original"] if sp["spoken_language"] == "cy" else "",
             })
+        for d in divisions:
+            docs.append({
+                "id": d["id"],
+                "type": "division",
+                "division_id": d["id"],
+                "date": d["date"],
+                "item_id": d["debate_item_id"] or d["item_id"],
+                "item": d["debate_item_title_en"] or d["item_title_en"],
+                "has_debate": d["debate_item_id"] is not None,
+                "target": d["target"],
+                "result": d["result"],
+                "text": d["motion_text"],
+            })
         return {
             "engine": "minisearch",
             "fields": ["text", "text_cy", "member", "item", "date"],
-            "store_fields": ["date", "item_id", "item", "member_id", "member", "lang", "t", "text", "text_cy"],
+            "store_fields": [
+                "type", "division_id", "target", "result", "has_debate",
+                "date", "item_id", "item", "member_id", "member", "lang", "t", "text", "text_cy",
+            ],
             "documents": docs,
         }
 
@@ -678,7 +746,9 @@ class Exporter:
             self.write(f"stats/sittings/{s['session_date']}.json", self.stats_sitting(s))
         for t in self.terms:
             self.write(f"stats/terms/{t['term']}.json", self.stats_term(t))
-        self.write("search/index.json", self.search_index())
+        divisions = self.divisions_index()
+        self.write("divisions/index.json", divisions)
+        self.write("search/index.json", self.search_index(divisions))
         published = [s["record_published_at"] for s in self.sessions if s["record_published_at"]]
         last_run = self.conn.execute(
             "SELECT finished_at FROM sync_runs WHERE finished_at IS NOT NULL ORDER BY id DESC LIMIT 1"

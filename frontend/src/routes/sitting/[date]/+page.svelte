@@ -108,10 +108,15 @@
 	let recordError = $state<string | null>(null);
 	const paused = $derived(record !== null || recordError !== null);
 
-	/** ?t= seeks and pauses with the camera on the speaker; ?speech= seeks to that contribution; ?item= seeks to the item's first timed contribution. */
+	/**
+	 * ?t= seeks and pauses with the camera on the speaker; ?speech= seeks to that contribution;
+	 * ?division= seeks to that division's beat; ?item= seeks to the item's first timed contribution.
+	 */
 	function applyDeepLink() {
 		const speech = params.get('speech');
-		const t = params.get('t');
+		const division = params.get('division');
+		const beat = division ? clock.timeline.beatIndexByDivisionId.get(division) : undefined;
+		const t = beat !== undefined ? String(clock.timeline.beats[beat].t) : params.get('t');
 		const item = params.get('item');
 		if (speech) {
 			const c = sitting.contributions.find((contrib) => contrib.id === speech);
@@ -193,6 +198,7 @@
 		const url = new URL(page.url);
 		url.searchParams.set('t', String(t));
 		url.searchParams.delete('item');
+		url.searchParams.delete('division');
 		replaceState(url, page.state);
 	});
 

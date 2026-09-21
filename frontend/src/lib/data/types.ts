@@ -237,8 +237,9 @@ export interface TermFile extends TermSummary {
 }
 
 /** search/index.json: documents the browser indexes with MiniSearch. Text is verbatim. */
-export interface SearchDocument {
+export interface ContributionDocument {
 	id: string;
+	type?: undefined;
 	date: string;
 	item_id: string;
 	item: string;
@@ -248,6 +249,44 @@ export interface SearchDocument {
 	t: number | null;
 	text: string;
 	text_cy: string;
+}
+
+/** A division in the search index: `item` is the debate title, `text` the motion text, verbatim. */
+export interface DivisionDocument {
+	id: string;
+	type: 'division';
+	division_id: string;
+	date: string;
+	/** The debate the motion text names, else the item the Record files the division under. */
+	item_id: string;
+	item: string;
+	has_debate: boolean;
+	target: string;
+	result: DivisionOutcome;
+	text: string;
+}
+
+export type SearchDocument = ContributionDocument | DivisionDocument;
+
+/** divisions/index.json rows, newest first. Counts and motion text are the publisher's; the rest are pointers. */
+export interface DivisionRow {
+	id: string;
+	date: string;
+	term: number;
+	/** The item the Record files the division under, usually Voting Time. */
+	item_id: string;
+	item_title_en: string;
+	/** The debate the motion text names; null when none matches. Derived. */
+	debate_item_id: string | null;
+	debate_item_title_en: string | null;
+	/** "Motion", "Amendment N" or "Motion as amended", read from the motion text as readMotion reads it. */
+	target: string;
+	tabled_by: string | null;
+	votes_for: number;
+	votes_against: number;
+	votes_abstain: number;
+	result: DivisionOutcome;
+	motion_text: string;
 }
 
 export interface SearchIndexFile {

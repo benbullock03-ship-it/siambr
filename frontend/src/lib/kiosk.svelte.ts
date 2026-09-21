@@ -22,11 +22,11 @@ function setupLocalStorageProxy() {
 	} catch {}
 }
 
-export type KioskLink = 'search' | 'stats';
+export type KioskLink = 'votes' | 'search' | 'stats';
 
 export class KioskManager {
 	active = $state(false);
-	/** Stage menu links a kiosk opts into with ?kiosk_links=search,stats; Members and Register always show. */
+	/** Stage menu links a kiosk opts into with ?kiosk_links=votes,search,stats; Members and Register always show. */
 	links = $state<KioskLink[]>([]);
 
 	constructor() {
@@ -49,7 +49,7 @@ export class KioskManager {
 			}
 			this.links = (storage.getItem('siambr.kiosk.links') ?? '')
 				.split(',')
-				.filter((l): l is KioskLink => l === 'search' || l === 'stats');
+				.filter((l): l is KioskLink => l === 'votes' || l === 'search' || l === 'stats');
 
 			if (param === '1') {
 				storage.setItem('siambr.kiosk', '1');

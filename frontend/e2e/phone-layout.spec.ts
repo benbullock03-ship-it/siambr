@@ -88,7 +88,7 @@ test('header nav fits at 390 px on /members, with a full-height Guide button', a
 	await page.goto('/members');
 	await page.waitForLoadState('networkidle');
 	const links = page.locator('.nav-link');
-	await expect(links).toHaveCount(5);
+	await expect(links).toHaveCount(6);
 	for (const box of await links.evaluateAll((els) => els.map((el) => el.getBoundingClientRect().toJSON() as DOMRect))) {
 		expect(box.left).toBeGreaterThanOrEqual(0);
 		expect(box.right).toBeLessThanOrEqual(390);

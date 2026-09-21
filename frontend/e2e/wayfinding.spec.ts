@@ -17,11 +17,11 @@ async function inViewport(page: Page, selector: string) {
 test.describe('stage site menu', () => {
 	test.slow();
 
-	test('desktop 1440: Members, Search and the Guide are linked and on screen', async ({ page }) => {
+	test('desktop 1440: Members, Votes, Search and the Guide are linked and on screen', async ({ page }) => {
 		await page.setViewportSize({ width: 1440, height: 900 });
 		await stage(page);
 		const site = page.getByRole('navigation', { name: 'Site' });
-		for (const [name, href] of [['Members', '/members'], ['Search', '/search'], ['Guide', `/sitting/${DATE}?guide=1`]]) {
+		for (const [name, href] of [['Members', '/members'], ['Votes', '/divisions'], ['Search', '/search'], ['Guide', `/sitting/${DATE}?guide=1`]]) {
 			await expect(site.getByRole('link', { name, exact: true })).toHaveAttribute('href', href);
 			expect(await inViewport(page, `nav[aria-label="Site"] a[href="${href}"]`)).toBe(true);
 		}
@@ -33,7 +33,7 @@ test.describe('stage site menu', () => {
 		const menu = page.getByRole('button', { name: 'Menu' });
 		expect((await menu.boundingBox())!.height).toBeGreaterThanOrEqual(44);
 		await menu.click();
-		for (const href of ['/members', '/search', `/sitting/${DATE}?guide=1`]) {
+		for (const href of ['/members', '/divisions', '/search', `/sitting/${DATE}?guide=1`]) {
 			const link = page.locator(`#stage-menu a[href="${href}"]`);
 			await expect(link).toBeVisible();
 			expect(await inViewport(page, `#stage-menu a[href="${href}"]`)).toBe(true);
