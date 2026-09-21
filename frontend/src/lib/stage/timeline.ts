@@ -7,14 +7,16 @@
  *  - contributions with a missing or negative startPos are untimed and play as fixed 4 s beats
  *    taken from the tail of the Record-preceding timed beat, so nothing is skipped;
  *  - two timed contributions sharing a startPos split the span to the next start equally;
- *  - a division is a 20 s beat at the end of its item, taken from the item's last timed beat;
- *    a run of divisions sharing one short gap splits it rather than overrun the next startPos.
+ *  - a division is a 20 s beat after the contribution that calls it (votes.ts), else at the end
+ *    of its item, taken from that timed beat; a run of divisions sharing one short gap splits
+ *    it rather than overrun the next startPos.
  * Inserted beats never take more than half the gap to the next timed start, so the timed
  * contribution always holds the floor for at least half of its own span. After the last timed
  * contribution there is no next start: its beat is 4 s and any inserts follow at full length.
  */
 import { PROVENANCE_DERIVED } from '$lib/data/types';
 import type { Contribution, Division, ProvenanceDerived, Sitting } from '$lib/data/types';
+import { matchDivisionCalls } from './votes';
 
 export const FIXED_BEAT_SECONDS = 4;
 export const DIVISION_BEAT_SECONDS = 20;
@@ -39,6 +41,8 @@ export interface DivisionBeat extends BeatBase {
 	division: Division;
 	/** The record gives the item, not the second. */
 	placement: ProvenanceDerived;
+	/** The contribution that calls this vote, when one names it. Derived. */
+	calledBy: string | null;
 }
 
 export type Beat = ContributionBeat | DivisionBeat;
@@ -71,7 +75,7 @@ export interface Timeline {
 
 type Insert =
 	| { kind: 'contribution'; contribution: Contribution; seconds: number }
-	| { kind: 'division'; division: Division; seconds: number };
+	| { kind: 'division'; division: Division; seconds: number; calledBy: string | null };
 
 interface Anchor {
 	contribution: Contribution;
@@ -94,18 +98,27 @@ export function buildTimeline(sitting: Sitting): Timeline {
 		divisionsByItem.set(d.item_id, [...(divisionsByItem.get(d.item_id) ?? []), d]);
 	}
 
+	const calls = matchDivisionCalls(sitting);
 	const lead: Insert[] = [];
 	const anchors: Anchor[] = [];
+	const anchorByContributionId = new Map<string, Anchor>();
 	let recordIndex = 0;
 	const push = (insert: Insert) => (anchors.at(-1)?.inserts ?? lead).push(insert);
 	for (const item of items) {
 		for (const c of contributions) {
 			if (c.item_id !== item.id) continue;
-			if (isTimed(c)) anchors.push({ contribution: c, recordIndex: recordIndex++, inserts: [] });
-			else push({ kind: 'contribution', contribution: c, seconds: FIXED_BEAT_SECONDS });
+			if (isTimed(c)) {
+				const anchor = { contribution: c, recordIndex: recordIndex++, inserts: [] };
+				anchors.push(anchor);
+				anchorByContributionId.set(c.id, anchor);
+			} else push({ kind: 'contribution', contribution: c, seconds: FIXED_BEAT_SECONDS });
 		}
 		for (const division of divisionsByItem.get(item.id) ?? []) {
-			push({ kind: 'division', division, seconds: DIVISION_BEAT_SECONDS });
+			const calledBy = calls.get(division.id) ?? null;
+			const caller = calledBy ? anchorByContributionId.get(calledBy) : undefined;
+			const insert: Insert = { kind: 'division', division, seconds: DIVISION_BEAT_SECONDS, calledBy };
+			if (caller) caller.inserts.push(insert);
+			else push(insert);
 		}
 	}
 	anchors.sort((a, b) => a.contribution.t_start! - b.contribution.t_start! || a.recordIndex - b.recordIndex);
@@ -122,7 +135,7 @@ export function buildTimeline(sitting: Sitting): Timeline {
 			if (insert.kind === 'contribution') {
 				add({ kind: 'contribution', itemId: insert.contribution.item_id, t, tEnd, contribution: insert.contribution, timed: false });
 			} else {
-				add({ kind: 'division', itemId: insert.division.item_id, t, tEnd, division: insert.division, placement: PROVENANCE_DERIVED });
+				add({ kind: 'division', itemId: insert.division.item_id, t, tEnd, division: insert.division, placement: PROVENANCE_DERIVED, calledBy: insert.calledBy });
 			}
 			t = tEnd;
 		});

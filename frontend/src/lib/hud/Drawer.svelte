@@ -5,8 +5,16 @@
 		titleId,
 		onclose,
 		closeLabel = 'Close',
+		anchor = 'viewport',
 		children
-	}: { titleId: string; onclose: () => void; closeLabel?: string; children: Snippet } = $props();
+	}: {
+		titleId: string;
+		onclose: () => void;
+		closeLabel?: string;
+		/** 'viewport' covers the screen; 'chamber' sits inside the nearest positioned ancestor, right-aligned. */
+		anchor?: 'viewport' | 'chamber';
+		children: Snippet;
+	} = $props();
 
 	let drawer: HTMLElement;
 	let closeButton: HTMLButtonElement;
@@ -46,9 +54,9 @@
 
 <svelte:window {onkeydown} />
 
-<div class="scrim" aria-hidden="true" onclick={onclose}></div>
+<div class="scrim" class:chamber={anchor === 'chamber'} aria-hidden="true" onclick={onclose}></div>
 
-<div bind:this={drawer} class="drawer" role="dialog" aria-modal="true" aria-labelledby={titleId}>
+<div bind:this={drawer} class="drawer" class:chamber={anchor === 'chamber'} role="dialog" aria-modal="true" aria-labelledby={titleId}>
 	<button bind:this={closeButton} type="button" class="close" onclick={onclose}>{closeLabel}</button>
 	{@render children()}
 </div>
@@ -71,6 +79,22 @@
 		border-left: 1px solid var(--color-border);
 		z-index: 11;
 		animation: slide-in 220ms ease-out;
+	}
+
+	/* Anchored to the chamber viewport: the drawer covers the 3D view only, never the transcript column. */
+	.scrim.chamber,
+	.drawer.chamber {
+		position: absolute;
+	}
+
+	.drawer.chamber {
+		z-index: 30;
+	}
+
+	@media (prefers-reduced-motion: reduce) {
+		.drawer {
+			animation: none;
+		}
 	}
 
 	@keyframes slide-in {

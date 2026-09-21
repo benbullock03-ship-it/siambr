@@ -254,7 +254,7 @@
 
 <main id="main" class="stage" class:phone>
 	<TopStrip {clock} {rig} {hud} date={sitting.date} sittings={data.sittings} onspeaker={speaker} compact={phone} />
-	<ScrubBar {clock} meetingStartTime={sitting.meeting_start_time} />
+	<ScrubBar {clock} {sitting} />
 
 	<div class="chamber">
 		{#if fallback}
@@ -277,6 +277,7 @@
 		<SiambrHud
 			{hud}
 			{renderer}
+			division={clock.floor.divisionTint !== null}
 			onjoystick={(v) => {
 				player.joystick.x = v.x;
 				player.joystick.y = v.y;
@@ -293,21 +294,26 @@
 				{#snippet order()}<RunningOrder {clock} {sitting} />{/snippet}
 			</StageSheet>
 		{/if}
+
+		<!--
+			Stacking inside .chamber (its own stacking context): canvas 0, sheet 4, HUD 10 to 20,
+			Member record drawer 30. The transcript column (25) is a sibling and never overlaps the
+			drawer on desktop; on phones the drawer is viewport-fixed and the column is not rendered.
+		-->
+		{#if record}
+			<MemberPlate {record} onclose={closeRecord} anchor={phone ? 'viewport' : 'chamber'} />
+		{:else if recordError}
+			<div class="plate error" role="alert">
+				<p>{recordError}</p>
+				<button type="button" class="button-primary" onclick={closeRecord}>Back to the chamber</button>
+			</div>
+		{/if}
 	</div>
 
 	{#if !phone}
 		<div class="column">
 			<Transcript {clock} {sitting} />
 			<RunningOrder {clock} {sitting} />
-		</div>
-	{/if}
-
-	{#if record}
-		<MemberPlate {record} onclose={closeRecord} />
-	{:else if recordError}
-		<div class="plate error" role="alert">
-			<p>{recordError}</p>
-			<button type="button" class="button-primary" onclick={closeRecord}>Back to the chamber</button>
 		</div>
 	{/if}
 </main>

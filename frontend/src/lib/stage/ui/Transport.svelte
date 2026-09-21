@@ -32,6 +32,6 @@
 	}
 
 	.play {
-		min-width: 5rem;
+		min-width: 4.25rem;
 	}
 </style>

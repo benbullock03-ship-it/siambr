@@ -3405,6 +3405,28 @@
       "role_title_en": null
     }
   },
+  "tabled_texts": [
+    {
+      "amendment_number": null,
+      "id": "tabled-765617",
+      "item_id": "item-16078-260630-3",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 0,
+      "text_english": "The Deputy Presiding Officer (Kerry Ferguson) took the Chair.",
+      "text_original": "Daeth y Dirprwy Lywydd (Kerry Ferguson) i’r Gadair."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-765680",
+      "item_id": "item-16078-260630-6",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 0,
+      "text_english": "The meeting ended at 17:52.",
+      "text_original": "Daeth y cyfarfod i ben am 17:52."
+    }
+  ],
   "term": 7,
   "title_cy": "Cyfarfod Llawn",
   "title_en": "Plenary",

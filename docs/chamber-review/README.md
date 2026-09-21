@@ -96,3 +96,11 @@ Remaining differences, left deliberately (the Gallery view reads as the room at 
   node materials render the same on both backends.
 - Textures: `frontend/src/lib/3d/materials.test.ts` builds the full set and asserts no side over 1024 px
   and under 12 MB including the display canvases. Licences in `ASSETS.md`.
+
+## Pass 4: vote legibility (T-25)
+
+`pass4/before-*.png` and `pass4/after-*.png`, taken mid-division (`T=13320` on 2026-09-16, the first
+division beat). Before: party tabs warmed towards cream once a Member had spoken, and For/Against
+were blue and orange, the blue colliding with the Conservative tab. After: tabs are party colour
+always; For is teal `#1a7d7d`, Against amber `#f5b445`, worktops take the tone fully. Compare
+`speaker` (tabs against the tint, over the shoulder) and `gallery` (tint legibility at distance).

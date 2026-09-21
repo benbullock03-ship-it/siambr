@@ -59,7 +59,10 @@ test('a Member page is the register of record with chamber links, and passes axe
 	await reveal.check();
 	expect((await quote.boundingBox())!.height).toBeGreaterThanOrEqual(clampedHeight);
 	await expect(reveal).toBeChecked();
-	await expect(page.getByRole('cell', { name: 'For' })).toBeVisible();
+	await expect(page.getByRole('heading', { name: 'Roll-call divisions, by sitting day' })).toBeVisible();
+	await expect(page.getByText('Counted by Siambr', { exact: false })).toBeVisible();
+	await expect(page.locator('.rows .chip', { hasText: 'For' }).first()).toBeVisible();
+	await expect(page.getByRole('link', { name: 'Watch it in the chamber' }).first()).toHaveAttribute('href', /\/sitting\/\d{4}-\d{2}-\d{2}\?item=/);
 	await expect(page.getByRole('link', { name: 'Official Senedd profile' }).first()).toHaveAttribute('href', 'https://senedd.wales/people/jane-doe/');
 	expect(await violations(page)).toEqual([]);
 });

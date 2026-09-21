@@ -53,6 +53,7 @@ export function sitting(overrides: Partial<Sitting>): Sitting {
 		clip_url: null,
 		items: [],
 		contributions: [],
+		tabled_texts: [],
 		divisions: [],
 		speakers: {},
 		provenance: {},

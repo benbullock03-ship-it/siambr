@@ -71,6 +71,8 @@
 			{division}
 			speakers={dossier.speakers}
 			items={dossier.sitting.items}
+			divisions={dossier.divisions}
+			tabledTexts={dossier.tabled_texts}
 			date={dossier.sitting.date}
 		/>
 	{/each}

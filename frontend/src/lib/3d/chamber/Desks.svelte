@@ -1,7 +1,7 @@
 <script lang="ts">
 	import { T, useTask } from '@threlte/core';
 	import { Instance, InstancedMesh } from '@threlte/extras';
-	import { AdditiveBlending, CatmullRomCurve3, Color, DoubleSide, TubeGeometry, Vector3, type InstancedMesh as ThreeInstancedMesh, type Mesh } from 'three';
+	import { AdditiveBlending, BoxGeometry, CatmullRomCurve3, Color, DoubleSide, InstancedMesh as ThreeInstancedMesh, MeshBasicMaterial, Object3D, TubeGeometry, Vector3, type Mesh } from 'three';
 	import type { FloorState } from '$lib/stage/floor';
 	import { chamberTextures, CHAMBER_TONES, ESTATE, partyHex } from '../materials';
 	import { mergeGeometries } from 'three/addons/utils/BufferGeometryUtils.js';
@@ -19,6 +19,7 @@
 		presiding = new Set<string>(),
 		reducedMotion = false,
 		hitMesh = $bindable<ThreeInstancedMesh | undefined>(),
+		pickMesh = $bindable<ThreeInstancedMesh | undefined>(),
 		llywyddHit = $bindable<Mesh | undefined>()
 	}: {
 		desks: Desk[];
@@ -29,8 +30,29 @@
 		presiding?: ReadonlySet<string>;
 		reducedMotion?: boolean;
 		hitMesh?: ThreeInstancedMesh;
+		/** Hidden pick volume, one fat box per desk in `desks` order, so a hover never drops into a gap between worktops. */
+		pickMesh?: ThreeInstancedMesh;
 		llywyddHit?: Mesh;
 	} = $props();
+
+	const pickVolume = $derived.by(() => {
+		const mesh = new ThreeInstancedMesh(new BoxGeometry(width, 0.6, depth + 0.2), new MeshBasicMaterial(), desks.length);
+		const o = new Object3D();
+		desks.forEach((d, i) => {
+			const [x, y, z] = deskPoint(d, 0, 0, height + 0.25);
+			o.position.set(x, y, z);
+			o.rotation.set(0, d.yaw, 0);
+			o.updateMatrix();
+			mesh.setMatrixAt(i, o.matrix);
+		});
+		mesh.instanceMatrix.needsUpdate = true;
+		mesh.visible = false;
+		mesh.name = 'pick';
+		return mesh;
+	});
+	$effect(() => {
+		pickMesh = pickVolume;
+	});
 
 	const { width, depth, height } = CHAMBER.desk;
 	const tex = chamberTextures();
@@ -65,14 +87,12 @@
 	const monitorTilt = -0.2;
 
 	// Floor light: the live desk's worktop warms, its screen lights, a pool glows on the carpet
-	// behind its chair; spoken Members keep a warmed party tab. All per-instance colour, eased.
+	// behind its chair. The party tab is party colour, always (T-25). Per-instance colour, eased.
 	let screenMesh = $state<ThreeInstancedMesh>();
-	let tabMesh = $state<ThreeInstancedMesh>();
 	let pool = $state<Mesh>();
 	let halo = $state<Mesh>();
 	let beam = $state<Mesh>();
 	const lit = new Map<string, Eased>();
-	const spoken = new Map<string, Eased>();
 	const eased = (map: Map<string, Eased>, id: string) => {
 		let e = map.get(id);
 		if (!e) map.set(id, (e = new Eased()));
@@ -88,10 +108,6 @@
 	useTask((dt) => {
 		const ms = reducedMotion ? 0 : FLOOR_LIGHT_MS;
 		for (const d of places) eased(lit, d.id).set(d.id === liveId ? 1 : 0);
-		for (const d of desks) {
-			const seat = seatByDesk.get(d.id);
-			eased(spoken, d.id).set(seat && floor.spokenMemberIds.has(seat.member.id) ? 1 : 0);
-		}
 		if (hitMesh) {
 			const tint = floor.divisionTint;
 			places.forEach((d, i) => {
@@ -105,18 +121,11 @@
 			});
 			if (hitMesh.instanceColor) hitMesh.instanceColor.needsUpdate = true;
 		}
-		if (screenMesh && tabMesh) {
+		if (screenMesh) {
 			desks.forEach((d, i) => {
-				const l = eased(lit, d.id);
-				const s = eased(spoken, d.id);
-				s.step(dt, ms);
-				screenMesh!.setColorAt(i, mixInto(colour, FLOOR_LIGHT.screen, FLOOR_LIGHT.screenLit, l.value));
-				const seat = seatByDesk.get(d.id);
-				const base = seat ? partyHex(seat.member.party_id) : ESTATE.border;
-				tabMesh!.setColorAt(i, mixInto(colour, base, FLOOR_LIGHT.tabWarm, s.value * FLOOR_LIGHT.tabWarmMix));
+				screenMesh!.setColorAt(i, mixInto(colour, FLOOR_LIGHT.screen, FLOOR_LIGHT.screenLit, eased(lit, d.id).value));
 			});
 			if (screenMesh.instanceColor) screenMesh.instanceColor.needsUpdate = true;
-			if (tabMesh.instanceColor) tabMesh.instanceColor.needsUpdate = true;
 		}
 		if (pool) {
 			if (liveDesk && liveDesk.id !== poolDeskId) {
@@ -153,8 +162,10 @@
 	</T.Mesh>
 {/each}
 
-<!-- Charcoal worktop inset, one instance per seated place in `seats` order: it doubles as
-     the raycast target, so instanceId → the Walker's desks[i]. -->
+<!-- Pick volume: the whole desk unit from lip to monitor top, never drawn. instanceId → desks[i]. -->
+<T is={pickVolume} />
+
+<!-- Charcoal worktop inset, one instance per seated place in `seats` order. -->
 <InstancedMesh bind:ref={hitMesh} limit={places.length} range={places.length} name="desks" update={false}>
 	<T.BoxGeometry args={[width - 0.22, 0.014, depth - 0.3]} />
 	<T.MeshStandardMaterial color="#ffffff" roughness={0.6} />
@@ -185,8 +196,8 @@
 		<Instance position={behind(d, -0.268, height + 0.15)} rotation.order="YXZ" rotation.y={d.yaw} rotation.x={monitorTilt} />
 	{/each}
 </InstancedMesh>
-<!-- Party tab on the front lip, read from behind the Member's shoulder. -->
-<InstancedMesh bind:ref={tabMesh} limit={desks.length} range={desks.length} name="tabs" update={false}>
+<!-- Party tab on the front lip, read from behind the Member's shoulder; party colour, never warmed. -->
+<InstancedMesh limit={desks.length} range={desks.length} name="tabs" update={false}>
 	<T.BoxGeometry args={[0.34, 0.02, 0.07]} />
 	<T.MeshStandardMaterial roughness={0.3} />
 	{#each desks as d (d.id)}

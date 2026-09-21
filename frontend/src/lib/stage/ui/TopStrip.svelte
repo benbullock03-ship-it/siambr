@@ -40,12 +40,14 @@
 		return out;
 	});
 
-	const vantages: { id: Exclude<VantageId, 'speaker'>; label: string }[] = [
-		{ id: 'gallery', label: 'Gallery' },
-		{ id: 'llywydd', label: 'Y Llywydd' },
-		{ id: 'floor', label: 'Floor' }
+	/** Fixed viewpoints. The hint is what the button does, in one line, shown on hover and focus. */
+	const vantages: { id: Exclude<VantageId, 'speaker'>; label: string; hint: string }[] = [
+		{ id: 'gallery', label: 'Gallery', hint: 'Wide view from the public gallery' },
+		{ id: 'llywydd', label: 'Chair', hint: 'From Y Llywydd’s chair, facing the floor' },
+		{ id: 'floor', label: 'Floor', hint: 'Eye level among the desks' }
 	];
 	const walkAllowed = $derived(!hud.reducedMotion && !hud.kiosk);
+	const speedHint: Record<number, string> = { 1: 'Real time', 4: 'Four times real time', 16: 'Sixteen times real time' };
 
 	function pick(id: Exclude<VantageId, 'speaker'>) {
 		hud.walk = false;
@@ -53,18 +55,14 @@
 	}
 </script>
 
+{#snippet hint(text: string)}
+	<span class="hint" aria-hidden="true">{text}</span>
+{/snippet}
+
 <div class="strip" role="toolbar" aria-label="Chamber stage controls">
-	<!-- Group 1: Navigation & Sitting Selection -->
 	<div class="group group-nav">
-		<a href="/?home=1" class="brand-link" title="Siambr landing page">
-			<span class="brand-title">Siambr</span>
-		</a>
-		<a href="/?home=1" class="nav-home-btn" aria-label="Return to landing page">
-			<span class="nav-arrow" aria-hidden="true">←</span>
-			<span>Home</span>
-		</a>
-		<div class="divider" aria-hidden="true"></div>
-		<label class="picker">
+		<a href="/?home=1" class="brand hinted" aria-label="Siambr home">Siambr{@render hint('Back to the landing page')}</a>
+		<label class="field">
 			<span class="kicker">Sitting</span>
 			<select value={date} onchange={(e) => goto(`/sitting/${e.currentTarget.value}`)} aria-label="Sitting date">
 				{#each groups as g (g.month)}
@@ -78,50 +76,59 @@
 		</label>
 	</div>
 
-	<!-- Group 2: Clock & Playback Transport -->
 	<div class="group group-playback">
-		<p class="clock" aria-label="Wall clock">
-			<span class="kicker">Clock</span>
-			<time data-numeric>{clock.wallClock ?? '—:—:—'}</time>
-		</p>
-		{#if !compact && (!hud.kiosk || !hud.drifting)}
-			<Transport {clock} />
-			<div class="speed" role="group" aria-label="Speed">
-				{#each SPEEDS as s (s)}
-					<button type="button" class="chip" aria-pressed={clock.speed === s} onclick={() => clock.setSpeed(s)}>{s}x</button>
-				{/each}
-			</div>
-		{/if}
-	</div>
-
-	<!-- Group 3: Camera Vantages & Floor Navigation -->
-	<div class="group group-camera">
-		<div class="camera" role="group" aria-label="Camera">
-			{#each vantages as v (v.id)}
-				<button type="button" class="chip" aria-pressed={!hud.walk && rig.vantage === v.id} onclick={() => pick(v.id)}>{v.label}</button>
-			{/each}
-			<button type="button" class="chip" aria-pressed={!hud.walk && rig.vantage === 'speaker'} onclick={onspeaker}>Speaker</button>
-			<button type="button" class="chip" role="switch" aria-checked={rig.follow} onclick={() => (rig.follow = !rig.follow)}>Follow</button>
-			{#if walkAllowed}
-				<button type="button" class="chip" role="switch" aria-checked={hud.walk} onclick={() => (hud.walk = !hud.walk)}>Walk the floor</button>
+		<span class="kicker">Playback</span>
+		<div class="row">
+			{#if !compact && (!hud.kiosk || !hud.drifting)}
+				<Transport {clock} />
+			{/if}
+			<p class="clock" aria-label="Wall clock">
+				<time data-numeric>{clock.wallClock ?? '—:—:—'}</time>
+			</p>
+			{#if !compact && (!hud.kiosk || !hud.drifting)}
+				<div class="segmented" role="group" aria-label="Speed">
+					{#each SPEEDS as s (s)}
+						<button type="button" class="seg hinted" aria-pressed={clock.speed === s} onclick={() => clock.setSpeed(s)}>{s}x{@render hint(speedHint[s])}</button>
+					{/each}
+				</div>
 			{/if}
 		</div>
 	</div>
 
-	<!-- Group 4: Civic Records & Statistics -->
+	<div class="group group-camera">
+		<span class="kicker">Camera</span>
+		<div class="row">
+			<div class="segmented" role="group" aria-label="Camera">
+				{#each vantages as v (v.id)}
+					<button type="button" class="seg hinted" aria-pressed={!hud.walk && rig.vantage === v.id} onclick={() => pick(v.id)}>{v.label}{@render hint(v.hint)}</button>
+				{/each}
+				<button type="button" class="seg hinted" aria-pressed={!hud.walk && rig.vantage === 'speaker'} onclick={onspeaker}>Speaker{@render hint("Frame whoever holds the floor now")}</button>
+			</div>
+			<button type="button" class="switch hinted" role="switch" aria-checked={rig.follow} onclick={() => (rig.follow = !rig.follow)}>
+				<span class="dot" aria-hidden="true"></span>Follow speaker
+			{@render hint("Camera moves to each new speaker as they rise")}</button>
+			{#if walkAllowed}
+				<button type="button" class="switch hinted" role="switch" aria-checked={hud.walk} onclick={() => (hud.walk = !hud.walk)}>
+					<span class="dot" aria-hidden="true"></span>Walk the floor
+				{@render hint(hud.touch ? 'Walk with the joystick; tap a desk to open its Member' : 'Walk with W A S D; Esc to leave')}</button>
+			{/if}
+		</div>
+	</div>
+
 	<div class="group group-links">
-		<a class="chip chip-stats" href="/sitting/{date}/stats">Session stats</a>
-		<a class="nav-register-link" href="/register">Register</a>
+		<a class="link" href="/sitting/{date}/stats">Session stats</a>
+		<a class="link register" href="/register">Register</a>
 	</div>
 </div>
 
 <style>
 	.strip {
+		position: relative;
 		display: flex;
 		flex-wrap: wrap;
-		align-items: center;
-		gap: 0.6rem 1rem;
-		padding: 0.45rem 0.85rem;
+		align-items: flex-end;
+		gap: 0.5rem 1rem;
+		padding: 0.4rem 0.85rem 0.5rem;
 		background: var(--color-ground);
 		border-bottom: 1px solid var(--color-border);
 		font-family: var(--font-sans);
@@ -131,165 +138,208 @@
 
 	.group {
 		display: flex;
-		flex-wrap: wrap;
-		align-items: center;
-		gap: 0.5rem 0.75rem;
+		flex-direction: column;
+		gap: 0.2rem;
 	}
 
 	.group-nav {
-		flex-shrink: 0;
+		flex-direction: row;
+		align-items: flex-end;
+		gap: 0.6rem;
+		padding-right: 1rem;
+		border-right: 1px solid var(--color-border);
 	}
 
-	.brand-link {
-		display: inline-flex;
+	.row {
+		display: flex;
+		flex-wrap: wrap;
 		align-items: center;
-		text-decoration: none;
-		padding: 0.15rem 0.35rem;
-		border-radius: 4px;
-	}
-
-	.brand-link:hover .brand-title {
-		color: var(--color-accent-plum);
-	}
-
-	.brand-title {
-		font-family: var(--font-serif);
-		font-weight: 700;
-		font-size: 1.25rem;
-		color: var(--color-ink);
-		letter-spacing: -0.01em;
-		line-height: 1;
-	}
-
-	.nav-home-btn {
-		display: inline-flex;
-		align-items: center;
-		gap: 0.3rem;
-		min-height: var(--tap-min);
-		padding: 0 0.65rem;
-		font-size: var(--text-small);
-		font-weight: 600;
-		color: var(--color-body-text);
-		background: var(--color-panel);
-		border: 1px solid var(--color-border);
-		border-radius: 4px;
-		text-decoration: none;
-		transition: background 0.12s ease, color 0.12s ease, border-color 0.12s ease;
-	}
-
-	.nav-home-btn:hover {
-		background: #dad5c7;
-		color: var(--color-ink);
-		border-color: #8c8979;
-	}
-
-	.nav-arrow {
-		font-size: 1rem;
-		line-height: 1;
-	}
-
-	.divider {
-		width: 1px;
-		height: 1.8rem;
-		background: var(--color-border);
-		margin: 0 0.2rem;
+		gap: 0.5rem;
 	}
 
 	.kicker {
-		display: block;
 		margin: 0;
-		font-size: var(--text-kicker);
-		color: var(--color-body-text);
+		font-size: 0.65rem;
+		font-weight: 700;
+		letter-spacing: 0.14em;
 		text-transform: uppercase;
-		letter-spacing: 0.05em;
+		color: var(--color-muted);
 	}
 
-	.picker select {
-		min-height: var(--tap-min);
+	.brand {
+		font: 700 1.25rem var(--font-serif);
+		color: var(--color-ink);
+		letter-spacing: -0.01em;
+		line-height: 1;
+		text-decoration: none;
+		padding-bottom: 0.55rem;
+		position: relative;
+	}
+
+	.brand:hover {
+		color: var(--color-accent-plum);
+	}
+
+
+	.field {
+		display: flex;
+		flex-direction: column;
+		gap: 0.2rem;
+	}
+
+	.field select {
+		min-height: 2.1rem;
 		padding: 0 0.5rem;
 		border: 1px solid var(--color-border);
 		background: var(--color-ground);
 		color: var(--color-ink);
 		font: 600 var(--text-small) var(--font-mono);
-		border-radius: 4px;
 	}
 
-	.picker select:focus {
+	.field select:focus {
 		outline: 2px solid var(--color-focus);
 		outline-offset: 1px;
 	}
 
 	.clock {
-		margin: 0;
+		margin: 0 0.25rem;
 	}
 
 	.clock time {
-		font: 600 1.1rem var(--font-mono);
+		font: 600 1.15rem var(--font-mono);
+		font-variant-numeric: tabular-nums;
 		color: var(--color-ink);
 	}
 
-	.speed,
-	.camera {
-		display: flex;
-		flex-wrap: wrap;
-		align-items: center;
-		gap: 0.3rem;
+	/* One outline round a set of exclusive choices; the pressed one is inked. */
+	.segmented {
+		display: inline-flex;
+		border: 1px solid var(--color-border);
 	}
 
-	.chip {
-		min-height: var(--tap-min);
+	.seg {
+		min-height: 2.1rem;
 		padding: 0 0.7rem;
-		border: 1px solid var(--color-border);
+		border: 0;
+		border-right: 1px solid var(--color-border);
 		background: var(--color-ground);
 		color: var(--color-ink);
 		font: 600 var(--text-small) var(--font-sans);
 		cursor: pointer;
-		border-radius: 4px;
-		display: inline-flex;
-		align-items: center;
-		justify-content: center;
-		text-decoration: none;
-		transition: background 0.12s ease, border-color 0.12s ease;
 	}
 
-	.chip:hover {
-		border-color: #8c8979;
-		background: #eceae3;
+	.seg:last-child {
+		border-right: 0;
 	}
 
-	.chip[aria-pressed='true'],
-	.chip[aria-checked='true'] {
-		background: var(--color-ink);
-		color: var(--color-ground);
-		border-color: var(--color-ink);
-	}
-
-	.chip-stats {
-		font-weight: 600;
-		color: var(--color-ink);
+	.seg:hover {
 		background: var(--color-panel);
 	}
 
-	.group-links {
-		margin-left: auto;
-		display: flex;
-		align-items: center;
-		gap: 0.75rem;
+	.seg[aria-pressed='true'] {
+		background: var(--color-ink);
+		color: var(--color-ground);
 	}
 
-	.nav-register-link {
-		min-height: var(--tap-min);
+	/* A switch reads as on or off by its dot, not by inverting the whole button. */
+	.switch {
 		display: inline-flex;
 		align-items: center;
+		gap: 0.45rem;
+		min-height: 2.1rem;
+		padding: 0 0.7rem 0 0.55rem;
+		border: 1px solid var(--color-border);
+		background: var(--color-ground);
+		color: var(--color-body-text);
 		font: 600 var(--text-small) var(--font-sans);
-		color: var(--color-accent-plum);
-		text-decoration: none;
-		padding: 0 0.35rem;
+		cursor: pointer;
 	}
 
-	.nav-register-link:hover {
+	.switch:hover {
+		background: var(--color-panel);
+	}
+
+	.dot {
+		width: 0.6rem;
+		height: 0.6rem;
+		border-radius: 50%;
+		border: 1px solid #8c8979;
+		background: transparent;
+	}
+
+	.switch[aria-checked='true'] {
+		color: var(--color-ink);
+		border-color: var(--color-timber-cedar);
+	}
+
+	.switch[aria-checked='true'] .dot {
+		background: var(--color-timber-cedar);
+		border-color: var(--color-timber-cedar);
+	}
+
+	.hinted {
+		position: relative;
+	}
+
+	.hint {
+		position: absolute;
+		left: 50%;
+		top: calc(100% + 0.45rem);
+		transform: translateX(-50%);
+		padding: 0.25rem 0.55rem;
+		background: var(--color-ink);
+		color: var(--color-ground);
+		font: 500 var(--text-kicker) var(--font-sans);
+		letter-spacing: 0;
+		text-transform: none;
+		white-space: nowrap;
+		opacity: 0;
+		pointer-events: none;
+		transition: opacity 0.12s ease;
+		z-index: 30;
+	}
+
+	.hinted:hover .hint,
+	.hinted:focus-visible .hint {
+		opacity: 1;
+	}
+
+	.group-links {
+		flex-direction: row;
+		align-items: center;
+		gap: 1rem;
+		margin-left: auto;
+		padding-bottom: 0.35rem;
+	}
+
+	.link {
+		font: 600 var(--text-small) var(--font-sans);
+		color: var(--color-ink);
+		text-decoration: none;
+		border-bottom: 2px solid var(--color-border);
+	}
+
+	.link:hover {
+		border-bottom-color: var(--color-ink);
+	}
+
+	.link.register {
 		color: var(--color-accent-plum-dark);
-		text-decoration: underline;
+		border-bottom-color: transparent;
+	}
+
+	.link.register:hover {
+		border-bottom-color: var(--color-accent-plum-dark);
+	}
+
+	/* Wide: the record links sit on the kicker line, top right, clear of the controls. */
+	@media (min-width: 1200px) {
+		.group-links {
+			position: absolute;
+			top: 0.3rem;
+			right: 0.85rem;
+			padding-bottom: 0;
+		}
 	}
 
 	@media (max-width: 900px) {
@@ -300,25 +350,53 @@
 
 	@media (max-width: 720px) {
 		.strip {
-			gap: 0.4rem 0.5rem;
+			gap: 0.4rem 0.75rem;
 			padding: 0.35rem 0.5rem;
 		}
 
-		.divider {
+		.group,
+		.group-nav {
+			flex-direction: row;
+			align-items: center;
+			padding-right: 0;
+			border-right: 0;
+		}
+
+		.kicker {
 			display: none;
 		}
 
-		.group-nav {
-			width: 100%;
-			justify-content: space-between;
+		.brand {
+			padding-bottom: 0;
 		}
 
-		.camera {
-			width: 100%;
-			gap: 0.25rem;
+		.field select {
+			min-height: 1.9rem;
 		}
 
-		.chip {
+		.clock {
+			margin: 0;
+		}
+
+		.clock time {
+			font-size: 1rem;
+		}
+
+		.seg,
+		.switch {
+			min-height: 1.9rem;
+		}
+
+		.group-links {
+			padding-bottom: 0;
+		}
+
+		.hint {
+			display: none;
+		}
+
+		.seg,
+		.switch {
 			padding: 0 0.5rem;
 		}
 	}

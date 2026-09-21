@@ -1,4 +1,4 @@
-import type { Contribution, Division, MemberLight, Sitting, SittingItem } from './types';
+import type { Contribution, Division, MemberLight, Sitting, SittingItem, TabledText } from './types';
 
 /** One agenda item with everything the Dossier Plate shows, cut from a sitting file. */
 export interface Dossier {
@@ -8,6 +8,7 @@ export interface Dossier {
 	item: SittingItem;
 	contributions: Contribution[];
 	divisions: Division[];
+	tabled_texts: TabledText[];
 	speakers: Record<string, MemberLight>;
 }
 
@@ -28,6 +29,7 @@ export function dossierFor(sitting: Sitting, itemId: string): Dossier | null {
 		item,
 		contributions: sitting.contributions.filter((c) => c.item_id === itemId),
 		divisions: sitting.divisions.filter((d) => d.item_id === itemId),
+		tabled_texts: sitting.tabled_texts.filter((t) => t.item_id === itemId),
 		speakers: sitting.speakers
 	};
 }

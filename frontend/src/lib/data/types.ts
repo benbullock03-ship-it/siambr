@@ -111,6 +111,18 @@ export interface Contribution {
 	tv_url: string | null;
 }
 
+/** A motion, amendment or procedural note as the Record prints it at the head of a debate. Verbatim. */
+export interface TabledText {
+	id: string;
+	item_id: string;
+	seq: number;
+	kind: 'motion' | 'amendment' | 'note';
+	amendment_number: number | null;
+	lang: Lang;
+	text_original: string;
+	text_english: string;
+}
+
 export interface Division {
 	id: string;
 	item_id: string;
@@ -142,6 +154,7 @@ export interface Sitting {
 	clip_url: string | null;
 	items: SittingItem[];
 	contributions: Contribution[];
+	tabled_texts: TabledText[];
 	divisions: Division[];
 	speakers: Record<string, MemberLight>;
 	provenance: Record<string, ProvenanceDerived>;
@@ -191,6 +204,9 @@ export interface MemberBallot {
 	motion_text: string;
 	result: DivisionOutcome;
 	vote_cast: VoteCast;
+	/** The debate item the division decided, matched by the item number printed in motion_text; null when none matches. Derived. */
+	debate_item_id: string | null;
+	debate_item_title_en: string | null;
 }
 
 /** members/{id}.json */

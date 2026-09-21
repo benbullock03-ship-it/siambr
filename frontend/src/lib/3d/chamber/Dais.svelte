@@ -41,12 +41,13 @@
 	<T.BoxGeometry args={[1.5, 1.14, 1.08]} />
 	<T.MeshStandardMaterial map={board} roughness={0.55} />
 </T.Mesh>
-<!-- Mace slot: a dark recess in the desk front with the mace lying inside. -->
-<T.Mesh position={[dx - 0.53 * Math.sin(b), height + 0.7, dz + 0.53 * Math.cos(b)]} rotation.y={yaw}>
-	<T.BoxGeometry args={[1.1, 0.26, 0.06]} />
+<!-- Mace slot: a dark recess in the desk front with the mace lying inside. Its face sits 2 cm
+     proud of the bay front (0.56 m out) so the two planes never coincide. -->
+<T.Mesh position={[dx - 0.555 * Math.sin(b), height + 0.7, dz + 0.555 * Math.cos(b)]} rotation.y={yaw}>
+	<T.BoxGeometry args={[1.1, 0.26, 0.05]} />
 	<T.MeshStandardMaterial color="#141618" roughness={0.6} />
 </T.Mesh>
-<T.Mesh position={[dx - 0.52 * Math.sin(b), height + 0.66, dz + 0.52 * Math.cos(b)]} rotation.y={yaw} rotation.z={Math.PI / 2}>
+<T.Mesh position={[dx - 0.585 * Math.sin(b), height + 0.66, dz + 0.585 * Math.cos(b)]} rotation.y={yaw} rotation.z={Math.PI / 2}>
 	<T.CylinderGeometry args={[0.02, 0.03, 0.95, 10]} />
 	<T.MeshStandardMaterial color="#d8b25a" roughness={0.3} metalness={0.9} />
 </T.Mesh>

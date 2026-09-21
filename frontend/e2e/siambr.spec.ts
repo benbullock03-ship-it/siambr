@@ -44,7 +44,8 @@ test('a Member record opens from the chamber as an accessible dossier', async ({
 	// A cold Vite compiles three.js on the first hit, so the record can take a while to arrive.
 	await expect(dialog).toBeVisible({ timeout: 20_000 });
 	await expect(dialog.getByText('NHS dentistry waiting lists in Wales remain unacceptably long.')).toBeVisible();
-	await expect(dialog.getByRole('cell', { name: 'For' })).toBeVisible();
+	await expect(dialog.getByText('Counted by Siambr', { exact: false })).toBeVisible();
+	await expect(dialog.locator('.rows .chip', { hasText: 'For' })).toBeVisible();
 	await expect(dialog.getByRole('link', { name: 'Official Senedd profile' })).toHaveAttribute('href', 'https://senedd.wales/people/jane-doe/');
 	expect(await violations(page)).toEqual([]);
 	await page.keyboard.press('Escape');
@@ -68,6 +69,8 @@ test('a kiosk hides the walk toggle', async ({ page }) => {
 });
 
 test('the guided camera frames a desk on the first click and opens the Member on the second', async ({ page }) => {
+	// The click loop against the software renderer eats most of the default budget.
+	test.slow();
 	await page.goto(`/sitting/${DATE}`);
 	const canvas = page.locator('canvas');
 	await expect(canvas).toHaveCount(1, { timeout: 20_000 });
@@ -84,10 +87,19 @@ test('the guided camera frames a desk on the first click and opens the Member on
 	const name = await page.locator('.nametag .name').textContent();
 	await page.waitForTimeout(800);
 	await page.mouse.click(box.x + box.width * 0.5, box.y + box.height * 0.62);
-	await expect(page.getByRole('dialog', { name: new RegExp(name!.trim()) })).toBeVisible({ timeout: 10_000 });
+	const dialog = page.getByRole('dialog', { name: new RegExp(name!.trim()) });
+	await expect(dialog).toBeVisible({ timeout: 10_000 });
+	// T-25: the record opens over the chamber, beside the transcript column, never under it.
+	const column = page.locator('.column');
+	await expect(column).toBeVisible();
+	const [drawer, col] = await Promise.all([dialog.boundingBox(), column.boundingBox()]);
+	expect(drawer!.x + drawer!.width).toBeLessThanOrEqual(col!.x + 1);
+	expect(drawer!.width).toBeGreaterThan(200);
+	expect(await page.locator('.column').evaluate((el) => document.elementFromPoint(el.getBoundingClientRect().x + 20, el.getBoundingClientRect().y + 200)?.closest('.column') !== null)).toBe(true);
 });
 
 test('transport, keyboard and deep links drive the clock', async ({ page }) => {
+	test.slow();
 	await page.goto(`/sitting/${DATE}`);
 	await expect(page.locator('canvas')).toHaveCount(1, { timeout: 20_000 });
 	const transcript = page.getByRole('region', { name: 'Transcript' });

@@ -11,6 +11,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import math
 import sqlite3
 from collections import Counter, defaultdict
@@ -77,6 +78,43 @@ def role_on(roles: list[dict], date: str) -> dict | None:
     return max(live, key=lambda r: r["start_date"]) if live else None
 
 
+_ITEM_NUMBER = re.compile(r"^\s*(\d+)\.")
+_MOTION_HEAD = re.compile(r"^Item\s+(\d+)\.\s*(.*)$", re.IGNORECASE | re.DOTALL)
+
+
+def item_number(item: dict) -> int:
+    """The agenda number printed at the head of an item title ("5. Reform UK Debate"), else order + 1."""
+    m = _ITEM_NUMBER.match(item["title_en"] or "")
+    return int(m.group(1)) if m else item["item_order"] + 1
+
+
+def _motion_topic(motion_text: str) -> str:
+    head = _MOTION_HEAD.match(motion_text.strip())
+    rest = (head.group(2) if head else motion_text).strip()
+    sentences = [s.strip() for s in re.split(r"\.\s+(?=[A-Z])", rest) if s.strip()]
+    has_question = len(sentences) > 1 and re.search(r"amendment|motion", sentences[-1], re.IGNORECASE) is not None
+    topic = ". ".join(sentences[:-1]) if has_question else rest
+    return topic.rstrip(".")
+
+
+def debate_item_of(motion_text: str, items: list[dict]) -> dict | None:
+    """The agenda item a division decided, by the item number printed in its motion text (the same
+    match as the frontend's debateItemOf); a topic substring match when no number is printed."""
+    head = _MOTION_HEAD.match(motion_text.strip())
+    if head:
+        n = int(head.group(1))
+        for i in items:
+            if item_number(i) == n:
+                return i
+    key = re.sub(r"[^a-z0-9]", "", _motion_topic(motion_text).lower())
+    if len(key) < 8:
+        return None
+    for i in items:
+        if key in re.sub(r"[^a-z0-9]", "", (i["title_en"] or "").lower()):
+            return i
+    return None
+
+
 def meeting_id_of(session_id: str) -> int | None:
     """'plenary-16086' -> 16086; fixture or legacy IDs without a numeric suffix give None."""
     tail = session_id.rsplit("-", 1)[-1]
@@ -99,9 +137,16 @@ class Exporter:
         self.current_term = max((t for t in self.terms if t["end_date"] is None), key=lambda t: t["term"], default=self.terms[-1])
         self.domains = rows(conn, "SELECT id, name_en, name_cy FROM policy_domains ORDER BY id")
         self.sessions = rows(conn, "SELECT * FROM plenary_sessions ORDER BY session_date, id")
+        self._items: dict[str, list[dict]] = {}
         dates = [s["session_date"] for s in self.sessions]
         if len(dates) != len(set(dates)):
             raise ValueError("two plenary sessions share a date; the static contract keys sittings by date")
+
+    def session_items(self, session_id: str) -> list[dict]:
+        if session_id not in self._items:
+            self._items[session_id] = rows(
+                self.conn, "SELECT id, item_order, title_en FROM agenda_items WHERE session_id = ? ORDER BY item_order, id", (session_id,))
+        return self._items[session_id]
 
     # --- shared shapes -------------------------------------------------------------------------
 
@@ -174,6 +219,21 @@ class Exporter:
         counts: dict[str, int] = defaultdict(int)
         for c in contributions:
             counts[c["agenda_item_id"]] += 1
+        texts = [{
+            "id": t["id"],
+            "item_id": t["agenda_item_id"],
+            "seq": t["sequence_number"],
+            "kind": t["kind"],
+            "amendment_number": t["amendment_number"],
+            "lang": t["original_language"],
+            "text_original": t["text_original"],
+            "text_english": t["text_english"],
+        } for t in rows(
+            self.conn,
+            """SELECT t.* FROM tabled_texts t JOIN agenda_items a ON a.id = t.agenda_item_id
+               WHERE a.session_id = ? ORDER BY a.item_order, t.sequence_number, t.id""",
+            (s["id"],),
+        )]
         divisions = []
         # The Votes document the divisions were read from; one per meeting.
         votes_source = votes_url(mid) if (mid := meeting_id_of(s["id"])) is not None else None
@@ -221,6 +281,8 @@ class Exporter:
                 "contribution_count": counts[i["id"]],
             } for i in items],
             "contributions": out_contribs,
+            # Motions, amendments and procedural notes as the Record prints them. Verbatim.
+            "tabled_texts": texts,
             "divisions": divisions,
             "speakers": {mid: self.member_light(mid, s["session_date"]) for mid in speaker_ids},
             # What Siambr derived rather than copied: the record carries none of these.
@@ -304,7 +366,7 @@ class Exporter:
             })
         ballots = rows(
             self.conn,
-            """SELECT v.division_id, v.vote_cast, d.agenda_item_id, d.motion_text, d.result, a.title_en, s.session_date
+            """SELECT v.division_id, v.vote_cast, d.agenda_item_id, d.motion_text, d.result, a.title_en, s.session_date, s.id AS session_id
                FROM member_votes v
                JOIN division_votes d ON d.id = v.division_id
                JOIN agenda_items a ON a.id = d.agenda_item_id
@@ -313,6 +375,7 @@ class Exporter:
                ORDER BY s.session_date DESC, a.item_order, d.id""",
             (member_id,),
         )
+        debates = {b["division_id"]: debate_item_of(b["motion_text"], self.session_items(b["session_id"])) for b in ballots}
         return {
             **self.member_light(member_id),
             "tenures": [{
@@ -348,6 +411,8 @@ class Exporter:
                 "motion_text": b["motion_text"],
                 "result": b["result"],
                 "vote_cast": b["vote_cast"],
+                "debate_item_id": debates[b["division_id"]]["id"] if debates[b["division_id"]] else None,
+                "debate_item_title_en": debates[b["division_id"]]["title_en"] if debates[b["division_id"]] else None,
             } for b in ballots],
         }
 

@@ -62,6 +62,7 @@
 
 	let floorMesh = $state<Mesh>();
 	let deskMesh = $state<InstancedMesh>();
+	let pickMesh = $state<InstancedMesh>();
 	let llywyddHit = $state<Mesh>();
 	const places = $derived([...desks, llywyddDesk()]);
 
@@ -79,10 +80,10 @@
 <Funnel />
 <Envelope />
 <Dais />
-<Desks {desks} {seats} focus={hud.focus} {floor} {presiding} reducedMotion={hud.reducedMotion} bind:hitMesh={deskMesh} bind:llywyddHit />
+<Desks {desks} {seats} focus={hud.focus} {floor} {presiding} reducedMotion={hud.reducedMotion} bind:hitMesh={deskMesh} bind:pickMesh bind:llywyddHit />
 <DivisionDisplays {floor} t={clock?.t ?? 0} />
 {#if hud.walk}
-	<Walker {player} {hud} desks={places} {seats} floors={[floorMesh]} {deskMesh} {llywyddHit} {paused} />
+	<Walker {player} {hud} desks={places} {seats} floors={[floorMesh]} deskMesh={pickMesh} {llywyddHit} {paused} />
 {:else}
-	<GuidedCamera {rig} {hud} desks={places} {seats} {deskMesh} {llywyddHit} {paused} />
+	<GuidedCamera {rig} {hud} desks={places} {seats} deskMesh={pickMesh} {llywyddHit} {paused} />
 {/if}

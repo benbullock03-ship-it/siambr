@@ -4035,7 +4035,7 @@
   ],
   "meeting_id": 16261,
   "meeting_start_time": "13:30:01",
-  "presiding_officer_id": "ms-huw-irranca-davies",
+  "presiding_officer_id": "ms-kerry-ferguson",
   "provenance": {
     "items.policy_domain_id": "PROVENANCE_DERIVED",
     "items.type": "PROVENANCE_DERIVED",
@@ -5679,6 +5679,248 @@
       "role_title_en": null
     }
   },
+  "tabled_texts": [
+    {
+      "amendment_number": null,
+      "id": "tabled-769717",
+      "item_id": "item-16261-260916-3",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 0,
+      "text_english": "The Llywydd (Huw Irranca-Davies) took the Chair.",
+      "text_original": "Daeth y Llywydd (Huw Irranca-Davies) i’r Gadair."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-769607",
+      "item_id": "item-16261-260916-4",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 0,
+      "text_english": "The following amendments have been selected: amendment 1 in the name of Heledd Fychan, and amendment 2 in the name of Paul Davies.",
+      "text_original": "Detholwyd y gwelliannau canlynol: gwelliant 1 yn enw Heledd Fychan, a gwelliant 2 yn enw Paul Davies."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-769609",
+      "item_id": "item-16261-260916-4",
+      "kind": "motion",
+      "lang": "cy",
+      "seq": 1,
+      "text_english": "Motion NDM9293 Llŷr Powell\n\nSupported by Andrew Griffin, Cristiana Emsley, Helen Jenner, John Clark\n\nTo propose that the Senedd:\n\n1. Notes the recent rise in convictions for offences relating to sexual exploitation by grooming gangs in Wales.\n\n2. Believes that all Welsh victims of sexual exploitation by grooming gangs deserve justice.\n\n3. Calls on the UK Government to ensure that Wales is investigated at the earliest opportunity as part of the Statutory Independent Inquiry into Grooming Gangs.",
+      "text_original": "Cynnig NDM9293 Llŷr Powell\n\nCefnogwyd gan Andrew Griffin, Cristiana Emsley, Helen Jenner, John Clark\n\nCynnig bod y Senedd:\n\n1. Yn nodi'r cynnydd diweddar mewn euogfarnau am droseddau sy'n ymwneud â chamfanteisio'n rhywiol gan gangiau grŵmio yng Nghymru.\n\n2. Yn credu bod pawb sydd wedi dioddef camfanteisio rhywiol gan gangiau grŵmio yng Nghymru yn haeddu cyfiawnder.\n\n3. Yn galw ar Lywodraeth y DU i sicrhau bod Cymru yn cael ei hymchwilio cyn gynted â phosibl fel rhan o'r Ymchwiliad Annibynnol Statudol i Gangiau Grŵmio."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-769610",
+      "item_id": "item-16261-260916-4",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 2,
+      "text_english": "Motion moved.",
+      "text_original": "Cynigiwyd y cynnig."
+    },
+    {
+      "amendment_number": 1,
+      "id": "tabled-769634",
+      "item_id": "item-16261-260916-4",
+      "kind": "amendment",
+      "lang": "cy",
+      "seq": 3,
+      "text_english": "Amendment 1—Heledd Fychan\n\nDelete all after point 1 and replace with:\n\nBelieves that all Welsh victims of sexual exploitation by grooming gangs deserve justice and support.\n\nNotes that Wales falls within the scope of the statutory Independent Inquiry into Grooming Gangs.\n\nNotes the Welsh Government’s stated commitment to considering carefully any findings and recommendations relating to Wales and taking forward any necessary action.\n\nFurther notes the Welsh Government's commitment to preventing and responding to child sexual abuse through the National Strategy for Preventing and Responding to Child Sexual Abuse in Wales 2026 to 2036 published in March 2026, including implementing actions set out in its Delivery Plan.",
+      "text_original": "Gwelliant 1—Heledd Fychan\n\nDileu popeth ar ôl pwynt 1 a rhoi yn ei le:\n\nO’r farn bod pawb yng Nghymru sydd wedi dioddef camfanteisio rhywiol gan gangiau grŵmio yn haeddu cyfiawnder a chymorth.\n\nYn nodi bod Cymru’n dod o fewn cwmpas yr Ymchwiliad Annibynnol Statudol i Gangiau Grŵmio.\n\nYn nodi ymrwymiad sydd wedi’i ddatgan gan Lywodraeth Cymru i ystyried yn ofalus unrhyw ganfyddiadau ac argymhellion o ran Cymru a datblygu unrhyw gamau gweithredu angenrheidiol.\n\nYn nodi ymhellach ymrwymiad Llywodraeth Cymru i atal ac ymateb i gam-drin plant yn rhywiol drwy’r Strategaeth Genedlaethol ar Atal ac Ymateb i Gam-drin Plant yn Rhywiol yng Nghymru 2026 i 2036 a gyhoeddwyd ym mis Mawrth 2026, gan gynnwys rhoi ar waith y camau gweithredu a nodir yn ei Chynllun Cyflawni."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-769635",
+      "item_id": "item-16261-260916-4",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 4,
+      "text_english": "Amendment 1 moved.",
+      "text_original": "Cynigiwyd gwelliant 1."
+    },
+    {
+      "amendment_number": 2,
+      "id": "tabled-769642",
+      "item_id": "item-16261-260916-4",
+      "kind": "amendment",
+      "lang": "cy",
+      "seq": 5,
+      "text_english": "Amendment 2—Paul Davies\n\nAdd as a new point at end of motion:\n\nCalls on the Welsh Government to commission a Wales-wide grooming gang inquiry into areas of devolved competence.",
+      "text_original": "Gwelliant 2—Paul Davies\n\nYchwanegu pwynt newydd ar ddiwedd y cynnig:\n\nYn galw ar Lywodraeth Cymru i gomisiynu ymchwiliad gangiau grŵmio Cymru gyfan i feysydd cymhwysedd datganoledig."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-769643",
+      "item_id": "item-16261-260916-4",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 6,
+      "text_english": "Amendment 2 moved.",
+      "text_original": "Cynigiwyd gwelliant 2."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-769677",
+      "item_id": "item-16261-260916-4",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 7,
+      "text_english": "Voting deferred until voting time.",
+      "text_original": "Gohiriwyd y pleidleisio tan y cyfnod pleidleisio."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-769679",
+      "item_id": "item-16261-260916-5",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 0,
+      "text_english": "The following amendments have been selected: amendments 1 and 2 in the name of Heledd Fychan, amendment 3 in the name of Paul Davies, and amendment 4 in the name of Lynne Neagle.",
+      "text_original": "Detholwyd y gwelliannau canlynol: gwelliannau 1 a 2 yn enw Heledd Fychan, gwelliant 3 yn enw Paul Davies, a gwelliant 4 yn enw Lynne Neagle."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-769681",
+      "item_id": "item-16261-260916-5",
+      "kind": "motion",
+      "lang": "cy",
+      "seq": 1,
+      "text_english": "Motion NDM9294 Llŷr Powell\n\nSupported by Andrew Griffin, Cristiana Emsley, John Clark, Sarah Cooper-Lesadd\n\nTo propose that the Senedd:\n\n1. Regrets the ongoing pay dispute between Welsh health visitors and Cwm Taf Morgannwg University Health Board.\n\n2. Calls on the Welsh Government to take immediate action to facilitate a satisfactory resolution to the dispute, including a fair pay offer, and to bring an end to strike action.",
+      "text_original": "Cynnig NDM9294 Llŷr Powell\n\nCefnogwyd gan Andrew Griffin, Cristiana Emsley, John Clark, Sarah Cooper-Lesadd\n\nCynnig bod y Senedd:\n\n1. Yn gresynu at yr anghydfod cyflog parhaus rhwng ymwelwyr iechyd yng Nghymru a Bwrdd Iechyd Prifysgol Cwm Taf Morgannwg.\n\n2. Yn galw ar Lywodraeth Cymru i gymryd camau ar unwaith i hwyluso datrysiad boddhaol i'r anghydfod, gan gynnwys cynnig cyflog teg, ac i roi terfyn ar y streic."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-769682",
+      "item_id": "item-16261-260916-5",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 2,
+      "text_english": "Motion moved.",
+      "text_original": "Cynigiwyd y cynnig."
+    },
+    {
+      "amendment_number": 1,
+      "id": "tabled-769695",
+      "item_id": "item-16261-260916-5",
+      "kind": "amendment",
+      "lang": "cy",
+      "seq": 3,
+      "text_english": "Amendment 1—Heledd Fychan\n\nInsert at end of point 1:\n\nwhich predates the current government and has been an ongoing issue for a number of years.",
+      "text_original": "Gwelliant 1—Heledd Fychan\n\nMewnosod ar ddiwedd pwynt 1:\n\nsy'n rhagflaenu'r llywodraeth bresennol ac sydd wedi parhau heb ei ddatrys ers nifer o flynyddoedd."
+    },
+    {
+      "amendment_number": 2,
+      "id": "tabled-769696",
+      "item_id": "item-16261-260916-5",
+      "kind": "amendment",
+      "lang": "cy",
+      "seq": 4,
+      "text_english": "Amendment 2—Heledd Fychan\n\nDelete all after point 1 and replace with:\n\nAcknowledges that the Cabinet Minister for Health and Care has repeatedly urged Cwm Taf Morgannwg University Health Board and Unite to come together and resolve this dispute to minimise the impact on babies, families, and staff and remains committed to encouraging positive partnership working at every level and the resolution of local dispute through negotiation as soon as possible.\n\nRecognises that the Welsh Government is committed to a secure and stable health visiting workforce across Wales and that the Chief Nursing Officer for Wales has commissioned work to review and consider the future delivery of health visiting services to ensure that the model continues to meet the needs of children, families, and communities.",
+      "text_original": "Gwelliant 2—Heledd Fychan\n\nDileu popeth ar ôl pwynt 1 a rhoi yn ei le:\n\nYn cydnabod bod y Gweinidog Cabinet dros Iechyd a Gofal wedi annog Bwrdd Iechyd Prifysgol Cwm Taf Morgannwg ac Unite dro ar ôl tro i ddod ynghyd i ddatrys yr anghydfod hwn er mwyn lleihau'r effaith ar fabanod, teuluoedd a staff, a'i fod yn parhau'n ymrwymedig i hyrwyddo gweithio mewn partneriaeth gadarnhaol ar bob lefel ac i ddatrys anghydfodau lleol drwy drafod cyn gynted â phosibl.\n\nYn cydnabod bod Llywodraeth Cymru wedi ymrwymo i sicrhau gweithlu ymwelwyr iechyd diogel a sefydlog ledled Cymru, a bod Prif Swyddog Nyrsio Cymru wedi comisiynu gwaith i adolygu ac ystyried y ffordd y darperir gwasanaethau ymwelwyr iechyd yn y dyfodol er mwyn sicrhau bod y model yn parhau i ddiwallu anghenion plant, teuluoedd a chymunedau."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-769697",
+      "item_id": "item-16261-260916-5",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 5,
+      "text_english": "Amendments 1 and 2 moved.",
+      "text_original": "Cynigiwyd gwelliannau 1 a 2."
+    },
+    {
+      "amendment_number": 3,
+      "id": "tabled-769700",
+      "item_id": "item-16261-260916-5",
+      "kind": "amendment",
+      "lang": "cy",
+      "seq": 6,
+      "text_english": "Amendment 3—Paul Davies\n\nAdd as new points at end of motion:\n\nNotes the joint letter signed by the First Minister as leader of Plaid Cymru on behalf of Plaid Cymru during the recent Senedd election that calls on the health board to 'honour agreed processes and upgrade all Band 6 health visitors to Band 7, and restore principles of partnership working.'\n\nRegrets that, to date, Plaid Cymru in government have failed to honour the commitment contained within the letter.",
+      "text_original": "Gwelliant 3—Paul Davies\n\nYchwanegu fel pwyntiau newydd ar ddiwedd y cynnig:\n\nYn nodi'r llythyr ar y cyd a lofnodwyd gan y Prif Weinidog fel arweinydd Plaid Cymru ar ran Plaid Cymru yn ystod etholiad diweddar y Senedd sy'n galw ar y bwrdd iechyd i anrhydeddu prosesau a gytunwyd ac uwchraddio pob ymwelydd iechyd Band 6 i Fand 7, ac adfer egwyddorion gweithio mewn partneriaeth.\n\nYn gresynu bod Plaid Cymru mewn llywodraeth wedi methu, hyd yn hyn, ag anrhydeddu'r ymrwymiad a gynhwysir yn y llythyr."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-769701",
+      "item_id": "item-16261-260916-5",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 7,
+      "text_english": "Amendment 3 moved.",
+      "text_original": "Cynigiwyd gwelliant 3."
+    },
+    {
+      "amendment_number": 4,
+      "id": "tabled-769710",
+      "item_id": "item-16261-260916-5",
+      "kind": "amendment",
+      "lang": "cy",
+      "seq": 8,
+      "text_english": "Amendment 4—Lynne Neagle\n\nAdd as new point at end of motion:\n\nRecognises the fundamental role of health visitors in giving every child the very best start in life, including their crucial role in safeguarding babies and children, and urges Cwm Taf Morgannwg University Health Board to resolve the dispute and get health visitors back to work.",
+      "text_original": "Gwelliant 4—Lynne Neagle\n\nYchwanegu pwynt newydd ar ddiwedd y cynnig:\n\nYn cydnabod rôl sylfaenol ymwelwyr iechyd wrth roi'r dechrau gorau mewn bywyd i bob plentyn, gan gynnwys eu rôl hanfodol wrth ddiogelu babanod a phlant, ac yn annog Bwrdd Iechyd Prifysgol Cwm Taf Morgannwg i ddatrys yr anghydfod a chael ymwelwyr iechyd yn ôl i'r gwaith."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-769711",
+      "item_id": "item-16261-260916-5",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 9,
+      "text_english": "Amendment 4 moved.",
+      "text_original": "Cynigiwyd gwelliant 4."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-769755",
+      "item_id": "item-16261-260916-5",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 10,
+      "text_english": "Voting deferred until voting time.",
+      "text_original": "Gohiriwyd y pleidleisio tan y cyfnod pleidleisio."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-769766",
+      "item_id": "item-16261-260916-5",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 11,
+      "text_english": "The bell was rung to call Members to the Chamber.",
+      "text_original": "Canwyd y gloch i alw’r Aelodau i’r Siambr."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-769789",
+      "item_id": "item-16261-260916-6",
+      "kind": "motion",
+      "lang": "cy",
+      "seq": 0,
+      "text_english": "Motion NDM9293 as amended:\n\nTo propose that the Senedd:\n\n1. Notes the recent rise in convictions for offences relating to sexual exploitation by grooming gangs in Wales.\n\n2. Believes that all Welsh victims of sexual exploitation by grooming gangs deserve justice and support.\n\n3. Notes that Wales falls within the scope of the statutory Independent Inquiry into Grooming Gangs.\n\n4. Notes the Welsh Government’s stated commitment to considering carefully any findings and recommendations relating to Wales and taking forward any necessary action.\n\n5. Further notes the Welsh Government's commitment to preventing and responding to child sexual abuse through the National Strategy for Preventing and Responding to Child Sexual Abuse in Wales 2026 to 2036 published in March 2026, including implementing actions set out in its Delivery Plan.",
+      "text_original": "Cynnig NDM9293 fel y'i diwygiwyd:\n\nCynnig bod y Senedd:\n\n1. Yn nodi'r cynnydd diweddar mewn euogfarnau am droseddau sy'n ymwneud â chamfanteisio'n rhywiol gan gangiau grŵmio yng Nghymru.\n\n2. O’r farn bod pawb yng Nghymru sydd wedi dioddef camfanteisio rhywiol gan gangiau grŵmio yn haeddu cyfiawnder a chymorth.\n\n3. Yn nodi bod Cymru’n dod o fewn cwmpas yr Ymchwiliad Annibynnol Statudol i Gangiau Grŵmio.\n\n4. Yn nodi ymrwymiad sydd wedi’i ddatgan gan Lywodraeth Cymru i ystyried yn ofalus unrhyw ganfyddiadau ac argymhellion o ran Cymru a datblygu unrhyw gamau gweithredu angenrheidiol.\n\n5. Yn nodi ymhellach ymrwymiad Llywodraeth Cymru i atal ac ymateb i gam-drin plant yn rhywiol drwy’r Strategaeth Genedlaethol ar Atal ac Ymateb i Gam-drin Plant yn Rhywiol yng Nghymru 2026 i 2036 a gyhoeddwyd ym mis Mawrth 2026, gan gynnwys rhoi ar waith y camau gweithredu a nodir yn ei Chynllun Cyflawni."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-769759",
+      "item_id": "item-16261-260916-6",
+      "kind": "motion",
+      "lang": "cy",
+      "seq": 1,
+      "text_english": "Motion NDM9294 as amended:\n\nTo propose that the Senedd:\n\n1. Regrets the ongoing pay dispute between Welsh health visitors and Cwm Taf Morgannwg University Health Board, which predates the current government and has been an ongoing issue for a number of years.\n\n2. Calls on the Welsh Government to take immediate action to facilitate a satisfactory resolution to the dispute, including a fair pay offer, and to bring an end to strike action.\n\n3. Recognises the fundamental role of health visitors in giving every child the very best start in life, including their crucial role in safeguarding babies and children, and urges Cwm Taf Morgannwg University Health Board to resolve the dispute and get health visitors back to work.",
+      "text_original": "Cynnig NDM9294 fel y'i diwygiwyd:\n\nCynnig bod y Senedd:\n\n1. Yn gresynu at yr anghydfod cyflog parhaus rhwng ymwelwyr iechyd yng Nghymru a Bwrdd Iechyd Prifysgol Cwm Taf Morgannwg sy'n rhagflaenu'r llywodraeth bresennol ac sydd wedi parhau heb ei ddatrys ers nifer o flynyddoedd.\n\n2. Yn galw ar Lywodraeth Cymru i gymryd camau ar unwaith i hwyluso datrysiad boddhaol i'r anghydfod, gan gynnwys cynnig cyflog teg, ac i roi terfyn ar y streic.\n\n3. Yn cydnabod rôl sylfaenol ymwelwyr iechyd wrth roi'r dechrau gorau mewn bywyd i bob plentyn, gan gynnwys eu rôl hanfodol wrth ddiogelu babanod a phlant, ac yn annog Bwrdd Iechyd Prifysgol Cwm Taf Morgannwg i ddatrys yr anghydfod a chael ymwelwyr iechyd yn ôl i'r gwaith."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-769787",
+      "item_id": "item-16261-260916-7",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 0,
+      "text_english": "The meeting ended at 17:53.",
+      "text_original": "Daeth y cyfarfod i ben am 17:53."
+    }
+  ],
   "term": 7,
   "title_cy": "Cyfarfod Llawn",
   "title_en": "Plenary",

@@ -1,19 +1,12 @@
 /** How a division paints the desks and the wall displays. Pure; no DOM, no three.js. */
-import type { Division, VoteCast } from '$lib/data/types';
+import type { Division } from '$lib/data/types';
 import type { DivisionTint } from '$lib/stage/floor';
-import { DIVISION_TONES } from '../materials';
+import { voteTone } from '$lib/stage/voteTones';
 
-/** How far the worktop travels towards the vote tone at full strength. */
-export const DIVISION_TINT_MIX = 0.85;
+export { voteTone };
 
-/**
- * The tone a desk carries for a vote. `did_not_vote`, and a Member with no row in the
- * division, stay untinted: the record says nothing about them, so neither does the chamber.
- */
-export function voteTone(vote: VoteCast | undefined): string | null {
-	if (vote === 'for' || vote === 'against' || vote === 'abstain') return DIVISION_TONES[vote];
-	return null;
-}
+/** How far the worktop travels towards the vote tone at full strength: all the way (T-25). */
+export const DIVISION_TINT_MIX = 1;
 
 /** The tint a seated Member's desk shows, 0 when they have no recorded vote. */
 export function deskTint(tint: DivisionTint | null, memberId: string | null): { tone: string; mix: number } | null {

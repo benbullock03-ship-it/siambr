@@ -3,18 +3,22 @@
 	import type { SiambrState } from '$lib/3d/state.svelte';
 	import { partyColor, partyLabel } from '$lib/dossier/parties';
 	import TouchJoystick from './TouchJoystick.svelte';
+	import VoteLegend from './VoteLegend.svelte';
 
 	/** The overlay on the canvas: nametag, controls hint, crosshair and the walk joystick. */
 	let {
 		hud,
 		renderer,
 		onjoystick,
-		provenance
+		provenance,
+		division = false
 	}: {
 		hud: SiambrState;
 		renderer: 'webgpu' | 'webgl2' | null;
 		onjoystick: (v: { x: number; y: number }) => void;
 		provenance?: Snippet;
+		/** True while the desks carry a division tint; the legend says what the tones mean. */
+		division?: boolean;
 	} = $props();
 
 	let dismissedControls = $state(false);
@@ -56,6 +60,10 @@
 					</svg>
 				</button>
 			</div>
+		{/if}
+
+		{#if division}
+			<VoteLegend compact />
 		{/if}
 
 		{#if provenance}

@@ -19,7 +19,11 @@ PLENARY_TITLE_EN = "Plenary"
 PLENARY_TITLE_CY = "Cyfarfod Llawn"
 # C = spoken contribution, O = tabled oral question printed under the asking Member.
 # B (question headings), I (editorial notes) and V (vote outcomes) are not speech.
+# I rows also carry the motion and amendment texts as tabled; those go to tabled_texts.
 SPEECH_TYPES = {"C", "O"}
+TABLED_TYPES = {"I"}
+MOTION_RE = re.compile(r"^\s*Motion\s+NN?DM\s*\d+", re.I)
+AMENDMENT_RE = re.compile(r"^\s*Amendment\s+(\d+)\s*[—–-]", re.I)
 PRESIDING_TITLES = {"llywydd", "presiding officer", "deputy presiding officer", "dirprwy lywydd"}
 FALLBACK_DOMAIN = "devolution"
 
@@ -51,6 +55,7 @@ class NormalisedSession:
     session: tuple
     items: list[tuple] = field(default_factory=list)
     contributions: list[tuple] = field(default_factory=list)
+    tabled_texts: list[tuple] = field(default_factory=list)
     skipped: list[str] = field(default_factory=list)
 
     @property
@@ -74,6 +79,15 @@ def classify_item_type(title_en: str) -> str:
 def classify_domain(title_en: str) -> str:
     t = bare_title(title_en)
     return next((d for d, pattern in DOMAIN_RULES if re.search(rf"\b(?:{pattern})", t)), FALLBACK_DOMAIN)
+
+
+def classify_tabled(text_english: str) -> tuple[str, int | None]:
+    """('motion', None), ('amendment', n) or ('note', None) from the printed text's first line."""
+    if MOTION_RE.match(text_english):
+        return "motion", None
+    if m := AMENDMENT_RE.match(text_english):
+        return "amendment", int(m.group(1))
+    return "note", None
 
 
 def member_id_for(name: str, known_members: set[str]) -> str | None:
@@ -127,6 +141,15 @@ def normalise(body: bytes, known_members: set[str], source_url: str) -> Normalis
             out.contributions.append((f"contribution-{r.contribution_id}", item_id, member_id, seq, r.language,
                                       original, english, plenary_xml.start_pos(r.spoken_tv_url)))
 
+        tabled = [r for r in item_rows if r.contribution_type in TABLED_TYPES and plenary_xml.html_to_text(r.verbatim_html)]
+        for seq, r in enumerate(tabled):
+            if r.language not in ("en", "cy"):
+                raise ValueError(f"{source_url}: tabled text {r.contribution_id} has language {r.language!r}")
+            original = plenary_xml.html_to_text(r.verbatim_html)
+            english = original if r.language == "en" else plenary_xml.html_to_text(r.translated_html)
+            kind, number = classify_tabled(english)
+            out.tabled_texts.append((f"tabled-{r.contribution_id}", item_id, seq, kind, number, r.language, original, english))
+
     out.session = (session_id, first.assembly, first.session_date, PLENARY_TITLE_EN, PLENARY_TITLE_CY,
                    presiding, source_url, plenary_xml.sha256(body),
                    plenary_xml.record_published_at(body), plenary_xml.meeting_start_time(body))
@@ -169,6 +192,12 @@ def write_session(conn: sqlite3.Connection, n: NormalisedSession, *, rewrite: bo
                    verbatim_text_original, verbatim_text_english, video_timestamp_start)
                VALUES (?, ?, ?, ?, ?, ?, ?, ?)""",
             n.contributions,
+        )
+        conn.executemany(
+            """INSERT INTO tabled_texts (id, agenda_item_id, sequence_number, kind, amendment_number,
+                   original_language, text_original, text_english)
+               VALUES (?, ?, ?, ?, ?, ?, ?, ?)""",
+            n.tabled_texts,
         )
         conn.execute("COMMIT")
     except BaseException:

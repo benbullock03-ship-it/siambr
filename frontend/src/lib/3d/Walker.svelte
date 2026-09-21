@@ -35,6 +35,10 @@
 	const probe = new Vector3();
 	const seatByDesk = $derived(new Map(seats.map((s) => [s.desk.id, s])));
 	let pointer: { x: number; y: number } | null = null;
+	// Focus holds for a beat when the pick changes, so a pointer skimming a desk edge never flickers.
+	const FOCUS_HOLD_MS = 160;
+	let pendingId: string | null | undefined;
+	let pendingSince = 0;
 
 	function nearestSeat(): SeatAssignment | null {
 		let best: SeatAssignment | null = null;
@@ -54,13 +58,16 @@
 		if (!camera || !deskMesh) return null;
 		raycaster.setFromCamera(ndc, camera);
 		raycaster.far = far;
-		// Threlte's InstancedMesh disables raycast on the mesh; each <Instance> child raycasts itself.
-		const hit = raycaster.intersectObjects(llywyddHit ? [deskMesh, llywyddHit] : [deskMesh], true)[0];
+		// An empty desk is not a pick: the ray carries on to the seated desk behind it.
+		const hits = raycaster.intersectObjects(llywyddHit ? [deskMesh, llywyddHit] : [deskMesh], true);
 		raycaster.far = Infinity;
-		if (!hit) return null;
-		if (hit.object === llywyddHit) return seatByDesk.get('llywydd') ?? null;
-		if (hit.instanceId === undefined) return null;
-		return seatByDesk.get(desks[hit.instanceId]?.id) ?? null;
+		for (const hit of hits) {
+			if (hit.object === llywyddHit) return seatByDesk.get('llywydd') ?? null;
+			if (hit.instanceId === undefined) continue;
+			const seat = seatByDesk.get(desks[hit.instanceId]?.id);
+			if (seat) return seat;
+		}
+		return null;
 	}
 
 	/** Seat under the crosshair (pointer locked) or under the pointer, within looking range. */
@@ -78,8 +85,19 @@
 		camera.rotation.set(pose.pitch, pose.yaw, 0, 'YXZ');
 		camera.updateMatrixWorld();
 
-		const seat = paused ? null : (lookedAtSeat() ?? nearestSeat());
-		if (seat?.desk.id !== hud.focus?.desk.id) hud.focus = seat;
+		const candidate = paused ? null : (lookedAtSeat() ?? nearestSeat());
+		const candidateId = candidate?.desk.id ?? null;
+		if (candidateId !== (hud.focus?.desk.id ?? null)) {
+			const now = performance.now();
+			if (candidateId !== pendingId) {
+				pendingId = candidateId;
+				pendingSince = now;
+			}
+			if (!hud.focus || paused || now - pendingSince >= FOCUS_HOLD_MS) hud.focus = candidate;
+		} else {
+			pendingId = candidateId;
+		}
+		const seat = hud.focus;
 		if (seat) {
 			probe.set(seat.desk.x, seat.desk.y + 1.15, seat.desk.z).project(camera);
 			const visible = probe.z < 1 && Math.abs(probe.x) < 1.2 && Math.abs(probe.y) < 1.2;

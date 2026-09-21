@@ -33,6 +33,8 @@ Spec 2.0.0 run
   T-22 Kiosk / attract mode          T-23 Chamber polish pass (any time after T-17)
      |
   T-24 Verification gates
+     |
+  T-25 Register and vote legibility
 ```
 
 ---
@@ -65,6 +67,7 @@ Spec 2.0.0 run
 | [T-22](T-22-kiosk-attract-mode.md) | Kiosk and Attract Mode | Frontend | T-18 | `done` |
 | [T-23](T-23-chamber-polish-pass.md) | Chamber Polish Pass: Lighting, Materials, Clocks, Screens, Gallery | 3D | T-17 | `done` |
 | [T-24](T-24-verification-gates.md) | Verification Gates: Verbatim, Timeline, Provenance, Prose, A11y, Perf, Determinism | Verification | T-18, T-20, T-21 | `pending` |
+| [T-25](T-25-register-and-vote-legibility.md) | Register and Vote Legibility: Record Overlay, Party Tabs, Division Tones, Ballot History | Frontend + 3D | T-19, T-20 | `done` |
 
 ---
 

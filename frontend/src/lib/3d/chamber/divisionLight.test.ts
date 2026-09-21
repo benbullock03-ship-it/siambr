@@ -3,7 +3,8 @@ import type { VoteCast } from '$lib/data/types';
 import { division, sitting, speech, item } from '$lib/stage/fixtures';
 import { divisionTint } from '$lib/stage/floor';
 import { buildTimeline, DIVISION_BEAT_SECONDS } from '$lib/stage/timeline';
-import { DIVISION_TONES } from '../materials';
+import { CHAMBER_TONES } from '../materials';
+import { DIVISION_TONES, lightness, relativeLuminance } from '$lib/stage/voteTones';
 import { clockDigits, deskTint, voteTone, wallDisplay } from './divisionLight';
 
 const VOTES: VoteCast[] = ['for', 'against', 'abstain', 'did_not_vote'];
@@ -57,6 +58,14 @@ describe('division tones', () => {
 		for (let i = 0; i < tones.length; i++) {
 			for (let j = i + 1; j < tones.length; j++) expect(distance(tones[i], tones[j])).toBeGreaterThan(25);
 		}
+	});
+
+	it('reads as a pair: For and Against at least 30 L* apart, both lighter than the worktop', () => {
+		expect(Math.abs(lightness(DIVISION_TONES.for) - lightness(DIVISION_TONES.against))).toBeGreaterThanOrEqual(30);
+		expect(Math.abs(relativeLuminance(DIVISION_TONES.for) - relativeLuminance(DIVISION_TONES.against))).toBeGreaterThanOrEqual(0.3);
+		const worktop = relativeLuminance(CHAMBER_TONES.worktop);
+		expect(relativeLuminance(DIVISION_TONES.for)).toBeGreaterThan(worktop * 2);
+		expect(relativeLuminance(DIVISION_TONES.against)).toBeGreaterThan(worktop * 2);
 	});
 
 	it('is not a party palette', async () => {

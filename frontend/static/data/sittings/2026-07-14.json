@@ -6623,6 +6623,128 @@
       "role_title_en": null
     }
   },
+  "tabled_texts": [
+    {
+      "amendment_number": null,
+      "id": "tabled-767733",
+      "item_id": "item-16085-260714-2",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 0,
+      "text_english": "The Deputy Presiding Officer (Kerry Ferguson) took the Chair.",
+      "text_original": "Daeth y Dirprwy Lywydd (Kerry Ferguson) i’r Gadair."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-767793",
+      "item_id": "item-16085-260714-4",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 0,
+      "text_english": "The Llywydd (Huw Irranca-Davies) took the Chair.",
+      "text_original": "Daeth y Llywydd (Huw Irranca-Davies) i’r Gadair."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-767841",
+      "item_id": "item-16085-260714-6",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 0,
+      "text_english": "The Deputy Presiding Officer (Kerry Ferguson) took the Chair.",
+      "text_original": "Daeth y Dirprwy Lywydd (Kerry Ferguson) i’r Gadair."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-767976",
+      "item_id": "item-16085-260714-8",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 0,
+      "text_english": "The Llywydd (Huw Irranca-Davies) took the Chair.",
+      "text_original": "Daeth y Llywydd (Huw Irranca-Davies) i’r Gadair."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-767874",
+      "item_id": "item-16085-260714-9",
+      "kind": "motion",
+      "lang": "cy",
+      "seq": 0,
+      "text_english": "Motion NDM9286 Adam Price\n\nTo propose that the Senedd, in accordance with Standing Order 29.6 agrees that provisions in the Steel Industry (Nationalisation) Bill in so far as they have regard to devolved matters, should be considered by the UK Parliament.",
+      "text_original": "Cynnig NDM9286 Adam Price\n\nCynnig bod y Senedd, yn unol â Rheol Sefydlog 29.6, yn cytuno y dylai’r darpariaethau ym Mil y Diwydiant Dur (Gwladoli), i’r graddau y maent yn ystyried materion datganoledig, gael eu hystyried gan Senedd y DU."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-767875",
+      "item_id": "item-16085-260714-9",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 1,
+      "text_english": "Motion moved.",
+      "text_original": "Cynigiwyd y cynnig."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-767945",
+      "item_id": "item-16085-260714-9",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 2,
+      "text_english": "Voting deferred until voting time.",
+      "text_original": "Gohiriwyd y pleidleisio tan y cyfnod pleidleisio."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-767909",
+      "item_id": "item-16085-260714-9",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 3,
+      "text_english": "Plenary was suspended at 19:37.\n\nThe Senedd reconvened at 19:47, with the Llywydd (Huw Irranca-Davies) in the Chair.",
+      "text_original": "Ataliwyd y Cyfarfod Llawn am 19:37.\n\nAilymgynullodd y Senedd am 19:47, gyda'r Llywydd (Huw Irranca-Davies) yn y Gadair."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-767938",
+      "item_id": "item-16085-260714-10",
+      "kind": "motion",
+      "lang": "cy",
+      "seq": 0,
+      "text_english": "Motion NDM9261 Heledd Fychan\n\nTo propose that the Senedd, in accordance with Standing Order 20.30, approves the First Supplementary Budget for the financial year 2026-27 laid in the Table Office on 23 June 2026.",
+      "text_original": "Cynnig NDM9261 Heledd Fychan\n\nCynnig bod y Senedd, yn unol â Rheol Sefydlog 20.30, yn cymeradwyo'r Gyllideb Atodol Gyntaf ar gyfer y flwyddyn ariannol 2026-27 a osodwyd yn y Swyddfa Gyflwyno 23 Mehefin 2026."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-767939",
+      "item_id": "item-16085-260714-10",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 1,
+      "text_english": "Motion moved.",
+      "text_original": "Cynigiwyd y cynnig."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-768009",
+      "item_id": "item-16085-260714-10",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 2,
+      "text_english": "Voting deferred until voting time.",
+      "text_original": "Gohiriwyd y pleidleisio tan y cyfnod pleidleisio."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-767990",
+      "item_id": "item-16085-260714-11",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 0,
+      "text_english": "The meeting ended at 20:54.",
+      "text_original": "Daeth y cyfarfod i ben am 20:54."
+    }
+  ],
   "term": 7,
   "title_cy": "Cyfarfod Llawn",
   "title_en": "Plenary",

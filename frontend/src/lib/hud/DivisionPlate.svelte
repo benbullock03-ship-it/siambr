@@ -1,69 +1,44 @@
 <script lang="ts">
-	import type { Division, MemberLight, SittingItem, VoteCast } from '$lib/data/types';
+	import type { Division, MemberLight, SittingItem, TabledText } from '$lib/data/types';
+	import { BADGE } from '$lib/data/provenance';
 	import { divisionAnchor } from '$lib/dossier/anchors';
 	import { ballotsByParty } from '$lib/dossier/divisions';
 	import { partyColor, partyLabel } from '$lib/dossier/parties';
+	import { agreedAmendmentTexts, debateItemOf, itemTitle, memberNamed, readMotion, tabledTextFor, targetLabel } from '$lib/stage/votes';
+	import VoteChip from './VoteChip.svelte';
+	import VoteLegend from './VoteLegend.svelte';
 
 	let {
 		division,
 		speakers,
 		members = false,
 		items = [],
-		date = ''
+		divisions = [],
+		tabledTexts = [],
+		date = '',
+		context = true
 	}: {
 		division: Division;
 		speakers: Record<string, MemberLight>;
 		/** Also list every Member's own ballot under their party. */
 		members?: boolean;
 		items?: SittingItem[];
+		/** Sibling divisions of the sitting, to read which amendments were agreed. */
+		divisions?: Division[];
+		/** The sitting's printed motions and amendments; with none, no text is shown. */
+		tabledTexts?: TabledText[];
 		date?: string;
+		/** Show the debate the vote belongs to; off when the surround already says. */
+		context?: boolean;
 	} = $props();
 
-	const VOTE_LABEL: Record<VoteCast, string> = {
-		for: 'For',
-		against: 'Against',
-		abstain: 'Abstain',
-		did_not_vote: 'Did not vote'
-	};
-
-	interface MotionContext {
-		itemNumber: number | null;
-		topic: string;
-		action: string | null;
-		tabledBy: string | null;
-		debateItem: SittingItem | null;
-	}
-
-	function parseContext(text: string, itemsList: SittingItem[]): MotionContext {
-		const match = text.match(/^Item\s+(\d+)\.\s*(.*?)(?:\.\s*(.*))?$/i);
-		if (!match) {
-			return { itemNumber: null, topic: text, action: null, tabledBy: null, debateItem: null };
-		}
-		const itemNum = parseInt(match[1], 10);
-		const topic = match[2].trim();
-		const remainder = match[3]?.trim() ?? null;
-
-		let action = remainder;
-		let tabledBy: string | null = null;
-
-		if (remainder) {
-			const tabledMatch = remainder.match(/tabled\s+in\s+the\s+name\s+of\s+([^.]+)/i);
-			if (tabledMatch) {
-				tabledBy = tabledMatch[1].trim();
-			}
-		}
-
-		let debateItem = itemsList.find((i) => i.order + 1 === itemNum) ?? null;
-		if (!debateItem && topic) {
-			const cleanTopic = topic.toLowerCase().replace(/[^a-z0-9]/g, '');
-			debateItem = itemsList.find((i) => i.title_en.toLowerCase().replace(/[^a-z0-9]/g, '').includes(cleanTopic)) ?? null;
-		}
-
-		return { itemNumber: itemNum, topic, action, tabledBy, debateItem };
-	}
-
-	const ctx = $derived(parseContext(division.motion_text, items));
+	const reading = $derived(readMotion(division.motion_text));
+	const debateItem = $derived(debateItemOf(division, items));
 	const rows = $derived(ballotsByParty(division, speakers));
+	const votedText = $derived(context ? tabledTextFor(division, { items, tabled_texts: tabledTexts }) : null);
+	const agreedTexts = $derived(context && reading.target.kind === 'motion_as_amended' ? agreedAmendmentTexts(division, divisions, { items, tabled_texts: tabledTexts }) : []);
+	const lines = (t: TabledText) => t.text_english.split(/\n+/).map((l) => l.trim()).filter(Boolean);
+	const partyOf = (head: string) => memberNamed(head.replace(/^(?:Amendment\s+\d+|Motion\s+\S+)\s*[—–-]?\s*/i, ''), speakers)?.party_id ?? null;
 	const headingId = $derived(`${divisionAnchor(division.id)}-heading`);
 </script>
 
@@ -71,43 +46,68 @@
 	<p class="kicker">Division · Official division result</p>
 	<h3 id={headingId}>{division.motion_text}</h3>
 
-	<div class="debate-context">
-		<div class="context-pill">
-			<span class="context-kicker">Debate Business</span>
-			{#if ctx.debateItem}
-				<span class="context-item-title">{ctx.debateItem.title_en}</span>
-			{:else}
-				<span class="context-item-title">{ctx.topic}</span>
+	{#if context}
+		<div class="debate-context">
+			<p class="context-line">
+				<span class="context-kicker">{targetLabel(reading.target)}</span>
+				{#if reading.tabledBy}<span class="small">tabled in the name of <strong>{reading.tabledBy}</strong></span>{/if}
+			</p>
+			<p class="context-item-title">{debateItem ? itemTitle(debateItem.title_en) : reading.topic}</p>
+			{#if debateItem}
+				<div class="context-actions">
+					<a href="/register?item={encodeURIComponent(debateItem.id)}" class="context-link">Read the debate ({debateItem.contribution_count} contributions)</a>
+					{#if date}
+						<a href="/sitting/{date}?item={encodeURIComponent(debateItem.id)}" class="context-link secondary">Watch it in the chamber</a>
+					{/if}
+				</div>
 			{/if}
 		</div>
+	{/if}
 
-		{#if ctx.action}
-			<p class="context-detail">
-				<span class="action-type">{ctx.action}</span>
-				{#if ctx.tabledBy}
-					· <span class="tabled-by">Tabled by <strong>{ctx.tabledBy}</strong></span>
-				{/if}
+	{#if votedText}
+		{@const [head, ...body] = lines(votedText)}
+		{@const motionParty = partyOf(head)}
+		<details class="voted">
+			<summary>What was voted on <span class="badge small">{BADGE.verbatim} · as tabled</span></summary>
+			{#if reading.target.kind === 'motion_as_amended'}
+				<p class="small as-amended">
+					The Record prints no merged text. The Senedd agreed the motion as changed by
+					{agreedTexts.length ? `amendment${agreedTexts.length > 1 ? 's' : ''} ${agreedTexts.map((t) => t.amendment_number).join(', ')}` : 'no agreed amendment'}
+					(from the division results). Each agreed amendment is printed first, then the motion as tabled.
+				</p>
+				{#each agreedTexts as t (t.id)}
+					{@const [ahead, ...abody] = lines(t)}
+					{@const party = partyOf(ahead)}
+					<article class="tabled-item">
+						<p class="voted-head">
+							<span>{ahead}</span>
+							{#if party}<span class="party-tag" style:--party={partyColor(party)} title="Derived by Siambr from the Members register">{partyLabel(party)}</span>{/if}
+							<span class="outcome">Agreed</span>
+						</p>
+						<div class="text" lang="en">{#each abody as para, i (i)}<p>{para}</p>{/each}</div>
+					</article>
+				{/each}
+				<p class="kicker sub">The motion as tabled</p>
+			{/if}
+			<p class="voted-head">
+				<span>{head}</span>
+				{#if motionParty}<span class="party-tag" style:--party={partyColor(motionParty)} title="Derived by Siambr from the Members register">{partyLabel(motionParty)}</span>{/if}
 			</p>
-		{/if}
-
-		{#if ctx.debateItem}
-			<div class="context-actions">
-				<a href="/register?item={encodeURIComponent(ctx.debateItem.id)}" class="context-link">
-					Read debate & speeches ({ctx.debateItem.contribution_count} contributions) →
-				</a>
-				{#if date}
-					<a href="/sitting/{date}?item={encodeURIComponent(ctx.debateItem.id)}" class="context-link secondary">
-						Watch debate in chamber
-					</a>
-				{/if}
-			</div>
-		{/if}
-	</div>
+			<div class="text" lang="en">{#each body as para, i (i)}<p>{para}</p>{/each}</div>
+			{#if votedText.lang === 'cy'}
+				<details class="cy">
+					<summary class="small">Yn Gymraeg · as printed</summary>
+					<div class="text" lang="cy">{#each votedText.text_original.split(/\n+/).filter((l) => l.trim()) as para, i (i)}<p>{para}</p>{/each}</div>
+				</details>
+			{/if}
+		</details>
+	{/if}
 
 	<p class="tally">
 		<span data-numeric>{division.votes_for} For / {division.votes_against} Against / {division.votes_abstain} Abstain</span>
 		<strong>{division.result === 'agreed' ? 'Agreed' : 'Not agreed'}</strong>
 	</p>
+	<VoteLegend />
 
 	{#if rows.length}
 		<div class="table-wrap">
@@ -142,7 +142,7 @@
 					<summary><span class="swatch" style:background={partyColor(r.partyId)}></span>{partyLabel(r.partyId)}<span class="small" data-numeric>{r.members.length}</span></summary>
 					<ul>
 						{#each r.members as b (b.memberId)}
-							<li><a href={`/members/${b.memberId}`}>{b.name}</a><span class="small">{VOTE_LABEL[b.vote]}</span></li>
+							<li><a href={`/members/${b.memberId}`}>{b.name}</a><VoteChip vote={b.vote} /></li>
 						{/each}
 					</ul>
 				</details>
@@ -173,12 +173,12 @@
 		border-radius: 2px;
 	}
 
-	.context-pill {
+	.context-line {
 		display: flex;
 		flex-wrap: wrap;
 		align-items: baseline;
 		gap: 0.5rem;
-		margin-bottom: 0.25rem;
+		margin: 0 0 0.2rem;
 	}
 
 	.context-kicker {
@@ -190,20 +190,11 @@
 	}
 
 	.context-item-title {
+		margin: 0;
 		font-family: var(--font-serif);
 		font-weight: 600;
 		color: var(--color-ink);
 		font-size: 1.05rem;
-	}
-
-	.context-detail {
-		margin: 0.2rem 0 0.5rem;
-		font-size: var(--text-small);
-		color: var(--color-body-text);
-	}
-
-	.action-type {
-		font-weight: 600;
 	}
 
 	.context-actions {
@@ -226,11 +217,85 @@
 		color: var(--color-body-text);
 	}
 
+	.voted {
+		margin: 0 0 1rem;
+		border-left: 3px solid var(--color-border);
+		padding-left: 0.75rem;
+	}
+
+	.voted > summary {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 0.5rem;
+		align-items: baseline;
+		min-height: var(--tap-min);
+		cursor: pointer;
+		font-weight: 600;
+	}
+
+	.voted-head {
+		display: flex;
+		flex-wrap: wrap;
+		align-items: center;
+		gap: 0.5rem;
+		margin: 0.5rem 0;
+		font: 600 1rem var(--font-serif);
+		color: var(--color-ink);
+	}
+
+	.party-tag {
+		padding: 0 0.45rem;
+		font: 600 var(--text-kicker) var(--font-sans);
+		color: var(--color-ground);
+		background: var(--party);
+		border-radius: var(--rounded-pill);
+	}
+
+	.outcome {
+		padding: 0.1rem 0.5rem;
+		background: var(--color-success);
+		color: var(--color-ground);
+		font: 700 var(--text-kicker) var(--font-sans);
+		text-transform: uppercase;
+		letter-spacing: 0.06em;
+	}
+
+	.as-amended {
+		margin: 0.5rem 0;
+		color: var(--color-body-text);
+	}
+
+	.tabled-item {
+		padding: 0.25rem 0 0.25rem 0.75rem;
+		border-left: 3px solid var(--color-timber-cedar);
+		margin-bottom: 0.75rem;
+	}
+
+	.kicker.sub {
+		margin: 0.25rem 0 0;
+	}
+
+	.text p {
+		font-size: 0.95rem;
+		line-height: 1.55;
+		margin: 0 0 0.6em;
+	}
+
+	.cy summary {
+		cursor: pointer;
+		color: var(--color-body-text);
+	}
+
 	.tally {
 		display: flex;
 		flex-wrap: wrap;
 		gap: 0.5rem 1rem;
+		margin-bottom: 0.5rem;
 		color: var(--color-ink);
+	}
+
+	.division > :global(.legend) {
+		margin-bottom: 1rem;
 	}
 
 	.table-wrap {

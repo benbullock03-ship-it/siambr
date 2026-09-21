@@ -206,10 +206,15 @@ describe('divisions on the real sitting of 24 June 2026', () => {
 		}
 	});
 
-	it('follows the item’s last timed contribution and badges its placement derived', () => {
+	it('follows the contribution that calls it and badges its placement derived', () => {
 		for (const beat of beats) {
-			const timed = timeline.beats.filter((b) => b.itemId === beat.itemId && b.kind === 'contribution' && b.timed);
-			expect(beat.t).toBeGreaterThanOrEqual(Math.max(...timed.map((b) => b.t)));
+			expect(beat.calledBy).not.toBeNull();
+			const caller = timeline.beats[timeline.beatIndexByContributionId.get(beat.calledBy!)!];
+			expect(caller.kind).toBe('contribution');
+			expect(beat.t).toBeGreaterThanOrEqual(caller.tEnd);
+			// Nothing else of the item speaks between the call and the vote.
+			const between = timeline.beats.slice(caller.index + 1, beat.index).filter((b) => b.kind === 'contribution' && b.timed);
+			expect(between).toEqual([]);
 			expect(beat.placement).toBe(PROVENANCE_DERIVED);
 		}
 	});

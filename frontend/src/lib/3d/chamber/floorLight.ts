@@ -10,9 +10,6 @@ export const FLOOR_LIGHT = {
 	worktopLit: '#e6c58c',
 	screen: '#1b1e22',
 	screenLit: '#e7eef4',
-	/** Mixed into the party tab once a Member has spoken. */
-	tabWarm: '#fff1d6',
-	tabWarmMix: 0.45,
 	pool: '#ffd28a'
 } as const;
 

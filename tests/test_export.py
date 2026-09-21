@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import json
+import re
 import tempfile
 import unittest
 from pathlib import Path
@@ -60,6 +61,13 @@ class ExportTests(unittest.TestCase):
             self.assertEqual(c["t_start"], gold[c["id"]]["video_timestamp_start"])
         self.assertEqual(sitting["provenance"]["t_end_derived"], "PROVENANCE_DERIVED")
         self.assertTrue(all(i["classification_provenance"] == "PROVENANCE_DERIVED" for i in sitting["items"]))
+        tabled = {r["id"]: r for r in self.conn.execute("SELECT * FROM tabled_texts")}
+        self.assertTrue(tabled)
+        self.assertEqual(len(sitting["tabled_texts"]), len(tabled))
+        for t in sitting["tabled_texts"]:
+            self.assertEqual(t["text_original"], tabled[t["id"]]["text_original"])
+            self.assertEqual(t["text_english"], tabled[t["id"]]["text_english"])
+            self.assertEqual(t["kind"], tabled[t["id"]]["kind"])
 
     def test_t_end_derived_is_the_next_timed_start(self):
         sitting = read(self.out / "sittings" / "2026-07-15.json")
@@ -94,6 +102,33 @@ class ExportTests(unittest.TestCase):
         division = read(self.out / "sittings" / "2026-07-15.json")["divisions"][0]
         self.assertEqual(division["source_url"], "https://record.senedd.wales/XMLExport/Download?meetingID=16086&xmlDownloadType=Votes")
         self.assertEqual(division["votes"], {member_id: "for"})
+
+    def test_member_ballot_points_at_the_debate_its_motion_text_names(self):
+        items = self.conn.execute(
+            "SELECT id, item_order, title_en FROM agenda_items ORDER BY item_order").fetchall()
+        voting_time = items[-1]["id"]
+        debate = items[0]
+        member_id = self.conn.execute("SELECT id FROM members LIMIT 1").fetchone()["id"]
+        number = int(m.group(1)) if (m := re.match(r"^\s*(\d+)\.", debate["title_en"] or "")) else debate["item_order"] + 1
+        self.conn.execute(
+            """INSERT INTO division_votes (id, agenda_item_id, motion_text, votes_for, votes_against, votes_abstain, result)
+               VALUES ('division-16086-1', ?, ?, 1, 0, 0, 'agreed')""",
+            (voting_time, f"Item {number}. Some debate. Motion without amendment"))
+        self.conn.execute(
+            """INSERT INTO division_votes (id, agenda_item_id, motion_text, votes_for, votes_against, votes_abstain, result)
+               VALUES ('division-16086-2', ?, 'Item 999. No such debate. Motion', 0, 1, 0, 'negatived')""", (voting_time,))
+        for div, cast in (("division-16086-1", "for"), ("division-16086-2", "against")):
+            self.conn.execute("INSERT INTO member_votes (division_id, member_id, vote_cast) VALUES (?, ?, ?)", (div, member_id, cast))
+        export_connection(self.conn, self.out)
+        ballots = {b["division_id"]: b for b in read(self.out / "members" / f"{member_id}.json")["ballots"]}
+        self.assertEqual(ballots["division-16086-1"]["debate_item_id"], debate["id"])
+        self.assertEqual(ballots["division-16086-1"]["debate_item_title_en"], debate["title_en"])
+        self.assertIsNone(ballots["division-16086-2"]["debate_item_id"])
+        self.assertIsNone(ballots["division-16086-2"]["debate_item_title_en"])
+        self.assertEqual(ballots["division-16086-2"]["item_id"], voting_time)
+        first = {p.relative_to(self.out): p.read_bytes() for p in self.out.rglob("*.json")}
+        export_connection(self.conn, self.out)
+        self.assertEqual(first, {p.relative_to(self.out): p.read_bytes() for p in self.out.rglob("*.json")})
 
     def test_sittings_index_is_newest_first_with_item_speakers(self):
         index = read(self.out / "sittings" / "index.json")

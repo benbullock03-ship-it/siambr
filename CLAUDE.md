@@ -75,7 +75,9 @@ Source of truth: `pipeline/migrations/*.sql` (applied by `python -m pipeline.app
     - `division_id`, `member_id`, `vote_cast` (`for`/`against`/`abstain`/`did_not_vote`).
 12. **`citizen_petitions`** (optional; empty until data exists):
     - `id`, `title_en`, `title_cy`, `petitioner_name`, `signature_count`, `opened_date`, `closing_date`, `status`, `committee_response`, `debate_agenda_item_id`, `source_url`.
-13. **`sync_runs`**:
+13. **`tabled_texts`** (migration 008; the Record's `contribution_type` I rows, verbatim):
+    - `id`, `agenda_item_id`, `sequence_number`, `kind` (`motion`/`amendment`/`note`), `amendment_number`, `original_language`, `text_original`, `text_english`. Exported as `sittings/{date}.json` → `tabled_texts`.
+14. **`sync_runs`**:
     - `id`, `started_at`, `finished_at`, `sessions_changed`, `error`.
 
 `citizen_trails`, `citizen_trail_stops` and `spatial_plinths` are dropped by migration `005_withdraw_corridors.sql`.

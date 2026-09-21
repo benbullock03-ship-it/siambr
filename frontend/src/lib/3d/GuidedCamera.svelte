@@ -42,11 +42,14 @@
 		if (!camera || !deskMesh) return null;
 		toNdc(clientX, clientY);
 		raycaster.setFromCamera(ndc, camera);
-		const hit = raycaster.intersectObjects(llywyddHit ? [deskMesh, llywyddHit] : [deskMesh], true)[0];
-		if (!hit) return null;
-		if (hit.object === llywyddHit) return seatByDesk.get('llywydd') ?? null;
-		if (hit.instanceId === undefined) return null;
-		return seatByDesk.get(desks[hit.instanceId]?.id) ?? null;
+		// An empty desk is not a pick: the ray carries on to the seated desk behind it.
+		for (const hit of raycaster.intersectObjects(llywyddHit ? [deskMesh, llywyddHit] : [deskMesh], true)) {
+			if (hit.object === llywyddHit) return seatByDesk.get('llywydd') ?? null;
+			if (hit.instanceId === undefined) continue;
+			const seat = seatByDesk.get(desks[hit.instanceId]?.id);
+			if (seat) return seat;
+		}
+		return null;
 	}
 
 	useTask(() => {

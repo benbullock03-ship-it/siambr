@@ -3020,6 +3020,58 @@
       "role_title_en": null
     }
   },
+  "tabled_texts": [
+    {
+      "amendment_number": null,
+      "id": "tabled-762651",
+      "item_id": "item-16060-260602-3",
+      "kind": "motion",
+      "lang": "cy",
+      "seq": 0,
+      "text_english": "Motion NDM9241 Huw Irranca-Davies\n\nTo propose that the Senedd, in accordance with Standing Order 7.1, appoints Peredur Owen Griffiths (Plaid Cymru), Laura Anne Jones (Reform UK), Vikki Howells (Welsh Labour) and Andrew RT Davies (Welsh Conservatives), as members of the Senedd Commission.",
+      "text_original": "Cynnig NDM9241 Huw Irranca-Davies\n\nCynnig bod y Senedd, yn unol â Rheol Sefydlog 7.1, yn penodi Peredur Owen Griffiths (Plaid Cymru), Laura Anne Jones (Reform UK), Vikki Howells (Llafur Cymru) ac Andrew RT Davies (Ceidwadwyr Cymreig), yn aelodau o Gomisiwn y Senedd."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-762652",
+      "item_id": "item-16060-260602-3",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 1,
+      "text_english": "Motion moved.",
+      "text_original": "Cynigiwyd y cynnig."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-762731",
+      "item_id": "item-16060-260602-3",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 2,
+      "text_english": "Motion agreed in accordance with Standing Order 12.36.",
+      "text_original": "Derbyniwyd y cynnig yn unol â Rheol Sefydlog 12.36."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-762773",
+      "item_id": "item-16060-260602-4",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 0,
+      "text_english": "Information further to Plenary",
+      "text_original": "Gwybodaeth ychwanegol at y Cyfarfod Llawn"
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-762770",
+      "item_id": "item-16060-260602-6",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 0,
+      "text_english": "The meeting ended at 16:31.",
+      "text_original": "Daeth y cyfarfod i ben am 16:31."
+    }
+  ],
   "term": 7,
   "title_cy": "Cyfarfod Llawn",
   "title_en": "Plenary",

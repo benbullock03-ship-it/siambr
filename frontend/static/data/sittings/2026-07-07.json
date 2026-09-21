@@ -5542,6 +5542,138 @@
       "role_title_en": null
     }
   },
+  "tabled_texts": [
+    {
+      "amendment_number": null,
+      "id": "tabled-766523",
+      "item_id": "item-16083-260707-2",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 0,
+      "text_english": "The Deputy Presiding Officer (Kerry Ferguson) took the Chair.",
+      "text_original": "Daeth y Dirprwy Lywydd (Kerry Ferguson) i’r Gadair."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-766616",
+      "item_id": "item-16083-260707-5",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 0,
+      "text_english": "The Llywydd (Huw Irranca-Davies) took the Chair.",
+      "text_original": "Daeth y Llywydd (Huw Irranca-Davies) i’r Gadair."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-766630",
+      "item_id": "item-16083-260707-7",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 0,
+      "text_english": "The following amendments have been selected: amendment 1 in the name of Lynne Neagle, amendment 2 in the name of Llŷr Powell, and amendment 3 in the name of Paul Davies. If amendment 1 is agreed, amendments 2 and 3 will be deselected. If amendment 2 is agreed, amendment 3 will be deselected.",
+      "text_original": "Detholwyd y gwelliannau canlynol: gwelliant 1 yn enw Lynne Neagle, gwelliant 2 yn enw Llŷr Powell, a gwelliant 3 yn enw Paul Davies. Os derbynnir gwelliant 1, caiff gwelliannau 2 a 3 eu dad-ddethol. Os derbynnir gwelliant 2, caiff gwelliant 3 ei ddad-ddethol."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-766632",
+      "item_id": "item-16083-260707-7",
+      "kind": "motion",
+      "lang": "cy",
+      "seq": 1,
+      "text_english": "Motion NDM9282 Heledd Fychan\n\nSupported by Anthony Slaughter\n\nTo propose that the Senedd:\n\n1. Supports the Welsh Government in making representations to the UK Government to:\n\na) improve the fiscal arrangements within which the Welsh Government operates, including increased borrowing powers; and\n\nb) reform the Barnett formula to deliver fairer funding for Wales.",
+      "text_original": "Cynnig NDM9282 Heledd Fychan\n\nCefnogwyd gan Anthony Slaughter\n\nCynnig bod y Senedd:\n\n1. Yn cefnogi Llywodraeth Cymru i gyflwyno sylwadau i Lywodraeth y DU ynghylch:\n\na) gwella'r trefniadau cyllidol y mae Llywodraeth Cymru yn gweithredu oddi mewn iddynt, gan gynnwys mwy o bwerau benthyca; a\n\nb) diwygio fformiwla Barnett i ddarparu cyllid tecach i Gymru."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-766633",
+      "item_id": "item-16083-260707-7",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 2,
+      "text_english": "Motion moved.",
+      "text_original": "Cynigiwyd y cynnig."
+    },
+    {
+      "amendment_number": 1,
+      "id": "tabled-766664",
+      "item_id": "item-16083-260707-7",
+      "kind": "amendment",
+      "lang": "cy",
+      "seq": 3,
+      "text_english": "Amendment 1—Lynne Neagle\n\nDelete all and replace with:\n\nTo propose that the Senedd:\n\n1. Recognises that redistribution of wealth is a major benefit of being part of the United Kingdom.\n\n2. Recognises that the United Kingdom is the most centralised and economically imbalanced country in western Europe.\n\n3. Agrees that Scottish Government resistance to reforming the Barnett formula should be the primary focus of the Welsh Government’s engagement with the Scottish Government.\n\n4. Calls on the Welsh Government to report quarterly to the Senedd on progress in influencing change to the Scottish Government’s position and in seeking and delivering a fairer settlement for the nation and regions of Wales.",
+      "text_original": "Gwelliant 1—Lynne Neagle\n\nDileu'r cyfan a rhoi yn ei le:\n\nCynnig bod y Senedd:\n\n1. Yn cydnabod bod ailddosbarthu cyfoeth yn fantais fawr o fod yn rhan o'r Deyrnas Unedig.\n\n2. Yn cydnabod mai'r Deyrnas Unedig yw'r wlad fwyaf canoledig a mwyaf economaidd anghytbwys yng ngorllewin Ewrop.\n\n3. Yn cytuno y dylai gwrthwynebiad Llywodraeth yr Alban i ddiwygio fformiwla Barnett fod yn brif ffocws gwaith ymgysylltu Llywodraeth Cymru â Llywodraeth yr Alban.\n\n4. Yn galw ar Lywodraeth Cymru i adrodd bob chwarter i'r Senedd ar gynnydd o ran dylanwadu ar newid i safbwynt Llywodraeth yr Alban ac o ran ceisio a sicrhau setliad tecach i genedl a rhanbarthau Cymru."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-766665",
+      "item_id": "item-16083-260707-7",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 4,
+      "text_english": "Amendment 1 moved.",
+      "text_original": "Cynigiwyd gwelliant 1."
+    },
+    {
+      "amendment_number": 2,
+      "id": "tabled-766647",
+      "item_id": "item-16083-260707-7",
+      "kind": "amendment",
+      "lang": "cy",
+      "seq": 5,
+      "text_english": "Amendment 2—Llŷr Powell\n\nSupported by Andrew Griffin\n\nDelete all and replace with:\n\nTo propose that the Senedd:\n\n1. Notes the Institute for Fiscal Studies’ latest analysis that reforming the Barnett formula could result in Wales receiving £1 billion less a year in funding.\n\n2. Calls on the Welsh Government to focus spending on devolved areas.\n\n3. Calls on the UK Government to cut international spending to deliver fairer funding for Wales.",
+      "text_original": "Gwelliant 2—Llŷr Powell\n\nCefnogwyd gan Andrew Griffin\n\nDileu'r cyfan a rhoi yn ei le:\n\nCynnig bod y Senedd:\n\n1. Yn nodi dadansoddiad diweddaraf y Sefydliad Astudiaethau Cyllid y gallai diwygio fformiwla Barnett arwain at Gymru yn cael £1 biliwn yn llai o gyllid y flwyddyn.\n\n2. Yn galw ar Lywodraeth Cymru i ganolbwyntio gwariant ar feysydd datganoledig.\n\n3. Yn galw ar Lywodraeth y DU i dorri gwariant rhyngwladol er mwyn sicrhau trefniadau ariannu tecach i Gymru."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-766648",
+      "item_id": "item-16083-260707-7",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 6,
+      "text_english": "Amendment 2 moved.",
+      "text_original": "Cynigiwyd gwelliant 2."
+    },
+    {
+      "amendment_number": 3,
+      "id": "tabled-766639",
+      "item_id": "item-16083-260707-7",
+      "kind": "amendment",
+      "lang": "cy",
+      "seq": 7,
+      "text_english": "Amendment 3—Paul Davies\n\nDelete all and replace with:\n\nTo propose that the Senedd:\n\n1. Believes that Wales deserves fair funding.\n\n2. Notes that:\n\na) the previous UK Conservative Government introduced a Fiscal Framework in 2016 which introduced a need-based factor into the funding formula for Wales; and\n\nb) the Institute for Fiscal Studies concluded that the Welsh Government received around 25 per cent more UK Government funding per resident than is spent on comparable services in England as of 2024-25.\n\n3. Recognises the risks associated with a review of the Welsh Fiscal Framework.\n\n4. Calls on the Welsh Government to use its existing budgets in a way that delivers better value for money for Welsh taxpayers.",
+      "text_original": "Gwelliant 3—Paul Davies\n\nDileu'r cyfan a rhoi yn ei le:\n\nCynnig bod y Senedd:\n\n1. Yn credu bod Cymru yn haeddu trefniadau ariannu teg.\n\n2. Yn nodi:\n\na) bod Llywodraeth Geidwadol flaenorol y DU wedi cyflwyno Fframwaith Cyllidol yn 2016 a gyflwynodd ffactor yn seiliedig ar anghenion yn y fformiwla ariannu ar gyfer Cymru; a\n\nb) y daeth y Sefydliad Astudiaethau Cyllid i'r casgliad bod Llywodraeth Cymru wedi cael tua 25 y cant yn fwy o gyllid gan Lywodraeth y DU fesul preswylydd nag a wariwyd ar wasanaethau tebyg yn Lloegr yn 2024-25.\n\n3. Yn cydnabod y risgiau sy'n gysylltiedig ag adolygiad o Fframwaith Cyllidol Cymru.\n\n4. Yn galw ar Lywodraeth Cymru i ddefnyddio ei chyllidebau presennol mewn ffordd sy'n cynnig gwell gwerth am arian i drethdalwyr Cymru."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-766640",
+      "item_id": "item-16083-260707-7",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 8,
+      "text_english": "Amendment 3 moved.",
+      "text_original": "Cynigiwyd gwelliant 3."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-766672",
+      "item_id": "item-16083-260707-7",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 9,
+      "text_english": "Voting deferred until voting time.",
+      "text_original": "Gohiriwyd y pleidleisio tan y cyfnod pleidleisio."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-766698",
+      "item_id": "item-16083-260707-8",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 0,
+      "text_english": "The meeting ended at 19:10.",
+      "text_original": "Daeth y cyfarfod i ben am 19:10."
+    }
+  ],
   "term": 7,
   "title_cy": "Cyfarfod Llawn",
   "title_en": "Plenary",

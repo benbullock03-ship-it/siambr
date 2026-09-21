@@ -1209,6 +1209,78 @@
       "role_title_en": null
     }
   },
+  "tabled_texts": [
+    {
+      "amendment_number": null,
+      "id": "tabled-762407",
+      "item_id": "item-16053-260519-1",
+      "kind": "motion",
+      "lang": "cy",
+      "seq": 0,
+      "text_english": "Motion NNDM9236 Heledd Fychan\n\nTo propose that the Senedd, in accordance with Standing Order 11.3:\n\nAppoints the Presiding Officer, Heledd Fychan (Plaid Cymru), Llŷr Powell (Reform UK), Lynne Neagle (Welsh Labour), and Paul Davies (Welsh Conservatives) as members of the Business Committee.",
+      "text_original": "Cynnig NNDM9236 Heledd Fychan\n\nCynnig bod y Senedd, yn unol a Rheol Sefydlog 11.3:\n\nYn penodi'r Llywydd, Heledd Fychan (Plaid Cymru), Llŷr Powell (Reform UK), Lynne Neagle (Llafur Cymru), a Paul Davies (y Ceidwadwyr Cymreig) yn aelodau o'r Pwyllgor Busnes."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-762408",
+      "item_id": "item-16053-260519-1",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 1,
+      "text_english": "Motion moved.",
+      "text_original": "Cynigiwyd y cynnig."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-762414",
+      "item_id": "item-16053-260519-1",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 2,
+      "text_english": "Motion agreed in accordance with Standing Order 12.36.",
+      "text_original": "Derbyniwyd y cynnig yn unol â Rheol Sefydlog 12.36."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-762418",
+      "item_id": "item-16053-260519-2",
+      "kind": "motion",
+      "lang": "cy",
+      "seq": 0,
+      "text_english": "Motion NNDM9237 Heledd Fychan\n\nTo propose that the Senedd, under Standing Order 12.10(ii), agrees the proposal for the following items to be taken at the next Plenary meeting:\n\nQuestions to the First Minister;\n\nMotion under Standing Order 9.1 to agree to the First Minister's recommendation to His Majesty of a person for appointment as Counsel General;\n\nBusiness statement and announcement.",
+      "text_original": "Cynnig NNDM9237 Heledd Fychan\n\nCynnig bod y Senedd, o dan Reol Sefydlog 12.10(ii), yn cytuno i'r cynnig i'r eitemau canlynol gael eu cymryd yn y Cyfarfod Llawn nesaf:\n\nCwestiynau i’r Prif Weinidog;\n\nCynnig o dan Reol Sefydlog 9.1 i gytuno i argymhelliad y Prif Weinidog i'w Fawrhydi i berson gael ei benodi'n Gwnsler Cyffredinol;\n\nDatganiad a chyhoeddiad busnes."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-762419",
+      "item_id": "item-16053-260519-2",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 1,
+      "text_english": "Motion moved.",
+      "text_original": "Cynigiwyd y cynnig."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-762426",
+      "item_id": "item-16053-260519-2",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 2,
+      "text_english": "Motion agreed in accordance with Standing Order 12.36.",
+      "text_original": "Derbyniwyd y cynnig yn unol â Rheol Sefydlog 12.36."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-762492",
+      "item_id": "item-16053-260519-3",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 0,
+      "text_english": "The meeting ended at 14:50.",
+      "text_original": "Daeth y cyfarfod i ben am 14:50."
+    }
+  ],
   "term": 7,
   "title_cy": "Cyfarfod Llawn",
   "title_en": "Plenary",

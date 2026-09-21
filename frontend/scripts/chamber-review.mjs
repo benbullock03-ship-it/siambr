@@ -2,11 +2,13 @@
 // so the real GPU draws them. Usage: node scripts/chamber-review.mjs <pass-label> [baseUrl]
 import { chromium } from '@playwright/test';
 import { mkdirSync } from 'node:fs';
-import { resolve } from 'node:path';
+import { dirname, resolve } from 'node:path';
 
 const label = process.argv[2] ?? 'pass';
 const base = process.argv[3] ?? 'http://127.0.0.1:5176';
 const date = process.env.SITTING ?? '2026-09-16';
+// T= places the clock; a division beat's start shows the desks tinted (T-25 pass4).
+const t = process.env.T ?? '0';
 const out = resolve('../docs/chamber-review');
 mkdirSync(out, { recursive: true });
 
@@ -32,11 +34,12 @@ const browser = await chromium.launch({
 const page = await browser.newPage({ viewport: { width: 1518, height: 854 } });
 page.on('pageerror', (e) => console.error('pageerror', e.message));
 for (const s of shots) {
-	await page.goto(`${base}/sitting/${date}?t=0&${s.query}`);
+	await page.goto(`${base}/sitting/${date}?t=${t}&${s.query}`);
 	await page.waitForSelector('canvas', { timeout: 60_000 });
 	await page.addStyleTag({ content: '.stage > :not(.chamber), .chamber > :not(.canvas) { visibility: hidden !important; }' });
 	await page.waitForTimeout(4000);
 	const file = resolve(out, `${label}-${s.name}.png`);
+	mkdirSync(dirname(file), { recursive: true });
 	await page.locator('canvas').screenshot({ path: file });
 	const backend = await page.evaluate(() => document.querySelector('.engine')?.textContent ?? 'no badge');
 	console.log('wrote', file, backend);

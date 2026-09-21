@@ -43,15 +43,8 @@ export const CHAMBER_TONES = {
 	roundelLight: '#8fbbd6'
 } as const;
 
-/**
- * Division tints for the desks: chamber tones, deliberately not party colours, chosen so the
- * three stay apart under deuteranopia as well as normal vision (see divisionLight.test.ts).
- */
-export const DIVISION_TONES = {
-	for: '#1c5f9c',
-	against: '#e0912f',
-	abstain: '#a9adb2'
-} as const;
+/** Division tints live in $lib/stage/voteTones so the Register shares them without three.js. */
+export { DIVISION_TONES } from '$lib/stage/voteTones';
 
 export const SLATE = {
 	riven: '#4c5359',

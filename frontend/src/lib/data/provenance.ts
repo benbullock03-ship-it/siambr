@@ -6,6 +6,7 @@ export const BADGE = {
 	division: 'Official division result',
 	arranged: 'Arranged by Siambr',
 	timestamps: 'Derived from timestamps',
+	counted: 'Counted by Siambr',
 	topic: 'Derived topic cluster'
 } as const;
 

@@ -65,6 +65,7 @@ export function dossier(overrides: Partial<Dossier> = {}): Dossier {
 		},
 		contributions: [],
 		divisions: [],
+		tabled_texts: [],
 		speakers: {},
 		...overrides
 	};

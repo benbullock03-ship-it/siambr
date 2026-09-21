@@ -2,6 +2,7 @@
 	import { BADGE } from '$lib/data/provenance';
 	import type { MemberContribution } from '$lib/data/types';
 	import { partyColor, partyLabel } from '$lib/dossier/parties';
+	import BallotHistory from '$lib/hud/BallotHistory.svelte';
 	import ExternalLink from '$lib/hud/ExternalLink.svelte';
 
 	let { data } = $props();
@@ -18,7 +19,6 @@
 			.map((w) => w[0])
 			.slice(0, 2)
 			.join('');
-	const VOTE_LABEL: Record<string, string> = { for: 'For', against: 'Against', abstain: 'Abstain', did_not_vote: 'Did not vote' };
 	const chamberHref = (date: string, s: MemberContribution) => (s.t_start === null ? null : `/sitting/${date}?t=${s.t_start}&speech=${encodeURIComponent(s.id)}`);
 	const span = (start: string, end: string | null) => `${start} to ${end ?? 'present'}`;
 </script>
@@ -120,30 +120,8 @@
 	</section>
 
 	<section class="record" aria-labelledby="votes">
-		<h2 id="votes">Roll-call divisions</h2>
-		{#if m.ballots.length}
-			<p class="small"><span data-numeric>{m.ballots.length.toLocaleString('en-GB')}</span> recorded votes. {BADGE.division}.</p>
-			<table class="ballots">
-				<thead>
-					<tr><th scope="col">Date</th><th scope="col">Motion</th><th scope="col">Vote</th><th scope="col">Result</th></tr>
-				</thead>
-				<tbody>
-					{#each m.ballots as b (b.division_id)}
-						<tr>
-							<td><time datetime={b.date}>{b.date}</time></td>
-							<td>
-								<a href="/register?item={encodeURIComponent(b.item_id)}">{b.item_title_en}</a>
-								<span class="small motion">{b.motion_text}</span>
-							</td>
-							<td data-numeric>{VOTE_LABEL[b.vote_cast] ?? b.vote_cast}</td>
-							<td>{b.result === 'agreed' ? 'Agreed' : 'Negatived'}</td>
-						</tr>
-					{/each}
-				</tbody>
-			</table>
-		{:else}
-			<p>No roll-call divisions on record for this Member.</p>
-		{/if}
+		<h2 id="votes">Roll-call divisions, by sitting day</h2>
+		<BallotHistory ballots={m.ballots} openDays={OPEN_DAYS} headingId="votes" />
 	</section>
 
 	<footer class="citation small">
@@ -330,25 +308,6 @@
 		flex-wrap: wrap;
 		gap: 0.75rem;
 		margin: 0.5rem 0 0;
-		color: var(--color-body-text);
-	}
-
-	.ballots {
-		width: 100%;
-		border-collapse: collapse;
-		font-size: var(--text-small);
-	}
-
-	.ballots th,
-	.ballots td {
-		padding: 0.5rem 0.5rem 0.5rem 0;
-		text-align: left;
-		vertical-align: top;
-		border-bottom: 1px solid var(--color-border);
-	}
-
-	.motion {
-		display: block;
 		color: var(--color-body-text);
 	}
 

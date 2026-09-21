@@ -1,6 +1,8 @@
 <script lang="ts">
 	import type { Sitting } from '$lib/data/types';
 	import { wallClockAt, type SittingClock } from '../clock.svelte';
+	import { debateItemOf, itemTitle, memberNamed, readMotion, targetLabel } from '../votes';
+	import { partyLabel } from '$lib/dossier/parties';
 
 	let { clock, sitting }: { clock: SittingClock; sitting: Sitting } = $props();
 
@@ -8,6 +10,16 @@
 	const live = $derived(clock.floor.live);
 	const liveIndex = $derived(live?.index ?? -1);
 	const name = (memberId: string) => sitting.speakers[memberId]?.canonical_name ?? memberId;
+	/** Which debate each division decided, by the item number printed in its motion text. Derived. */
+	const debateOf = $derived(new Map(sitting.divisions.map((d) => [d.id, debateItemOf(d, sitting.items)])));
+	const votesOn = $derived.by(() => {
+		const out = new Map<string, number>();
+		for (const d of sitting.divisions) {
+			const id = debateOf.get(d.id)?.id;
+			if (id) out.set(id, (out.get(id) ?? 0) + 1);
+		}
+		return out;
+	});
 	/** Record order per item: each contribution paired with its beat, then the item's divisions. */
 	const rows = $derived(
 		timeline.items.map((item) => {
@@ -28,13 +40,21 @@
 		if (id && open[id] === undefined) open[id] = true;
 	});
 	const isOpen = (id: string) => open[id] ?? id === live?.itemId;
+	// The live row keeps itself in view as playback moves on.
+	let nav = $state<HTMLElement>();
+	$effect(() => {
+		void liveIndex;
+		nav?.querySelector('[aria-current="true"]')?.scrollIntoView({ block: 'nearest' });
+	});
 </script>
 
-<nav class="order" aria-label="Running order">
+<nav class="order" aria-label="Running order" bind:this={nav}>
 	{#each rows as { item, beats, divisions, all } (item.id)}
 		<details open={isOpen(item.id)} ontoggle={(e) => (open[item.id] = e.currentTarget.open)}>
 			<summary class:live={live?.itemId === item.id}>
 				<span class="title">{item.title_en}</span>
+				{#if divisions.length}<span class="votes small" data-numeric>{divisions.length} {divisions.length === 1 ? 'vote' : 'votes'}</span>{/if}
+				{#if votesOn.get(item.id)}<span class="votes small">to a vote</span>{/if}
 				<span class="count small" data-numeric>{beats.length}</span>
 			</summary>
 			{#if !beats.length && !divisions.length}
@@ -50,9 +70,16 @@
 								{#if beat.contribution.lang === 'cy'}<span class="lang small">cy</span>{/if}
 							</button>
 						{:else}
-							<button type="button" class="row division" aria-current={beat.index === liveIndex ? 'true' : undefined} onclick={() => clock.seek(beat.t)}>
-								<span class="time small">division</span>
-								<span class="who">{beat.division.result === 'agreed' ? 'Agreed' : 'Negatived'}: {beat.division.motion_text}</span>
+							{@const r = readMotion(beat.division.motion_text)}
+							{@const debate = debateOf.get(beat.division.id)}
+							{@const party = memberNamed(r.tabledBy, sitting.speakers)?.party_id}
+							<button type="button" class="row division" class:agreed={beat.division.result === 'agreed'} aria-current={beat.index === liveIndex ? 'true' : undefined} onclick={() => clock.seek(beat.t)}>
+								<span class="time small">Vote</span>
+								<span class="who">
+									<span class="question">{targetLabel(r.target)}{#if r.tabledBy} · {r.tabledBy}{/if}{#if party} <span class="tabler-party">{partyLabel(party)}</span>{/if}</span>
+									<span class="topic small">{debate ? itemTitle(debate.title_en) : r.topic}</span>
+								</span>
+								<span class="result small">{beat.division.result === 'agreed' ? 'Agreed' : 'Not agreed'}</span>
 							</button>
 						{/if}
 					</li>
@@ -140,10 +167,64 @@
 		color: var(--color-muted);
 	}
 
+	.row.division {
+		align-items: flex-start;
+		border-left: 3px solid var(--color-timber-cedar);
+		padding-left: calc(2rem - 3px);
+		background: rgb(200 125 74 / 0.08);
+	}
+
+	.row.division.agreed {
+		border-left-color: var(--color-success);
+	}
+
 	.row.division .time {
 		color: var(--color-timber-cedar-dark);
+		font-weight: 700;
 		text-transform: uppercase;
 		letter-spacing: 0.06em;
+	}
+
+	.row.division .who {
+		display: flex;
+		flex-direction: column;
+		gap: 0.1rem;
+	}
+
+	.question {
+		font-weight: 600;
+		color: var(--color-ink);
+	}
+
+	.topic {
+		color: var(--color-body-text);
+	}
+
+	.tabler-party {
+		font-weight: 400;
+		color: var(--color-muted);
+	}
+
+	.result {
+		flex-shrink: 0;
+		font-weight: 700;
+		text-transform: uppercase;
+		letter-spacing: 0.06em;
+		color: var(--color-timber-cedar-dark);
+	}
+
+	.agreed .result {
+		color: var(--color-success);
+	}
+
+	.votes {
+		padding: 0 0.35rem;
+		border: 1px solid var(--color-timber-cedar);
+		color: var(--color-timber-cedar-dark);
+		font-weight: 700;
+		text-transform: uppercase;
+		letter-spacing: 0.06em;
+		font-size: var(--text-kicker);
 	}
 
 	.empty {

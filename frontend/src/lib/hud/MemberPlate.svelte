@@ -1,11 +1,16 @@
 <script lang="ts">
 	import type { MemberFile } from '$lib/data/types';
 	import { partyColor, partyLabel } from '$lib/dossier/parties';
+	import BallotHistory from './BallotHistory.svelte';
 	import Drawer from './Drawer.svelte';
 	import ExternalLink from './ExternalLink.svelte';
 	import SpeechStack from './SpeechStack.svelte';
 
-	let { record, onclose }: { record: MemberFile; onclose: () => void } = $props();
+	let {
+		record,
+		onclose,
+		anchor = 'viewport'
+	}: { record: MemberFile; onclose: () => void; anchor?: 'viewport' | 'chamber' } = $props();
 
 	const LATEST = 25;
 	const m = $derived(record);
@@ -24,16 +29,9 @@
 			.map((w) => w[0])
 			.slice(0, 2)
 			.join('');
-
-	const VOTE_LABEL: Record<string, string> = {
-		for: 'For',
-		against: 'Against',
-		abstain: 'Abstain',
-		did_not_vote: 'Did not vote'
-	};
 </script>
 
-<Drawer {titleId} {onclose} closeLabel="Close record">
+<Drawer {titleId} {onclose} {anchor} closeLabel="Close record">
 	<header class="head">
 		{#if m.portrait_url && !portraitFailed}
 			<img class="portrait" src={m.portrait_url} alt="" width="72" height="72" loading="lazy" onerror={() => (portraitFailed = true)} />
@@ -106,30 +104,8 @@
 	</section>
 
 	<section aria-labelledby="{titleId}-votes">
-		<h3 id="{titleId}-votes" class="kicker">Roll-call divisions</h3>
-		{#if m.ballots.length}
-			<p class="small count"><span data-numeric>{m.ballots.length.toLocaleString('en-GB')}</span> recorded votes.</p>
-			<table class="ballots">
-				<thead>
-					<tr><th scope="col">Date</th><th scope="col">Motion</th><th scope="col">Vote</th><th scope="col">Result</th></tr>
-				</thead>
-				<tbody>
-					{#each m.ballots as b (b.division_id)}
-						<tr>
-							<td><time datetime={b.date}>{b.date}</time></td>
-							<td>
-								<a href="/register?item={encodeURIComponent(b.item_id)}">{b.item_title_en}</a>
-								<span class="small motion">{b.motion_text}</span>
-							</td>
-							<td data-numeric>{VOTE_LABEL[b.vote_cast] ?? b.vote_cast}</td>
-							<td>{b.result === 'agreed' ? 'Agreed' : 'Negatived'}</td>
-						</tr>
-					{/each}
-				</tbody>
-			</table>
-		{:else}
-			<p>No roll-call divisions on record for this Member.</p>
-		{/if}
+		<h3 id="{titleId}-votes" class="kicker">Roll-call divisions, by sitting day</h3>
+		<BallotHistory ballots={m.ballots} openDays={3} headingId="{titleId}-votes" />
 	</section>
 
 	<footer class="citation small">
@@ -235,29 +211,6 @@
 
 	summary {
 		cursor: pointer;
-		color: var(--color-body-text);
-	}
-
-	.ballots {
-		width: 100%;
-		border-collapse: collapse;
-	}
-
-	.ballots th,
-	.ballots td {
-		padding: 0.4rem 0.5rem;
-		border-bottom: 1px solid var(--color-border);
-		text-align: left;
-		vertical-align: top;
-	}
-
-	.ballots thead th {
-		font-size: var(--text-small);
-		color: var(--color-body-text);
-	}
-
-	.motion {
-		display: block;
 		color: var(--color-body-text);
 	}
 

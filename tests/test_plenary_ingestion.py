@@ -16,7 +16,7 @@ from unittest import mock
 from pipeline.adapters import plenary_xml
 from pipeline.adapters.http import SourceUnavailable
 from pipeline.members import canonical_id, strip_name
-from pipeline.plenary import classify_domain, classify_item_type, known_member_ids, normalise, write_session
+from pipeline.plenary import classify_domain, classify_item_type, classify_tabled, known_member_ids, normalise, write_session
 from tests.memory_db import memory_db
 
 FIXTURES = Path(__file__).parent / "fixtures"
@@ -44,6 +44,34 @@ def insert_speakers(conn, body: bytes) -> None:
                    official_profile_url, current_status) VALUES (?, 'Seat', 'Sedd', ?, 'https://senedd.wales/', 'active')""",
             (canonical_id(bare.replace(".", " ")), bare),
         )
+
+
+class TabledTextTests(unittest.TestCase):
+    def test_motion_and_amendment_headings_are_read_from_the_first_line(self):
+        self.assertEqual(classify_tabled("Motion NDM9293 Llŷr Powell\nTo propose that the Senedd:"), ("motion", None))
+        self.assertEqual(classify_tabled("Motion NNDM9001 Jane Hutt"), ("motion", None))
+        self.assertEqual(classify_tabled("Amendment 2—Heledd Fychan\nDelete all after point 1 and replace with:"), ("amendment", 2))
+        self.assertEqual(classify_tabled("Amendment 3 - Paul Davies"), ("amendment", 3))
+        self.assertEqual(classify_tabled("Motion moved."), ("note", None))
+        self.assertEqual(classify_tabled("Amendments 1 and 2 moved."), ("note", None))
+        self.assertEqual(classify_tabled("Voting deferred until voting time."), ("note", None))
+
+    def test_type_i_rows_are_kept_verbatim_as_tabled_texts_not_speech(self):
+        with memory_db() as conn:
+            insert_speakers(conn, MODERN)
+            n = normalise(MODERN, known_member_ids(conn), SOURCE)
+            kept = {i[0].split("-", 2)[2] for i in n.items}
+            rows = [r for r in plenary_xml.parse_transcript(MODERN)
+                    if r.contribution_type == "I" and r.agenda_item_id in kept]
+            self.assertTrue(rows)
+            self.assertEqual({t[0] for t in n.tabled_texts}, {f"tabled-{r.contribution_id}" for r in rows})
+            by_id = {f"tabled-{r.contribution_id}": r for r in rows}
+            for t in n.tabled_texts:
+                self.assertEqual(glyphs(t[6]), publisher_glyphs(by_id[t[0]].verbatim_html))
+                self.assertEqual(t[3], "note")
+            self.assertFalse({c[0] for c in n.contributions} & {f"contribution-{r.contribution_id}" for r in rows})
+            write_session(conn, n)
+            self.assertEqual(conn.execute("SELECT count(*) FROM tabled_texts").fetchone()[0], len(n.tabled_texts))
 
 
 class ParsingTests(unittest.TestCase):

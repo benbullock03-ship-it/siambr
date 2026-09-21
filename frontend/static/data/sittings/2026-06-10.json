@@ -5243,6 +5243,188 @@
       "role_title_en": null
     }
   },
+  "tabled_texts": [
+    {
+      "amendment_number": null,
+      "id": "tabled-763285",
+      "item_id": "item-16073-260610-2",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 0,
+      "text_english": "The Deputy Presiding Officer (Kerry Ferguson) took the Chair.",
+      "text_original": "Daeth y Dirprwy Lywydd (Kerry Ferguson) i’r Gadair."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-763413",
+      "item_id": "item-16073-260610-3",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 0,
+      "text_english": "The Llywydd (Huw Irranca-Davies) took the Chair.",
+      "text_original": "Daeth y Llywydd (Huw Irranca-Davies) i’r Gadair."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-763331",
+      "item_id": "item-16073-260610-5",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 0,
+      "text_english": "The following amendments have been selected: amendment 1 in the name of Heledd Fychan, and amendment 2 in the name of Lynne Neagle.",
+      "text_original": "Detholwyd y gwelliannau canlynol: gwelliant 1 yn enw Heledd Fychan, a gwelliant 2 yn enw Lynne Neagle."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-763333",
+      "item_id": "item-16073-260610-5",
+      "kind": "motion",
+      "lang": "cy",
+      "seq": 1,
+      "text_english": "Motion NDM9240 Dan Thomas\n\nSupported by Benjamin McKenna, Andrew Griffin, Sarah Cooper-Lesadd, Art Wright\n\nTo propose that the Senedd:\n\nCalls on the Welsh Government to publish the full costings and timetable for the introduction of their childcare offer within their first 100 days in government.",
+      "text_original": "Cynnig NDM9240 Dan Thomas\n\nCefnogwyd gan Benjamin McKenna, Andrew Griffin, Sarah Cooper-Lesadd, Art Wright\n\nCynnig bod y Senedd:\n\nYn galw ar Lywodraeth Cymru i gyhoeddi'r costau a'r amserlen lawn ar gyfer cyflwyno ei chynnig gofal plant o fewn ei 100 diwrnod cyntaf yn y llywodraeth."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-763334",
+      "item_id": "item-16073-260610-5",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 2,
+      "text_english": "Motion moved.",
+      "text_original": "Cynigiwyd y cynnig."
+    },
+    {
+      "amendment_number": 1,
+      "id": "tabled-763314",
+      "item_id": "item-16073-260610-5",
+      "kind": "amendment",
+      "lang": "cy",
+      "seq": 3,
+      "text_english": "Amendment 1—Heledd Fychan\n\nSupported by Gwyn Williams\n\nDelete all and replace with:\n\nTo propose that the Senedd:\n\n1. Notes that Reform UK had no commitments on childcare in its Welsh manifesto.\n\n2. Further notes the clear evidence that improving access to childcare would reduce child poverty in Wales, and that access to universal funded childcare would support parents to return to work or to increase their working hours.\n\n3. Recognises the Welsh Government’s commitment to provide an update on the initial costings and phasing for the expansion of universal childcare before the summer recess, in line with the commitments outlined in the First 100 Days plan.",
+      "text_original": "Gwelliant 1—Heledd Fychan\n\nCefnogwyd gan Gwyn Williams\n\nDileu popeth a rhoi yn ei le:\n\nCynnig bod y Senedd:\n\n1. Yn nodi nad oedd gan Reform UK unrhyw ymrwymiadau o ran gofal plant yn ei faniffesto ar gyfer Cymru.\n\n2. Yn nodi ymhellach y dystiolaeth glir y byddai gwella mynediad at ofal plant yn lleihau tlodi plant yng Nghymru, ac y byddai mynediad at ofal plant a ariennir i bawb yn cefnogi rhieni i ddychwelyd i’r gwaith neu gynyddu eu horiau gwaith. \n\n3. Yn cydnabod ymrwymiad Llywodraeth Cymru i roi diweddariad ar y costau a’r gwaith cyflwyno cychwynnol ar gyfer ehangu gofal plant i bawb cyn toriad yr haf, yn unol â’r ymrwymiadau a amlinellir yng nghynllun y 100 Diwrnod Cyntaf."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-763315",
+      "item_id": "item-16073-260610-5",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 4,
+      "text_english": "Amendment 1 moved.",
+      "text_original": "Cynigiwyd gwelliant 1."
+    },
+    {
+      "amendment_number": 2,
+      "id": "tabled-763324",
+      "item_id": "item-16073-260610-5",
+      "kind": "amendment",
+      "lang": "cy",
+      "seq": 5,
+      "text_english": "Amendment 2—Lynne Neagle\n\nAdd as new point at end of motion: \n\nRecognises the importance of high quality childcare to improving the life chances of children in Wales.",
+      "text_original": "Gwelliant 2—Lynne Neagle\n\nYchwanegu pwynt newydd ar ddiwedd y cynnig:\n\nYn cydnabod pwysigrwydd gofal plant o ansawdd uchel i wella cyfleoedd bywyd plant yng Nghymru."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-763325",
+      "item_id": "item-16073-260610-5",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 6,
+      "text_english": "Amendment 2 moved.",
+      "text_original": "Cynigiwyd gwelliant 2."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-763390",
+      "item_id": "item-16073-260610-5",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 7,
+      "text_english": "Voting deferred until voting time.",
+      "text_original": "Gohiriwyd y pleidleisio tan y cyfnod pleidleisio."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-763385",
+      "item_id": "item-16073-260610-6",
+      "kind": "motion",
+      "lang": "cy",
+      "seq": 0,
+      "text_english": "Motion NDM9243 Lynne Neagle\n\nSupported by Paul Rock\n\nTo propose that the Senedd:\n\nCalls on the Welsh Government to bring forward legislative proposals within the first year of this Senedd to establish a statutory school support staff negotiating body with year-round pay for school support staff as a first priority.",
+      "text_original": "Cynnig NDM9243 Lynne Neagle\n\nCefnogwyd gan Paul Rock\n\nCynnig bod y Senedd:\n\nYn galw ar Lywodraeth Cymru i gyflwyno cynigion deddfwriaethol o fewn blwyddyn gyntaf y Senedd hon i sefydlu corff negodi statudol ar gyfer staff cymorth ysgolion, gan roi blaenoriaeth gyntaf i sicrhau tâl drwy gydol y flwyddyn i staff cymorth ysgolion."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-763386",
+      "item_id": "item-16073-260610-6",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 1,
+      "text_english": "Motion moved.",
+      "text_original": "Cynigiwyd y cynnig."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-763461",
+      "item_id": "item-16073-260610-6",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 2,
+      "text_english": "The Deputy Presiding Officer (Kerry Ferguson) took the Chair.",
+      "text_original": "Daeth y Dirprwy Lywydd (Kerry Ferguson) i’r Gadair."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-763464",
+      "item_id": "item-16073-260610-6",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 3,
+      "text_english": "The Llywydd (Huw Irranca-Davies) took the Chair.",
+      "text_original": "Daeth y Llywydd (Huw Irranca-Davies) i’r Gadair."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-763419",
+      "item_id": "item-16073-260610-6",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 4,
+      "text_english": "Voting deferred until voting time.",
+      "text_original": "Gohiriwyd y pleidleisio tan y cyfnod pleidleisio."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-763423",
+      "item_id": "item-16073-260610-6",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 5,
+      "text_english": "Plenary was suspended at 17:04.",
+      "text_original": "Ataliwyd y Cyfarfod Llawn am 17:04."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-763462",
+      "item_id": "item-16073-260610-6",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 6,
+      "text_english": "The Senedd reconvened at 17:13, with the Llywydd in the Chair.",
+      "text_original": "Ailymgynullodd y Senedd am 17:13, gyda'r Llywydd yn y Gadair."
+    },
+    {
+      "amendment_number": null,
+      "id": "tabled-763460",
+      "item_id": "item-16073-260610-8",
+      "kind": "note",
+      "lang": "cy",
+      "seq": 0,
+      "text_english": "The meeting ended at 17:41.",
+      "text_original": "Daeth y cyfarfod i ben am 17:41."
+    }
+  ],
   "term": 7,
   "title_cy": "Cyfarfod Llawn",
   "title_en": "Plenary",
