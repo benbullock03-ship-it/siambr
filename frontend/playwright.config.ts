@@ -8,6 +8,8 @@ export default defineConfig({
 	testDir: 'e2e',
 	testIgnore: ['e2e/static/**'],
 	globalSetup: './e2e/global-setup.ts',
+	// Several stage tests on SwiftShader at once starve each other of the chamber's 20 s load budget.
+	workers: 2,
 	use: { baseURL: `http://127.0.0.1:${WEB_PORT}` },
 	webServer: {
 		command: `npx vite dev --host 127.0.0.1 --port ${WEB_PORT} --strictPort`,

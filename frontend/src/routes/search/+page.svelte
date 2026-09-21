@@ -90,7 +90,7 @@
 <main id="main">
 	<p class="kicker">Siambr · Search the Record</p>
 	<h1>Search contributions</h1>
-	<p class="lede">Every plenary contribution on record, searched in your browser. Results quote the Record of Proceedings verbatim.</p>
+	<p class="lede">Every Plenary contribution on record, searched in your browser. Results quote the Record of Proceedings verbatim.</p>
 
 	<form class="search" onsubmit={(e) => (e.preventDefault(), run())} role="search">
 		<label for="q">Search words, a Member or an item title</label>

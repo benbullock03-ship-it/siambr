@@ -100,7 +100,7 @@ All pipeline scripts run as package modules from the repository root:
 ## 5. Engineering Standards & Testing
 
 1. **Verbatim Fidelity Audits**:
-   `python -m tests.test_verbatim_provenance` fetches random sample speeches from live Senedd XMLs and diffs them against `siambr.db` character-by-character. Zero drift allowed.
+   `python -m pipeline.run_checks --sample 40` fetches the live Senedd XML for a random sample of speeches and diffs them byte-for-byte across Bronze, `siambr.db` and the exported JSON. Zero drift allowed; Senedd being unreachable reports "source unavailable" and passes (`--offline` skips the fetch).
 2. **No Invented Entities**:
    Tests parse the export and all UI components; seating, speaking time, derived end times, party shares and domain groupings must carry the `PROVENANCE_DERIVED` badge. Speaking time is a sum of Senedd's own `startPos` values, never an estimate.
 3. **Prose Linter (`scripts/check_prose.py`)**:
@@ -109,5 +109,6 @@ All pipeline scripts run as package modules from the repository root:
    The Stage HUD and every Register route pass headless axe checks; `prefers-reduced-motion: reduce` replaces camera easing with cuts, hides walk mode, and loads no three.js on the Register.
 5. **Static Only**:
    `frontend/src` must not reference `/api/`. Data comes from `frontend/static/data/**.json` written by `pipeline.export`, which must be deterministic (run twice, no diff).
-6. **Tickets**:
+6. **Gate commands** (all run in `deploy.yml`; `sync.yml` runs the verbatim and determinism gates only): `python -m unittest`, `python -m pipeline.run_checks --sample 40`, `python -m scripts.check_prose`, export determinism, and in `frontend/`: `npm run check`, `npm test` (includes the timeline and provenance gates), `npm run test:a11y`, `npm run test:perf` (reports only; SwiftShader cannot meet the frame bars).
+7. **Tickets**:
    Work follows `tickets/INDEX.md` in order. The current run starts at T-12.

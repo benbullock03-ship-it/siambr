@@ -533,6 +533,12 @@
 		background: var(--color-panel);
 	}
 
+	/* Muted grey reads 4.1:1 on the panel tint; the kicker needs 4.5:1 at 12 px. */
+	.vote-head .kicker,
+	.voted .kicker {
+		color: var(--color-body-text);
+	}
+
 	.voted .badge {
 		margin-bottom: 0.35rem;
 	}

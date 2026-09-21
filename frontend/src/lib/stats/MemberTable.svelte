@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { PROVENANCE_DERIVED } from '$lib/data/types';
 	import type { MemberStat } from '$lib/data/types';
 	import { partyColor, partyLabel } from '$lib/dossier/parties';
 	import { count, duration } from './format';
@@ -36,7 +37,7 @@
 	}
 </script>
 
-<table>
+<table data-provenance={PROVENANCE_DERIVED}>
 	<caption class="small">{caption}</caption>
 	<thead>
 		<tr>

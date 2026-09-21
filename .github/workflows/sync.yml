@@ -48,9 +48,22 @@ jobs:
             echo "changed=false" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Verify the record
+      # Fast path of the T-24 gates: verbatim against the live Record, then export determinism.
+      - name: Verbatim gate
         if: steps.changes.outputs.changed == 'true'
-        run: python -m pipeline.run_checks
+        run: python -m pipeline.run_checks --sample 40
+
+      - name: Export determinism
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          digest() { find frontend/static/data -type f -name '*.json' | sort | xargs sha256sum | sha256sum; }
+          before=$(digest)
+          python -m pipeline.export
+          after=$(digest)
+          if [ "$before" != "$after" ]; then
+            echo "::error::pipeline.export run twice on the same database wrote different JSON"
+            exit 1
+          fi
 
       - name: Commit Bronze, Gold and static data
         if: steps.changes.outputs.changed == 'true'

@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { PROVENANCE_DERIVED } from '$lib/data/types';
 	import type { Sitting } from '$lib/data/types';
 	import { wallClockAt, type SittingClock } from '../clock.svelte';
 	import { debateItemOf, itemTitle, memberNamed, readMotion, targetLabel } from '../votes';
@@ -48,7 +49,7 @@
 	});
 </script>
 
-<nav class="order" aria-label="Running order" bind:this={nav}>
+<nav class="order" aria-label="Running order" bind:this={nav} data-provenance={PROVENANCE_DERIVED}>
 	{#each rows as { item, beats, divisions, all } (item.id)}
 		<details open={isOpen(item.id)} ontoggle={(e) => (open[item.id] = e.currentTarget.open)}>
 			<summary class:live={live?.itemId === item.id}>

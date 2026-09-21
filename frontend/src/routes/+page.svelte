@@ -12,7 +12,7 @@
 	<p class="kicker">Siambr · Senedd Cymru</p>
 	<h1>One sitting day, on a stage.</h1>
 	<p class="lede">
-		Verbatim plenary proceedings of Senedd Cymru, played back in real time from the official Record of Proceedings.
+		Verbatim Plenary proceedings of Senedd Cymru, played back in real time from the official Record of Proceedings.
 		{#if term}{term.label_en}.{/if}
 	</p>
 	{#if data.index?.latest_sitting}

@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { PROVENANCE_DERIVED } from '$lib/data/types';
 	import type { PartyStat } from '$lib/data/types';
 	import { partyColor, partyLabel } from '$lib/dossier/parties';
 	import { count, duration, share } from './format';
@@ -9,7 +10,7 @@
 	const widest = $derived(Math.max(1, ...rows.map((r) => r.seconds)));
 </script>
 
-<figure class="chart">
+<figure class="chart" data-provenance={PROVENANCE_DERIVED}>
 	<figcaption class="small">{caption}</figcaption>
 	<ul>
 		{#each rows as r (r.party_id ?? 'none')}

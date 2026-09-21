@@ -1,20 +1,26 @@
-"""Verification gates over the Gold store (and, from T-14, the static export).
+"""Verification gates over the Gold store, the static export and the live Record.
 
-Usage: python -m pipeline.run_checks [--db PATH] [--bronze DIR]
+Usage: python -m pipeline.run_checks [--db PATH] [--bronze DIR] [--sample N] [--offline]
 
-Each check prints one line and the process exits 1 if any fails.
+Each check prints one line and the process exits 1 if any fails. The live check is the
+only network call; when Senedd cannot be reached it reports "source unavailable" and passes.
 """
 
 from __future__ import annotations
 
 import argparse
 import json
+import os
 import random
 import sqlite3
-from dataclasses import dataclass
+from collections.abc import Callable
+from dataclasses import dataclass, field
 from pathlib import Path
 
+import requests
+
 from pipeline.adapters import plenary_votes, plenary_xml
+from pipeline.adapters.http import SourceUnavailable, fetch
 from pipeline.db import DEFAULT_DB_PATH, create_connection
 from pipeline.export import DEFAULT_OUT
 
@@ -25,10 +31,16 @@ SAMPLE_SIZE = 40
 class Check:
     name: str
     failures: list[str]
+    notes: list[str] = field(default_factory=list)
 
     @property
     def ok(self) -> bool:
         return not self.failures
+
+
+def _sample_ids(conn: sqlite3.Connection, sample_size: int, seed: int) -> set[str]:
+    ids = [r[0] for r in conn.execute("SELECT id FROM debate_contributions ORDER BY id")]
+    return set(random.Random(seed).sample(ids, min(sample_size, len(ids))))
 
 
 def _sessions(conn: sqlite3.Connection) -> list[sqlite3.Row]:
@@ -104,8 +116,7 @@ def check_static_verbatim(conn: sqlite3.Connection, bronze: Path, static: Path, 
     if not (static / "sittings" / "index.json").exists():
         return Check(name, [f"no static export at {static}"])
     failures: list[str] = []
-    ids = [r[0] for r in conn.execute("SELECT id FROM debate_contributions ORDER BY id")]
-    sample = set(random.Random(seed).sample(ids, min(sample_size, len(ids))))
+    sample = _sample_ids(conn, sample_size, seed)
     seen: set[str] = set()
     for session in _sessions(conn):
         path = static / "sittings" / f"{session['session_date']}.json"
@@ -141,6 +152,87 @@ def check_static_verbatim(conn: sqlite3.Connection, bronze: Path, static: Path, 
     return Check(name, failures)
 
 
+def fetch_live(url: str) -> bytes:
+    """The live transcript, never cached and never written to Bronze."""
+    return fetch(url, retries=2, timeout=30.0)
+
+
+def _speeches(body: bytes) -> dict[str, tuple[str, str | None]]:
+    return {f"contribution-{r.contribution_id}": (plenary_xml.html_to_text(r.verbatim_html), plenary_xml.raw_start_pos(r.spoken_tv_url))
+            for r in plenary_xml.parse_transcript(body)}
+
+
+def check_live_verbatim(conn: sqlite3.Connection, bronze: Path, static: Path, sample_size: int = SAMPLE_SIZE,
+                        seed: int = 0, fetch_xml: Callable[[str], bytes] = fetch_live) -> Check:
+    """Sampled contributions diffed byte-for-byte across the live XML, Bronze, Gold and the export.
+
+    A meeting whose live XML cannot be fetched is reported in ``notes`` and does not fail.
+    """
+    name = "sampled speeches equal the live Senedd XML, Bronze, Gold and the export"
+    if not (static / "sittings" / "index.json").exists():
+        return Check(name, [f"no static export at {static}"])
+    failures: list[str] = []
+    notes: list[str] = []
+    sample = _sample_ids(conn, sample_size, seed)
+    by_session: dict[str, list[sqlite3.Row]] = {}
+    for row in conn.execute(
+        """SELECT c.id, c.verbatim_text_original, c.video_timestamp_start, a.session_id
+           FROM debate_contributions c JOIN agenda_items a ON a.id = c.agenda_item_id ORDER BY c.id"""
+    ):
+        if row["id"] in sample:
+            by_session.setdefault(row["session_id"], []).append(row)
+    sessions = {s["id"]: s for s in _sessions(conn)}
+    for session_id, rows in sorted(by_session.items()):
+        session = sessions[session_id]
+        url = plenary_xml.download_url(int(session_id.removeprefix("plenary-")))
+        try:
+            body = fetch_xml(url)
+            if b"<dataroot" not in body[:500]:
+                raise SourceUnavailable("no transcript in the response")
+        except (SourceUnavailable, requests.RequestException, OSError) as e:
+            notes.append(f"{session_id}: source unavailable ({e}); {len(rows)} sampled speeches not checked live")
+            continue
+        live = _speeches(body)
+        bronze_path = bronze_for(session, bronze)
+        mirrored: dict[str, tuple[str, str | None]] = {}
+        if bronze_path is None:
+            failures.append(f"{session_id}: no Bronze transcript")
+        else:
+            mirrored = _speeches(bronze_path.read_bytes())
+        path = static / "sittings" / f"{session['session_date']}.json"
+        if not path.exists():
+            failures.append(f"{session_id}: no {path.name} in the export")
+            continue
+        sitting = json.loads(path.read_text(encoding="utf-8"))
+        exported = {c["id"]: c for c in sitting["contributions"]}
+        if sitting.get("record_published_at") != session["record_published_at"]:
+            failures.append(f"{session_id}: exported record_published_at {sitting.get('record_published_at')!r} "
+                            f"differs from Gold {session['record_published_at']!r}")
+        live_published = plenary_xml.record_published_at(body)
+        if live_published != session["record_published_at"]:
+            notes.append(f"{session_id}: Senedd now publishes generated={live_published}, Gold holds {session['record_published_at']}")
+        for row in rows:
+            cid = row["id"]
+            gold_text, gold_start = row["verbatim_text_original"], row["video_timestamp_start"]
+            if cid not in live:
+                failures.append(f"{cid}: not in the live XML")
+                continue
+            live_text, live_raw = live[cid]
+            live_start = int(live_raw) if live_raw and live_raw.isdigit() else None
+            if live_text != gold_text:
+                failures.append(f"{cid}: live XML text differs from Gold")
+            if live_start != gold_start:
+                failures.append(f"{cid}: live startPos {live_raw!r} differs from Gold {gold_start!r}")
+            if mirrored and mirrored.get(cid) != live[cid]:
+                failures.append(f"{cid}: Bronze differs from the live XML")
+            out = exported.get(cid)
+            if out is None:
+                failures.append(f"{cid}: missing from {path.name}")
+            elif out["text_original"] != gold_text or out["t_start"] != gold_start:
+                failures.append(f"{cid}: export differs from Gold")
+    return Check(name, failures, notes)
+
+
 def check_divisions(conn: sqlite3.Connection, bronze: Path) -> Check:
     """Every division's member votes sum to its published tally, and its motion text is the Bronze Votes text."""
     failures: list[str] = []
@@ -171,7 +263,9 @@ def check_divisions(conn: sqlite3.Connection, bronze: Path) -> Check:
     return Check("division tallies equal their member votes and motion text equals Bronze", failures)
 
 
-def run_all(conn: sqlite3.Connection, bronze: Path = plenary_xml.PLENARY_BRONZE, static: Path | None = DEFAULT_OUT) -> list[Check]:
+def run_all(conn: sqlite3.Connection, bronze: Path = plenary_xml.PLENARY_BRONZE, static: Path | None = DEFAULT_OUT,
+            sample_size: int = SAMPLE_SIZE, live: bool = False,
+            fetch_xml: Callable[[str], bytes] = fetch_live) -> list[Check]:
     checks = [
         check_referential(conn),
         check_meeting_start_time(conn),
@@ -181,8 +275,23 @@ def run_all(conn: sqlite3.Connection, bronze: Path = plenary_xml.PLENARY_BRONZE,
         check_divisions(conn, bronze),
     ]
     if static is not None:
-        checks.append(check_static_verbatim(conn, bronze, static))
+        checks.append(check_static_verbatim(conn, bronze, static, sample_size))
+        if live:
+            checks.append(check_live_verbatim(conn, bronze, static, sample_size, fetch_xml=fetch_xml))
     return checks
+
+
+def report(checks: list[Check]) -> str:
+    lines = []
+    for c in checks:
+        lines.append(f"[{'ok' if c.ok else 'FAIL'}] {c.name}")
+        for f in c.failures[:20]:
+            lines.append(f"       {f}")
+        if len(c.failures) > 20:
+            lines.append(f"       ... {len(c.failures) - 20} more")
+        for n in c.notes:
+            lines.append(f"       note: {n}")
+    return "\n".join(lines)
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -190,18 +299,21 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--db", default=str(DEFAULT_DB_PATH))
     parser.add_argument("--bronze", default=str(plenary_xml.PLENARY_BRONZE))
     parser.add_argument("--static", default=str(DEFAULT_OUT), help="exported JSON to audit; 'none' skips it")
+    parser.add_argument("--sample", type=int, default=SAMPLE_SIZE, help="contributions sampled by the verbatim checks")
+    parser.add_argument("--offline", action="store_true", help="skip the live Senedd XML fetch")
     args = parser.parse_args(argv)
     conn = create_connection(args.db, read_only=True)
     try:
-        checks = run_all(conn, Path(args.bronze), None if args.static == "none" else Path(args.static))
+        checks = run_all(conn, Path(args.bronze), None if args.static == "none" else Path(args.static),
+                         sample_size=args.sample, live=not args.offline)
     finally:
         conn.close()
-    for c in checks:
-        print(f"[{'ok' if c.ok else 'FAIL'}] {c.name}")
-        for f in c.failures[:20]:
-            print(f"       {f}")
-        if len(c.failures) > 20:
-            print(f"       ... {len(c.failures) - 20} more")
+    text = report(checks)
+    print(text)
+    summary = os.environ.get("GITHUB_STEP_SUMMARY")
+    if summary:
+        with open(summary, "a", encoding="utf-8") as f:
+            f.write("### run_checks\n\n```\n" + text + "\n```\n")
     return 0 if all(c.ok for c in checks) else 1
 
 

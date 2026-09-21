@@ -67,7 +67,7 @@
 			<div class="step-content">
 				<h3>1. The Chamber Stage</h3>
 				<p>
-					Watch full plenary sessions playback in the 3D Siambr. The speaking Member’s desk
+					Watch full Plenary sessions playback in the 3D Siambr. The speaking Member’s desk
 					lights up with an architectural beacon, and their exact verbatim speech scrolls in real time.
 				</p>
 			</div>

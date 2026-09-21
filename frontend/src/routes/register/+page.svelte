@@ -235,7 +235,7 @@
 
 	{#if byTerm.length === 0}
 		<div class="empty-state">
-			<p class="empty">No plenary sittings on record for these filters.</p>
+			<p class="empty">No Plenary sittings on record for these filters.</p>
 			<a href="/register" class="button-primary reset-btn">Clear all filters</a>
 		</div>
 	{/if}

@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { PROVENANCE_DERIVED } from '$lib/data/types';
 	import type { Sitting } from '$lib/data/types';
 	import { wallClockAt, type SittingClock } from '../clock.svelte';
 	import { itemNumber, itemTitle, readMotion, targetLabel } from '../votes';
@@ -34,7 +35,7 @@
 	const readoutLeft = $derived(Math.max(0, Math.min(trackWidth - readoutWidth, frac(clock.t) * trackWidth - readoutWidth / 2)));
 </script>
 
-<div class="scrub">
+<div class="scrub" data-provenance={PROVENANCE_DERIVED}>
 	<div class="track" aria-hidden="true" bind:clientWidth={trackWidth}>
 		<span class="played" style:width={pct(clock.t)}></span>
 		{#each ticks as item (item.id)}

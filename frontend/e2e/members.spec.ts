@@ -4,6 +4,7 @@ import { expect, test, type Page } from '@playwright/test';
 const WCAG_22_AA = ['wcag2a', 'wcag2aa', 'wcag21a', 'wcag21aa', 'wcag22aa'];
 
 async function violations(page: Page) {
+	await page.evaluate(() => Promise.all(document.getAnimations().map((a) => a.finished)));
 	return (await new AxeBuilder({ page }).withTags(WCAG_22_AA).analyze()).violations;
 }
 

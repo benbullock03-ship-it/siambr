@@ -39,12 +39,12 @@
 			<div>
 				<dt>Spoken in Welsh</dt>
 				<dd data-numeric>{count(t.welsh_contributions)}</dd>
-				<p class="small">{share(t.welsh_contributions, t.contributions)} of {count(t.contributions)} contributions.</p>
+				<dd class="small">{share(t.welsh_contributions, t.contributions)} of {count(t.contributions)} contributions.</dd>
 			</div>
 			<div>
 				<dt>Untimed contributions</dt>
 				<dd data-numeric>{count(t.untimed_contributions)}</dd>
-				<p class="small">The Record publishes no broadcast offset for these, so they carry no speaking time.</p>
+				<dd class="small">The Record publishes no broadcast offset for these, so they carry no speaking time.</dd>
 			</div>
 			<div>
 				<dt>Roll-call divisions</dt>
@@ -169,7 +169,8 @@
 		color: var(--color-ink);
 	}
 
-	.totals p {
+	.totals dd.small {
+		font: 400 var(--text-small) / 1.45 var(--font-sans);
 		margin: 0.15rem 0 0;
 		color: var(--color-body-text);
 	}
