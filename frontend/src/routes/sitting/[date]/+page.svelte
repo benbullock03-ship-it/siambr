@@ -100,6 +100,7 @@
 	let renderer = $state<'webgpu' | 'webgl2' | null>(null);
 	let fallback = $state<string | null>(null);
 	let phone = $state(false);
+	let sheetVh = $state(50);
 
 	const params = $derived(browser ? page.url.searchParams : new URLSearchParams());
 	const memberId = $derived(params.get('member'));
@@ -272,7 +273,7 @@
 	<TopStrip {clock} {rig} {hud} date={sitting.date} sittings={data.sittings} onspeaker={speaker} compact={phone} />
 	<ScrubBar {clock} {sitting} />
 
-	<div class="chamber">
+	<div class="chamber" style:--sheet-height={phone ? `${sheetVh}vh` : null}>
 		{#if fallback}
 			<div class="plate fallback" role="status">
 				<p>{fallback === 'no-webgl' ? 'This device cannot draw the chamber.' : 'This device has too little memory for the chamber.'} The Register carries the same record.</p>
@@ -295,6 +296,7 @@
 			{renderer}
 			date={sitting.date}
 			{phone}
+			sheetFull={sheetVh >= 90}
 			division={clock.floor.divisionTint !== null}
 			onjoystick={(v) => {
 				player.joystick.x = v.x;
@@ -302,12 +304,12 @@
 			}}
 		>
 			{#snippet provenance()}
-				<ProvenanceStrip recordPublishedAt={sitting.record_published_at} sourceXmlUrl={sitting.source_xml_url} />
+				<ProvenanceStrip recordPublishedAt={sitting.record_published_at} sourceXmlUrl={sitting.source_xml_url} compact={phone} />
 			{/snippet}
 		</SiambrHud>
 
 		{#if phone}
-			<StageSheet {clock}>
+			<StageSheet {clock} division={clock.floor.divisionTint !== null} bind:heightVh={sheetVh}>
 				{#snippet transcript()}<Transcript {clock} {sitting} />{/snippet}
 				{#snippet order()}<RunningOrder {clock} {sitting} />{/snippet}
 			</StageSheet>

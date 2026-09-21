@@ -90,10 +90,10 @@ test.describe('first visit', () => {
 		await expect(page.getByRole('complementary', { name: 'Provenance' })).toHaveCount(0);
 	});
 
-	test('a phone says the transcript is in the sheet below', async ({ page }) => {
+	test('a phone says Play is in the sheet below', async ({ page }) => {
 		await page.setViewportSize({ width: 390, height: 844 });
 		await stage(page);
-		await expect(page.getByLabel('Controls', { exact: true })).toContainText('the transcript is in the sheet below');
+		await expect(page.getByLabel('Controls', { exact: true })).toContainText('Press Play below');
 	});
 
 	test('a kiosk never remembers a dismissal', async ({ page }) => {

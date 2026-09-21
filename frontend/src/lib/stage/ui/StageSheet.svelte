@@ -1,21 +1,27 @@
 <script lang="ts">
 	import type { Snippet } from 'svelte';
+	import VoteLegend from '$lib/hud/VoteLegend.svelte';
 	import type { SittingClock } from '../clock.svelte';
 	import Transport from './Transport.svelte';
 
 	let {
 		clock,
 		transcript,
-		order
+		order,
+		division = false,
+		heightVh = $bindable(50)
 	}: {
 		clock: SittingClock;
 		transcript: Snippet;
 		order: Snippet;
+		/** A division beat is live: the vote colours sit in the header, not on the chamber. */
+		division?: boolean;
+		/** Bound by the page so the HUD plates can ride on top of the sheet. */
+		heightVh?: number;
 	} = $props();
 
 	const MIN = 50;
 	const MAX = 90;
-	let heightVh = $state(MIN);
 	let tab = $state<'transcript' | 'order'>('transcript');
 	let drag: { y: number; from: number } | null = null;
 
@@ -49,6 +55,9 @@
 			<button type="button" role="tab" aria-selected={tab === 'transcript'} onclick={() => (tab = 'transcript')}>Transcript</button>
 			<button type="button" role="tab" aria-selected={tab === 'order'} onclick={() => (tab = 'order')}>Running order</button>
 		</div>
+		{#if division}
+			<div class="legend"><VoteLegend /></div>
+		{/if}
 	</header>
 	<div class="panel" role="tabpanel">
 		{#if tab === 'transcript'}
@@ -117,6 +126,10 @@
 		background: var(--color-ink);
 		color: var(--color-ground);
 		border-color: var(--color-ink);
+	}
+
+	.legend {
+		width: 100%;
 	}
 
 	.panel {

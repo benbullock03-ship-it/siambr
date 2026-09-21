@@ -15,12 +15,15 @@
 		provenance,
 		division = false,
 		date,
-		phone = false
+		phone = false,
+		sheetFull = false
 	}: {
 		hud: SiambrState;
 		date: string;
 		/** Phone: the transcript is in the sheet below the chamber, not the column on the right. */
 		phone?: boolean;
+		/** Phone: the sheet covers the chamber, so the plates have nowhere to sit. */
+		sheetFull?: boolean;
 		renderer: 'webgpu' | 'webgl2' | null;
 		onjoystick: (v: { x: number; y: number }) => void;
 		provenance?: Snippet;
@@ -44,27 +47,31 @@
 	const isSpeaking = $derived(Boolean(focus && speaker && focus.desk.id === speaker.desk.id));
 </script>
 
-<div class="hud">
-	<div class="bottom-stack">
+<div class="hud" class:phone>
+	<div class="bottom-stack" hidden={phone && sheetFull}>
 		{#if !dismissedControls}
 			<div class="plate controls small" aria-label="Controls">
 				<div class="controls-content">
-					<p class="lead">
-						Plenary, <time data-numeric datetime={date}>{date}</time>. Press Play to start the day;
-						{phone ? 'the transcript is in the sheet below.' : 'the transcript follows on the right.'}
-					</p>
-					{#if hud.walk}
-						{#if hud.touch}
-							Drag the joystick to walk. Drag the view to look. Tap the floor to move there. Tap a desk to open its Member.
-						{:else}
-							<kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> walk · click, then move the mouse to look · <kbd>Esc</kbd> leave walk · <kbd>E</kbd> open a Member
-						{/if}
-					{:else if hud.touch}
-						Drag to orbit. Pinch to zoom. Tap a desk to frame it, then tap Open record.
+					{#if phone && !hud.walk}
+						<p class="one-line">Press Play below · drag to orbit · tap a desk</p>
 					{:else}
-						Drag to orbit · wheel to zoom · click a desk to frame it, click again to open its record
+						{#if !hud.walk}
+							<p class="lead">
+								Plenary, <time data-numeric datetime={date}>{date}</time>. Press Play to start the day;
+								{phone ? 'the transcript is in the sheet below.' : 'the transcript follows on the right.'}
+							</p>
+						{/if}
+						{#if hud.walk && hud.touch}
+							Drag the joystick to walk. Drag the view to look. Tap the floor to move there. Tap a desk to open its Member.
+						{:else if hud.walk}
+							<kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> walk · click, then move the mouse to look · <kbd>Esc</kbd> leave walk · <kbd>E</kbd> open a Member
+						{:else if hud.touch}
+							Drag to orbit. Pinch to zoom. Tap a desk to frame it, then tap Open record.
+						{:else}
+							Drag to orbit · wheel to zoom · click a desk to frame it, click again to open its record
+						{/if}
 					{/if}
-					{#if renderer}<span class="engine">{renderer === 'webgpu' ? 'WebGPU' : 'WebGL2'}</span>{/if}
+					{#if renderer && !phone}<span class="engine">{renderer === 'webgpu' ? 'WebGPU' : 'WebGL2'}</span>{/if}
 				</div>
 				<button
 					type="button"
@@ -80,7 +87,7 @@
 			</div>
 		{/if}
 
-		{#if division}
+		{#if division && !phone}
 			<VoteLegend compact />
 		{/if}
 
@@ -194,6 +201,38 @@
 		pointer-events: none;
 		z-index: 10;
 		box-sizing: border-box;
+	}
+
+	/* Phone: the plates ride on top of the transcript sheet, never over its text. */
+	.hud.phone .bottom-stack {
+		bottom: calc(var(--sheet-height, 50vh) + 0.5rem);
+		max-height: calc(100% - var(--sheet-height, 50vh) - 1rem);
+		overflow: hidden;
+	}
+
+	.bottom-stack[hidden] {
+		display: none;
+	}
+
+	.one-line {
+		margin: 0;
+		white-space: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis;
+	}
+
+	.hud.phone .controls {
+		align-items: center;
+		padding: 0 0 0 0.75rem;
+	}
+
+	.hud.phone .controls-content {
+		min-width: 0;
+	}
+
+	.hud.phone .btn-dismiss {
+		min-width: var(--tap-min);
+		min-height: var(--tap-min);
 	}
 
 	.bottom-stack :global(> *) {

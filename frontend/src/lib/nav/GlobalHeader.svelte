@@ -193,7 +193,9 @@
 		display: inline-flex;
 		align-items: center;
 		gap: 0.4rem;
+		min-height: var(--tap-min);
 		padding: 0.35rem 0.75rem;
+		white-space: nowrap;
 		background: var(--color-panel);
 		border: 1px solid var(--color-border);
 		border-radius: 2px;
@@ -215,17 +217,23 @@
 			gap: 0.5rem;
 		}
 
+		/* Two rows that fit beat one row that scrolls: every link stays in view at 390 px. */
 		.primary-nav {
 			order: 3;
 			width: 100%;
+			flex-wrap: wrap;
+			overflow-x: visible;
+			white-space: normal;
 			justify-content: flex-start;
 			border-top: 1px solid var(--color-border);
 			padding-top: 0.4rem;
 		}
 
 		.nav-link {
+			min-height: 2.25rem;
 			padding: 0.35rem 0.65rem;
 			font-size: 0.82rem;
+			white-space: nowrap;
 		}
 	}
 </style>

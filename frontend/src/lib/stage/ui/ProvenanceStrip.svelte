@@ -4,7 +4,16 @@
 	import { rememberDismissed, wasDismissed } from '$lib/hud/dismissed';
 	import { kiosk } from '$lib/kiosk.svelte';
 
-	let { recordPublishedAt, sourceXmlUrl }: { recordPublishedAt: string | null; sourceXmlUrl: string } = $props();
+	let {
+		recordPublishedAt,
+		sourceXmlUrl,
+		compact = false
+	}: {
+		recordPublishedAt: string | null;
+		sourceXmlUrl: string;
+		/** Phone: one "i" button that opens the notice, so the text never sits over the chamber. */
+		compact?: boolean;
+	} = $props();
 	const stamp = $derived(recordPublishedAt ? recordPublishedAt.replace('T', ' ') : 'date not stated');
 	let dismissed = $state(false);
 	$effect(() => {
@@ -14,9 +23,27 @@
 		dismissed = true;
 		rememberDismissed('seating', kiosk.active);
 	}
+
+	let infoButton = $state<HTMLButtonElement>();
+	let infoPopover = $state<HTMLElement>();
+	/** The popover sits in the top layer, so it is placed above its button by hand. */
+	function placeInfo(e: ToggleEvent) {
+		if (e.newState !== 'open' || !infoButton || !infoPopover) return;
+		const r = infoButton.getBoundingClientRect();
+		infoPopover.style.left = `${r.left}px`;
+		infoPopover.style.bottom = `${window.innerHeight - r.top + 4}px`;
+	}
 </script>
 
-{#if !dismissed}
+{#if compact}
+	<aside class="info" aria-label="Provenance">
+		<button type="button" class="info-button" popovertarget="provenance-notice" bind:this={infoButton} aria-label="Seating and record notice">i</button>
+		<div id="provenance-notice" class="info-popover small" popover="auto" bind:this={infoPopover} ontoggle={placeInfo}>
+			<p>{SEATING_NOTICE}</p>
+			<p>Record as published <ExternalLink href={sourceXmlUrl}><time data-numeric datetime={recordPublishedAt ?? undefined}>{stamp}</time></ExternalLink>.</p>
+		</div>
+	</aside>
+{:else if !dismissed}
 	<aside class="provenance small" aria-label="Provenance">
 		<div class="provenance-text">
 			<p>{SEATING_NOTICE}</p>
@@ -37,6 +64,38 @@
 {/if}
 
 <style>
+	.info {
+		align-self: flex-start;
+	}
+
+	.info-button {
+		width: var(--tap-min);
+		height: var(--tap-min);
+		border: 1px solid var(--color-border);
+		border-radius: 50%;
+		background: rgb(247 246 242 / 0.94);
+		color: var(--color-ink);
+		font: italic 700 1.1rem var(--font-serif);
+		cursor: pointer;
+	}
+
+	.info-popover {
+		position: fixed;
+		inset: auto auto 0 0;
+		margin: 0;
+		max-width: min(22rem, calc(100vw - 1.5rem));
+		padding: 0.6rem 0.8rem;
+		background: var(--color-ground);
+		color: var(--color-body-text);
+		border: 1px solid var(--color-border);
+		box-shadow: 0 8px 24px rgb(17 20 23 / 0.2);
+	}
+
+	.info-popover p {
+		margin: 0 0 0.25rem;
+		line-height: 1.35;
+	}
+
 	.provenance {
 		position: relative;
 		display: flex;

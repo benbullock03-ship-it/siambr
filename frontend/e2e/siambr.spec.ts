@@ -29,6 +29,8 @@ test('/siambr still opens the chamber', async ({ page }) => {
 });
 
 test('the stage HUD passes axe at phone width with the sheet', async ({ page }) => {
+	// SwiftShader beside a second worker can take most of the default budget to draw the chamber.
+	test.slow();
 	await page.setViewportSize({ width: 360, height: 740 });
 	await page.goto(`/sitting/${DATE}`);
 	await expect(page.getByRole('tab', { name: 'Transcript' })).toBeVisible();
