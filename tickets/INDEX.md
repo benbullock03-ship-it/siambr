@@ -40,6 +40,9 @@ Spec 2.0.0 run
   T-26 Stage wayfinding + first run   T-27 Phone layout   T-28 Record links   T-29 Divisions index   T-30 Register filters
      |
   T-31 Senedd TV stream URL  ->  T-32 Chamber screen playback  ->  T-33 Screen audio, credit and flag
+     |
+  Performance review 2026-09-21
+  T-34 Sitting record module  ->  T-35 ChamberFloor module
 ```
 
 ---
@@ -81,6 +84,8 @@ Spec 2.0.0 run
 | [T-31](T-31-senedd-tv-stream-url.md) | Senedd TV Stream URL: Resolve, Mirror and Align the Meeting Stream | Pipeline | T-14 | `done` |
 | [T-32](T-32-chamber-screen-playback.md) | Chamber Screen Playback: Senedd TV on the Wall Screens, Following the Clock | Frontend | T-31 | `done` |
 | [T-33](T-33-screen-audio-credit-and-flag.md) | Screen Audio, Credit and Flag: Interpretation Audio, Attribution, Off Until Cleared | Frontend | T-32 | `done` (email not sent; flag off in production) |
+| [T-34](T-34-sitting-record-module.md) | Sitting Record Module: Shell Pages, One Loader, Cached Data | Frontend | T-14, T-33 | `done` |
+| [T-35](T-35-chamber-floor-module.md) | ChamberFloor Module: One Floor Rule, On-Demand Rendering | Frontend | T-34 | `open` |
 
 ---
 

@@ -76,9 +76,12 @@ test('a kiosk hides the walk toggle', async ({ page }) => {
 test('the guided camera frames a desk on the first click and opens the Member on the second', async ({ page }) => {
 	// The click loop against the software renderer eats most of the default budget.
 	test.slow();
+	// With the webfonts loaded the strip wraps at 1280 px and the controls plate covers the click row.
+	await page.setViewportSize({ width: 1600, height: 900 });
 	await page.goto(`/sitting/${DATE}`);
 	const canvas = page.locator('canvas');
 	await expect(canvas).toHaveCount(1, { timeout: 20_000 });
+	await page.evaluate(() => document.fonts.ready);
 	await page.getByRole('button', { name: 'Floor' }).click();
 	// Give the software renderer a few frames so the click raycasts against a drawn scene.
 	await page.waitForTimeout(1500);

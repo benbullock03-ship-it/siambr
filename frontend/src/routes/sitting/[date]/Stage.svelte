@@ -11,7 +11,7 @@
 	import { Player } from '$lib/3d/controls/player.svelte';
 	import { SiambrState } from '$lib/3d/state.svelte';
 	import { loadMember } from '$lib/data/loaders';
-	import type { MemberFile } from '$lib/data/types';
+	import type { MemberFile, MemberLight, Sitting, TermFile } from '$lib/data/types';
 	import MemberPlate from '$lib/hud/MemberPlate.svelte';
 	import SiambrHud from '$lib/hud/SiambrHud.svelte';
 	import { kiosk } from '$lib/kiosk.svelte';
@@ -26,10 +26,9 @@
 	import StageSheet from '$lib/stage/ui/StageSheet.svelte';
 	import TopStrip from '$lib/stage/ui/TopStrip.svelte';
 	import Transcript from '$lib/stage/ui/Transcript.svelte';
-	import type { PageData } from './$types';
 
 	// The clock, rig and walker are built from one sitting; +page.svelte remounts this per date.
-	let { data }: { data: PageData } = $props();
+	let { data }: { data: { sitting: Sitting; term: TermFile; members: MemberLight[]; dates: string[] } } = $props();
 
 	const sitting = $derived(data.sitting);
 	const desks = $derived(buildDesks(data.term.seat_count));
@@ -287,15 +286,11 @@
 	}
 </script>
 
-<svelte:head>
-	<title>Plenary {sitting.date} · Siambr</title>
-</svelte:head>
-
 <svelte:window {onkeydown} {onkeyup} />
 
 <main id="main" class="stage" class:phone>
 	<a class="skip-link" href="#transport" onclick={skipToTransport}>Skip to transport</a>
-	<TopStrip {clock} {rig} {hud} date={sitting.date} sittings={data.sittings} onspeaker={speaker} compact={phone}
+	<TopStrip {clock} {rig} {hud} date={sitting.date} dates={data.dates} onspeaker={speaker} compact={phone}
 		{sound}
 		screenAvailable={screenStream !== null && !sound.failed && !fallback}
 		screenMissing={screensRun && !sitting.stream_url}

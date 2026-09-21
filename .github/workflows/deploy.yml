@@ -92,6 +92,10 @@ jobs:
           PUBLIC_SCREEN_VIDEO: '0'
         run: npm run build
 
+      - name: Page budget
+        working-directory: frontend
+        run: node scripts/check-page-budget.mjs
+
       - uses: actions/upload-artifact@v4
         with:
           name: site

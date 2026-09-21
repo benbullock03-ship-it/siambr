@@ -110,6 +110,8 @@ The stage shows one `PlenarySession`. The only spatial object is the chamber; th
 | Spoken mark | Member has a contribution with start `< t` this sitting | warmed party tab |
 | Division tint | inside a division window | desks tinted for / against / abstain; untinted when no vote recorded; wall clocks run |
 
+**ChamberFloor** is the one module that answers "what does the chamber show at `t`": live beat, presiding officer, seats, live seat, live desk and division tint. Everything that draws the chamber or the HUD reads it; nothing re-derives the live desk. It returns the same state while only `t` moves, so the canvas renders only on change.
+
 ### 3.4 Camera
 Guided by default with four vantage points (Gallery, Y Llywydd, Floor, Speaker) and a Follow toggle. Free walk is an opt-in using the first-person controller. Reduced motion: cuts, no walk.
 
@@ -121,6 +123,10 @@ Guided by default with four vantage points (Gallery, Y Llywydd, Floor, Speaker) 
 - **Members** (`/members`, `/members/{id}`): the register of record for a Member. Every contribution grouped by sitting day with a *See it in the chamber* link to `/sitting/{date}?t=<start>`; every roll-call ballot.
 - **Search** (`/search`): prebuilt client-side index over contributions and titles.
 - **Stats** (`/sitting/{date}/stats`, `/terms/{n}/stats`): speaking time by Member and party, contributions per item, party by policy domain. All sums of the record, all badged `PROVENANCE_DERIVED`.
+
+---
+
+**Sitting record** is the one module every route loads data through. It decides what is fetched, when, and what enters the prerendered HTML; in the browser it caches recent sittings and terms. Prerendered sitting pages are shells: the sitting itself is fetched, never inlined.
 
 ---
 

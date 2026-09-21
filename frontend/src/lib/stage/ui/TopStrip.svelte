@@ -4,7 +4,6 @@
 	import type { GuidedRig } from '$lib/3d/controls/guided.svelte';
 	import type { SiambrState } from '$lib/3d/state.svelte';
 	import Mark from '$lib/nav/Mark.svelte';
-	import type { SittingSummary } from '$lib/data/types';
 	import { kiosk } from '$lib/kiosk.svelte';
 	import { SPEEDS, type SittingClock } from '../clock.svelte';
 	import { ScreenSound } from '../screenVideo.svelte';
@@ -16,7 +15,7 @@
 		rig,
 		hud,
 		date,
-		sittings,
+		dates,
 		onspeaker,
 		compact = false,
 		sound = new ScreenSound(),
@@ -28,7 +27,8 @@
 		rig: GuidedRig;
 		hud: SiambrState;
 		date: string;
-		sittings: SittingSummary[];
+		/** Every sitting date, newest first. */
+		dates: string[];
 		onspeaker: () => void;
 		/** Phone: the transport lives in the sheet header instead. */
 		compact?: boolean;
@@ -44,11 +44,11 @@
 	/** Newest first, grouped by month as the index already orders them. */
 	const groups = $derived.by(() => {
 		const out: { month: string; dates: string[] }[] = [];
-		for (const s of sittings) {
-			const month = monthOf(s.date);
+		for (const d of dates) {
+			const month = monthOf(d);
 			const last = out[out.length - 1];
-			if (last?.month === month) last.dates.push(s.date);
-			else out.push({ month, dates: [s.date] });
+			if (last?.month === month) last.dates.push(d);
+			else out.push({ month, dates: [d] });
 		}
 		return out;
 	});
