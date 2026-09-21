@@ -72,6 +72,20 @@
 	let held = $state(false);
 	let lastBeatIndex = -1;
 	let programmatic = 0;
+	// The scroll range is measured on resize, never on a tick: reading layout every frame forces it.
+	let range = $state(0);
+	let lastTop = -1;
+	$effect(() => {
+		const el = column;
+		void live;
+		if (!el) return;
+		const measure = () => (range = el.scrollHeight - el.clientHeight);
+		const observer = new ResizeObserver(measure);
+		observer.observe(el);
+		for (const child of el.children) observer.observe(child);
+		measure();
+		return () => observer.disconnect();
+	});
 	$effect(() => {
 		const beat = live;
 		const t = clock.t;
@@ -81,15 +95,15 @@
 			lastBeatIndex = beat.index;
 			held = false;
 			programmatic = 1;
-			el.scrollTop = 0;
+			el.scrollTop = lastTop = 0;
 		}
 		if (held || beat.kind === 'division') return;
 		const length = beat.tEnd - beat.t;
 		const k = length > 0 ? Math.min(1, Math.max(0, (t - beat.t) / length)) : 0;
-		const top = Math.round((el.scrollHeight - el.clientHeight) * k);
-		if (Math.abs(el.scrollTop - top) >= 1) {
+		const top = Math.round(range * k);
+		if (top !== lastTop) {
 			programmatic = 1;
-			el.scrollTop = top;
+			el.scrollTop = lastTop = top;
 		}
 	});
 	function onscroll() {

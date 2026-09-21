@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { useTask } from '@threlte/core';
+	import { useTask, useThrelte } from '@threlte/core';
 	import { untrack } from 'svelte';
 	import { SRGBColorSpace, VideoTexture, type Texture } from 'three';
 	import type { SittingClock } from '$lib/stage/clock.svelte';
@@ -15,6 +15,7 @@
 		texture = $bindable(null)
 	}: { clock: SittingClock | null; stream: string | null; sound: ScreenSound; held?: boolean; texture?: Texture | null } = $props();
 
+	const { invalidate } = useThrelte();
 	let armed = $state(false);
 	$effect(() => {
 		if (!stream) armed = false;
@@ -97,46 +98,50 @@
 		if (held || !clock?.playing) video?.pause();
 	});
 
-	useTask(() => {
-		const el = video;
-		if (!el || !clock || el.readyState < HAVE_METADATA) {
-			texture = null;
-			return;
-		}
-		const now: ClockMark = { seeks: clock.seeks, speed: clock.speed };
-		const jumped = jumpedSince(mark, now);
-		mark = now;
-		const plan = screenPlan({
-			t: clock.t,
-			playing: clock.playing && !held,
-			speed: clock.speed,
-			division: clock.floor.divisionTint !== null,
-			jumped,
-			blank,
-			video: { time: el.currentTime, seeking: el.seeking, readyState: el.readyState }
-		});
-		if (plan.seekTo !== null) {
-			if (jumped) blank = true;
-			el.currentTime = plan.seekTo;
-		}
-		const muted = sound.muted || !plan.audible;
-		if (el.muted !== muted) el.muted = muted;
-		if (plan.play && el.paused && !el.ended) {
-			el.play().catch((error: unknown) => {
-				// The browser refused sound without a gesture: play muted and let the toggle say so.
-				if ((error as DOMException)?.name !== 'NotAllowedError' || el.muted) return;
-				sound.muted = true;
-				el.muted = true;
-				el.play().catch(() => {});
+	useTask(
+		() => {
+			const el = video;
+			if (!el || !clock || el.readyState < HAVE_METADATA) {
+				texture = null;
+				return;
+			}
+			const now: ClockMark = { seeks: clock.seeks, speed: clock.speed };
+			const jumped = jumpedSince(mark, now);
+			mark = now;
+			const plan = screenPlan({
+				t: clock.t,
+				playing: clock.playing && !held,
+				speed: clock.speed,
+				division: clock.floor.divisionTint !== null,
+				jumped,
+				blank,
+				video: { time: el.currentTime, seeking: el.seeking, readyState: el.readyState }
 			});
-		}
-		else if (!plan.play && !el.paused) el.pause();
-		// VideoTexture waits on requestVideoFrameCallback, which Chrome does not always fire for a
-		// <video> outside the DOM; upload each new frame from here instead.
-		if (plan.show === 'video' && videoTexture && el.currentTime !== uploadedAt) {
-			videoTexture.needsUpdate = true;
-			uploadedAt = el.currentTime;
-		}
-		texture = plan.show === 'video' ? videoTexture : null;
-	});
+			if (plan.seekTo !== null) {
+				if (jumped) blank = true;
+				el.currentTime = plan.seekTo;
+			}
+			const muted = sound.muted || !plan.audible;
+			if (el.muted !== muted) el.muted = muted;
+			if (plan.play && el.paused && !el.ended) {
+				el.play().catch((error: unknown) => {
+					// The browser refused sound without a gesture: play muted and let the toggle say so.
+					if ((error as DOMException)?.name !== 'NotAllowedError' || el.muted) return;
+					sound.muted = true;
+					el.muted = true;
+					el.play().catch(() => {});
+				});
+			}
+			else if (!plan.play && !el.paused) el.pause();
+			// VideoTexture waits on requestVideoFrameCallback, which Chrome does not always fire for a
+			// <video> outside the DOM; upload each new frame from here instead.
+			if (plan.show === 'video' && videoTexture && el.currentTime !== uploadedAt) {
+				videoTexture.needsUpdate = true;
+				uploadedAt = el.currentTime;
+				invalidate();
+			}
+			texture = plan.show === 'video' ? videoTexture : null;
+		},
+		{ autoInvalidate: false }
+	);
 </script>

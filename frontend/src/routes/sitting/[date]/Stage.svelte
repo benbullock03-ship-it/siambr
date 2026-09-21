@@ -5,8 +5,8 @@
 	import { onMount, untrack } from 'svelte';
 	import { decideMode, probeDevice } from '$lib/3d/capability';
 	import { buildDesks, chamberColliders, chamberWallSegments, CHAMBER, spawnPoint, walkRadius, type Collider } from '$lib/3d/chamber/layout';
-	import { assignChamberSeats, assignSeats, llywyddDesk, llywyddOf, SEATING_PROVENANCE, type SeatAssignment } from '$lib/3d/chamber/seating';
-	import { buildPresidingSpans, presidingAt } from '$lib/stage/presiding';
+	import type { SeatAssignment } from '$lib/3d/chamber/seating';
+	import { ChamberFloor } from '$lib/stage/chamberFloor';
 	import { GuidedRig } from '$lib/3d/controls/guided.svelte';
 	import { Player } from '$lib/3d/controls/player.svelte';
 	import { SiambrState } from '$lib/3d/state.svelte';
@@ -43,35 +43,11 @@
 	const player = new Player([...chamberColliders(untrack(() => desks)), ...wallColliders], walkRadius(0), spawnPoint());
 	const rig = new GuidedRig();
 	const clock = untrack(() => new SittingClock(buildTimeline(data.sitting), data.sitting.meeting_start_time));
-	const presidingSpans = $derived(buildPresidingSpans(sitting, data.term, clock.timeline));
-	const activePresidingMemberId = $derived(presidingAt(presidingSpans, clock.t));
-	const activePresiding = $derived(new Set(activePresidingMemberId ? [activePresidingMemberId] : []));
-	const activePresidingMember = $derived(
-		activePresidingMemberId ? data.members.find((m) => m.id === activePresidingMemberId) ?? null : null
-	);
-	const seats = $derived<SeatAssignment[]>(
-		assignChamberSeats(data.members, desks, data.term, activePresidingMemberId, sitting.date)
-	);
-	const deskByMember = $derived(new Map(seats.map((s) => [s.member.id, s.desk])));
-	const liveContribution = $derived(clock.floor.live?.kind === 'contribution' ? clock.floor.live.contribution : null);
-	// The desk the floor light is on: a seated, non-presiding speaker's own desk, else the dais desk.
-	const liveDesk = $derived.by(() => {
-		if (!liveContribution) return null;
-		const id = liveContribution.member_id;
-		return (id && !activePresiding.has(id) && deskByMember.get(id)) || deskByMember.get(activePresidingMemberId ?? '') || null;
-	});
-	const liveSeat = $derived.by(() => {
-		if (!liveContribution) return null;
-		const id = liveContribution.member_id;
-		if (id && !activePresiding.has(id)) {
-			const s = seats.find((seat) => seat.member.id === id);
-			if (s) return s;
-		}
-		if (activePresidingMember) {
-			return seats.find((seat) => seat.member.id === activePresidingMember.id) ?? null;
-		}
-		return null;
-	});
+	const chamber = untrack(() => new ChamberFloor(clock.timeline, data.sitting, data.term, data.members, desks));
+	const view = $derived(chamber.at(clock.t));
+	const seats = $derived(view.seats);
+	const liveDesk = $derived(view.liveDesk);
+	const liveSeat = $derived(view.liveSeat);
 
 	$effect(() => {
 		hud.liveSpeaker = liveSeat;
@@ -309,7 +285,7 @@
 			{@const SiambrScene = Scene}
 			<div class="canvas" aria-hidden="true">
 				<SiambrCanvas forceWebGL={renderer === 'webgl2'} onfailure={() => (fallback = 'no-webgl')} onready={(backend) => (renderer = backend)}>
-					<SiambrScene {desks} {seats} {clock} {rig} {player} {hud} presiding={activePresiding} {paused} stream={screenStream} {sound} />
+					<SiambrScene {desks} {view} {clock} {rig} {player} {hud} {paused} stream={screenStream} {sound} />
 				</SiambrCanvas>
 			</div>
 		{:else}

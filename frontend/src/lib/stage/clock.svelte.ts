@@ -8,7 +8,7 @@
  *   Shift+ArrowLeft / Right   previous / next agenda item
  *   [  /  ]            slower / faster (1x, 4x, 16x)
  */
-import { floorState, type FloorState } from './floor';
+import { floorState, steadyFloor, type FloorState } from './floor';
 import { lastBeatStartingBy, type Timeline } from './timeline';
 
 export const SPEEDS = [1, 4, 16] as const;
@@ -37,6 +37,7 @@ export class SittingClock {
 	seeks = $state(0);
 
 	floor: FloorState;
+	private lastFloor: FloorState | null = null;
 	wallClock: string | null;
 	atEnd: boolean;
 
@@ -45,7 +46,7 @@ export class SittingClock {
 		this.timeline = timeline;
 		this.meetingStartTime = meetingStartTime;
 		this.t = this.clamp(t0 ?? timeline.firstTimedT ?? 0);
-		this.floor = $derived.by(() => floorState(this.timeline, this.t));
+		this.floor = $derived.by(() => (this.lastFloor = steadyFloor(this.lastFloor, floorState(this.timeline, this.t))));
 		this.wallClock = $derived(wallClockAt(this.meetingStartTime, this.t));
 		this.atEnd = $derived(this.t >= this.timeline.tEnd);
 	}

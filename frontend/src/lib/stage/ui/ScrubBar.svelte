@@ -30,6 +30,9 @@
 		}
 		return sitting.speakers[live.contribution.member_id]?.canonical_name ?? live.contribution.member_id;
 	});
+	// Whole sitting seconds: the announced value changes at most once a second, not every frame.
+	const second = $derived(Math.floor(clock.t));
+	const valueText = $derived(`${label(second)}${liveItem ? `, ${liveItem.title_en}` : ''}${detail ? `, ${detail}` : ''}`);
 	let trackWidth = $state(0);
 	let readoutWidth = $state(0);
 	const readoutLeft = $derived(Math.max(0, Math.min(trackWidth - readoutWidth, frac(clock.t) * trackWidth - readoutWidth / 2)));
@@ -71,7 +74,7 @@
 		step="1"
 		value={Math.floor(clock.t)}
 		aria-label="Sitting position"
-		aria-valuetext={`${label(clock.t)}${liveItem ? `, ${liveItem.title_en}` : ''}${detail ? `, ${detail}` : ''}`}
+		aria-valuetext={valueText}
 		oninput={(e) => clock.seek(Number(e.currentTarget.value))}
 	/>
 	{#if hover}

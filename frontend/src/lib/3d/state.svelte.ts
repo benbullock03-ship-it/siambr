@@ -24,6 +24,13 @@ export class SiambrState {
 	drifting = $state(false);
 	/** Set by the page; the scene calls it when a seat is activated. */
 	onopen: (seat: SeatAssignment) => void = () => {};
+
+	/** Writes an anchor only when it moves half a pixel or changes visibility: every write re-renders the HUD. */
+	place(key: 'anchor' | 'liveSpeakerAnchor', x: number, y: number, visible: boolean): void {
+		const a = this[key];
+		if (a.visible === visible && Math.abs(a.x - x) < 0.5 && Math.abs(a.y - y) < 0.5) return;
+		this[key] = { x, y, visible };
+	}
 }
 
 /** How far a desk under the crosshair or pointer still shows its nametag. */

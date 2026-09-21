@@ -97,6 +97,8 @@ test('the guided camera frames a desk on the first click and opens the Member on
 	await page.mouse.click(box.x + box.width * 0.5, box.y + box.height * 0.62);
 	const dialog = page.getByRole('dialog', { name: new RegExp(name!.trim()) });
 	await expect(dialog).toBeVisible({ timeout: 10_000 });
+	// Measure where the drawer lands, not mid slide-in.
+	await dialog.evaluate((el) => Promise.all(el.getAnimations().map((a) => a.finished)));
 	// T-25: the record opens over the chamber, beside the transcript column, never under it.
 	const column = page.locator('.column');
 	await expect(column).toBeVisible();

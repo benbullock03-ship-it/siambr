@@ -103,6 +103,18 @@ export function divisionTint(timeline: Timeline, t: number): DivisionTint | null
 	return over < DIVISION_FADE_SECONDS ? { beat, strength: 1 - over / DIVISION_FADE_SECONDS } : null;
 }
 
+/**
+ * `prev` when `next` shows the same chamber, else `next`. A `$derived` that returns the same
+ * object does not wake its readers, so the floor stays quiet while only t moves.
+ */
+export function steadyFloor(prev: FloorState | null, next: FloorState): FloorState {
+	if (!prev) return next;
+	const a = prev.divisionTint;
+	const b = next.divisionTint;
+	const sameTint = a === b || (a !== null && b !== null && a.beat === b.beat && a.strength === b.strength);
+	return prev.live === next.live && prev.spokenMemberIds === next.spokenMemberIds && prev.division === next.division && sameTint ? prev : next;
+}
+
 export function floorState(timeline: Timeline, t: number): FloorState {
 	const live = liveBeat(timeline, t);
 	return {

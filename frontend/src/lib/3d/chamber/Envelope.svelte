@@ -52,7 +52,7 @@
 		<T.MeshStandardMaterial map={tex.joineryA} roughness={0.6} side={BackSide} />
 	</T.Mesh>
 {/each}
-<InstancedMesh limit={pilasters.length * 2} range={pilasters.length * 2} receiveShadow>
+<InstancedMesh update={false} limit={pilasters.length * 2} range={pilasters.length * 2} receiveShadow>
 	<T.BoxGeometry args={[0.18, wallH, 0.14]} />
 	<T.MeshStandardMaterial map={tex.joineryB} roughness={0.6} />
 	{#each pilasters as deg (deg)}
@@ -67,14 +67,14 @@
 </T.Mesh>
 
 <!-- Pendant downlights along the cornice and the warm pools they throw down the fabric. -->
-<InstancedMesh limit={pendants.length} range={pendants.length}>
+<InstancedMesh update={false} limit={pendants.length} range={pendants.length}>
 	<T.CylinderGeometry args={[0.012, 0.012, 0.2, 6]} />
 	<T.MeshStandardMaterial color="#8d9297" roughness={0.4} metalness={0.7} />
 	{#each pendants as deg (deg)}
 		<Instance position={at(wall - 0.32, deg, wallH - 0.5)} />
 	{/each}
 </InstancedMesh>
-<InstancedMesh limit={pendants.length} range={pendants.length}>
+<InstancedMesh update={false} limit={pendants.length} range={pendants.length}>
 	<T.CylinderGeometry args={[0.14, 0.11, 0.06, 16]} />
 	<T.MeshBasicMaterial color="#fff6e4" />
 	{#each pendants as deg (deg)}
@@ -162,7 +162,7 @@
 	<T.CylinderGeometry args={[wall + 0.05, wall + 0.05, railTop - fasciaTop, 96, 1, true]} />
 	<T.MeshPhysicalMaterial color="#dfe8ee" transparent opacity={0.28} roughness={0.04} metalness={0} reflectivity={0.9} side={DoubleSide} />
 </T.Mesh>
-<InstancedMesh limit={posts.length} range={posts.length}>
+<InstancedMesh update={false} limit={posts.length} range={posts.length}>
 	<T.BoxGeometry args={[0.05, railTop - fasciaTop, 0.05]} />
 	<T.MeshStandardMaterial color="#3b3f45" roughness={0.35} metalness={0.8} />
 	{#each posts as deg (deg)}
@@ -187,7 +187,7 @@
 		<T.MeshStandardMaterial color="#2c2f34" roughness={0.9} side={DoubleSide} />
 	</T.Mesh>
 {/each}
-<InstancedMesh limit={dividers.length} range={dividers.length} castShadow>
+<InstancedMesh update={false} limit={dividers.length} range={dividers.length} castShadow>
 	<T.BoxGeometry args={[0.06, 1.1, 2.9]} />
 	<T.MeshStandardMaterial map={tex.joineryB} roughness={0.55} />
 	{#each dividers as deg (deg)}
@@ -200,7 +200,7 @@
 	<T.RingGeometry args={[CHAMBER.wallRadius - 2.4, outer + 0.2, 96]} />
 	<T.MeshStandardMaterial color={CHAMBER_TONES.ceiling} roughness={0.9} side={DoubleSide} />
 </T.Mesh>
-<InstancedMesh limit={downlights.length} range={downlights.length}>
+<InstancedMesh update={false} limit={downlights.length} range={downlights.length}>
 	<T.CircleGeometry args={[0.09, 12]} />
 	<T.MeshBasicMaterial color="#fffaf0" />
 	{#each downlights as deg (deg)}
@@ -213,7 +213,7 @@
 	<T.CylinderGeometry args={[outer, outer, top - galleryY, 96, 1, true]} />
 	<T.MeshStandardMaterial color="#e3e9ee" transparent opacity={0.22} roughness={0.05} side={DoubleSide} />
 </T.Mesh>
-<InstancedMesh limit={mullions.length} range={mullions.length}>
+<InstancedMesh update={false} limit={mullions.length} range={mullions.length}>
 	<T.BoxGeometry args={[0.08, top - galleryY, 0.08]} />
 	<T.MeshStandardMaterial color="#f2f2f0" roughness={0.4} metalness={0.5} />
 	{#each mullions as deg (deg)}

@@ -1,13 +1,13 @@
 <script lang="ts">
-	import { T, useTask } from '@threlte/core';
+	import { T, useTask, useThrelte } from '@threlte/core';
 	import { Instance, InstancedMesh } from '@threlte/extras';
 	import { AdditiveBlending, BoxGeometry, CatmullRomCurve3, Color, DoubleSide, InstancedMesh as ThreeInstancedMesh, MeshBasicMaterial, Object3D, TubeGeometry, Vector3, type Mesh } from 'three';
-	import type { FloorState } from '$lib/stage/floor';
+	import type { DivisionTint, FloorState } from '$lib/stage/floor';
 	import { chamberTextures, CHAMBER_TONES, ESTATE, partyHex } from '../materials';
 	import { mergeGeometries } from 'three/addons/utils/BufferGeometryUtils.js';
 	import { deskRunGeometry } from './deskGeometry';
 	import { deskTint } from './divisionLight';
-	import { Eased, FLOOR_LIGHT, FLOOR_LIGHT_MS, liveDeskId, mixInto } from './floorLight';
+	import { Eased, FLOOR_LIGHT, FLOOR_LIGHT_MS, mixInto } from './floorLight';
 	import { CHAMBER, deskPoint, type Desk } from './layout';
 	import { llywyddDesk, type SeatAssignment } from './seating';
 
@@ -16,7 +16,8 @@
 		seats,
 		focus,
 		floor,
-		presiding = new Set<string>(),
+		liveDeskId = null,
+		paused = true,
 		reducedMotion = false,
 		hitMesh = $bindable<ThreeInstancedMesh | undefined>(),
 		pickMesh = $bindable<ThreeInstancedMesh | undefined>(),
@@ -26,8 +27,10 @@
 		seats: SeatAssignment[];
 		focus: SeatAssignment | null;
 		floor: FloorState;
-		/** Members who preside (Llywydd, Deputy): their speech lights the dais, not their desk. */
-		presiding?: ReadonlySet<string>;
+		/** From ChamberFloor: the one rule for which desk the floor light is on. */
+		liveDeskId?: string | null;
+		/** The halo holds still while the clock is not running, so a paused chamber draws no frames. */
+		paused?: boolean;
 		reducedMotion?: boolean;
 		hitMesh?: ThreeInstancedMesh;
 		/** Hidden pick volume, one fat box per desk in `desks` order, so a hover never drops into a gap between worktops. */
@@ -65,7 +68,6 @@
 		false
 	);
 	const seatByDesk = $derived(new Map(seats.map((s) => [s.desk.id, s])));
-	const deskByMember = $derived(new Map(seats.map((s) => [s.member.id, s.desk.id])));
 	// Each desk is its own wedge with a board joint to its neighbour, as in the scan; merged per row.
 	const DESK_GAP = 0.03;
 	const rows = $derived(
@@ -100,58 +102,73 @@
 	};
 	const colour = new Color();
 	const voteColour = new Color();
-	const liveId = $derived(liveDeskId(floor, deskByMember, presiding));
+	const liveId = $derived(liveDeskId);
 	const liveDesk = $derived(liveId ? (places.find((d) => d.id === liveId) ?? null) : null);
 	const poolLit = new Eased();
 	let poolDeskId: string | null = null;
 
-	useTask((dt) => {
-		const ms = reducedMotion ? 0 : FLOOR_LIGHT_MS;
-		for (const d of places) eased(lit, d.id).set(d.id === liveId ? 1 : 0);
-		if (hitMesh) {
-			const tint = floor.divisionTint;
-			places.forEach((d, i) => {
-				const e = eased(lit, d.id);
-				e.step(dt, ms);
-				const c = mixInto(colour, FLOOR_LIGHT.worktop, FLOOR_LIGHT.worktopLit, e.value);
-				// A division overrides the floor light: the worktop carries the Member's own vote.
-				const vote = deskTint(tint, seatByDesk.get(d.id)?.member.id ?? null);
-				if (vote) c.lerp(voteColour.set(vote.tone), vote.mix);
-				hitMesh!.setColorAt(i, c);
-			});
-			if (hitMesh.instanceColor) hitMesh.instanceColor.needsUpdate = true;
-		}
-		if (screenMesh) {
-			desks.forEach((d, i) => {
-				screenMesh!.setColorAt(i, mixInto(colour, FLOOR_LIGHT.screen, FLOOR_LIGHT.screenLit, eased(lit, d.id).value));
-			});
-			if (screenMesh.instanceColor) screenMesh.instanceColor.needsUpdate = true;
-		}
-		if (pool) {
-			if (liveDesk && liveDesk.id !== poolDeskId) {
-				poolDeskId = liveDesk.id;
-				const [x, y, z] = behind(liveDesk, liveDesk.row < 0 ? -0.9 : 0.9, 0.015);
-				pool.position.set(x, y, z);
-				if (halo) halo.position.set(x, y + 0.002, z);
-				if (beam) beam.position.set(x, y + 3.2, z);
-			}
-			poolLit.set(liveDesk ? 1 : 0);
-			poolLit.step(dt, ms);
-			const active = poolLit.value > 0;
-			pool.visible = active;
-			(pool.material as { opacity: number }).opacity = 0.65 * poolLit.value;
+	const { invalidate } = useThrelte();
+	// Colour buffers upload only when a desk eases, the tint changes or the seats change.
+	let paintedTint: DivisionTint | null | undefined;
+	let paintedSeats: SeatAssignment[] | null = null;
 
-			if (halo) {
-				halo.visible = active;
-				const pulse = 0.5 + 0.5 * Math.sin(performance.now() * 0.004);
-				(halo.material as { opacity: number }).opacity = (0.2 + 0.25 * pulse) * poolLit.value;
+	useTask(
+		(dt) => {
+			const ms = reducedMotion ? 0 : FLOOR_LIGHT_MS;
+			let changed = false;
+			for (const d of places) {
+				const e = eased(lit, d.id);
+				e.set(d.id === liveId ? 1 : 0);
+				if (e.step(dt, ms)) changed = true;
 			}
-			if (beam) {
-				beam.visible = active;
-				(beam.material as { opacity: number }).opacity = 0.22 * poolLit.value;
+			const tint = floor.divisionTint;
+			if (hitMesh && screenMesh && (changed || tint !== paintedTint || seats !== paintedSeats)) {
+				places.forEach((d, i) => {
+					const c = mixInto(colour, FLOOR_LIGHT.worktop, FLOOR_LIGHT.worktopLit, eased(lit, d.id).value);
+					// A division overrides the floor light: the worktop carries the Member's own vote.
+					const vote = deskTint(tint, seatByDesk.get(d.id)?.member.id ?? null);
+					if (vote) c.lerp(voteColour.set(vote.tone), vote.mix);
+					hitMesh!.setColorAt(i, c);
+				});
+				desks.forEach((d, i) => {
+					screenMesh!.setColorAt(i, mixInto(colour, FLOOR_LIGHT.screen, FLOOR_LIGHT.screenLit, eased(lit, d.id).value));
+				});
+				if (hitMesh.instanceColor) hitMesh.instanceColor.needsUpdate = true;
+				if (screenMesh.instanceColor) screenMesh.instanceColor.needsUpdate = true;
+				paintedTint = tint;
+				paintedSeats = seats;
+				changed = true;
 			}
-		}
-	});
+			if (pool) {
+				if (liveDesk && liveDesk.id !== poolDeskId) {
+					poolDeskId = liveDesk.id;
+					const [x, y, z] = behind(liveDesk, liveDesk.row < 0 ? -0.9 : 0.9, 0.015);
+					pool.position.set(x, y, z);
+					if (halo) halo.position.set(x, y + 0.002, z);
+					if (beam) beam.position.set(x, y + 3.2, z);
+					changed = true;
+				}
+				poolLit.set(liveDesk ? 1 : 0);
+				if (poolLit.step(dt, ms)) changed = true;
+				const active = poolLit.value > 0;
+				pool.visible = active;
+				(pool.material as { opacity: number }).opacity = 0.65 * poolLit.value;
+
+				if (halo) {
+					halo.visible = active;
+					const pulse = paused ? 0.5 : 0.5 + 0.5 * Math.sin(performance.now() * 0.004);
+					(halo.material as { opacity: number }).opacity = (0.2 + 0.25 * pulse) * poolLit.value;
+					if (active && !paused) changed = true;
+				}
+				if (beam) {
+					beam.visible = active;
+					(beam.material as { opacity: number }).opacity = 0.22 * poolLit.value;
+				}
+			}
+			if (changed) invalidate();
+		},
+		{ autoInvalidate: false }
+	);
 </script>
 
 <!-- Curved oak desk units, one wedge per Member, merged per row; rows alternate the board
@@ -175,14 +192,14 @@
 </InstancedMesh>
 
 <!-- Pop-up monitor: dark bezel to the Member, brushed silver back to the chamber. -->
-<InstancedMesh limit={desks.length} range={desks.length} castShadow>
+<InstancedMesh limit={desks.length} range={desks.length} update={false} castShadow>
 	<T.BoxGeometry args={[0.44, 0.27, 0.02]} />
 	<T.MeshStandardMaterial color={CHAMBER_TONES.bezel} roughness={0.45} metalness={0.2} />
 	{#each desks as d (d.id)}
 		<Instance position={behind(d, -0.28, height + 0.145)} rotation.order="YXZ" rotation.y={d.yaw} rotation.x={monitorTilt} />
 	{/each}
 </InstancedMesh>
-<InstancedMesh limit={desks.length} range={desks.length}>
+<InstancedMesh limit={desks.length} range={desks.length} update={false}>
 	<T.BoxGeometry args={[0.44, 0.27, 0.004]} />
 	<T.MeshStandardMaterial color={CHAMBER_TONES.monitor} roughness={0.3} metalness={0.5} />
 	{#each desks as d (d.id)}
@@ -223,20 +240,20 @@
 </T.Mesh>
 
 <!-- Microphone on a bent gooseneck, its head turned towards the Member. -->
-<InstancedMesh limit={desks.length} range={desks.length} geometry={gooseneck}>
+<InstancedMesh limit={desks.length} range={desks.length} update={false} geometry={gooseneck}>
 	<T.MeshStandardMaterial color="#2b2f33" roughness={0.35} metalness={0.7} />
 	{#each desks as d (d.id)}
 		<Instance position={beside(d, 0.3, 0.0, height + 0.01)} rotation.y={d.yaw} />
 	{/each}
 </InstancedMesh>
-<InstancedMesh limit={desks.length} range={desks.length}>
+<InstancedMesh limit={desks.length} range={desks.length} update={false}>
 	<T.CylinderGeometry args={[0.014, 0.02, 0.05, 10]} />
 	<T.MeshStandardMaterial color="#111417" roughness={0.6} />
 	{#each desks as d (d.id)}
 		<Instance position={beside(d, 0.3, 0.16, height + 0.35)} rotation.order="YXZ" rotation.y={d.yaw} rotation.x={1.1} />
 	{/each}
 </InstancedMesh>
-<InstancedMesh limit={desks.length} range={desks.length}>
+<InstancedMesh limit={desks.length} range={desks.length} update={false}>
 	<T.CylinderGeometry args={[0.03, 0.035, 0.012, 12]} />
 	<T.MeshStandardMaterial color="#1c1f23" roughness={0.5} metalness={0.4} />
 	{#each desks as d (d.id)}
@@ -245,28 +262,28 @@
 </InstancedMesh>
 
 <!-- Task chairs in charcoal mesh, tucked in behind the desk: star base, gas stem, seat, mesh back, arms. -->
-<InstancedMesh limit={desks.length} range={desks.length}>
+<InstancedMesh limit={desks.length} range={desks.length} update={false}>
 	<T.CylinderGeometry args={[0.3, 0.32, 0.02, 20]} />
 	<T.MeshStandardMaterial color="#3a3d41" roughness={0.4} metalness={0.5} />
 	{#each desks as d (d.id)}
 		<Instance position={behind(d, 0.78, 0.01)} />
 	{/each}
 </InstancedMesh>
-<InstancedMesh limit={desks.length} range={desks.length}>
+<InstancedMesh limit={desks.length} range={desks.length} update={false}>
 	<T.CylinderGeometry args={[0.03, 0.035, 0.4, 10]} />
 	<T.MeshStandardMaterial color="#5c6166" roughness={0.35} metalness={0.7} />
 	{#each desks as d (d.id)}
 		<Instance position={behind(d, 0.78, 0.22)} />
 	{/each}
 </InstancedMesh>
-<InstancedMesh limit={desks.length} range={desks.length} castShadow>
+<InstancedMesh limit={desks.length} range={desks.length} update={false} castShadow>
 	<T.BoxGeometry args={[0.5, 0.07, 0.48]} />
 	<T.MeshStandardMaterial map={tex.chairMesh} roughness={0.85} />
 	{#each desks as d (d.id)}
 		<Instance position={behind(d, 0.78, 0.46)} rotation.y={d.yaw} />
 	{/each}
 </InstancedMesh>
-<InstancedMesh limit={desks.length} range={desks.length} castShadow>
+<InstancedMesh limit={desks.length} range={desks.length} update={false} castShadow>
 	<T.BoxGeometry args={[0.48, 0.56, 0.05]} />
 	<T.MeshStandardMaterial map={tex.chairMesh} roughness={0.85} />
 	{#each desks as d (d.id)}
@@ -274,7 +291,7 @@
 	{/each}
 </InstancedMesh>
 {#each [-0.26, 0.26] as side (side)}
-	<InstancedMesh limit={desks.length} range={desks.length}>
+	<InstancedMesh limit={desks.length} range={desks.length} update={false}>
 		<T.BoxGeometry args={[0.04, 0.02, 0.3]} />
 		<T.MeshStandardMaterial color="#3a3d41" roughness={0.5} />
 		{#each desks as d (d.id)}

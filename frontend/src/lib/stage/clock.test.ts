@@ -158,3 +158,14 @@ describe('keyboard map', () => {
 		expect(clock.speed).toBe(4);
 	});
 });
+
+describe('SittingClock floor', () => {
+	it('keeps the same floor object while only t moves', () => {
+		const clock = new SittingClock(synthetic, null, 11);
+		const floor = clock.floor;
+		clock.seek(12);
+		expect(clock.floor).toBe(floor);
+		clock.seek(93);
+		expect(clock.floor).not.toBe(floor);
+	});
+});

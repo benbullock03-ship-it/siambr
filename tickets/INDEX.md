@@ -85,7 +85,7 @@ Spec 2.0.0 run
 | [T-32](T-32-chamber-screen-playback.md) | Chamber Screen Playback: Senedd TV on the Wall Screens, Following the Clock | Frontend | T-31 | `done` |
 | [T-33](T-33-screen-audio-credit-and-flag.md) | Screen Audio, Credit and Flag: Interpretation Audio, Attribution, Off Until Cleared | Frontend | T-32 | `done` (email not sent; flag off in production) |
 | [T-34](T-34-sitting-record-module.md) | Sitting Record Module: Shell Pages, One Loader, Cached Data | Frontend | T-14, T-33 | `done` |
-| [T-35](T-35-chamber-floor-module.md) | ChamberFloor Module: One Floor Rule, On-Demand Rendering | Frontend | T-34 | `open` |
+| [T-35](T-35-chamber-floor-module.md) | ChamberFloor Module: One Floor Rule, On-Demand Rendering | Frontend | T-34 | `done` |
 
 ---
 

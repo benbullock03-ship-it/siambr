@@ -25,7 +25,7 @@
 		paused?: boolean;
 	} = $props();
 
-	const { dom, canvas, size } = useThrelte();
+	const { dom, canvas, size, invalidate } = useThrelte();
 	let camera = $state<PerspectiveCamera>();
 
 	const raycaster = new Raycaster();
@@ -52,35 +52,41 @@
 		return null;
 	}
 
-	useTask(() => {
-		if (!camera) return;
-		rig.update();
-		camera.position.set(rig.position[0], rig.position[1], rig.position[2]);
-		camera.lookAt(rig.target[0], rig.target[1], rig.target[2]);
-		camera.updateMatrixWorld();
+	// Pose last drawn; a frame is asked for only when the rig moves the camera.
+	const drawn = [NaN, NaN, NaN, NaN, NaN, NaN];
+	useTask(
+		() => {
+			if (!camera) return;
+			rig.update();
+			const pose = [...rig.position, ...rig.target];
+			if (pose.some((v, i) => v !== drawn[i])) {
+				pose.forEach((v, i) => (drawn[i] = v));
+				camera.position.set(rig.position[0], rig.position[1], rig.position[2]);
+				camera.lookAt(rig.target[0], rig.target[1], rig.target[2]);
+				camera.updateMatrixWorld();
+				invalidate();
+			}
 
-		const seat = hud.focus;
-		if (seat) {
-			probe.set(seat.desk.x, seat.desk.y + 1.15, seat.desk.z).project(camera);
-			const visible = probe.z < 1 && Math.abs(probe.x) < 1.2 && Math.abs(probe.y) < 1.2;
-			hud.anchor = { x: ((probe.x + 1) / 2) * size.current.width, y: ((1 - probe.y) / 2) * size.current.height, visible };
-		} else if (hud.anchor.visible) {
-			hud.anchor = { x: 0, y: 0, visible: false };
-		}
+			const seat = hud.focus;
+			if (seat) {
+				probe.set(seat.desk.x, seat.desk.y + 1.15, seat.desk.z).project(camera);
+				const visible = probe.z < 1 && Math.abs(probe.x) < 1.2 && Math.abs(probe.y) < 1.2;
+				hud.place('anchor', ((probe.x + 1) / 2) * size.current.width, ((1 - probe.y) / 2) * size.current.height, visible);
+			} else {
+				hud.place('anchor', 0, 0, false);
+			}
 
-		const speakerSeat = hud.liveSpeaker;
-		if (speakerSeat) {
-			probe.set(speakerSeat.desk.x, speakerSeat.desk.y + 1.35, speakerSeat.desk.z).project(camera);
-			const visible = probe.z < 1 && Math.abs(probe.x) < 1.05 && Math.abs(probe.y) < 1.05;
-			hud.liveSpeakerAnchor = {
-				x: ((probe.x + 1) / 2) * size.current.width,
-				y: ((1 - probe.y) / 2) * size.current.height,
-				visible
-			};
-		} else if (hud.liveSpeakerAnchor.visible) {
-			hud.liveSpeakerAnchor = { x: 0, y: 0, visible: false };
-		}
-	});
+			const speakerSeat = hud.liveSpeaker;
+			if (speakerSeat) {
+				probe.set(speakerSeat.desk.x, speakerSeat.desk.y + 1.35, speakerSeat.desk.z).project(camera);
+				const visible = probe.z < 1 && Math.abs(probe.x) < 1.05 && Math.abs(probe.y) < 1.05;
+				hud.place('liveSpeakerAnchor', ((probe.x + 1) / 2) * size.current.width, ((1 - probe.y) / 2) * size.current.height, visible);
+			} else {
+				hud.place('liveSpeakerAnchor', 0, 0, false);
+			}
+		},
+		{ autoInvalidate: false }
+	);
 
 	$effect(() => {
 		let press: { x: number; y: number; t: number; type: string; id: number } | null = null;

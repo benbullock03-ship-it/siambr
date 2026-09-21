@@ -13,6 +13,7 @@
 		"test": "vitest run",
 		"test:e2e": "playwright test",
 		"test:a11y": "playwright test e2e/a11y.spec.ts",
+		"test:idle": "playwright test e2e/idle.spec.ts",
 		"test:perf": "playwright test e2e/perf.spec.ts"
 	},
 	"devDependencies": {

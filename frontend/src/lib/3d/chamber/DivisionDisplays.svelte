@@ -8,10 +8,12 @@
 
 	let { floor, t, video = null }: { floor: FloorState; t: number; video?: Texture | null } = $props();
 
-	const { scene } = useThrelte();
+	const { scene, invalidate } = useThrelte();
 	const tint = $derived(floor.divisionTint);
 	const running = $derived(floor.division);
-	const display = $derived(tint ? wallDisplay(tint.beat.division) : null);
+	// Keyed on the beat, not the tint: the tint is a new object every frame of its fade.
+	const beat = $derived(tint?.beat ?? null);
+	const display = $derived(beat ? wallDisplay(beat.division) : null);
 	const digits = $derived(running ? clockDigits(running, t) : null);
 
 	function surface(w: number, h: number): [CanvasRenderingContext2D, Texture] {
@@ -88,33 +90,48 @@
 		faces.set(name, material);
 		return material;
 	}
-	function show(name: string, texture: Texture | null, opacity: number) {
+	/** True when the face changed and needs a frame. */
+	function show(name: string, texture: Texture | null, opacity: number): boolean {
 		const material = face(name);
-		if (!material) return;
+		if (!material) return false;
+		let changed = false;
 		if (material.map !== texture) {
+			changed = true;
 			material.map = texture;
 			material.color.set(texture ? '#ffffff' : '#0a0c0e');
 			// Senedd TV frames go out unaltered: no tone mapping or fog on the video.
 			material.toneMapped = material.fog = !(texture instanceof VideoTexture);
 			material.needsUpdate = true;
 		}
-		material.opacity = texture ? opacity : 1;
+		const next = texture ? opacity : 1;
+		if (material.opacity !== next) {
+			material.opacity = next;
+			changed = true;
+		}
+		return changed;
 	}
 
 	// Both surfaces are redrawn only when their content changes, not every frame.
 	let drawnMotion: string | null = null;
 	let drawnDigits: string | null = null;
-	useTask(() => {
-		if (display && display.motion + display.tally !== drawnMotion) {
-			drawScreen(display);
-			drawnMotion = display.motion + display.tally;
-		}
-		if (digits && digits !== drawnDigits) {
-			drawClock(digits);
-			drawnDigits = digits;
-		}
-		// A division tally takes the screens over the video.
-		for (const deg of CHAMBER_SCREENS) show(`wall-screen-${deg}`, display ? screenTexture : video, display ? (tint?.strength ?? 1) : 1);
-		for (const deg of CHAMBER_CLOCKS) show(`division-clock-${deg}`, digits ? clockTexture : null, 1);
-	});
+	useTask(
+		() => {
+			let changed = false;
+			if (display && display.motion + display.tally !== drawnMotion) {
+				drawScreen(display);
+				drawnMotion = display.motion + display.tally;
+				changed = true;
+			}
+			if (digits && digits !== drawnDigits) {
+				drawClock(digits);
+				drawnDigits = digits;
+				changed = true;
+			}
+			// A division tally takes the screens over the video.
+			for (const deg of CHAMBER_SCREENS) changed = show(`wall-screen-${deg}`, display ? screenTexture : video, display ? (tint?.strength ?? 1) : 1) || changed;
+			for (const deg of CHAMBER_CLOCKS) changed = show(`division-clock-${deg}`, digits ? clockTexture : null, 1) || changed;
+			if (changed) invalidate();
+		},
+		{ autoInvalidate: false }
+	);
 </script>

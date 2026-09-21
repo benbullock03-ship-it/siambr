@@ -4,7 +4,7 @@
 	import { PMREMGenerator } from 'three/webgpu';
 	import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
 	import type { Texture } from 'three';
-	import type { FloorState } from '$lib/stage/floor';
+	import type { ChamberView } from '$lib/stage/chamberFloor';
 	import type { SittingClock } from '$lib/stage/clock.svelte';
 	import { ScreenSound } from '$lib/stage/screenVideo.svelte';
 	import ChamberScreen from './chamber/ChamberScreen.svelte';
@@ -15,7 +15,7 @@
 	import Floor from './chamber/Floor.svelte';
 	import Funnel from './chamber/Funnel.svelte';
 	import type { Desk } from './chamber/layout';
-	import { llywyddDesk, type SeatAssignment } from './chamber/seating';
+	import { llywyddDesk } from './chamber/seating';
 	import type { GuidedRig } from './controls/guided.svelte';
 	import type { Player } from './controls/player.svelte';
 	import GuidedCamera from './GuidedCamera.svelte';
@@ -26,30 +26,28 @@
 
 	let {
 		desks,
-		seats,
+		view,
 		clock = null,
 		rig,
 		player,
 		hud,
-		presiding = new Set<string>(),
 		paused = false,
 		stream = null,
 		sound = new ScreenSound()
 	}: {
 		desks: Desk[];
-		seats: SeatAssignment[];
+		view: ChamberView;
 		clock?: SittingClock | null;
 		rig: GuidedRig;
 		player: Player;
 		hud: SiambrState;
-		presiding?: ReadonlySet<string>;
 		paused?: boolean;
 		/** Senedd TV stream for the wall screens; null where the video does not run. */
 		stream?: string | null;
 		sound?: ScreenSound;
 	} = $props();
 
-	const { scene, renderer } = useThrelte();
+	const { scene, renderer, invalidate } = useThrelte();
 	scene.background = new Color(ESTATE.sky);
 	scene.fog = new Fog(ESTATE.sky, 30, 90);
 
@@ -74,14 +72,23 @@
 	let llywyddHit = $state<Mesh>();
 	const places = $derived([...desks, llywyddDesk()]);
 
-	const EMPTY_FLOOR: FloorState = { live: null, spokenMemberIds: new Set(), division: null, divisionTint: null };
-	const floor = $derived<FloorState>(clock?.floor ?? EMPTY_FLOOR);
 	let screenVideo = $state<Texture | null>(null);
 
-	useTask((dt) => {
-		if (!environmentReady) buildEnvironment();
-		if (!paused) clock?.tick(Math.min(dt, 0.25));
-	});
+	// Frames are drawn on demand: this task asks for one only while the clock moves. Every other
+	// task invalidates when it changes something, so a paused, settled chamber draws nothing.
+	useTask(
+		(dt) => {
+			if (!environmentReady) {
+				buildEnvironment();
+				invalidate();
+			}
+			if (!paused && clock?.playing) {
+				clock.tick(Math.min(dt, 0.25));
+				invalidate();
+			}
+		},
+		{ autoInvalidate: false }
+	);
 </script>
 
 <Lighting />
@@ -89,13 +96,13 @@
 <Funnel />
 <Envelope />
 <Dais />
-<Desks {desks} {seats} focus={hud.focus} {floor} {presiding} reducedMotion={hud.reducedMotion} bind:hitMesh={deskMesh} bind:pickMesh bind:llywyddHit />
+<Desks {desks} seats={view.seats} focus={hud.focus} floor={view.floor} liveDeskId={view.liveDesk?.id ?? null} paused={paused || !clock?.playing} reducedMotion={hud.reducedMotion} bind:hitMesh={deskMesh} bind:pickMesh bind:llywyddHit />
 {#if stream}
 	<ChamberScreen {clock} {stream} {sound} held={paused} bind:texture={screenVideo} />
 {/if}
-<DivisionDisplays {floor} t={clock?.t ?? 0} video={stream ? screenVideo : null} />
+<DivisionDisplays floor={view.floor} t={clock?.t ?? 0} video={stream ? screenVideo : null} />
 {#if hud.walk}
-	<Walker {player} {hud} desks={places} {seats} floors={[floorMesh]} deskMesh={pickMesh} {llywyddHit} {paused} />
+	<Walker {player} {hud} desks={places} seats={view.seats} floors={[floorMesh]} deskMesh={pickMesh} {llywyddHit} {paused} />
 {:else}
-	<GuidedCamera {rig} {hud} desks={places} {seats} deskMesh={pickMesh} {llywyddHit} {paused} />
+	<GuidedCamera {rig} {hud} desks={places} seats={view.seats} deskMesh={pickMesh} {llywyddHit} {paused} />
 {/if}

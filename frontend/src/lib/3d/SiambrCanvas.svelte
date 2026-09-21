@@ -22,6 +22,15 @@
 	// tear down the live context.
 	function createRenderer(canvas: HTMLCanvasElement) {
 		const renderer = new WebGPURenderer({ canvas, antialias: true, forceWebGL: untrack(() => forceWebGL) });
+		if (import.meta.env.DEV) {
+			// Frames drawn, for the e2e idle gate: a paused, settled chamber draws none.
+			const counter = ((window as unknown as { __siambr?: { frames: number } }).__siambr = { frames: 0 });
+			const render = renderer.render.bind(renderer);
+			renderer.render = (...args) => {
+				counter.frames++;
+				return render(...args);
+			};
+		}
 		const init = renderer.init.bind(renderer);
 		renderer.init = () =>
 			init()

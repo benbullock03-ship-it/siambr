@@ -1,6 +1,5 @@
 /** Floor-light tones and the per-desk easing behind them. DOMAIN_MODEL.md 3.3; pure, testable. */
 import { Color } from 'three';
-import type { FloorState } from '$lib/stage/floor';
 import { CHAMBER_TONES } from '../materials';
 
 export const FLOOR_LIGHT_MS = 300;
@@ -12,19 +11,6 @@ export const FLOOR_LIGHT = {
 	screenLit: '#e7eef4',
 	pool: '#ffd28a'
 } as const;
-
-/**
- * The desk to light for the floor state: the live speaker's desk when they are seated and not
- * presiding, else Y Llywydd's place (Presiding Officer, Deputy, clerk or an unseated speaker).
- * Null outside a contribution beat.
- */
-export function liveDeskId(floor: FloorState, deskByMember: Map<string, string>, presiding: ReadonlySet<string>): string | null {
-	const live = floor.live;
-	if (!live || live.kind !== 'contribution') return null;
-	const memberId = live.contribution.member_id;
-	if (memberId && !presiding.has(memberId)) return deskByMember.get(memberId) ?? 'llywydd';
-	return 'llywydd';
-}
 
 /** A scalar that eases towards its target over `ms`; a zero duration cuts. */
 export class Eased {
