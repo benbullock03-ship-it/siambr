@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { browser } from '$app/environment';
-	import { goto } from '$app/navigation';
+	import { goto, replaceState } from '$app/navigation';
 	import { page } from '$app/state';
 	import { dossierFor, type Dossier } from '$lib/data/dossier';
 	import { loadSittingForItem } from '$lib/data/loaders';
@@ -29,6 +29,25 @@
 		selectedSpeaker = filters.speaker ?? '';
 		searchQuery = filters.query ?? '';
 	});
+
+	// Every filter applies as it changes; the URL follows without a navigation, so focus and caret stay put.
+	const active = $derived(
+		parseFilters(new URLSearchParams({ term: selectedTerm, domain: selectedDomain, speaker: selectedSpeaker, q: searchQuery }))
+	);
+	$effect(() => {
+		if (!browser) return;
+		const url = new URL(page.url);
+		const want: [string, string][] = [['term', selectedTerm], ['domain', selectedDomain], ['speaker', selectedSpeaker], ['q', searchQuery]];
+		for (const [k, v] of want) {
+			if (v) url.searchParams.set(k, v);
+			else url.searchParams.delete(k);
+		}
+		if (url.search !== page.url.search) replaceState(url, page.state);
+	});
+
+	function clearFilters() {
+		selectedTerm = selectedDomain = selectedSpeaker = searchQuery = '';
+	}
 
 	let openDossier = $state<Dossier | null>(null);
 	let dossierError = $state<string | null>(null);
@@ -60,10 +79,10 @@
 		const out: SittingSummary[] = [];
 		const q = searchQuery.trim().toLowerCase();
 		for (const s of data.sittings) {
-			if (filters.term !== null && s.term !== filters.term) continue;
+			if (active.term !== null && s.term !== active.term) continue;
 			const items = s.items.filter((i) => {
-				if (filters.domain && i.policy_domain_id !== filters.domain) return false;
-				if (filters.speaker && !i.speaker_ids.includes(filters.speaker)) return false;
+				if (active.domain && i.policy_domain_id !== active.domain) return false;
+				if (active.speaker && !i.speaker_ids.includes(active.speaker)) return false;
 				if (q) {
 					const titleEn = i.title_en.toLowerCase();
 					const titleCy = (i.title_cy ?? '').toLowerCase();
@@ -72,7 +91,7 @@
 				}
 				return true;
 			});
-			if (items.length || (!filters.domain && !filters.speaker && !q)) {
+			if (items.length || (!active.domain && !active.speaker && !q)) {
 				out.push({ ...s, items });
 			}
 		}
@@ -89,14 +108,25 @@
 		filtered.reduce((acc, s) => acc + s.items.length, 0)
 	);
 
-	function isSessionOpen(sittingId: string, globalIndex: number): boolean {
+	/** The sitting that holds ?item=, opened on arrival alongside the newest. */
+	const itemSittingId = $derived(itemId ? (data.sittings.find((s) => s.items.some((i) => i.id === itemId))?.id ?? null) : null);
+
+	function isSessionOpen(sittingId: string): boolean {
 		if (globalExpandState !== null) return globalExpandState;
 		if (sittingId in manualToggles) return manualToggles[sittingId];
-		// Auto-expand if active query, domain, speaker filter, or viewing an item
-		if (searchQuery.trim() || filters.domain || filters.speaker || itemId) return true;
-		// By default, expand the first 3 recent sittings
-		return globalIndex < 3;
+		if (searchQuery.trim() || active.domain || active.speaker) return true;
+		// A short first paint: only the newest sitting opens by default.
+		return sittingId === filtered[0]?.id || sittingId === itemSittingId;
 	}
+
+	// Arriving with ?item= scrolls its row into view once, under the dossier.
+	let scrolledTo: string | null = null;
+	$effect(() => {
+		const id = itemId;
+		if (!browser || !id || scrolledTo === id) return;
+		scrolledTo = id;
+		requestAnimationFrame(() => document.getElementById(itemLinkId(id))?.scrollIntoView({ block: 'center' }));
+	});
 
 	function handleSessionToggle(sittingId: string, isOpen: boolean) {
 		manualToggles[sittingId] = isOpen;
@@ -165,7 +195,7 @@
 		{/if}
 	</div>
 
-	<form method="GET" class="filter-panel" data-sveltekit-keepfocus data-sveltekit-noscroll>
+	<form class="filter-panel" onsubmit={(e) => e.preventDefault()}>
 		<div class="search-row">
 			<div class="search-field">
 				<label for="f-search" class="visually-hidden">Search debates</label>
@@ -212,17 +242,16 @@
 				</select>
 			</div>
 			<div class="actions">
-				<button type="submit" class="button-primary">Apply filters</button>
-				<a href="/register" class="link-clear">Clear filters</a>
+				<button type="button" class="link-clear" onclick={clearFilters}>Clear filters</button>
 			</div>
 		</div>
 	</form>
 
 	<div class="results-bar">
-		<p class="small results-count">
-			Showing <strong>{filtered.length}</strong> {filtered.length === 1 ? 'sitting' : 'sittings'}
-			({totalDebatesCount} {totalDebatesCount === 1 ? 'debate' : 'debates'})
-			{#if searchQuery || filters.domain || filters.speaker || filters.term}
+		<p class="small results-count" aria-live="polite">
+			<strong data-numeric>{filtered.length}</strong> {filtered.length === 1 ? 'sitting' : 'sittings'},
+			<span data-numeric>{totalDebatesCount}</span> {totalDebatesCount === 1 ? 'debate' : 'debates'}
+			{#if searchQuery || active.domain || active.speaker || active.term}
 				<span class="filtered-tag">Filtered</span>
 			{/if}
 		</p>
@@ -236,7 +265,7 @@
 	{#if byTerm.length === 0}
 		<div class="empty-state">
 			<p class="empty">No Plenary sittings on record for these filters.</p>
-			<a href="/register" class="button-primary reset-btn">Clear all filters</a>
+			<button type="button" class="button-primary reset-btn" onclick={clearFilters}>Clear all filters</button>
 		</div>
 	{/if}
 
@@ -248,8 +277,8 @@
 			</header>
 
 			<div class="sittings-container">
-				{#each termSittings as sitting, idx (sitting.id)}
-					{@const open = isSessionOpen(sitting.id, idx)}
+				{#each termSittings as sitting (sitting.id)}
+					{@const open = isSessionOpen(sitting.id)}
 					<details
 						class="session-card"
 						{open}
@@ -269,6 +298,9 @@
 								<span class="pill-badge">{sitting.items.length} {sitting.items.length === 1 ? 'debate' : 'debates'}</span>
 								<span class="pill-badge pill-speeches" data-numeric>{sitting.contribution_count} speeches</span>
 							</div>
+							{#if sitting.items.length}
+								<p class="session-preview small">{sitting.items.slice(0, 3).map((i) => i.title_en).join(' · ')}{sitting.items.length > 3 ? ' …' : ''}</p>
+							{/if}
 						</summary>
 
 						<div class="session-body">
@@ -353,7 +385,7 @@
 	<DossierPlate
 		dossier={openDossier}
 		targetSpeechId={speechId ?? undefined}
-		targetSpeakerId={filters.speaker ?? undefined}
+		targetSpeakerId={active.speaker ?? undefined}
 		onclose={closeDossier}
 	/>
 {/if}
@@ -535,6 +567,11 @@
 	}
 
 	.link-clear {
+		padding: 0;
+		border: 0;
+		background: none;
+		cursor: pointer;
+		font: inherit;
 		font-size: var(--text-small);
 		color: var(--color-body-text);
 		text-decoration: underline;
@@ -662,6 +699,19 @@
 		display: flex;
 		align-items: center;
 		gap: 0.75rem;
+		min-width: 0;
+	}
+
+	/* Its own row under the date and counts, so a closed sitting is still scannable. */
+	.session-preview {
+		flex-basis: 100%;
+		min-width: 0;
+		margin: -0.35rem 0 0;
+		padding-left: 1.7rem;
+		color: var(--color-body-text);
+		white-space: nowrap;
+		overflow: hidden;
+		text-overflow: ellipsis;
 	}
 
 	.session-chevron {
@@ -864,7 +914,7 @@
 	.type-badge {
 		padding: 0.15rem 0.55rem;
 		border-radius: 100px;
-		font-size: 0.72rem;
+		font-size: 0.75rem;
 		font-weight: 600;
 		text-transform: uppercase;
 		letter-spacing: 0.05em;
@@ -960,15 +1010,46 @@
 		margin: 1rem 0;
 	}
 
+	/* Phone: the date and the counts, then the preview; two lines at most. */
 	@media (max-width: 640px) {
 		.session-summary {
-			flex-direction: column;
-			align-items: flex-start;
+			flex-wrap: wrap;
+			padding: 0.6rem 0.9rem;
+			gap: 0.5rem;
+		}
+
+		.session-summary-left {
+			gap: 0.5rem;
+		}
+
+		.session-title {
+			font-size: 0.9rem;
+			white-space: nowrap;
 		}
 
 		.session-summary-right {
-			width: 100%;
-			justify-content: flex-end;
+			margin-left: auto;
+			gap: 0.3rem;
+		}
+
+		.pill-badge {
+			padding: 0.1rem 0.4rem;
+			font-size: 0.75rem;
+		}
+
+		.session-preview {
+			margin-top: -0.25rem;
+			padding-left: 1.4rem;
+		}
+
+		.session-title-sep,
+		.session-name {
+			display: none;
+		}
+
+		.session-summary-right {
+			flex-shrink: 0;
+			gap: 0.35rem;
 		}
 
 		.item-card {

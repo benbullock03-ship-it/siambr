@@ -75,7 +75,7 @@ Spec 2.0.0 run
 | [T-27](T-27-phone-stage-and-header-layout.md) | Phone Layout: HUD Plates Clear of the Sheet, Header Nav That Fits | Frontend | T-18, T-25 | `done` |
 | [T-28](T-28-record-links-on-every-quote.md) | Record Links on Every Quote: Readable Y Cofnod Page, Not an XML Download | Pipeline + Frontend | T-14, T-20 | `pending` |
 | [T-29](T-29-divisions-index-and-search.md) | Divisions Index and Search: Find a Vote Without Knowing the Date | Pipeline + Frontend | T-19, T-20, T-25 | `pending` |
-| [T-30](T-30-register-filters-and-page-length.md) | Register Filters and Page Length: One Filter Behaviour, Shorter First Paint | Frontend | T-20 | `pending` |
+| [T-30](T-30-register-filters-and-page-length.md) | Register Filters and Page Length: One Filter Behaviour, Shorter First Paint | Frontend | T-20 | `done` |
 
 ---
 
