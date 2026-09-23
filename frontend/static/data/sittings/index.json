@@ -1,5 +1,73 @@
 [
   {
+    "contribution_count": 93,
+    "date": "2026-09-22",
+    "id": "plenary-16262",
+    "item_count": 2,
+    "items": [
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16262-260922-1",
+        "order": 0,
+        "policy_domain_id": "devolution",
+        "speaker_ids": [
+          "ms-adrian-mason",
+          "ms-alun-cox",
+          "ms-andrew-rt-davies",
+          "ms-anna-nicholl",
+          "ms-anthony-slaughter",
+          "ms-cai-parry-jones",
+          "ms-claire-johnson-wood",
+          "ms-darren-millar",
+          "ms-gareth-beer",
+          "ms-helen-jenner",
+          "ms-huw-irranca-davies",
+          "ms-huw-thomas",
+          "ms-ken-skates",
+          "ms-lindsay-whittle",
+          "ms-llyr-powell",
+          "ms-marc-jones",
+          "ms-matthew-jones",
+          "ms-paul-davies",
+          "ms-paul-marr",
+          "ms-peter-fox",
+          "ms-rebeca-phillips",
+          "ms-rhun-ap-iorwerth",
+          "ms-sam-rowlands",
+          "ms-steve-bayliss",
+          "ms-steven-rodaway",
+          "ms-vikki-howells"
+        ],
+        "title_cy": "1. Cwestiynau i'r Prif Weinidog",
+        "title_en": "1. Questions to the First Minister",
+        "type": "oral_questions"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16262-260922-3",
+        "order": 1,
+        "policy_domain_id": "devolution",
+        "speaker_ids": [
+          "ms-heledd-fychan",
+          "ms-jayne-bryant",
+          "ms-kerry-ferguson",
+          "ms-llyr-powell",
+          "ms-paul-davies"
+        ],
+        "title_cy": "3. Datganiad a Chyhoeddiad Busnes",
+        "title_en": "3. Business Statement and Announcement",
+        "type": "statement"
+      }
+    ],
+    "meeting_id": 16262,
+    "meeting_start_time": "13:30:00",
+    "record_published_at": "2026-09-22T16:12:51",
+    "source_xml_url": "https://record.senedd.wales/XMLExport/Download?meetingID=16262&xmlDownloadType=BilingualTranscript",
+    "term": 7,
+    "title_cy": "Cyfarfod Llawn",
+    "title_en": "Plenary"
+  },
+  {
     "contribution_count": 237,
     "date": "2026-09-16",
     "id": "plenary-16261",

@@ -3,8 +3,31 @@
   "canonical_name": "Anthony Slaughter",
   "constituency_name_cy": "Caerdydd Penarth",
   "constituency_name_en": "Caerdydd Penarth",
-  "contribution_count": 10,
+  "contribution_count": 12,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-770743",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "3. What is the Welsh Government doing to prepare for adverse and extreme weather events this winter? OQ64508",
+          "text_original": "3. Beth mae Llywodraeth Cymru yn ei wneud i baratoi ar gyfer digwyddiadau tywydd garw ac eithafol y gaeaf hwn? OQ64508"
+        },
+        {
+          "id": "contribution-770746",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 1750,
+          "text_english": "Thank you. Last week, First Minister, you issued a statement saying that you will convene a resilience summit focusing on wildfires—very much welcomed. Yet, we must be ready for all of the escalating risks of a changing climate. This includes extreme cold, winter flooding and severe storms this coming winter. The Met Office has warned of a heightened risk on the horizon due to an unprecedented El Niño event this year, only highlighted in shocking headlines yesterday, recording the record breaking of 150 years of records. Weaknesses in our infrastructure and our resilience, such as recently witnessed in Gwaelod-y-garth, will only become more apparent in the coming months.\n\nWales is dangerously unprepared for the predicted onslaught of extreme weather conditions. Climate response must be integrated as our first line of defence. Welsh Government allocated in its supplementary budget just £1 million for emergency preparedness. Establishing a climate shock fund would be a vital step forward in demonstrating that the Welsh Government is serious about protecting communities this winter, with or without UK Government support. What discussions has the First Minister had with the UK Government on funding these emergency measures? Diolch.",
+          "text_original": "Thank you. Last week, First Minister, you issued a statement saying that you will convene a resilience summit focusing on wildfires—very much welcomed. Yet, we must be ready for all of the escalating risks of a changing climate. This includes extreme cold, winter flooding and severe storms this coming winter. The Met Office has warned of a heightened risk on the horizon due to an unprecedented El Niño event this year, only highlighted in shocking headlines yesterday, recording the record breaking of 150 years of records. Weaknesses in our infrastructure and our resilience, such as recently witnessed in Gwaelod-y-garth, will only become more apparent in the coming months.\n\nWales is dangerously unprepared for the predicted onslaught of extreme weather conditions. Climate response must be integrated as our first line of defence. Welsh Government allocated in its supplementary budget just £1 million for emergency preparedness. Establishing a climate shock fund would be a vital step forward in demonstrating that the Welsh Government is serious about protecting communities this winter, with or without UK Government support. What discussions has the First Minister had with the UK Government on funding these emergency measures? Diolch."
+        }
+      ],
+      "date": "2026-09-22"
+    },
     {
       "contributions": [
         {

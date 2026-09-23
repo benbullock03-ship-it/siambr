@@ -3,8 +3,31 @@
   "canonical_name": "Lindsay Whittle",
   "constituency_name_cy": "Blaenau Gwent Caerffili Rhymni",
   "constituency_name_en": "Blaenau Gwent Caerffili Rhymni",
-  "contribution_count": 14,
+  "contribution_count": 16,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-770807",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "9. How will the Welsh Government ensure that women can access opportunities in major growth sectors, including advanced manufacturing, clean energy, and information technology? OQ64494",
+          "text_original": "9. Sut y bydd Llywodraeth Cymru yn sicrhau bod menywod yn gallu cael mynediad at gyfleoedd mewn sectorau twf mawr, gan gynnwys gweithgynhyrchu uwch, ynni glân, a thechnoleg gwybodaeth? OQ64494"
+        },
+        {
+          "id": "contribution-770812",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 3467,
+          "text_english": "First Minister, thank you for that answer. I welcome the Welsh Government's focus on growth sectors and its commitment to fairness in the workplace. But to ensure, in the Valleys that I represent, that women directly benefit from these opportunities, could you expand any further on how you will agree to work alongside local authorities and industry partners to explore the targeted apprenticeship pathways for women in our former coalfield Valleys, please?",
+          "text_original": "First Minister, thank you for that answer. I welcome the Welsh Government's focus on growth sectors and its commitment to fairness in the workplace. But to ensure, in the Valleys that I represent, that women directly benefit from these opportunities, could you expand any further on how you will agree to work alongside local authorities and industry partners to explore the targeted apprenticeship pathways for women in our former coalfield Valleys, please?"
+        }
+      ],
+      "date": "2026-09-22"
+    },
     {
       "contributions": [
         {

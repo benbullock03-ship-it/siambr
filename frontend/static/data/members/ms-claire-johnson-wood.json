@@ -3,8 +3,22 @@
   "canonical_name": "Claire Johnson-Wood",
   "constituency_name_cy": "Gwynedd Maldwyn",
   "constituency_name_en": "Gwynedd Maldwyn",
-  "contribution_count": 8,
+  "contribution_count": 9,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-770755",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 2459,
+          "text_english": "Diolch. First Minister, what Welsh farmers need is a Government that understands and prioritises, not yet another 'expert panel' kicking the can down the road. Given that under the previous Labour-Plaid administration the sustainable farming scheme significantly increased regulatory complexity, can the Welsh Government please give assurances that the national food strategy will not place additional bureaucratic burdens on farmers and producers that they do not need at this time?",
+          "text_original": "Diolch. First Minister, what Welsh farmers need is a Government that understands and prioritises, not yet another 'expert panel' kicking the can down the road. Given that under the previous Labour-Plaid administration the sustainable farming scheme significantly increased regulatory complexity, can the Welsh Government please give assurances that the national food strategy will not place additional bureaucratic burdens on farmers and producers that they do not need at this time?"
+        }
+      ],
+      "date": "2026-09-22"
+    },
     {
       "contributions": [
         {

@@ -3,8 +3,31 @@
   "canonical_name": "Gareth Beer",
   "constituency_name_cy": "Sir Gaerfyrddin",
   "constituency_name_en": "Sir Gaerfyrddin",
-  "contribution_count": 11,
+  "contribution_count": 13,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-770786",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "7. What action is the Welsh Government taking to reduce river pollution levels in Carmarthenshire? OQ64555",
+          "text_original": "7. Pa gamau y mae Llywodraeth Cymru yn eu cymryd i leihau lefelau llygredd afonydd yn Sir Gaerfyrddin? OQ64555"
+        },
+        {
+          "id": "contribution-770796",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 3160,
+          "text_english": "Diolch, First Minister. People whose livelihoods depend on Carmarthenshire's rivers, including members of Carmarthen Coracle and Netsmen's Association, tell us they have never seen such a poor season, with the return of only six sewin from May to June this year. Their experience makes clear that river pollution must be treated with a far greater urgency. I urge you to read the Royal Society's recent report on chemical mixtures in British waterways. Quote: 'Regulators are flying blind.' Unquote.\n\nIn Carmarthenshire, Natural Resources Wales seem to be flying blind. Our rivers are being contaminated by harmful chemical mixtures, including organics, ammonia, microplastics, cadmium and mercury, with no understanding of their interactions or the harm done. Will you acknowledge that the Welsh Government lacks a credible plan to clean up our rivers, and set out how it will meet its political duty to protect our waters and rivers and special areas of conservation?",
+          "text_original": "Diolch, First Minister. People whose livelihoods depend on Carmarthenshire's rivers, including members of Carmarthen Coracle and Netsmen's Association, tell us they have never seen such a poor season, with the return of only six sewin from May to June this year. Their experience makes clear that river pollution must be treated with a far greater urgency. I urge you to read the Royal Society's recent report on chemical mixtures in British waterways. Quote: 'Regulators are flying blind.' Unquote.\n\nIn Carmarthenshire, Natural Resources Wales seem to be flying blind. Our rivers are being contaminated by harmful chemical mixtures, including organics, ammonia, microplastics, cadmium and mercury, with no understanding of their interactions or the harm done. Will you acknowledge that the Welsh Government lacks a credible plan to clean up our rivers, and set out how it will meet its political duty to protect our waters and rivers and special areas of conservation?"
+        }
+      ],
+      "date": "2026-09-22"
+    },
     {
       "contributions": [
         {

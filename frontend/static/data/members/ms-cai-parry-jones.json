@@ -3,8 +3,31 @@
   "canonical_name": "Cai Parry-Jones",
   "constituency_name_cy": "Caerdydd Ffynnon Taf",
   "constituency_name_en": "Caerdydd Ffynnon Taf",
-  "contribution_count": 26,
+  "contribution_count": 28,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-770823",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "10. Will the First Minister provide an update on the implementation of the Senedd Cymru (Member Accountability and Elections) Act 2026? OQ64560",
+          "text_original": "10. A wnaiff y Prif Weinidog roi'r wybodaeth ddiweddaraf am weithredu Deddf Senedd Cymru (Atebolrwydd Aelodau ac Etholiadau) 2026? OQ64560"
+        },
+        {
+          "id": "contribution-770827",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 3580,
+          "text_english": "Diolch, Brif Weinidog. Part of this Act places a duty on your Government to bring in rules banning false or misleading statements of fact, made before or during an election, to affect who is elected. It also lets your Government set out what does and does not count as a statement of fact. If it is, in fact, true that a candidate misrepresents their own beliefs to win votes, and that becomes clear after polling day, will your Government treat that as a false statement of fact?",
+          "text_original": "Diolch, Brif Weinidog. Part of this Act places a duty on your Government to bring in rules banning false or misleading statements of fact, made before or during an election, to affect who is elected. It also lets your Government set out what does and does not count as a statement of fact. If it is, in fact, true that a candidate misrepresents their own beliefs to win votes, and that becomes clear after polling day, will your Government treat that as a false statement of fact?"
+        }
+      ],
+      "date": "2026-09-22"
+    },
     {
       "contributions": [
         {

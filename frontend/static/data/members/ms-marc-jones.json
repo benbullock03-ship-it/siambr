@@ -3,8 +3,31 @@
   "canonical_name": "Marc Jones",
   "constituency_name_cy": "Fflint Wrecsam",
   "constituency_name_en": "Fflint Wrecsam",
-  "contribution_count": 10,
+  "contribution_count": 12,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-770794",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "6. What consideration has the Welsh Government given to ensuring that the costs of remediating illegally dumped waste are paid by the people responsible, rather than by taxpayers? OQ64553",
+          "text_original": "6. Pa ystyriaeth y mae Llywodraeth Cymru wedi’i rhoi i sicrhau bod costau adfer safleoedd lle mae gwastraff wedi’i waredu’n anghyfreithlon yn cael eu talu gan y rhai sy’n gyfrifol, yn hytrach na chan drethdalwyr?​‌ OQ64553"
+        },
+        {
+          "id": "contribution-770765",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 3012,
+          "text_english": "Diolch, Brif Weinidog. In Fflint Wrecsam, you may be aware that communities continue to deal with both the historic legacy of illegal waste dumping and the current active sites that are causing ongoing problems for residents in my constituency. Time and again, we see the companies responsible for these environmental crimes avoid accountability by entering liquidation and walking away from the costs of remediation. This leaves local communities to deal with the consequences and risks shifting the burden of cleaning up onto the public purse. How will Welsh Government work with the UK Government, local authorities and relevant public bodies to address this ongoing issue?",
+          "text_original": "Diolch, Brif Weinidog. In Fflint Wrecsam, you may be aware that communities continue to deal with both the historic legacy of illegal waste dumping and the current active sites that are causing ongoing problems for residents in my constituency. Time and again, we see the companies responsible for these environmental crimes avoid accountability by entering liquidation and walking away from the costs of remediation. This leaves local communities to deal with the consequences and risks shifting the burden of cleaning up onto the public purse. How will Welsh Government work with the UK Government, local authorities and relevant public bodies to address this ongoing issue?"
+        }
+      ],
+      "date": "2026-09-22"
+    },
     {
       "contributions": [
         {

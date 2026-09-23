@@ -3,8 +3,40 @@
   "canonical_name": "Llŷr Powell",
   "constituency_name_cy": "Blaenau Gwent Caerffili Rhymni",
   "constituency_name_en": "Blaenau Gwent Caerffili Rhymni",
-  "contribution_count": 18,
+  "contribution_count": 21,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-770802",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "8. What is the Welsh Government doing to address NHS waiting times in Blaenau Gwent Caerfilli Rhymni? OQ64559",
+          "text_original": "8. Beth mae Llywodraeth Cymru yn ei wneud i fynd i'r afael ag amseroedd aros y GIG ym Mlaenau Gwent Caerfilli Rhymni? OQ64559"
+        },
+        {
+          "id": "contribution-770789",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 3308,
+          "text_english": "First Minister, a constituent has come to me who is now unable to work because he has a hernia. He's been waiting close to 36 weeks for his surgery. He's living in pain. He feels it affects his family life, his relationship with his children, all because he's waiting to be seen. During the election, you looked down a camera and told the people of Wales that these waiting lists will see an impact within months. We learnt during recess from your health Minister that months could take up to, now, years. [Interruption.] So, the Minister was wrong when he said that waiting lists will take years to address, was he? That's what he said. So, what can you tell the people of Wales? Do you regret saying it's going to be months, because from reports last week, waiting lists are going up and not down? So, will you apologise to the people of Wales for your statement at the election?",
+          "text_original": "First Minister, a constituent has come to me who is now unable to work because he has a hernia. He's been waiting close to 36 weeks for his surgery. He's living in pain. He feels it affects his family life, his relationship with his children, all because he's waiting to be seen. During the election, you looked down a camera and told the people of Wales that these waiting lists will see an impact within months. We learnt during recess from your health Minister that months could take up to, now, years. [Interruption.] So, the Minister was wrong when he said that waiting lists will take years to address, was he? That's what he said. So, what can you tell the people of Wales? Do you regret saying it's going to be months, because from reports last week, waiting lists are going up and not down? So, will you apologise to the people of Wales for your statement at the election?"
+        },
+        {
+          "id": "contribution-770924",
+          "item_id": "item-16262-260922-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 6682,
+          "text_english": "Trefnydd, I'd be grateful if I could have a statement on local train overcrowding. Transport for Wales's service, Bridgend to Rhymney, is currently the third most overcrowded service between peak hours in the UK. That service now is affecting commuters, affecting their transport into work. It's very uneasy for elderly people to get a seat, and it's something that my constituents are raising with me quite often. So, I'd be grateful, Trefnydd, and if the Minister sitting here could come forward with something so that we can address the overcrowding on Welsh trains. Diolch.",
+          "text_original": "Trefnydd, I'd be grateful if I could have a statement on local train overcrowding. Transport for Wales's service, Bridgend to Rhymney, is currently the third most overcrowded service between peak hours in the UK. That service now is affecting commuters, affecting their transport into work. It's very uneasy for elderly people to get a seat, and it's something that my constituents are raising with me quite often. So, I'd be grateful, Trefnydd, and if the Minister sitting here could come forward with something so that we can address the overcrowding on Welsh trains. Diolch."
+        }
+      ],
+      "date": "2026-09-22"
+    },
     {
       "contributions": [
         {

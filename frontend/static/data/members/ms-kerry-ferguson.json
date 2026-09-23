@@ -3,8 +3,22 @@
   "canonical_name": "Kerry Ferguson",
   "constituency_name_cy": "Ceredigion Penfro",
   "constituency_name_en": "Ceredigion Penfro",
-  "contribution_count": 272,
+  "contribution_count": 273,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-770918",
+          "item_id": "item-16262-260922-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "cy",
+          "t_start": 6656,
+          "text_english": "We'll move now to item 3: the business statement and announcement. I call on the Trefnydd—Heledd Fychan.",
+          "text_original": "Symudwn ymlaen i eitem 3: datganiad a chyhoeddiad busnes. Galwaf ar y Trefnydd—Heledd Fychan."
+        }
+      ],
+      "date": "2026-09-22"
+    },
     {
       "contributions": [
         {
