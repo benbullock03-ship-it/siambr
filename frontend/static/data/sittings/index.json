@@ -1,5 +1,213 @@
 [
   {
+    "contribution_count": 280,
+    "date": "2026-09-23",
+    "id": "plenary-16263",
+    "item_count": 9,
+    "items": [
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16263-260923-1",
+        "order": 0,
+        "policy_domain_id": "transport",
+        "speaker_ids": [
+          "ms-adam-price",
+          "ms-anna-nicholl",
+          "ms-beca-brown",
+          "ms-catherine-cullen",
+          "ms-david-hughes",
+          "ms-david-mills",
+          "ms-elfed-williams",
+          "ms-huw-thomas",
+          "ms-iain-mcintosh",
+          "ms-jane-dodds",
+          "ms-janet-finch-saunders",
+          "ms-jason-o-connell",
+          "ms-joe-martin",
+          "ms-kerry-ferguson",
+          "ms-lis-mclean",
+          "ms-llyr-powell",
+          "ms-mark-hooper",
+          "ms-paul-marr",
+          "ms-shav-taj",
+          "ms-vikki-howells"
+        ],
+        "title_cy": "1. Cwestiynau i’r Gweinidog Cabinet dros Fenter, Cysylltedd ac Ynni",
+        "title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+        "type": "oral_questions"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16263-260923-2",
+        "order": 1,
+        "policy_domain_id": "education",
+        "speaker_ids": [
+          "ms-andrew-rt-davies",
+          "ms-anna-brychan",
+          "ms-anthony-slaughter",
+          "ms-becca-martin",
+          "ms-cefin-campbell",
+          "ms-claire-archibald",
+          "ms-francesca-o-brien",
+          "ms-huw-thomas",
+          "ms-jason-o-connell",
+          "ms-joe-martin",
+          "ms-kerry-ferguson",
+          "ms-kiera-marshall",
+          "ms-lis-mclean",
+          "ms-lynne-neagle",
+          "ms-nick-carter",
+          "ms-paul-davies",
+          "ms-sam-rowlands",
+          "ms-sarah-edwards",
+          "ms-stephen-senior",
+          "ms-vikki-howells"
+        ],
+        "title_cy": "2. Cwestiynau i'r Gweinidog Cabinet dros Addysg a’r Gymraeg",
+        "title_en": "2. Questions to the Cabinet Minister for Education and Welsh Language",
+        "type": "oral_questions"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16263-260923-3",
+        "order": 2,
+        "policy_domain_id": "devolution",
+        "speaker_ids": [
+          "ms-catherine-cullen",
+          "ms-francesca-o-brien",
+          "ms-gwyn-williams",
+          "ms-huw-irranca-davies",
+          "ms-jane-dodds",
+          "ms-joe-martin",
+          "ms-kerry-ferguson",
+          "ms-kiera-marshall",
+          "ms-lindsay-whittle",
+          "ms-louise-emery",
+          "ms-niamh-salkeld",
+          "ms-peredur-owen-griffiths"
+        ],
+        "title_cy": "3. Cwestiynau i Gomisiwn y Senedd",
+        "title_en": "3. Questions to the Senedd Commission",
+        "type": "oral_questions"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16263-260923-4",
+        "order": 3,
+        "policy_domain_id": "devolution",
+        "speaker_ids": [
+          "ms-kerry-ferguson"
+        ],
+        "title_cy": "4. Cwestiynau Amserol",
+        "title_en": "4. Topical Questions",
+        "type": "oral_questions"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16263-260923-5",
+        "order": 4,
+        "policy_domain_id": "devolution",
+        "speaker_ids": [
+          "ms-huw-irranca-davies",
+          "ms-jane-dodds",
+          "ms-kerry-ferguson",
+          "ms-kiera-marshall",
+          "ms-safa-elhassan",
+          "ms-sarah-rees"
+        ],
+        "title_cy": "5. Datganiadau 90 eiliad",
+        "title_en": "5. 90-second Statements",
+        "type": "statement"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16263-260923-6",
+        "order": 5,
+        "policy_domain_id": "education",
+        "speaker_ids": [
+          "ms-benjamin-hodge-mckenna",
+          "ms-cefin-campbell",
+          "ms-huw-irranca-davies",
+          "ms-huw-thomas",
+          "ms-jane-dodds",
+          "ms-joshua-kim",
+          "ms-lynne-neagle",
+          "ms-mike-hedges",
+          "ms-niamh-salkeld",
+          "ms-sam-rowlands",
+          "ms-vikki-howells",
+          "ms-zaynub-akbar"
+        ],
+        "title_cy": "6. Dadl Llafur Cymru: Addysg Bellach",
+        "title_en": "6. Welsh Labour Debate: Further education",
+        "type": "debate"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16263-260923-7",
+        "order": 6,
+        "policy_domain_id": "devolution",
+        "speaker_ids": [
+          "ms-adrian-mason",
+          "ms-alun-cox",
+          "ms-carrie-harper",
+          "ms-dafydd-trystan-davies",
+          "ms-darren-millar",
+          "ms-elfed-williams",
+          "ms-francesca-o-brien",
+          "ms-gareth-beer",
+          "ms-huw-irranca-davies",
+          "ms-huw-thomas",
+          "ms-iain-mcintosh",
+          "ms-james-evans",
+          "ms-mike-hedges"
+        ],
+        "title_cy": "7. Dadl Reform UK: Cymru a'r Deyrnas Unedig",
+        "title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+        "type": "debate"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16263-260923-8",
+        "order": 7,
+        "policy_domain_id": "devolution",
+        "speaker_ids": [
+          "ms-huw-irranca-davies"
+        ],
+        "title_cy": "8. Cyfnod Pleidleisio",
+        "title_en": "8. Voting Time",
+        "type": "debate"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16263-260923-9",
+        "order": 8,
+        "policy_domain_id": "health",
+        "speaker_ids": [
+          "ms-anthony-slaughter",
+          "ms-cristiana-emsley",
+          "ms-heledd-fychan",
+          "ms-huw-irranca-davies",
+          "ms-joe-martin",
+          "ms-mabon-ap-gwynfor",
+          "ms-matthew-jones",
+          "ms-natasha-asghar",
+          "ms-sarah-rees"
+        ],
+        "title_cy": "9. Dadl Fer: Yr oedi annerbyniol mewn triniaeth wedi'i threfnu ar gyfer cleifion traws",
+        "title_en": "9. Short Debate: The unacceptable pause in scheduled treatment for trans patients",
+        "type": "debate"
+      }
+    ],
+    "meeting_id": 16263,
+    "meeting_start_time": "13:30:00",
+    "record_published_at": "2026-09-24T11:52:51",
+    "source_xml_url": "https://record.senedd.wales/XMLExport/Download?meetingID=16263&xmlDownloadType=BilingualTranscript",
+    "term": 7,
+    "title_cy": "Cyfarfod Llawn",
+    "title_en": "Plenary"
+  },
+  {
     "contribution_count": 93,
     "date": "2026-09-22",
     "id": "plenary-16262",

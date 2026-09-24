@@ -3,8 +3,31 @@
   "canonical_name": "Anna Nicholl",
   "constituency_name_cy": "Ceredigion Penfro",
   "constituency_name_en": "Ceredigion Penfro",
-  "contribution_count": 27,
+  "contribution_count": 29,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-771405",
+          "item_id": "item-16263-260923-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "6. How will the Cabinet Minister ensure that the benefits of the Welsh Government's new national energy strategy are retained within local communities? OQ64542",
+          "text_original": "6. Sut y bydd y Gweinidog Cabinet yn sicrhau bod manteision strategaeth ynni genedlaethol newydd Llywodraeth Cymru yn cael eu cadw o fewn cymunedau lleol? OQ64542"
+        },
+        {
+          "id": "contribution-771412",
+          "item_id": "item-16263-260923-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "en",
+          "t_start": 2354,
+          "text_english": "Diolch. I welcome this Government's commitment to a renewable energy strategy that retains value in Welsh communities. The net-zero economy is already a significant and high-value component of the Welsh economy. There are particular opportunities in Ceredigion Penfro, with 1,600 jobs in the sector in Pembrokeshire alone already, and billions set to be invested in upcoming projects. This ranges from successful community-owned projects, such as Cwm Arian, to large-scale initiatives, like the Celtic Freeport.\n\nNet zero is now an integral part of Welsh industry, and we've got huge potential to develop this further. The transition to net zero is a major economic opportunity, but I also welcome what the Minister has said here, that there needs to be a proper, planned strategy as to how we do this, both spatially and to balance the benefits for our economy, our communities and the environment. So, could the Cabinet Minister describe, as more energy infrastructure is developed in our rural communities, how Government will now ensure genuine benefit through local ownership jobs and skills and lower energy bills?",
+          "text_original": "Diolch. I welcome this Government's commitment to a renewable energy strategy that retains value in Welsh communities. The net-zero economy is already a significant and high-value component of the Welsh economy. There are particular opportunities in Ceredigion Penfro, with 1,600 jobs in the sector in Pembrokeshire alone already, and billions set to be invested in upcoming projects. This ranges from successful community-owned projects, such as Cwm Arian, to large-scale initiatives, like the Celtic Freeport.\n\nNet zero is now an integral part of Welsh industry, and we've got huge potential to develop this further. The transition to net zero is a major economic opportunity, but I also welcome what the Minister has said here, that there needs to be a proper, planned strategy as to how we do this, both spatially and to balance the benefits for our economy, our communities and the environment. So, could the Cabinet Minister describe, as more energy infrastructure is developed in our rural communities, how Government will now ensure genuine benefit through local ownership jobs and skills and lower energy bills?"
+        }
+      ],
+      "date": "2026-09-23"
+    },
     {
       "contributions": [
         {

@@ -3,8 +3,229 @@
   "canonical_name": "Kerry Ferguson",
   "constituency_name_cy": "Ceredigion Penfro",
   "constituency_name_en": "Ceredigion Penfro",
-  "contribution_count": 273,
+  "contribution_count": 297,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-771327",
+          "item_id": "item-16263-260923-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "cy",
+          "t_start": 1,
+          "text_english": "Good afternoon and welcome to Wednesday's Plenary session. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy. Question 1, Vikki Howells.",
+          "text_original": "Prynhawn da. Croeso i sesiwn ddydd Mercher. Cwestiynau i'r Gweinidog Cabinet dros Fenter, Cysylltedd ac Ynni. Cwestiwn 1, Vikki Howells."
+        },
+        {
+          "id": "contribution-771365",
+          "item_id": "item-16263-260923-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "cy",
+          "t_start": 835,
+          "text_english": "Thank you. I now call the party spokespeople to question the Cabinet Minister. The Reform UK spokesperson, Jason O'Connell.",
+          "text_original": "Diolch. Galwaf yn awr ar lefarwyr y pleidiau i holi. Llefarydd Reform UK, Jason O'Connell."
+        },
+        {
+          "id": "contribution-771355",
+          "item_id": "item-16263-260923-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "cy",
+          "t_start": 1259,
+          "text_english": "Welsh Labour spokesperson, Shav Taj.",
+          "text_original": "Llefarydd Llafur Cymru, Shav Taj."
+        },
+        {
+          "id": "contribution-771340",
+          "item_id": "item-16263-260923-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "cy",
+          "t_start": 1523,
+          "text_english": "Welsh Conservative spokesperson, Janet Finch-Saunders.",
+          "text_original": "Llefarydd y Ceidwadwyr Cymreig, Janet Finch-Saunders."
+        },
+        {
+          "id": "contribution-771398",
+          "item_id": "item-16263-260923-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "cy",
+          "t_start": 2318,
+          "text_english": "Question 5 [OQ64492] by Tom Montgomery has been withdrawn. Therefore, question 6, Anna Nicholl.",
+          "text_original": "Mae cwestiwn 5 [OQ64492] gan Tom Montgomery wedi'i dynnu'n ôl. Felly, cwestiwn 6, Anna Nicholl."
+        },
+        {
+          "id": "contribution-771400",
+          "item_id": "item-16263-260923-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "cy",
+          "t_start": 2911,
+          "text_english": "Thank you. The final question to you, Minister. Question 8, Elfed Williams.",
+          "text_original": "Y cwestiwn olaf i chi, Weinidog. Cwestiwn 8, Elfed Williams."
+        },
+        {
+          "id": "contribution-771436",
+          "item_id": "item-16263-260923-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "cy",
+          "t_start": 3147,
+          "text_english": "Thank you very much, Ministers.",
+          "text_original": "Diolch yn fawr iawn ichi, Weinidogion."
+        },
+        {
+          "id": "contribution-771440",
+          "item_id": "item-16263-260923-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and Welsh Language",
+          "lang": "cy",
+          "t_start": 3149,
+          "text_english": "We will now move on to item 2, questions to the Cabinet Minister for Education and the Welsh Language. The first question is from Becca Martin.",
+          "text_original": "Symudwn ymlaen i eitem 2, cwestiynau i'r Gweinidog Cabinet dros Addysg a'r Gymraeg. Cwestiwn 1, Becca Martin."
+        },
+        {
+          "id": "contribution-771431",
+          "item_id": "item-16263-260923-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and Welsh Language",
+          "lang": "cy",
+          "t_start": 3765,
+          "text_english": "I now call on the party spokespeople to question the Cabinet Minister. Reform UK spokesperson, Stephen Senior.",
+          "text_original": "Galwaf nawr ar lefarwyr y pleidiau i holi'r Gweinidog Cabinet. Llefarydd Reform UK, Stephen Senior."
+        },
+        {
+          "id": "contribution-771448",
+          "item_id": "item-16263-260923-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and Welsh Language",
+          "lang": "cy",
+          "t_start": 4268,
+          "text_english": "Welsh Labour spokesperson, Lynne Neagle.",
+          "text_original": "Llefarydd Llafur Cymru, Lynne Neagle."
+        },
+        {
+          "id": "contribution-771482",
+          "item_id": "item-16263-260923-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and Welsh Language",
+          "lang": "en",
+          "t_start": 4348,
+          "text_english": "Can we have a question, Lynne?",
+          "text_original": "Can we have a question, Lynne?"
+        },
+        {
+          "id": "contribution-771451",
+          "item_id": "item-16263-260923-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and Welsh Language",
+          "lang": "cy",
+          "t_start": 4522,
+          "text_english": "The Welsh Conservatives' spokesperson, Sam Rowlands.",
+          "text_original": "Llefarydd y Ceidwadwyr Cymreig, Sam Rowlands."
+        },
+        {
+          "id": "contribution-771456",
+          "item_id": "item-16263-260923-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and Welsh Language",
+          "lang": "en",
+          "t_start": 4819,
+          "text_english": "Sorry, Anthony, can we come to a question?",
+          "text_original": "Sorry, Anthony, can we come to a question?"
+        },
+        {
+          "id": "contribution-771483",
+          "item_id": "item-16263-260923-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and Welsh Language",
+          "lang": "cy",
+          "t_start": 5072,
+          "text_english": "Huw, can you move to a question, please?",
+          "text_original": "Huw, allwn ni gael cwestiwn, os gwelwch yn dda?"
+        },
+        {
+          "id": "contribution-771493",
+          "item_id": "item-16263-260923-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and Welsh Language",
+          "lang": "cy",
+          "t_start": 5627,
+          "text_english": "Thank you. I'm highly aware of time and I would like to get at least halfway through the questions. So, I won't be able to call any additional contributions from here on in, unfortunately. We'll move to question 5—Andrew R.T. Davies.",
+          "text_original": "Diolch. Dwi'n ymwybodol iawn o amser, a hoffwn i gyrraedd o leiaf hanner ffordd drwy'r cwestiynau. Felly, fyddaf i ddim yn gallu galw unrhyw gyfraniadau ychwanegol, yn anffodus. Symudwn ymlaen i gwestiwn 5—Andrew R.T. Davies."
+        },
+        {
+          "id": "contribution-771502",
+          "item_id": "item-16263-260923-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and Welsh Language",
+          "lang": "cy",
+          "t_start": 6136,
+          "text_english": "Thank you. And the final question to you, Minister, question 8—Francesca O'Brien.",
+          "text_original": "Diolch. A'r cwestiwn olaf i chi, Weinidog, cwestiwn 8—Francesca O'Brien."
+        },
+        {
+          "id": "contribution-771520",
+          "item_id": "item-16263-260923-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and Welsh Language",
+          "lang": "cy",
+          "t_start": 6283,
+          "text_english": "Thank you very much, Ministers.",
+          "text_original": "Diolch yn fawr iawn i chi, Weinidogion."
+        },
+        {
+          "id": "contribution-771526",
+          "item_id": "item-16263-260923-3",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "cy",
+          "t_start": 6285,
+          "text_english": "We will move now to item 3, questions to the Senedd Commission. Question 1—Kiera Marshall.",
+          "text_original": "Symudwn ymlaen i eitem 3, cwestiynau i Gomisiwn y Senedd. Cwestiwn 1—Kiera Marshall."
+        },
+        {
+          "id": "contribution-771542",
+          "item_id": "item-16263-260923-3",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "cy",
+          "t_start": 6457,
+          "text_english": "Questions 2 and 7 are grouped. Question 2 first—Joe Martin.",
+          "text_original": "Mae cwestiynau 2 a 7 wedi eu grwpio. Felly, cwestiwn 2 yn gyntaf—Joe Martin."
+        },
+        {
+          "id": "contribution-771512",
+          "item_id": "item-16263-260923-3",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "cy",
+          "t_start": 6915,
+          "text_english": "Thank you. Question 4 [OQ64493] from Tom Montgomery is withdrawn, so, question 5 from Francesca O'Brien.",
+          "text_original": "Diolch. Mae cwestiwn 4 [OQ64493] gan Tom Montgomery wedi'i dynnu'n ôl, felly, cwestiwn 5 gan Francesca O'Brien."
+        },
+        {
+          "id": "contribution-771560",
+          "item_id": "item-16263-260923-3",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "cy",
+          "t_start": 7247,
+          "text_english": "Thank you. Question 6 [OQ64482], tabled by Janet Finch-Saunders, is withdrawn. Question 7 was grouped with question 2. So we'll move to question 8. Jane Dodds.",
+          "text_original": "Mae cwestiwn 6 [OQ64482], a gyflwynwyd gan Janet Finch-Saunders, wedi'i dynnu yn ôl. Mae cwestiwn 7 eisoes wedi'i grwpio gyda chwestiwn 2. Felly symudwn ymlaen i gwestiwn 8. Jane Dodds."
+        },
+        {
+          "id": "contribution-771563",
+          "item_id": "item-16263-260923-3",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "cy",
+          "t_start": 7642,
+          "text_english": "The final question, question 10, Gwyn Williams.",
+          "text_original": "Y cwestiwn olaf, cwestiwn 10, Gwyn Williams."
+        },
+        {
+          "id": "contribution-771565",
+          "item_id": "item-16263-260923-4",
+          "item_title_en": "4. Topical Questions",
+          "lang": "cy",
+          "t_start": 7800,
+          "text_english": "We move on now to item 4. No topical questions were accepted.",
+          "text_original": "Symudwn ymlaen i eitem 4. Ni dderbyniwyd unrhyw gwestiynau amserol."
+        },
+        {
+          "id": "contribution-771540",
+          "item_id": "item-16263-260923-5",
+          "item_title_en": "5. 90-second Statements",
+          "lang": "cy",
+          "t_start": 7805,
+          "text_english": "Item 5, 90-second statements. Kiera Marshall.",
+          "text_original": "Eitem 5, datganiadau 90 eiliad. Kiera Marshall."
+        }
+      ],
+      "date": "2026-09-23"
+    },
     {
       "contributions": [
         {

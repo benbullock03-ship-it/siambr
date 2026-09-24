@@ -3,8 +3,22 @@
   "canonical_name": "Alun Cox",
   "constituency_name_cy": "Afan Ogwr Rhondda",
   "constituency_name_en": "Afan Ogwr Rhondda",
-  "contribution_count": 15,
+  "contribution_count": 16,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-771679",
+          "item_id": "item-16263-260923-7",
+          "item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+          "lang": "en",
+          "t_start": 13274,
+          "text_english": "Since the United Kingdom was formed, 65 countries have become independent. How many of those have asked to come back? And what is unique about Wales that you think Wales is incapable of running its own affairs?",
+          "text_original": "Since the United Kingdom was formed, 65 countries have become independent. How many of those have asked to come back? And what is unique about Wales that you think Wales is incapable of running its own affairs?"
+        }
+      ],
+      "date": "2026-09-23"
+    },
     {
       "contributions": [
         {

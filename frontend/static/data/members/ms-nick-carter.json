@@ -3,8 +3,31 @@
   "canonical_name": "Nick Carter",
   "constituency_name_cy": "Caerdydd Ffynnon Taf",
   "constituency_name_en": "Caerdydd Ffynnon Taf",
-  "contribution_count": 8,
+  "contribution_count": 10,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-771491",
+          "item_id": "item-16263-260923-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and Welsh Language",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "7. What progress has the Welsh Government made on surveying the condition of school estates across Wales? OQ64531",
+          "text_original": "7. Pa gynnydd y mae Llywodraeth Cymru wedi'i wneud o ran arolygu cyflwr ystadau ysgolion ledled Cymru? OQ64531"
+        },
+        {
+          "id": "contribution-771480",
+          "item_id": "item-16263-260923-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and Welsh Language",
+          "lang": "en",
+          "t_start": 6007,
+          "text_english": "A high number of schools across my constituency of Caerdydd Ffynnon Taf are facing a maintenance backlog. Scaffolding has surrounded Roath Park primary since 2021, Marlborough Road primary since 2022 and Albany primary since 2023. The condition of a number of comprehensives is substandard and very close to being further downgraded, including the second-hand Welsh-medium comprehensives ysgol Bro Edern and ysgol Plasmawr.\n\nMost worryingly, parents at Albany Primary School were advised the week before this term started that their children would be sent out to three different schools because of dry rot. This late notice was despite Estyn warning in October 2025 that the site management arrangements at Albany Primary School, and I quote,\n\n'give cause for concern and have been brought to the attention of the local authority.'\n\nWhat discussions has the Cabinet Minister had with Cardiff Council regarding the condition of their school estate, and the council's response to Estyn in particular, and whether earlier intervention could have avoided Albany primary's closure and the severe disruption caused to pupils' education?",
+          "text_original": "A high number of schools across my constituency of Caerdydd Ffynnon Taf are facing a maintenance backlog. Scaffolding has surrounded Roath Park primary since 2021, Marlborough Road primary since 2022 and Albany primary since 2023. The condition of a number of comprehensives is substandard and very close to being further downgraded, including the second-hand Welsh-medium comprehensives ysgol Bro Edern and ysgol Plasmawr.\n\nMost worryingly, parents at Albany Primary School were advised the week before this term started that their children would be sent out to three different schools because of dry rot. This late notice was despite Estyn warning in October 2025 that the site management arrangements at Albany Primary School, and I quote,\n\n'give cause for concern and have been brought to the attention of the local authority.'\n\nWhat discussions has the Cabinet Minister had with Cardiff Council regarding the condition of their school estate, and the council's response to Estyn in particular, and whether earlier intervention could have avoided Albany primary's closure and the severe disruption caused to pupils' education?"
+        }
+      ],
+      "date": "2026-09-23"
+    },
     {
       "contributions": [
         {

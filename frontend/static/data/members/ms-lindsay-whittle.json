@@ -3,8 +3,31 @@
   "canonical_name": "Lindsay Whittle",
   "constituency_name_cy": "Blaenau Gwent Caerffili Rhymni",
   "constituency_name_en": "Blaenau Gwent Caerffili Rhymni",
-  "contribution_count": 16,
+  "contribution_count": 18,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-771535",
+          "item_id": "item-16263-260923-3",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "3. What assessment has the Commission made of the impact of the ongoing backlog of payments from the Civil Service Pension Scheme on its current and former employees? OQ64546",
+          "text_original": "3. Pa asesiad y mae'r Comisiwn wedi'i wneud o effaith yr ôl-groniad parhaus o daliadau o Gynllun Pensiwn y Gwasanaeth Sifil ar ei gyflogeion presennol a chyn-gyflogeion? OQ64546"
+        },
+        {
+          "id": "contribution-771541",
+          "item_id": "item-16263-260923-3",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 6776,
+          "text_english": "Thank you, Commissioner. I have been contacted by three constituents—probably three of the five—regarding the unacceptable and worrying delays and backlogs they're dealing with from Capita, the managing company of the civil service pension scheme. Capita has issued a statement saying that they have everything in place to begin clearing the backlog. However, they will not provide a timeline for when every case will be cleared, nor will they provide a date for my constituents on their individual cases, and that is important. I've met people who have worked all their lives in the service of the public, and they now face serious financial hardship. They shouldn't have to go for financial loans at that time of life because their public pensions, of course, were outsourced to a private company unable, let's be honest, to manage those pensions. Has the Commission had any discussions with the Cabinet Office in Westminster or the civil service pension scheme regarding the retired former employees from the Senedd? And if not, can you please commit to doing this?",
+          "text_original": "Thank you, Commissioner. I have been contacted by three constituents—probably three of the five—regarding the unacceptable and worrying delays and backlogs they're dealing with from Capita, the managing company of the civil service pension scheme. Capita has issued a statement saying that they have everything in place to begin clearing the backlog. However, they will not provide a timeline for when every case will be cleared, nor will they provide a date for my constituents on their individual cases, and that is important. I've met people who have worked all their lives in the service of the public, and they now face serious financial hardship. They shouldn't have to go for financial loans at that time of life because their public pensions, of course, were outsourced to a private company unable, let's be honest, to manage those pensions. Has the Commission had any discussions with the Cabinet Office in Westminster or the civil service pension scheme regarding the retired former employees from the Senedd? And if not, can you please commit to doing this?"
+        }
+      ],
+      "date": "2026-09-23"
+    },
     {
       "contributions": [
         {

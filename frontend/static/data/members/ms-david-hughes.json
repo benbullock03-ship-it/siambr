@@ -3,8 +3,22 @@
   "canonical_name": "David Hughes",
   "constituency_name_cy": "Pontypridd Cynon Merthyr",
   "constituency_name_en": "Pontypridd Cynon Merthyr",
-  "contribution_count": 10,
+  "contribution_count": 11,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-771350",
+          "item_id": "item-16263-260923-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "en",
+          "t_start": 155,
+          "text_english": "Minister, many people in Pontypridd Cynon Merthyr still struggle to access jobs, education and healthcare because of poor transport links. Given the significant amount of public money already spent on transport projects in Wales, can the Cabinet Secretary please explain why so many communities remain poorly served, and what steps will be taken to improve reliability and accessibility before asking taxpayers to fund further major schemes? Thank you.",
+          "text_original": "Minister, many people in Pontypridd Cynon Merthyr still struggle to access jobs, education and healthcare because of poor transport links. Given the significant amount of public money already spent on transport projects in Wales, can the Cabinet Secretary please explain why so many communities remain poorly served, and what steps will be taken to improve reliability and accessibility before asking taxpayers to fund further major schemes? Thank you."
+        }
+      ],
+      "date": "2026-09-23"
+    },
     {
       "contributions": [
         {

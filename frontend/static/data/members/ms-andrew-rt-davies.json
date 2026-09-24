@@ -3,8 +3,31 @@
   "canonical_name": "Andrew RT Davies",
   "constituency_name_cy": "Pen-y-bont Bro Morgannwg",
   "constituency_name_en": "Pen-y-bont Bro Morgannwg",
-  "contribution_count": 29,
+  "contribution_count": 31,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-771495",
+          "item_id": "item-16263-260923-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and Welsh Language",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "5. What action is the Cabinet Minister taking to support school budgets in Pen-y-bont Bro Morgannwg? OQ64533",
+          "text_original": "5. Pa gamau y mae'r Gweinidog Cabinet yn eu cymryd i gefnogi cyllidebau ysgolion ym Mhen-y-bont Bro Morgannwg? OQ64533"
+        },
+        {
+          "id": "contribution-771498",
+          "item_id": "item-16263-260923-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and Welsh Language",
+          "lang": "en",
+          "t_start": 5663,
+          "text_english": "Minister, what are your asks of the finance Minister in supporting your portfolio? Many schools in Pen-y-bont Bro Morgannwg are in a deficit situation and are looking to you as a new Minister to secure additional funding in the current budget settlement round. So, could you identify, given your experience in the education sector, especially as a former representative of the National Association of Head Teachers, what your asks are of the finance Minister, so that headteachers can have confidence that they will see more resource in the new financial year?",
+          "text_original": "Minister, what are your asks of the finance Minister in supporting your portfolio? Many schools in Pen-y-bont Bro Morgannwg are in a deficit situation and are looking to you as a new Minister to secure additional funding in the current budget settlement round. So, could you identify, given your experience in the education sector, especially as a former representative of the National Association of Head Teachers, what your asks are of the finance Minister, so that headteachers can have confidence that they will see more resource in the new financial year?"
+        }
+      ],
+      "date": "2026-09-23"
+    },
     {
       "contributions": [
         {
