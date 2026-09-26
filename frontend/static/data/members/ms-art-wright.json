@@ -3,8 +3,22 @@
   "canonical_name": "Art Wright",
   "constituency_name_cy": "Casnewydd Islwyn",
   "constituency_name_en": "Casnewydd Islwyn",
-  "contribution_count": 17,
+  "contribution_count": 18,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-771062",
+          "item_id": "item-16262-260922-5",
+          "item_title_en": "5. Statement by the Cabinet Minister for Enterprise, Connectivity and Energy: Welsh Defence Ethical Framework",
+          "lang": "en",
+          "t_start": 14190,
+          "text_english": "Diolch, Lywydd. I must, firstly, declare an interest as a former Ministry of Defence supply chain specialist. Many Welsh defence companies operate several tiers down complex and dual-use supply chains and may have little control over or even knowledge of the eventual end use of the components they produce. I'm happy that you spoke about Ireland earlier. They've already been through something, and Invest NI has already recognised that neither it nor its client companies can fully track the final destination of goods once they enter into complex global supply chains. While military and dual-use exports are already subject to UK export control regimes, this new framework will add additional uncertainty and compliance costs to Welsh companies. How will the Minister ensure that Welsh companies are not expected to undertake due diligence that they cannot practically perform or duplicate functions already being carried out by the UK export control authorities?",
+          "text_original": "Diolch, Lywydd. I must, firstly, declare an interest as a former Ministry of Defence supply chain specialist. Many Welsh defence companies operate several tiers down complex and dual-use supply chains and may have little control over or even knowledge of the eventual end use of the components they produce. I'm happy that you spoke about Ireland earlier. They've already been through something, and Invest NI has already recognised that neither it nor its client companies can fully track the final destination of goods once they enter into complex global supply chains. While military and dual-use exports are already subject to UK export control regimes, this new framework will add additional uncertainty and compliance costs to Welsh companies. How will the Minister ensure that Welsh companies are not expected to undertake due diligence that they cannot practically perform or duplicate functions already being carried out by the UK export control authorities?"
+        }
+      ],
+      "date": "2026-09-22"
+    },
     {
       "contributions": [
         {

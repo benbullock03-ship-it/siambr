@@ -3,7 +3,7 @@
   "canonical_name": "David Hughes",
   "constituency_name_cy": "Pontypridd Cynon Merthyr",
   "constituency_name_en": "Pontypridd Cynon Merthyr",
-  "contribution_count": 11,
+  "contribution_count": 12,
   "contributions_by_date": [
     {
       "contributions": [
@@ -12,12 +12,26 @@
           "item_id": "item-16263-260923-1",
           "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
           "lang": "en",
-          "t_start": 155,
+          "t_start": 157,
           "text_english": "Minister, many people in Pontypridd Cynon Merthyr still struggle to access jobs, education and healthcare because of poor transport links. Given the significant amount of public money already spent on transport projects in Wales, can the Cabinet Secretary please explain why so many communities remain poorly served, and what steps will be taken to improve reliability and accessibility before asking taxpayers to fund further major schemes? Thank you.",
           "text_original": "Minister, many people in Pontypridd Cynon Merthyr still struggle to access jobs, education and healthcare because of poor transport links. Given the significant amount of public money already spent on transport projects in Wales, can the Cabinet Secretary please explain why so many communities remain poorly served, and what steps will be taken to improve reliability and accessibility before asking taxpayers to fund further major schemes? Thank you."
         }
       ],
       "date": "2026-09-23"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771085",
+          "item_id": "item-16262-260922-7",
+          "item_title_en": "7. Statement by the Cabinet Minister for Local Government, Housing and Planning: Building Safety Programme Update",
+          "lang": "en",
+          "t_start": 18785,
+          "text_english": "Cabinet Minister, the building safety programme risks becoming yet another example of taxpayers being asked to foot the bill for failures that they did not cause. England regulates buildings above 18m under its strictest duties. Wales has brought every multi-occupied residential building of any height into the new framework. That's over 51,000 buildings, mostly owned by small private landlords. The Senedd's own committee called the compliance timeline 'unrealistic'. Has the Minister modelled the impact on housing supply and on the capacity of authorities that must enforce it, while residents living in the most dangerous buildings still wait? With housing affordability worsening and house building targets already being missed, can you provide evidence that these measures will not further slow housing delivery? Thank you.",
+          "text_original": "Cabinet Minister, the building safety programme risks becoming yet another example of taxpayers being asked to foot the bill for failures that they did not cause. England regulates buildings above 18m under its strictest duties. Wales has brought every multi-occupied residential building of any height into the new framework. That's over 51,000 buildings, mostly owned by small private landlords. The Senedd's own committee called the compliance timeline 'unrealistic'. Has the Minister modelled the impact on housing supply and on the capacity of authorities that must enforce it, while residents living in the most dangerous buildings still wait? With housing affordability worsening and house building targets already being missed, can you provide evidence that these measures will not further slow housing delivery? Thank you."
+        }
+      ],
+      "date": "2026-09-22"
     },
     {
       "contributions": [

@@ -3,7 +3,7 @@
   "canonical_name": "Cai Parry-Jones",
   "constituency_name_cy": "Caerdydd Ffynnon Taf",
   "constituency_name_en": "Caerdydd Ffynnon Taf",
-  "contribution_count": 28,
+  "contribution_count": 29,
   "contributions_by_date": [
     {
       "contributions": [
@@ -21,9 +21,18 @@
           "item_id": "item-16262-260922-1",
           "item_title_en": "1. Questions to the First Minister",
           "lang": "en",
-          "t_start": 3580,
+          "t_start": 3582,
           "text_english": "Diolch, Brif Weinidog. Part of this Act places a duty on your Government to bring in rules banning false or misleading statements of fact, made before or during an election, to affect who is elected. It also lets your Government set out what does and does not count as a statement of fact. If it is, in fact, true that a candidate misrepresents their own beliefs to win votes, and that becomes clear after polling day, will your Government treat that as a false statement of fact?",
           "text_original": "Diolch, Brif Weinidog. Part of this Act places a duty on your Government to bring in rules banning false or misleading statements of fact, made before or during an election, to affect who is elected. It also lets your Government set out what does and does not count as a statement of fact. If it is, in fact, true that a candidate misrepresents their own beliefs to win votes, and that becomes clear after polling day, will your Government treat that as a false statement of fact?"
+        },
+        {
+          "id": "contribution-770952",
+          "item_id": "item-16262-260922-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 7841,
+          "text_english": "Trefnydd, I would like to call for a Welsh Government statement from the Minister for Finance regarding the Welsh rates of income tax during the Senedd term, in particular whether she has made any request to any civil servant on assessing the impact of an increase in taxes and what impact that would have on her finances.",
+          "text_original": "Trefnydd, I would like to call for a Welsh Government statement from the Minister for Finance regarding the Welsh rates of income tax during the Senedd term, in particular whether she has made any request to any civil servant on assessing the impact of an increase in taxes and what impact that would have on her finances."
         }
       ],
       "date": "2026-09-22"
