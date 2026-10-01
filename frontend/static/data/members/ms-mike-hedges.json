@@ -3,8 +3,40 @@
   "canonical_name": "Mike Hedges",
   "constituency_name_cy": "Gŵyr Abertawe",
   "constituency_name_en": "Gŵyr Abertawe",
-  "contribution_count": 55,
+  "contribution_count": 58,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-773488",
+          "item_id": "item-16265-260930-1",
+          "item_title_en": "1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "2. How will the Welsh Government ensure that Flying Start and the new 20-hour childcare offer will together be flexible enough to support families' working lives? OQ64565",
+          "text_original": "2. Sut y bydd Llywodraeth Cymru yn sicrhau y bydd Dechrau'n Deg a'r cynnig gofal plant newydd 20 awr, gyda'i gilydd, yn ddigon hyblyg i gefnogi bywydau gwaith teuluoedd? OQ64565"
+        },
+        {
+          "id": "contribution-773490",
+          "item_id": "item-16265-260930-1",
+          "item_title_en": "1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice",
+          "lang": "cy",
+          "t_start": 410,
+          "text_english": "Thank you for that response.",
+          "text_original": "Diolch am eich ateb."
+        },
+        {
+          "id": "contribution-773491",
+          "item_id": "item-16265-260930-1",
+          "item_title_en": "1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice",
+          "lang": "en",
+          "t_start": 413,
+          "text_english": "Flying Start is a brilliant initiative, despite its flaws. Too many children start nursery with a developmental age of two, while some of the more advanced start with a developmental age approaching four. Some start not toilet trained and with very limited communication and social skills. Flying Start gives an opportunity to narrow that gap and helps build self-esteem so that children start school not as self-defined failures. There have been problems based on the lower super-output areas, where some of the wealthiest in Swansea were in Flying Start areas and some of the poorest were not. Using the Welsh index of multiple deprivation does not work in heterogeneous areas. House prices are a much better indicator. Will the Minister commit to continuing the Flying Start provision and improving on it?",
+          "text_original": "Flying Start is a brilliant initiative, despite its flaws. Too many children start nursery with a developmental age of two, while some of the more advanced start with a developmental age approaching four. Some start not toilet trained and with very limited communication and social skills. Flying Start gives an opportunity to narrow that gap and helps build self-esteem so that children start school not as self-defined failures. There have been problems based on the lower super-output areas, where some of the wealthiest in Swansea were in Flying Start areas and some of the poorest were not. Using the Welsh index of multiple deprivation does not work in heterogeneous areas. House prices are a much better indicator. Will the Minister commit to continuing the Flying Start provision and improving on it?"
+        }
+      ],
+      "date": "2026-09-30"
+    },
     {
       "contributions": [
         {

@@ -3,8 +3,31 @@
   "canonical_name": "Elyn Stephens",
   "constituency_name_cy": "Afan Ogwr Rhondda",
   "constituency_name_en": "Afan Ogwr Rhondda",
-  "contribution_count": 16,
+  "contribution_count": 18,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-772859",
+          "item_id": "item-16264-260929-3",
+          "item_title_en": "2. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "4. Will the First Minister outline how residents in Afan Ogwr Rhondda will benefit from the national energy strategy? OQ64584",
+          "text_original": "4. A wnaiff y Prif Weinidog amlinellu sut y bydd trigolion Afan Ogwr Rhondda yn elwa o'r strategaeth ynni genedlaethol? OQ64584"
+        },
+        {
+          "id": "contribution-772862",
+          "item_id": "item-16264-260929-3",
+          "item_title_en": "2. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 2458,
+          "text_english": "Diolch, Brif Weinidog. A key test of this strategy, as you've just outlined, for my constituents is whether the energy transition brings not just more generation, but more good jobs, innovation and economic value to those communities like Afan Ogwr Rhondda. Neath Port Talbot is leading the south-west Wales bid to the UK local innovation partnerships fund, which could be an important addition to those aims. The region was originally told that up to £20 million would be available, but I've now been informed by partners involved that this may have been reduced to £15 million—so by a quarter—while Hull and East Yorkshire and Tees Valley have up to £30 million available jointly. It seems to me the UK Government never seems to miss an opportunity to short-change Wales. Can you confirm whether the Welsh Government has been informed of this change, and what representations will you make to protect south-west Wales's share?",
+          "text_original": "Diolch, Brif Weinidog. A key test of this strategy, as you've just outlined, for my constituents is whether the energy transition brings not just more generation, but more good jobs, innovation and economic value to those communities like Afan Ogwr Rhondda. Neath Port Talbot is leading the south-west Wales bid to the UK local innovation partnerships fund, which could be an important addition to those aims. The region was originally told that up to £20 million would be available, but I've now been informed by partners involved that this may have been reduced to £15 million—so by a quarter—while Hull and East Yorkshire and Tees Valley have up to £30 million available jointly. It seems to me the UK Government never seems to miss an opportunity to short-change Wales. Can you confirm whether the Welsh Government has been informed of this change, and what representations will you make to protect south-west Wales's share?"
+        }
+      ],
+      "date": "2026-09-29"
+    },
     {
       "contributions": [
         {

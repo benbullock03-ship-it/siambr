@@ -3,8 +3,31 @@
   "canonical_name": "Anna Nicholl",
   "constituency_name_cy": "Ceredigion Penfro",
   "constituency_name_en": "Ceredigion Penfro",
-  "contribution_count": 29,
+  "contribution_count": 31,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-773558",
+          "item_id": "item-16265-260930-1",
+          "item_title_en": "1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "5. What is the Cabinet Minister doing to tackle the unique rural challenges associated with child poverty in Ceredigion Penfro? OQ64603",
+          "text_original": "5. Beth mae'r Gweinidog Cabinet yn ei wneud i fynd i'r afael â'r heriau gwledig unigryw sy'n gysylltiedig â thlodi plant yng Ngheredigion Penfro? OQ64603"
+        },
+        {
+          "id": "contribution-773566",
+          "item_id": "item-16265-260930-1",
+          "item_title_en": "1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice",
+          "lang": "en",
+          "t_start": 2522,
+          "text_english": "Diolch, Cabinet Minister. A 2023 report by the Bevan Foundation found that Ceredigion ranks second in child poverty levels across Wales, with Pembrokeshire not far behind. Crisis has also highlighted that many families in my constituency face significant gaps between their incomes and essential living costs, leaving them at greater risk of poverty and financial hardship.\n\nWhilst child poverty exists across Wales, it's often less visible in rural and coastal constituencies. One example in my constituency is Aberporth, a beautiful and vibrant village that many Members might know as a holiday destination, but also where one in four children live in poverty. In these communities, community action can make a real difference to people's lives—for example, the incredible range of activities that are run from the renovated Aberporth village hall that provide not just practical support, but friendships and social support that are invaluable to people.\n\nSo, will the Cabinet Minister consider what more can be done to strengthen our community infrastructure as part of your efforts to address child poverty?",
+          "text_original": "Diolch, Cabinet Minister. A 2023 report by the Bevan Foundation found that Ceredigion ranks second in child poverty levels across Wales, with Pembrokeshire not far behind. Crisis has also highlighted that many families in my constituency face significant gaps between their incomes and essential living costs, leaving them at greater risk of poverty and financial hardship.\n\nWhilst child poverty exists across Wales, it's often less visible in rural and coastal constituencies. One example in my constituency is Aberporth, a beautiful and vibrant village that many Members might know as a holiday destination, but also where one in four children live in poverty. In these communities, community action can make a real difference to people's lives—for example, the incredible range of activities that are run from the renovated Aberporth village hall that provide not just practical support, but friendships and social support that are invaluable to people.\n\nSo, will the Cabinet Minister consider what more can be done to strengthen our community infrastructure as part of your efforts to address child poverty?"
+        }
+      ],
+      "date": "2026-09-30"
+    },
     {
       "contributions": [
         {

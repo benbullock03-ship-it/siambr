@@ -3,8 +3,45 @@
   "canonical_name": "Benjamin Hodge Mckenna",
   "constituency_name_cy": "Afan Ogwr Rhondda",
   "constituency_name_en": "Afan Ogwr Rhondda",
-  "contribution_count": 29,
+  "contribution_count": 32,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-773614",
+          "item_id": "item-16265-260930-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Rural Resilience and Sustainability",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "6. What assessment has the Government made of the sustainability of livestock numbers in Wales? OQ64573",
+          "text_original": "6. Pa asesiad mae'r Llywodraeth wedi'i wneud o gynaliadwyedd niferoedd da byw yng Nghymru? OQ64573"
+        },
+        {
+          "id": "contribution-773628",
+          "item_id": "item-16265-260930-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Rural Resilience and Sustainability",
+          "lang": "en",
+          "t_start": 5454,
+          "text_english": "Thank you. My colleague Laura Anne Jones mentioned back in July that Westminster's Climate Change Committee recommended a 25 per cent reduction in livestock numbers by 2040 in order to hit net-zero targets. Now, you've stated that there are no plans for a reduction, and that is something that I welcome, but it raises a further question to me, and it's one that's been discussed in this Chamber today. Given your dual role as Minister for rural resilience and sustainability, in scenarios where the interests of our rural communities stand in direct contrast with actions necessitated by net-zero policy, will you choose to back our farmers or bow to the interests of the climate lobby?",
+          "text_original": "Thank you. My colleague Laura Anne Jones mentioned back in July that Westminster's Climate Change Committee recommended a 25 per cent reduction in livestock numbers by 2040 in order to hit net-zero targets. Now, you've stated that there are no plans for a reduction, and that is something that I welcome, but it raises a further question to me, and it's one that's been discussed in this Chamber today. Given your dual role as Minister for rural resilience and sustainability, in scenarios where the interests of our rural communities stand in direct contrast with actions necessitated by net-zero policy, will you choose to back our farmers or bow to the interests of the climate lobby?"
+        }
+      ],
+      "date": "2026-09-30"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-772961",
+          "item_id": "item-16264-260929-4",
+          "item_title_en": "4. Statement by the Cabinet Minister for Health and Care: Review of the Escalation and Intervention Framework",
+          "lang": "en",
+          "t_start": 6300,
+          "text_english": "in level 4 or, indeed, level 5 for an extended period of time, at what point will the Government intervene and pursue organisational changes within the health boards to ensure that those who are failing to deliver for our patients in Wales are held to account? Diolch yn fawr.",
+          "text_original": "in level 4 or, indeed, level 5 for an extended period of time, at what point will the Government intervene and pursue organisational changes within the health boards to ensure that those who are failing to deliver for our patients in Wales are held to account? Diolch yn fawr."
+        }
+      ],
+      "date": "2026-09-29"
+    },
     {
       "contributions": [
         {

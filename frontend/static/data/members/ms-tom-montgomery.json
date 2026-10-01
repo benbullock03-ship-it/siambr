@@ -3,8 +3,40 @@
   "canonical_name": "Tom Montgomery",
   "constituency_name_cy": "Clwyd",
   "constituency_name_en": "Clwyd",
-  "contribution_count": 17,
+  "contribution_count": 20,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-772804",
+          "item_id": "item-16264-260929-2",
+          "item_title_en": "1. Nominations for a Committee Chair",
+          "lang": "en",
+          "t_start": 150,
+          "text_english": "Can I second, Llywydd?",
+          "text_original": "Can I second, Llywydd?"
+        },
+        {
+          "id": "contribution-772905",
+          "item_id": "item-16264-260929-3",
+          "item_title_en": "2. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "11. What assessment has the First Minister undertaken regarding the impact of the nation of sanctuary policy on housing availability in north Wales? OQ64566",
+          "text_original": "11. Pa asesiad mae'r Prif Weinidog wedi'i wneud o effaith polisi cenedl noddfa ar faint o dai sydd ar gael yng ngogledd Cymru? OQ64566"
+        },
+        {
+          "id": "contribution-772911",
+          "item_id": "item-16264-260929-3",
+          "item_title_en": "2. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 3784,
+          "text_english": "Thank you, First Minister. The Home Office has written to me confirming that around 70 homes are currently being used for asylum seekers in north-east Wales. That's up 25 per cent on 2025-26. Two hundred and eighty-three people are now housed in this area—that's 43 more than the same time last year, and now the Home Office is looking to move more in. Opposition in villages and towns across north-east Wales is strong, and there is no surprise in that when you consider that 650 local people are still being housed in hotels and bed and breakfasts. \n\nI was shocked to learn when a county council in Clwyd explained to me that, often, asylum seekers are moved in without prior notification to the local authority, finding out after the fact. \n\nFirst Minister, do you agree with me that local authorities should be consulted before asylum seekers are moved in, and that locals should always be prioritised for housing?",
+          "text_original": "Thank you, First Minister. The Home Office has written to me confirming that around 70 homes are currently being used for asylum seekers in north-east Wales. That's up 25 per cent on 2025-26. Two hundred and eighty-three people are now housed in this area—that's 43 more than the same time last year, and now the Home Office is looking to move more in. Opposition in villages and towns across north-east Wales is strong, and there is no surprise in that when you consider that 650 local people are still being housed in hotels and bed and breakfasts. \n\nI was shocked to learn when a county council in Clwyd explained to me that, often, asylum seekers are moved in without prior notification to the local authority, finding out after the fact. \n\nFirst Minister, do you agree with me that local authorities should be consulted before asylum seekers are moved in, and that locals should always be prioritised for housing?"
+        }
+      ],
+      "date": "2026-09-29"
+    },
     {
       "contributions": [
         {

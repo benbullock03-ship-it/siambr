@@ -3,8 +3,229 @@
   "canonical_name": "Kerry Ferguson",
   "constituency_name_cy": "Ceredigion Penfro",
   "constituency_name_en": "Ceredigion Penfro",
-  "contribution_count": 308,
+  "contribution_count": 332,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-773478",
+          "item_id": "item-16265-260930-1",
+          "item_title_en": "1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice",
+          "lang": "cy",
+          "t_start": 1,
+          "text_english": "Good afternoon. Welcome to Wednesday's Plenary meeting. Questions to the Deputy First Minister and Cabinet Minister for Social Justice and Equality. Question 1, David Mills.",
+          "text_original": "Prynhawn da. Croeso i sesiwn Cyfarfod Llawn dydd Mercher. Cwestiynau i’r Dirprwy Brif Weinidog a’r Gweinidog Cabinet dros Gyfiawnder Cymdeithasol a Chydraddoldeb. Cwestiwn 1, David Mills."
+        },
+        {
+          "id": "contribution-773521",
+          "item_id": "item-16265-260930-1",
+          "item_title_en": "1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice",
+          "lang": "cy",
+          "t_start": 868,
+          "text_english": "I now call on the party spokespeople to question the Cabinet Minister. The Reform UK spokesperson, Cristiana Emsley.",
+          "text_original": "Galwaf y nawr ar lefarywyr y pleidiau i holi'r Gweinidog Cabinet. Llefarydd Reform UK, Cristiana Emsley."
+        },
+        {
+          "id": "contribution-773515",
+          "item_id": "item-16265-260930-1",
+          "item_title_en": "1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice",
+          "lang": "cy",
+          "t_start": 1351,
+          "text_english": "Welsh Labour spokesperson, Lynne Neagle.",
+          "text_original": "Llefarydd Llafur Cymru, Lynne Neagle."
+        },
+        {
+          "id": "contribution-773513",
+          "item_id": "item-16265-260930-1",
+          "item_title_en": "1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice",
+          "lang": "cy",
+          "t_start": 1669,
+          "text_english": "Welsh Conservative spokesperson, Natasha Asghar.",
+          "text_original": "Llefarydd y Ceidwadwyr Cymreig, Natasha Asghar."
+        },
+        {
+          "id": "contribution-773561",
+          "item_id": "item-16265-260930-1",
+          "item_title_en": "1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice",
+          "lang": "cy",
+          "t_start": 2835,
+          "text_english": "And the final question, question 6, Carrie Harper.",
+          "text_original": "A'r cwestiwn olaf, cwestiwn 6, Carrie Harper."
+        },
+        {
+          "id": "contribution-773536",
+          "item_id": "item-16265-260930-1",
+          "item_title_en": "1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice",
+          "lang": "cy",
+          "t_start": 3012,
+          "text_english": "Thank you, Deputy First Minister.",
+          "text_original": "Diolch, Ddirprwy Brif Weinidog."
+        },
+        {
+          "id": "contribution-773542",
+          "item_id": "item-16265-260930-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Rural Resilience and Sustainability",
+          "lang": "cy",
+          "t_start": 3014,
+          "text_english": "We'll move now to item 2, questions to the Cabinet Minister for Rural Resilience and Sustainability. Question 1, Natasha Asghar.",
+          "text_original": "Symudwn ymlaen i eitem 2, cwestiynau i'r Gweinidog Cabinet dros Wydnwch Gwledig a Chynaliadwyedd. Cwestiwn 1, Natasha Asghar."
+        },
+        {
+          "id": "contribution-773591",
+          "item_id": "item-16265-260930-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Rural Resilience and Sustainability",
+          "lang": "cy",
+          "t_start": 3590,
+          "text_english": "I now call on the party spokespeople to question the Cabinet Minster. Reform UK spokesperson, Laura Anne Jones.",
+          "text_original": "Galwaf yn awr ar lefarwyr y pleidiau i holi'r Gweinidog Cabinet. Llefarydd Reform UK, Laura Anne Jones."
+        },
+        {
+          "id": "contribution-773594",
+          "item_id": "item-16265-260930-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Rural Resilience and Sustainability",
+          "lang": "cy",
+          "t_start": 3954,
+          "text_english": "The Welsh Labour spokesperson, Vikki Howells.",
+          "text_original": "Llefarydd Llafur Cymru, Vikki Howells."
+        },
+        {
+          "id": "contribution-773604",
+          "item_id": "item-16265-260930-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Rural Resilience and Sustainability",
+          "lang": "cy",
+          "t_start": 4194,
+          "text_english": "The Welsh Conservatives' spokesperson, Andrew R.T. Davies.",
+          "text_original": "Llefarydd y Ceidwadwyr Cymreig, Andrew R.T. Davies."
+        },
+        {
+          "id": "contribution-773632",
+          "item_id": "item-16265-260930-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Rural Resilience and Sustainability",
+          "lang": "cy",
+          "t_start": 5740,
+          "text_english": "And the final question to you, Minister, question 8. Adrian Mason.",
+          "text_original": "A'r cwestiwn olaf i chi, Weinidog, cwestiwn 8. Adrian Mason."
+        },
+        {
+          "id": "contribution-773657",
+          "item_id": "item-16265-260930-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Rural Resilience and Sustainability",
+          "lang": "cy",
+          "t_start": 5927,
+          "text_english": "Thank you very much, Cabinet Minister.",
+          "text_original": "Diolch yn fawr iawn i chi, Weinidog Cabinet."
+        },
+        {
+          "id": "contribution-773661",
+          "item_id": "item-16265-260930-3",
+          "item_title_en": "3. Topical Questions",
+          "lang": "cy",
+          "t_start": 5929,
+          "text_english": "We'll move now to item 3, the topical questions. There are two questions this afternoon. The first is from Huw Thomas.",
+          "text_original": "Symudwn ymlaen i eitem 3, cwestiynau amserol. Mae dau gwestiwn heddiw. Yn gyntaf, Huw Thomas."
+        },
+        {
+          "id": "contribution-773736",
+          "item_id": "item-16265-260930-3",
+          "item_title_en": "3. Topical Questions",
+          "lang": "en",
+          "t_start": 7085,
+          "text_english": "[Inaudible.]",
+          "text_original": "[Inaudible.]"
+        },
+        {
+          "id": "contribution-773693",
+          "item_id": "item-16265-260930-3",
+          "item_title_en": "3. Topical Questions",
+          "lang": "cy",
+          "t_start": 7385,
+          "text_english": "Thank you very much, Cabinet Minister.",
+          "text_original": "Diolch yn fawr iawn, Weinidog Cabinet."
+        },
+        {
+          "id": "contribution-773696",
+          "item_id": "item-16265-260930-4",
+          "item_title_en": "4. 90-second Statements",
+          "lang": "cy",
+          "t_start": 7388,
+          "text_english": "We'll move now to item 4, the 90-second statements. Laura Anne Jones.",
+          "text_original": "Symudwn ymlaen i eitem 4, datganiadau 90 eiliad. Laura Anne Jones."
+        },
+        {
+          "id": "contribution-773704",
+          "item_id": "item-16265-260930-4",
+          "item_title_en": "4. 90-second Statements",
+          "lang": "cy",
+          "t_start": 7868,
+          "text_english": "Thank you very much.\n\nWe will now move to motions to elect Members to committees. Unless there is any objection, in accordance with Standing Orders 12.24 and 12.40, I propose that the motions to elect Members to committees are grouped for debate and for voting. Are there any objections? No, there are no objections.",
+          "text_original": "Diolch yn fawr iawn.\n\nSymudaf ymlaen i gynigion i ethol Aelodau i bwyllgorau. Oni bai bod unrhyw wrthwynebiadau, yn unol â Rheolau Sefydlog 12.24 ac 12.40, cynigiaf fod y cynigion i ethol Aelodau i bwyllgorau yn cael eu grwpio at ddibenion dadl a phleidleisio. A oes unrhyw wrthwynebiad? Na, does dim gwrthwynebiad."
+        },
+        {
+          "id": "contribution-773815",
+          "item_id": "item-16265-260930-5",
+          "item_title_en": "Motions to elect Members to committees",
+          "lang": "cy",
+          "t_start": 7899,
+          "text_english": "I call on a member of the Business Committee to move the motions formally. Heledd Fychan.",
+          "text_original": "Galwaf ar aelod o'r Pwyllgor Busnes i wneud y cynigion yn ffurfiol. Heledd Fychan."
+        },
+        {
+          "id": "contribution-773713",
+          "item_id": "item-16265-260930-5",
+          "item_title_en": "Motions to elect Members to committees",
+          "lang": "cy",
+          "t_start": 7906,
+          "text_english": "Thank you. The proposal is to agree the motions. Does any Member object? No. The motions are therefore agreed in accordance with Standing Order 12.36. Thank you very much.",
+          "text_original": "Diolch. Y cwestiwn yw: a ddylid derbyn y cynigion? A oes unrhyw Aelod yn gwrthwynebu? Nac oes. Felly, derbynnir y cynigion yn unol â Rheol Sefydlog 12.36. Diolch yn fawr iawn."
+        },
+        {
+          "id": "contribution-773714",
+          "item_id": "item-16265-260930-6",
+          "item_title_en": "5. Member Debate under Standing Order 11.21(iv): Contaminated land",
+          "lang": "cy",
+          "t_start": 7921,
+          "text_english": "I move now to item 5, a Member debate under Standing Order 11.21(iv), contaminated land. I call on Niamh Salkeld to move the motion.",
+          "text_original": "Symudaf ymlaen i eitem 5, dadl Aelodau o dan Reol Sefydlog 11.21(iv), tir halogedig. Galwaf ar Niamh Salkeld i wneud y cynnig."
+        },
+        {
+          "id": "contribution-773737",
+          "item_id": "item-16265-260930-6",
+          "item_title_en": "5. Member Debate under Standing Order 11.21(iv): Contaminated land",
+          "lang": "en",
+          "t_start": 10345,
+          "text_english": "Nigel, can I ask you to conclude? Sorry.",
+          "text_original": "Nigel, can I ask you to conclude? Sorry."
+        },
+        {
+          "id": "contribution-773755",
+          "item_id": "item-16265-260930-6",
+          "item_title_en": "5. Member Debate under Standing Order 11.21(iv): Contaminated land",
+          "lang": "cy",
+          "t_start": 10779,
+          "text_english": "And finally, Art Wright.",
+          "text_original": "Ac yn olaf, Art Wright."
+        },
+        {
+          "id": "contribution-773740",
+          "item_id": "item-16265-260930-6",
+          "item_title_en": "5. Member Debate under Standing Order 11.21(iv): Contaminated land",
+          "lang": "cy",
+          "t_start": 10861,
+          "text_english": "I call on the Cabinet Minister for Rural Resilience and Sustainability, Llyr Gruffydd.",
+          "text_original": "Galwaf ar y Gweinidog Cabinet dros Wydnwch Gwledig a Chynaliadwyedd, Llyr Gruffydd."
+        },
+        {
+          "id": "contribution-773745",
+          "item_id": "item-16265-260930-6",
+          "item_title_en": "5. Member Debate under Standing Order 11.21(iv): Contaminated land",
+          "lang": "cy",
+          "t_start": 11422,
+          "text_english": "Thank you very much, Cabinet Minister. I call on Niamh Salkeld to reply to the debate.",
+          "text_original": "Diolch yn fawr iawn, Weinidog Cabinet. Galwaf ar Niamh Salkeld i ymateb i'r ddadl."
+        }
+      ],
+      "date": "2026-09-30"
+    },
     {
       "contributions": [
         {

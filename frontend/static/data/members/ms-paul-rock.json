@@ -3,8 +3,31 @@
   "canonical_name": "Paul Rock",
   "constituency_name_cy": "Caerdydd Ffynnon Taf",
   "constituency_name_en": "Caerdydd Ffynnon Taf",
-  "contribution_count": 18,
+  "contribution_count": 20,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-773649",
+          "item_id": "item-16265-260930-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Rural Resilience and Sustainability",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "5. Will the Cabinet Minister provide an update on progress towards reaching the Welsh Government's nature and biodiversity targets? OQ64581",
+          "text_original": "5. A wnaiff y Gweinidog Cabinet roi diweddariad ar y cynnydd tuag at gyrraedd targedau natur a bioamrywiaeth Llywodraeth Cymru? OQ64581"
+        },
+        {
+          "id": "contribution-773625",
+          "item_id": "item-16265-260930-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Rural Resilience and Sustainability",
+          "lang": "en",
+          "t_start": 5102,
+          "text_english": "Diolch. On 2 June, when I raised this in the Siambr, the First Minister said that the Government is committed to clear public reporting on Wales's progress towards net zero through an accessible online dashboard. I went to have a look for it when some of the other dashboards came out, and all I could find was an old PowerPoint presentation about public sector emissions. Maybe I'm looking in the wrong place. Progress and opportunity for climate resilience is inextricably linked with the need to halt and reverse the loss of nature. I'm glad to see this recognised with the announcement of the forthcoming climate and nature plan, but we need to be clear about how progress on both will be monitored and reported. You'll be aware of the importance of the forthcoming targets due to be introduced in accordance with the Environment (Principles, Governance and Biodiversity Targets) (Wales) Act 2026, yet presently we don't have targets or any clear means of Member oversight on progress. Could you confirm the timeline for the introduction of those biodiversity and nature targets and whether you intend to monitor and report on progress openly using one of those dashboards?",
+          "text_original": "Diolch. On 2 June, when I raised this in the Siambr, the First Minister said that the Government is committed to clear public reporting on Wales's progress towards net zero through an accessible online dashboard. I went to have a look for it when some of the other dashboards came out, and all I could find was an old PowerPoint presentation about public sector emissions. Maybe I'm looking in the wrong place. Progress and opportunity for climate resilience is inextricably linked with the need to halt and reverse the loss of nature. I'm glad to see this recognised with the announcement of the forthcoming climate and nature plan, but we need to be clear about how progress on both will be monitored and reported. You'll be aware of the importance of the forthcoming targets due to be introduced in accordance with the Environment (Principles, Governance and Biodiversity Targets) (Wales) Act 2026, yet presently we don't have targets or any clear means of Member oversight on progress. Could you confirm the timeline for the introduction of those biodiversity and nature targets and whether you intend to monitor and report on progress openly using one of those dashboards?"
+        }
+      ],
+      "date": "2026-09-30"
+    },
     {
       "contributions": [
         {

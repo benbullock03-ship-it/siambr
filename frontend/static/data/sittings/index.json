@@ -1,5 +1,273 @@
 [
   {
+    "contribution_count": 213,
+    "date": "2026-09-30",
+    "id": "plenary-16265",
+    "item_count": 7,
+    "items": [
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16265-260930-1",
+        "order": 0,
+        "policy_domain_id": "communities",
+        "speaker_ids": [
+          "ms-andrew-griffin",
+          "ms-anna-nicholl",
+          "ms-carrie-harper",
+          "ms-catherine-cullen",
+          "ms-cristiana-emsley",
+          "ms-david-mills",
+          "ms-elwyn-vaughan",
+          "ms-kerry-ferguson",
+          "ms-lindsay-whittle",
+          "ms-llyr-powell",
+          "ms-lynne-neagle",
+          "ms-mike-hedges",
+          "ms-natasha-asghar",
+          "ms-paul-marr",
+          "ms-rebeca-phillips",
+          "ms-sarah-rees",
+          "ms-sioned-williams"
+        ],
+        "title_cy": "1. Cwestiynau i’r Dirprwy Brif Weinidog a’r Gweinidog Cabinet dros Gyfiawnder Cymdeithasol a Chydraddoldeb",
+        "title_en": "1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice",
+        "type": "oral_questions"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16265-260930-2",
+        "order": 1,
+        "policy_domain_id": "transport",
+        "speaker_ids": [
+          "ms-adrian-mason",
+          "ms-andrew-rt-davies",
+          "ms-art-wright",
+          "ms-benjamin-hodge-mckenna",
+          "ms-gareth-beer",
+          "ms-iain-mcintosh",
+          "ms-janet-finch-saunders",
+          "ms-jayne-bryant",
+          "ms-kerry-ferguson",
+          "ms-laura-anne-jones",
+          "ms-llyr-gruffydd",
+          "ms-lyn-ackerman",
+          "ms-matthew-jones",
+          "ms-natasha-asghar",
+          "ms-paul-rock",
+          "ms-peredur-owen-griffiths",
+          "ms-rebeca-phillips",
+          "ms-safa-elhassan",
+          "ms-sarah-edwards",
+          "ms-shav-taj",
+          "ms-steven-rodaway",
+          "ms-vikki-howells"
+        ],
+        "title_cy": "2. Cwestiynau i'r Gweinidog Cabinet dros  Wydnwch Gwledig a Chynaliadwyedd",
+        "title_en": "2. Questions to the Cabinet Minister for Rural Resilience and Sustainability",
+        "type": "oral_questions"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16265-260930-3",
+        "order": 2,
+        "policy_domain_id": "devolution",
+        "speaker_ids": [
+          "ms-adam-price",
+          "ms-andrew-rt-davies",
+          "ms-gwyn-williams",
+          "ms-huw-irranca-davies",
+          "ms-huw-thomas",
+          "ms-janet-finch-saunders",
+          "ms-jason-o-connell",
+          "ms-kerry-ferguson",
+          "ms-kiera-marshall",
+          "ms-sera-evans"
+        ],
+        "title_cy": "3. Cwestiynau Amserol",
+        "title_en": "3. Topical Questions",
+        "type": "oral_questions"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16265-260930-4",
+        "order": 3,
+        "policy_domain_id": "devolution",
+        "speaker_ids": [
+          "ms-elwyn-vaughan",
+          "ms-kerry-ferguson",
+          "ms-laura-anne-jones",
+          "ms-rebeca-phillips",
+          "ms-safa-elhassan",
+          "ms-sera-evans"
+        ],
+        "title_cy": "4. Datganiadau 90 eiliad",
+        "title_en": "4. 90-second Statements",
+        "type": "statement"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16265-260930-5",
+        "order": 4,
+        "policy_domain_id": "devolution",
+        "speaker_ids": [
+          "ms-heledd-fychan",
+          "ms-kerry-ferguson"
+        ],
+        "title_cy": "Cynigion i ethol Aelodau i bwyllgorau",
+        "title_en": "Motions to elect Members to committees",
+        "type": "debate"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16265-260930-6",
+        "order": 5,
+        "policy_domain_id": "devolution",
+        "speaker_ids": [
+          "ms-andrew-griffin",
+          "ms-art-wright",
+          "ms-elwyn-vaughan",
+          "ms-huw-irranca-davies",
+          "ms-janet-finch-saunders",
+          "ms-ken-skates",
+          "ms-kerry-ferguson",
+          "ms-kiera-marshall",
+          "ms-llyr-gruffydd",
+          "ms-niamh-salkeld",
+          "ms-nigel-williams",
+          "ms-sera-evans",
+          "ms-vikki-howells"
+        ],
+        "title_cy": "5. Dadl Aelodau o dan Reol Sefydlog 11.21(iv): Tir halogedig",
+        "title_en": "5. Member Debate under Standing Order 11.21(iv): Contaminated land",
+        "type": "debate"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16265-260930-8",
+        "order": 6,
+        "policy_domain_id": "devolution",
+        "speaker_ids": [
+          "ms-adam-price",
+          "ms-darren-millar",
+          "ms-huw-irranca-davies",
+          "ms-janet-finch-saunders",
+          "ms-sarah-rees",
+          "ms-steven-rodaway"
+        ],
+        "title_cy": "7. Dadl y Ceidwadwyr Cymreig: Y sector amddiffyn",
+        "title_en": "7. Welsh Conservatives Debate: The defence sector",
+        "type": "debate"
+      }
+    ],
+    "meeting_id": 16265,
+    "meeting_start_time": "13:30:00",
+    "record_published_at": "2026-09-30T22:58:44",
+    "source_xml_url": "https://record.senedd.wales/XMLExport/Download?meetingID=16265&xmlDownloadType=BilingualTranscript",
+    "term": 7,
+    "title_cy": "Cyfarfod Llawn",
+    "title_en": "Plenary"
+  },
+  {
+    "contribution_count": 126,
+    "date": "2026-09-29",
+    "id": "plenary-16264",
+    "item_count": 4,
+    "items": [
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16264-260929-1",
+        "order": 0,
+        "policy_domain_id": "devolution",
+        "speaker_ids": [
+          "ms-huw-irranca-davies"
+        ],
+        "title_cy": "Datganiad gan y Llywydd",
+        "title_en": "Statement by the Llywydd",
+        "type": "statement"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16264-260929-2",
+        "order": 1,
+        "policy_domain_id": "devolution",
+        "speaker_ids": [
+          "ms-adrian-mason",
+          "ms-huw-irranca-davies",
+          "ms-laura-anne-jones",
+          "ms-nigel-williams",
+          "ms-tom-montgomery"
+        ],
+        "title_cy": "1. Enwebiadau ar gyfer Cadeirydd Pwyllgor",
+        "title_en": "1. Nominations for a Committee Chair",
+        "type": "debate"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16264-260929-3",
+        "order": 2,
+        "policy_domain_id": "devolution",
+        "speaker_ids": [
+          "ms-art-wright",
+          "ms-carmelo-colasanto",
+          "ms-carrie-harper",
+          "ms-cristiana-emsley",
+          "ms-darren-millar",
+          "ms-david-hughes",
+          "ms-elwyn-vaughan",
+          "ms-elyn-stephens",
+          "ms-francesca-o-brien",
+          "ms-heledd-fychan",
+          "ms-helen-jenner",
+          "ms-huw-irranca-davies",
+          "ms-huw-thomas",
+          "ms-iain-mcintosh",
+          "ms-jane-dodds",
+          "ms-janet-finch-saunders",
+          "ms-jayne-bryant",
+          "ms-joshua-kim",
+          "ms-ken-skates",
+          "ms-laura-anne-jones",
+          "ms-louise-emery",
+          "ms-mair-rowlands",
+          "ms-marc-jones",
+          "ms-natasha-asghar",
+          "ms-niamh-salkeld",
+          "ms-paul-davies",
+          "ms-rhun-ap-iorwerth",
+          "ms-sam-rowlands",
+          "ms-shav-taj",
+          "ms-steve-bayliss",
+          "ms-tom-montgomery"
+        ],
+        "title_cy": "2. Cwestiynau i'r Prif Weinidog",
+        "title_en": "2. Questions to the First Minister",
+        "type": "oral_questions"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16264-260929-4",
+        "order": 3,
+        "policy_domain_id": "health",
+        "speaker_ids": [
+          "ms-benjamin-hodge-mckenna",
+          "ms-huw-irranca-davies",
+          "ms-ken-skates",
+          "ms-mabon-ap-gwynfor"
+        ],
+        "title_cy": "4. Datganiad gan y Gweinidog Cabinet dros Iechyd a Gofal: Adolygiad o'r Fframwaith Uwchgyfeirio ac Ymyrryd",
+        "title_en": "4. Statement by the Cabinet Minister for Health and Care: Review of the Escalation and Intervention Framework",
+        "type": "statement"
+      }
+    ],
+    "meeting_id": 16264,
+    "meeting_start_time": "13:30:00",
+    "record_published_at": "2026-09-29T15:48:55",
+    "source_xml_url": "https://record.senedd.wales/XMLExport/Download?meetingID=16264&xmlDownloadType=BilingualTranscript",
+    "term": 7,
+    "title_cy": "Cyfarfod Llawn",
+    "title_en": "Plenary"
+  },
+  {
     "contribution_count": 280,
     "date": "2026-09-23",
     "id": "plenary-16263",
