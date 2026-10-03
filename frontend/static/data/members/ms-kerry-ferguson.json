@@ -3,7 +3,7 @@
   "canonical_name": "Kerry Ferguson",
   "constituency_name_cy": "Ceredigion Penfro",
   "constituency_name_en": "Ceredigion Penfro",
-  "contribution_count": 332,
+  "contribution_count": 348,
   "contributions_by_date": [
     {
       "contributions": [
@@ -12,7 +12,7 @@
           "item_id": "item-16265-260930-1",
           "item_title_en": "1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice",
           "lang": "cy",
-          "t_start": 1,
+          "t_start": 3,
           "text_english": "Good afternoon. Welcome to Wednesday's Plenary meeting. Questions to the Deputy First Minister and Cabinet Minister for Social Justice and Equality. Question 1, David Mills.",
           "text_original": "Prynhawn da. Croeso i sesiwn Cyfarfod Llawn dydd Mercher. Cwestiynau i’r Dirprwy Brif Weinidog a’r Gweinidog Cabinet dros Gyfiawnder Cymdeithasol a Chydraddoldeb. Cwestiwn 1, David Mills."
         },
@@ -21,7 +21,7 @@
           "item_id": "item-16265-260930-1",
           "item_title_en": "1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice",
           "lang": "cy",
-          "t_start": 868,
+          "t_start": 870,
           "text_english": "I now call on the party spokespeople to question the Cabinet Minister. The Reform UK spokesperson, Cristiana Emsley.",
           "text_original": "Galwaf y nawr ar lefarywyr y pleidiau i holi'r Gweinidog Cabinet. Llefarydd Reform UK, Cristiana Emsley."
         },
@@ -30,7 +30,7 @@
           "item_id": "item-16265-260930-1",
           "item_title_en": "1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice",
           "lang": "cy",
-          "t_start": 1351,
+          "t_start": 1353,
           "text_english": "Welsh Labour spokesperson, Lynne Neagle.",
           "text_original": "Llefarydd Llafur Cymru, Lynne Neagle."
         },
@@ -39,7 +39,7 @@
           "item_id": "item-16265-260930-1",
           "item_title_en": "1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice",
           "lang": "cy",
-          "t_start": 1669,
+          "t_start": 1671,
           "text_english": "Welsh Conservative spokesperson, Natasha Asghar.",
           "text_original": "Llefarydd y Ceidwadwyr Cymreig, Natasha Asghar."
         },
@@ -48,7 +48,7 @@
           "item_id": "item-16265-260930-1",
           "item_title_en": "1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice",
           "lang": "cy",
-          "t_start": 2835,
+          "t_start": 2837,
           "text_english": "And the final question, question 6, Carrie Harper.",
           "text_original": "A'r cwestiwn olaf, cwestiwn 6, Carrie Harper."
         },
@@ -57,7 +57,7 @@
           "item_id": "item-16265-260930-1",
           "item_title_en": "1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice",
           "lang": "cy",
-          "t_start": 3012,
+          "t_start": 3014,
           "text_english": "Thank you, Deputy First Minister.",
           "text_original": "Diolch, Ddirprwy Brif Weinidog."
         },
@@ -66,7 +66,7 @@
           "item_id": "item-16265-260930-2",
           "item_title_en": "2. Questions to the Cabinet Minister for Rural Resilience and Sustainability",
           "lang": "cy",
-          "t_start": 3014,
+          "t_start": 3016,
           "text_english": "We'll move now to item 2, questions to the Cabinet Minister for Rural Resilience and Sustainability. Question 1, Natasha Asghar.",
           "text_original": "Symudwn ymlaen i eitem 2, cwestiynau i'r Gweinidog Cabinet dros Wydnwch Gwledig a Chynaliadwyedd. Cwestiwn 1, Natasha Asghar."
         },
@@ -75,8 +75,8 @@
           "item_id": "item-16265-260930-2",
           "item_title_en": "2. Questions to the Cabinet Minister for Rural Resilience and Sustainability",
           "lang": "cy",
-          "t_start": 3590,
-          "text_english": "I now call on the party spokespeople to question the Cabinet Minster. Reform UK spokesperson, Laura Anne Jones.",
+          "t_start": 3592,
+          "text_english": "I now call on the party spokespeople to question the Cabinet Minister. Reform UK spokesperson, Laura Anne Jones.",
           "text_original": "Galwaf yn awr ar lefarwyr y pleidiau i holi'r Gweinidog Cabinet. Llefarydd Reform UK, Laura Anne Jones."
         },
         {
@@ -84,7 +84,7 @@
           "item_id": "item-16265-260930-2",
           "item_title_en": "2. Questions to the Cabinet Minister for Rural Resilience and Sustainability",
           "lang": "cy",
-          "t_start": 3954,
+          "t_start": 3956,
           "text_english": "The Welsh Labour spokesperson, Vikki Howells.",
           "text_original": "Llefarydd Llafur Cymru, Vikki Howells."
         },
@@ -93,7 +93,7 @@
           "item_id": "item-16265-260930-2",
           "item_title_en": "2. Questions to the Cabinet Minister for Rural Resilience and Sustainability",
           "lang": "cy",
-          "t_start": 4194,
+          "t_start": 4196,
           "text_english": "The Welsh Conservatives' spokesperson, Andrew R.T. Davies.",
           "text_original": "Llefarydd y Ceidwadwyr Cymreig, Andrew R.T. Davies."
         },
@@ -102,7 +102,7 @@
           "item_id": "item-16265-260930-2",
           "item_title_en": "2. Questions to the Cabinet Minister for Rural Resilience and Sustainability",
           "lang": "cy",
-          "t_start": 5740,
+          "t_start": 5742,
           "text_english": "And the final question to you, Minister, question 8. Adrian Mason.",
           "text_original": "A'r cwestiwn olaf i chi, Weinidog, cwestiwn 8. Adrian Mason."
         },
@@ -111,7 +111,7 @@
           "item_id": "item-16265-260930-2",
           "item_title_en": "2. Questions to the Cabinet Minister for Rural Resilience and Sustainability",
           "lang": "cy",
-          "t_start": 5927,
+          "t_start": 5929,
           "text_english": "Thank you very much, Cabinet Minister.",
           "text_original": "Diolch yn fawr iawn i chi, Weinidog Cabinet."
         },
@@ -120,7 +120,7 @@
           "item_id": "item-16265-260930-3",
           "item_title_en": "3. Topical Questions",
           "lang": "cy",
-          "t_start": 5929,
+          "t_start": 5931,
           "text_english": "We'll move now to item 3, the topical questions. There are two questions this afternoon. The first is from Huw Thomas.",
           "text_original": "Symudwn ymlaen i eitem 3, cwestiynau amserol. Mae dau gwestiwn heddiw. Yn gyntaf, Huw Thomas."
         },
@@ -129,7 +129,7 @@
           "item_id": "item-16265-260930-3",
           "item_title_en": "3. Topical Questions",
           "lang": "en",
-          "t_start": 7085,
+          "t_start": 7087,
           "text_english": "[Inaudible.]",
           "text_original": "[Inaudible.]"
         },
@@ -138,7 +138,7 @@
           "item_id": "item-16265-260930-3",
           "item_title_en": "3. Topical Questions",
           "lang": "cy",
-          "t_start": 7385,
+          "t_start": 7387,
           "text_english": "Thank you very much, Cabinet Minister.",
           "text_original": "Diolch yn fawr iawn, Weinidog Cabinet."
         },
@@ -147,7 +147,7 @@
           "item_id": "item-16265-260930-4",
           "item_title_en": "4. 90-second Statements",
           "lang": "cy",
-          "t_start": 7388,
+          "t_start": 7390,
           "text_english": "We'll move now to item 4, the 90-second statements. Laura Anne Jones.",
           "text_original": "Symudwn ymlaen i eitem 4, datganiadau 90 eiliad. Laura Anne Jones."
         },
@@ -156,7 +156,7 @@
           "item_id": "item-16265-260930-4",
           "item_title_en": "4. 90-second Statements",
           "lang": "cy",
-          "t_start": 7868,
+          "t_start": 7870,
           "text_english": "Thank you very much.\n\nWe will now move to motions to elect Members to committees. Unless there is any objection, in accordance with Standing Orders 12.24 and 12.40, I propose that the motions to elect Members to committees are grouped for debate and for voting. Are there any objections? No, there are no objections.",
           "text_original": "Diolch yn fawr iawn.\n\nSymudaf ymlaen i gynigion i ethol Aelodau i bwyllgorau. Oni bai bod unrhyw wrthwynebiadau, yn unol â Rheolau Sefydlog 12.24 ac 12.40, cynigiaf fod y cynigion i ethol Aelodau i bwyllgorau yn cael eu grwpio at ddibenion dadl a phleidleisio. A oes unrhyw wrthwynebiad? Na, does dim gwrthwynebiad."
         },
@@ -165,7 +165,7 @@
           "item_id": "item-16265-260930-5",
           "item_title_en": "Motions to elect Members to committees",
           "lang": "cy",
-          "t_start": 7899,
+          "t_start": 7901,
           "text_english": "I call on a member of the Business Committee to move the motions formally. Heledd Fychan.",
           "text_original": "Galwaf ar aelod o'r Pwyllgor Busnes i wneud y cynigion yn ffurfiol. Heledd Fychan."
         },
@@ -174,7 +174,7 @@
           "item_id": "item-16265-260930-5",
           "item_title_en": "Motions to elect Members to committees",
           "lang": "cy",
-          "t_start": 7906,
+          "t_start": 7908,
           "text_english": "Thank you. The proposal is to agree the motions. Does any Member object? No. The motions are therefore agreed in accordance with Standing Order 12.36. Thank you very much.",
           "text_original": "Diolch. Y cwestiwn yw: a ddylid derbyn y cynigion? A oes unrhyw Aelod yn gwrthwynebu? Nac oes. Felly, derbynnir y cynigion yn unol â Rheol Sefydlog 12.36. Diolch yn fawr iawn."
         },
@@ -183,7 +183,7 @@
           "item_id": "item-16265-260930-6",
           "item_title_en": "5. Member Debate under Standing Order 11.21(iv): Contaminated land",
           "lang": "cy",
-          "t_start": 7921,
+          "t_start": 7923,
           "text_english": "I move now to item 5, a Member debate under Standing Order 11.21(iv), contaminated land. I call on Niamh Salkeld to move the motion.",
           "text_original": "Symudaf ymlaen i eitem 5, dadl Aelodau o dan Reol Sefydlog 11.21(iv), tir halogedig. Galwaf ar Niamh Salkeld i wneud y cynnig."
         },
@@ -192,7 +192,7 @@
           "item_id": "item-16265-260930-6",
           "item_title_en": "5. Member Debate under Standing Order 11.21(iv): Contaminated land",
           "lang": "en",
-          "t_start": 10345,
+          "t_start": 10347,
           "text_english": "Nigel, can I ask you to conclude? Sorry.",
           "text_original": "Nigel, can I ask you to conclude? Sorry."
         },
@@ -201,7 +201,7 @@
           "item_id": "item-16265-260930-6",
           "item_title_en": "5. Member Debate under Standing Order 11.21(iv): Contaminated land",
           "lang": "cy",
-          "t_start": 10779,
+          "t_start": 10781,
           "text_english": "And finally, Art Wright.",
           "text_original": "Ac yn olaf, Art Wright."
         },
@@ -210,7 +210,7 @@
           "item_id": "item-16265-260930-6",
           "item_title_en": "5. Member Debate under Standing Order 11.21(iv): Contaminated land",
           "lang": "cy",
-          "t_start": 10861,
+          "t_start": 10863,
           "text_english": "I call on the Cabinet Minister for Rural Resilience and Sustainability, Llyr Gruffydd.",
           "text_original": "Galwaf ar y Gweinidog Cabinet dros Wydnwch Gwledig a Chynaliadwyedd, Llyr Gruffydd."
         },
@@ -219,12 +219,161 @@
           "item_id": "item-16265-260930-6",
           "item_title_en": "5. Member Debate under Standing Order 11.21(iv): Contaminated land",
           "lang": "cy",
-          "t_start": 11422,
+          "t_start": 11424,
           "text_english": "Thank you very much, Cabinet Minister. I call on Niamh Salkeld to reply to the debate.",
           "text_original": "Diolch yn fawr iawn, Weinidog Cabinet. Galwaf ar Niamh Salkeld i ymateb i'r ddadl."
         }
       ],
       "date": "2026-09-30"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-772987",
+          "item_id": "item-16264-260929-5",
+          "item_title_en": "4. Statement by the Cabinet Minister for Health and Care: Review of the Escalation and Intervention Framework",
+          "lang": "cy",
+          "t_start": 7870,
+          "text_english": "Thank you very much, Cabinet Minister.",
+          "text_original": "Diolch yn fawr iawn i chi, Weinidog Cabinet."
+        },
+        {
+          "id": "contribution-772990",
+          "item_id": "item-16264-260929-6",
+          "item_title_en": "5. Statement by the Cabinet Minister for Local Government, Housing and Planning: The Revision of the National Development Framework and National Conversation",
+          "lang": "cy",
+          "t_start": 7872,
+          "text_english": "We'll move now to a statement by the Cabinet Minister for Local Government Housing and Planning, the revision of the national development framework and national conversation. I call on the Cabinet Minister for Local Government, Housing and Planning, Siân Gwenllian.",
+          "text_original": "Symudwn ymlaen i'r datganiad gan y Gweinidog Cabinet dros Lywodraeth Leol, Tai a Chynllunio, diwygio fframwaith datblygu cenedlaethol a sgwrs genedlaethol. Galwaf ar y Gweinidog Cabinet dros Lywodraeth Leol, Tai a Chynllunio, Siân Gwenllian."
+        },
+        {
+          "id": "contribution-773018",
+          "item_id": "item-16264-260929-6",
+          "item_title_en": "5. Statement by the Cabinet Minister for Local Government, Housing and Planning: The Revision of the National Development Framework and National Conversation",
+          "lang": "cy",
+          "t_start": 10267,
+          "text_english": "And the final question, Minister. John Clark.",
+          "text_original": "A'r cwestiwn olaf, Weinidog. John Clark."
+        },
+        {
+          "id": "contribution-773031",
+          "item_id": "item-16264-260929-6",
+          "item_title_en": "5. Statement by the Cabinet Minister for Local Government, Housing and Planning: The Revision of the National Development Framework and National Conversation",
+          "lang": "cy",
+          "t_start": 10496,
+          "text_english": "Thank you very much, Cabinet Minister.",
+          "text_original": "Diolch yn fawr iawn, Weinidog Cabinet."
+        },
+        {
+          "id": "contribution-773034",
+          "item_id": "item-16264-260929-7",
+          "item_title_en": "6. Statement by the Cabinet Minister for Government Effectiveness and the Constitution: National Commission for Wales",
+          "lang": "cy",
+          "t_start": 10498,
+          "text_english": "Item 6 has been postponed.",
+          "text_original": "Mae eitem 6 wedi'i gohirio."
+        },
+        {
+          "id": "contribution-773091",
+          "item_id": "item-16264-260929-8",
+          "item_title_en": "7. Statement by the Deputy Minister for Social Care, Mental Health and Women's Health: Improving Family-centred Neonatal Care in Wales: Progress Towards the Bliss Baby Charter",
+          "lang": "cy",
+          "t_start": 10500,
+          "text_english": "So, I will move on to item 7, a statement by the Deputy Minister for Social Care, Mental Health and Women's Health, improving family-centred neonatal care in Wales, progress towards the Bliss baby charter. I call on the Cabinet Minister for Social Care, Mental Health and Women's Health, Delyth Jewell.",
+          "text_original": "Felly, symudaf ymlaen i eitem 7, datganiad gan y Dirprwy Weinidog dros Ofal Cymdeithasol, Iechyd Meddwl ac Iechyd Menywod, gwella gofal newyddenedigol sy'n canolbwyntio ar y teulu yng Nghymru, cynnydd tuag at siarter babanod Bliss. Galwaf ar y Gweinidog Cabinet dros Ofal Cymdeithasol, Iechyd Meddwl ac Iechyd Menywod, Delyth Jewell."
+        },
+        {
+          "id": "contribution-773042",
+          "item_id": "item-16264-260929-8",
+          "item_title_en": "7. Statement by the Deputy Minister for Social Care, Mental Health and Women's Health: Improving Family-centred Neonatal Care in Wales: Progress Towards the Bliss Baby Charter",
+          "lang": "cy",
+          "t_start": 12736,
+          "text_english": "Minister, I have nine Members who want to contribute and I have eight and a half minutes remaining. So, I would ask for your patience. I want to try and include everyone and I ask Members to be succinct, please.",
+          "text_original": "Weinidog, mae gen i naw Aelod sydd eisiau dod i mewn a chyfrannu, ac mae gen i wyth munud a hanner ar ôl. Felly, dwi'n gofyn am eich amynedd. Dwi eisiau trio cynnwys pawb, a dwi'n gofyn i'r Aelodau fod yn gryno os gwelwch yn dda."
+        },
+        {
+          "id": "contribution-773058",
+          "item_id": "item-16264-260929-8",
+          "item_title_en": "7. Statement by the Deputy Minister for Social Care, Mental Health and Women's Health: Improving Family-centred Neonatal Care in Wales: Progress Towards the Bliss Baby Charter",
+          "lang": "cy",
+          "t_start": 12752,
+          "text_english": "I wouldn't go as far as to tell the Minister that. Sara Crowley.",
+          "text_original": "Fyddwn i ddim yn mynd mor bell â dweud wrth y Gweinidog i fod yn gryno. Sara Crowley."
+        },
+        {
+          "id": "contribution-773065",
+          "item_id": "item-16264-260929-8",
+          "item_title_en": "7. Statement by the Deputy Minister for Social Care, Mental Health and Women's Health: Improving Family-centred Neonatal Care in Wales: Progress Towards the Bliss Baby Charter",
+          "lang": "en",
+          "t_start": 13037,
+          "text_english": "Janet, I'm sorry to push for a question.",
+          "text_original": "Janet, I'm sorry to push for a question."
+        },
+        {
+          "id": "contribution-773053",
+          "item_id": "item-16264-260929-8",
+          "item_title_en": "7. Statement by the Deputy Minister for Social Care, Mental Health and Women's Health: Improving Family-centred Neonatal Care in Wales: Progress Towards the Bliss Baby Charter",
+          "lang": "en",
+          "t_start": 13355,
+          "text_english": "We are over time. If I can just remind Members, please try and keep it to the time allotted, which is one minute. Mair Rowlands.",
+          "text_original": "We are over time. If I can just remind Members, please try and keep it to the time allotted, which is one minute. Mair Rowlands."
+        },
+        {
+          "id": "contribution-773061",
+          "item_id": "item-16264-260929-8",
+          "item_title_en": "7. Statement by the Deputy Minister for Social Care, Mental Health and Women's Health: Improving Family-centred Neonatal Care in Wales: Progress Towards the Bliss Baby Charter",
+          "lang": "cy",
+          "t_start": 13451,
+          "text_english": "Mair, could we have the question, please?",
+          "text_original": "Mair, allwn ni gael y cwestiwn, os gwelwch yn dda?"
+        },
+        {
+          "id": "contribution-773085",
+          "item_id": "item-16264-260929-8",
+          "item_title_en": "7. Statement by the Deputy Minister for Social Care, Mental Health and Women's Health: Improving Family-centred Neonatal Care in Wales: Progress Towards the Bliss Baby Charter",
+          "lang": "cy",
+          "t_start": 14093,
+          "text_english": "And finally, Minister, Darren Millar.",
+          "text_original": "Ac yn olaf, Weinidog, Darren Millar."
+        },
+        {
+          "id": "contribution-773078",
+          "item_id": "item-16264-260929-8",
+          "item_title_en": "7. Statement by the Deputy Minister for Social Care, Mental Health and Women's Health: Improving Family-centred Neonatal Care in Wales: Progress Towards the Bliss Baby Charter",
+          "lang": "cy",
+          "t_start": 14275,
+          "text_english": "Thank you, Cabinet Minister.",
+          "text_original": "Diolch, Weinidog Cabinet."
+        },
+        {
+          "id": "contribution-773081",
+          "item_id": "item-16264-260929-8",
+          "item_title_en": "7. Statement by the Deputy Minister for Social Care, Mental Health and Women's Health: Improving Family-centred Neonatal Care in Wales: Progress Towards the Bliss Baby Charter",
+          "lang": "cy",
+          "t_start": 14278,
+          "text_english": "It's fine. Thank you to everyone for their patience.",
+          "text_original": "Mae'n iawn. Diolch i bawb am eu hamynedd."
+        },
+        {
+          "id": "contribution-773083",
+          "item_id": "item-16264-260929-8",
+          "item_title_en": "7. Statement by the Deputy Minister for Social Care, Mental Health and Women's Health: Improving Family-centred Neonatal Care in Wales: Progress Towards the Bliss Baby Charter",
+          "lang": "cy",
+          "t_start": 14281,
+          "text_english": "Exactly. Everyone's questions are always important, but thank you for extending that to an hour.",
+          "text_original": "Yn union. Mae cwestiynau pawb yn bwysig o hyd, ond, ie, diolch am adael inni ymestyn i awr."
+        },
+        {
+          "id": "contribution-773088",
+          "item_id": "item-16264-260929-9",
+          "item_title_en": "8. Statement by the Deputy Minister for Public and Preventative Health: Public and Preventative Health",
+          "lang": "cy",
+          "t_start": 14287,
+          "text_english": "Item 8, the next item, has been withdrawn.\n\nSo, before I bring today's proceedings to a close, I have the result of the secret ballot for Chair of the legislation Committee. The number of votes were: for Cai Parry-Jones 15, Cristiana Emsley 52, abstentions seven, and spoiled ballots zero. So, I declare that Cristiana Emsley is elected Chair of the Legislation committee. Congratulations.\n\nAnd that brings today's proceedings to a close. Thank you.",
+          "text_original": "Mae eitem 8, yr eitem nesaf, wedi cael ei thynnu'n ôl.\n\nFelly, cyn i fi ddod â thrafodion heddiw i ben, mae gen i ganlyniad y bleidlais gudd ar gyfer Cadeirydd y Pwyllgor deddfwriaeth. Mae gen i nifer y pleidleisiau: ar gyfer Cai Parry-Jones 15, Cristiana Emsley 52, ymatal eu pleidleisiau saith, a phleidleisiau sydd wedi eu difetha dim. Felly, rwy'n datgan bod Cristiana Emsley wedi ei hethol yn Gadeirydd y Pwyllgor deddfwriaeth. Llongyfarchiadau.\n\nA daw hynny â thrafodion heddiw i ben. Diolch yn fawr iawn i chi."
+        }
+      ],
+      "date": "2026-09-29"
     },
     {
       "contributions": [

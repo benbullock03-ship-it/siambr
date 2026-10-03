@@ -1,9 +1,9 @@
 [
   {
-    "contribution_count": 213,
+    "contribution_count": 248,
     "date": "2026-09-30",
     "id": "plenary-16265",
-    "item_count": 7,
+    "item_count": 9,
     "items": [
       {
         "classification_provenance": "PROVENANCE_DERIVED",
@@ -148,30 +148,66 @@
         "policy_domain_id": "devolution",
         "speaker_ids": [
           "ms-adam-price",
+          "ms-andrew-rt-davies",
           "ms-darren-millar",
           "ms-huw-irranca-davies",
           "ms-janet-finch-saunders",
+          "ms-jason-o-connell",
+          "ms-ken-skates",
+          "ms-paul-davies",
+          "ms-sam-rowlands",
           "ms-sarah-rees",
+          "ms-shav-taj",
           "ms-steven-rodaway"
         ],
         "title_cy": "7. Dadl y Ceidwadwyr Cymreig: Y sector amddiffyn",
         "title_en": "7. Welsh Conservatives Debate: The defence sector",
         "type": "debate"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16265-260930-9",
+        "order": 7,
+        "policy_domain_id": "devolution",
+        "speaker_ids": [
+          "ms-huw-irranca-davies"
+        ],
+        "title_cy": "8. Cyfnod Pleidleisio",
+        "title_en": "8. Voting Time",
+        "type": "debate"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16265-260930-10",
+        "order": 8,
+        "policy_domain_id": "health",
+        "speaker_ids": [
+          "ms-anna-nicholl",
+          "ms-claire-archibald",
+          "ms-cristiana-emsley",
+          "ms-huw-irranca-davies",
+          "ms-mabon-ap-gwynfor",
+          "ms-paul-davies",
+          "ms-paul-marr"
+        ],
+        "title_cy": "9. Dadl Fer: Pwysigrwydd gwasanaethau lleol—Diogelu dyfodol ysbyty Llwynhelyg",
+        "title_en": "9. Short Debate: The importance of local services—Protecting the future of Withybush hospital",
+        "type": "debate"
       }
     ],
     "meeting_id": 16265,
-    "meeting_start_time": "13:30:00",
-    "record_published_at": "2026-09-30T22:58:44",
+    "meeting_start_time": "13:30:01",
+    "record_published_at": "2026-10-02T19:59:18",
     "source_xml_url": "https://record.senedd.wales/XMLExport/Download?meetingID=16265&xmlDownloadType=BilingualTranscript",
     "term": 7,
     "title_cy": "Cyfarfod Llawn",
     "title_en": "Plenary"
   },
   {
-    "contribution_count": 126,
+    "contribution_count": 222,
     "date": "2026-09-29",
     "id": "plenary-16264",
-    "item_count": 4,
+    "item_count": 9,
     "items": [
       {
         "classification_provenance": "PROVENANCE_DERIVED",
@@ -212,30 +248,23 @@
           "ms-carrie-harper",
           "ms-cristiana-emsley",
           "ms-darren-millar",
-          "ms-david-hughes",
           "ms-elwyn-vaughan",
           "ms-elyn-stephens",
           "ms-francesca-o-brien",
-          "ms-heledd-fychan",
           "ms-helen-jenner",
           "ms-huw-irranca-davies",
           "ms-huw-thomas",
-          "ms-iain-mcintosh",
           "ms-jane-dodds",
           "ms-janet-finch-saunders",
           "ms-jayne-bryant",
-          "ms-joshua-kim",
           "ms-ken-skates",
-          "ms-laura-anne-jones",
           "ms-louise-emery",
-          "ms-mair-rowlands",
           "ms-marc-jones",
           "ms-natasha-asghar",
           "ms-niamh-salkeld",
           "ms-paul-davies",
           "ms-rhun-ap-iorwerth",
           "ms-sam-rowlands",
-          "ms-shav-taj",
           "ms-steve-bayliss",
           "ms-tom-montgomery"
         ],
@@ -247,21 +276,122 @@
         "classification_provenance": "PROVENANCE_DERIVED",
         "id": "item-16264-260929-4",
         "order": 3,
+        "policy_domain_id": "devolution",
+        "speaker_ids": [
+          "ms-darren-millar",
+          "ms-david-hughes",
+          "ms-heledd-fychan",
+          "ms-huw-irranca-davies",
+          "ms-iain-mcintosh",
+          "ms-jane-dodds",
+          "ms-joshua-kim",
+          "ms-kiera-marshall",
+          "ms-laura-anne-jones",
+          "ms-llyr-powell",
+          "ms-mair-rowlands",
+          "ms-natasha-asghar",
+          "ms-paul-davies",
+          "ms-shav-taj",
+          "ms-stephen-senior"
+        ],
+        "title_cy": "3. Datganiad a Chyhoeddiad Busnes",
+        "title_en": "3. Business Statement and Announcement",
+        "type": "statement"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16264-260929-5",
+        "order": 4,
         "policy_domain_id": "health",
         "speaker_ids": [
+          "ms-anna-nicholl",
           "ms-benjamin-hodge-mckenna",
+          "ms-gwyn-williams",
           "ms-huw-irranca-davies",
+          "ms-jane-dodds",
           "ms-ken-skates",
-          "ms-mabon-ap-gwynfor"
+          "ms-kerry-ferguson",
+          "ms-louise-emery",
+          "ms-mabon-ap-gwynfor",
+          "ms-natasha-asghar"
         ],
         "title_cy": "4. Datganiad gan y Gweinidog Cabinet dros Iechyd a Gofal: Adolygiad o'r Fframwaith Uwchgyfeirio ac Ymyrryd",
         "title_en": "4. Statement by the Cabinet Minister for Health and Care: Review of the Escalation and Intervention Framework",
         "type": "statement"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16264-260929-6",
+        "order": 5,
+        "policy_domain_id": "communities",
+        "speaker_ids": [
+          "ms-elyn-stephens",
+          "ms-francesca-o-brien",
+          "ms-john-clark",
+          "ms-kerry-ferguson",
+          "ms-natasha-asghar",
+          "ms-nick-carter",
+          "ms-sian-gwenllian",
+          "ms-tom-montgomery",
+          "ms-vikki-howells"
+        ],
+        "title_cy": "5. Datganiad gan y Gweinidog Cabinet dros Lywodraeth Leol, Tai a Chynllunio: Diwygio Fframwaith Datblygu Cenedlaethol a Sgwrs Genedlaethol",
+        "title_en": "5. Statement by the Cabinet Minister for Local Government, Housing and Planning: The Revision of the National Development Framework and National Conversation",
+        "type": "statement"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16264-260929-7",
+        "order": 6,
+        "policy_domain_id": "devolution",
+        "speaker_ids": [
+          "ms-kerry-ferguson"
+        ],
+        "title_cy": "6. Datganiad gan y Gweinidog Cabinet dros Effeithiolrwydd Llywodraeth a'r Cyfansoddiad: Comisiwn Cenedlaethol Cymru",
+        "title_en": "6. Statement by the Cabinet Minister for Government Effectiveness and the Constitution: National Commission for Wales",
+        "type": "statement"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16264-260929-8",
+        "order": 7,
+        "policy_domain_id": "health",
+        "speaker_ids": [
+          "ms-becca-martin",
+          "ms-catherine-cullen",
+          "ms-claire-archibald",
+          "ms-cristiana-emsley",
+          "ms-darren-millar",
+          "ms-delyth-jewell",
+          "ms-jane-dodds",
+          "ms-janet-finch-saunders",
+          "ms-jayne-bryant",
+          "ms-kerry-ferguson",
+          "ms-mair-rowlands",
+          "ms-natasha-asghar",
+          "ms-sara-crowley",
+          "ms-shav-taj"
+        ],
+        "title_cy": "7. Datganiad gan y Dirprwy Weinidog dros Ofal Cymdeithasol, Iechyd Meddwl ac Iechyd Menywod: Gwella Gofal Newyddenedigol sy'n Canolbwyntio ar y Teulu yng Nghymru: Cynnydd tuag at Siarter Babanod Bliss",
+        "title_en": "7. Statement by the Deputy Minister for Social Care, Mental Health and Women's Health: Improving Family-centred Neonatal Care in Wales: Progress Towards the Bliss Baby Charter",
+        "type": "statement"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16264-260929-9",
+        "order": 8,
+        "policy_domain_id": "health",
+        "speaker_ids": [
+          "ms-kerry-ferguson"
+        ],
+        "title_cy": "8. Datganiad gan y Dirprwy Weinidog dros Iechyd Cyhoeddus ac Ataliol: Iechyd Cyhoeddus ac Ataliol",
+        "title_en": "8. Statement by the Deputy Minister for Public and Preventative Health: Public and Preventative Health",
+        "type": "statement"
       }
     ],
     "meeting_id": 16264,
-    "meeting_start_time": "13:30:00",
-    "record_published_at": "2026-09-29T15:48:55",
+    "meeting_start_time": "13:30:01",
+    "record_published_at": "2026-10-02T20:00:30",
     "source_xml_url": "https://record.senedd.wales/XMLExport/Download?meetingID=16264&xmlDownloadType=BilingualTranscript",
     "term": 7,
     "title_cy": "Cyfarfod Llawn",

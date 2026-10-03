@@ -3,8 +3,31 @@
   "canonical_name": "Nick Carter",
   "constituency_name_cy": "Caerdydd Ffynnon Taf",
   "constituency_name_en": "Caerdydd Ffynnon Taf",
-  "contribution_count": 12,
+  "contribution_count": 14,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-773003",
+          "item_id": "item-16264-260929-6",
+          "item_title_en": "5. Statement by the Cabinet Minister for Local Government, Housing and Planning: The Revision of the National Development Framework and National Conversation",
+          "lang": "cy",
+          "t_start": 9617,
+          "text_english": "Thank you for your statement today.",
+          "text_original": "Diolch am eich datganiad heddiw."
+        },
+        {
+          "id": "contribution-773005",
+          "item_id": "item-16264-260929-6",
+          "item_title_en": "5. Statement by the Cabinet Minister for Local Government, Housing and Planning: The Revision of the National Development Framework and National Conversation",
+          "lang": "en",
+          "t_start": 9619,
+          "text_english": "I'm looking forward to a new development framework for Wales so that it better serves our people, communities and businesses. Simplifying the planning process will be very welcome and will play a crucial role in increasing economic development and improving productivity. Wales is increasingly being recognised as a strategic location for the infrastructure needed to support the digital economy, but it is essential that the benefits of any investment are felt in the communities affected. Energy and resource consumption is a critical requirement for data centres, and the lack of grid capacity means these developments are often little more than power stations generating electricity from fossil fuels, with industrial-scale diesel generators as backup.\n\nIn my own constituency of Caerdydd Ffynnon Taf, a 47 MW gas-fired power station is proposed on the Cardiff east park-and-ride site, in an entirely unsuitable urban location close to schools, care homes and the new Maple Fields housing development. Therefore, the holding directive to give time for Planning and Environment Decisions Wales to consider whether to call in this application is welcome, but communities across Wales are seeking reassurance that we will avoid an unsustainable proliferation of data centres. Please can you provide an update on a specific data centre strategy for Wales as part of the national development framework? Diolch.",
+          "text_original": "I'm looking forward to a new development framework for Wales so that it better serves our people, communities and businesses. Simplifying the planning process will be very welcome and will play a crucial role in increasing economic development and improving productivity. Wales is increasingly being recognised as a strategic location for the infrastructure needed to support the digital economy, but it is essential that the benefits of any investment are felt in the communities affected. Energy and resource consumption is a critical requirement for data centres, and the lack of grid capacity means these developments are often little more than power stations generating electricity from fossil fuels, with industrial-scale diesel generators as backup.\n\nIn my own constituency of Caerdydd Ffynnon Taf, a 47 MW gas-fired power station is proposed on the Cardiff east park-and-ride site, in an entirely unsuitable urban location close to schools, care homes and the new Maple Fields housing development. Therefore, the holding directive to give time for Planning and Environment Decisions Wales to consider whether to call in this application is welcome, but communities across Wales are seeking reassurance that we will avoid an unsustainable proliferation of data centres. Please can you provide an update on a specific data centre strategy for Wales as part of the national development framework? Diolch."
+        }
+      ],
+      "date": "2026-09-29"
+    },
     {
       "contributions": [
         {
