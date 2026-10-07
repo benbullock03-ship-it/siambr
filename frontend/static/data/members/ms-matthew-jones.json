@@ -3,8 +3,22 @@
   "canonical_name": "Matthew Jones",
   "constituency_name_cy": "Sir Fynwy Torfaen",
   "constituency_name_en": "Sir Fynwy Torfaen",
-  "contribution_count": 22,
+  "contribution_count": 23,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-775832",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 148,
+          "text_english": "Diolch, Brif Weinidog. Access to essential services is a major concern for many of my constituents in Monmouthshire, and the statistics back that up. Some of the most pressing issues found in the Welsh index of multiple deprivation statistics include access to pharmacies, GPs, local shops and childcare. These services are often twice as hard to reach in rural areas as the national average. The challenges are hard to tackle, but there are communities working to do this. What is the Welsh Government doing to address these wide-ranging problems in rural areas like Monmouthshire?",
+          "text_original": "Diolch, Brif Weinidog. Access to essential services is a major concern for many of my constituents in Monmouthshire, and the statistics back that up. Some of the most pressing issues found in the Welsh index of multiple deprivation statistics include access to pharmacies, GPs, local shops and childcare. These services are often twice as hard to reach in rural areas as the national average. The challenges are hard to tackle, but there are communities working to do this. What is the Welsh Government doing to address these wide-ranging problems in rural areas like Monmouthshire?"
+        }
+      ],
+      "date": "2026-10-06"
+    },
     {
       "contributions": [
         {

@@ -1,5 +1,53 @@
 [
   {
+    "contribution_count": 80,
+    "date": "2026-10-06",
+    "id": "plenary-16313",
+    "item_count": 1,
+    "items": [
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16313-261006-1",
+        "order": 0,
+        "policy_domain_id": "devolution",
+        "speaker_ids": [
+          "ms-andrew-griffin",
+          "ms-andrew-rt-davies",
+          "ms-cai-parry-jones",
+          "ms-cristiana-emsley",
+          "ms-darren-millar",
+          "ms-david-mills",
+          "ms-helen-jenner",
+          "ms-huw-irranca-davies",
+          "ms-jane-dodds",
+          "ms-ken-skates",
+          "ms-kiera-marshall",
+          "ms-laura-anne-jones",
+          "ms-llyr-powell",
+          "ms-matthew-jones",
+          "ms-mike-hedges",
+          "ms-paul-davies",
+          "ms-peter-fox",
+          "ms-rhun-ap-iorwerth",
+          "ms-sam-rowlands",
+          "ms-sarah-rees",
+          "ms-shav-taj",
+          "ms-zaynub-akbar"
+        ],
+        "title_cy": "1. Cwestiynau i'r Prif Weinidog",
+        "title_en": "1. Questions to the First Minister",
+        "type": "oral_questions"
+      }
+    ],
+    "meeting_id": 16313,
+    "meeting_start_time": "13:30:00",
+    "record_published_at": "2026-10-06T14:58:45",
+    "source_xml_url": "https://record.senedd.wales/XMLExport/Download?meetingID=16313&xmlDownloadType=BilingualTranscript",
+    "term": 7,
+    "title_cy": "Cyfarfod Llawn",
+    "title_en": "Plenary"
+  },
+  {
     "contribution_count": 248,
     "date": "2026-09-30",
     "id": "plenary-16265",

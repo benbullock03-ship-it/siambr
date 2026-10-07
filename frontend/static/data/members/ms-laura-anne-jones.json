@@ -3,8 +3,31 @@
   "canonical_name": "Laura Anne Jones",
   "constituency_name_cy": "Sir Fynwy Torfaen",
   "constituency_name_en": "Sir Fynwy Torfaen",
-  "contribution_count": 36,
+  "contribution_count": 38,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-775886",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "5. What progress has the First Minister made on improving timely access to NHS care? OQ64675",
+          "text_original": "5. Pa gynnydd y mae'r Prif Weinidog wedi'i wneud o ran gwella mynediad amserol at ofal y GIG? OQ64675"
+        },
+        {
+          "id": "contribution-775889",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 2762,
+          "text_english": "First Minister, I'm sure you'll agree with me that when it comes to dentistry, it's important to drill into the data. Recent data shows that only 40 per cent of people were treated under an NHS dentist, a 40 per cent drop since 2020. It is very difficult for anybody now to access NHS dental treatment. Your own health Minister admitted in a committee recently that he faces a 60 mile round trip to see his dentist. When the flawed dental new contract came into force on 1 April, five practices in my area of Monmouthshire Torfaen stopped providing NHS care. Access to NHS dentists is absolutely vital, otherwise Wales will face more dental problems further down the road. What are you going to do about it, First Minister? Will you finally involve practising dentists to try and help to solve this problem, as the lack of accessibility for NHS dentists is now out of control?",
+          "text_original": "First Minister, I'm sure you'll agree with me that when it comes to dentistry, it's important to drill into the data. Recent data shows that only 40 per cent of people were treated under an NHS dentist, a 40 per cent drop since 2020. It is very difficult for anybody now to access NHS dental treatment. Your own health Minister admitted in a committee recently that he faces a 60 mile round trip to see his dentist. When the flawed dental new contract came into force on 1 April, five practices in my area of Monmouthshire Torfaen stopped providing NHS care. Access to NHS dentists is absolutely vital, otherwise Wales will face more dental problems further down the road. What are you going to do about it, First Minister? Will you finally involve practising dentists to try and help to solve this problem, as the lack of accessibility for NHS dentists is now out of control?"
+        }
+      ],
+      "date": "2026-10-06"
+    },
     {
       "contributions": [
         {

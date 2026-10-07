@@ -3,8 +3,31 @@
   "canonical_name": "Cai Parry-Jones",
   "constituency_name_cy": "Caerdydd Ffynnon Taf",
   "constituency_name_en": "Caerdydd Ffynnon Taf",
-  "contribution_count": 29,
+  "contribution_count": 31,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-775903",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "6. What are the Welsh Government's plans for addressing poverty in this Senedd term? OQ64674",
+          "text_original": "6. Beth yw cynlluniau Llywodraeth Cymru ar gyfer mynd i'r afael â thlodi yn nhymor y Senedd hon? OQ64674"
+        },
+        {
+          "id": "contribution-775908",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 2937,
+          "text_english": "It's fascinating that your answer did not explicitly state whether you're talking about absolute poverty or relative poverty, and they are very different metrics. Absolute poverty focuses on the welfare of the poorest people in our society, something I want to see all Governments focus on. The other, relative poverty, is in reality a type of inequality, focused on the gap in wealth between people, and that can be a very dangerous metric. As Margaret Thatcher said, those who focus on inequality above absolute poverty would rather the poor were poorer so long as the rich were even less rich, reducing the gap. First Minister, do you accept there is an important difference in the two measures of poverty, and to avoid confusion in future, will you and your Government, when referencing poverty, state clearly whether you're talking about absolute poverty or the socialist obsession that is inequality?",
+          "text_original": "It's fascinating that your answer did not explicitly state whether you're talking about absolute poverty or relative poverty, and they are very different metrics. Absolute poverty focuses on the welfare of the poorest people in our society, something I want to see all Governments focus on. The other, relative poverty, is in reality a type of inequality, focused on the gap in wealth between people, and that can be a very dangerous metric. As Margaret Thatcher said, those who focus on inequality above absolute poverty would rather the poor were poorer so long as the rich were even less rich, reducing the gap. First Minister, do you accept there is an important difference in the two measures of poverty, and to avoid confusion in future, will you and your Government, when referencing poverty, state clearly whether you're talking about absolute poverty or the socialist obsession that is inequality?"
+        }
+      ],
+      "date": "2026-10-06"
+    },
     {
       "contributions": [
         {

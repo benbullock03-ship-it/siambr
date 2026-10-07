@@ -3,8 +3,22 @@
   "canonical_name": "Shav Taj",
   "constituency_name_cy": "Caerdydd Ffynnon Taf",
   "constituency_name_en": "Caerdydd Ffynnon Taf",
-  "contribution_count": 51,
+  "contribution_count": 52,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-775846",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 743,
+          "text_english": "First Minister, shouldn't value for money, as you say, be not just measured by—and the cost; all of that has been discussed—investment, jobs, opportunities, but also what communities then locally get back as well? You've mentioned a range of different things, but how do we then ensure that those economic benefits are genuinely felt across all of our communities in Wales?",
+          "text_original": "First Minister, shouldn't value for money, as you say, be not just measured by—and the cost; all of that has been discussed—investment, jobs, opportunities, but also what communities then locally get back as well? You've mentioned a range of different things, but how do we then ensure that those economic benefits are genuinely felt across all of our communities in Wales?"
+        }
+      ],
+      "date": "2026-10-06"
+    },
     {
       "contributions": [
         {

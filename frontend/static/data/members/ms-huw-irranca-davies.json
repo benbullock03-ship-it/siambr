@@ -3,8 +3,67 @@
   "canonical_name": "Huw Irranca-Davies",
   "constituency_name_cy": "Afan Ogwr Rhondda",
   "constituency_name_en": "Afan Ogwr Rhondda",
-  "contribution_count": 604,
+  "contribution_count": 610,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-775816",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 1,
+          "text_english": "Prynhawn da. Good afternoon, everybody.",
+          "text_original": "Prynhawn da. Good afternoon, everybody."
+        },
+        {
+          "id": "contribution-775819",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 8,
+          "text_english": "We will move immediately to item 1, questions to the First Minister. The first question is from Andrew Griffin.",
+          "text_original": "Symudwn yn syth ymlaen at eitem 1, cwestiynau i'r Prif Weinidog. Cwestiwn 1, Andrew Griffin."
+        },
+        {
+          "id": "contribution-775824",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 382,
+          "text_english": "A question, please, Jane.",
+          "text_original": "A question, please, Jane."
+        },
+        {
+          "id": "contribution-775842",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 929,
+          "text_english": "I now call on the party leaders to question the First Minister. First, the leader of Reform UK, Helen Jenner.",
+          "text_original": "Galwaf yn awr ar arweinwyr y pleidiau i holi'r Prif Weinidog. Yn gyntaf, arweinydd Reform UK, Helen Jenner."
+        },
+        {
+          "id": "contribution-775871",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 1383,
+          "text_english": "Leader of Welsh Labour, Ken Skates.",
+          "text_original": "Arweinydd Llafur Cymru, Ken Skates."
+        },
+        {
+          "id": "contribution-775888",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 1596,
+          "text_english": "Leader of the Welsh Conservatives—Darren Millar.",
+          "text_original": "Arweinydd y Ceidwadwyr Cymreig—Darren Millar."
+        }
+      ],
+      "date": "2026-10-06"
+    },
     {
       "contributions": [
         {

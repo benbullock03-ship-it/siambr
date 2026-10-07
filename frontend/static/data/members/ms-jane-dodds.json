@@ -3,8 +3,31 @@
   "canonical_name": "Jane Dodds",
   "constituency_name_cy": "Brycheiniog Tawe Nedd",
   "constituency_name_en": "Brycheiniog Tawe Nedd",
-  "contribution_count": 101,
+  "contribution_count": 103,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-775817",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 318,
+          "text_english": "Prynhawn da, Brif Weinidog. Just to come back to Powys, and to health services, you'll know that the Powys teaching health board has launched a proposal and a consultation on the future of health services across Powys. These proposals include cuts to hospital beds, which would leave communities like Ystradgynlais with a 23-mile journey to receive in-patient care. In a large rural county with poor public transport, as you will know, that matters enormously to patients, families and carers.\n\nNine thousand, seven hundred people have signed our petition opposing these plans, yet their voices are being brushed aside, and they are repeatedly told by your Government, and the health board, to simply wait for the consultation to finish. But the options on the table mean that significant reductions in in-patient care are already baked in, and that that consultation only presents one option.\n\nWe've been told that your Government can't do anything, but we know that the Welsh Government has mechanisms to intervene when it needs to, for example, with the fire and rescue services.",
+          "text_original": "Prynhawn da, Brif Weinidog. Just to come back to Powys, and to health services, you'll know that the Powys teaching health board has launched a proposal and a consultation on the future of health services across Powys. These proposals include cuts to hospital beds, which would leave communities like Ystradgynlais with a 23-mile journey to receive in-patient care. In a large rural county with poor public transport, as you will know, that matters enormously to patients, families and carers.\n\nNine thousand, seven hundred people have signed our petition opposing these plans, yet their voices are being brushed aside, and they are repeatedly told by your Government, and the health board, to simply wait for the consultation to finish. But the options on the table mean that significant reductions in in-patient care are already baked in, and that that consultation only presents one option.\n\nWe've been told that your Government can't do anything, but we know that the Welsh Government has mechanisms to intervene when it needs to, for example, with the fire and rescue services."
+        },
+        {
+          "id": "contribution-775826",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 384,
+          "text_english": "So, what will your Government do in order to listen to the voices of people in a rural area like Powys and make sure that these proposals are stopped? Diolch yn fawr iawn.",
+          "text_original": "So, what will your Government do in order to listen to the voices of people in a rural area like Powys and make sure that these proposals are stopped? Diolch yn fawr iawn."
+        }
+      ],
+      "date": "2026-10-06"
+    },
     {
       "contributions": [
         {

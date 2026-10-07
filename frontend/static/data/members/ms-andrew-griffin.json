@@ -3,8 +3,31 @@
   "canonical_name": "Andrew Griffin",
   "constituency_name_cy": "Gwynedd Maldwyn",
   "constituency_name_en": "Gwynedd Maldwyn",
-  "contribution_count": 10,
+  "contribution_count": 12,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-775821",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "1. What assessment has the First Minister made of the provision of public services in rural Wales? OQ64619",
+          "text_original": "1. Pa asesiad y mae'r Prif Weinidog wedi'i wneud o ddarpariaeth gwasanaethau cyhoeddus yng nghefn gwlad Cymru? OQ64619"
+        },
+        {
+          "id": "contribution-775825",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 48,
+          "text_english": "Thank you, First Minister. During the election campaign, I heard the same concern right across the Gwynedd Maldwyn constituency that rural mid Wales is too often overlooked. We're seeing schools close, continuing problems on the Cambrian line, in-patient beds closed at Tywyn, and potentially fewer community hospital beds provided in Powys. This winter we are also facing reductions in routine gritting. Now, I know the response: 'Schools and roads are matters for councils, health services for health boards'. But the Welsh Government sets policy, provides much of the funding and can intervene. Indeed, you've just provided Powys Teaching Health Board with an additional £3.5 million to tackle waiting lists. So, who in your Government is responsible for looking at the cumulative effect of all these decisions on rural communities, and what are you going to do about it?",
+          "text_original": "Thank you, First Minister. During the election campaign, I heard the same concern right across the Gwynedd Maldwyn constituency that rural mid Wales is too often overlooked. We're seeing schools close, continuing problems on the Cambrian line, in-patient beds closed at Tywyn, and potentially fewer community hospital beds provided in Powys. This winter we are also facing reductions in routine gritting. Now, I know the response: 'Schools and roads are matters for councils, health services for health boards'. But the Welsh Government sets policy, provides much of the funding and can intervene. Indeed, you've just provided Powys Teaching Health Board with an additional £3.5 million to tackle waiting lists. So, who in your Government is responsible for looking at the cumulative effect of all these decisions on rural communities, and what are you going to do about it?"
+        }
+      ],
+      "date": "2026-10-06"
+    },
     {
       "contributions": [
         {
