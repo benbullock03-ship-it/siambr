@@ -1,5 +1,203 @@
 [
   {
+    "contribution_count": 255,
+    "date": "2026-10-07",
+    "id": "plenary-16314",
+    "item_count": 9,
+    "items": [
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16314-261007-1",
+        "order": 0,
+        "policy_domain_id": "health",
+        "speaker_ids": [
+          "ms-alun-cox",
+          "ms-andrew-rt-davies",
+          "ms-anna-nicholl",
+          "ms-art-wright",
+          "ms-benjamin-hodge-mckenna",
+          "ms-catherine-cullen",
+          "ms-claire-archibald",
+          "ms-delyth-jewell",
+          "ms-donna-cushing",
+          "ms-huw-irranca-davies",
+          "ms-john-davies",
+          "ms-ken-skates",
+          "ms-kerry-ferguson",
+          "ms-mabon-ap-gwynfor",
+          "ms-matthew-jones",
+          "ms-natasha-asghar",
+          "ms-peter-fox",
+          "ms-sara-crowley",
+          "ms-sarah-rees",
+          "ms-stephen-senior",
+          "ms-steve-bayliss",
+          "ms-vikki-howells"
+        ],
+        "title_cy": "1. Cwestiynau i'r Gweinidog Cabinet dros Iechyd a Gofal",
+        "title_en": "1. Questions to the Cabinet Minister for Health and Care",
+        "type": "oral_questions"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16314-261007-2",
+        "order": 1,
+        "policy_domain_id": "communities",
+        "speaker_ids": [
+          "ms-andrew-rt-davies",
+          "ms-anthony-slaughter",
+          "ms-david-hughes",
+          "ms-francesca-o-brien",
+          "ms-huw-irranca-davies",
+          "ms-huw-thomas",
+          "ms-jason-o-connell",
+          "ms-jayne-bryant",
+          "ms-john-davies",
+          "ms-laura-anne-jones",
+          "ms-marc-jones",
+          "ms-nigel-williams",
+          "ms-peter-fox",
+          "ms-sara-crowley",
+          "ms-sarah-edwards",
+          "ms-sera-evans",
+          "ms-sian-gwenllian",
+          "ms-steven-rodaway",
+          "ms-vikki-howells"
+        ],
+        "title_cy": "2. Cwestiynau i’r Gweinidog Cabinet dros Lywodraeth Leol, Tai a Chynllunio",
+        "title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
+        "type": "oral_questions"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16314-261007-3",
+        "order": 2,
+        "policy_domain_id": "devolution",
+        "speaker_ids": [
+          "ms-huw-irranca-davies"
+        ],
+        "title_cy": "3. Cwestiynau Amserol",
+        "title_en": "3. Topical Questions",
+        "type": "oral_questions"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16314-261007-4",
+        "order": 3,
+        "policy_domain_id": "devolution",
+        "speaker_ids": [
+          "ms-andrew-griffin",
+          "ms-beca-brown",
+          "ms-catherine-cullen",
+          "ms-elwyn-vaughan",
+          "ms-huw-irranca-davies"
+        ],
+        "title_cy": "4. Datganiadau 90 eiliad",
+        "title_en": "4. 90-second Statements",
+        "type": "statement"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16314-261007-5",
+        "order": 4,
+        "policy_domain_id": "devolution",
+        "speaker_ids": [
+          "ms-huw-irranca-davies",
+          "ms-llyr-powell"
+        ],
+        "title_cy": "Cynigion i Ethol Aelodau i Bwyllgorau",
+        "title_en": "Motions to elect Members to committees",
+        "type": "debate"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16314-261007-6",
+        "order": 5,
+        "policy_domain_id": "devolution",
+        "speaker_ids": [
+          "ms-elyn-stephens",
+          "ms-huw-irranca-davies"
+        ],
+        "title_cy": "5. Cynnig i ddirprwyo awdurdod ar gyfer gwneud y trefniadau i recriwtio Comisiynydd Safonau newydd i'r Pwyllgor Safonau Ymddygiad",
+        "title_en": "5. Motion to delegate authority to make the arrangements for recruiting a new Commissioner for Standards to the Standards of Conduct Committee",
+        "type": "debate"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16314-261007-7",
+        "order": 6,
+        "policy_domain_id": "devolution",
+        "speaker_ids": [
+          "ms-art-wright",
+          "ms-delyth-jewell",
+          "ms-huw-irranca-davies",
+          "ms-jane-dodds",
+          "ms-kerry-ferguson",
+          "ms-louise-emery",
+          "ms-natasha-asghar",
+          "ms-sarah-cooper-lesadd",
+          "ms-tom-montgomery"
+        ],
+        "title_cy": "6. Dadl Aelodau o dan Reol Sefydlog 11.21(iv): Llysoedd Teulu Cyffuriau ac Alcohol",
+        "title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+        "type": "debate"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16314-261007-8",
+        "order": 7,
+        "policy_domain_id": "devolution",
+        "speaker_ids": [
+          "ms-carmelo-colasanto",
+          "ms-heledd-fychan",
+          "ms-huw-irranca-davies",
+          "ms-john-davies",
+          "ms-kerry-ferguson",
+          "ms-lis-mclean",
+          "ms-llyr-powell",
+          "ms-louise-emery",
+          "ms-paul-davies",
+          "ms-steve-bayliss",
+          "ms-steven-rodaway"
+        ],
+        "title_cy": "7. Dadl Reform UK: Rygbi rhanbarthol",
+        "title_en": "7. Reform UK Debate: Regional rugby",
+        "type": "debate"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16314-261007-9",
+        "order": 8,
+        "policy_domain_id": "communities",
+        "speaker_ids": [
+          "ms-anthony-slaughter",
+          "ms-dafydd-trystan-davies",
+          "ms-francesca-o-brien",
+          "ms-huw-irranca-davies",
+          "ms-jane-dodds",
+          "ms-jayne-bryant",
+          "ms-joe-martin",
+          "ms-john-clark",
+          "ms-ken-skates",
+          "ms-kiera-marshall",
+          "ms-peter-fox",
+          "ms-sian-gwenllian",
+          "ms-zaynub-akbar"
+        ],
+        "title_cy": "8. Dadl Reform UK: Mynediad at dai amlfeddiannaeth a thai cymdeithasol i wladolion tramor",
+        "title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+        "type": "debate"
+      }
+    ],
+    "meeting_id": 16314,
+    "meeting_start_time": "13:30:00",
+    "record_published_at": "2026-10-07T17:58:45",
+    "source_xml_url": "https://record.senedd.wales/XMLExport/Download?meetingID=16314&xmlDownloadType=BilingualTranscript",
+    "term": 7,
+    "title_cy": "Cyfarfod Llawn",
+    "title_en": "Plenary"
+  },
+  {
     "contribution_count": 80,
     "date": "2026-10-06",
     "id": "plenary-16313",

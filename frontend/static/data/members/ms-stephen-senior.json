@@ -3,8 +3,31 @@
   "canonical_name": "Stephen Senior",
   "constituency_name_cy": "Sir Fynwy Torfaen",
   "constituency_name_en": "Sir Fynwy Torfaen",
-  "contribution_count": 14,
+  "contribution_count": 16,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-776609",
+          "item_id": "item-16314-261007-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Health and Care",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "2. How is the Welsh Government monitoring late cancellations by the Welsh Ambulance Services NHS Trust of non-emergency patient transport in Monmouthshire and Torfaen? OQ64614",
+          "text_original": "2. Sut y mae Llywodraeth Cymru yn monitro achosion lle mae Ymddiriedolaeth GIG Gwasanaethau Ambiwlans Cymru yn canslo cludiant cleifion nad yw’n gludiant brys ar fyr rybudd yn Sir Fynwy Torfaen? OQ64614"
+        },
+        {
+          "id": "contribution-776611",
+          "item_id": "item-16314-261007-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Health and Care",
+          "lang": "en",
+          "t_start": 442,
+          "text_english": "Cabinet Minister, the Welsh ambulance service quite rightly complains that patients cancel non-emergency transport at the last minute, with it reported that 20,000 had been cancelled until July, and around 60,000 last year. However, it seems that no such monitoring happens when the service itself cancels transport. Indeed, a recent consultation on the proposed changes to the service contained this statement:\n\n'demand for transport continues to increase, and journeys regularly have to be cancelled because demand exceeded available capacity'. \n\nIn other words, bookings are taken for seats that might not even exist. That's a failure of organisation and a real failure of the NHS. Very recently, a care home in my constituency was instructed that a resident would be collected earlier than planned, otherwise the transport would be cancelled. The home managed to comply, but it was stressful, and the patient arrived two hours early for her appointment and was out of the care home for over five hours. This is wholly unacceptable. Cabinet Minister, cancelled transport means wasted NHS appointment time and undue stress on patients and carers. Will you instruct your officials to establish the extent of the problem, the causes and the solutions?",
+          "text_original": "Cabinet Minister, the Welsh ambulance service quite rightly complains that patients cancel non-emergency transport at the last minute, with it reported that 20,000 had been cancelled until July, and around 60,000 last year. However, it seems that no such monitoring happens when the service itself cancels transport. Indeed, a recent consultation on the proposed changes to the service contained this statement:\n\n'demand for transport continues to increase, and journeys regularly have to be cancelled because demand exceeded available capacity'. \n\nIn other words, bookings are taken for seats that might not even exist. That's a failure of organisation and a real failure of the NHS. Very recently, a care home in my constituency was instructed that a resident would be collected earlier than planned, otherwise the transport would be cancelled. The home managed to comply, but it was stressful, and the patient arrived two hours early for her appointment and was out of the care home for over five hours. This is wholly unacceptable. Cabinet Minister, cancelled transport means wasted NHS appointment time and undue stress on patients and carers. Will you instruct your officials to establish the extent of the problem, the causes and the solutions?"
+        }
+      ],
+      "date": "2026-10-07"
+    },
     {
       "contributions": [
         {

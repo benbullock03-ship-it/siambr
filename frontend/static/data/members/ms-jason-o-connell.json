@@ -3,8 +3,22 @@
   "canonical_name": "Jason O'Connell",
   "constituency_name_cy": "Pontypridd Cynon Merthyr",
   "constituency_name_en": "Pontypridd Cynon Merthyr",
-  "contribution_count": 40,
+  "contribution_count": 41,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-776716",
+          "item_id": "item-16314-261007-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
+          "lang": "en",
+          "t_start": 3755,
+          "text_english": "I don't wish to speak, Llywydd.",
+          "text_original": "I don't wish to speak, Llywydd."
+        }
+      ],
+      "date": "2026-10-07"
+    },
     {
       "contributions": [
         {

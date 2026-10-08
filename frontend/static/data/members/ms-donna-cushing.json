@@ -3,8 +3,31 @@
   "canonical_name": "Donna Cushing",
   "constituency_name_cy": "Sir Fynwy Torfaen",
   "constituency_name_en": "Sir Fynwy Torfaen",
-  "contribution_count": 2,
+  "contribution_count": 4,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-776676",
+          "item_id": "item-16314-261007-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Health and Care",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "7. Will the Cabinet Minister provide an update on the Government’s plans to develop surgical hubs? OQ64654",
+          "text_original": "7. A wnaiff y Gweinidog Cabinet roi'r wybodaeth ddiweddaraf am gynlluniau'r Llywodraeth i ddatblygu hybiau llawfeddygol? OQ64654"
+        },
+        {
+          "id": "contribution-776672",
+          "item_id": "item-16314-261007-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Health and Care",
+          "lang": "en",
+          "t_start": 2667,
+          "text_english": "Thank you, Cabinet Minister. I've heard from my constituents in Sir Fynwy Torfaen of an average wait time of 73 weeks for routine appointments with the head or consultant of orthopaedics, and a 50-week wait for an out-patient appointment for standard dermatology referrals. So much of the pressure on the NHS waiting list comes from these routine procedures, so anything we can do to help with this can only be a good thing, making people's quality of life better, reducing the stress of long-term uncertainty for patients waiting for treatments and appointments, and improving the overall standard of the health service. \n\nHas the elective care task and finish group started its work on identifying the best locations for the 10 new surgical care hubs across Wales, so we can start tackling the inequality of access to routine care and take the pressure off waiting times?",
+          "text_original": "Thank you, Cabinet Minister. I've heard from my constituents in Sir Fynwy Torfaen of an average wait time of 73 weeks for routine appointments with the head or consultant of orthopaedics, and a 50-week wait for an out-patient appointment for standard dermatology referrals. So much of the pressure on the NHS waiting list comes from these routine procedures, so anything we can do to help with this can only be a good thing, making people's quality of life better, reducing the stress of long-term uncertainty for patients waiting for treatments and appointments, and improving the overall standard of the health service. \n\nHas the elective care task and finish group started its work on identifying the best locations for the 10 new surgical care hubs across Wales, so we can start tackling the inequality of access to routine care and take the pressure off waiting times?"
+        }
+      ],
+      "date": "2026-10-07"
+    },
     {
       "contributions": [
         {

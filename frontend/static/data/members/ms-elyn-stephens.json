@@ -3,8 +3,22 @@
   "canonical_name": "Elyn Stephens",
   "constituency_name_cy": "Afan Ogwr Rhondda",
   "constituency_name_en": "Afan Ogwr Rhondda",
-  "contribution_count": 19,
+  "contribution_count": 20,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-776819",
+          "item_id": "item-16314-261007-6",
+          "item_title_en": "5. Motion to delegate authority to make the arrangements for recruiting a new Commissioner for Standards to the Standards of Conduct Committee",
+          "lang": "cy",
+          "t_start": 6510,
+          "text_english": "I formally move the motion in the name of Lindsay Whittle.",
+          "text_original": "Symudaf y cynnig yn ffurfiol yn enw Lindsay Whittle."
+        }
+      ],
+      "date": "2026-10-07"
+    },
     {
       "contributions": [
         {

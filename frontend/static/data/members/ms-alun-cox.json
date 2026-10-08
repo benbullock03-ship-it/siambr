@@ -3,8 +3,31 @@
   "canonical_name": "Alun Cox",
   "constituency_name_cy": "Afan Ogwr Rhondda",
   "constituency_name_en": "Afan Ogwr Rhondda",
-  "contribution_count": 16,
+  "contribution_count": 18,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-776667",
+          "item_id": "item-16314-261007-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Health and Care",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "4. Will the Cabinet Minister outline the Welsh Government's plans for tackling cardiovascular diseases in Afan Ogwr Rhondda? OQ64659",
+          "text_original": "4. A wnaiff y Gweinidog Cabinet amlinellu cynlluniau Llywodraeth Cymru ar gyfer mynd i'r afael â chlefydau cardiofasgwlaidd yn Afan Ogwr Rhondda? OQ64659"
+        },
+        {
+          "id": "contribution-776670",
+          "item_id": "item-16314-261007-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Health and Care",
+          "lang": "en",
+          "t_start": 2067,
+          "text_english": "Diolch, Weinidog. I recently met with the British Heart Foundation Cymru, and they estimate that cardiovascular disease costs the Welsh economy in the region of £1.7 billion a year. With around 27,000 people in Afan Ogwr Rhondda living with cardiovascular disease, effective national clinical leadership is key to ensuring they receive consistent, high-quality care.\n\nIn March, the previous Government confirmed that the national clinical lead role for cardiology would be advertised, and recruitment opened in April for a two-year secondment. However, the cardiac implementation network's website still lists its national clinical lead and several other clinical roles as vacant. What steps is the Government taking to ensure that the cardiac implementation network has the clinical leadership it needs to deliver the quality statement for heart conditions?",
+          "text_original": "Diolch, Weinidog. I recently met with the British Heart Foundation Cymru, and they estimate that cardiovascular disease costs the Welsh economy in the region of £1.7 billion a year. With around 27,000 people in Afan Ogwr Rhondda living with cardiovascular disease, effective national clinical leadership is key to ensuring they receive consistent, high-quality care.\n\nIn March, the previous Government confirmed that the national clinical lead role for cardiology would be advertised, and recruitment opened in April for a two-year secondment. However, the cardiac implementation network's website still lists its national clinical lead and several other clinical roles as vacant. What steps is the Government taking to ensure that the cardiac implementation network has the clinical leadership it needs to deliver the quality statement for heart conditions?"
+        }
+      ],
+      "date": "2026-10-07"
+    },
     {
       "contributions": [
         {

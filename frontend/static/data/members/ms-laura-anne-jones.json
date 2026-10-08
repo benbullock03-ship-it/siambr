@@ -3,8 +3,40 @@
   "canonical_name": "Laura Anne Jones",
   "constituency_name_cy": "Sir Fynwy Torfaen",
   "constituency_name_en": "Sir Fynwy Torfaen",
-  "contribution_count": 38,
+  "contribution_count": 41,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-776792",
+          "item_id": "item-16314-261007-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "6. How does the Welsh Government ensure infrastructure keeps pace with housing growth? OQ64672",
+          "text_original": "6. Sut mae Llywodraeth Cymru yn sicrhau bod seilwaith yn cadw i fyny â thwf tai? OQ64672"
+        },
+        {
+          "id": "contribution-776794",
+          "item_id": "item-16314-261007-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
+          "lang": "en",
+          "t_start": 5653,
+          "text_english": "Diolch. Minister, most communities in my constituency are already stretched to the limit. It's already hard to get a GP appointment, seeing an NHS dentist is almost impossible, and schools already have too many children in the classroom without the right support, yet more homes are being approved without the infrastructure there to support them.\n\nWe all want to see more housing as soon as possible, as has been said today, but there has to be some common sense attached to it. I know this has been brought up quite a number of times today in this Senedd, and I want to just reiterate points made by the Member for Carmarthenshire and the Member for Fflint Wrecsam, because my constituency shares those same pressures, and that's why I welcome the consultation that is open right now. But how do you envisage better infrastructure planning around new housing developments? And, as you develop the new national development framework following the consultation, will you work with local authorities to look to reform planning policy to ensure that any large housing developments are only approved where there is the necessary infrastructure already in place, or there is clear funding commitment to deliver it alongside the housing? As you've said today, that should be happening, but as you know and I know and this Chamber knows—",
+          "text_original": "Diolch. Minister, most communities in my constituency are already stretched to the limit. It's already hard to get a GP appointment, seeing an NHS dentist is almost impossible, and schools already have too many children in the classroom without the right support, yet more homes are being approved without the infrastructure there to support them.\n\nWe all want to see more housing as soon as possible, as has been said today, but there has to be some common sense attached to it. I know this has been brought up quite a number of times today in this Senedd, and I want to just reiterate points made by the Member for Carmarthenshire and the Member for Fflint Wrecsam, because my constituency shares those same pressures, and that's why I welcome the consultation that is open right now. But how do you envisage better infrastructure planning around new housing developments? And, as you develop the new national development framework following the consultation, will you work with local authorities to look to reform planning policy to ensure that any large housing developments are only approved where there is the necessary infrastructure already in place, or there is clear funding commitment to deliver it alongside the housing? As you've said today, that should be happening, but as you know and I know and this Chamber knows—"
+        },
+        {
+          "id": "contribution-776753",
+          "item_id": "item-16314-261007-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
+          "lang": "en",
+          "t_start": 5722,
+          "text_english": "—it's not. Diolch.",
+          "text_original": "—it's not. Diolch."
+        }
+      ],
+      "date": "2026-10-07"
+    },
     {
       "contributions": [
         {

@@ -3,8 +3,31 @@
   "canonical_name": "Sarah Rees",
   "constituency_name_cy": "Pen-y-bont Bro Morgannwg",
   "constituency_name_en": "Pen-y-bont Bro Morgannwg",
-  "contribution_count": 32,
+  "contribution_count": 34,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-776684",
+          "item_id": "item-16314-261007-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Health and Care",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "5. What action is the Cabinet Minister taking to improve communication between NHS organisations and patients in Pen-y-bont Bro Morgannwg and more widely across Wales? OQ64657",
+          "text_original": "5. Pa gamau y mae'r Gweinidog Cabinet yn eu cymryd i wella cyfathrebu rhwng sefydliadau'r GIG a chleifion ym Mhen-y-bont Bro Morgannwg a ledled Cymru? OQ64657"
+        },
+        {
+          "id": "contribution-776697",
+          "item_id": "item-16314-261007-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Health and Care",
+          "lang": "en",
+          "t_start": 2358,
+          "text_english": "Diolch, Weinidog. Patients in Pen-y-bont Bro Morgannwg tell me that they are left chasing health boards for basic information about appointments, waiting lists and treatment plans, and are sometimes given conflicting information by different parts of the NHS. Poor communication isn't limited to patients and service providers. In a recent case that I dealt with, a cancer patient was referred by their health board, Cwm Taf Morgannwg, to Swansea bay to receive a biopsy. When concerns were raised about delays in receiving their results, neither health board took any accountability to provide the update.\n\nDoes the Cabinet Minister accept that this is not simply an inconvenience, but an unacceptable failure of patient care? What action can be taken to ensure that patients are kept properly informed throughout their treatment journey?",
+          "text_original": "Diolch, Weinidog. Patients in Pen-y-bont Bro Morgannwg tell me that they are left chasing health boards for basic information about appointments, waiting lists and treatment plans, and are sometimes given conflicting information by different parts of the NHS. Poor communication isn't limited to patients and service providers. In a recent case that I dealt with, a cancer patient was referred by their health board, Cwm Taf Morgannwg, to Swansea bay to receive a biopsy. When concerns were raised about delays in receiving their results, neither health board took any accountability to provide the update.\n\nDoes the Cabinet Minister accept that this is not simply an inconvenience, but an unacceptable failure of patient care? What action can be taken to ensure that patients are kept properly informed throughout their treatment journey?"
+        }
+      ],
+      "date": "2026-10-07"
+    },
     {
       "contributions": [
         {

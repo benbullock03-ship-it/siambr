@@ -3,8 +3,49 @@
   "canonical_name": "Zaynub Akbar",
   "constituency_name_cy": "Caerdydd Ffynnon Taf",
   "constituency_name_en": "Caerdydd Ffynnon Taf",
-  "contribution_count": 25,
+  "contribution_count": 29,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-776901",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "en",
+          "t_start": 12535,
+          "text_english": "Would you take an intervention?",
+          "text_original": "Would you take an intervention?"
+        },
+        {
+          "id": "contribution-776904",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "en",
+          "t_start": 12537,
+          "text_english": "As a Reform UK member, you previously wrote online that, in your words, those on benefits should be put down, so are you saying that those on benefits shouldn't be entitled to housing now as well, or is it just based on skin colour?",
+          "text_original": "As a Reform UK member, you previously wrote online that, in your words, those on benefits should be put down, so are you saying that those on benefits shouldn't be entitled to housing now as well, or is it just based on skin colour?"
+        },
+        {
+          "id": "contribution-776906",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "en",
+          "t_start": 12555,
+          "text_english": "I'm okay. If you can't answer it now, then you can't answer it.",
+          "text_original": "I'm okay. If you can't answer it now, then you can't answer it."
+        },
+        {
+          "id": "contribution-776934",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "en",
+          "t_start": 12566,
+          "text_english": "It's online. You said it.",
+          "text_original": "It's online. You said it."
+        }
+      ],
+      "date": "2026-10-07"
+    },
     {
       "contributions": [
         {

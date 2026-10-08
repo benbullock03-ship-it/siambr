@@ -3,8 +3,49 @@
   "canonical_name": "Ken Skates",
   "constituency_name_cy": "Fflint Wrecsam",
   "constituency_name_en": "Fflint Wrecsam",
-  "contribution_count": 51,
+  "contribution_count": 55,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-776634",
+          "item_id": "item-16314-261007-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Health and Care",
+          "lang": "en",
+          "t_start": 1131,
+          "text_english": "Diolch, Ddirprwy Lywydd. Minister, are there any Welsh Government whistleblowing investigations currently taking place or recently concluded relating to personnel in NHS Wales?",
+          "text_original": "Diolch, Ddirprwy Lywydd. Minister, are there any Welsh Government whistleblowing investigations currently taking place or recently concluded relating to personnel in NHS Wales?"
+        },
+        {
+          "id": "contribution-776638",
+          "item_id": "item-16314-261007-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Health and Care",
+          "lang": "en",
+          "t_start": 1154,
+          "text_english": "Thank you, Minister. Over many, many years, we've been told that it's for health boards to hire and fire senior executives, yet chief executives of health boards are not accountable to their own health boards for the proper stewardship of public money or for delivering against performance requirements. Instead, accountability is to the chief executive of NHS Wales. It's also the CEO of NHS Wales who confers accountable officer status on all Welsh LHBs, and can remove it as well. That obviously leads to an awkward split in terms of accountability and responsibilities, and it no doubt creates tensions. Would you agree that it's time to devolve the responsibilities centralised in NHS Wales to local health boards, so that local control and accountability can flourish?",
+          "text_original": "Thank you, Minister. Over many, many years, we've been told that it's for health boards to hire and fire senior executives, yet chief executives of health boards are not accountable to their own health boards for the proper stewardship of public money or for delivering against performance requirements. Instead, accountability is to the chief executive of NHS Wales. It's also the CEO of NHS Wales who confers accountable officer status on all Welsh LHBs, and can remove it as well. That obviously leads to an awkward split in terms of accountability and responsibilities, and it no doubt creates tensions. Would you agree that it's time to devolve the responsibilities centralised in NHS Wales to local health boards, so that local control and accountability can flourish?"
+        },
+        {
+          "id": "contribution-776923",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "en",
+          "t_start": 12636,
+          "text_english": "So, forgive me if I'm wrong, but it appears that you're saying that if you're not Welsh or English, you shouldn't be entitled to social housing. Would that extend to Gurkhas?",
+          "text_original": "So, forgive me if I'm wrong, but it appears that you're saying that if you're not Welsh or English, you shouldn't be entitled to social housing. Would that extend to Gurkhas?"
+        },
+        {
+          "id": "contribution-776925",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "en",
+          "t_start": 12647,
+          "text_english": "And would it extend to Suella Braverman?",
+          "text_original": "And would it extend to Suella Braverman?"
+        }
+      ],
+      "date": "2026-10-07"
+    },
     {
       "contributions": [
         {

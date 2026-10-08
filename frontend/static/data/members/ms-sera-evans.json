@@ -3,8 +3,40 @@
   "canonical_name": "Sera Evans",
   "constituency_name_cy": "Afan Ogwr Rhondda",
   "constituency_name_en": "Afan Ogwr Rhondda",
-  "contribution_count": 39,
+  "contribution_count": 42,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-776767",
+          "item_id": "item-16314-261007-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "5. What assessment has the Welsh Government made of the impact of development quality requirements on housing delivery? OQ64666",
+          "text_original": "5. Pa asesiad y mae Llywodraeth Cymru wedi'i wneud o effaith gofynion ansawdd datblygu ar ddarpariaeth tai? OQ64666"
+        },
+        {
+          "id": "contribution-776773",
+          "item_id": "item-16314-261007-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
+          "lang": "cy",
+          "t_start": 5516,
+          "text_english": "Thank you for that response, Minister.",
+          "text_original": "Diolch am yr ymateb, Weinidog."
+        },
+        {
+          "id": "contribution-776776",
+          "item_id": "item-16314-261007-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
+          "lang": "en",
+          "t_start": 5518,
+          "text_english": "Over the summer, I had the opportunity to meet with Trivallis, who are undertaking a development in Penrhys, in the Rhondda, to deliver around 1,000 new homes over the next 10 years. They raised with me some challenges presented by the current development quality requirements. Trivallis has relayed to me that the current development quality requirements require housing associations to build to standards above those set by building regulations, including achieving energy performance certificate A or an alternative approved design. In Penrhys, I've been told that this is adding around 15 per cent to construction costs and achieving the required standard can be technically challenging for high-rise developments and other homes in urban areas. I'd be keen to hear your view on this, Cabinet Minister, particularly around whether we are striking the right balance between ensuring high-quality, energy-efficient homes and cost-effectiveness. Diolch.",
+          "text_original": "Over the summer, I had the opportunity to meet with Trivallis, who are undertaking a development in Penrhys, in the Rhondda, to deliver around 1,000 new homes over the next 10 years. They raised with me some challenges presented by the current development quality requirements. Trivallis has relayed to me that the current development quality requirements require housing associations to build to standards above those set by building regulations, including achieving energy performance certificate A or an alternative approved design. In Penrhys, I've been told that this is adding around 15 per cent to construction costs and achieving the required standard can be technically challenging for high-rise developments and other homes in urban areas. I'd be keen to hear your view on this, Cabinet Minister, particularly around whether we are striking the right balance between ensuring high-quality, energy-efficient homes and cost-effectiveness. Diolch."
+        }
+      ],
+      "date": "2026-10-07"
+    },
     {
       "contributions": [
         {

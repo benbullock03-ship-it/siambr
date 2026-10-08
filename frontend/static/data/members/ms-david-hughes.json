@@ -3,8 +3,31 @@
   "canonical_name": "David Hughes",
   "constituency_name_cy": "Pontypridd Cynon Merthyr",
   "constituency_name_en": "Pontypridd Cynon Merthyr",
-  "contribution_count": 13,
+  "contribution_count": 15,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-776789",
+          "item_id": "item-16314-261007-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "8. What action is the Cabinet Minister taking to speed up the processing of planning applications by local authorities? OQ64640",
+          "text_original": "8. Pa gamau y mae'r Gweinidog Cabinet yn eu cymryd i gyflymu'r gwaith o brosesu ceisiadau cynllunio gan awdurdodau lleol? OQ64640"
+        },
+        {
+          "id": "contribution-776796",
+          "item_id": "item-16314-261007-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
+          "lang": "en",
+          "t_start": 5977,
+          "text_english": "Minister, people in Pontypridd Cynon Merthyr have been asking me how many more years will communities and businesses have to wait for a planning system that delivers decisions promptly. Will you commit to clear, measurable targets for reducing delays? Will you introduce clear planning performance targets for councils and Welsh Government, and publish the results so that the public can hold both to account for the delays? Thank you.",
+          "text_original": "Minister, people in Pontypridd Cynon Merthyr have been asking me how many more years will communities and businesses have to wait for a planning system that delivers decisions promptly. Will you commit to clear, measurable targets for reducing delays? Will you introduce clear planning performance targets for councils and Welsh Government, and publish the results so that the public can hold both to account for the delays? Thank you."
+        }
+      ],
+      "date": "2026-10-07"
+    },
     {
       "contributions": [
         {
