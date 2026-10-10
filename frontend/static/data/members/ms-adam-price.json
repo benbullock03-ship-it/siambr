@@ -3,8 +3,22 @@
   "canonical_name": "Adam Price",
   "constituency_name_cy": "Sir Gaerfyrddin",
   "constituency_name_en": "Sir Gaerfyrddin",
-  "contribution_count": 112,
+  "contribution_count": 113,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-776116",
+          "item_id": "item-16313-261006-4",
+          "item_title_en": "4. Statement by the Deputy Minister for Transport: Strategic Priorities for the Menai Strait Crossings and M4 around Newport",
+          "lang": "en",
+          "t_start": 8779,
+          "text_english": "Come on, this is a serious statement. All the people are watching this. Please, come on.",
+          "text_original": "Come on, this is a serious statement. All the people are watching this. Please, come on."
+        }
+      ],
+      "date": "2026-10-06"
+    },
     {
       "contributions": [
         {

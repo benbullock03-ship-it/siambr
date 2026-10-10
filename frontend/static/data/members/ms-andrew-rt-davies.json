@@ -3,7 +3,7 @@
   "canonical_name": "Andrew RT Davies",
   "constituency_name_cy": "Pen-y-bont Bro Morgannwg",
   "constituency_name_en": "Pen-y-bont Bro Morgannwg",
-  "contribution_count": 41,
+  "contribution_count": 45,
   "contributions_by_date": [
     {
       "contributions": [
@@ -12,7 +12,7 @@
           "item_id": "item-16314-261007-1",
           "item_title_en": "1. Questions to the Cabinet Minister for Health and Care",
           "lang": "en",
-          "t_start": 305,
+          "t_start": 2462,
           "text_english": "Minister, the energy pressure that is affecting the whole economy is immense at the moment. The care and health sector are feeling those pressures more acutely than most, given the environment they work in, and especially in a rural setting, where fuel for hospital transport, for example, is a big component of delivering that service. In 2022, when we had the last energy spike, the then health Minister said that the health service and social care sector had just had an unexpected energy bill of £200 million plus because of the Ukrainian crisis. Are you seeing those sorts of figures feeding through because of the crisis in the gulf, given that they happened at virtually the same time of year, in the February of that year, and we're now in the autumn? And if that energy pressure is building, and costing that much money to the health and social care sector, are you making a request to the finance Minister to support health boards and social care providers to meet these energy costs, or will they be expected to use their budgets as allocated?",
           "text_original": "Minister, the energy pressure that is affecting the whole economy is immense at the moment. The care and health sector are feeling those pressures more acutely than most, given the environment they work in, and especially in a rural setting, where fuel for hospital transport, for example, is a big component of delivering that service. In 2022, when we had the last energy spike, the then health Minister said that the health service and social care sector had just had an unexpected energy bill of £200 million plus because of the Ukrainian crisis. Are you seeing those sorts of figures feeding through because of the crisis in the gulf, given that they happened at virtually the same time of year, in the February of that year, and we're now in the autumn? And if that energy pressure is building, and costing that much money to the health and social care sector, are you making a request to the finance Minister to support health boards and social care providers to meet these energy costs, or will they be expected to use their budgets as allocated?"
         },
@@ -21,7 +21,7 @@
           "item_id": "item-16314-261007-2",
           "item_title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
           "lang": "en",
-          "t_start": 5203,
+          "t_start": 7360,
           "text_english": "I refer Members to my declaration of interest. In the programme for government, Minister, there is a piece that talks of the Government looking at examining the permitted development rights and bringing into beneficial use redundant farm buildings for housing purposes. When councils are developing development plans, they require clear guidance from central Government so that those plans can be enacted and deliver the houses that many local communities are desperate to have. If that measure was introduced, that would have a big impact on freeing up redundant buildings for beneficial purposes and creating properties that people could live in in rural settings. It's already been enacted in many parts of the United Kingdom. When will the Welsh Government be giving that guidance to councils to bring forward those properties to be redeveloped out of redundant buildings that exist in the countryside?",
           "text_original": "I refer Members to my declaration of interest. In the programme for government, Minister, there is a piece that talks of the Government looking at examining the permitted development rights and bringing into beneficial use redundant farm buildings for housing purposes. When councils are developing development plans, they require clear guidance from central Government so that those plans can be enacted and deliver the houses that many local communities are desperate to have. If that measure was introduced, that would have a big impact on freeing up redundant buildings for beneficial purposes and creating properties that people could live in in rural settings. It's already been enacted in many parts of the United Kingdom. When will the Welsh Government be giving that guidance to councils to bring forward those properties to be redeveloped out of redundant buildings that exist in the countryside?"
         },
@@ -30,7 +30,7 @@
           "item_id": "item-16314-261007-2",
           "item_title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
           "lang": "en",
-          "t_start": 5279,
+          "t_start": 7436,
           "text_english": "Resilience.",
           "text_original": "Resilience."
         }
@@ -44,9 +44,45 @@
           "item_id": "item-16313-261006-1",
           "item_title_en": "1. Questions to the First Minister",
           "lang": "en",
-          "t_start": 247,
+          "t_start": 249,
           "text_english": "You touched on the price of fuel, First Minister, and your desire to see the rural-proofing relief scheme activated again. Has your Government put any pressure on the UK Government to bring this forward in the budget that is going to come at the end of October? If you have, can you release that letter or whatever correspondence you've put in to support that? The Treasury model shows that anything between 20 per cent and 60 per cent is the sparsity premium that is put on the delivery of rural services, and help with the price of fuel will go a long way to relieving that pressure.",
           "text_original": "You touched on the price of fuel, First Minister, and your desire to see the rural-proofing relief scheme activated again. Has your Government put any pressure on the UK Government to bring this forward in the budget that is going to come at the end of October? If you have, can you release that letter or whatever correspondence you've put in to support that? The Treasury model shows that anything between 20 per cent and 60 per cent is the sparsity premium that is put on the delivery of rural services, and help with the price of fuel will go a long way to relieving that pressure."
+        },
+        {
+          "id": "contribution-775980",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "5. How is the Cabinet Minister improving the delivery of the Government's policies? OQ64633",
+          "text_original": "5. Sut mae'r Gweinidog Cabinet yn gwella'r ffordd y mae polisïau'r Llywodraeth yn cael eu cyflawni? OQ64633"
+        },
+        {
+          "id": "contribution-775993",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "en",
+          "t_start": 5183,
+          "text_english": "Thank you, Minister. You highlighted there your priorities for delivery. During the election campaign, the now First Minister signed a letter that has been quoted many times in this Chamber regarding the health visitors' dispute in the Cwm Taf health board area. The key line in that letter was:\n\n'upgrade all Band 6 health visitors to Band 7'.\n\nThere's no ambiguity there. The First Minister put his name to that letter. How are you getting on in delivering that pledge, or wasn't it a pledge, and it was misleading in its kindest form and an outright lie in its cruellest form?",
+          "text_original": "Thank you, Minister. You highlighted there your priorities for delivery. During the election campaign, the now First Minister signed a letter that has been quoted many times in this Chamber regarding the health visitors' dispute in the Cwm Taf health board area. The key line in that letter was:\n\n'upgrade all Band 6 health visitors to Band 7'.\n\nThere's no ambiguity there. The First Minister put his name to that letter. How are you getting on in delivering that pledge, or wasn't it a pledge, and it was misleading in its kindest form and an outright lie in its cruellest form?"
+        },
+        {
+          "id": "contribution-776000",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "en",
+          "t_start": 5227,
+          "text_english": "Well, have you delivered it?",
+          "text_original": "Well, have you delivered it?"
+        },
+        {
+          "id": "contribution-776120",
+          "item_id": "item-16313-261006-4",
+          "item_title_en": "4. Statement by the Deputy Minister for Transport: Strategic Priorities for the Menai Strait Crossings and M4 around Newport",
+          "lang": "en",
+          "t_start": 10229,
+          "text_english": "Thank you for your statement, Deputy Minister, on the M4 relief road in particular. Can I ask two things? First, you talked about disruption while this work is ongoing. What level of disruption are motorists going to have to endure? Because at the moment the road is gridlocked most days and, at its worst, it can be gridlocked back to the Severn bridge, or to Cardiff Gate if you're travelling east. So, any potential disruption is going to have a devastating impact. And secondly, the really important thing here is capacity. The issue you've got here is that the modelling that was done for the inquiry into the black route showed an 18 per cent growth rate in traffic over 15 years. You've talked of a 10 per cent reduction. That's still an 8 per cent growth in traffic using the M4 as it's currently constructed, or as you've outlined today. The real issue here is not the failure of body politic, as you put it, to agree the solution; it's the Labour Party supported by your party's refusal to build the black route. Because if we had the black route, that capacity would be there and the economy of south Wales and the wider region would be doing so much better.",
+          "text_original": "Thank you for your statement, Deputy Minister, on the M4 relief road in particular. Can I ask two things? First, you talked about disruption while this work is ongoing. What level of disruption are motorists going to have to endure? Because at the moment the road is gridlocked most days and, at its worst, it can be gridlocked back to the Severn bridge, or to Cardiff Gate if you're travelling east. So, any potential disruption is going to have a devastating impact. And secondly, the really important thing here is capacity. The issue you've got here is that the modelling that was done for the inquiry into the black route showed an 18 per cent growth rate in traffic over 15 years. You've talked of a 10 per cent reduction. That's still an 8 per cent growth in traffic using the M4 as it's currently constructed, or as you've outlined today. The real issue here is not the failure of body politic, as you put it, to agree the solution; it's the Labour Party supported by your party's refusal to build the black route. Because if we had the black route, that capacity would be there and the economy of south Wales and the wider region would be doing so much better."
         }
       ],
       "date": "2026-10-06"

@@ -3,7 +3,7 @@
   "canonical_name": "Beca Brown",
   "constituency_name_cy": "Gwynedd Maldwyn",
   "constituency_name_en": "Gwynedd Maldwyn",
-  "contribution_count": 24,
+  "contribution_count": 28,
   "contributions_by_date": [
     {
       "contributions": [
@@ -12,12 +12,53 @@
           "item_id": "item-16314-261007-4",
           "item_title_en": "4. 90-second Statements",
           "lang": "en",
-          "t_start": 6340,
+          "t_start": 8497,
           "text_english": "Just over 18 weeks ago, Venus Lamey turned up at the Nova Prestatyn parkrun dressed as a chicken. Since then, she has run 16 different parkruns across north Wales, dressed in a variety of costumes, including a dinosaur, a unicorn and Winnie the Pooh. Several of these parkruns have been in my constituency, Pont y Bala, Dolgellau and Hafan Pwllheli, where I went to meet her and to hear her story of why she chooses to run in some very eye-catching costumes. Venus believes in shifting shame. She runs because it helps her and to raise money for the Rape and Sexual Abuse Support Centre North Wales, who support the victims of sexual violence. Venus says, 'Through the hundreds of conversations I've had, it's highlighted to me just how many people in north Wales have either been affected by sexual violence themselves or know someone who has.'\n\nVenus wants to shift the shame from the victims of sexual abuse to the perpetrators. Last week, she ran the Nova Prestatyn parkrun again, wearing a Teletubbies costume, but this time, she wasn't the only one in an embarrassing costume: 64 people dressed up for Venus's Shift the Shame campaign. Venus will run her final parkrun this Saturday on the prom at Abermaw—Barmouth. So, if you're in the area, do go and cheer her on. Diolch, Venus, for everything you do.",
           "text_original": "Just over 18 weeks ago, Venus Lamey turned up at the Nova Prestatyn parkrun dressed as a chicken. Since then, she has run 16 different parkruns across north Wales, dressed in a variety of costumes, including a dinosaur, a unicorn and Winnie the Pooh. Several of these parkruns have been in my constituency, Pont y Bala, Dolgellau and Hafan Pwllheli, where I went to meet her and to hear her story of why she chooses to run in some very eye-catching costumes. Venus believes in shifting shame. She runs because it helps her and to raise money for the Rape and Sexual Abuse Support Centre North Wales, who support the victims of sexual violence. Venus says, 'Through the hundreds of conversations I've had, it's highlighted to me just how many people in north Wales have either been affected by sexual violence themselves or know someone who has.'\n\nVenus wants to shift the shame from the victims of sexual abuse to the perpetrators. Last week, she ran the Nova Prestatyn parkrun again, wearing a Teletubbies costume, but this time, she wasn't the only one in an embarrassing costume: 64 people dressed up for Venus's Shift the Shame campaign. Venus will run her final parkrun this Saturday on the prom at Abermaw—Barmouth. So, if you're in the area, do go and cheer her on. Diolch, Venus, for everything you do."
         }
       ],
       "date": "2026-10-07"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-775913",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "9. What action is the Welsh Government taking to support survivors of childhood abuse who experience further trauma when accessing historical social work, health or police records? OQ64653",
+          "text_original": "9. Pa gamau y mae Llywodraeth Cymru yn eu cymryd i gefnogi goroeswyr camdriniaeth yn ystod plentyndod sy'n profi trawma pellach wrth geisio cael mynediad at gofnodion gwaith cymdeithasol, iechyd neu'r heddlu hanesyddol? OQ64653"
+        },
+        {
+          "id": "contribution-775916",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 3455,
+          "text_english": "Thank you, First Minister. Victims and survivors tell us that, when they raise concerns about victim-blaming language or missed opportunities to protect them within historical social work, health or police records, they are often told that these attitudes were simply a product of the time and would not be acceptable today. However, for survivors living with post-traumatic stress disorder, physical ill health and the lifelong consequences of abuse, the impact is very much felt today. Many access these records in an attempt to piece together their life story and to better understand their experiences, only to find that the files leave them with more questions than answers. For professionals, these may be historical records, but for survivors, the trauma is not historical at all. What more can the Welsh Government do to ensure survivors are met with recognition, trauma-informed support and meaningful acknowledgement of the harm these records can still cause?",
+          "text_original": "Thank you, First Minister. Victims and survivors tell us that, when they raise concerns about victim-blaming language or missed opportunities to protect them within historical social work, health or police records, they are often told that these attitudes were simply a product of the time and would not be acceptable today. However, for survivors living with post-traumatic stress disorder, physical ill health and the lifelong consequences of abuse, the impact is very much felt today. Many access these records in an attempt to piece together their life story and to better understand their experiences, only to find that the files leave them with more questions than answers. For professionals, these may be historical records, but for survivors, the trauma is not historical at all. What more can the Welsh Government do to ensure survivors are met with recognition, trauma-informed support and meaningful acknowledgement of the harm these records can still cause?"
+        },
+        {
+          "id": "contribution-776035",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "8. What is the Government's approach to ensuring co-operation across portfolios to deliver the Programme for Government? OQ64627",
+          "text_original": "8. Sut mae’r Llywodraeth yn mynd ati i sicrhau cydweithio traws-portffolio i gyflawni'r Rhaglen Lywodraethu? OQ64627"
+        },
+        {
+          "id": "contribution-776042",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "cy",
+          "t_start": 5842,
+          "text_english": "Thank you, Minister. I was delighted to lead a debate in this Chamber on the need to integrate the work of preventing ACEs, or adverse childhood experiences, and respond to them across public services. The experience of a child or a person of trauma doesn't respect departmental boundaries. Housing, health, education, social care and employment can all play their part in creating conditions where children and families recover from trauma and prosper. Will you therefore outline how the Government will help to ensure that trauma and adverse experiences during childhood, or ACEs, are covered across Government, rather than as an issue for individual departments?",
+          "text_original": "Diolch, Weinidog. Roeddwn i'n falch iawn o arwain dadl yn y Siambr hon am yr angen i integreiddio'r gwaith o atal ACEs, neu adverse childhood experiences, ac ymateb iddynt ar draws gwasanaethau cyhoeddus. Nid yw profiad plentyn neu berson o drawma yn parchu ffiniau adrannol. Gall tai, addysg, iechyd, gofal cymdeithasol a chyflogaeth oll chwarae rhan mewn creu amodau ble mae plant a theuluoedd yn adfer o drawma ac yn ffynnu. A wnewch chi felly amlinellu sut y bydd y Llywodraeth yn helpu i sicrhau bod trawma a phrofiadau niweidiol yn ystod plentyndod, ACEs, yn cael sylw ar draws y Llywodraeth, yn hytrach nag fel mater i adrannau unigol?"
+        }
+      ],
+      "date": "2026-10-06"
     },
     {
       "contributions": [

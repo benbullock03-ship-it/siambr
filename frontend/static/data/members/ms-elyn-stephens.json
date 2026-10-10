@@ -3,7 +3,7 @@
   "canonical_name": "Elyn Stephens",
   "constituency_name_cy": "Afan Ogwr Rhondda",
   "constituency_name_en": "Afan Ogwr Rhondda",
-  "contribution_count": 20,
+  "contribution_count": 21,
   "contributions_by_date": [
     {
       "contributions": [
@@ -12,9 +12,18 @@
           "item_id": "item-16314-261007-6",
           "item_title_en": "5. Motion to delegate authority to make the arrangements for recruiting a new Commissioner for Standards to the Standards of Conduct Committee",
           "lang": "cy",
-          "t_start": 6510,
+          "t_start": 8667,
           "text_english": "I formally move the motion in the name of Lindsay Whittle.",
           "text_original": "Symudaf y cynnig yn ffurfiol yn enw Lindsay Whittle."
+        },
+        {
+          "id": "contribution-777102",
+          "item_id": "item-16314-261007-11",
+          "item_title_en": "10. Short Debate: The importance of port infrastructure and maritime traffic to the Welsh economy",
+          "lang": "en",
+          "t_start": 19439,
+          "text_english": "Thank you to Ben for bringing forward this debate and for being so generous with your time. I had a feeling you'd concentrate on Port Talbot, as will I. We cannot allow ports like Port Talbot to be places where the components of the green transition simply arrive and leave. The greater opportunity lies in building the supply chain around them. For floating offshore wind, that means fabrication, welding, pipe fitting, mooring and anchor systems, cables, logistics, installation and long-term maintenance. Port Talbot already has many of those black skills, built through generations of steel making and heavy industry, as other Members have alluded to. We should utilise those transferable skills alongside the robotic mechanics, digital and engineering skills that those new technologies will require. We must also widen who gets those opportunities, with clear routes in for women, school leavers and people from disadvantaged backgrounds into those skilled, well-paid careers. This must be about innovation as well as infrastructure, linking ports, colleges, businesses and research institutions so that Cymru is not simply deploying new technology, but designing, developing and manufacturing it here too.",
+          "text_original": "Thank you to Ben for bringing forward this debate and for being so generous with your time. I had a feeling you'd concentrate on Port Talbot, as will I. We cannot allow ports like Port Talbot to be places where the components of the green transition simply arrive and leave. The greater opportunity lies in building the supply chain around them. For floating offshore wind, that means fabrication, welding, pipe fitting, mooring and anchor systems, cables, logistics, installation and long-term maintenance. Port Talbot already has many of those black skills, built through generations of steel making and heavy industry, as other Members have alluded to. We should utilise those transferable skills alongside the robotic mechanics, digital and engineering skills that those new technologies will require. We must also widen who gets those opportunities, with clear routes in for women, school leavers and people from disadvantaged backgrounds into those skilled, well-paid careers. This must be about innovation as well as infrastructure, linking ports, colleges, businesses and research institutions so that Cymru is not simply deploying new technology, but designing, developing and manufacturing it here too."
         }
       ],
       "date": "2026-10-07"

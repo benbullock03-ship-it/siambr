@@ -3,8 +3,22 @@
   "canonical_name": "Claire Johnson-Wood",
   "constituency_name_cy": "Gwynedd Maldwyn",
   "constituency_name_en": "Gwynedd Maldwyn",
-  "contribution_count": 9,
+  "contribution_count": 10,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-775974",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "en",
+          "t_start": 5147,
+          "text_english": "I think my question's been answered. Thank you.",
+          "text_original": "I think my question's been answered. Thank you."
+        }
+      ],
+      "date": "2026-10-06"
+    },
     {
       "contributions": [
         {

@@ -3,7 +3,7 @@
   "canonical_name": "Kerry Ferguson",
   "constituency_name_cy": "Ceredigion Penfro",
   "constituency_name_en": "Ceredigion Penfro",
-  "contribution_count": 366,
+  "contribution_count": 393,
   "contributions_by_date": [
     {
       "contributions": [
@@ -12,7 +12,7 @@
           "item_id": "item-16314-261007-1",
           "item_title_en": "1. Questions to the Cabinet Minister for Health and Care",
           "lang": "cy",
-          "t_start": 1,
+          "t_start": 2158,
           "text_english": "Good afternoon and welcome to the Chamber. Item 1 on our agenda is questions to the Cabinet Minister for Health and Care. Question 1, Anna Nicholl.",
           "text_original": "Prynhawn da a chroeso i'r Siambr. Eitem 1 ar yr agenda, cwestiynau i'r Gweinidog Cabinet dros Iechyd a Gofal. Cwestiwn 1, Anna Nicholl."
         },
@@ -21,7 +21,7 @@
           "item_id": "item-16314-261007-1",
           "item_title_en": "1. Questions to the Cabinet Minister for Health and Care",
           "lang": "cy",
-          "t_start": 774,
+          "t_start": 2931,
           "text_english": "I now call on the party spokespeople to question the Cabinet Minister. The Reform UK spokesperson, Benjamin Hodge Mckenna.",
           "text_original": "Galwaf yn awr ar lefarwyr y pleidiau i holi'r Gweinidog Cabinet. Llefarydd Reform UK, Benjamin Hodge Mckenna."
         },
@@ -30,7 +30,7 @@
           "item_id": "item-16314-261007-1",
           "item_title_en": "1. Questions to the Cabinet Minister for Health and Care",
           "lang": "cy",
-          "t_start": 1129,
+          "t_start": 3286,
           "text_english": "Welsh Labour spokesperson, Ken Skates.",
           "text_original": "Llefarydd Llafur Cymru, Ken Skates."
         },
@@ -39,7 +39,7 @@
           "item_id": "item-16314-261007-1",
           "item_title_en": "1. Questions to the Cabinet Minister for Health and Care",
           "lang": "cy",
-          "t_start": 1263,
+          "t_start": 3420,
           "text_english": "Welsh Conservatives spokesperson, Natasha Asghar.",
           "text_original": "Llefarydd y Ceidwadwyr Cymreig, Natasha Asghar."
         },
@@ -48,7 +48,7 @@
           "item_id": "item-16314-261007-1",
           "item_title_en": "1. Questions to the Cabinet Minister for Health and Care",
           "lang": "cy",
-          "t_start": 1916,
+          "t_start": 4073,
           "text_english": "Could we have the question, please? Sorry.",
           "text_original": "Allwn ni gael y cwestiwn, plis? Sori."
         },
@@ -57,7 +57,7 @@
           "item_id": "item-16314-261007-1",
           "item_title_en": "1. Questions to the Cabinet Minister for Health and Care",
           "lang": "cy",
-          "t_start": 2777,
+          "t_start": 4934,
           "text_english": "The final question, question 8, John Davies.",
           "text_original": "Y cwestiwn olaf, cwestiwn 8, John Davies."
         },
@@ -66,7 +66,7 @@
           "item_id": "item-16314-261007-7",
           "item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
           "lang": "cy",
-          "t_start": 8239,
+          "t_start": 10396,
           "text_english": "Thank you. I call on the Deputy Minister for Social Care, Mental Health and Women’s Health, Delyth Jewell.",
           "text_original": "Diolch i chi. Galwaf ar y Dirprwy Weinidog dros Ofal Cymdeithasol, Iechyd Meddwl ac Iechyd Menywod, Delyth Jewell."
         },
@@ -75,7 +75,7 @@
           "item_id": "item-16314-261007-7",
           "item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
           "lang": "cy",
-          "t_start": 8744,
+          "t_start": 10901,
           "text_english": "Thank you, Deputy Minister. I call on Tom Montgomery to reply to the debate.",
           "text_original": "Diolch, Ddirprwy Weinidog. Galwaf ar Tom Montgomery i ymateb i'r ddadl."
         },
@@ -83,9 +83,9 @@
           "id": "contribution-776848",
           "item_id": "item-16314-261007-7",
           "item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
-          "lang": "en",
-          "t_start": 9027,
-          "text_english": "Diolch. Y cwestiwn yw: a ddylid derbyn y cynnig? A oes unrhyw Aelod yn gwrthwynebu? [Gwrthwynebiad.] Gohiriaf y bleidlais o dan yr eitem hon tan y cyfnod pleidleisio.",
+          "lang": "cy",
+          "t_start": 11184,
+          "text_english": "Thank you. The proposal is to agree the motion. Does any Member object? [Objection.] There is objection. I will therefore defer voting under this item until voting time.",
           "text_original": "Diolch. Y cwestiwn yw: a ddylid derbyn y cynnig? A oes unrhyw Aelod yn gwrthwynebu? [Gwrthwynebiad.] Gohiriaf y bleidlais o dan yr eitem hon tan y cyfnod pleidleisio."
         },
         {
@@ -93,8 +93,8 @@
           "item_id": "item-16314-261007-8",
           "item_title_en": "7. Reform UK Debate: Regional rugby",
           "lang": "cy",
-          "t_start": 9043,
-          "text_english": "We'll now move on to item 7, the Reform UK debate on regional rugby, and I call on Louise Emery to move the motion.",
+          "t_start": 11200,
+          "text_english": "We'll now move on to item 7, the Reform UK debate on regional rugby. And I call on Louise Emery to move the motion.",
           "text_original": "Symudaf ymlaen i eitem 7, Reform UK, rygbi rhanbarthol. Galwaf ar Louise Emery i wneud y cynnig."
         },
         {
@@ -102,25 +102,16 @@
           "item_id": "item-16314-261007-8",
           "item_title_en": "7. Reform UK Debate: Regional rugby",
           "lang": "cy",
-          "t_start": 9335,
-          "text_english": "I have selected the amendment to the motion. I call on the Trefnydd, Chief Whip, and Cabinet Minister for Culture and Sport to move formally amendment 1 tabled in her own name.",
-          "text_original": "Diolch. Rwyf wedi dethol y gwelliant i'r cynnig. Galwaf ar y Trefnydd, Prif Chwip, a Gweinidog y Cabinet dros Ddiwylliant a Chwaraeon i gynnig yn ffurfiol gwelliant 1 a gyflwynwyd yn ei henw ei hun."
-        },
-        {
-          "id": "contribution-776871",
-          "item_id": "item-16314-261007-8",
-          "item_title_en": "7. Reform UK Debate: Regional rugby",
-          "lang": "en",
-          "t_start": 9350,
-          "text_english": "Diolch. John Davies.",
-          "text_original": "Diolch. John Davies."
+          "t_start": 11492,
+          "text_english": "I have selected the amendment to the motion. I call on the Trefnydd, Chief Whip, and Cabinet Minister for Culture and Sport to move formally amendment 1, tabled in her own name.",
+          "text_original": "Diolch. Rwyf wedi dethol y gwelliant i'r cynnig. Galwaf ar y Trefnydd, Prif Chwip, a Gweinidog y Cabinet dros Ddiwylliant a Chwaraeon i gynnig yn ffurfiol gwelliant 1, a gyflwynwyd yn ei henw ei hun."
         },
         {
           "id": "contribution-776861",
           "item_id": "item-16314-261007-8",
           "item_title_en": "7. Reform UK Debate: Regional rugby",
           "lang": "en",
-          "t_start": 9666,
+          "t_start": 11822,
           "text_english": "Can I ask you to conclude, John?",
           "text_original": "Can I ask you to conclude, John?"
         },
@@ -129,7 +120,7 @@
           "item_id": "item-16314-261007-8",
           "item_title_en": "7. Reform UK Debate: Regional rugby",
           "lang": "en",
-          "t_start": 9680,
+          "t_start": 11837,
           "text_english": "John.",
           "text_original": "John."
         },
@@ -138,16 +129,25 @@
           "item_id": "item-16314-261007-8",
           "item_title_en": "7. Reform UK Debate: Regional rugby",
           "lang": "en",
-          "t_start": 9687,
-          "text_english": "Conclusion?",
-          "text_original": "Conclusion?"
+          "t_start": 11844,
+          "text_english": "Conclusion.",
+          "text_original": "Conclusion."
+        },
+        {
+          "id": "contribution-776995",
+          "item_id": "item-16314-261007-8",
+          "item_title_en": "7. Reform UK Debate: Regional rugby",
+          "lang": "en",
+          "t_start": 11856,
+          "text_english": "Thank you. Paul Davies.",
+          "text_original": "Thank you. Paul Davies."
         },
         {
           "id": "contribution-776880",
           "item_id": "item-16314-261007-8",
           "item_title_en": "7. Reform UK Debate: Regional rugby",
           "lang": "en",
-          "t_start": 10103,
+          "t_start": 12260,
           "text_english": "Sorry, Steven, can I just interrupt you?\n\nYou're really distracting me with the chatter. Do you mind, while we've got someone talking? Is that okay?",
           "text_original": "Sorry, Steven, can I just interrupt you?\n\nYou're really distracting me with the chatter. Do you mind, while we've got someone talking? Is that okay?"
         },
@@ -156,21 +156,269 @@
           "item_id": "item-16314-261007-8",
           "item_title_en": "7. Reform UK Debate: Regional rugby",
           "lang": "cy",
-          "t_start": 10923,
-          "text_english": "",
-          "text_original": "Diolch yn fawr. Galwaf ar y Trefnydd, Prif Chwip a Gweinidog Cabinet dros Ddiwylliant a Chwaraeon, Heledd Fychan."
+          "t_start": 13080,
+          "text_english": "I call the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport, Heledd Fychan.",
+          "text_original": "Galwaf ar y Trefnydd, Prif Chwip a Gweinidog Cabinet dros Ddiwylliant a Chwaraeon, Heledd Fychan."
         },
         {
           "id": "contribution-776891",
           "item_id": "item-16314-261007-8",
           "item_title_en": "7. Reform UK Debate: Regional rugby",
           "lang": "cy",
-          "t_start": 11401,
-          "text_english": "Thank you, Minister. I call on Llŷr Powell to reply to the debate.",
-          "text_original": "Diolch, Weinidog. Galwaf ar Llŷr Powell i ymateb i'r ddadl."
+          "t_start": 13600,
+          "text_english": "I call on Llŷr Powell to reply to the debate.",
+          "text_original": "Galwaf ar Llŷr Powell i ymateb i'r ddadl."
+        },
+        {
+          "id": "contribution-777001",
+          "item_id": "item-16314-261007-10",
+          "item_title_en": "9. Voting Time",
+          "lang": "cy",
+          "t_start": 18088,
+          "text_english": "That brings us to voting time. Unless five Members wish for the bell to be rung, I will proceed directly to voting time. Excellent, thank you.\n\nSo, we will first vote on item 6—Member debate. I call for a vote on the motion under Standing Order 11.21(iv), family drug and alcohol courts. I call for a vote on the motion tabled in the name of Tom Montgomery, Natasha Asghar, Jane Dodds and Sarah Cooper-Lesadd. Open the vote. Close the vote. The result of the vote is as follows: in favour 71, 16 abstentions and none against. The motion is therefore agreed.",
+          "text_original": "Cyfnod pleidleisio: oni bai bod pum Aelod yn dymuno imi ganu'r gloch, symudaf yn syth i'r cyfnod pleidleisio. Gwych, diolch.\n\nFelly, cyfnod pleidleisio: eitem 6—dadl Aelodau. Galwaf am bleidlais ar y cynnig, dadl Aelodau o dan Reol Sefydlog 11.21(iv), llysoedd cyffuriau ac alcohol teuluol. Galwaf am bleidlais ar y cynnig a gyflwynwyd yn enw Tom Montgomery, Natasha Asghar, Jane Dodds a Sarah Cooper-Lesadd. Agorwch y bleidlais. Caewch y bleidlais. Dyma ganlyniad y bleidlais: o blaid 71, yn ymatal 16 ac yn erbyn 0. Mae'r cynnig wedi ei dderbyn."
+        },
+        {
+          "id": "contribution-777018",
+          "item_id": "item-16314-261007-10",
+          "item_title_en": "9. Voting Time",
+          "lang": "cy",
+          "t_start": 18170,
+          "text_english": "I now call for a vote on the Reform UK debate on regional rugby. I call for a vote on the motion tabled in the name of Llŷr Powell. If the proposal is not agreed, we will vote on the amendment tabled to the motion. Open the vote. Close the vote. In favour 43, one abstention and against 44. The motion is therefore not agreed.",
+          "text_original": "Galwaf am bleidlais ar gynnig dadl Reform UK, rygbi rhanbarthol. Galwaf am bleidlais ar y cynnig a gyflwynwyd yn enw Llŷr Powell. Os gwrthodir y cynnig, byddwn yn pleidleisio ar y gwelliant a gyflwynwyd i'r cynnig. Agorwch y bleidlais. Caewch y bleidlais. O blaid 43, yn ymatal un ac yn erbyn 44. Mae'r cynnig wedi ei wrthod."
+        },
+        {
+          "id": "contribution-777022",
+          "item_id": "item-16314-261007-10",
+          "item_title_en": "9. Voting Time",
+          "lang": "cy",
+          "t_start": 18280,
+          "text_english": "I now call for a vote on amendment 1, tabled in the name of Heledd Fychan. Open the vote. Close the vote.",
+          "text_original": "Galwaf am bleidlais ar welliant 1 a gyflwynwyd yn enw Heledd Fychan. Agorwch y bleidlais. Caewch y bleidlais."
+        },
+        {
+          "id": "contribution-777024",
+          "item_id": "item-16314-261007-10",
+          "item_title_en": "9. Voting Time",
+          "lang": "en",
+          "t_start": 18352,
+          "text_english": "I've never done this before.",
+          "text_original": "I've never done this before."
+        },
+        {
+          "id": "contribution-777025",
+          "item_id": "item-16314-261007-10",
+          "item_title_en": "9. Voting Time",
+          "lang": "cy",
+          "t_start": 18355,
+          "text_english": "In favour 44, no abstentions and 44 against. As required by Standing Order 6.20, I exercise my casting vote to vote against the amendment. Therefore, the amendment is not agreed.",
+          "text_original": "O blaid 44, yn ymatal sero ac yn erbyn 44. Fel sy'n ofynnol o dan Reol Sefydlog 6.20, rwy'n arfer fy mhleidlais fwrw i bleidleisio yn erbyn y gwelliant. Felly, mae'r gwelliant wedi cael ei wrthod."
+        },
+        {
+          "id": "contribution-777030",
+          "item_id": "item-16314-261007-10",
+          "item_title_en": "9. Voting Time",
+          "lang": "cy",
+          "t_start": 18376,
+          "text_english": "As the Senedd has not agreed the motion without amendment and has not agreed the amendment tabled to the motion, the motion is, therefore, not agreed.\n\nWe will now move to the vote on the Reform UK debate, access to HMOs and social housing for foreign nationals. I call for a vote on the motion tabled in the name of Llŷr Powell. If the proposal is not agreed, we will vote on the amendments tabled to the motion. Open the vote. Close the vote. In favour 31, no abstentions and 57 against. The motion is, therefore, not agreed.",
+          "text_original": "Gan nad yw'r Senedd wedi derbyn y cynnig heb ei ddiwygio nac wedi derbyn y gwelliant a gyflwynwyd i'r cynnig, caiff y cynnig, felly, ei wrthod.\n\nDadl Reform UK, mynediad at dai amlfeddiannaeth a thai cymdeithasol i wladolion tramor. Galwaf am bleidlais ar y cynnig a gyflwynwyd yn enw Llŷr Powell. Os gwrthodir y cynnig, byddwn yn pleidleisio ar y gwelliannau a gyflwynwyd i'r cynnig. Agorwch y bleidlais. Cau'r bleidlais. O blaid 31, yn ymatal dim, ac yn erbyn 57. Mae'r cynnig wedi'i wrthod."
+        },
+        {
+          "id": "contribution-776999",
+          "item_id": "item-16314-261007-10",
+          "item_title_en": "9. Voting Time",
+          "lang": "cy",
+          "t_start": 18452,
+          "text_english": "I now call for a vote on amendment 1, tabled in the name of Heledd Fychan and Lynne Neagle. If amendment 1 is agreed, amendment 2 will be deselected. Open the vote. Close the vote. In favour 51, no abstentions and 37 against. Amendment 1 is, therefore, agreed.",
+          "text_original": "Galwaf am bleidlais ar welliant 1, a gyflwynwyd yn enw Heledd Fychan a Lynne Neagle. Os derbynnir gwelliant 1, caiff gwelliant 2 ei ddad-ddethol. Agorwch y bleidlais. Cau'r bleidlais. O blaid 51, yn ymatal dim ac yn erbyn 37. Mae gwelliant 1 wedi'i dderbyn."
+        },
+        {
+          "id": "contribution-777003",
+          "item_id": "item-16314-261007-10",
+          "item_title_en": "9. Voting Time",
+          "lang": "cy",
+          "t_start": 18492,
+          "text_english": "I now call for a vote on the motion as amended. Open the vote.",
+          "text_original": "Galwaf nawr am bleidlais ar y cynnig wedi'i ddiwygio."
+        },
+        {
+          "id": "contribution-777008",
+          "item_id": "item-16314-261007-10",
+          "item_title_en": "9. Voting Time",
+          "lang": "cy",
+          "t_start": 18496,
+          "text_english": "Open the vote. Close the vote. In favour 51, no abstentions and 37 against. The motion as amended is, therefore, agreed.",
+          "text_original": "Agorwch y bleidlais. Cau'r bleidlais. O blaid 51, yn ymatal dim ac yn erbyn 37. Mae'r cynnig wedi'i ddiwygio wedi'i dderbyn."
+        },
+        {
+          "id": "contribution-777010",
+          "item_id": "item-16314-261007-10",
+          "item_title_en": "9. Voting Time",
+          "lang": "cy",
+          "t_start": 18569,
+          "text_english": "Okay. If Members could leave quickly and quietly so that we can move to the short debate. Thank you—to be fair to those who are staying for the short debate, so that they can hear.",
+          "text_original": "Ocê. Os yw pobl yn gallu symud allan yn sydyn ac yn dawel er mwyn i ni symud ymlaen i'r ddadl fer. Diolch yn fawr iawn. Diolch—er mwyn chwarae teg i'r rhai sy'n aros am y ddadl fer, er mwyn i ni gael clywed."
+        },
+        {
+          "id": "contribution-777012",
+          "item_id": "item-16314-261007-11",
+          "item_title_en": "10. Short Debate: The importance of port infrastructure and maritime traffic to the Welsh economy",
+          "lang": "cy",
+          "t_start": 18588,
+          "text_english": "I will move now to today's short debate. I call on Benjamin Hodge Mckenna to speak to the topic that he has chosen.",
+          "text_original": "Felly, symudaf nawr i ddadl fer heddiw. Galwaf ar Benjamin Hodge Mckenna i siarad am y pwnc a ddewiswyd ganddo."
+        },
+        {
+          "id": "contribution-777105",
+          "item_id": "item-16314-261007-11",
+          "item_title_en": "10. Short Debate: The importance of port infrastructure and maritime traffic to the Welsh economy",
+          "lang": "cy",
+          "t_start": 19511,
+          "text_english": "And finally, Steve Bayliss. Sorry, Mark. [Laughter.]",
+          "text_original": "Ac yn olaf, Steve Bayliss. Sori, Mark. [Chwerthin.]"
+        },
+        {
+          "id": "contribution-777043",
+          "item_id": "item-16314-261007-11",
+          "item_title_en": "10. Short Debate: The importance of port infrastructure and maritime traffic to the Welsh economy",
+          "lang": "cy",
+          "t_start": 19588,
+          "text_english": "Ready, Minister? I call on the Deputy Minister for Transport to reply to the debate—Mark Hooper.",
+          "text_original": "Barod, Weinidog? Galwaf ar y Dirprwy Weinidog dros Drafnidiaeth i ymateb i'r ddadl—Mark Hooper."
+        },
+        {
+          "id": "contribution-777125",
+          "item_id": "item-16314-261007-11",
+          "item_title_en": "10. Short Debate: The importance of port infrastructure and maritime traffic to the Welsh economy",
+          "lang": "cy",
+          "t_start": 20474,
+          "text_english": "Thank you very much, Deputy Minister. Thank you, Benjamin, for bringing that short debate to the Chamber. That brings today's proceedings to a close.",
+          "text_original": "Diolch yn fawr iawn, Ddirprwy Weinidog. Diolch yn fawr iawn, Benjamin, am ddod â'r ddadl fer i'r Siambr. Daw hynny â thrafodion heddiw i ben."
         }
       ],
       "date": "2026-10-07"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776043",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "cy",
+          "t_start": 6245,
+          "text_english": "Thank you very much, Minister.",
+          "text_original": "Diolch yn fawr i chi, Weinidog."
+        },
+        {
+          "id": "contribution-776046",
+          "item_id": "item-16313-261006-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "cy",
+          "t_start": 6246,
+          "text_english": "We will move now to item 3, the business statement and announcement, and I call on the Trefnydd, Heledd Fychan.",
+          "text_original": "Symudwn ymlaen i eitem 3, datganiad a chyhoeddiad busnes. Galwaf ar y Trefnydd, Heledd Fychan."
+        },
+        {
+          "id": "contribution-776101",
+          "item_id": "item-16313-261006-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "cy",
+          "t_start": 7456,
+          "text_english": "Thank you. And finally, David Mills.",
+          "text_original": "Diolch. Ac yn olaf, David Mills."
+        },
+        {
+          "id": "contribution-776204",
+          "item_id": "item-16313-261006-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "cy",
+          "t_start": 7581,
+          "text_english": "Thank you, Trefnydd.",
+          "text_original": "Diolch yn fawr iawn i chi, Drefnydd."
+        },
+        {
+          "id": "contribution-776079",
+          "item_id": "item-16313-261006-4",
+          "item_title_en": "4. Statement by the Deputy Minister for Transport: Strategic Priorities for the Menai Strait Crossings and M4 around Newport",
+          "lang": "cy",
+          "t_start": 7583,
+          "text_english": "The next item is a statement by the Deputy Minister for Transport: strategic priorities for the Menai strait crossings and the M4 around Newport. I call on the Deputy Minister for Transport, Mark Hooper.",
+          "text_original": "Nesaf, datganiad gan y Dirprwy Weinidog dros Drafnidiaeth: blaenoriaethau strategol ar gyfer croesfannau'r Fenai a'r M4 o amgylch Casnewydd. Galwaf ar y Dirprwy Weinidog dros Drafnidiaeth, Mark Hooper."
+        },
+        {
+          "id": "contribution-776108",
+          "item_id": "item-16313-261006-4",
+          "item_title_en": "4. Statement by the Deputy Minister for Transport: Strategic Priorities for the Menai Strait Crossings and M4 around Newport",
+          "lang": "en",
+          "t_start": 8764,
+          "text_english": "You can't take an intervention.",
+          "text_original": "You can't take an intervention."
+        },
+        {
+          "id": "contribution-776115",
+          "item_id": "item-16313-261006-4",
+          "item_title_en": "4. Statement by the Deputy Minister for Transport: Strategic Priorities for the Menai Strait Crossings and M4 around Newport",
+          "lang": "en",
+          "t_start": 8770,
+          "text_english": "The running commentary is a little bit distracting. If you could let the Minister just answer his question. Thank you. [Interruption.]",
+          "text_original": "The running commentary is a little bit distracting. If you could let the Minister just answer his question. Thank you. [Interruption.]"
+        },
+        {
+          "id": "contribution-776128",
+          "item_id": "item-16313-261006-4",
+          "item_title_en": "4. Statement by the Deputy Minister for Transport: Strategic Priorities for the Menai Strait Crossings and M4 around Newport",
+          "lang": "en",
+          "t_start": 9829,
+          "text_english": "Diolch. I've got six Members looking to ask questions. Deputy Minister, if you could—. And Members as well, please. Mair Rowlands.",
+          "text_original": "Diolch. I've got six Members looking to ask questions. Deputy Minister, if you could—. And Members as well, please. Mair Rowlands."
+        },
+        {
+          "id": "contribution-776141",
+          "item_id": "item-16313-261006-4",
+          "item_title_en": "4. Statement by the Deputy Minister for Transport: Strategic Priorities for the Menai Strait Crossings and M4 around Newport",
+          "lang": "cy",
+          "t_start": 10163,
+          "text_english": "A question, please.",
+          "text_original": "Cwestiwn, plis."
+        },
+        {
+          "id": "contribution-776147",
+          "item_id": "item-16313-261006-5",
+          "item_title_en": "5. Statement by the Deputy Minister for Social Care, Mental Health and Women’s Health: Stronger Safeguarding for a Safer Wales",
+          "lang": "cy",
+          "t_start": 10645,
+          "text_english": "We will move now to item 5, a statement by the Deputy Minister for Social Care, Mental Health and Women's Health, stronger safeguarding for a safer Wales. I call on the Deputy Minister for Social Care, Mental Health and Women's Health, Delyth Jewell.",
+          "text_original": "Symudwn ymlaen i eitem 5, datganiad gan y Dirprwy Weinidog dros Ofal Cymdeithasol, Iechyd Meddwl ac Iechyd Menywod, diogelu cryfach ar gyfer Cymru fwy diogel. Galwaf ar y Dirprwy Weinidog dros Ofal Cymdeithasol, Iechyd Meddwl ac Iechyd Menywod, Delyth Jewell."
+        },
+        {
+          "id": "contribution-776174",
+          "item_id": "item-16313-261006-5",
+          "item_title_en": "5. Statement by the Deputy Minister for Social Care, Mental Health and Women’s Health: Stronger Safeguarding for a Safer Wales",
+          "lang": "en",
+          "t_start": 13029,
+          "text_english": "Can we have a question, sorry, Jane?",
+          "text_original": "Can we have a question, sorry, Jane?"
+        },
+        {
+          "id": "contribution-776190",
+          "item_id": "item-16313-261006-5",
+          "item_title_en": "5. Statement by the Deputy Minister for Social Care, Mental Health and Women’s Health: Stronger Safeguarding for a Safer Wales",
+          "lang": "en",
+          "t_start": 13174,
+          "text_english": "Will you conclude, please, Sera?",
+          "text_original": "Will you conclude, please, Sera?"
+        },
+        {
+          "id": "contribution-776176",
+          "item_id": "item-16313-261006-5",
+          "item_title_en": "5. Statement by the Deputy Minister for Social Care, Mental Health and Women’s Health: Stronger Safeguarding for a Safer Wales",
+          "lang": "cy",
+          "t_start": 13292,
+          "text_english": "Thank you. Apologies to the other Members on the list, we're almost out of time on this. So, one final contribution, Deputy Minister—Catherine Cullen.",
+          "text_original": "Diolch. Ymddiheuriadau i'r Aelodau eraill sydd ar y rhestr, rydym bron wedi dod i ben o ran yr amser. Felly, un olaf, Ddirprwy Weinidog—Catherine Cullen."
+        }
+      ],
+      "date": "2026-10-06"
     },
     {
       "contributions": [

@@ -3,8 +3,31 @@
   "canonical_name": "Safa Elhassan",
   "constituency_name_cy": "Gŵyr Abertawe",
   "constituency_name_en": "Gŵyr Abertawe",
-  "contribution_count": 16,
+  "contribution_count": 18,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-775966",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "3. What assessment has the Cabinet Minister made of how statistics can support more effective government and public sector decision making across Wales? OQ64626",
+          "text_original": "3. Pa asesiad y mae'r Gweinidog Cabinet wedi'i wneud o'r modd y gall ystadegau gefnogi o ran gwneud penderfyniadau mwy effeithiol gan y llywodraeth a'r sector cyhoeddus ledled Cymru? OQ64626"
+        },
+        {
+          "id": "contribution-775970",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "en",
+          "t_start": 4661,
+          "text_english": "Diolch, Cabinet Minister. Evidence-based decision making is central to delivering effective public service and ensuring the best use of public money. In healthcare, for example, we know that additional capacity can sometimes be needed to reduce waiting times. Audit Wales has highlighted that insourcing and outsourcing can help reduce long waits, but that it can also place additional pressure on NHS finances down the line, whilst opportunities remain to improve productivity within NHS services. So, Cabinet Minister, how is the Welsh Government ensuring that decisions on improving and delivering effective public services are not just informed by immediate cost savings or short-term deliveries, but also on sustainability, long-term outcomes and capacity building?",
+          "text_original": "Diolch, Cabinet Minister. Evidence-based decision making is central to delivering effective public service and ensuring the best use of public money. In healthcare, for example, we know that additional capacity can sometimes be needed to reduce waiting times. Audit Wales has highlighted that insourcing and outsourcing can help reduce long waits, but that it can also place additional pressure on NHS finances down the line, whilst opportunities remain to improve productivity within NHS services. So, Cabinet Minister, how is the Welsh Government ensuring that decisions on improving and delivering effective public services are not just informed by immediate cost savings or short-term deliveries, but also on sustainability, long-term outcomes and capacity building?"
+        }
+      ],
+      "date": "2026-10-06"
+    },
     {
       "contributions": [
         {

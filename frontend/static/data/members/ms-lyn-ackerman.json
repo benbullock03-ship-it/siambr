@@ -3,8 +3,31 @@
   "canonical_name": "Lyn Ackerman",
   "constituency_name_cy": "Casnewydd Islwyn",
   "constituency_name_en": "Casnewydd Islwyn",
-  "contribution_count": 8,
+  "contribution_count": 10,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-775953",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "8. What assessment has the First Minister made of whether the current learner travel framework is delivering fair access to education across Wales? OQ64650",
+          "text_original": "8. Pa asesiad y mae'r Prif Weinidog wedi'i wneud ynghylch a yw'r fframwaith teithio presennol i ddysgwyr yn darparu mynediad teg at addysg ledled Cymru? OQ64650"
+        },
+        {
+          "id": "contribution-775909",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 3312,
+          "text_english": "The statutory threshold remains 2 miles for primary schools and 3 miles for secondary pupils. In communities such as Islwyn, the reality of their journey can be very different, depending on the terrain, the roads and whether there is a genuinely safe walking route. Will the First Minister look at whether the current framework is producing fair and consistent outcomes for children across Wales?",
+          "text_original": "The statutory threshold remains 2 miles for primary schools and 3 miles for secondary pupils. In communities such as Islwyn, the reality of their journey can be very different, depending on the terrain, the roads and whether there is a genuinely safe walking route. Will the First Minister look at whether the current framework is producing fair and consistent outcomes for children across Wales?"
+        }
+      ],
+      "date": "2026-10-06"
+    },
     {
       "contributions": [
         {

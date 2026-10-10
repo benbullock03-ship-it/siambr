@@ -1,9 +1,9 @@
 [
   {
-    "contribution_count": 255,
+    "contribution_count": 304,
     "date": "2026-10-07",
     "id": "plenary-16314",
-    "item_count": 9,
+    "item_count": 11,
     "items": [
       {
         "classification_provenance": "PROVENANCE_DERIVED",
@@ -180,28 +180,69 @@
           "ms-john-clark",
           "ms-ken-skates",
           "ms-kiera-marshall",
+          "ms-marc-jones",
+          "ms-matthew-jones",
+          "ms-paul-marr",
           "ms-peter-fox",
+          "ms-sarah-rees",
           "ms-sian-gwenllian",
+          "ms-tom-montgomery",
           "ms-zaynub-akbar"
         ],
         "title_cy": "8. Dadl Reform UK: Mynediad at dai amlfeddiannaeth a thai cymdeithasol i wladolion tramor",
         "title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
         "type": "debate"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16314-261007-10",
+        "order": 9,
+        "policy_domain_id": "devolution",
+        "speaker_ids": [
+          "ms-kerry-ferguson"
+        ],
+        "title_cy": "9. Cyfnod Pleidleisio",
+        "title_en": "9. Voting Time",
+        "type": "debate"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16314-261007-11",
+        "order": 10,
+        "policy_domain_id": "economy",
+        "speaker_ids": [
+          "ms-alun-cox",
+          "ms-benjamin-hodge-mckenna",
+          "ms-claire-archibald",
+          "ms-cristiana-emsley",
+          "ms-elyn-stephens",
+          "ms-gareth-beer",
+          "ms-john-clark",
+          "ms-kerry-ferguson",
+          "ms-mark-hooper",
+          "ms-sarah-cooper-lesadd",
+          "ms-sera-evans",
+          "ms-shav-taj",
+          "ms-steve-bayliss"
+        ],
+        "title_cy": "10. Dadl Fer: Pwysigrwydd seilwaith porthladdoedd a thraffig morwrol i economi Cymru",
+        "title_en": "10. Short Debate: The importance of port infrastructure and maritime traffic to the Welsh economy",
+        "type": "debate"
       }
     ],
     "meeting_id": 16314,
-    "meeting_start_time": "13:30:00",
-    "record_published_at": "2026-10-07T17:58:45",
+    "meeting_start_time": "13:30:01",
+    "record_published_at": "2026-10-09T18:29:03",
     "source_xml_url": "https://record.senedd.wales/XMLExport/Download?meetingID=16314&xmlDownloadType=BilingualTranscript",
     "term": 7,
     "title_cy": "Cyfarfod Llawn",
     "title_en": "Plenary"
   },
   {
-    "contribution_count": 80,
+    "contribution_count": 305,
     "date": "2026-10-06",
     "id": "plenary-16313",
-    "item_count": 1,
+    "item_count": 7,
     "items": [
       {
         "classification_provenance": "PROVENANCE_DERIVED",
@@ -211,6 +252,7 @@
         "speaker_ids": [
           "ms-andrew-griffin",
           "ms-andrew-rt-davies",
+          "ms-beca-brown",
           "ms-cai-parry-jones",
           "ms-cristiana-emsley",
           "ms-darren-millar",
@@ -222,6 +264,7 @@
           "ms-kiera-marshall",
           "ms-laura-anne-jones",
           "ms-llyr-powell",
+          "ms-lyn-ackerman",
           "ms-matthew-jones",
           "ms-mike-hedges",
           "ms-paul-davies",
@@ -229,17 +272,155 @@
           "ms-rhun-ap-iorwerth",
           "ms-sam-rowlands",
           "ms-sarah-rees",
+          "ms-sera-evans",
           "ms-shav-taj",
           "ms-zaynub-akbar"
         ],
         "title_cy": "1. Cwestiynau i'r Prif Weinidog",
         "title_en": "1. Questions to the First Minister",
         "type": "oral_questions"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16313-261006-2",
+        "order": 1,
+        "policy_domain_id": "devolution",
+        "speaker_ids": [
+          "ms-andrew-rt-davies",
+          "ms-beca-brown",
+          "ms-claire-johnson-wood",
+          "ms-dafydd-trystan-davies",
+          "ms-darren-millar",
+          "ms-donna-cushing",
+          "ms-elfed-williams",
+          "ms-francesca-o-brien",
+          "ms-gwyn-williams",
+          "ms-huw-irranca-davies",
+          "ms-huw-thomas",
+          "ms-iain-mcintosh",
+          "ms-jane-dodds",
+          "ms-kerry-ferguson",
+          "ms-leticia-gonzalez",
+          "ms-lis-mclean",
+          "ms-nigel-williams",
+          "ms-safa-elhassan",
+          "ms-sam-rowlands",
+          "ms-shav-taj",
+          "ms-steven-rodaway"
+        ],
+        "title_cy": "2. Cwestiynau i’r Gweinidog Cabinet dros Effeithiolrwydd Llywodraeth a'r Cyfansoddiad",
+        "title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+        "type": "oral_questions"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16313-261006-3",
+        "order": 2,
+        "policy_domain_id": "devolution",
+        "speaker_ids": [
+          "ms-andrew-griffin",
+          "ms-claire-archibald",
+          "ms-darren-millar",
+          "ms-david-mills",
+          "ms-elwyn-vaughan",
+          "ms-gareth-beer",
+          "ms-heledd-fychan",
+          "ms-jane-dodds",
+          "ms-kerry-ferguson",
+          "ms-laura-anne-jones",
+          "ms-lynne-neagle",
+          "ms-mike-hedges",
+          "ms-natasha-asghar",
+          "ms-paul-davies",
+          "ms-steven-rodaway"
+        ],
+        "title_cy": "3. Datganiad a Chyhoeddiad Busnes",
+        "title_en": "3. Business Statement and Announcement",
+        "type": "statement"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16313-261006-4",
+        "order": 3,
+        "policy_domain_id": "transport",
+        "speaker_ids": [
+          "ms-adam-price",
+          "ms-andrew-rt-davies",
+          "ms-art-wright",
+          "ms-jayne-bryant",
+          "ms-john-clark",
+          "ms-kerry-ferguson",
+          "ms-laura-anne-jones",
+          "ms-louise-emery",
+          "ms-mair-rowlands",
+          "ms-mark-hooper",
+          "ms-natasha-asghar",
+          "ms-peredur-owen-griffiths",
+          "ms-vikki-howells"
+        ],
+        "title_cy": "4. Datganiad gan y Dirprwy Weinidog dros Drafnidiaeth: Blaenoriaethau Strategol ar gyfer Croesfannau'r Fenai a'r M4 o amgylch Casnewydd",
+        "title_en": "4. Statement by the Deputy Minister for Transport: Strategic Priorities for the Menai Strait Crossings and M4 around Newport",
+        "type": "statement"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16313-261006-5",
+        "order": 4,
+        "policy_domain_id": "health",
+        "speaker_ids": [
+          "ms-catherine-cullen",
+          "ms-claire-archibald",
+          "ms-delyth-jewell",
+          "ms-huw-irranca-davies",
+          "ms-jane-dodds",
+          "ms-kerry-ferguson",
+          "ms-lynne-neagle",
+          "ms-natasha-asghar",
+          "ms-sera-evans"
+        ],
+        "title_cy": "5. Datganiad gan y Dirprwy Weinidog dros Ofal Cymdeithasol, Iechyd Meddwl ac Iechyd Menywod: Diogelu Cryfach ar gyfer Cymru Fwy Diogel",
+        "title_en": "5. Statement by the Deputy Minister for Social Care, Mental Health and Women’s Health: Stronger Safeguarding for a Safer Wales",
+        "type": "statement"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16313-261006-6",
+        "order": 5,
+        "policy_domain_id": "devolution",
+        "speaker_ids": [
+          "ms-cai-parry-jones",
+          "ms-carrie-harper",
+          "ms-elfed-williams",
+          "ms-elin-jones",
+          "ms-huw-irranca-davies",
+          "ms-huw-thomas",
+          "ms-iain-mcintosh",
+          "ms-jane-dodds",
+          "ms-mike-hedges",
+          "ms-paul-marr",
+          "ms-sam-rowlands",
+          "ms-sera-evans"
+        ],
+        "title_cy": "6. Dadl: Diwygio Cyllidol",
+        "title_en": "6. Debate: Fiscal Reform",
+        "type": "debate"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16313-261006-7",
+        "order": 6,
+        "policy_domain_id": "devolution",
+        "speaker_ids": [
+          "ms-huw-irranca-davies"
+        ],
+        "title_cy": "7. Cyfnod Pleidleisio",
+        "title_en": "7. Voting Time",
+        "type": "debate"
       }
     ],
     "meeting_id": 16313,
-    "meeting_start_time": "13:30:00",
-    "record_published_at": "2026-10-06T14:58:45",
+    "meeting_start_time": "13:30:01",
+    "record_published_at": "2026-10-09T15:57:49",
     "source_xml_url": "https://record.senedd.wales/XMLExport/Download?meetingID=16313&xmlDownloadType=BilingualTranscript",
     "term": 7,
     "title_cy": "Cyfarfod Llawn",
