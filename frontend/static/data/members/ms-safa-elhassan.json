@@ -3,8 +3,31 @@
   "canonical_name": "Safa Elhassan",
   "constituency_name_cy": "Gŵyr Abertawe",
   "constituency_name_en": "Gŵyr Abertawe",
-  "contribution_count": 18,
+  "contribution_count": 20,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778439",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "5. What action is the Welsh Government taking to improve access to essential public services in town and city centres across Wales? OQ64706",
+          "text_original": "5. Pa gamau mae Llywodraeth Cymru yn eu cymryd i wella mynediad at wasanaethau cyhoeddus hanfodol yng nghanol trefi a dinasoedd ledled Cymru? OQ64706"
+        },
+        {
+          "id": "contribution-778444",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 2663,
+          "text_english": "Diolch, First Minister. Strong cities and towns depend not only on attracting investment but also on ensuring that people can continue to access essential services they rely on every day. In Swansea, the city centre post office in the Quadrant is due to close in February 2027. While a replacement is being explored, no new location or opening date has been confirmed, and the alternative branches do not provide the same range of services. For older residents, disabled people and many small businesses, that would represent a significant loss. First Minister, your Government has rightly committed to supporting thriving high streets and regenerating our towns and city centres. How will the Welsh Government work with partners to safeguard access to essential services, including a full-service post office, as part of a wider regeneration plan for Swansea city centre and communities across Wales?",
+          "text_original": "Diolch, First Minister. Strong cities and towns depend not only on attracting investment but also on ensuring that people can continue to access essential services they rely on every day. In Swansea, the city centre post office in the Quadrant is due to close in February 2027. While a replacement is being explored, no new location or opening date has been confirmed, and the alternative branches do not provide the same range of services. For older residents, disabled people and many small businesses, that would represent a significant loss. First Minister, your Government has rightly committed to supporting thriving high streets and regenerating our towns and city centres. How will the Welsh Government work with partners to safeguard access to essential services, including a full-service post office, as part of a wider regeneration plan for Swansea city centre and communities across Wales?"
+        }
+      ],
+      "date": "2026-10-13"
+    },
     {
       "contributions": [
         {

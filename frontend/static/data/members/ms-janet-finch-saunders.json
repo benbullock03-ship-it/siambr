@@ -3,8 +3,31 @@
   "canonical_name": "Janet Finch-Saunders",
   "constituency_name_cy": "Bangor Conwy Môn",
   "constituency_name_en": "Bangor Conwy Môn",
-  "contribution_count": 61,
+  "contribution_count": 63,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778489",
+          "item_id": "item-16315-261013-2",
+          "item_title_en": "2. Business Statement and Announcement",
+          "lang": "cy",
+          "t_start": 5285,
+          "text_english": "Thank you, Llywydd. I would like to request a statement from the Cabinet Minister for Health and Care on how they are working to eradicate scabies in Wales. Over the last month, we have seen two hospitals close wards due to the presence of Norwegian scabies. The number of cases of scabies in Wales has increased from 1,300 in 2018-19 to over 12,000 cases in 2023-24. This is deeply concerning and is causing patients significant discomfort and making people think twice before going to hospital. Urgent action needs to be taken to eradicate this horrific disease.",
+          "text_original": "Diolch, Lywydd. Hoffwn i ofyn am ddatganiad gan y Gweinidog Cabinet dros Iechyd a Gofal am sut maen nhw'n gweithio i ddileu sgabies yng Nghymru. Dros y mis diwethaf, rydyn ni wedi gweld dau ysbyty yn cau wardiau achos presenolded sgabies Norwyaidd. Mae nifer yr achosion o sgabies yng Nghymru wedi cynyddu o 1,300 yn 2018-19 i dros 12,000 o achosion yn 2023-24. Mae hyn yn bryderus iawn ac yn achosi anghysur sylweddol i gleifion ac yn gwneud i bobl feddwl ddwywaith cyn mynd i'r ysbyty. Mae angen cymryd camau brys i ddelio â'r clefyd erchyll hwn."
+        },
+        {
+          "id": "contribution-778493",
+          "item_id": "item-16315-261013-2",
+          "item_title_en": "2. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 5381,
+          "text_english": "Bit of a long one that one, sorry.",
+          "text_original": "Bit of a long one that one, sorry."
+        }
+      ],
+      "date": "2026-10-13"
+    },
     {
       "contributions": [
         {

@@ -3,8 +3,31 @@
   "canonical_name": "Matthew Jones",
   "constituency_name_cy": "Sir Fynwy Torfaen",
   "constituency_name_en": "Sir Fynwy Torfaen",
-  "contribution_count": 28,
+  "contribution_count": 30,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778435",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "8. What action is the Government taking to improve and integrate public transport links in Sir Fynwy Torfaen? OQ64704",
+          "text_original": "8. Pa gamau mae'r Llywodraeth yn eu cymryd i wella ac integreiddio cysylltiadau trafnidiaeth gyhoeddus yn Sir Fynwy Torfaen? OQ64704"
+        },
+        {
+          "id": "contribution-778437",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 3251,
+          "text_english": "Diolch, Brif Weinidog. The transport Minister's announcement last week shows that this Government is willing to tackle transport issues that have previously been kicked down the road. Now, this is an opportunity to vastly improve public transport throughout Monmouthshire and Torfaen. Because when people have the option of quick, frequent and reliable public transport, they'll take it, especially if it's convenient and affordable.\n\nNow, previous south Wales metro reports have proposed upgrading to transport services, with more frequent trains between Abergavenny and Cardiff and rapid bus transport from Monmouth to Newport. So, will this Government's fresh look at transport in the south-east of Wales look to provide convenient and affordable public transport, including, if I may, rapid bus transport between towns in Sir Fynwy Torfaen, more frequent trains between Abergavenny and Cardiff, and more reliable trains to and from Chepstow, Severn Tunnel Junction and the much-anticipated Magor and Undy station? Diolch.",
+          "text_original": "Diolch, Brif Weinidog. The transport Minister's announcement last week shows that this Government is willing to tackle transport issues that have previously been kicked down the road. Now, this is an opportunity to vastly improve public transport throughout Monmouthshire and Torfaen. Because when people have the option of quick, frequent and reliable public transport, they'll take it, especially if it's convenient and affordable.\n\nNow, previous south Wales metro reports have proposed upgrading to transport services, with more frequent trains between Abergavenny and Cardiff and rapid bus transport from Monmouth to Newport. So, will this Government's fresh look at transport in the south-east of Wales look to provide convenient and affordable public transport, including, if I may, rapid bus transport between towns in Sir Fynwy Torfaen, more frequent trains between Abergavenny and Cardiff, and more reliable trains to and from Chepstow, Severn Tunnel Junction and the much-anticipated Magor and Undy station? Diolch."
+        }
+      ],
+      "date": "2026-10-13"
+    },
     {
       "contributions": [
         {

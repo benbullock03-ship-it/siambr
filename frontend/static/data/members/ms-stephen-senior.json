@@ -3,8 +3,22 @@
   "canonical_name": "Stephen Senior",
   "constituency_name_cy": "Sir Fynwy Torfaen",
   "constituency_name_en": "Sir Fynwy Torfaen",
-  "contribution_count": 16,
+  "contribution_count": 17,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778364",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 460,
+          "text_english": "First Minister, Wales presently has nearly 4,000 MW of installed capacity, all dependent on gas for firing. Given what's just been said, this document, produced by the National Grid, 'Community Energy Scenarios', reveals the truth of this community energy nonsense. At best—at best—it will mean we go from 47 MW to 281 MW by 2035. To be fair to you, you're not a Nimby First Minister, but what I would describe Plaid's nuclear policy as is 'only in Rhun's back yard', because that's effectively what we've got. First Minister, right across south Wales, we have a growing energy problem. Will you reconsider Plaid's energy policy so that we can look at a series of small modular reactors right across south Wales?",
+          "text_original": "First Minister, Wales presently has nearly 4,000 MW of installed capacity, all dependent on gas for firing. Given what's just been said, this document, produced by the National Grid, 'Community Energy Scenarios', reveals the truth of this community energy nonsense. At best—at best—it will mean we go from 47 MW to 281 MW by 2035. To be fair to you, you're not a Nimby First Minister, but what I would describe Plaid's nuclear policy as is 'only in Rhun's back yard', because that's effectively what we've got. First Minister, right across south Wales, we have a growing energy problem. Will you reconsider Plaid's energy policy so that we can look at a series of small modular reactors right across south Wales?"
+        }
+      ],
+      "date": "2026-10-13"
+    },
     {
       "contributions": [
         {

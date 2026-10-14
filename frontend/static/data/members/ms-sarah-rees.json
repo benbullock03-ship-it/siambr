@@ -3,8 +3,31 @@
   "canonical_name": "Sarah Rees",
   "constituency_name_cy": "Pen-y-bont Bro Morgannwg",
   "constituency_name_en": "Pen-y-bont Bro Morgannwg",
-  "contribution_count": 36,
+  "contribution_count": 38,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778356",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "2. What action is the Government taking to support the creation of community energy projects and ensure that the benefits of Wales’s natural resources are retained in Wales? OQ64708",
+          "text_original": "2. Pa gamau mae'r Llywodraeth yn eu cymryd i gefnogi'r gwaith o greu prosiectau ynni cymunedol a sicrhau bod manteision adnoddau naturiol Cymru yn cael eu cadw yng Nghymru? OQ64708"
+        },
+        {
+          "id": "contribution-778358",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 362,
+          "text_english": "First Minister, I'm proud to support a grass-roots campaign in Pen-y-bont Bro Morgannwg to stop the proposed small modular reactor nuclear project in the Llynfi valley by Last Energy. More extractive and harmful projects are not what our post-industrial communities deserve. It's no surprise why they have selected one of our most deprived communities to pilot this new nuclear technology. Campaigners across the constituency are calling out for renewable energy projects that they can directly benefit from, and that's why we're exploring alternative energy options within the constituency rather than accepting private organisations coming in to extract the profits from our communities. So, Prif Weinidog, will you reaffirm this Government's ambition to ensure that our communities benefit from energy projects?",
+          "text_original": "First Minister, I'm proud to support a grass-roots campaign in Pen-y-bont Bro Morgannwg to stop the proposed small modular reactor nuclear project in the Llynfi valley by Last Energy. More extractive and harmful projects are not what our post-industrial communities deserve. It's no surprise why they have selected one of our most deprived communities to pilot this new nuclear technology. Campaigners across the constituency are calling out for renewable energy projects that they can directly benefit from, and that's why we're exploring alternative energy options within the constituency rather than accepting private organisations coming in to extract the profits from our communities. So, Prif Weinidog, will you reaffirm this Government's ambition to ensure that our communities benefit from energy projects?"
+        }
+      ],
+      "date": "2026-10-13"
+    },
     {
       "contributions": [
         {

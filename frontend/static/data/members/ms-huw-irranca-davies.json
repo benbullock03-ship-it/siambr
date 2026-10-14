@@ -3,8 +3,175 @@
   "canonical_name": "Huw Irranca-Davies",
   "constituency_name_cy": "Afan Ogwr Rhondda",
   "constituency_name_en": "Afan Ogwr Rhondda",
-  "contribution_count": 668,
+  "contribution_count": 686,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778347",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 2,
+          "text_english": "Prynhawn da, bawb. Good afternoon, everybody.",
+          "text_original": "Prynhawn da, bawb. Good afternoon, everybody."
+        },
+        {
+          "id": "contribution-778352",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 5,
+          "text_english": "We will move immediately now to item 1, questions to the First Minister. Question 1, Alun Cox.",
+          "text_original": "Symudwn nawr yn syth at eitem 1, cwestiynau i'r Prif Weinidog. Cwestiwn 1, Alun Cox."
+        },
+        {
+          "id": "contribution-778390",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 717,
+          "text_english": "I now call the party leaders to question the First Minister. First of all, the leader of Reform UK, Helen Jenner.",
+          "text_original": "Galwaf yn awr ar arweinwyr y pleidiau i holi'r Prif Weinidog. Yn gyntaf, arweinydd Reform UK, Helen Jenner."
+        },
+        {
+          "id": "contribution-778388",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 1127,
+          "text_english": "Leader of Welsh Labour now—Ken Skates.",
+          "text_original": "Arweinydd Llafur Cymru nawr—Ken Skates."
+        },
+        {
+          "id": "contribution-778378",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 1352,
+          "text_english": "Leader of the Welsh Conservatives, Darren Millar.",
+          "text_original": "Arweinydd y Ceidwadwyr Cymreig, Darren Millar."
+        },
+        {
+          "id": "contribution-778371",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 1560,
+          "text_english": "A question, please, Darren.",
+          "text_original": "Cwestiwn, Darren."
+        },
+        {
+          "id": "contribution-778422",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 2886,
+          "text_english": "Question, please, Peter.",
+          "text_original": "Cwestiwn, plis, Peter."
+        },
+        {
+          "id": "contribution-778450",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 3550,
+          "text_english": "Finally, First Minister, question 10, Anthony Slaughter.",
+          "text_original": "Yn olaf, Brif Weinidog, cwestiwn 10, Anthony Slaughter."
+        },
+        {
+          "id": "contribution-778506",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 3683,
+          "text_english": "Thank you, First Minister.",
+          "text_original": "Diolch, Brif Weinidog."
+        },
+        {
+          "id": "contribution-778451",
+          "item_id": "item-16315-261013-2",
+          "item_title_en": "2. Business Statement and Announcement",
+          "lang": "cy",
+          "t_start": 3685,
+          "text_english": "Item 2 now, the business statement and announcement. And I call on the Trefnydd, Heledd Fychan.",
+          "text_original": "Eitem 2 nawr, y datganiad a chyhoeddiad busnes. Galwaf ar y Trefnydd, Heledd Fychan."
+        },
+        {
+          "id": "contribution-778488",
+          "item_id": "item-16315-261013-2",
+          "item_title_en": "2. Business Statement and Announcement",
+          "lang": "cy",
+          "t_start": 5282,
+          "text_english": "Finally, Trefnydd, Janet Finch-Saunders.",
+          "text_original": "Yn olaf, Drefnydd, Janet Finch-Saunders."
+        },
+        {
+          "id": "contribution-778563",
+          "item_id": "item-16315-261013-4",
+          "item_title_en": "4. Statement by the Cabinet Minister for Rural Resilience and Sustainability: Winter preparedness: Be flood ready",
+          "lang": "cy",
+          "t_start": 10697,
+          "text_english": "Thank you, Cabinet Minister.",
+          "text_original": "Diolch, Weinidog Cabinet."
+        },
+        {
+          "id": "contribution-778565",
+          "item_id": "item-16315-261013-5",
+          "item_title_en": "5. Statement by the Cabinet Minister for Health and Care: Update on winter preparedness",
+          "lang": "cy",
+          "t_start": 10700,
+          "text_english": "We'll move on now to item 5, a statement by the Cabinet Minister for Health and Care, an update on winter preparedness. I call on the Cabinet Minister for Health and Care—Mabon ap Gwynfor.",
+          "text_original": "Symudwn at eitem 5 nawr, datganiad gan y Gweinidog Cabinet dros Iechyd a Gofal, diweddariad ar barodrwydd ar gyfer y gaeaf. Galwaf ar y Gweinidog Cabinet dros Iechyd a Gofal—Mabon ap Gwynfor."
+        },
+        {
+          "id": "contribution-778596",
+          "item_id": "item-16315-261013-5",
+          "item_title_en": "5. Statement by the Cabinet Minister for Health and Care: Update on winter preparedness",
+          "lang": "cy",
+          "t_start": 12682,
+          "text_english": "We'll move now to one-minute contributions and questions. I have a number of Members who wish to speak.",
+          "text_original": "Symudwn nawr at gyfraniadau a chwestiynau un funud. Mae gennyf lawer o Aelodau sydd am siarad."
+        },
+        {
+          "id": "contribution-778598",
+          "item_id": "item-16315-261013-5",
+          "item_title_en": "5. Statement by the Cabinet Minister for Health and Care: Update on winter preparedness",
+          "lang": "en",
+          "t_start": 12691,
+          "text_english": "Let's do our best; we'll keep it really tight. Let's see how many people we can get in.",
+          "text_original": "Let's do our best; we'll keep it really tight. Let's see how many people we can get in."
+        },
+        {
+          "id": "contribution-778599",
+          "item_id": "item-16315-261013-5",
+          "item_title_en": "5. Statement by the Cabinet Minister for Health and Care: Update on winter preparedness",
+          "lang": "cy",
+          "t_start": 12695,
+          "text_english": "We start with Elyn Stephens.",
+          "text_original": "Rydym ni'n dechrau gyda Elyn Stephens."
+        },
+        {
+          "id": "contribution-778612",
+          "item_id": "item-16315-261013-5",
+          "item_title_en": "5. Statement by the Cabinet Minister for Health and Care: Update on winter preparedness",
+          "lang": "en",
+          "t_start": 12906,
+          "text_english": "Question, please.",
+          "text_original": "Question, please."
+        },
+        {
+          "id": "contribution-778608",
+          "item_id": "item-16315-261013-5",
+          "item_title_en": "5. Statement by the Cabinet Minister for Health and Care: Update on winter preparedness",
+          "lang": "cy",
+          "t_start": 13380,
+          "text_english": "Finally, James Evans.",
+          "text_original": "Yn olaf, James Evans."
+        }
+      ],
+      "date": "2026-10-13"
+    },
     {
       "contributions": [
         {

@@ -3,8 +3,94 @@
   "canonical_name": "Kerry Ferguson",
   "constituency_name_cy": "Ceredigion Penfro",
   "constituency_name_en": "Ceredigion Penfro",
-  "contribution_count": 393,
+  "contribution_count": 402,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778479",
+          "item_id": "item-16315-261013-2",
+          "item_title_en": "2. Business Statement and Announcement",
+          "lang": "cy",
+          "t_start": 5431,
+          "text_english": "Thank you very much, Trefnydd.",
+          "text_original": "Diolch yn fawr iawn, Drefnydd."
+        },
+        {
+          "id": "contribution-778482",
+          "item_id": "item-16315-261013-3",
+          "item_title_en": "3. Statement by the Cabinet Minister for Government Effectiveness and the Constitution: The next steps for the Glyndŵr National Park Designation Order",
+          "lang": "cy",
+          "t_start": 5433,
+          "text_english": "We'll move on to item 3, a statement by the Cabinet Minister for Government Effectiveness and the Constitution, the next steps for the Glyndŵr National Park (Designation) Order. I call on the Cabinet Minister for Government Effectiveness and the Constitution, Dafydd Trystan Davies.",
+          "text_original": "Symudwn ymlaen i eitem 3, datganiad gan y Gweinidog Cabinet dros Effeithiolrwydd Llywodraeth a’r Cyfansoddiad, y camau nesaf ar gyfer Gorchymyn (Dynodi) Parc Cenedlaethol Glyndŵr. Galwaf ar y Gweinidog Cabinet dros Effeithiolrwydd Llywodraeth a’r Cyfansoddiad, Dafydd Trystan Davies."
+        },
+        {
+          "id": "contribution-778507",
+          "item_id": "item-16315-261013-3",
+          "item_title_en": "3. Statement by the Cabinet Minister for Government Effectiveness and the Constitution: The next steps for the Glyndŵr National Park Designation Order",
+          "lang": "cy",
+          "t_start": 6134,
+          "text_english": "Thank you very much, Minister. Adrian Mason.",
+          "text_original": "Diolch yn fawr iawn, Weinidog. Adrian Mason."
+        },
+        {
+          "id": "contribution-778509",
+          "item_id": "item-16315-261013-3",
+          "item_title_en": "3. Statement by the Cabinet Minister for Government Effectiveness and the Constitution: The next steps for the Glyndŵr National Park Designation Order",
+          "lang": "en",
+          "t_start": 6446,
+          "text_english": "Can I ask you to conclude, please?",
+          "text_original": "Can I ask you to conclude, please?"
+        },
+        {
+          "id": "contribution-778530",
+          "item_id": "item-16315-261013-3",
+          "item_title_en": "3. Statement by the Cabinet Minister for Government Effectiveness and the Constitution: The next steps for the Glyndŵr National Park Designation Order",
+          "lang": "en",
+          "t_start": 7325,
+          "text_english": "Can you conclude, please?",
+          "text_original": "Can you conclude, please?"
+        },
+        {
+          "id": "contribution-778543",
+          "item_id": "item-16315-261013-3",
+          "item_title_en": "3. Statement by the Cabinet Minister for Government Effectiveness and the Constitution: The next steps for the Glyndŵr National Park Designation Order",
+          "lang": "cy",
+          "t_start": 7636,
+          "text_english": "Thank you. And finally, Minister, Andrew Griffin.",
+          "text_original": "Diolch. Ac yn olaf, Weinidog, Andrew Griffin."
+        },
+        {
+          "id": "contribution-778547",
+          "item_id": "item-16315-261013-3",
+          "item_title_en": "3. Statement by the Cabinet Minister for Government Effectiveness and the Constitution: The next steps for the Glyndŵr National Park Designation Order",
+          "lang": "cy",
+          "t_start": 7739,
+          "text_english": "Thank you very much, Cabinet Minister.",
+          "text_original": "Diolch yn fawr iawn, Weinidog Cabinet."
+        },
+        {
+          "id": "contribution-778550",
+          "item_id": "item-16315-261013-4",
+          "item_title_en": "4. Statement by the Cabinet Minister for Rural Resilience and Sustainability: Winter preparedness: Be flood ready",
+          "lang": "cy",
+          "t_start": 7741,
+          "text_english": "We'll move now to a statement by the Cabinet Minister for Rural Resilience and Sustainability: winter preparedness—be flood ready. I call on the Cabinet Minister for Rural Resilience and Sustainability, Llyr Gruffydd.",
+          "text_original": "Symudwn ymlaen at ddatganiad gan y Gweinidog Cabinet dros Wydnwch Gwledig a Chynaliadwyedd: parodrwydd ar gyfer y gaeaf—barod am lifogydd. Galwaf ar y Gweinidog Cabinet dros Wydnwch Gwledig a Chynaliadwyedd, Llyr Gruffydd."
+        },
+        {
+          "id": "contribution-778581",
+          "item_id": "item-16315-261013-4",
+          "item_title_en": "4. Statement by the Cabinet Minister for Rural Resilience and Sustainability: Winter preparedness: Be flood ready",
+          "lang": "cy",
+          "t_start": 10462,
+          "text_english": "Thank you. And finally, Lis McLean.",
+          "text_original": "Diolch. Ac yn olaf, Weinidog, Lis McLean."
+        }
+      ],
+      "date": "2026-10-13"
+    },
     {
       "contributions": [
         {
