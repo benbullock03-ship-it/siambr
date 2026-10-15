@@ -3,8 +3,31 @@
   "canonical_name": "Lyn Ackerman",
   "constituency_name_cy": "Casnewydd Islwyn",
   "constituency_name_en": "Casnewydd Islwyn",
-  "contribution_count": 10,
+  "contribution_count": 12,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-779015",
+          "item_id": "item-16316-261014-2",
+          "item_title_en": "1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "7. Will the Cabinet Minister provide an update on the Sport Wales audit of regional and community sports facilities? OQ64715",
+          "text_original": "7. A wnaiff y Gweinidog Cabinet roi diweddariad ar archwiliad Chwaraeon Cymru o gyfleusterau chwaraeon rhanbarthol a chymunedol? OQ64715"
+        },
+        {
+          "id": "contribution-778896",
+          "item_id": "item-16316-261014-2",
+          "item_title_en": "1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport",
+          "lang": "en",
+          "t_start": 2452,
+          "text_english": "Cefn Fforest Leisure Centre remains open, but Caerphilly council significantly reduced its opening hours in 2025 and closed the fitness suite. Will the Sport Wales data capture include changes to opening hours, the facility availability at each site and the distance to alternative provision, so that the future capital investment reflects the level of provision communities have access to?",
+          "text_original": "Cefn Fforest Leisure Centre remains open, but Caerphilly council significantly reduced its opening hours in 2025 and closed the fitness suite. Will the Sport Wales data capture include changes to opening hours, the facility availability at each site and the distance to alternative provision, so that the future capital investment reflects the level of provision communities have access to?"
+        }
+      ],
+      "date": "2026-10-14"
+    },
     {
       "contributions": [
         {

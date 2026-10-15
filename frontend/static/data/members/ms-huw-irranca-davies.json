@@ -3,8 +3,40 @@
   "canonical_name": "Huw Irranca-Davies",
   "constituency_name_cy": "Afan Ogwr Rhondda",
   "constituency_name_en": "Afan Ogwr Rhondda",
-  "contribution_count": 686,
+  "contribution_count": 689,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-779006",
+          "item_id": "item-16316-261014-5",
+          "item_title_en": "4. 90-second Statements",
+          "lang": "cy",
+          "t_start": 6230,
+          "text_english": "Thank you very much, everyone.",
+          "text_original": "Diolch yn fawr iawn, bawb."
+        },
+        {
+          "id": "contribution-779011",
+          "item_id": "item-16316-261014-6",
+          "item_title_en": "5. Welsh Labour Debate: Palliative and end-of-life care",
+          "lang": "cy",
+          "t_start": 6232,
+          "text_english": "The Welsh Labour debate now on palliative and end-of-life care. I call on Ken Skates to move the motion.",
+          "text_original": "Dadl Llafur Cymru yn awr, gofal lliniarol ar ddiwedd oes. Galwaf ar Ken Skates i wneud y cynnig."
+        },
+        {
+          "id": "contribution-779037",
+          "item_id": "item-16316-261014-6",
+          "item_title_en": "5. Welsh Labour Debate: Palliative and end-of-life care",
+          "lang": "en",
+          "t_start": 8913,
+          "text_english": "Diolch yn fawr iawn. We have another couple of speakers. This debate has got a lot of speakers down for it. I may run slightly over, if you will allow me, but if I could ask the next couple of speakers just to be mindful that we will be running over. Rebeca Phillips.",
+          "text_original": "Diolch yn fawr iawn. We have another couple of speakers. This debate has got a lot of speakers down for it. I may run slightly over, if you will allow me, but if I could ask the next couple of speakers just to be mindful that we will be running over. Rebeca Phillips."
+        }
+      ],
+      "date": "2026-10-14"
+    },
     {
       "contributions": [
         {

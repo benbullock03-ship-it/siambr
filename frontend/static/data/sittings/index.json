@@ -1,5 +1,139 @@
 [
   {
+    "contribution_count": 162,
+    "date": "2026-10-14",
+    "id": "plenary-16316",
+    "item_count": 6,
+    "items": [
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16316-261014-1",
+        "order": 0,
+        "policy_domain_id": "devolution",
+        "speaker_ids": [
+          "ms-kerry-ferguson"
+        ],
+        "title_cy": "Datganiad gan y Llywydd",
+        "title_en": "Statement by the Llywydd",
+        "type": "statement"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16316-261014-2",
+        "order": 1,
+        "policy_domain_id": "education",
+        "speaker_ids": [
+          "ms-alun-cox",
+          "ms-andrew-griffin",
+          "ms-becca-martin",
+          "ms-benjamin-hodge-mckenna",
+          "ms-catherine-cullen",
+          "ms-elwyn-vaughan",
+          "ms-heledd-fychan",
+          "ms-kerry-ferguson",
+          "ms-louise-emery",
+          "ms-lyn-ackerman",
+          "ms-mike-hedges",
+          "ms-paul-davies",
+          "ms-safa-elhassan",
+          "ms-sarah-cooper-lesadd",
+          "ms-shav-taj",
+          "ms-steve-bayliss",
+          "ms-tom-montgomery",
+          "ms-zaynub-akbar"
+        ],
+        "title_cy": "1. Cwestiynau i'r Trefnydd, Prif Chwip a Gweinidog Cabinet dros Ddiwylliant a Chwaraeon",
+        "title_en": "1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport",
+        "type": "oral_questions"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16316-261014-3",
+        "order": 2,
+        "policy_domain_id": "economy",
+        "speaker_ids": [
+          "ms-anthony-slaughter",
+          "ms-becca-martin",
+          "ms-cai-parry-jones",
+          "ms-carmelo-colasanto",
+          "ms-elin-jones",
+          "ms-gareth-beer",
+          "ms-huw-thomas",
+          "ms-iain-mcintosh",
+          "ms-jayne-bryant",
+          "ms-kerry-ferguson",
+          "ms-nick-carter",
+          "ms-rebeca-phillips",
+          "ms-sam-rowlands",
+          "ms-sarah-rees",
+          "ms-stephen-senior",
+          "ms-steven-rodaway",
+          "ms-vikki-howells"
+        ],
+        "title_cy": "2. Cwestiynau i'r Gweinidog  Cabinet dros Gyllid",
+        "title_en": "2. Questions to the Cabinet Minister for Finance",
+        "type": "oral_questions"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16316-261014-4",
+        "order": 3,
+        "policy_domain_id": "devolution",
+        "speaker_ids": [
+          "ms-kerry-ferguson"
+        ],
+        "title_cy": "3. Cwestiynau Amserol",
+        "title_en": "3. Topical Questions",
+        "type": "oral_questions"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16316-261014-5",
+        "order": 4,
+        "policy_domain_id": "devolution",
+        "speaker_ids": [
+          "ms-beca-brown",
+          "ms-huw-irranca-davies",
+          "ms-kerry-ferguson",
+          "ms-mair-rowlands",
+          "ms-marc-jones",
+          "ms-rebeca-phillips",
+          "ms-safa-elhassan"
+        ],
+        "title_cy": "4. Datganiadau 90 eiliad",
+        "title_en": "4. 90-second Statements",
+        "type": "statement"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16316-261014-6",
+        "order": 5,
+        "policy_domain_id": "devolution",
+        "speaker_ids": [
+          "ms-becca-martin",
+          "ms-benjamin-hodge-mckenna",
+          "ms-huw-irranca-davies",
+          "ms-ken-skates",
+          "ms-mike-hedges",
+          "ms-natasha-asghar",
+          "ms-paul-rock",
+          "ms-rebeca-phillips",
+          "ms-shav-taj"
+        ],
+        "title_cy": "5. Dadl Llafur Cymru: Gofal lliniarol a diwedd oes",
+        "title_en": "5. Welsh Labour Debate: Palliative and end-of-life care",
+        "type": "debate"
+      }
+    ],
+    "meeting_id": 16316,
+    "meeting_start_time": "13:30:00",
+    "record_published_at": "2026-10-14T16:24:42",
+    "source_xml_url": "https://record.senedd.wales/XMLExport/Download?meetingID=16316&xmlDownloadType=BilingualTranscript",
+    "term": 7,
+    "title_cy": "Cyfarfod Llawn",
+    "title_en": "Plenary"
+  },
+  {
     "contribution_count": 217,
     "date": "2026-10-13",
     "id": "plenary-16315",

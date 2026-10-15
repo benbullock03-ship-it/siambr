@@ -3,8 +3,193 @@
   "canonical_name": "Kerry Ferguson",
   "constituency_name_cy": "Ceredigion Penfro",
   "constituency_name_en": "Ceredigion Penfro",
-  "contribution_count": 402,
+  "contribution_count": 422,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778813",
+          "item_id": "item-16316-261014-1",
+          "item_title_en": "Statement by the Llywydd",
+          "lang": "cy",
+          "t_start": 1,
+          "text_english": "Good afternoon. Before we move to our first item, it's my pleasure to announce the result of the first Member Bill ballot for the seventh Senedd, which was held today. I'm pleased to announce that the three Members selected in today's ballot are James Evans, Sam Rowlands and Llŷr Powell. Congratulations to you all. I look forward in time to seeing the proposals that you bring forward and wish you all well as the work proceeds.",
+          "text_original": "Prynhawn da. Cyn symud at yr eitem gyntaf, mae'n fraint gennyf gyhoeddi canlyniad y balot cyntaf ar gyfer Bil Aelod yn y seithfed Senedd, a gynhaliwyd heddiw. Mae'n bleser gennyf gyhoeddi mai'r tri Aelod a ddewiswyd yn y balot heddiw yw James Evans, Sam Rowlands a Llŷr Powell. Llongyfarchiadau mawr i chi i gyd. Edrychaf ymlaen at weld yr hyn y byddwch chi'n ei gynnig maes o law, a dyma ddymuno'n dda i chi wrth i'r gwaith fynd rhagddo."
+        },
+        {
+          "id": "contribution-778821",
+          "item_id": "item-16316-261014-2",
+          "item_title_en": "1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport",
+          "lang": "cy",
+          "t_start": 33,
+          "text_english": "Item 1 on our agenda today is questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport. Question 1, Tom Montgomery.",
+          "text_original": "Felly, eitem 1 ar yr agenda heddiw yw cwestiynau i'r Trefnydd, Prif Chwip a Gweinidog Cabinet dros Ddiwylliant a Chwaraeon. Cwestiwn 1, Tom Montgomery."
+        },
+        {
+          "id": "contribution-778833",
+          "item_id": "item-16316-261014-2",
+          "item_title_en": "1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport",
+          "lang": "cy",
+          "t_start": 520,
+          "text_english": "I now call on the party spokespeople to question the Cabinet Minister. The Reform UK spokesperson, Louise Emery.",
+          "text_original": "Galwaf nawr ar lefarwyr y pleidiau i holi'r Gweinidog Cabinet. Llefarydd Reform UK, Louise Emery."
+        },
+        {
+          "id": "contribution-778858",
+          "item_id": "item-16316-261014-2",
+          "item_title_en": "1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport",
+          "lang": "cy",
+          "t_start": 869,
+          "text_english": "The Welsh Labour spokesperson, Mike Hedges.",
+          "text_original": "Llefarydd Llafur Cymru, Mike Hedges."
+        },
+        {
+          "id": "contribution-778859",
+          "item_id": "item-16316-261014-2",
+          "item_title_en": "1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport",
+          "lang": "cy",
+          "t_start": 1080,
+          "text_english": "Welsh Conservative spokesperson, Paul Davies.",
+          "text_original": "Llefarydd y Ceidwadwyr Cymreig, Paul Davies."
+        },
+        {
+          "id": "contribution-778905",
+          "item_id": "item-16316-261014-2",
+          "item_title_en": "1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport",
+          "lang": "cy",
+          "t_start": 2532,
+          "text_english": "Thank you. The final question, Minister, question 8, Safa Elhassan.",
+          "text_original": "Diolch. A'r cwestiwn olaf, Weinidog, cwestiwn 8, Safa Elhassan."
+        },
+        {
+          "id": "contribution-778871",
+          "item_id": "item-16316-261014-2",
+          "item_title_en": "1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport",
+          "lang": "cy",
+          "t_start": 2719,
+          "text_english": "Thank you very much, Minister.",
+          "text_original": "Diolch yn fawr iawn i chi, Weinidog."
+        },
+        {
+          "id": "contribution-778874",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "cy",
+          "t_start": 2721,
+          "text_english": "We'll move on now to questions to the Cabinet Minister for Finance. Question 1—Rebeca Phillips.",
+          "text_original": "Ymlaen i gwestiynau i'r Gweinidog Cabinet dros Gyllid. Cwestiwn 1—Rebeca Phillips."
+        },
+        {
+          "id": "contribution-778921",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "cy",
+          "t_start": 3535,
+          "text_english": "I now call on the party spokespeople to question the Cabinet Minister. Reform UK spokesperson, Cai Parry-Jones.",
+          "text_original": "Galwaf nawr ar lefarwyr y pleidiau i holi'r Gweinidog Cabinet. Llefarydd Reform UK, Cai Parry-Jones."
+        },
+        {
+          "id": "contribution-778929",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "cy",
+          "t_start": 3989,
+          "text_english": "Welsh Labour spokesperson, Huw Thomas.",
+          "text_original": "Llefarydd Llafur Cymru, Huw Thomas."
+        },
+        {
+          "id": "contribution-778942",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "en",
+          "t_start": 4064,
+          "text_english": "Huw, can you conclude, please?",
+          "text_original": "Huw, can you conclude, please?"
+        },
+        {
+          "id": "contribution-778935",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "cy",
+          "t_start": 4335,
+          "text_english": "Welsh Conservatives' spokesperson, Sam Rowlands.",
+          "text_original": "Llefarydd y Ceidwadwyr Cymreig, Sam Rowlands."
+        },
+        {
+          "id": "contribution-778992",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "cy",
+          "t_start": 4606,
+          "text_english": "Question 3, Stephen Senior.",
+          "text_original": "Cwestiwn 3, Stephen Senior."
+        },
+        {
+          "id": "contribution-779007",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "en",
+          "t_start": 4711,
+          "text_english": "Can we have a question?",
+          "text_original": "Can we have a question?"
+        },
+        {
+          "id": "contribution-778943",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "cy",
+          "t_start": 5123,
+          "text_english": "Question 5 has been withdrawn. Question 6, Sarah Rees.",
+          "text_original": "Mae cwestiwn 5 wedi'i dynnu nôl. Cwestiwn 6, Sarah Rees."
+        },
+        {
+          "id": "contribution-778974",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "cy",
+          "t_start": 5526,
+          "text_english": "And the final question to you, Minister, question 8—Anthony Slaughter.",
+          "text_original": "A'r cwestiwn olaf i chi, Weinidog, cwestiwn 8—Anthony Slaughter."
+        },
+        {
+          "id": "contribution-778961",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "cy",
+          "t_start": 5731,
+          "text_english": "Thank you very much, Cabinet Minister.",
+          "text_original": "Diolch yn fawr iawn i chi, Weinidog."
+        },
+        {
+          "id": "contribution-778963",
+          "item_id": "item-16316-261014-4",
+          "item_title_en": "3. Topical Questions",
+          "lang": "cy",
+          "t_start": 5733,
+          "text_english": "Item 3 is topical questions. No topical questions have been accepted.",
+          "text_original": "Eitem 3 yw'r cwestiynau amserol. Ni dderbyniwyd unrhyw gwestiynau amserol."
+        },
+        {
+          "id": "contribution-778967",
+          "item_id": "item-16316-261014-5",
+          "item_title_en": "4. 90-second Statements",
+          "lang": "cy",
+          "t_start": 5738,
+          "text_english": "Therefore, we'll move on immediately to the 90-second statements. Shwmae, Rebeca Phillips.",
+          "text_original": "Felly, symudaf ymlaen yn syth i ddatganiadau 90 eiliad. Shwmae, Rebeca Phillips."
+        },
+        {
+          "id": "contribution-778995",
+          "item_id": "item-16316-261014-5",
+          "item_title_en": "4. 90-second Statements",
+          "lang": "cy",
+          "t_start": 6110,
+          "text_english": "Thank you. And finally, Safa Elhassan.",
+          "text_original": "Diolch. Ac yn olaf, Safa Elhassan."
+        }
+      ],
+      "date": "2026-10-14"
+    },
     {
       "contributions": [
         {

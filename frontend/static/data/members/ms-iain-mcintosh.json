@@ -3,8 +3,22 @@
   "canonical_name": "Iain McIntosh",
   "constituency_name_cy": "Brycheiniog Tawe Nedd",
   "constituency_name_en": "Brycheiniog Tawe Nedd",
-  "contribution_count": 27,
+  "contribution_count": 28,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778936",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "en",
+          "t_start": 3680,
+          "text_english": "I don't think so.",
+          "text_original": "I don't think so."
+        }
+      ],
+      "date": "2026-10-14"
+    },
     {
       "contributions": [
         {

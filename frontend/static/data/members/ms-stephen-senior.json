@@ -3,8 +3,40 @@
   "canonical_name": "Stephen Senior",
   "constituency_name_cy": "Sir Fynwy Torfaen",
   "constituency_name_en": "Sir Fynwy Torfaen",
-  "contribution_count": 17,
+  "contribution_count": 20,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-779000",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "3. What assessment has the Welsh Government made of the impact of the land transaction tax since its introduction in 2018? OQ64688",
+          "text_original": "3. Pa asesiad mae Llywodraeth Cymru wedi'i wneud o effaith y dreth trafodiadau tir ers ei chyflwyno yn 2018? OQ64688"
+        },
+        {
+          "id": "contribution-779003",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "en",
+          "t_start": 4640,
+          "text_english": "I've referred to my register of interest. I want to focus on two areas of concern, Minister. First, our first-time buyers—there is no first-time buyer relief in Wales. So, for example, if a first-time buyer buys a £300,000 house, they pay £4,500 more in tax than in England. The more expensive the house, the worse that gets.\n\nSecondly, Wales has now got a punishing tax for those who buy more expensive homes. For example, a £1 million home in Wales requires £62,000 worth of tax— about half as much again as in England. Now, some people might think that's good. But let me remind you all that Wales has a worryingly small tax base: 1.1  per cent of taxpayers in Wales pay additional tax, compared to 1.5 per cent in the west midlands and 1.9 per cent in the south west. We should be worried about that.\n\nMinister, Wales is getting poorer and the decisions made in this place over 27 years, which you've just reminded us of, have contributed to that. This tax policy was introduced by Mr Mark Drakeford. It acts as an incentive for young people to buy houses in England, and it acts as a disincentive for those who are more wealthy to move to Wales. Your Government claims to want a transformation of the Welsh economy—",
+          "text_original": "I've referred to my register of interest. I want to focus on two areas of concern, Minister. First, our first-time buyers—there is no first-time buyer relief in Wales. So, for example, if a first-time buyer buys a £300,000 house, they pay £4,500 more in tax than in England. The more expensive the house, the worse that gets.\n\nSecondly, Wales has now got a punishing tax for those who buy more expensive homes. For example, a £1 million home in Wales requires £62,000 worth of tax— about half as much again as in England. Now, some people might think that's good. But let me remind you all that Wales has a worryingly small tax base: 1.1  per cent of taxpayers in Wales pay additional tax, compared to 1.5 per cent in the west midlands and 1.9 per cent in the south west. We should be worried about that.\n\nMinister, Wales is getting poorer and the decisions made in this place over 27 years, which you've just reminded us of, have contributed to that. This tax policy was introduced by Mr Mark Drakeford. It acts as an incentive for young people to buy houses in England, and it acts as a disincentive for those who are more wealthy to move to Wales. Your Government claims to want a transformation of the Welsh economy—"
+        },
+        {
+          "id": "contribution-779008",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "en",
+          "t_start": 4713,
+          "text_english": "Will you consider changing this structure or, even better, set a target for its abolition?",
+          "text_original": "Will you consider changing this structure or, even better, set a target for its abolition?"
+        }
+      ],
+      "date": "2026-10-14"
+    },
     {
       "contributions": [
         {

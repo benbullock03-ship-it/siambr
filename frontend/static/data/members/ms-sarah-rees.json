@@ -3,8 +3,31 @@
   "canonical_name": "Sarah Rees",
   "constituency_name_cy": "Pen-y-bont Bro Morgannwg",
   "constituency_name_en": "Pen-y-bont Bro Morgannwg",
-  "contribution_count": 38,
+  "contribution_count": 40,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778948",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "6. How will the Cabinet Minister ensure that gender budgeting becomes an integral part of budget development, decision-making and scrutiny during this Senedd? OQ64710",
+          "text_original": "6. Sut fydd y Gweinidog Cabinet yn sicrhau bod cyllidebu rhywedd yn dod yn rhan annatod o ddatblygu, gwneud penderfyniadau a chraffu ar y gyllideb yn ystod y Senedd hon? OQ64710"
+        },
+        {
+          "id": "contribution-778950",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "en",
+          "t_start": 5163,
+          "text_english": "Diolch. I welcome that this Government is working towards its manifesto commitment to embed gender budgeting in Wales. International best practice places that responsibility for this with the Treasury—in that case, yourself, Minister—because budget decisions shape people's everyday lives. Gender budgeting can seem complex, so I'll attempt an everyday analogy: a good cook does not wait until the guests have eaten to find out whether their recipe worked. Tasting, or testing, happens beforehand, and Government should be no different. Gender budgeting is about assessing the impact of spending decisions before they are made, rather than discovering too late that they've deepened existing inequalities. The case in Wales is stark. Women are three times more likely than men to work part time, 3.5 times more likely to be economically inactive, because of caring responsibilities, and face a gender pay gap of 11.8 per cent. So, Minister, what leadership will you show to embed gender budgeting across Government?",
+          "text_original": "Diolch. I welcome that this Government is working towards its manifesto commitment to embed gender budgeting in Wales. International best practice places that responsibility for this with the Treasury—in that case, yourself, Minister—because budget decisions shape people's everyday lives. Gender budgeting can seem complex, so I'll attempt an everyday analogy: a good cook does not wait until the guests have eaten to find out whether their recipe worked. Tasting, or testing, happens beforehand, and Government should be no different. Gender budgeting is about assessing the impact of spending decisions before they are made, rather than discovering too late that they've deepened existing inequalities. The case in Wales is stark. Women are three times more likely than men to work part time, 3.5 times more likely to be economically inactive, because of caring responsibilities, and face a gender pay gap of 11.8 per cent. So, Minister, what leadership will you show to embed gender budgeting across Government?"
+        }
+      ],
+      "date": "2026-10-14"
+    },
     {
       "contributions": [
         {

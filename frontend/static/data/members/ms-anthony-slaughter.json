@@ -3,8 +3,31 @@
   "canonical_name": "Anthony Slaughter",
   "constituency_name_cy": "Caerdydd Penarth",
   "constituency_name_en": "Caerdydd Penarth",
-  "contribution_count": 22,
+  "contribution_count": 24,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778978",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "8. How will the Welsh Government's draft budget for 2027-28 ensure adequate investment in climate resilience? OQ64696",
+          "text_original": "8. Sut y bydd cyllideb ddrafft Llywodraeth Cymru ar gyfer 2027-28 yn sicrhau buddsoddiad digonol o ran gwydnwch hinsawdd? OQ64696"
+        },
+        {
+          "id": "contribution-778987",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "en",
+          "t_start": 5567,
+          "text_english": "Diolch. I'm calling on the Welsh Government to create a new extreme weather resilience fund to invest in nature-based interventions to help mitigate the risks from extreme weather. Floods, droughts and wildfires are increasingly prevalent due to climate change, and nature-based solutions are some of the best available defences to protect our communities. If the climate emergency is a genuinely cross-government priority, funding needs to sit in every departmental budget to ensure that no area slips through the cracks.\n\nEvidence from WWF Cymru and others suggests that for relatively small amounts of money within each portfolio, we could see significant cross-cutting benefits provided that all Welsh Ministers are prepared to show leadership. Can the Minister confirm the amount of money in this year's budget for climate resilience, and will you commit to reviewing existing departmental budgets to find opportunities for nature-based solutions to be ready for the next extreme weather event? Diolch.",
+          "text_original": "Diolch. I'm calling on the Welsh Government to create a new extreme weather resilience fund to invest in nature-based interventions to help mitigate the risks from extreme weather. Floods, droughts and wildfires are increasingly prevalent due to climate change, and nature-based solutions are some of the best available defences to protect our communities. If the climate emergency is a genuinely cross-government priority, funding needs to sit in every departmental budget to ensure that no area slips through the cracks.\n\nEvidence from WWF Cymru and others suggests that for relatively small amounts of money within each portfolio, we could see significant cross-cutting benefits provided that all Welsh Ministers are prepared to show leadership. Can the Minister confirm the amount of money in this year's budget for climate resilience, and will you commit to reviewing existing departmental budgets to find opportunities for nature-based solutions to be ready for the next extreme weather event? Diolch."
+        }
+      ],
+      "date": "2026-10-14"
+    },
     {
       "contributions": [
         {
