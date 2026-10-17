@@ -3,7 +3,7 @@
   "canonical_name": "Huw Irranca-Davies",
   "constituency_name_cy": "Afan Ogwr Rhondda",
   "constituency_name_en": "Afan Ogwr Rhondda",
-  "contribution_count": 689,
+  "contribution_count": 711,
   "contributions_by_date": [
     {
       "contributions": [
@@ -12,7 +12,7 @@
           "item_id": "item-16316-261014-5",
           "item_title_en": "4. 90-second Statements",
           "lang": "cy",
-          "t_start": 6230,
+          "t_start": 6239,
           "text_english": "Thank you very much, everyone.",
           "text_original": "Diolch yn fawr iawn, bawb."
         },
@@ -21,18 +21,144 @@
           "item_id": "item-16316-261014-6",
           "item_title_en": "5. Welsh Labour Debate: Palliative and end-of-life care",
           "lang": "cy",
-          "t_start": 6232,
+          "t_start": 6241,
           "text_english": "The Welsh Labour debate now on palliative and end-of-life care. I call on Ken Skates to move the motion.",
           "text_original": "Dadl Llafur Cymru yn awr, gofal lliniarol ar ddiwedd oes. Galwaf ar Ken Skates i wneud y cynnig."
+        },
+        {
+          "id": "contribution-779023",
+          "item_id": "item-16316-261014-6",
+          "item_title_en": "5. Welsh Labour Debate: Palliative and end-of-life care",
+          "lang": "en",
+          "t_start": 7342,
+          "text_english": "You need to conclude now, please.",
+          "text_original": "You need to conclude now, please."
         },
         {
           "id": "contribution-779037",
           "item_id": "item-16316-261014-6",
           "item_title_en": "5. Welsh Labour Debate: Palliative and end-of-life care",
           "lang": "en",
-          "t_start": 8913,
+          "t_start": 8922,
           "text_english": "Diolch yn fawr iawn. We have another couple of speakers. This debate has got a lot of speakers down for it. I may run slightly over, if you will allow me, but if I could ask the next couple of speakers just to be mindful that we will be running over. Rebeca Phillips.",
           "text_original": "Diolch yn fawr iawn. We have another couple of speakers. This debate has got a lot of speakers down for it. I may run slightly over, if you will allow me, but if I could ask the next couple of speakers just to be mindful that we will be running over. Rebeca Phillips."
+        },
+        {
+          "id": "contribution-779042",
+          "item_id": "item-16316-261014-6",
+          "item_title_en": "5. Welsh Labour Debate: Palliative and end-of-life care",
+          "lang": "cy",
+          "t_start": 9315,
+          "text_english": "I call on Cabinet Minister for Health and Care, Mabon ap Gwynfor.",
+          "text_original": "Galwaf ar y Gweinidog Cabinet dros Iechyd a Gofal, Mabon ap Gwynfor."
+        },
+        {
+          "id": "contribution-779051",
+          "item_id": "item-16316-261014-6",
+          "item_title_en": "5. Welsh Labour Debate: Palliative and end-of-life care",
+          "lang": "cy",
+          "t_start": 9867,
+          "text_english": "I call on Ken Skates to reply to the debate.",
+          "text_original": "Galwaf ar Ken Skates i ymateb i'r ddadl."
+        },
+        {
+          "id": "contribution-779049",
+          "item_id": "item-16316-261014-6",
+          "item_title_en": "5. Welsh Labour Debate: Palliative and end-of-life care",
+          "lang": "cy",
+          "t_start": 10163,
+          "text_english": "The proposal is to agree the motion without amendment. Does any Member object? There are no objections. The motion is therefore agreed in accordance with Standing Order 12.36. Thank you.",
+          "text_original": "Y cwestiwn yw: a ddylid derbyn y cynnig heb ei ddiwygio? A oes unrhyw Aelod yn gwrthwynebu? Nac oes. Felly, derbynnir y cynnig yn unol â Rheol Sefydlog 12.36. Diolch yn fawr."
+        },
+        {
+          "id": "contribution-779142",
+          "item_id": "item-16316-261014-8",
+          "item_title_en": "7. Voting Time",
+          "lang": "cy",
+          "t_start": 13687,
+          "text_english": "That brings us to item 7, voting time. Unless five Members wish for the bell to be rung, I will proceed directly to voting time. Okay. I call for a vote on the motion tabled in the name of Llŷr Powell. If the proposal is not agreed, we will vote on the amendment tabled to the motion. Open the vote. Close the vote. The result of the vote is as follows: in favour 35, no abstentions, 51 against. The motion is therefore not agreed.",
+          "text_original": "Rydyn ni'n cyrraedd eitem 7, y cyfnod pleidleisio. Oni bai bod pump Aelod yn dymuno imi ganu'r gloch, symudaf yn syth i'r cyfnod pleidleisio. Iawn. Galwaf am bleidlais ar y cynnig a gyflwynwyd yn enw Llŷr Powell. Os gwrthodir y cynnig, byddwn yn pleidleisio ar y gwelliant a gyflwynwyd i'r cynnig. Agorwch y bleidlais. Caewch y bleidlais. Dyma ganlyniad y bleidlais: o blaid 35, neb yn ymatal, yn erbyn 51. Mae'r cynnig wedi ei wrthod."
+        },
+        {
+          "id": "contribution-779121",
+          "item_id": "item-16316-261014-8",
+          "item_title_en": "7. Voting Time",
+          "lang": "cy",
+          "t_start": 13835,
+          "text_english": "I now call for a vote on amendment 1, tabled in the name of Heledd Fychan. Open the vote. Close the vote. The result of the vote is as follows: in favour 51, no abstentions, 35 against. Amendment 1 is therefore agreed.",
+          "text_original": "Galwaf am bleidlais ar welliant 1 nawr, a gyflwynwyd yn enw Heledd Fychan. Agorwch y bleidlais. Caewch y bleidlais. Dyma ganlyniad y bleidlais: o blaid 51, neb yn ymatal, yn erbyn 35. Mae gwelliant 1 wedi ei dderbyn."
+        },
+        {
+          "id": "contribution-779152",
+          "item_id": "item-16316-261014-8",
+          "item_title_en": "7. Voting Time",
+          "lang": "cy",
+          "t_start": 13913,
+          "text_english": "I now call for a vote on the motion as amended.",
+          "text_original": "Galwaf nawr am bleidlais ar y cynnig wedi ei ddiwygio."
+        },
+        {
+          "id": "contribution-779126",
+          "item_id": "item-16316-261014-8",
+          "item_title_en": "7. Voting Time",
+          "lang": "cy",
+          "t_start": 13918,
+          "text_english": "Open the vote. Close the vote. The result of the vote is as follows: in favour 51, no abstentions, 35 against. The motion as amended is agreed. Thank you very much.",
+          "text_original": "Agorwch y bleidlais. Caewch y bleidlais. Dyma ganlyniad y bleidlais: o blaid 51, neb yn ymatal, yn erbyn 35. Mae'r cynnig wedi ei ddiwygio wedi ei dderbyn. Diolch yn fawr."
+        },
+        {
+          "id": "contribution-779129",
+          "item_id": "item-16316-261014-8",
+          "item_title_en": "7. Voting Time",
+          "lang": "en",
+          "t_start": 13970,
+          "text_english": "Could I ask Members who are leaving the Chamber to do so quickly and silently, please? Quickly and silently, please.",
+          "text_original": "Could I ask Members who are leaving the Chamber to do so quickly and silently, please? Quickly and silently, please."
+        },
+        {
+          "id": "contribution-779133",
+          "item_id": "item-16316-261014-9",
+          "item_title_en": "8. Short Debate: Green across the aisle: Making environmental stewardship a common cause",
+          "lang": "cy",
+          "t_start": 14003,
+          "text_english": "We'll move now to item 8, the short debate. I call on David Mills to speak to the topic that he has chosen.",
+          "text_original": "Symudwn nawr at eitem 8, y ddadl fer. Galwaf ar David Mills i siarad am y pwnc a ddewiswyd ganddo."
+        },
+        {
+          "id": "contribution-779135",
+          "item_id": "item-16316-261014-9",
+          "item_title_en": "8. Short Debate: Green across the aisle: Making environmental stewardship a common cause",
+          "lang": "en",
+          "t_start": 14016,
+          "text_english": "Yes.",
+          "text_original": "Yes."
+        },
+        {
+          "id": "contribution-779147",
+          "item_id": "item-16316-261014-9",
+          "item_title_en": "8. Short Debate: Green across the aisle: Making environmental stewardship a common cause",
+          "lang": "en",
+          "t_start": 14933,
+          "text_english": "Minister, a challenge.",
+          "text_original": "Minister, a challenge."
+        },
+        {
+          "id": "contribution-779148",
+          "item_id": "item-16316-261014-9",
+          "item_title_en": "8. Short Debate: Green across the aisle: Making environmental stewardship a common cause",
+          "lang": "cy",
+          "t_start": 14934,
+          "text_english": "I call on the Cabinet Minister for Rural Resilience and Sustainability to reply to the debate—Llyr Gruffydd.",
+          "text_original": "Galwaf ar y Gweinidog Cabinet dros Wydnwch Gwledig a Chynaliadwyedd i ymateb i'r ddadl—Llyr Gruffydd."
+        },
+        {
+          "id": "contribution-779163",
+          "item_id": "item-16316-261014-9",
+          "item_title_en": "8. Short Debate: Green across the aisle: Making environmental stewardship a common cause",
+          "lang": "cy",
+          "t_start": 15916,
+          "text_english": "I thank the Cabinet Minister and I thank Members too. That brings today's proceedings to a close.",
+          "text_original": "Diolch i'r Gweinidog Cabinet, a diolch i'r Aelodau hefyd. Daw hynny â thrafodion heddiw i ben."
         }
       ],
       "date": "2026-10-14"
@@ -44,16 +170,16 @@
           "item_id": "item-16315-261013-1",
           "item_title_en": "1. Questions to the First Minister",
           "lang": "en",
-          "t_start": 2,
-          "text_english": "Prynhawn da, bawb. Good afternoon, everybody.",
-          "text_original": "Prynhawn da, bawb. Good afternoon, everybody."
+          "t_start": 11,
+          "text_english": "Prynhawn da, bawb—good afternoon, everybody.",
+          "text_original": "Prynhawn da, bawb—good afternoon, everybody."
         },
         {
           "id": "contribution-778352",
           "item_id": "item-16315-261013-1",
           "item_title_en": "1. Questions to the First Minister",
           "lang": "cy",
-          "t_start": 5,
+          "t_start": 14,
           "text_english": "We will move immediately now to item 1, questions to the First Minister. Question 1, Alun Cox.",
           "text_original": "Symudwn nawr yn syth at eitem 1, cwestiynau i'r Prif Weinidog. Cwestiwn 1, Alun Cox."
         },
@@ -62,7 +188,7 @@
           "item_id": "item-16315-261013-1",
           "item_title_en": "1. Questions to the First Minister",
           "lang": "cy",
-          "t_start": 717,
+          "t_start": 726,
           "text_english": "I now call the party leaders to question the First Minister. First of all, the leader of Reform UK, Helen Jenner.",
           "text_original": "Galwaf yn awr ar arweinwyr y pleidiau i holi'r Prif Weinidog. Yn gyntaf, arweinydd Reform UK, Helen Jenner."
         },
@@ -71,7 +197,7 @@
           "item_id": "item-16315-261013-1",
           "item_title_en": "1. Questions to the First Minister",
           "lang": "cy",
-          "t_start": 1127,
+          "t_start": 1136,
           "text_english": "Leader of Welsh Labour now—Ken Skates.",
           "text_original": "Arweinydd Llafur Cymru nawr—Ken Skates."
         },
@@ -80,7 +206,7 @@
           "item_id": "item-16315-261013-1",
           "item_title_en": "1. Questions to the First Minister",
           "lang": "cy",
-          "t_start": 1352,
+          "t_start": 1361,
           "text_english": "Leader of the Welsh Conservatives, Darren Millar.",
           "text_original": "Arweinydd y Ceidwadwyr Cymreig, Darren Millar."
         },
@@ -89,7 +215,7 @@
           "item_id": "item-16315-261013-1",
           "item_title_en": "1. Questions to the First Minister",
           "lang": "cy",
-          "t_start": 1560,
+          "t_start": 1569,
           "text_english": "A question, please, Darren.",
           "text_original": "Cwestiwn, Darren."
         },
@@ -98,7 +224,7 @@
           "item_id": "item-16315-261013-1",
           "item_title_en": "1. Questions to the First Minister",
           "lang": "cy",
-          "t_start": 2886,
+          "t_start": 2895,
           "text_english": "Question, please, Peter.",
           "text_original": "Cwestiwn, plis, Peter."
         },
@@ -107,7 +233,7 @@
           "item_id": "item-16315-261013-1",
           "item_title_en": "1. Questions to the First Minister",
           "lang": "cy",
-          "t_start": 3550,
+          "t_start": 3559,
           "text_english": "Finally, First Minister, question 10, Anthony Slaughter.",
           "text_original": "Yn olaf, Brif Weinidog, cwestiwn 10, Anthony Slaughter."
         },
@@ -116,7 +242,7 @@
           "item_id": "item-16315-261013-1",
           "item_title_en": "1. Questions to the First Minister",
           "lang": "cy",
-          "t_start": 3683,
+          "t_start": 3692,
           "text_english": "Thank you, First Minister.",
           "text_original": "Diolch, Brif Weinidog."
         },
@@ -125,7 +251,7 @@
           "item_id": "item-16315-261013-2",
           "item_title_en": "2. Business Statement and Announcement",
           "lang": "cy",
-          "t_start": 3685,
+          "t_start": 3694,
           "text_english": "Item 2 now, the business statement and announcement. And I call on the Trefnydd, Heledd Fychan.",
           "text_original": "Eitem 2 nawr, y datganiad a chyhoeddiad busnes. Galwaf ar y Trefnydd, Heledd Fychan."
         },
@@ -134,7 +260,7 @@
           "item_id": "item-16315-261013-2",
           "item_title_en": "2. Business Statement and Announcement",
           "lang": "cy",
-          "t_start": 5282,
+          "t_start": 5291,
           "text_english": "Finally, Trefnydd, Janet Finch-Saunders.",
           "text_original": "Yn olaf, Drefnydd, Janet Finch-Saunders."
         },
@@ -143,7 +269,7 @@
           "item_id": "item-16315-261013-4",
           "item_title_en": "4. Statement by the Cabinet Minister for Rural Resilience and Sustainability: Winter preparedness: Be flood ready",
           "lang": "cy",
-          "t_start": 10697,
+          "t_start": 10706,
           "text_english": "Thank you, Cabinet Minister.",
           "text_original": "Diolch, Weinidog Cabinet."
         },
@@ -152,16 +278,16 @@
           "item_id": "item-16315-261013-5",
           "item_title_en": "5. Statement by the Cabinet Minister for Health and Care: Update on winter preparedness",
           "lang": "cy",
-          "t_start": 10700,
-          "text_english": "We'll move on now to item 5, a statement by the Cabinet Minister for Health and Care, an update on winter preparedness. I call on the Cabinet Minister for Health and Care—Mabon ap Gwynfor.",
-          "text_original": "Symudwn at eitem 5 nawr, datganiad gan y Gweinidog Cabinet dros Iechyd a Gofal, diweddariad ar barodrwydd ar gyfer y gaeaf. Galwaf ar y Gweinidog Cabinet dros Iechyd a Gofal—Mabon ap Gwynfor."
+          "t_start": 10709,
+          "text_english": "We'll move on now to item 5, a statement by the Cabinet Minister for Health and Care, an update on winter preparedness. I call on the Cabinet Minister for Health and Care, Mabon ap Gwynfor.",
+          "text_original": "Symudwn at eitem 5 nawr, datganiad gan y Gweinidog Cabinet dros Iechyd a Gofal, diweddariad ar barodrwydd ar gyfer y gaeaf. Galwaf ar y Gweinidog Cabinet dros Iechyd a Gofal, Mabon ap Gwynfor."
         },
         {
           "id": "contribution-778596",
           "item_id": "item-16315-261013-5",
           "item_title_en": "5. Statement by the Cabinet Minister for Health and Care: Update on winter preparedness",
           "lang": "cy",
-          "t_start": 12682,
+          "t_start": 12691,
           "text_english": "We'll move now to one-minute contributions and questions. I have a number of Members who wish to speak.",
           "text_original": "Symudwn nawr at gyfraniadau a chwestiynau un funud. Mae gennyf lawer o Aelodau sydd am siarad."
         },
@@ -170,16 +296,16 @@
           "item_id": "item-16315-261013-5",
           "item_title_en": "5. Statement by the Cabinet Minister for Health and Care: Update on winter preparedness",
           "lang": "en",
-          "t_start": 12691,
-          "text_english": "Let's do our best; we'll keep it really tight. Let's see how many people we can get in.",
-          "text_original": "Let's do our best; we'll keep it really tight. Let's see how many people we can get in."
+          "t_start": 12698,
+          "text_english": "Let's do our best. If we keep it really tight, let's see how many people we can get in.",
+          "text_original": "Let's do our best. If we keep it really tight, let's see how many people we can get in."
         },
         {
           "id": "contribution-778599",
           "item_id": "item-16315-261013-5",
           "item_title_en": "5. Statement by the Cabinet Minister for Health and Care: Update on winter preparedness",
           "lang": "cy",
-          "t_start": 12695,
+          "t_start": 12703,
           "text_english": "We start with Elyn Stephens.",
           "text_original": "Rydym ni'n dechrau gyda Elyn Stephens."
         },
@@ -188,7 +314,7 @@
           "item_id": "item-16315-261013-5",
           "item_title_en": "5. Statement by the Cabinet Minister for Health and Care: Update on winter preparedness",
           "lang": "en",
-          "t_start": 12906,
+          "t_start": 12915,
           "text_english": "Question, please.",
           "text_original": "Question, please."
         },
@@ -197,9 +323,81 @@
           "item_id": "item-16315-261013-5",
           "item_title_en": "5. Statement by the Cabinet Minister for Health and Care: Update on winter preparedness",
           "lang": "cy",
-          "t_start": 13380,
+          "t_start": 13389,
           "text_english": "Finally, James Evans.",
           "text_original": "Yn olaf, James Evans."
+        },
+        {
+          "id": "contribution-778607",
+          "item_id": "item-16315-261013-5",
+          "item_title_en": "5. Statement by the Cabinet Minister for Health and Care: Update on winter preparedness",
+          "lang": "cy",
+          "t_start": 13544,
+          "text_english": "Thank you, Cabinet Minister.",
+          "text_original": "Diolch, Weinidog Cabinet."
+        },
+        {
+          "id": "contribution-778606",
+          "item_id": "item-16315-261013-6",
+          "item_title_en": "6. Statement by the Deputy Minister for Transport: Climate Adaptation and Resilience in Wales's Transport Network",
+          "lang": "cy",
+          "t_start": 13546,
+          "text_english": "A statement now from the Deputy Minister for Transport, climate adaptation and resilience in Wales's transport network. I call on the Deputy Minister for Transport, Mark Hooper.",
+          "text_original": "Datganiad nawr gan y Dirprwy Weinidog dros Drafnidiaeth, addasu i'r hinsawdd a gwydnwch yn rhwydwaith trafnidiaeth Cymru. Galwaf ar y Dirprwy Weinidog dros Drafnidiaeth, Mark Hooper."
+        },
+        {
+          "id": "contribution-778682",
+          "item_id": "item-16315-261013-6",
+          "item_title_en": "6. Statement by the Deputy Minister for Transport: Climate Adaptation and Resilience in Wales's Transport Network",
+          "lang": "en",
+          "t_start": 15213,
+          "text_english": "Janet Finch-Saunders.",
+          "text_original": "Janet Finch-Saunders."
+        },
+        {
+          "id": "contribution-778627",
+          "item_id": "item-16315-261013-6",
+          "item_title_en": "6. Statement by the Deputy Minister for Transport: Climate Adaptation and Resilience in Wales's Transport Network",
+          "lang": "cy",
+          "t_start": 15532,
+          "text_english": "Deputy Minister.",
+          "text_original": "Ddirprwy Weinidog."
+        },
+        {
+          "id": "contribution-778666",
+          "item_id": "item-16315-261013-6",
+          "item_title_en": "6. Statement by the Deputy Minister for Transport: Climate Adaptation and Resilience in Wales's Transport Network",
+          "lang": "cy",
+          "t_start": 15740,
+          "text_english": "One-minute contributions now.",
+          "text_original": "Cyfraniadau un munud nawr."
+        },
+        {
+          "id": "contribution-778667",
+          "item_id": "item-16315-261013-6",
+          "item_title_en": "6. Statement by the Deputy Minister for Transport: Climate Adaptation and Resilience in Wales's Transport Network",
+          "lang": "en",
+          "t_start": 15743,
+          "text_english": "I think I can get everybody in, if we keep the questions tight and the answers even tighter, Minister. With your help, we can do this. Letitia Gonzalez.",
+          "text_original": "I think I can get everybody in, if we keep the questions tight and the answers even tighter, Minister. With your help, we can do this. Letitia Gonzalez."
+        },
+        {
+          "id": "contribution-778671",
+          "item_id": "item-16315-261013-6",
+          "item_title_en": "6. Statement by the Deputy Minister for Transport: Climate Adaptation and Resilience in Wales's Transport Network",
+          "lang": "cy",
+          "t_start": 15923,
+          "text_english": "Deputy Minister.",
+          "text_original": "Ddirprwy Weinidog."
+        },
+        {
+          "id": "contribution-778691",
+          "item_id": "item-16315-261013-6",
+          "item_title_en": "6. Statement by the Deputy Minister for Transport: Climate Adaptation and Resilience in Wales's Transport Network",
+          "lang": "cy",
+          "t_start": 16085,
+          "text_english": "Finally, Anna Nicholl.",
+          "text_original": "Yn olaf, Anna Nicholl."
         }
       ],
       "date": "2026-10-13"

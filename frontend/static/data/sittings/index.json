@@ -1,9 +1,9 @@
 [
   {
-    "contribution_count": 162,
+    "contribution_count": 194,
     "date": "2026-10-14",
     "id": "plenary-16316",
-    "item_count": 6,
+    "item_count": 8,
     "items": [
       {
         "classification_provenance": "PROVENANCE_DERIVED",
@@ -112,32 +112,67 @@
         "speaker_ids": [
           "ms-becca-martin",
           "ms-benjamin-hodge-mckenna",
+          "ms-cristiana-emsley",
+          "ms-elfed-williams",
           "ms-huw-irranca-davies",
+          "ms-james-evans",
           "ms-ken-skates",
+          "ms-mabon-ap-gwynfor",
           "ms-mike-hedges",
           "ms-natasha-asghar",
           "ms-paul-rock",
           "ms-rebeca-phillips",
+          "ms-sam-rowlands",
           "ms-shav-taj"
         ],
         "title_cy": "5. Dadl Llafur Cymru: Gofal lliniarol a diwedd oes",
         "title_en": "5. Welsh Labour Debate: Palliative and end-of-life care",
         "type": "debate"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16316-261014-8",
+        "order": 6,
+        "policy_domain_id": "devolution",
+        "speaker_ids": [
+          "ms-huw-irranca-davies"
+        ],
+        "title_cy": "7. Cyfnod Pleidleisio",
+        "title_en": "7. Voting Time",
+        "type": "debate"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16316-261014-9",
+        "order": 7,
+        "policy_domain_id": "transport",
+        "speaker_ids": [
+          "ms-anna-nicholl",
+          "ms-david-mills",
+          "ms-huw-irranca-davies",
+          "ms-james-evans",
+          "ms-john-clark",
+          "ms-llyr-gruffydd",
+          "ms-paul-rock"
+        ],
+        "title_cy": "8. Dadl Fer: Gwyrdd i bawb: Gwneud stiwardiaeth amgylcheddol yn achos cyffredin",
+        "title_en": "8. Short Debate: Green across the aisle: Making environmental stewardship a common cause",
+        "type": "debate"
       }
     ],
     "meeting_id": 16316,
-    "meeting_start_time": "13:30:00",
-    "record_published_at": "2026-10-14T16:24:42",
+    "meeting_start_time": "13:30:01",
+    "record_published_at": "2026-10-16T15:39:12",
     "source_xml_url": "https://record.senedd.wales/XMLExport/Download?meetingID=16316&xmlDownloadType=BilingualTranscript",
     "term": 7,
     "title_cy": "Cyfarfod Llawn",
     "title_en": "Plenary"
   },
   {
-    "contribution_count": 217,
+    "contribution_count": 263,
     "date": "2026-10-13",
     "id": "plenary-16315",
-    "item_count": 5,
+    "item_count": 8,
     "items": [
       {
         "classification_provenance": "PROVENANCE_DERIVED",
@@ -219,8 +254,8 @@
           "ms-kerry-ferguson",
           "ms-vikki-howells"
         ],
-        "title_cy": "3. Datganiad gan y Gweinidog Cabinet dros Effeithiolrwydd Llywodraeth a’r Cyfansoddiad: Y camau nesaf ar gyfer Gorchymyn Dynodi Parc Cenedlaethol Glyndŵr",
-        "title_en": "3. Statement by the Cabinet Minister for Government Effectiveness and the Constitution: The next steps for the Glyndŵr National Park Designation Order",
+        "title_cy": "3. Datganiad gan y Gweinidog Cabinet dros Effeithiolrwydd Llywodraeth a’r Cyfansoddiad: Y camau nesaf ar gyfer Gorchymyn (Dynodi) Parc Cenedlaethol Glyndŵr",
+        "title_en": "3. Statement by the Cabinet Minister for Government Effectiveness and the Constitution: The next steps for the Glyndŵr National Park (Designation) Order",
         "type": "statement"
       },
       {
@@ -263,18 +298,71 @@
           "ms-jane-dodds",
           "ms-ken-skates",
           "ms-mabon-ap-gwynfor",
-          "ms-mark-hooper",
           "ms-natasha-asghar",
           "ms-rebeca-phillips"
         ],
         "title_cy": "5. Datganiad gan y Gweinidog Cabinet dros Iechyd a Gofal: Diweddariad ar barodrwydd ar gyfer y gaeaf",
         "title_en": "5. Statement by the Cabinet Minister for Health and Care: Update on winter preparedness",
         "type": "statement"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16315-261013-6",
+        "order": 5,
+        "policy_domain_id": "transport",
+        "speaker_ids": [
+          "ms-anna-nicholl",
+          "ms-gareth-beer",
+          "ms-huw-irranca-davies",
+          "ms-janet-finch-saunders",
+          "ms-jason-o-connell",
+          "ms-kerry-ferguson",
+          "ms-leticia-gonzalez",
+          "ms-mark-hooper",
+          "ms-paul-rock",
+          "ms-vikki-howells"
+        ],
+        "title_cy": "6. Datganiad gan y Dirprwy Weinidog dros Drafnidiaeth: Addasu i'r Hinsawdd a Gwydnwch yn Rhwydwaith Trafnidiaeth Cymru",
+        "title_en": "6. Statement by the Deputy Minister for Transport: Climate Adaptation and Resilience in Wales's Transport Network",
+        "type": "statement"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16315-261013-7",
+        "order": 6,
+        "policy_domain_id": "devolution",
+        "speaker_ids": [
+          "ms-catherine-cullen",
+          "ms-cristiana-emsley",
+          "ms-kerry-ferguson",
+          "ms-sioned-williams"
+        ],
+        "title_cy": "7. Gorchymyn Eithriadau Gwarchod Plant a Gofal Dydd (Dirymu a Darpariaeth Drosiannol) (Cymru) (Diwygio) 2026",
+        "title_en": "7. The Child Minding and Day Care Exceptions (Revocation and Transitional Provision) (Wales) (Amendment) Order 2026",
+        "type": "debate"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16315-261013-8",
+        "order": 7,
+        "policy_domain_id": "devolution",
+        "speaker_ids": [
+          "ms-cristiana-emsley",
+          "ms-gareth-thomas",
+          "ms-gwyn-williams",
+          "ms-james-evans",
+          "ms-kerry-ferguson",
+          "ms-sioned-williams",
+          "ms-zaynub-akbar"
+        ],
+        "title_cy": "8. Cynnig Cydsyniad Deddfwriaethol: Bil y Lluoedd Arfog",
+        "title_en": "8. Legislative Consent Motion: The Armed Forces Bill",
+        "type": "bill_stage"
       }
     ],
     "meeting_id": 16315,
-    "meeting_start_time": "13:30:00",
-    "record_published_at": "2026-10-13T17:58:45",
+    "meeting_start_time": "13:30:02",
+    "record_published_at": "2026-10-16T18:02:05",
     "source_xml_url": "https://record.senedd.wales/XMLExport/Download?meetingID=16315&xmlDownloadType=BilingualTranscript",
     "term": 7,
     "title_cy": "Cyfarfod Llawn",

@@ -3,7 +3,7 @@
   "canonical_name": "Kerry Ferguson",
   "constituency_name_cy": "Ceredigion Penfro",
   "constituency_name_en": "Ceredigion Penfro",
-  "contribution_count": 422,
+  "contribution_count": 433,
   "contributions_by_date": [
     {
       "contributions": [
@@ -12,7 +12,7 @@
           "item_id": "item-16316-261014-1",
           "item_title_en": "Statement by the Llywydd",
           "lang": "cy",
-          "t_start": 1,
+          "t_start": 10,
           "text_english": "Good afternoon. Before we move to our first item, it's my pleasure to announce the result of the first Member Bill ballot for the seventh Senedd, which was held today. I'm pleased to announce that the three Members selected in today's ballot are James Evans, Sam Rowlands and Llŷr Powell. Congratulations to you all. I look forward in time to seeing the proposals that you bring forward and wish you all well as the work proceeds.",
           "text_original": "Prynhawn da. Cyn symud at yr eitem gyntaf, mae'n fraint gennyf gyhoeddi canlyniad y balot cyntaf ar gyfer Bil Aelod yn y seithfed Senedd, a gynhaliwyd heddiw. Mae'n bleser gennyf gyhoeddi mai'r tri Aelod a ddewiswyd yn y balot heddiw yw James Evans, Sam Rowlands a Llŷr Powell. Llongyfarchiadau mawr i chi i gyd. Edrychaf ymlaen at weld yr hyn y byddwch chi'n ei gynnig maes o law, a dyma ddymuno'n dda i chi wrth i'r gwaith fynd rhagddo."
         },
@@ -21,7 +21,7 @@
           "item_id": "item-16316-261014-2",
           "item_title_en": "1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport",
           "lang": "cy",
-          "t_start": 33,
+          "t_start": 42,
           "text_english": "Item 1 on our agenda today is questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport. Question 1, Tom Montgomery.",
           "text_original": "Felly, eitem 1 ar yr agenda heddiw yw cwestiynau i'r Trefnydd, Prif Chwip a Gweinidog Cabinet dros Ddiwylliant a Chwaraeon. Cwestiwn 1, Tom Montgomery."
         },
@@ -30,7 +30,7 @@
           "item_id": "item-16316-261014-2",
           "item_title_en": "1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport",
           "lang": "cy",
-          "t_start": 520,
+          "t_start": 529,
           "text_english": "I now call on the party spokespeople to question the Cabinet Minister. The Reform UK spokesperson, Louise Emery.",
           "text_original": "Galwaf nawr ar lefarwyr y pleidiau i holi'r Gweinidog Cabinet. Llefarydd Reform UK, Louise Emery."
         },
@@ -39,7 +39,7 @@
           "item_id": "item-16316-261014-2",
           "item_title_en": "1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport",
           "lang": "cy",
-          "t_start": 869,
+          "t_start": 878,
           "text_english": "The Welsh Labour spokesperson, Mike Hedges.",
           "text_original": "Llefarydd Llafur Cymru, Mike Hedges."
         },
@@ -48,7 +48,7 @@
           "item_id": "item-16316-261014-2",
           "item_title_en": "1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport",
           "lang": "cy",
-          "t_start": 1080,
+          "t_start": 1089,
           "text_english": "Welsh Conservative spokesperson, Paul Davies.",
           "text_original": "Llefarydd y Ceidwadwyr Cymreig, Paul Davies."
         },
@@ -57,7 +57,7 @@
           "item_id": "item-16316-261014-2",
           "item_title_en": "1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport",
           "lang": "cy",
-          "t_start": 2532,
+          "t_start": 2541,
           "text_english": "Thank you. The final question, Minister, question 8, Safa Elhassan.",
           "text_original": "Diolch. A'r cwestiwn olaf, Weinidog, cwestiwn 8, Safa Elhassan."
         },
@@ -66,7 +66,7 @@
           "item_id": "item-16316-261014-2",
           "item_title_en": "1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport",
           "lang": "cy",
-          "t_start": 2719,
+          "t_start": 2728,
           "text_english": "Thank you very much, Minister.",
           "text_original": "Diolch yn fawr iawn i chi, Weinidog."
         },
@@ -75,7 +75,7 @@
           "item_id": "item-16316-261014-3",
           "item_title_en": "2. Questions to the Cabinet Minister for Finance",
           "lang": "cy",
-          "t_start": 2721,
+          "t_start": 2730,
           "text_english": "We'll move on now to questions to the Cabinet Minister for Finance. Question 1—Rebeca Phillips.",
           "text_original": "Ymlaen i gwestiynau i'r Gweinidog Cabinet dros Gyllid. Cwestiwn 1—Rebeca Phillips."
         },
@@ -84,7 +84,7 @@
           "item_id": "item-16316-261014-3",
           "item_title_en": "2. Questions to the Cabinet Minister for Finance",
           "lang": "cy",
-          "t_start": 3535,
+          "t_start": 3544,
           "text_english": "I now call on the party spokespeople to question the Cabinet Minister. Reform UK spokesperson, Cai Parry-Jones.",
           "text_original": "Galwaf nawr ar lefarwyr y pleidiau i holi'r Gweinidog Cabinet. Llefarydd Reform UK, Cai Parry-Jones."
         },
@@ -93,7 +93,7 @@
           "item_id": "item-16316-261014-3",
           "item_title_en": "2. Questions to the Cabinet Minister for Finance",
           "lang": "cy",
-          "t_start": 3989,
+          "t_start": 3998,
           "text_english": "Welsh Labour spokesperson, Huw Thomas.",
           "text_original": "Llefarydd Llafur Cymru, Huw Thomas."
         },
@@ -102,7 +102,7 @@
           "item_id": "item-16316-261014-3",
           "item_title_en": "2. Questions to the Cabinet Minister for Finance",
           "lang": "en",
-          "t_start": 4064,
+          "t_start": 4073,
           "text_english": "Huw, can you conclude, please?",
           "text_original": "Huw, can you conclude, please?"
         },
@@ -111,25 +111,16 @@
           "item_id": "item-16316-261014-3",
           "item_title_en": "2. Questions to the Cabinet Minister for Finance",
           "lang": "cy",
-          "t_start": 4335,
+          "t_start": 4344,
           "text_english": "Welsh Conservatives' spokesperson, Sam Rowlands.",
           "text_original": "Llefarydd y Ceidwadwyr Cymreig, Sam Rowlands."
-        },
-        {
-          "id": "contribution-778992",
-          "item_id": "item-16316-261014-3",
-          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
-          "lang": "cy",
-          "t_start": 4606,
-          "text_english": "Question 3, Stephen Senior.",
-          "text_original": "Cwestiwn 3, Stephen Senior."
         },
         {
           "id": "contribution-779007",
           "item_id": "item-16316-261014-3",
           "item_title_en": "2. Questions to the Cabinet Minister for Finance",
           "lang": "en",
-          "t_start": 4711,
+          "t_start": 4720,
           "text_english": "Can we have a question?",
           "text_original": "Can we have a question?"
         },
@@ -138,26 +129,26 @@
           "item_id": "item-16316-261014-3",
           "item_title_en": "2. Questions to the Cabinet Minister for Finance",
           "lang": "cy",
-          "t_start": 5123,
-          "text_english": "Question 5 has been withdrawn. Question 6, Sarah Rees.",
-          "text_original": "Mae cwestiwn 5 wedi'i dynnu nôl. Cwestiwn 6, Sarah Rees."
+          "t_start": 5132,
+          "text_english": "Question 5 [OQ64693] has been withdrawn. Question 6, Sarah Rees.",
+          "text_original": "Mae cwestiwn 5 [OQ64693] wedi'i dynnu nôl. Cwestiwn 6, Sarah Rees."
         },
         {
           "id": "contribution-778974",
           "item_id": "item-16316-261014-3",
           "item_title_en": "2. Questions to the Cabinet Minister for Finance",
           "lang": "cy",
-          "t_start": 5526,
-          "text_english": "And the final question to you, Minister, question 8—Anthony Slaughter.",
-          "text_original": "A'r cwestiwn olaf i chi, Weinidog, cwestiwn 8—Anthony Slaughter."
+          "t_start": 5535,
+          "text_english": "The final question to you, Minister, is question 8. Anthony Slaughter.",
+          "text_original": "Y cwestiwn olaf i chi, Weinidog, yw cwestiwn 8. Anthony Slaughter."
         },
         {
           "id": "contribution-778961",
           "item_id": "item-16316-261014-3",
           "item_title_en": "2. Questions to the Cabinet Minister for Finance",
           "lang": "cy",
-          "t_start": 5731,
-          "text_english": "Thank you very much, Cabinet Minister.",
+          "t_start": 5740,
+          "text_english": "Thank you very much, Minister.",
           "text_original": "Diolch yn fawr iawn i chi, Weinidog."
         },
         {
@@ -165,7 +156,7 @@
           "item_id": "item-16316-261014-4",
           "item_title_en": "3. Topical Questions",
           "lang": "cy",
-          "t_start": 5733,
+          "t_start": 5742,
           "text_english": "Item 3 is topical questions. No topical questions have been accepted.",
           "text_original": "Eitem 3 yw'r cwestiynau amserol. Ni dderbyniwyd unrhyw gwestiynau amserol."
         },
@@ -174,18 +165,18 @@
           "item_id": "item-16316-261014-5",
           "item_title_en": "4. 90-second Statements",
           "lang": "cy",
-          "t_start": 5738,
-          "text_english": "Therefore, we'll move on immediately to the 90-second statements. Shwmae, Rebeca Phillips.",
-          "text_original": "Felly, symudaf ymlaen yn syth i ddatganiadau 90 eiliad. Shwmae, Rebeca Phillips."
+          "t_start": 5747,
+          "text_english": "We'll move on immediately to the 90-second statements. Shwmae, Rebeca Phillips.",
+          "text_original": "Symudaf ymlaen yn syth i ddatganiadau 90 eiliad. Shwmae, Rebeca Phillips."
         },
         {
           "id": "contribution-778995",
           "item_id": "item-16316-261014-5",
           "item_title_en": "4. 90-second Statements",
           "lang": "cy",
-          "t_start": 6110,
-          "text_english": "Thank you. And finally, Safa Elhassan.",
-          "text_original": "Diolch. Ac yn olaf, Safa Elhassan."
+          "t_start": 6119,
+          "text_english": "And finally, Safa Elhassan.",
+          "text_original": "Ac yn olaf, Safa Elhassan."
         }
       ],
       "date": "2026-10-14"
@@ -197,61 +188,61 @@
           "item_id": "item-16315-261013-2",
           "item_title_en": "2. Business Statement and Announcement",
           "lang": "cy",
-          "t_start": 5431,
+          "t_start": 5440,
           "text_english": "Thank you very much, Trefnydd.",
           "text_original": "Diolch yn fawr iawn, Drefnydd."
         },
         {
           "id": "contribution-778482",
           "item_id": "item-16315-261013-3",
-          "item_title_en": "3. Statement by the Cabinet Minister for Government Effectiveness and the Constitution: The next steps for the Glyndŵr National Park Designation Order",
+          "item_title_en": "3. Statement by the Cabinet Minister for Government Effectiveness and the Constitution: The next steps for the Glyndŵr National Park (Designation) Order",
           "lang": "cy",
-          "t_start": 5433,
+          "t_start": 5442,
           "text_english": "We'll move on to item 3, a statement by the Cabinet Minister for Government Effectiveness and the Constitution, the next steps for the Glyndŵr National Park (Designation) Order. I call on the Cabinet Minister for Government Effectiveness and the Constitution, Dafydd Trystan Davies.",
           "text_original": "Symudwn ymlaen i eitem 3, datganiad gan y Gweinidog Cabinet dros Effeithiolrwydd Llywodraeth a’r Cyfansoddiad, y camau nesaf ar gyfer Gorchymyn (Dynodi) Parc Cenedlaethol Glyndŵr. Galwaf ar y Gweinidog Cabinet dros Effeithiolrwydd Llywodraeth a’r Cyfansoddiad, Dafydd Trystan Davies."
         },
         {
           "id": "contribution-778507",
           "item_id": "item-16315-261013-3",
-          "item_title_en": "3. Statement by the Cabinet Minister for Government Effectiveness and the Constitution: The next steps for the Glyndŵr National Park Designation Order",
+          "item_title_en": "3. Statement by the Cabinet Minister for Government Effectiveness and the Constitution: The next steps for the Glyndŵr National Park (Designation) Order",
           "lang": "cy",
-          "t_start": 6134,
+          "t_start": 6143,
           "text_english": "Thank you very much, Minister. Adrian Mason.",
           "text_original": "Diolch yn fawr iawn, Weinidog. Adrian Mason."
         },
         {
           "id": "contribution-778509",
           "item_id": "item-16315-261013-3",
-          "item_title_en": "3. Statement by the Cabinet Minister for Government Effectiveness and the Constitution: The next steps for the Glyndŵr National Park Designation Order",
+          "item_title_en": "3. Statement by the Cabinet Minister for Government Effectiveness and the Constitution: The next steps for the Glyndŵr National Park (Designation) Order",
           "lang": "en",
-          "t_start": 6446,
+          "t_start": 6455,
           "text_english": "Can I ask you to conclude, please?",
           "text_original": "Can I ask you to conclude, please?"
         },
         {
           "id": "contribution-778530",
           "item_id": "item-16315-261013-3",
-          "item_title_en": "3. Statement by the Cabinet Minister for Government Effectiveness and the Constitution: The next steps for the Glyndŵr National Park Designation Order",
+          "item_title_en": "3. Statement by the Cabinet Minister for Government Effectiveness and the Constitution: The next steps for the Glyndŵr National Park (Designation) Order",
           "lang": "en",
-          "t_start": 7325,
+          "t_start": 7334,
           "text_english": "Can you conclude, please?",
           "text_original": "Can you conclude, please?"
         },
         {
           "id": "contribution-778543",
           "item_id": "item-16315-261013-3",
-          "item_title_en": "3. Statement by the Cabinet Minister for Government Effectiveness and the Constitution: The next steps for the Glyndŵr National Park Designation Order",
+          "item_title_en": "3. Statement by the Cabinet Minister for Government Effectiveness and the Constitution: The next steps for the Glyndŵr National Park (Designation) Order",
           "lang": "cy",
-          "t_start": 7636,
+          "t_start": 7645,
           "text_english": "Thank you. And finally, Minister, Andrew Griffin.",
           "text_original": "Diolch. Ac yn olaf, Weinidog, Andrew Griffin."
         },
         {
           "id": "contribution-778547",
           "item_id": "item-16315-261013-3",
-          "item_title_en": "3. Statement by the Cabinet Minister for Government Effectiveness and the Constitution: The next steps for the Glyndŵr National Park Designation Order",
+          "item_title_en": "3. Statement by the Cabinet Minister for Government Effectiveness and the Constitution: The next steps for the Glyndŵr National Park (Designation) Order",
           "lang": "cy",
-          "t_start": 7739,
+          "t_start": 7748,
           "text_english": "Thank you very much, Cabinet Minister.",
           "text_original": "Diolch yn fawr iawn, Weinidog Cabinet."
         },
@@ -260,7 +251,7 @@
           "item_id": "item-16315-261013-4",
           "item_title_en": "4. Statement by the Cabinet Minister for Rural Resilience and Sustainability: Winter preparedness: Be flood ready",
           "lang": "cy",
-          "t_start": 7741,
+          "t_start": 7750,
           "text_english": "We'll move now to a statement by the Cabinet Minister for Rural Resilience and Sustainability: winter preparedness—be flood ready. I call on the Cabinet Minister for Rural Resilience and Sustainability, Llyr Gruffydd.",
           "text_original": "Symudwn ymlaen at ddatganiad gan y Gweinidog Cabinet dros Wydnwch Gwledig a Chynaliadwyedd: parodrwydd ar gyfer y gaeaf—barod am lifogydd. Galwaf ar y Gweinidog Cabinet dros Wydnwch Gwledig a Chynaliadwyedd, Llyr Gruffydd."
         },
@@ -269,9 +260,117 @@
           "item_id": "item-16315-261013-4",
           "item_title_en": "4. Statement by the Cabinet Minister for Rural Resilience and Sustainability: Winter preparedness: Be flood ready",
           "lang": "cy",
-          "t_start": 10462,
-          "text_english": "Thank you. And finally, Lis McLean.",
-          "text_original": "Diolch. Ac yn olaf, Weinidog, Lis McLean."
+          "t_start": 10471,
+          "text_english": "And finally, Lis McLean.",
+          "text_original": "Ac yn olaf, Lis McLean."
+        },
+        {
+          "id": "contribution-778654",
+          "item_id": "item-16315-261013-6",
+          "item_title_en": "6. Statement by the Deputy Minister for Transport: Climate Adaptation and Resilience in Wales's Transport Network",
+          "lang": "cy",
+          "t_start": 16212,
+          "text_english": "Thank you very much, Deputy Minister.",
+          "text_original": "Diolch yn fawr iawn, Ddirprwy Weinidog."
+        },
+        {
+          "id": "contribution-778658",
+          "item_id": "item-16315-261013-7",
+          "item_title_en": "7. The Child Minding and Day Care Exceptions (Revocation and Transitional Provision) (Wales) (Amendment) Order 2026",
+          "lang": "cy",
+          "t_start": 16214,
+          "text_english": "We will move now to item 7, the Child Minding and Day Care Exceptions (Revocation and Transitional Provision) (Wales) (Amendment) Order 2026. I call on the Deputy First Minister and Cabinet Minister for Social Justice and Equality to move the motion—Sioned Williams.",
+          "text_original": "Symudwn ymlaen i eitem 7, Gorchymyn Eithriadau Gwarchod Plant a Gofal Dydd (Dirymu a Darpariaeth Drosiannol) (Cymru) (Diwygio) 2026. Galwaf ar y Dirprwy Brif Weinidog a Gweinidog Cabinet dros Gyfiawnder Cymdeithasol a Chydraddoldeb i wneud y cynnig—Sioned Williams."
+        },
+        {
+          "id": "contribution-778683",
+          "item_id": "item-16315-261013-7",
+          "item_title_en": "7. The Child Minding and Day Care Exceptions (Revocation and Transitional Provision) (Wales) (Amendment) Order 2026",
+          "lang": "cy",
+          "t_start": 16385,
+          "text_english": "Thank you. I call on the Chair of the Legislation Committee, Christiana Emsley.",
+          "text_original": "Diolch yn fawr iawn, Ddirprwy Brif Weinidog. Galwaf ar Gadeirydd y Pwyllgor Deddfwriaeth, Cristiana Emsley."
+        },
+        {
+          "id": "contribution-778687",
+          "item_id": "item-16315-261013-7",
+          "item_title_en": "7. The Child Minding and Day Care Exceptions (Revocation and Transitional Provision) (Wales) (Amendment) Order 2026",
+          "lang": "cy",
+          "t_start": 16443,
+          "text_english": "Thank you. Catherine Cullen.",
+          "text_original": "Diolch. Catherine Cullen."
+        },
+        {
+          "id": "contribution-778694",
+          "item_id": "item-16315-261013-7",
+          "item_title_en": "7. The Child Minding and Day Care Exceptions (Revocation and Transitional Provision) (Wales) (Amendment) Order 2026",
+          "lang": "cy",
+          "t_start": 16474,
+          "text_english": "I call on the Cabinet Minister to reply to the debate.",
+          "text_original": "Galwaf ar y Gweinidog Cabinet i ymateb i'r ddadl."
+        },
+        {
+          "id": "contribution-778643",
+          "item_id": "item-16315-261013-7",
+          "item_title_en": "7. The Child Minding and Day Care Exceptions (Revocation and Transitional Provision) (Wales) (Amendment) Order 2026",
+          "lang": "cy",
+          "t_start": 16535,
+          "text_english": "Thank you very much. The proposal is to agree the motion. Does any Member object? There are no objections. The motion is therefore agreed in accordance with Standing Order 12.36.",
+          "text_original": "Diolch yn fawr iawn i chi. Y cwestiwn yw: a ddylid derbyn y cynnig? A oes unrhyw Aelod yn gwrthwynebu? Dim gwrthwynebiad. Felly, derbynnir y cynnig yn unol â Rheol Sefydlog 12.36."
+        },
+        {
+          "id": "contribution-778648",
+          "item_id": "item-16315-261013-8",
+          "item_title_en": "8. Legislative Consent Motion: The Armed Forces Bill",
+          "lang": "cy",
+          "t_start": 16551,
+          "text_english": "We will move now to item 8, the legislative consent motion on the Armed Forces Bill. I call on the Deputy First Minister and Cabinet Minister for Social Justice and Equality to move the motion—Sioned Williams.",
+          "text_original": "Symudwn ymlaen i eitem 8, cynnig cydsyniad deddfwriaethol Bil y Lluoedd Arfog. Galwaf ar y Dirprwy Brif Weinidog a Gweinidog Cabinet dros Gyfiawnder Cymdeithasol a Chydraddoldeb i wneud y cynnig—Sioned Williams."
+        },
+        {
+          "id": "contribution-778637",
+          "item_id": "item-16315-261013-8",
+          "item_title_en": "8. Legislative Consent Motion: The Armed Forces Bill",
+          "lang": "cy",
+          "t_start": 17025,
+          "text_english": "Thank you, Deputy First Minister. I call on the Chair of the Legislation Committee, Cristiana Emsley.",
+          "text_original": "Diolch yn fawr iawn, Ddirprwy Brif Weinidog. Galwaf ar Gadeirydd y Pwyllgor Deddfwriaeth, Cristiana Emsley."
+        },
+        {
+          "id": "contribution-778639",
+          "item_id": "item-16315-261013-8",
+          "item_title_en": "8. Legislative Consent Motion: The Armed Forces Bill",
+          "lang": "cy",
+          "t_start": 17352,
+          "text_english": "I call on the Chair of the Equality, Human Rights and Social Justice Committee, Zaynub Akbar.",
+          "text_original": "Galwaf ar Gadeirydd y Pwyllgor Cydraddoldeb, Hawliau Dynol a Chyfiawnder Cymdeithasol, Zaynub Akbar."
+        },
+        {
+          "id": "contribution-778734",
+          "item_id": "item-16315-261013-8",
+          "item_title_en": "8. Legislative Consent Motion: The Armed Forces Bill",
+          "lang": "cy",
+          "t_start": 17922,
+          "text_english": "I call on the Cabinet Minister to reply to the debate.",
+          "text_original": "Diolch. Galwaf ar y Gweinidog Cabinet i ymateb i'r ddadl."
+        },
+        {
+          "id": "contribution-778672",
+          "item_id": "item-16315-261013-8",
+          "item_title_en": "8. Legislative Consent Motion: The Armed Forces Bill",
+          "lang": "cy",
+          "t_start": 18192,
+          "text_english": "The proposal is to agree the motion. Does any Member object? There are no objections. The motion is therefore agreed in accordance with Standing Order 12.36.",
+          "text_original": "Y cwestiwn yw: a ddylid y derbyn y cynnig? A oes unrhyw Aelod yn gwrthwynebu? Does dim gwrthwynebiad, felly derbynnir y cynnig yn unol â Rheol Sefydlog 12.36."
+        },
+        {
+          "id": "contribution-778676",
+          "item_id": "item-16315-261013-8",
+          "item_title_en": "8. Legislative Consent Motion: The Armed Forces Bill",
+          "lang": "cy",
+          "t_start": 18207,
+          "text_english": "That brings today's proceedings to a close.",
+          "text_original": "Daw hynny â thrafodion heddiw i ben."
         }
       ],
       "date": "2026-10-13"

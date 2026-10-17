@@ -3,7 +3,7 @@
   "canonical_name": "Gareth Beer",
   "constituency_name_cy": "Sir Gaerfyrddin",
   "constituency_name_en": "Sir Gaerfyrddin",
-  "contribution_count": 18,
+  "contribution_count": 20,
   "contributions_by_date": [
     {
       "contributions": [
@@ -12,12 +12,35 @@
           "item_id": "item-16316-261014-3",
           "item_title_en": "2. Questions to the Cabinet Minister for Finance",
           "lang": "en",
-          "t_start": 2907,
+          "t_start": 2916,
           "text_english": "Cabinet Minister, whilst your colleague is in America deep-seeking the meaning of artificial intelligence, and the First Minister is running around Cardiff market, there are some very pressing challenges in Carmarthenshire affecting rural communities. Cash-strapped councils are being forced into short-term, penny-pinching false economies like threatening to close our small rural schools. In fact, two schools were closed today. Councils must manage their money, yes, I absolutely agree, but when will the Welsh Government prioritise ours? Will this funding formula finally direct real taxpayers' money to safeguard these small rural schools, the beating hearts of our communities? Diolch.",
           "text_original": "Cabinet Minister, whilst your colleague is in America deep-seeking the meaning of artificial intelligence, and the First Minister is running around Cardiff market, there are some very pressing challenges in Carmarthenshire affecting rural communities. Cash-strapped councils are being forced into short-term, penny-pinching false economies like threatening to close our small rural schools. In fact, two schools were closed today. Councils must manage their money, yes, I absolutely agree, but when will the Welsh Government prioritise ours? Will this funding formula finally direct real taxpayers' money to safeguard these small rural schools, the beating hearts of our communities? Diolch."
         }
       ],
       "date": "2026-10-14"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-778677",
+          "item_id": "item-16315-261013-6",
+          "item_title_en": "6. Statement by the Deputy Minister for Transport: Climate Adaptation and Resilience in Wales's Transport Network",
+          "lang": "en",
+          "t_start": 15859,
+          "text_english": "Deputy Minister, one of my staff recently left Carmarthen at 6.20 in the morning and did not arrive here in Cardiff bay until 11 o'clock. Getting to the bay or the Senedd by train or bus takes longer than flying to Malta. That said, when it comes to adaptation and resilience, we already know the risks from flooding and erosion. The assessments have been done. Operators and maintenance teams have said what is needed to be done. We do not need another review or plan; we need Government to get on with the work.\n\nAs I said, closures and delays affect commuters. Supply chains are affected. Investors are deterred. Costs are higher for Welsh businesses. Reliable transport links are vital for economic growth. These essential works should not be delayed by more assessments. So, can the Minister explain why so much is still at the planning stage? What work will now be carried out on our road and rail networks, and when will people see action? The public—",
+          "text_original": "Deputy Minister, one of my staff recently left Carmarthen at 6.20 in the morning and did not arrive here in Cardiff bay until 11 o'clock. Getting to the bay or the Senedd by train or bus takes longer than flying to Malta. That said, when it comes to adaptation and resilience, we already know the risks from flooding and erosion. The assessments have been done. Operators and maintenance teams have said what is needed to be done. We do not need another review or plan; we need Government to get on with the work.\n\nAs I said, closures and delays affect commuters. Supply chains are affected. Investors are deterred. Costs are higher for Welsh businesses. Reliable transport links are vital for economic growth. These essential works should not be delayed by more assessments. So, can the Minister explain why so much is still at the planning stage? What work will now be carried out on our road and rail networks, and when will people see action? The public—"
+        },
+        {
+          "id": "contribution-778673",
+          "item_id": "item-16315-261013-6",
+          "item_title_en": "6. Statement by the Deputy Minister for Transport: Climate Adaptation and Resilience in Wales's Transport Network",
+          "lang": "en",
+          "t_start": 15924,
+          "text_english": "—do not need another—.",
+          "text_original": "—do not need another—."
+        }
+      ],
+      "date": "2026-10-13"
     },
     {
       "contributions": [
