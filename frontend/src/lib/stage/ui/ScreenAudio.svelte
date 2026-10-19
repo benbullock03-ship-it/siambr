@@ -5,6 +5,7 @@
 		sound,
 		available,
 		missing,
+		unanchored = false,
 		verbatim = false
 	}: {
 		sound: ScreenSound;
@@ -12,6 +13,8 @@
 		available: boolean;
 		/** The sitting has no aligned Senedd TV stream. */
 		missing: boolean;
+		/** The recording carries no wall clock, so it is played from its own first frame. */
+		unanchored?: boolean;
 		/** The sitting also has the verbatim feed, so the audio can be switched. */
 		verbatim?: boolean;
 	} = $props();
@@ -35,6 +38,9 @@
 				<span>Audio: English interpretation (Senedd TV)</span>
 			{/if}
 			<span>© Senedd Commission · Senedd TV</span>
+			{#if unanchored}
+				<span>The Senedd TV recording carries no timestamp for this sitting, so the pictures are not clock-anchored.</span>
+			{/if}
 		</p>
 	</div>
 {:else if missing}

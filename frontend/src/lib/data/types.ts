@@ -169,6 +169,9 @@ export interface Sitting {
 	/** Seconds to add to sitting time to reach the stream's own timeline. Derived and measured; null when no stream ships. */
 	stream_offset_s: number | null;
 	stream_offset_verbatim_s: number | null;
+	/** True when the recording carries no wall clock, so its first frame is taken as the sitting's origin. */
+	stream_unanchored: boolean;
+	stream_unanchored_verbatim: boolean;
 	items: SittingItem[];
 	contributions: Contribution[];
 	tabled_texts: TabledText[];

@@ -418,7 +418,9 @@ sittings/{date}.json             items[], contributions[] (id, item, seq, member
                                  divisions[] (with member votes), unattributed{contributions, speakers[]},
                                  clip_url, meeting_start_wallclock, record_published_at,
                                  stream_url/stream_url_verbatim with stream_offset_s/stream_offset_verbatim_s
-                                 (seconds the player adds to sitting time; derived)
+                                 (seconds the player adds to sitting time; derived) and
+                                 stream_unanchored/stream_unanchored_verbatim (the recording has no
+                                 timestamp, so its first frame is taken as the sitting's origin)
 members/index.json               current-term Members: id, names, party, seat, gss, portrait, roles (light)
 members/{id}.json                full record: tenures, roles, contributions grouped by date
                                  (id, item title, t_start, text), ballots

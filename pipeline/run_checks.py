@@ -260,8 +260,8 @@ def check_stream_gate(conn: sqlite3.Connection, static: Path) -> Check:
     name = "exported stream urls pass the alignment gate"
     published, failures = _published_streams(conn, static)
     for s, url in published:
-        offset = senedd_tv.stream_offset_s(s["vbegin"], s["session_date"], s["meeting_start_time"])
-        expected = s["url"] if offset is not None else None
+        placement, offset = senedd_tv.stream_placement(s["vbegin"], s["session_date"], s["meeting_start_time"])
+        expected = s["url"] if placement != senedd_tv.REFUSED else None
         if url != expected:
             failures.append(f"{s['id']}: exported {s['feed']} {url!r}, gate gives {expected!r}")
             continue
@@ -269,9 +269,14 @@ def check_stream_gate(conn: sqlite3.Connection, static: Path) -> Check:
         if not exported.exists():
             continue
         sitting = json.loads(exported.read_text(encoding="utf-8"))
-        key = "stream_offset_s" if s["feed"] == "stream_url" else "stream_offset_verbatim_s"
-        if sitting.get(key) != offset:
-            failures.append(f"{s['id']}: exported {key} {sitting.get(key)!r}, measured {offset!r}")
+        interpretation = s["feed"] == "stream_url"
+        offset_key = "stream_offset_s" if interpretation else "stream_offset_verbatim_s"
+        flag_key = "stream_unanchored" if interpretation else "stream_unanchored_verbatim"
+        expected_offset = None if placement == senedd_tv.REFUSED else offset
+        if sitting.get(offset_key) != expected_offset:
+            failures.append(f"{s['id']}: exported {offset_key} {sitting.get(offset_key)!r}, measured {expected_offset!r}")
+        if bool(sitting.get(flag_key)) != (placement == senedd_tv.UNANCHORED):
+            failures.append(f"{s['id']}: exported {flag_key} {sitting.get(flag_key)!r}, placement {placement!r}")
     return Check(name, failures)
 
 
@@ -292,6 +297,12 @@ def check_live_streams(conn: sqlite3.Connection, static: Path, sample_size: int 
             vbegin = senedd_tv.first_segment_time(get(senedd_tv.first_variant_url(master, s["url"])))
         except (SourceUnavailable, requests.RequestException, OSError) as e:
             notes.append(f"{s['id']}: {s['feed']} source unavailable ({e}); stream not checked live")
+            continue
+        anchored = senedd_tv.is_aligned(s["vbegin"], s["session_date"], s["meeting_start_time"])
+        if not anchored:
+            # Published unanchored: the playlist must still carry no clock, or it is now placeable.
+            if vbegin is not None:
+                failures.append(f"{s['id']}: live {s['feed']} now has a wall clock ({vbegin}); re-run the pipeline")
             continue
         if vbegin is None or abs(vbegin - s["vbegin"]) > 0.001:
             failures.append(f"{s['id']}: live {s['feed']} first segment at {vbegin}, Gold holds {s['vbegin']}")

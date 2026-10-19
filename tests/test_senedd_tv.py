@@ -107,6 +107,17 @@ class AlignmentGateTests(unittest.TestCase):
         self.assertFalse(senedd_tv.is_aligned(RECORD_START, "2026-07-15", None))
         self.assertIsNone(senedd_tv.stream_offset_s(RECORD_START, "2026-07-15", None))
 
+    def test_placement_names_the_three_outcomes(self):
+        # 2026-07-14's alone: a playlist with no wall clock, played from its own first frame.
+        self.assertEqual(senedd_tv.stream_placement(None, "2026-07-14", "13:30:01"),
+                         (senedd_tv.UNANCHORED, 0.0))
+        self.assertEqual(senedd_tv.stream_placement(RECORD_START - 8.6, "2026-07-15", "13:30:01")[0],
+                         senedd_tv.ANCHORED)
+        self.assertEqual(senedd_tv.stream_placement(RECORD_START + 3600, "2026-07-15", "13:30:01"),
+                         (senedd_tv.REFUSED, None))
+        # With no Record start to measure against there is nothing to place it on.
+        self.assertEqual(senedd_tv.stream_placement(None, "2026-07-15", None), (senedd_tv.REFUSED, None))
+
 
 class ResolveAndExportTests(unittest.TestCase):
     def setUp(self):
@@ -174,6 +185,22 @@ class ResolveAndExportTests(unittest.TestCase):
         self.assertEqual(self.exported(), MASTER_URL)
         sitting = json.loads((self.out / "sittings" / "2026-07-15.json").read_text(encoding="utf-8"))
         self.assertAlmostEqual(sitting["stream_offset_s"], -3.0, places=3)
+
+    def test_a_playlist_with_no_wall_clock_ships_unanchored(self):
+        # 2026-07-14's form: the publisher never mapped a clock, so the file plays from its own start.
+        no_clock = b"\n".join(line for line in VARIANT.splitlines() if b"PROGRAM-DATE-TIME" not in line)
+        senedd_tv.refresh_stream(self.conn, 16086, get=upstream({VARIANT_URL: no_clock}), log=self.log.append)
+        self.assertIn("has no wall clock, ships unanchored", self.log[0])
+        self.assertEqual(self.exported(), MASTER_URL)
+        sitting = json.loads((self.out / "sittings" / "2026-07-15.json").read_text(encoding="utf-8"))
+        self.assertEqual(sitting["stream_offset_s"], 0.0)
+        self.assertTrue(sitting["stream_unanchored"])
+        self.assertTrue(run_checks.check_stream_gate(self.conn, self.out).ok)
+
+        # The flag is the export's own statement: a wrong one is a gate failure, not a silent drift.
+        sitting["stream_unanchored"] = False
+        (self.out / "sittings" / "2026-07-15.json").write_text(json.dumps(sitting), encoding="utf-8")
+        self.assertFalse(run_checks.check_stream_gate(self.conn, self.out).ok)
 
     def test_a_stream_an_hour_out_is_stored_but_never_exported(self):
         wrong = VARIANT.replace(b"PROGRAM-DATE-TIME:2026-07-15T12:30:00.400000Z", b"PROGRAM-DATE-TIME:2026-07-15T13:30:00.000000Z")

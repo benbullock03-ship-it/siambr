@@ -39,6 +39,12 @@ describe('ScreenAudio', () => {
 		expect(screen.queryByText(SCREEN_CREDIT)).toBeNull();
 	});
 
+	it('says when the recording carries no timestamp to anchor it', () => {
+		const { container } = render(ScreenAudio, { sound: new ScreenSound(), available: true, missing: false, unanchored: true });
+		expect(container.textContent).toContain('not clock-anchored');
+		expect(screen.getByText(AUDIO_TRACK)).toBeTruthy();
+	});
+
 	it('shows nothing where the screens do not run', () => {
 		const { container } = render(ScreenAudio, { sound: new ScreenSound(), available: false, missing: false });
 		expect(container.textContent?.trim()).toBe('');

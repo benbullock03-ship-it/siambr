@@ -97,22 +97,42 @@ def sitting_start(session_date: str, meeting_start_time: str) -> float:
     return datetime.fromisoformat(f"{session_date}T{meeting_start_time}").replace(tzinfo=LONDON).timestamp()
 
 
+ANCHORED = "anchored"
+UNANCHORED = "unanchored"
+REFUSED = "refused"
+
+
+def stream_placement(vbegin: float | None, session_date: str, meeting_start_time: str | None) -> tuple[str, float | None]:
+    """How a stream can be placed on the sitting clock, and the offset the player adds.
+
+    - ``anchored``: the first segment's own wall clock gives the offset exactly.
+    - ``unanchored``: the playlist carries no wall clock at all (the publisher never mapped one),
+      so the file is played from its own first frame and the page says it is not clock-anchored.
+      2026-07-14 is the only sitting like this.
+    - ``refused``: there is a wall clock but it is too far from the Record's start to be this
+      meeting, or the Record states no start to measure against.
+    """
+    if not meeting_start_time:
+        return REFUSED, None
+    if vbegin is None:
+        return UNANCHORED, 0.0
+    offset = sitting_start(session_date, meeting_start_time) - vbegin
+    return (ANCHORED, offset) if abs(offset) <= MAX_STREAM_OFFSET_S else (REFUSED, None)
+
+
 def stream_offset_s(vbegin: float | None, session_date: str, meeting_start_time: str | None) -> float | None:
-    """Seconds to add to sitting time to reach the stream's own timeline.
+    """Seconds to add to sitting time to reach the stream's own timeline; None when refused.
 
     The stream's first segment is at ``vbegin``; the Record's origin is ``meeting_start_time`` on
-    ``session_date``. Positive when the broadcast began before the Record's origin. None when the
-    stream has no wall clock, the Record states no start, or the gap is too wide to trust.
+    ``session_date``. Positive when the broadcast began before the Record's origin.
     """
-    if vbegin is None or not meeting_start_time:
-        return None
-    offset = sitting_start(session_date, meeting_start_time) - vbegin
-    return offset if abs(offset) <= MAX_STREAM_OFFSET_S else None
+    placement, offset = stream_placement(vbegin, session_date, meeting_start_time)
+    return offset if placement == ANCHORED else None
 
 
 def is_aligned(vbegin: float | None, session_date: str, meeting_start_time: str | None) -> bool:
-    """True when the stream can be published, with stream_offset_s() applied by the player."""
-    return stream_offset_s(vbegin, session_date, meeting_start_time) is not None
+    """True when the stream's placement is measured from its own wall clock."""
+    return stream_placement(vbegin, session_date, meeting_start_time)[0] == ANCHORED
 
 
 def mirror(session_date: str, meeting_id: int, files: list[tuple[str, str, bytes]], feed: str = "interpretation") -> None:
@@ -188,14 +208,15 @@ def refresh_stream(conn: sqlite3.Connection, meeting_id: int, *, get: Callable[[
         if not store_stream(conn, session_id, stream, feed):
             continue
         changed = True
-        if stream.vbegin is None or not start:
-            log(f"meeting {meeting_id} ({session_date}): {label} has no wall clock, will not ship")
+        placement, offset = stream_placement(stream.vbegin, session_date, start)
+        if placement == UNANCHORED:
+            log(f"meeting {meeting_id} ({session_date}): {label} has no wall clock, ships unanchored")
+        elif placement == REFUSED:
+            log(f"meeting {meeting_id} ({session_date}): {label} more than {MAX_STREAM_OFFSET_S:.0f} s out, will not ship")
         else:
-            offset = stream_offset_s(stream.vbegin, session_date, start)
-            verdict = (f"aligned, offset {offset:+.1f} s" if offset is not None
-                       else f"more than {MAX_STREAM_OFFSET_S:.0f} s out, will not ship")
             log(f"meeting {meeting_id} ({session_date}): {label} "
-                f"first segment {stream.vbegin - sitting_start(session_date, start):+.1f} s from the Record start, {verdict}")
+                f"first segment {stream.vbegin - sitting_start(session_date, start):+.1f} s from the Record start, "
+                f"aligned, offset {offset:+.1f} s")
     return changed
 
 

@@ -19,7 +19,7 @@ from pathlib import Path
 
 from pipeline.adapters.plenary_votes import votes_url
 from pipeline.db import DEFAULT_DB_PATH, REPO_ROOT, create_connection
-from pipeline.senedd_tv import is_aligned, stream_offset_s
+from pipeline.senedd_tv import REFUSED, UNANCHORED, stream_placement
 
 DEFAULT_OUT = REPO_ROOT / "frontend" / "static" / "data"
 PROVENANCE_DERIVED = "PROVENANCE_DERIVED"
@@ -118,6 +118,21 @@ def read_motion(motion_text: str) -> dict:
         target = "Motion"
     tabled = re.search(r"(?:tabled\s+in\s+the\s+name\s+of|a\s+gyflwynwyd\s+yn\s+enw)\s+(.+)\Z", question, re.IGNORECASE)
     return {"target": target, "tabled_by": re.sub(r"\.$", "", tabled.group(1).strip()) if tabled else None}
+
+
+def _stream_fields(sitting: dict, url_key: str, vbegin_key: str, offset_key: str, unanchored_key: str) -> dict:
+    """The published stream: its url, the offset the player adds, and whether it is clock-anchored.
+
+    The url ships when the first segment's wall clock places it on the sitting clock, or when the
+    playlist carries no wall clock at all (played from its own first frame, and said so on the page).
+    A stream whose clock is too far from the Record's start is not this meeting and does not ship.
+    """
+    placement, offset = stream_placement(sitting[vbegin_key], sitting["session_date"], sitting["meeting_start_time"])
+    return {
+        url_key: sitting[url_key] if placement != REFUSED else None,
+        offset_key: offset if placement != REFUSED else None,
+        unanchored_key: placement == UNANCHORED,
+    }
 
 
 def debate_item_of(motion_text: str, items: list[dict]) -> dict | None:
@@ -310,15 +325,11 @@ class Exporter:
             "record_published_at": s["record_published_at"],
             "meeting_start_time": s["meeting_start_time"],
             "clip_url": next((i["senedd_tv_clip_url"] for i in items if i["senedd_tv_clip_url"]), None),
-            # Senedd TV's own playlist; shipped when its first segment is within
-            # MAX_STREAM_OFFSET_S of the Record's start, with that difference measured below.
-            "stream_url": s["stream_url"] if is_aligned(s["stream_vbegin"], s["session_date"], s["meeting_start_time"]) else None,
-            "stream_url_verbatim": s["stream_url_verbatim"]
-            if is_aligned(s["stream_vbegin_verbatim"], s["session_date"], s["meeting_start_time"]) else None,
-            # Seconds to add to sitting time to reach the stream's own timeline, measured from the
-            # stream's first PROGRAM-DATE-TIME and the Record's start (derived, never guessed).
-            "stream_offset_s": stream_offset_s(s["stream_vbegin"], s["session_date"], s["meeting_start_time"]),
-            "stream_offset_verbatim_s": stream_offset_s(s["stream_vbegin_verbatim"], s["session_date"], s["meeting_start_time"]),
+            # Senedd TV's own playlist: shipped when its first segment's wall clock places it on the
+            # sitting clock, or when the playlist carries no wall clock at all and the page says so.
+            **_stream_fields(s, "stream_url", "stream_vbegin", "stream_offset_s", "stream_unanchored"),
+            **_stream_fields(s, "stream_url_verbatim", "stream_vbegin_verbatim",
+                             "stream_offset_verbatim_s", "stream_unanchored_verbatim"),
             "items": [{
                 "id": i["id"],
                 "order": i["item_order"],
@@ -355,6 +366,8 @@ class Exporter:
                 "speakers.role_title_en": PROVENANCE_DERIVED,
                 "stream_offset_s": PROVENANCE_DERIVED,
                 "stream_offset_verbatim_s": PROVENANCE_DERIVED,
+                "stream_unanchored": PROVENANCE_DERIVED,
+                "stream_unanchored_verbatim": PROVENANCE_DERIVED,
             },
         }
 

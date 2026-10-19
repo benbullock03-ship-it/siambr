@@ -24,6 +24,16 @@ describe('the exported streams', () => {
 		}
 	});
 
+	it('marks an unanchored recording and still gives it an offset the player can use', () => {
+		for (const s of real()) {
+			if (s.stream_unanchored) {
+				expect(s.stream_url, s.date).not.toBeNull();
+				expect(s.stream_offset_s, s.date).toBe(0);
+			}
+			if (!s.stream_url) expect(s.stream_unanchored, s.date).toBe(false);
+		}
+	});
+
 	it('keeps every shipped offset within the bound that means "this meeting, starting early"', () => {
 		for (const s of real()) {
 			for (const offset of [s.stream_offset_s, s.stream_offset_verbatim_s]) {

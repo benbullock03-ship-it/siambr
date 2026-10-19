@@ -21,6 +21,7 @@
 		sound = new ScreenSound(),
 		screenAvailable = false,
 		screenMissing = false,
+		screenUnanchored = false,
 		verbatim = false
 	}: {
 		clock: SittingClock;
@@ -35,6 +36,8 @@
 		sound?: ScreenSound;
 		screenAvailable?: boolean;
 		screenMissing?: boolean;
+		/** The recording on the screens carries no wall clock. */
+		screenUnanchored?: boolean;
 		/** The sitting also has the verbatim feed. */
 		verbatim?: boolean;
 	} = $props();
@@ -129,7 +132,7 @@
 				</div>
 			{/if}
 			{#if !compact}
-				<ScreenAudio {sound} available={screenAvailable} missing={screenMissing} {verbatim} />
+				<ScreenAudio {sound} available={screenAvailable} missing={screenMissing} unanchored={screenUnanchored} {verbatim} />
 			{/if}
 		</div>
 	</div>

@@ -273,6 +273,7 @@
 		{sound}
 		screenAvailable={screenStream !== null && !sound.failed && !fallback}
 		screenMissing={screensRun && !sitting.stream_url}
+		screenUnanchored={screensRun && (asSpoken ? sitting.stream_unanchored_verbatim : sitting.stream_unanchored)}
 		verbatim={sitting.stream_url_verbatim !== null}
 	/>
 	<ScrubBar {clock} {sitting} />

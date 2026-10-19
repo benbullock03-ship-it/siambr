@@ -6139,6 +6139,8 @@
     "speakers.role_title_en": "PROVENANCE_DERIVED",
     "stream_offset_s": "PROVENANCE_DERIVED",
     "stream_offset_verbatim_s": "PROVENANCE_DERIVED",
+    "stream_unanchored": "PROVENANCE_DERIVED",
+    "stream_unanchored_verbatim": "PROVENANCE_DERIVED",
     "t_end_derived": "PROVENANCE_DERIVED"
   },
   "record_page_url": "https://record.senedd.wales/Plenary/16085",
@@ -7778,10 +7780,12 @@
       "role_title_en": null
     }
   },
-  "stream_offset_s": null,
-  "stream_offset_verbatim_s": null,
-  "stream_url": null,
-  "stream_url_verbatim": null,
+  "stream_offset_s": 0.0,
+  "stream_offset_verbatim_s": 0.0,
+  "stream_unanchored": true,
+  "stream_unanchored_verbatim": true,
+  "stream_url": "https://nafw.cdn.vustreams.com/m/92b62f30-a418-4279-b6c4-6359f5d59380/interpretation/60c932f3-e9b6-4a2f-a887-343c942de97c_I.ism/60c932f3-e9b6-4a2f-a887-343c942de97c_I.m3u8?t=00:00:00",
+  "stream_url_verbatim": "https://nafw.cdn.vustreams.com/m/92b62f30-a418-4279-b6c4-6359f5d59380/verbatim/60c932f3-e9b6-4a2f-a887-343c942de97c_V.ism/60c932f3-e9b6-4a2f-a887-343c942de97c_V.m3u8?t=00:00:00",
   "tabled_texts": [
     {
       "amendment_number": null,
