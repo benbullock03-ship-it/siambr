@@ -14,8 +14,9 @@ test('a paused chamber draws no frames; playback draws them', async ({ page }) =
 	const play = page.getByRole('button', { name: 'Play' }).first();
 	await play.click();
 	const playing = await frames(page);
-	await page.waitForTimeout(2_000);
-	expect(await frames(page)).toBeGreaterThan(playing + 5);
+	// Poll rather than sample after a fixed wait: SwiftShader draws slowly, so the frame count
+	// that proves playback is not a function of wall-clock time.
+	await expect.poll(() => frames(page), { timeout: 20_000 }).toBeGreaterThan(playing + 5);
 
 	await page.getByRole('button', { name: 'Pause' }).first().click();
 	// Let the floor light and camera settle, then count.
