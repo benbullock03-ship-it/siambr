@@ -29,6 +29,10 @@ jobs:
 
       - run: pip install -r pipeline/requirements.txt
 
+      # `python -m unittest` discovers backend/tests too; the API is dev-only but its tests gate.
+      - name: Install backend test dependencies
+        run: pip install -r backend/requirements.txt
+
       - name: Pipeline unit tests
         run: python -m unittest
 
