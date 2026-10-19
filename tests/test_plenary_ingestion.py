@@ -135,7 +135,7 @@ class NormalisationTests(unittest.TestCase):
         rows = {f"contribution-{r.contribution_id}": r for r in plenary_xml.parse_transcript(MODERN)}
         n = normalise(MODERN, self.known, SOURCE)
         self.assertTrue(n.contributions)
-        for cid, _, _, _, lang, original, english, _ in n.contributions:
+        for cid, _, _, _, _, _, lang, original, english, _ in n.contributions:
             row = rows[cid]
             self.assertNotRegex(original, r"<[^>]+>")
             self.assertEqual(glyphs(original), publisher_glyphs(row.verbatim_html), cid)
@@ -144,11 +144,11 @@ class NormalisationTests(unittest.TestCase):
 
     def test_welsh_speech_keeps_cymraeg_and_official_translation(self):
         n = normalise(MODERN, self.known, SOURCE)
-        welsh = [c for c in n.contributions if c[4] == "cy"]
+        welsh = [c for c in n.contributions if c[6] == "cy"]
         self.assertTrue(welsh)
         for c in welsh:
-            self.assertTrue(c[5] and c[6])
-            self.assertNotEqual(c[5], c[6])
+            self.assertTrue(c[7] and c[8])
+            self.assertNotEqual(c[7], c[8])
 
     def test_non_speech_rows_are_not_contributions(self):
         rows = {f"contribution-{r.contribution_id}": r for r in plenary_xml.parse_transcript(MODERN)}
@@ -160,13 +160,25 @@ class NormalisationTests(unittest.TestCase):
         n = normalise(MODERN, self.known, SOURCE)
         for item in n.items:
             self.assertEqual(item[7], "http://www.senedd.tv/en/16086")
-        self.assertTrue(any(c[7] is not None and c[7] > 0 for c in n.contributions))
+        self.assertTrue(any(c[9] is not None and c[9] > 0 for c in n.contributions))
 
-    def test_item_with_unmatched_speaker_is_skipped_whole(self):
+    def test_item_with_unattributed_speaker_is_published_with_the_publishers_label(self):
+        # The Record names Y Llywydd without a Member row. The old rule skipped the item whole;
+        # migration 011 keeps the words and carries the publisher's label instead (T-13).
         n = normalise(FIFTH, self.known, plenary_xml.download_url(5000))
-        self.assertTrue(any("Y Llywydd / The Llywydd" in s for s in n.skipped))
+        self.assertEqual(n.skipped, [])
         business = [i for i in n.items if "Business Statement" in i[4]]
-        self.assertEqual(business, [])
+        self.assertEqual(len(business), 1)
+        unattributed = [c for c in n.contributions if c[2] is None]
+        self.assertTrue(unattributed)
+        self.assertTrue(all(c[3] == "Y Llywydd / The Llywydd" for c in unattributed))
+        self.assertTrue(any("Y Llywydd / The Llywydd" in note for note in n.unattributed))
+        # The label is searchable even though no Member row carries it.
+        self.assertEqual(write_session(self.conn, n), "written")
+        hit = self.conn.execute(
+            "SELECT canonical_name FROM debate_contributions_fts WHERE debate_contributions_fts MATCH 'llywydd'"
+        ).fetchone()
+        self.assertEqual(hit["canonical_name"], "Y Llywydd / The Llywydd")
 
     def test_write_is_idempotent_by_checksum_and_searchable(self):
         n = normalise(MODERN, self.known, SOURCE)
@@ -177,7 +189,7 @@ class NormalisationTests(unittest.TestCase):
         self.assertEqual((stored["senedd_term"], stored["session_date"]), (7, "2026-07-15"))
         count = self.conn.execute("SELECT count(*) FROM debate_contributions").fetchone()[0]
         self.assertEqual(count, len(n.contributions))
-        word = re.search(r"[A-Za-z]{6,}", n.contributions[0][6]).group(0)
+        word = re.search(r"[A-Za-z]{6,}", n.contributions[0][8]).group(0)
         hits = self.conn.execute(
             "SELECT count(*) FROM debate_contributions_fts WHERE debate_contributions_fts MATCH ?", (word,)
         ).fetchone()[0]

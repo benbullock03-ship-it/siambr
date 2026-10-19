@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { PROVENANCE_DERIVED } from '$lib/data/types';
 	import type { Sitting } from '$lib/data/types';
+	import { speakerName } from '$lib/data/speaker';
 	import { wallClockAt, type SittingClock } from '../clock.svelte';
 	import { itemNumber, itemTitle, readMotion, targetLabel } from '../votes';
 
@@ -28,7 +29,7 @@
 			const q = targetLabel(readMotion(live.division.motion_text).target);
 			return votes.length > 1 ? `Vote ${n} of ${votes.length} · ${q}` : q;
 		}
-		return sitting.speakers[live.contribution.member_id]?.canonical_name ?? live.contribution.member_id;
+		return speakerName(live.contribution, sitting.speakers);
 	});
 	// Whole sitting seconds: the announced value changes at most once a second, not every frame.
 	const second = $derived(Math.floor(clock.t));

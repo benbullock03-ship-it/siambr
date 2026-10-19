@@ -2,8 +2,8 @@
   "ballots": [
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779120",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -13,8 +13,8 @@
     },
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779125",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -24,8 +24,8 @@
     },
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779128",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -112,8 +112,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773939",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -123,8 +123,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773957",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -134,8 +134,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773961",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -741,8 +741,34 @@
   "canonical_name": "Janet Finch-Saunders",
   "constituency_name_cy": "Bangor Conwy Môn",
   "constituency_name_en": "Bangor Conwy Môn",
-  "contribution_count": 66,
+  "contribution_count": 75,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-779087",
+          "item_id": "item-16316-261014-7",
+          "item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
+          "lang": "en",
+          "t_start": 11511,
+          "text_english": "Diolch, Lywydd. Cor blimey, I'm on my hobby horse now, I'm afraid. Now, this may shock some, but I have to begin by congratulating Reform. [Interruption.] Not because you've come up with a brilliant idea of a new policy, but because once again you've demonstrated an impressive talent for taking good Conservative ideas and applying the Reform logo to them. Now, as they say, imitation is the sincerest form of flattery. But let's just remind people in this Chamber who weren't here years ago—. I'll just remind you that you did that, of course, with your pre-election manifesto launch, which was a direct copy-and-paste job of good Conservative policies.\n\nNow then, it was a Welsh Conservative manifesto pledge to fix council tax, and has always been a solid manifesto pledge not only to fix council tax, but to reduce council tax. Indeed, it was the Conservatives who have long noted the importance of low council tax, and, in 2011, I was proud to have been elected here when the Right Honourable David Cameron, Conservative Prime Minister, actually provided a three years' council tax freeze—£50 million—to the Welsh Government, Labour propped up by Plaid Cymru. But guess what, folks? They did not pass those moneys on to secure reductions in council tax, instead spending it on their own pet projects.\n\nWe as a party, we fight to keep all taxes low. It is the solid foundation of the Conservative Party to allow those who work hard, and our cash-strapped pensioners, to have more money in their pockets, not just at the end of the week or the end of the month, but day in, day out. Now, we have long advocated—. And I can name the Secretaries, Cabinet Secretaries, Ministers that have been in post here—there isn't one that we haven't raised with, on these benches, the idea of a 5 per cent cap on council tax increases. If you look at our own local authority in Conwy, over the past three years nigh on 10 per cent—9.8 per cent; 9.6 per cent—and people are getting less. We've got more weeds than ever before, toilets closing down, we've got litter on our streets, and people genuinely wonder what on earth they pay their council tax for.\n\nNow, this system already exists in England, where referendums are required for what Government determines to be excessive council tax increases. The principle has been established for more than a decade and it does provide an important democratic safeguard. What is perhaps most remarkable is hearing this proposal from Reform, a party whose own councils in England have discovered that campaigning against tax rises is rather easier than governing in those councils. So, you say one thing before an election—. And this is pre-local government election talk and spin. [Interruption.] No, we mean it, every day. It's not a come-day, go-day. We believe that there should be a referendum on council tax. And, of course, we've made these same arguments for years; long before you were ever a twinkle in Nigel Farage's eye. [Laughter.]\n\nAcross Wales, residents are facing average council tax rises—average—of 7.2 per cent. But, as I've mentioned, there are others who have the audacity to try getting 10 per cent. Now, after 26—actually, it's 27 now—years of a Welsh Labour Government, propped up by Plaid Cymru, the council tax system in Wales is broken. [Interruption.] Yes. From you, Sarah, any day; yes.",
+          "text_original": "Diolch, Lywydd. Cor blimey, I'm on my hobby horse now, I'm afraid. Now, this may shock some, but I have to begin by congratulating Reform. [Interruption.] Not because you've come up with a brilliant idea of a new policy, but because once again you've demonstrated an impressive talent for taking good Conservative ideas and applying the Reform logo to them. Now, as they say, imitation is the sincerest form of flattery. But let's just remind people in this Chamber who weren't here years ago—. I'll just remind you that you did that, of course, with your pre-election manifesto launch, which was a direct copy-and-paste job of good Conservative policies.\n\nNow then, it was a Welsh Conservative manifesto pledge to fix council tax, and has always been a solid manifesto pledge not only to fix council tax, but to reduce council tax. Indeed, it was the Conservatives who have long noted the importance of low council tax, and, in 2011, I was proud to have been elected here when the Right Honourable David Cameron, Conservative Prime Minister, actually provided a three years' council tax freeze—£50 million—to the Welsh Government, Labour propped up by Plaid Cymru. But guess what, folks? They did not pass those moneys on to secure reductions in council tax, instead spending it on their own pet projects.\n\nWe as a party, we fight to keep all taxes low. It is the solid foundation of the Conservative Party to allow those who work hard, and our cash-strapped pensioners, to have more money in their pockets, not just at the end of the week or the end of the month, but day in, day out. Now, we have long advocated—. And I can name the Secretaries, Cabinet Secretaries, Ministers that have been in post here—there isn't one that we haven't raised with, on these benches, the idea of a 5 per cent cap on council tax increases. If you look at our own local authority in Conwy, over the past three years nigh on 10 per cent—9.8 per cent; 9.6 per cent—and people are getting less. We've got more weeds than ever before, toilets closing down, we've got litter on our streets, and people genuinely wonder what on earth they pay their council tax for.\n\nNow, this system already exists in England, where referendums are required for what Government determines to be excessive council tax increases. The principle has been established for more than a decade and it does provide an important democratic safeguard. What is perhaps most remarkable is hearing this proposal from Reform, a party whose own councils in England have discovered that campaigning against tax rises is rather easier than governing in those councils. So, you say one thing before an election—. And this is pre-local government election talk and spin. [Interruption.] No, we mean it, every day. It's not a come-day, go-day. We believe that there should be a referendum on council tax. And, of course, we've made these same arguments for years; long before you were ever a twinkle in Nigel Farage's eye. [Laughter.]\n\nAcross Wales, residents are facing average council tax rises—average—of 7.2 per cent. But, as I've mentioned, there are others who have the audacity to try getting 10 per cent. Now, after 26—actually, it's 27 now—years of a Welsh Labour Government, propped up by Plaid Cymru, the council tax system in Wales is broken. [Interruption.] Yes. From you, Sarah, any day; yes.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=11511"
+        },
+        {
+          "id": "contribution-779088",
+          "item_id": "item-16316-261014-7",
+          "item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
+          "lang": "en",
+          "t_start": 11792,
+          "text_english": "Sarah, you are right to point out that Reform say one thing and do another. Now—[Interruption.] The figures, I won't repeat them again, but—. A £600-plus increase in the average band D council tax bill in Wales over the past five years. The annual band D council tax bill in Conwy County Borough Council being £2,472 and in Kensington and Chelsea, £1,643. How can that be right?\n\nAfter more than two decades of Labour-led Government, with Plaid Cymru support, residents are paying more, but are not necessarily seeing improvements in services they deliver. I would ask, Cabinet Secretary, please have a look at ensuring that referendums are brought into Wales for council tax increases of 5 per cent or more. I think that way it would be very fair for our residents, our hard-working families, and, indeed, our cash-strapped pensioners. Diolch.",
+          "text_original": "Sarah, you are right to point out that Reform say one thing and do another. Now—[Interruption.] The figures, I won't repeat them again, but—. A £600-plus increase in the average band D council tax bill in Wales over the past five years. The annual band D council tax bill in Conwy County Borough Council being £2,472 and in Kensington and Chelsea, £1,643. How can that be right?\n\nAfter more than two decades of Labour-led Government, with Plaid Cymru support, residents are paying more, but are not necessarily seeing improvements in services they deliver. I would ask, Cabinet Secretary, please have a look at ensuring that referendums are brought into Wales for council tax increases of 5 per cent or more. I think that way it would be very fair for our residents, our hard-working families, and, indeed, our cash-strapped pensioners. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=11792"
+        }
+      ],
+      "date": "2026-10-14",
+      "record_page_url": "https://record.senedd.wales/Plenary/16316"
+    },
     {
       "contributions": [
         {
@@ -830,6 +856,76 @@
           "text_english": "Thanks, Niamh, for bringing this debate forward. This subject of contaminated land and pollution in our water supply is unfortunately a frequent topic in this Senedd Chamber and has been over the past number of years. Now, we have a new Plaid Cymru Government, and certainly when I was on the committee with Llyr Gruffydd as our Chair in the environment committee, this was a very big issue for us as a committee. And it's nice to see Carolyn Thomas up there, a former colleague of ours here in the Senedd, who also used to speak up very passionately and very strongly about contaminated land. Thank you, Carolyn.\n\nI strongly believe that in incidents involving contamination, leaks or the illegal dumping of waste, the perpetrator should be held responsible and required to cover the cost of clearing and restoring the site. This is especially important in cases that involve repeat offenders, such as Dave Neal. My colleague Paul Davies, over the years, has represented so many constituents who were badly affected, so much so that they used to have to keep their windows closed, and yet for years it went on and on and on. Fines aren't enough. Many of these environmental polluters simply add them as a business cost because the fines—. They make more money doing what they do than the cost of a fine, and it's wrong.\n\nWe must take a stronger stance against illegal dumping that contaminates our land and threatens our natural environment. Failure to take stronger action against these criminals has even brought down a former First Minister here. Accepting funding from individuals involved in this activity was shameful. So, I reiterate my call for stronger action to be taken against these organisations and for a clear message to be sent out today that this behaviour cannot and will not be allowed to continue. You pollute our land in Wales and you will pay.\n\nIn a freedom of information request conducted by Friends of the Earth, it was found that potentially over 45,000 contaminated land sites exist in Wales, yet only 82 sites are designated as contaminated. So, data collection and investigations and inspections are key. Only six out of our 22 councils provide a full public register online. Fifteen councils have an inspection strategy, but only four have updated it in the last five years. I'm sorry, but you need to really get a grip of this. These figures are deeply concerning, especially as we all know that contaminated land can have a significant impact on our health, our environment and our water supplies. Today, there have been some shocking examples of illnesses that people have contracted—some terminal—and we cannot stand by any more. And I thank the people in the gallery for the work that you do. You're not elected; you're volunteers, you're activists against these environmental criminals.\n\nIt is vital that these sites and other potential sites of contaminated land are reviewed, monitored and registered. This will ensure that we have current and up-to-date figures, allowing contamination to be identified and contained as effectively as possible. It is essential that joint action is taken by the Welsh and UK Governments, and appropriate resources to identify, assess, monitor and register are key. We also need to ensure that responsibility does not simply fall on local authorities and taxpayers when pollution has been caused by those who have chosen to break the law. Where wrongdoing can be established, those responsible should face appropriate enforcement and be required to contribute towards the costs of remediation. And if you think that a fine is enough, it isn't. If you keep polluting, you should go to prison.\n\nThe public should not be left to carry the financial burden of dealing with pollution caused by illegal activity. There must also be greater transparency around contaminated land. Communities should be able to understand where these sites are located, what risks have been identified, what action is being taken and whether that action is satisfactory. Regular inspections and up-to-date public registers would help. We must ensure that lessons are learned from previous incidents. Where contamination occurs, the response should be timely, co-ordinated and proportionate, with clear responsibility for investigating the source.\n\nThis is not simply about dealing with contamination after it has occurred; it is about prevention, enforcement and accountability. If we really are serious about protecting our land, our water supplies, our environment and the health of our people, then we must ensure that contaminated land is dealt with. Those who illegally dump waste or cause contamination must understand that there are serious consequences.\n\nI'll just say this: I would like the First Minister now—. And I am not calling for any further devolution, but I've called for this numerous times before. Currently, any fines from environmental pollution go to the UK Treasury. That is morally wrong. That money should come to Wales. So, do your best, First Minister; you will have my support. That money should come to help to pay for the pollution. But let you now, as the new Plaid Government, work with us all, because we're all against allowing these criminals to pollute. Diolch yn fawr iawn.",
           "text_original": "Thanks, Niamh, for bringing this debate forward. This subject of contaminated land and pollution in our water supply is unfortunately a frequent topic in this Senedd Chamber and has been over the past number of years. Now, we have a new Plaid Cymru Government, and certainly when I was on the committee with Llyr Gruffydd as our Chair in the environment committee, this was a very big issue for us as a committee. And it's nice to see Carolyn Thomas up there, a former colleague of ours here in the Senedd, who also used to speak up very passionately and very strongly about contaminated land. Thank you, Carolyn.\n\nI strongly believe that in incidents involving contamination, leaks or the illegal dumping of waste, the perpetrator should be held responsible and required to cover the cost of clearing and restoring the site. This is especially important in cases that involve repeat offenders, such as Dave Neal. My colleague Paul Davies, over the years, has represented so many constituents who were badly affected, so much so that they used to have to keep their windows closed, and yet for years it went on and on and on. Fines aren't enough. Many of these environmental polluters simply add them as a business cost because the fines—. They make more money doing what they do than the cost of a fine, and it's wrong.\n\nWe must take a stronger stance against illegal dumping that contaminates our land and threatens our natural environment. Failure to take stronger action against these criminals has even brought down a former First Minister here. Accepting funding from individuals involved in this activity was shameful. So, I reiterate my call for stronger action to be taken against these organisations and for a clear message to be sent out today that this behaviour cannot and will not be allowed to continue. You pollute our land in Wales and you will pay.\n\nIn a freedom of information request conducted by Friends of the Earth, it was found that potentially over 45,000 contaminated land sites exist in Wales, yet only 82 sites are designated as contaminated. So, data collection and investigations and inspections are key. Only six out of our 22 councils provide a full public register online. Fifteen councils have an inspection strategy, but only four have updated it in the last five years. I'm sorry, but you need to really get a grip of this. These figures are deeply concerning, especially as we all know that contaminated land can have a significant impact on our health, our environment and our water supplies. Today, there have been some shocking examples of illnesses that people have contracted—some terminal—and we cannot stand by any more. And I thank the people in the gallery for the work that you do. You're not elected; you're volunteers, you're activists against these environmental criminals.\n\nIt is vital that these sites and other potential sites of contaminated land are reviewed, monitored and registered. This will ensure that we have current and up-to-date figures, allowing contamination to be identified and contained as effectively as possible. It is essential that joint action is taken by the Welsh and UK Governments, and appropriate resources to identify, assess, monitor and register are key. We also need to ensure that responsibility does not simply fall on local authorities and taxpayers when pollution has been caused by those who have chosen to break the law. Where wrongdoing can be established, those responsible should face appropriate enforcement and be required to contribute towards the costs of remediation. And if you think that a fine is enough, it isn't. If you keep polluting, you should go to prison.\n\nThe public should not be left to carry the financial burden of dealing with pollution caused by illegal activity. There must also be greater transparency around contaminated land. Communities should be able to understand where these sites are located, what risks have been identified, what action is being taken and whether that action is satisfactory. Regular inspections and up-to-date public registers would help. We must ensure that lessons are learned from previous incidents. Where contamination occurs, the response should be timely, co-ordinated and proportionate, with clear responsibility for investigating the source.\n\nThis is not simply about dealing with contamination after it has occurred; it is about prevention, enforcement and accountability. If we really are serious about protecting our land, our water supplies, our environment and the health of our people, then we must ensure that contaminated land is dealt with. Those who illegally dump waste or cause contamination must understand that there are serious consequences.\n\nI'll just say this: I would like the First Minister now—. And I am not calling for any further devolution, but I've called for this numerous times before. Currently, any fines from environmental pollution go to the UK Treasury. That is morally wrong. That money should come to Wales. So, do your best, First Minister; you will have my support. That money should come to help to pay for the pollution. But let you now, as the new Plaid Government, work with us all, because we're all against allowing these criminals to pollute. Diolch yn fawr iawn.",
           "tv_url": "http://www.senedd.tv/en/16265?startPos=9421"
+        },
+        {
+          "id": "contribution-773772",
+          "item_id": "item-16265-260930-7",
+          "item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
+          "lang": "en",
+          "t_start": 12961,
+          "text_english": "Now, of course, I was here when this legislation came forward, as were my Welsh Conservative colleagues, and right from day one we said 'no' to the 20 mph default, blanket—call it what you like. The fact was that the majority of our roads were being turned back—",
+          "text_original": "Now, of course, I was here when this legislation came forward, as were my Welsh Conservative colleagues, and right from day one we said 'no' to the 20 mph default, blanket—call it what you like. The fact was that the majority of our roads were being turned back—",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=12961"
+        },
+        {
+          "id": "contribution-773774",
+          "item_id": "item-16265-260930-7",
+          "item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
+          "lang": "en",
+          "t_start": 13001,
+          "text_english": "I used both. [Laughter.]",
+          "text_original": "I used both. [Laughter.]",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=13001"
+        },
+        {
+          "id": "contribution-773777",
+          "item_id": "item-16265-260930-7",
+          "item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
+          "lang": "en",
+          "t_start": 13012,
+          "text_english": "I apologise for using the word 'blanket'. Anyway, we knew at that time, when the road network was subjected to 20 mph, 2024, it increased from 2 per cent to 37 per cent by road length. The Welsh Government's 2022 impact assessment estimated direct financial costs of around £33 million and a central net economic disbenefit of £4.54 billion over the years. Now, what kind of Government actually persuades or brings forward legislation that then damages its own residents and businesses? Absolutely rubbish.\n\nNow, in October 2025, Ynys Môn county council's planning and orders committee approved 22 of 25 exception proposals to return sections of road from 20 mph to 30 mph. And as Helen Jenner has quite rightly mentioned, the cost of this makes this institution, actually, and those in Government at that time, a laughing stock. Only it would be, if it wasn't so serious.\n\nNow, I support the motion calling on the Welsh Government to scrap Labour and Plaid Cymru's default 20 mph speed limit. Let me be clear, this is not an argument against 20 mph limits outside schools, near playgrounds, around hospitals or on highly populated residential streets, where evidence does show a genuine safety need. It is an argument against a blunt, one-size-fits-all default that treats very different roads as though they were the same. The Welsh Conservatives are clear: restore the 30 mph default while retaining 20 mph limits where they protect pedestrians and vulnerable road users.\n\nNow, Labour and Plaid Cymru, you chose the opposite approach, and, to this day, your co-operation agreement has left the legacy of this Senedd and, indeed, Wales with some terrible decisions made during that co-operation agreement, this being one of them. They imposed the default first, leaving councils and communities to work backwards, road by road, and traffic regulation order by traffic regulation order. And do you know what? It actually cost the Minister at the time their job.\n\nPublic opposition could not have been clearer. A record nearly 500,000 constituents out of a just over 3 million population said 'no', but they were ignored. Public opposition should be listened to. These people were not opposed to road safety. They simply wanted common sense, local knowledge and the right speed limit on the right road. Lee Waters, the Minister responsible, told the Senedd that the Buckley pilot showed that an area-wide approach does not work. He also said that piloting involves failing and learning from the failure. So, if the pilot showed an area-wide approach had not worked, why was a nationwide default imposed before those lessons were reflected in the roll-out? The public were assured that the policy had been carefully designed, yet, in 2024, the Welsh Government—oh, Ken's gone now—revised its guidance, allowing councils to identify roads. And, Helen, we've still got roads in Conwy, actually, that haven't gone back to 30 mph. They just haven't put the signs up yet. The consequences are visible in my constituency.\n\nNow, this is Government in reverse. Ministers imposed the default nationally, rejected an unprecedented public demand for change, and expected councils to sort out the consequences locally. The costs are substantial. I get in a taxi now when I get here from Bangor Conwy Môn, and I ask the taxi driver, 'How does the 20 mph affect you?' And they hate it. They say it actually hits their pockets. And taxi driving isn't the easiest job in the world.\n\nI'm going to finish now. Look, we didn't put any amendments forward. We wholeheartedly support this debate. And if you had listened to your residents during election time, and even now since, you would all be supporting this 20 mph.",
+          "text_original": "I apologise for using the word 'blanket'. Anyway, we knew at that time, when the road network was subjected to 20 mph, 2024, it increased from 2 per cent to 37 per cent by road length. The Welsh Government's 2022 impact assessment estimated direct financial costs of around £33 million and a central net economic disbenefit of £4.54 billion over the years. Now, what kind of Government actually persuades or brings forward legislation that then damages its own residents and businesses? Absolutely rubbish.\n\nNow, in October 2025, Ynys Môn county council's planning and orders committee approved 22 of 25 exception proposals to return sections of road from 20 mph to 30 mph. And as Helen Jenner has quite rightly mentioned, the cost of this makes this institution, actually, and those in Government at that time, a laughing stock. Only it would be, if it wasn't so serious.\n\nNow, I support the motion calling on the Welsh Government to scrap Labour and Plaid Cymru's default 20 mph speed limit. Let me be clear, this is not an argument against 20 mph limits outside schools, near playgrounds, around hospitals or on highly populated residential streets, where evidence does show a genuine safety need. It is an argument against a blunt, one-size-fits-all default that treats very different roads as though they were the same. The Welsh Conservatives are clear: restore the 30 mph default while retaining 20 mph limits where they protect pedestrians and vulnerable road users.\n\nNow, Labour and Plaid Cymru, you chose the opposite approach, and, to this day, your co-operation agreement has left the legacy of this Senedd and, indeed, Wales with some terrible decisions made during that co-operation agreement, this being one of them. They imposed the default first, leaving councils and communities to work backwards, road by road, and traffic regulation order by traffic regulation order. And do you know what? It actually cost the Minister at the time their job.\n\nPublic opposition could not have been clearer. A record nearly 500,000 constituents out of a just over 3 million population said 'no', but they were ignored. Public opposition should be listened to. These people were not opposed to road safety. They simply wanted common sense, local knowledge and the right speed limit on the right road. Lee Waters, the Minister responsible, told the Senedd that the Buckley pilot showed that an area-wide approach does not work. He also said that piloting involves failing and learning from the failure. So, if the pilot showed an area-wide approach had not worked, why was a nationwide default imposed before those lessons were reflected in the roll-out? The public were assured that the policy had been carefully designed, yet, in 2024, the Welsh Government—oh, Ken's gone now—revised its guidance, allowing councils to identify roads. And, Helen, we've still got roads in Conwy, actually, that haven't gone back to 30 mph. They just haven't put the signs up yet. The consequences are visible in my constituency.\n\nNow, this is Government in reverse. Ministers imposed the default nationally, rejected an unprecedented public demand for change, and expected councils to sort out the consequences locally. The costs are substantial. I get in a taxi now when I get here from Bangor Conwy Môn, and I ask the taxi driver, 'How does the 20 mph affect you?' And they hate it. They say it actually hits their pockets. And taxi driving isn't the easiest job in the world.\n\nI'm going to finish now. Look, we didn't put any amendments forward. We wholeheartedly support this debate. And if you had listened to your residents during election time, and even now since, you would all be supporting this 20 mph.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=13012"
+        },
+        {
+          "id": "contribution-773803",
+          "item_id": "item-16265-260930-7",
+          "item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
+          "lang": "en",
+          "t_start": 14084,
+          "text_english": "Would you take an intervention?",
+          "text_original": "Would you take an intervention?",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=14084"
+        },
+        {
+          "id": "contribution-773805",
+          "item_id": "item-16265-260930-7",
+          "item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
+          "lang": "en",
+          "t_start": 14088,
+          "text_english": "That's very generous. Would you not agree with me that the reason why there's so few Labour people sitting on benches now—? This was one of the fundamental reasons why the people of Wales were so angry—that their petition of 0.5 million people was completely ignored. They were furious about the 20 mph policy. It has actually changed the Government here.",
+          "text_original": "That's very generous. Would you not agree with me that the reason why there's so few Labour people sitting on benches now—? This was one of the fundamental reasons why the people of Wales were so angry—that their petition of 0.5 million people was completely ignored. They were furious about the 20 mph policy. It has actually changed the Government here.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=14088"
+        },
+        {
+          "id": "contribution-773826",
+          "item_id": "item-16265-260930-7",
+          "item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
+          "lang": "en",
+          "t_start": 15380,
+          "text_english": "Llywydd, on a point of order, I find it really bad that the Minister is sat almost intimidating—",
+          "text_original": "Llywydd, on a point of order, I find it really bad that the Minister is sat almost intimidating—",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=15380"
+        },
+        {
+          "id": "contribution-773832",
+          "item_id": "item-16265-260930-7",
+          "item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
+          "lang": "en",
+          "t_start": 15395,
+          "text_english": "The Minister is completely reversed in his chair, almost intimidating a Member that is speaking.",
+          "text_original": "The Minister is completely reversed in his chair, almost intimidating a Member that is speaking.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=15395"
         },
         {
           "id": "contribution-773865",

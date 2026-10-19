@@ -57,6 +57,7 @@ class NormalisedSession:
     contributions: list[tuple] = field(default_factory=list)
     tabled_texts: list[tuple] = field(default_factory=list)
     skipped: list[str] = field(default_factory=list)
+    unattributed: list[str] = field(default_factory=list)
 
     @property
     def session_id(self) -> str:
@@ -118,10 +119,15 @@ def normalise(body: bytes, known_members: set[str], source_url: str) -> Normalis
         speeches = [r for r in item_rows
                     if r.contribution_type in SPEECH_TYPES and r.mg_member_id
                     and plenary_xml.html_to_text(r.verbatim_html)]
+        # The Record can name a speaker who is not an MS (the Counsel General) or only an anonymous
+        # label. Their words are still the Record's, so the item is published with the publisher's
+        # own label rather than skipped whole (T-13, migration 011).
         unresolved = sorted({r.member_name for r in speeches if member_id_for(r.member_name, known_members) is None})
         if unresolved:
-            out.skipped.append(f"{title_en!r}: unmatched speaker(s) {', '.join(unresolved)}")
-            continue
+            out.unattributed.append(
+                f"{title_en!r}: {sum(1 for r in speeches if r.member_name in unresolved)} speech(es) "
+                f"not attributed to a Member ({', '.join(unresolved)})"
+            )
 
         item_id = f"item-{first.meeting_id}-{agenda_id}"
         clip = next((c for r in item_rows
@@ -138,8 +144,12 @@ def normalise(body: bytes, known_members: set[str], source_url: str) -> Normalis
                 presiding = member_id
             original = plenary_xml.html_to_text(r.verbatim_html)
             english = original if r.language == "en" else plenary_xml.html_to_text(r.translated_html)
-            out.contributions.append((f"contribution-{r.contribution_id}", item_id, member_id, seq, r.language,
-                                      original, english, plenary_xml.start_pos(r.spoken_tv_url)))
+            # Publisher's own label and role, kept verbatim; NULL when the speaker is a Member.
+            speaker_name = None if member_id else r.member_name
+            speaker_role = None if member_id else (r.job_title_en or None)
+            out.contributions.append((f"contribution-{r.contribution_id}", item_id, member_id, speaker_name,
+                                      speaker_role, seq, r.language, original, english,
+                                      plenary_xml.start_pos(r.spoken_tv_url)))
 
         tabled = [r for r in item_rows if r.contribution_type in TABLED_TYPES and plenary_xml.html_to_text(r.verbatim_html)]
         for seq, r in enumerate(tabled):
@@ -192,9 +202,10 @@ def write_session(conn: sqlite3.Connection, n: NormalisedSession, *, rewrite: bo
             n.items,
         )
         conn.executemany(
-            """INSERT INTO debate_contributions (id, agenda_item_id, member_id, sequence_number, spoken_language,
-                   verbatim_text_original, verbatim_text_english, video_timestamp_start)
-               VALUES (?, ?, ?, ?, ?, ?, ?, ?)""",
+            """INSERT INTO debate_contributions (id, agenda_item_id, member_id, speaker_name, speaker_role,
+                   sequence_number, spoken_language, verbatim_text_original, verbatim_text_english,
+                   video_timestamp_start)
+               VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)""",
             n.contributions,
         )
         conn.executemany(

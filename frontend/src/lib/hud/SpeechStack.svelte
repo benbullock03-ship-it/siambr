@@ -44,7 +44,7 @@
 
 <ol class="stack">
 	{#each speeches as s (s.id)}
-		{@const who = speakerOf(speakers, s.member_id)}
+		{@const who = speakerOf(speakers, s)}
 		{@const isTarget = targetSpeechId === s.id}
 		{@const isSpeakerMatch = Boolean(targetSpeakerId && targetSpeakerId === s.member_id)}
 		<li

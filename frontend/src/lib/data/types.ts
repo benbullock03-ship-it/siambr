@@ -101,7 +101,14 @@ export interface Contribution {
 	id: string;
 	item_id: string;
 	seq: number;
-	member_id: string;
+	/** Null when the Record attributed the speech to no Member; speaker_name carries its own label. */
+	member_id: string | null;
+	/** The publisher's own label for an unattributed speaker ("Elfyn Llwyd"); null when attributed. */
+	speaker_name: string | null;
+	/** The publisher's role for that speaker ("Counsel General"); null when none. */
+	speaker_role: string | null;
+	/** True when member_id is null: the Record named no Member. Never a Siambr judgement. */
+	unattributed: boolean;
 	lang: Lang;
 	/** Verbatim from Y Cofnod. Never edited. */
 	text_original: string;
@@ -164,7 +171,20 @@ export interface Sitting {
 	tabled_texts: TabledText[];
 	divisions: Division[];
 	speakers: Record<string, MemberLight>;
+	/** Speech the Record attributed to no Member, grouped by the publisher's own label. */
+	unattributed: UnattributedSummary;
 	provenance: Record<string, ProvenanceDerived>;
+}
+
+export interface UnattributedSpeaker {
+	name: string;
+	role: string | null;
+	contributions: number;
+}
+
+export interface UnattributedSummary {
+	contributions: number;
+	speakers: UnattributedSpeaker[];
 }
 
 export interface Tenure {
@@ -256,7 +276,8 @@ export interface ContributionDocument {
 	date: string;
 	item_id: string;
 	item: string;
-	member_id: string;
+	/** Null for unattributed speech; `member` then carries the publisher's own label. */
+	member_id: string | null;
 	member: string;
 	lang: Lang;
 	t: number | null;
@@ -319,6 +340,16 @@ export interface StatTotals {
 	welsh_contributions: number;
 	/** Welsh contributions as a share of the contributions counted here. */
 	welsh_share: number;
+	/** Part of the counts above, and never part of a Member's or party's share. */
+	unattributed_contributions: number;
+	unattributed_seconds: number;
+}
+
+/** Speech the Record attributed to no Member: reported, never folded into a party or a Member. */
+export interface UnattributedStat {
+	contributions: number;
+	seconds: number;
+	untimed_contributions: number;
 }
 
 export interface MemberStat {
@@ -363,6 +394,7 @@ export interface SittingStats {
 	totals: StatTotals;
 	by_member: MemberStat[];
 	by_party: PartyStat[];
+	unattributed: UnattributedStat;
 	by_item: ItemStat[];
 }
 
@@ -386,6 +418,7 @@ export interface TermStats {
 	totals: StatTotals;
 	by_member: MemberStat[];
 	by_party: PartyStat[];
+	unattributed: UnattributedStat;
 	by_sitting: ({ date: string } & StatTotals)[];
 	party_by_domain: {
 		domain_provenance: ProvenanceDerived;

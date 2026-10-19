@@ -44,6 +44,7 @@ class SyncResult:
     divisions: int = 0
     unresolved_divisions: list[str] = field(default_factory=list)
     streams_changed: list[str] = field(default_factory=list)
+    unattributed_items: int = 0
     exported: bool = False
     error: str | None = None
 
@@ -65,12 +66,14 @@ class SyncResult:
                 parts.append(f"{len(self.unresolved_divisions)} divisions unresolved")
         if self.streams_changed:
             parts.append(f"{len(self.streams_changed)} streams changed")
+        if self.unattributed_items:
+            parts.append(f"{self.unattributed_items} items with unattributed speech")
         parts.append("exported" if self.exported else "no export")
         return "sync: " + ", ".join(parts)
 
 
 def sync(conn: sqlite3.Connection, *, window_days: int = WINDOW_DAYS, today: date | None = None,
-         out: Path = DEFAULT_OUT, log=print) -> SyncResult:
+         out: Path = DEFAULT_OUT, rewrite: bool = False, log=print) -> SyncResult:
     """Run one poll against the live index and return what happened. Raises on an unhandled error."""
     today = today or date.today()
     start = (today - timedelta(days=window_days)).isoformat()
@@ -90,13 +93,22 @@ def sync(conn: sqlite3.Connection, *, window_days: int = WINDOW_DAYS, today: dat
             result.unavailable.append(meeting_id)
             continue
         n = normalise(body, known, plenary_xml.download_url(meeting_id))
-        status = write_session(conn, n)
+        status = write_session(conn, n, rewrite=rewrite)
         if status == "written":
             result.changed_dates.append(n.session_date)
             changed_meetings.append((meeting_id, n.session_date))
             log(f"meeting {meeting_id} ({n.session_date}): replaced; {len(n.items)} items, {len(n.contributions)} speeches")
             for reason in n.skipped:
                 log(f"  skipped item {reason}")
+            for note in n.unattributed:
+                result.unattributed_items += 1
+                log(f"  unattributed {note}")
+
+    if listed and len(result.unavailable) == len(listed):
+        # Silence from every listed meeting is an outage, not a quiet day; fail the run so the
+        # scheduled job emails rather than looking green while the record stops moving.
+        result.error = f"all {len(listed)} listed meetings were unavailable"
+        return result
 
     for session_date, meeting_id in listed:
         if meeting_id not in result.unavailable and senedd_tv.refresh_stream(conn, meeting_id, log=log):
@@ -124,8 +136,11 @@ def sync(conn: sqlite3.Connection, *, window_days: int = WINDOW_DAYS, today: dat
 def record_run(conn: sqlite3.Connection, started_at: str, result: SyncResult) -> None:
     with conn:
         conn.execute(
-            "INSERT INTO sync_runs (started_at, finished_at, sessions_changed, error) VALUES (?, ?, ?, ?)",
-            (started_at, utcnow(), result.changed, result.error),
+            """INSERT INTO sync_runs (started_at, finished_at, sessions_changed, error, meetings_listed,
+                   meetings_unavailable, unattributed_contributions)
+               VALUES (?, ?, ?, ?, ?, ?, ?)""",
+            (started_at, utcnow(), result.changed, result.error, result.listed,
+             len(result.unavailable), result.unattributed_items),
         )
     # The DB file is committed as-is, so nothing may be left in the WAL.
     conn.execute("PRAGMA wal_checkpoint(TRUNCATE)")
@@ -136,13 +151,15 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--window-days", type=int, default=WINDOW_DAYS)
     parser.add_argument("--db", default=str(DEFAULT_DB_PATH))
     parser.add_argument("--out", default=str(DEFAULT_OUT))
+    parser.add_argument("--rewrite", action="store_true",
+                        help="replace sessions even when the XML checksum matches (after a schema change)")
     args = parser.parse_args(argv)
 
     started_at = utcnow()
     conn = create_connection(args.db)
     try:
         try:
-            result = sync(conn, window_days=args.window_days, out=Path(args.out))
+            result = sync(conn, window_days=args.window_days, out=Path(args.out), rewrite=args.rewrite)
         except Exception as e:  # noqa: BLE001 - the row must record whatever went wrong
             result = SyncResult(error=f"{type(e).__name__}: {e}")
             traceback.print_exc(file=sys.stderr)

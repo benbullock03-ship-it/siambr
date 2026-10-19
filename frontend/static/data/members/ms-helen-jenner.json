@@ -2,8 +2,8 @@
   "ballots": [
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779120",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -13,8 +13,8 @@
     },
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779125",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -24,8 +24,8 @@
     },
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779128",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -112,8 +112,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773939",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -123,8 +123,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773957",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -134,8 +134,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773961",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -741,7 +741,7 @@
   "canonical_name": "Helen Jenner",
   "constituency_name_cy": "Bangor Conwy Môn",
   "constituency_name_en": "Bangor Conwy Môn",
-  "contribution_count": 45,
+  "contribution_count": 48,
   "contributions_by_date": [
     {
       "contributions": [
@@ -834,6 +834,42 @@
       ],
       "date": "2026-10-06",
       "record_page_url": "https://record.senedd.wales/Plenary/16313"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-773763",
+          "item_id": "item-16265-260930-7",
+          "item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
+          "lang": "cy",
+          "t_start": 12381,
+          "text_english": "I welcome the opportunity to take part in this debate, and I thank my fellow Members for their contributions today. Our position on the 20 mph limit is clear. We stood on a pledge to scrap the default policy and to return to speed limits that are based on evidence. That remains our position. We make no apology for standing up for common sense and saving public money.",
+          "text_original": "Dwi’n croesawu’r cyfle i gymryd rhan yn y ddadl yma, ac yn diolch i fy nghyd-Aelodau am eu cyfraniadau heddiw. Mae’n safbwynt ni ar 20 mya yn glir. Fe wnaethon ni sefyll ar addewid i gael gwared ar y polisi diofyn a mynd yn ôl at derfynau cyflymder sy’n seiliedig ar dystiolaeth. Dyna yw ein safbwynt ni o hyd. Ni fyddwn ni’n ymddiheuro am sefyll dros synnwyr cyffredin ac arbed arian cyhoeddus.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=12381"
+        },
+        {
+          "id": "contribution-773764",
+          "item_id": "item-16265-260930-7",
+          "item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
+          "lang": "en",
+          "t_start": 12411,
+          "text_english": "I want to concentrate my contribution on what the 20 mph default policy has actually meant for communities and councils across my constituency of Bangor Conwy Môn. When the default policy—the default policy—was first introduced, local authorities were required to make substantial changes across their road networks before many of those same roads were then reconsidered and, in some cases, changed back again. On Ynys Môn, nearly 700 road signs were replaced ahead of the introduction of the default limit. The council then had to revisit a number of roads, consider 25 proposals to restore 30 mph limits and ultimately approve 22 of them. Is it any wonder our electors get so frustrated when public money is wasted in this way?\n\nConwy Borough County Council has been through the same process. It received 702 representations relating to 149 streets or sections of road, before further roads were subsequently returned to 30 mph. Gwynedd also identified a significant number of locations where 30 mph was considered the more appropriate limit.\n\nThis tells us something very simple. The road network of north Wales cannot sensibly be governed by a one-size-fits-all assumption. Bangor Conwy Môn contains a city, large towns, villages, rural communities, schools, hospitals, residential estates and major connecting roads. A road through central Bangor is not necessarily performing the same function as a road through rural Ynys Môn or Dyffryn Conwy.\n\nYet the policy started from the assumption that 20 mph should be the norm and then forced councils to work backwards from there. It was nothing less than lazy politics. In 2024-25, the Welsh Government allocated £107,500 to Ynys Môn, £110,000 to Conwy and £20,000 to Gwynedd specifically for implementation of the 20 mph policy. Further funding followed in 2025-26, including £421,000 for Môn, £120,000 for Conwy and £54,000 for Gwynedd. Across those three authorities, that is £832,568 over two financial years. That does not capture all of the officer time involved in reviewing roads, consulting residents, preparing traffic regulation orders, dealing with objections, changing signage and then, in some cases, going back to roads that had only recently been altered. People are entitled to ask whether that was a good use of public money. \n\nI want to be equally clear about what Reform is proposing, because there should be no attempt to misrepresent our position. We are not saying that every road should revert back to 30 mph. There are roads outside schools, hospitals and through residential communities where 20 mph will quite properly be the safest and most appropriate limit. What we reject is the default. The starting point should be the road itself, its location, its character, its collision history, the number of pedestrians using it, whether there is a school or hospital nearby, whether it is a residential street or an important route connecting rural communities. That is what an evidence-led system should look like, a commonsense system.\n\nFor many people across Bangor Conwy Môn, particularly in rural communities, the car is not a luxury, it is how people get to work, take their children to school, attend hospital appointments and access shops and essential services. Transport policy has to recognise that reality as well as the importance of road safety. The experience of the last three years has shown that councils are already having to make these judgments road by road. Reform believes they should have been allowed to make those judgments in the first place. Scrap the default, keep 20 mph where the evidence supports it, set limits according to the road and the community it serves. That is a far more sensible approach for Bangor Conwy Môn, for rural Wales and, we believe, for Wales as a whole. Diolch yn fawr.",
+          "text_original": "I want to concentrate my contribution on what the 20 mph default policy has actually meant for communities and councils across my constituency of Bangor Conwy Môn. When the default policy—the default policy—was first introduced, local authorities were required to make substantial changes across their road networks before many of those same roads were then reconsidered and, in some cases, changed back again. On Ynys Môn, nearly 700 road signs were replaced ahead of the introduction of the default limit. The council then had to revisit a number of roads, consider 25 proposals to restore 30 mph limits and ultimately approve 22 of them. Is it any wonder our electors get so frustrated when public money is wasted in this way?\n\nConwy Borough County Council has been through the same process. It received 702 representations relating to 149 streets or sections of road, before further roads were subsequently returned to 30 mph. Gwynedd also identified a significant number of locations where 30 mph was considered the more appropriate limit.\n\nThis tells us something very simple. The road network of north Wales cannot sensibly be governed by a one-size-fits-all assumption. Bangor Conwy Môn contains a city, large towns, villages, rural communities, schools, hospitals, residential estates and major connecting roads. A road through central Bangor is not necessarily performing the same function as a road through rural Ynys Môn or Dyffryn Conwy.\n\nYet the policy started from the assumption that 20 mph should be the norm and then forced councils to work backwards from there. It was nothing less than lazy politics. In 2024-25, the Welsh Government allocated £107,500 to Ynys Môn, £110,000 to Conwy and £20,000 to Gwynedd specifically for implementation of the 20 mph policy. Further funding followed in 2025-26, including £421,000 for Môn, £120,000 for Conwy and £54,000 for Gwynedd. Across those three authorities, that is £832,568 over two financial years. That does not capture all of the officer time involved in reviewing roads, consulting residents, preparing traffic regulation orders, dealing with objections, changing signage and then, in some cases, going back to roads that had only recently been altered. People are entitled to ask whether that was a good use of public money. \n\nI want to be equally clear about what Reform is proposing, because there should be no attempt to misrepresent our position. We are not saying that every road should revert back to 30 mph. There are roads outside schools, hospitals and through residential communities where 20 mph will quite properly be the safest and most appropriate limit. What we reject is the default. The starting point should be the road itself, its location, its character, its collision history, the number of pedestrians using it, whether there is a school or hospital nearby, whether it is a residential street or an important route connecting rural communities. That is what an evidence-led system should look like, a commonsense system.\n\nFor many people across Bangor Conwy Môn, particularly in rural communities, the car is not a luxury, it is how people get to work, take their children to school, attend hospital appointments and access shops and essential services. Transport policy has to recognise that reality as well as the importance of road safety. The experience of the last three years has shown that councils are already having to make these judgments road by road. Reform believes they should have been allowed to make those judgments in the first place. Scrap the default, keep 20 mph where the evidence supports it, set limits according to the road and the community it serves. That is a far more sensible approach for Bangor Conwy Môn, for rural Wales and, we believe, for Wales as a whole. Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=12411"
+        },
+        {
+          "id": "contribution-773829",
+          "item_id": "item-16265-260930-7",
+          "item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
+          "lang": "en",
+          "t_start": 15388,
+          "text_english": "He's not scared of them.",
+          "text_original": "He's not scared of them.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=15388"
+        }
+      ],
+      "date": "2026-09-30",
+      "record_page_url": "https://record.senedd.wales/Plenary/16265"
     },
     {
       "contributions": [

@@ -2,8 +2,8 @@
   "ballots": [
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779120",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -13,8 +13,8 @@
     },
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779125",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -24,8 +24,8 @@
     },
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779128",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -112,8 +112,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773939",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -123,8 +123,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773957",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -134,8 +134,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773961",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -741,7 +741,7 @@
   "canonical_name": "Matthew Jones",
   "constituency_name_cy": "Sir Fynwy Torfaen",
   "constituency_name_en": "Sir Fynwy Torfaen",
-  "contribution_count": 30,
+  "contribution_count": 31,
   "contributions_by_date": [
     {
       "contributions": [
@@ -884,6 +884,16 @@
           "text_english": "First Minister, Monmouthshire has faced catastrophic flooding in recent years, and I was pleased that you were able to visit Monmouth and Abergavenny before the Senedd elections to speak to some of the local people affected, as well as to those finding solutions—long-lasting solutions—upstream. The scenes from last year’s flooding, especially those from Monmouth, will be etched in the memory of everyone who saw them for a long time. These once in 100 years events are getting more and more frequent, and we must now assume that they could happen at any time. As we've heard, the approaching El Niño event is on the horizon, with extreme weather events already anticipated, so, with this in mind, how is the Government improving flood preparedness for this winter? And in the longer term, how can we learn from the experiences of Monmouthshire residents to improve flood management for their community and for all of Wales? Diolch.",
           "text_original": "First Minister, Monmouthshire has faced catastrophic flooding in recent years, and I was pleased that you were able to visit Monmouth and Abergavenny before the Senedd elections to speak to some of the local people affected, as well as to those finding solutions—long-lasting solutions—upstream. The scenes from last year’s flooding, especially those from Monmouth, will be etched in the memory of everyone who saw them for a long time. These once in 100 years events are getting more and more frequent, and we must now assume that they could happen at any time. As we've heard, the approaching El Niño event is on the horizon, with extreme weather events already anticipated, so, with this in mind, how is the Government improving flood preparedness for this winter? And in the longer term, how can we learn from the experiences of Monmouthshire residents to improve flood management for their community and for all of Wales? Diolch.",
           "tv_url": "http://www.senedd.tv/en/16262?startPos=2098"
+        },
+        {
+          "id": "contribution-770868",
+          "item_id": "item-16262-260922-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "3. What legal advice has the Counsel General provided to the Government regarding maintaining the Senedd’s legislative competence where the Welsh Government and UK Government's views differ? OQ64507",
+          "text_original": "3. Pa gyngor cyfreithiol y mae’r Cwnsler Cyffredinol wedi’i roi i’r Llywodraeth ar amddiffyn cymhwysedd deddfwriaethol y Senedd lle mae safbwyntiau Llywodraeth Cymru a Llywodraeth y DU yn wahanol? OQ64507",
+          "tv_url": "http://www.senedd.tv/en/16262"
         },
         {
           "id": "contribution-770936",

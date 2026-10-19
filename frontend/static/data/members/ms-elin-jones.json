@@ -2,8 +2,8 @@
   "ballots": [
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779120",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -13,8 +13,8 @@
     },
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779125",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -24,8 +24,8 @@
     },
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779128",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -112,8 +112,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773939",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -123,8 +123,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773957",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -134,8 +134,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773961",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -741,7 +741,7 @@
   "canonical_name": "Elin Jones",
   "constituency_name_cy": "Ceredigion Penfro",
   "constituency_name_en": "Ceredigion Penfro",
-  "contribution_count": 142,
+  "contribution_count": 145,
   "contributions_by_date": [
     {
       "contributions": [
@@ -1004,6 +1004,36 @@
           "text_english": "Your question highlights probably the very real concerns that we all as elected Members in the Senedd have as to how we face the extreme weather challenges that will face us this winter, as have faced us in the summer past. You know that this Government takes its response and its planning for future events of this nature seriously. The First Minister has convened a summit on climate resilience to happen next week, I think, to bring stakeholders together to continue the discussion on how we prepare and make ourselves more resilient for extreme weather scenarios, because happen they will.\n\nOn the issue around how we budget for that, in my initial answer I told you of how we are looking to embed climate change mitigation measures across our budget. You've asked for a specific identification of an extreme weather resilience fund, if I've understood you correctly, across and in each budget allocation and portfolio. That is something that I will certainly think further on and discuss with you and with others in this Chamber. These are ever-changing but very present issues that we need to address as a Government, but also as a Senedd, in how we plan our budgets into the future and how we plan our work.",
           "text_original": "Your question highlights probably the very real concerns that we all as elected Members in the Senedd have as to how we face the extreme weather challenges that will face us this winter, as have faced us in the summer past. You know that this Government takes its response and its planning for future events of this nature seriously. The First Minister has convened a summit on climate resilience to happen next week, I think, to bring stakeholders together to continue the discussion on how we prepare and make ourselves more resilient for extreme weather scenarios, because happen they will.\n\nOn the issue around how we budget for that, in my initial answer I told you of how we are looking to embed climate change mitigation measures across our budget. You've asked for a specific identification of an extreme weather resilience fund, if I've understood you correctly, across and in each budget allocation and portfolio. That is something that I will certainly think further on and discuss with you and with others in this Chamber. These are ever-changing but very present issues that we need to address as a Government, but also as a Senedd, in how we plan our budgets into the future and how we plan our work.",
           "tv_url": "http://www.senedd.tv/en/16316?startPos=5642"
+        },
+        {
+          "id": "contribution-779069",
+          "item_id": "item-16316-261014-7",
+          "item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
+          "lang": "cy",
+          "t_start": 10571,
+          "text_english": "Formally moved.",
+          "text_original": "Cynnig yn ffurfiol.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=10571"
+        },
+        {
+          "id": "contribution-779115",
+          "item_id": "item-16316-261014-7",
+          "item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
+          "lang": "cy",
+          "t_start": 12803,
+          "text_english": "Llywydd, I welcome this opportunity to contribute to this debate on the proposal for a regime of council tax referenda similar to those seen in England. Plaid Cymru does not believe that the Welsh Government should impose arbitrary and fixed national targets on council tax rises, which disregard local circumstances and volatile and diverse economic contexts. Annual decisions about local taxes should be made by locally elected councillors who are accountable to the communities that they serve.\n\nOf course, local decisions need to consider the cost-of-living pressures facing households, just as our national decisions will prioritise actions to reduce the financial pressures facing families. But council tax helps to fund schools, social care services, housing services, policing and all of the local services that our communities rely on every day.\n\nThere are many comparisons that have been made during this debate, many of them with England, but there is one comparison that hasn't been made. Despite the referendum policy in England, average band D council tax in Welsh councils is £109 less than in England. So, taxpayers in Wales pay less council tax than council tax payers in England, and they continue to do so even though they have that policy in place in England.\n\nLocal referenda under this motion would come with significant costs and bureaucracy needlessly, at a time when resources are better directed at protecting front-line services. Only one local referendum has ever been called under this policy in England, in Bedfordshire, with the police and crime commissioner, and it was estimated that that referendum cost around £600,000 to taxpayers.",
+          "text_original": "Lywydd, dwi'n croesawu'r cyfle i gyfrannu at y ddadl yma ar y cynnig i gyflwyno trefniadau refferenda treth gyngor fel sydd i'w gweld yn Lloegr. Nid yw Llywodraeth Cymru yn credu y dylid gosod targedau cenedlaethol penodedig a mympwyol ar godiadau yn y dreth gyngor, sy'n anwybyddu amgylchiadau lleol a chyd-destunau economaidd amrywiol. Dylai penderfyniadau blynyddol am drethi lleol gael eu gwneud gan gynghorwyr a etholwyd yn lleol sy'n atebol i'r cymunedau y maen nhw yn eu gwasanaethu.\n\nWrth gwrs, dylai'r penderfyniadau lleol hynny ystyried y pwysau costau byw sy'n wynebu aelwydydd, yn union fel y bydd ein penderfyniadau ni ar lefel genedlaethol yn blaenoriaethu camau i leihau'r pwysau ariannol sy'n wynebu teuluoedd. Ond mae'r dreth gyngor yn helpu i ariannu ysgolion, gwasanaethau gofal cymdeithasol, tai, plismona a'r holl wasanaethau lleol y mae ein cymunedau'n dibynnu arnyn nhw bob dydd.\n\nMae yna lot o gymariaethau wedi'u gwneud yn ystod y ddadl yma, a lot ohonyn nhw gyda Lloegr, ond mae yna un gymhariaeth sydd heb ei gwneud. Er y polisi refferendwm yn Lloegr, mae treth gyngor band D cyfartalog cynghorau Cymru £109 yn is na Lloegr. Felly, mae trethdalwyr Cymru ar gyfartaledd yn talu llai o dreth gyngor na threthdalwyr treth gyngor yn Lloegr o hyd, hyd yn oed gyda'r polisi sydd yn weithredol yn Lloegr.\n\nFe fyddai refferenda lleol o dan y cynnig yma yn golygu costau a biwrocratiaeth sylweddol, a hynny'n hollol ddiangen ar adeg pan fyddai'n well cyfeirio adnoddau tuag at ddiogelu gwasanaethau rheng flaen. Dim ond un refferendwm lleol sydd wedi'i gynnal o dan y polisi yma yn Lloegr, yn Bedfordshire, gyda'r comisiynydd heddlu, ac amcangyfrifwyd i hwnnw gostio tua £600,000 i'r trethdalwr.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=12803"
+        },
+        {
+          "id": "contribution-779095",
+          "item_id": "item-16316-261014-7",
+          "item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
+          "lang": "cy",
+          "t_start": 12909,
+          "text_english": "Of course, over the past few years, several local authorities in England have been granted permission by Whitehall to exceed referendum limits, that limit of 5 per cent. There are several references already made to this. For example, one of the exceptions granted was in February of this year for Reform-led Worcestershire County Council, and they received permission to increase council tax by 9 per cent, which is higher than any increase seen across Wales this year. The average increase in Wales this year at council level was 4.8 per cent, which is the lowest average increase since 2022. The increase chosen by councils was as low as 3.6 per cent in some cases, demonstrating accountability for their own choices on that local level.\n\nWorking with the previous Government in passing the final budget for this year, Plaid Cymru helped to secure a stronger budget settlement for local government, delivering an increase of £282 million in the final settlement, ensuring that every council receives an increase of more than 4 per cent, by supporting the funding floor. This additional investment helped to ease immediate pressures on councils and contributed to lower council tax increases the length and breadth of Wales.\n\nLlywydd, as I have mentioned several times in this Siambr, the Welsh Government faces an incredibly difficult budgetary position in the next financial year, with a real-terms decrease in both our resource and capital budgets. And local authorities, too, face increasing spending pressures across the services that they are responsible for. That's why our draft budget next month will prioritise front-line public services, and I hope that we can work across parties in this Senedd to deliver an adequate settlement for local government.\n\nBecause it's not an arbitrary cap that we need, dictated to local authorities by a finance Minister sitting in Cathays Park. That's not what will protect local taxpayers and the services that they rely upon. It's sufficient funding for public services that we need, for the Welsh Government settlement from the UK Treasury in the first instance, and then in that settlement to local authorities passed on by this Senedd. Both settlements will be the greatest influence on the level of council tax levied next year by our county councils.\n\nLlywydd, this debate also highlights a wider principle. We believe, as a Government, in autonomy and accountability, be it for local authorities or for us as a Senedd and for us as a Welsh Government. That's why Plaid Cymru has long argued that Wales needs greater fiscal powers, including in relation to taxation. With stronger budget settlements and flexible revenue-raising powers, we would be better placed to shape our budgets, strengthen public services and provide more sustainable funding for local government over the longer term.\n\nJust as we oppose the arbitrary fiscal limits imposed on us by Westminster, we also oppose placing arbitrary restrictions on local authorities when they set their own budgets and their own council tax levels. Members should reject this motion to preserve the democratic accountability of local authorities and work with us to deliver the high-quality services that people across Wales deserve.\n\nAnyone who believes in devolution of power from the centre to the local level is going to oppose tying the hands of those who decide on that local level, those who are elected democratically on that local level. I urge the UK Chancellor once again to use this upcoming autumn budget to protect public services from higher inflation, enabling us to provide the additional funding that local services need. It will then be the responsibility of all of us in this Chamber to work together constructively to agree a settlement that gives local government the resources and certainty it needs to continue delivering the vital services that it is responsible for.",
+          "text_original": "Wrth gwrs, dros y blynyddoedd diwethaf, mae sawl awdurdod lleol yn Lloegr wedi cael caniatâd gan Whitehall i godi trethi ar lefel sydd y tu hwnt i'r terfynau refferendwm o 5 y cant. Mae yna sawl cyfeiriad at hyn wedi bod eisoes. Er enghraifft, un o'r eithriadau i'r caniatâd hynny gafodd ei roi oedd ym mis Chwefror eleni i Gyngor Sir Caerwrangon, cyngor o dan arweiniad Reform, lle cawson nhw'r caniatâd i godi'r dreth gyngor 9 y cant, sydd yn uwch nag unrhyw gynnydd a welwyd yng Nghymru eleni. Y cynnydd cyfartalog yng Nghymru eleni ar lefel cynghorau oedd 4.8 y cant, sef y cynnydd cyfartalog isaf ers 2022. Roedd y cynnydd a ddewiswyd gan y gwahanol gynghorau mor isel â 3.6 y cant yn ambell un, sy'n dangos atebolrwydd am eu penderfyniadau ar lefel leol.\n\nGan weithio gyda'r Llywodraeth flaenorol, wrth basio'r gyllideb derfynol eleni, fe helpodd Plaid Cymru sicrhau setliad cryfach ar gyfer y gyllideb llywodraeth leol, gan ddarparu cynnydd o £282 miliwn yn y setliad terfynol, a sicrhau bod pob cyngor yn derbyn cynnydd o fwy na 4 y cant, drwy gefnogi'r funding floor. Fe helpodd y buddsoddiad ychwanegol hwnnw i leddfu pwysau uniongyrchol ar gynghorau a chyfraniad gynnig llai yn y dreth gyngor ar hyd Cymru.\n\nLywydd, fel yr ydw i wedi sôn nifer o weithiau yn y Siambr yma, mae Llywodraeth Cymru yn wynebu sefyllfa gyllidebol anhygoel o anodd yn y flwyddyn ariannol nesaf, lle bydd gostyngiad mewn termau real yn ein cyllidebau adnoddau a chyfalaf. Ac mae'r awdurdodau lleol hefyd yn wynebu pwysau cynyddol ar wariant ar draws y gwasanaethau y maen nhw'n gyfrifol amdanyn nhw. Dyna pam y bydd ein cyllideb ddrafft ni fis nesaf eisiau gweld blaenoriaethu gwasanaethau cyhoeddus rheng flaen. Rwy'n gobeithio y byddwn ni'n gallu gweithio ar draws pleidiau yn y Siambr yma i sicrhau setliad digonol ar gyfer llywodraeth leol.\n\nOherwydd nid cap mympwyol sydd angen, wedi ei orfodi ar awdurdodau lleol gan Weinidog cyllid yn eistedd ym Mharc Cathays, nid hynny fydd yn diogelu trethdalwyr lleol a'r gwasanaethau y maen nhw'n dibynnu arnyn nhw. Cyllid digonol ar gyfer gwasanaethau cyhoeddus sydd ei angen, i setliad Llywodraeth Cymru gan Drysorlys y Deyrnas Gyfunol yn y lle cyntaf, ac yna yn y setliad i awdurdodau lleol wedi'i basio gan y Senedd yma. Y ddau setliad ariannol yma fydd y dylanwad mwyaf ar lefel y dreth gyngor y flwyddyn nesaf yn ein cynghorau sir ni.\n\nLywydd, mae'r ddadl yma hefyd wedi tynnu sylw at egwyddor ehangach. Rydyn ni yn y Llywodraeth yma'n credu mewn ymreolaeth ac atebolrwydd, boed hynny i awdurdodau lleol neu i'r Senedd yma a Llywodraeth Cymru. Dyna pam mae Plaid Cymru wedi dadlau ers tro bod angen mwy o bwerau cyllidol ar Gymru, gan gynnwys mewn perthynas â threthiant. Gyda setliadau cyllideb cryfach a phwerau hyblyg i godi refeniw, fe fyddwn ni mewn sefyllfa well i lunio ein cyllidebau, cryfhau gwasanaethau cyhoeddus a darparu cyllid mwy cynaliadwy ar gyfer llywodraeth leol dros y tymor hir.\n\nYn union fel rydyn ni'n gwrthwynebu'r terfynau cyllidol mympwyol a orfodwyd arnon ni gan San Steffan, rydyn ni hefyd yn gwrthwynebu gosod cyfyngiadau mympwyol ar awdurdodau lleol pan fyddan nhw'n gosod eu cyllidebau eu hunain a'u lefelau treth gyngor eu hunain. Dylai Aelodau wrthod y cynnig hwn er mwyn diogelu atebolrwydd democrataidd awdurdodau lleol, a gweithio gyda ni i ddarparu'r gwasanaethau ansawdd uchel y mae pobl ledled Cymru yn eu haeddu.\n\nMae unrhyw un sy'n credu mewn datganoli grym o'r canol i'r lleol yn mynd i wrthwynebu rhwymo dwylo'r rhai sy'n penderfynu ar lefel leol, y rheini sydd wedi eu hethol yn ddemocrataidd yn lleol. Rwy'n annog Canghellor y Deyrnas Unedig unwaith eto i ddefnyddio cyllideb yr hydref hwn i ddiogelu gwasanaethau cyhoeddus rhag chwyddiant uwch i'n galluogi ni i ddarparu'r cyllid ychwanegol sydd ei angen ar wasanaethau lleol. Yna, ein cyfrifoldeb ni oll yn y Siambr hon fydd gweithio gyda'n gilydd i sicrhau cytundeb ar setliad sy'n rhoi'r adnoddau a'r sicrwydd sydd eu hangen ar awdurdodau lleol i ddarparu'r gwasanaethau hanfodol hynny y maen nhw'n gyfrifol amdanyn nhw.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=12909"
         }
       ],
       "date": "2026-10-14",

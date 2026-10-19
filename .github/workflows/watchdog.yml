@@ -1,0 +1,38 @@
+name: watchdog
+
+# Independent of sync.yml: compares the live Record index against the export and fails if the
+# Senedd lists a meeting Siambr does not hold. A green sync is not evidence on its own, so this
+# runs on its own schedule and emails on failure.
+on:
+  schedule:
+    - cron: '0 8 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  watchdog:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+          cache-dependency-path: pipeline/requirements.txt
+
+      - run: pip install -r pipeline/requirements.txt
+
+      - name: Every listed sitting is in the export
+        run: |
+          set -o pipefail
+          python -m pipeline.check_health | tee watchdog.log
+          {
+            echo '### Retrieval watchdog'
+            echo '```'
+            tail -n 1 watchdog.log
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"

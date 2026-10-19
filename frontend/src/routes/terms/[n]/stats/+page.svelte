@@ -58,6 +58,13 @@
 				<dd class="small">The Record publishes no broadcast offset for these, so they carry no speaking time.</dd>
 			</div>
 			<div><dt>Roll-call divisions</dt><dd data-numeric>{count(t.divisions)}</dd></div>
+			{#if t.unattributed_contributions > 0}
+				<div>
+					<dt>Not attributed to a Member</dt>
+					<dd data-numeric>{count(t.unattributed_contributions)}</dd>
+					<dd class="small">{duration(t.unattributed_seconds)} of the speaking time above. The Record names no Member for these speeches, so they count for no party.</dd>
+				</div>
+			{/if}
 		</dl>
 	</section>
 

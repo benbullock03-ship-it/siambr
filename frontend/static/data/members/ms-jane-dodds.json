@@ -2,8 +2,8 @@
   "ballots": [
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779120",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -13,8 +13,8 @@
     },
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779125",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -24,8 +24,8 @@
     },
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779128",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -112,8 +112,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773939",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -123,8 +123,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773957",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -134,8 +134,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773961",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -741,7 +741,7 @@
   "canonical_name": "Jane Dodds",
   "constituency_name_cy": "Brycheiniog Tawe Nedd",
   "constituency_name_en": "Brycheiniog Tawe Nedd",
-  "contribution_count": 117,
+  "contribution_count": 121,
   "contributions_by_date": [
     {
       "contributions": [
@@ -1075,6 +1075,46 @@
     },
     {
       "contributions": [
+        {
+          "id": "contribution-770818",
+          "item_id": "item-16262-260922-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "cy",
+          "t_start": 3710,
+          "text_english": "Thank you very much, Llywydd. Good afternoon, Counsel General.",
+          "text_original": "Diolch yn fawr iawn, Lywydd. Prynhawn da, Gwnsler Cyffredinol.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=3710"
+        },
+        {
+          "id": "contribution-770814",
+          "item_id": "item-16262-260922-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "1. What legal advice has the Counsel General provided to the Welsh Government regarding its legal powers to intervene in service reconfiguration decisions taken by local health boards? OQ64489",
+          "text_original": "1. Pa gyngor cyfreithiol y mae'r Cwnsler Cyffredinol wedi'i roi i Lywodraeth Cymru ynglŷn â'i phwerau cyfreithiol i ymyrryd mewn penderfyniadau ad-drefnu gwasanaethau a wneir gan fyrddau iechyd lleol? OQ64489",
+          "tv_url": "http://www.senedd.tv/en/16262"
+        },
+        {
+          "id": "contribution-770831",
+          "item_id": "item-16262-260922-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "cy",
+          "t_start": 3770,
+          "text_english": "Thank you for that response.",
+          "text_original": "Diolch am yr ymateb.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=3770"
+        },
+        {
+          "id": "contribution-770833",
+          "item_id": "item-16262-260922-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "en",
+          "t_start": 3772,
+          "text_english": "Sections 26 to 28 of the National Health Service (Wales) Act 2006 clearly give Welsh Ministers the power to intervene where a health board is failing to perform its functions adequately, and to remove board members, which we saw in the Senedd last term. Section 12 of the same Act allows Ministers to direct health boards on their functions more generally. While there appears to be some confusion over the 2006 Act, and the social care Bill in 2020, Vaughan Gething at the time was relatively clear that the Bill did not affect Ministers' powers under sections 26 to 28. That is a bit of a mouthful, I'm aware, of lots of sections. I ask for a clear answer, and I'm very happy to take a response in writing to this: is there anything in law that prevents Welsh Ministers from intervening under sections 26 to 28 where a board has lost public confidence in this way, or is the truth that Ministers could act and are choosing not to? Diolch yn fawr iawn.",
+          "text_original": "Sections 26 to 28 of the National Health Service (Wales) Act 2006 clearly give Welsh Ministers the power to intervene where a health board is failing to perform its functions adequately, and to remove board members, which we saw in the Senedd last term. Section 12 of the same Act allows Ministers to direct health boards on their functions more generally. While there appears to be some confusion over the 2006 Act, and the social care Bill in 2020, Vaughan Gething at the time was relatively clear that the Bill did not affect Ministers' powers under sections 26 to 28. That is a bit of a mouthful, I'm aware, of lots of sections. I ask for a clear answer, and I'm very happy to take a response in writing to this: is there anything in law that prevents Welsh Ministers from intervening under sections 26 to 28 where a board has lost public confidence in this way, or is the truth that Ministers could act and are choosing not to? Diolch yn fawr iawn.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=3772"
+        },
         {
           "id": "contribution-770973",
           "item_id": "item-16262-260922-3",

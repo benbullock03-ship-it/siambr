@@ -140,7 +140,8 @@
 						{:else}
 						<li>
 							<p class="small where">
-								<time datetime={h.date}>{h.date}</time> · <a href="/members/{encodeURIComponent(h.member_id)}">{h.member}</a> ·
+								<time datetime={h.date}>{h.date}</time> ·
+								{#if h.member_id}<a href="/members/{encodeURIComponent(h.member_id)}">{h.member}</a>{:else}<span class="unattributed">{h.member}</span>{/if} ·
 								<a href="/register?item={encodeURIComponent(h.item_id)}">{h.item}</a>
 								<span class="lang">{h.lang}</span>
 							</p>

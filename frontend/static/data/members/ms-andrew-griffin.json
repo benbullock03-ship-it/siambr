@@ -2,8 +2,8 @@
   "ballots": [
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779120",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -13,8 +13,8 @@
     },
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779125",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -24,8 +24,8 @@
     },
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779128",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -112,8 +112,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773939",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -123,8 +123,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773957",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -134,8 +134,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773961",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -741,7 +741,7 @@
   "canonical_name": "Andrew Griffin",
   "constituency_name_cy": "Gwynedd Maldwyn",
   "constituency_name_en": "Gwynedd Maldwyn",
-  "contribution_count": 16,
+  "contribution_count": 18,
   "contributions_by_date": [
     {
       "contributions": [
@@ -754,6 +754,16 @@
           "text_english": "Following on from that question about protecting our historic heritage for future generations, last week, I had a meeting with Historic Houses Wales. A great deal of our heritage is actually in private ownership. I know from personal experience of living in a grade II listed house just how expensive these properties can be to maintain, particularly when there are restrictions on making improvements to reduce running costs. Can I ask the Cabinet Minister what practical support is available through Cadw for private owners who are helping to preserve our historic heritage, and how is she working with colleagues across Government to make sure these buildings remain viable for future generations?",
           "text_original": "Following on from that question about protecting our historic heritage for future generations, last week, I had a meeting with Historic Houses Wales. A great deal of our heritage is actually in private ownership. I know from personal experience of living in a grade II listed house just how expensive these properties can be to maintain, particularly when there are restrictions on making improvements to reduce running costs. Can I ask the Cabinet Minister what practical support is available through Cadw for private owners who are helping to preserve our historic heritage, and how is she working with colleagues across Government to make sure these buildings remain viable for future generations?",
           "tv_url": "http://www.senedd.tv/en/16316?startPos=468"
+        },
+        {
+          "id": "contribution-779076",
+          "item_id": "item-16316-261014-7",
+          "item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
+          "lang": "en",
+          "t_start": 10908,
+          "text_english": "I'm pleased to support the motion tabled by my colleague Llŷr Powell, but I want to approach it from a slightly different angle, because I've been a town councillor myself, and know something about setting budgets and council tax precepts.\n\nI know it's not always easy; the constituency I represent covers parts of four council areas—Gwynedd, Wrexham, Powys and Denbighshire—and each faces its own challenges. But there's one thing they all have in common: every year, people receive their council tax bill and almost without fail it's gone up again. For someone on a good income, another £100 or £150 might not seem particularly significant, but, for a pensioner or someone living on a fixed income, that's money they've got to find from somewhere, and the trouble is that these increases don't happen in isolation; they build up year after year. A 5 per cent increase this year is added to all the increases that have gone before it, and next year's increase is calculated on top of that. That's why I think we need to look at what people are paying today compared with five or 10 years ago, rather than just looking at the latest percentage, because household incomes certainly haven't kept pace.\n\nNow, having been a town councillor, there's something else I think that's worth explaining. When your council tax bill arrives, you might reasonably assume all that money is going to your county council, but it isn't. Part of it goes towards policing, and, depending on where you live, there's also a contribution to your town or community council. Fire and rescue services are funded through council budgets too. In fact, the police element alone accounts for roughly £1 in every £6 on the average council tax bill in Wales, and that's not an amount your county council decides. I mention this because I think people deserve to know exactly who is responsible for the different parts of their bill, and, if we're going to introduce a referendum threshold, we need to be clear about which increase it applies to.\n\nNow, I don't want anyone to think I'm suggesting councils have an easy job; they don't. Social care costs are rising, schools are under pressure, and councils are being asked to deliver services with increasingly stretched budgets. But that brings me to something else that matters. Is the way we fund local government in Wales actually fit for purpose? Because delivering services in large rural counties like Powys, Gwynedd and Denbighshire is very different from delivering them in a city. You've got smaller communities spread over much greater distances. School transport costs more, providing services costs more, and, in many cases, there simply aren't the economies of scale that larger urban areas can achieve. So, we need a funding system that recognises those differences, not a one-size-fits-all approach that assumes every council faces the same circumstances.\n\nThe Welsh Government has a responsibility to get that right, because, if we're going to hold councils accountable for the money they ask residents to pay, we must also hold the Welsh Government accountable for the funding decisions that affect them. None of this changes the position of the person who has to pay the bill—they don't get to choose whether their income goes up enough to cover another council tax increase, they just have to find the money, and that's why I support giving them a greater say when particularly large increases are proposed. It doesn't mean councils can never put council tax up by more than 4.99 per cent; it means that, if they believe they need to, they should be prepared to explain why and put that decision to the people who are going to pay for it. I don't think that is unreasonable, because, ultimately, this isn't about figures on a spreadsheet or arguments between politicians, it's about what people have left in their pockets at the end of the month, and I think those people deserve a say. So, I'll be supporting this motion and urge other Members to do the same. Diolch, Lywydd.",
+          "text_original": "I'm pleased to support the motion tabled by my colleague Llŷr Powell, but I want to approach it from a slightly different angle, because I've been a town councillor myself, and know something about setting budgets and council tax precepts.\n\nI know it's not always easy; the constituency I represent covers parts of four council areas—Gwynedd, Wrexham, Powys and Denbighshire—and each faces its own challenges. But there's one thing they all have in common: every year, people receive their council tax bill and almost without fail it's gone up again. For someone on a good income, another £100 or £150 might not seem particularly significant, but, for a pensioner or someone living on a fixed income, that's money they've got to find from somewhere, and the trouble is that these increases don't happen in isolation; they build up year after year. A 5 per cent increase this year is added to all the increases that have gone before it, and next year's increase is calculated on top of that. That's why I think we need to look at what people are paying today compared with five or 10 years ago, rather than just looking at the latest percentage, because household incomes certainly haven't kept pace.\n\nNow, having been a town councillor, there's something else I think that's worth explaining. When your council tax bill arrives, you might reasonably assume all that money is going to your county council, but it isn't. Part of it goes towards policing, and, depending on where you live, there's also a contribution to your town or community council. Fire and rescue services are funded through council budgets too. In fact, the police element alone accounts for roughly £1 in every £6 on the average council tax bill in Wales, and that's not an amount your county council decides. I mention this because I think people deserve to know exactly who is responsible for the different parts of their bill, and, if we're going to introduce a referendum threshold, we need to be clear about which increase it applies to.\n\nNow, I don't want anyone to think I'm suggesting councils have an easy job; they don't. Social care costs are rising, schools are under pressure, and councils are being asked to deliver services with increasingly stretched budgets. But that brings me to something else that matters. Is the way we fund local government in Wales actually fit for purpose? Because delivering services in large rural counties like Powys, Gwynedd and Denbighshire is very different from delivering them in a city. You've got smaller communities spread over much greater distances. School transport costs more, providing services costs more, and, in many cases, there simply aren't the economies of scale that larger urban areas can achieve. So, we need a funding system that recognises those differences, not a one-size-fits-all approach that assumes every council faces the same circumstances.\n\nThe Welsh Government has a responsibility to get that right, because, if we're going to hold councils accountable for the money they ask residents to pay, we must also hold the Welsh Government accountable for the funding decisions that affect them. None of this changes the position of the person who has to pay the bill—they don't get to choose whether their income goes up enough to cover another council tax increase, they just have to find the money, and that's why I support giving them a greater say when particularly large increases are proposed. It doesn't mean councils can never put council tax up by more than 4.99 per cent; it means that, if they believe they need to, they should be prepared to explain why and put that decision to the people who are going to pay for it. I don't think that is unreasonable, because, ultimately, this isn't about figures on a spreadsheet or arguments between politicians, it's about what people have left in their pockets at the end of the month, and I think those people deserve a say. So, I'll be supporting this motion and urge other Members to do the same. Diolch, Lywydd.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=10908"
         }
       ],
       "date": "2026-10-14",
@@ -855,6 +865,16 @@
     },
     {
       "contributions": [
+        {
+          "id": "contribution-770825",
+          "item_id": "item-16262-260922-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "en",
+          "t_start": 3965,
+          "text_english": "I'd like to thank Jane Dodds for bringing this matter up. Powys is a large and sparsely populated rural county, where removing in-patient provision from community hospitals can mean substantially longer journeys for patients and their families. When a health board considers a major service reconfiguration, what legal duties must it take into account regarding rurality, equality and access to services? And what remedies are available if those duties have not been properly discharged?",
+          "text_original": "I'd like to thank Jane Dodds for bringing this matter up. Powys is a large and sparsely populated rural county, where removing in-patient provision from community hospitals can mean substantially longer journeys for patients and their families. When a health board considers a major service reconfiguration, what legal duties must it take into account regarding rurality, equality and access to services? And what remedies are available if those duties have not been properly discharged?",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=3965"
+        },
         {
           "id": "contribution-770926",
           "item_id": "item-16262-260922-3",

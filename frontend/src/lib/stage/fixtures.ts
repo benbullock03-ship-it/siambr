@@ -18,12 +18,15 @@ export function item(id: string, order: number, contribution_count = 0): Sitting
 	};
 }
 
-export function speech(id: string, item_id: string, seq: number, t_start: number | null, member_id = `ms-${id}`): Contribution {
+export function speech(id: string, item_id: string, seq: number, t_start: number | null, member_id: string | null = `ms-${id}`): Contribution {
 	return {
 		id,
 		item_id,
 		seq,
 		member_id,
+		speaker_name: member_id ? null : `Unattributed ${id}`,
+		speaker_role: null,
+		unattributed: member_id === null,
 		lang: 'en',
 		text_original: `Fixture text ${id}.`,
 		text_english: `Fixture text ${id}.`,
@@ -59,6 +62,7 @@ export function sitting(overrides: Partial<Sitting>): Sitting {
 		tabled_texts: [],
 		divisions: [],
 		speakers: {},
+		unattributed: { contributions: 0, speakers: [] },
 		provenance: {},
 		...overrides
 	};

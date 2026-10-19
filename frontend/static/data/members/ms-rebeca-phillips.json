@@ -2,8 +2,8 @@
   "ballots": [
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779120",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -13,8 +13,8 @@
     },
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779125",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -24,8 +24,8 @@
     },
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779128",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -112,8 +112,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773939",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -123,8 +123,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773957",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -134,8 +134,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773961",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -741,7 +741,7 @@
   "canonical_name": "Rebeca Phillips",
   "constituency_name_cy": "Brycheiniog Tawe Nedd",
   "constituency_name_en": "Brycheiniog Tawe Nedd",
-  "contribution_count": 26,
+  "contribution_count": 28,
   "contributions_by_date": [
     {
       "contributions": [
@@ -784,6 +784,26 @@
           "text_english": "Diolch, Llywydd, and I'd like to thank everyone for sharing their personal stories today. How we care for people in the final chapters of their lives is the ultimate measure of our compassion, our values and our society. Palliative and end-of-life care is not a secondary branch of medicine; it is a fundamental pillar in a truly integrated health and social care system.\n\nIn Neath Port Talbot, Marie Curie estimates that 1,550 people would have benefited from palliative and end-of-life care in 2023. In 10 years, they estimate that demand for palliative care in Neath Port Talbot will increase to 1,705 people per year, and what we must remember is that behind every figure, there is a person, there is a family.\n\nEarly identification of needs through health boards is vital to inform the planning and delivery of services. I was pleased to see in the Plaid Cymru manifesto commitments to ensure that every regional partnership board includes a palliative and end-of-life care need, because dignity in death should never depend on your postcode.\n\nAnd we turn to the staff of our hospices across Wales. The support these individuals provide to families could never be measured—the care, experience and compassion enabling people to stay in their homes and communities wherever possible. But an ageing population with increasingly complex conditions means that pressures on our front-line staff will only intensify. If we do not build a resilient community care network, our emergency services will bear the brunt. People who wish to spend their final days in the comfort of their own homes surrounded by their loved ones will continue to be trapped in hospital beds because the community support simply isn't there. I'm glad to see the consensus across the Chamber today to work together to ensure that every individual in Wales can face the end of their life with dignity, comfort and peace.",
           "text_original": "Diolch, Llywydd, and I'd like to thank everyone for sharing their personal stories today. How we care for people in the final chapters of their lives is the ultimate measure of our compassion, our values and our society. Palliative and end-of-life care is not a secondary branch of medicine; it is a fundamental pillar in a truly integrated health and social care system.\n\nIn Neath Port Talbot, Marie Curie estimates that 1,550 people would have benefited from palliative and end-of-life care in 2023. In 10 years, they estimate that demand for palliative care in Neath Port Talbot will increase to 1,705 people per year, and what we must remember is that behind every figure, there is a person, there is a family.\n\nEarly identification of needs through health boards is vital to inform the planning and delivery of services. I was pleased to see in the Plaid Cymru manifesto commitments to ensure that every regional partnership board includes a palliative and end-of-life care need, because dignity in death should never depend on your postcode.\n\nAnd we turn to the staff of our hospices across Wales. The support these individuals provide to families could never be measured—the care, experience and compassion enabling people to stay in their homes and communities wherever possible. But an ageing population with increasingly complex conditions means that pressures on our front-line staff will only intensify. If we do not build a resilient community care network, our emergency services will bear the brunt. People who wish to spend their final days in the comfort of their own homes surrounded by their loved ones will continue to be trapped in hospital beds because the community support simply isn't there. I'm glad to see the consensus across the Chamber today to work together to ensure that every individual in Wales can face the end of their life with dignity, comfort and peace.",
           "tv_url": "http://www.senedd.tv/en/16316?startPos=8939"
+        },
+        {
+          "id": "contribution-779101",
+          "item_id": "item-16316-261014-7",
+          "item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
+          "lang": "en",
+          "t_start": 12710,
+          "text_english": "Will you take an intervention?",
+          "text_original": "Will you take an intervention?",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=12710"
+        },
+        {
+          "id": "contribution-779103",
+          "item_id": "item-16316-261014-7",
+          "item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
+          "lang": "en",
+          "t_start": 12712,
+          "text_english": "Securing fair funding for Wales would allow us to further support local government with better funding. Will Reform now join us in our calls for fair funding for Wales?",
+          "text_original": "Securing fair funding for Wales would allow us to further support local government with better funding. Will Reform now join us in our calls for fair funding for Wales?",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=12712"
         }
       ],
       "date": "2026-10-14",

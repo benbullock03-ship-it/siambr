@@ -2,8 +2,8 @@
   "ballots": [
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779120",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -13,8 +13,8 @@
     },
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779125",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -24,8 +24,8 @@
     },
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779128",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -112,8 +112,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773939",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -123,8 +123,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773957",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -134,8 +134,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773961",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -741,7 +741,7 @@
   "canonical_name": "Tom Montgomery",
   "constituency_name_cy": "Clwyd",
   "constituency_name_en": "Clwyd",
-  "contribution_count": 29,
+  "contribution_count": 33,
   "contributions_by_date": [
     {
       "contributions": [
@@ -764,6 +764,46 @@
           "text_english": "Thank you, Minister. A local authority in Clwyd in 2023 resolved to reduce library one-stop shop opening hours by 40 per cent. This was despite over 4,500 residents responding to the consultation—the most that the local authority had seen in years. Ninety per cent of those responses warned that the closure or reduction in hours would limit their ability to visit their local library, and 96 per cent of these submissions submitted negative comments about the proposal. The local authority went ahead because its hands, to a certain extent, were tied financially by the funding formula. The significant change has seen around £360,000 saved but severely limits residents' access to this important service. So, what steps are you taking to support local library services, and what discussions have you had with the Minister for local government on seeing a funding formula that specifically protects library services? Diolch.",
           "text_original": "Thank you, Minister. A local authority in Clwyd in 2023 resolved to reduce library one-stop shop opening hours by 40 per cent. This was despite over 4,500 residents responding to the consultation—the most that the local authority had seen in years. Ninety per cent of those responses warned that the closure or reduction in hours would limit their ability to visit their local library, and 96 per cent of these submissions submitted negative comments about the proposal. The local authority went ahead because its hands, to a certain extent, were tied financially by the funding formula. The significant change has seen around £360,000 saved but severely limits residents' access to this important service. So, what steps are you taking to support local library services, and what discussions have you had with the Minister for local government on seeing a funding formula that specifically protects library services? Diolch.",
           "tv_url": "http://www.senedd.tv/en/16316?startPos=89"
+        },
+        {
+          "id": "contribution-779090",
+          "item_id": "item-16316-261014-7",
+          "item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
+          "lang": "en",
+          "t_start": 11864,
+          "text_english": "Before I start—. Mike, I've got to take the bait. You talk of ignorance; we are standing up for taxpayers. Ignorance is your party sitting on its hands for 27 years and doing nothing but cripple our local government. So, let's start—[Interruption.] Yes, of course.",
+          "text_original": "Before I start—. Mike, I've got to take the bait. You talk of ignorance; we are standing up for taxpayers. Ignorance is your party sitting on its hands for 27 years and doing nothing but cripple our local government. So, let's start—[Interruption.] Yes, of course.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=11864"
+        },
+        {
+          "id": "contribution-779093",
+          "item_id": "item-16316-261014-7",
+          "item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
+          "lang": "en",
+          "t_start": 11895,
+          "text_english": "Twenty-seven years of failure. We're putting taxpayers first, Mike, that's what we're doing. And this is an incredibly effective tool. We've already seen it work in England. [Interruption.] Not a single local authority dares go to the electorate this year in England because they recognise that people are under enough financial pressure. Unsurprisingly, these rules have already made careful financial management in local authorities the preferred option, compared to simply asking residents to pay evermore taxes. Inflation-busting tax rises are no longer the default option in England. Currently, these protections offered to English taxpayers are not afforded to Welsh taxpayers.\n\nOur residents in Wales are paying more than average. Over the last decade, residents in Denbighshire have seen their council tax rise by 61.9 per cent; in Flintshire, 75 per cent; Wrexham, 76 per cent; and in Conwy, 84 per cent, in a decade. The inflation rate over the same period was 34 per cent. Despite those excessive increases, this financial year, all of those local authorities increased council tax by above inflation again. And this pattern is set to continue because our local authorities are fighting with their hands tied behind their backs.\n\nAs my colleague Cai Parry-Jones has highlighted, we need council mergers. Welsh Labour was wrong to reject the offer made by Conwy and Denbighshire to merge; stopping a proposal that could have seen savings of over £1 million on middle and front-line services, over £2 million on back-office functions and the creation of a single management team that could have saved thousands.\n\nThen we come to the funding formula. We are told that data is fundamental in driving budget allocations through the revenue support grant. But, again, local authorities are being failed in Wales. The formula uses data, Members, that is older than me. It comes from the 1991 census. Unsurprisingly, the WLGA have explained that calls from local authorities have grown for a thorough independent external review to be undertaken. I agree, and we need to see the Government get on and do this, and bring forward the proposals for the formula change urgently.\n\nBut why make this change now? There needs to be a wake-up call in this Chamber, Members, about the level of debt that local authorities are carrying. Conwy council has around £230 million of debt; Flintshire, £360 million; and Wrexham over £0.5 billion in debt. This situation is only going to get worse. From my time as a county councillor, I know that when these loans are taken, they are assumed—[Interruption.] I'll take a second intervention.",
+          "text_original": "Twenty-seven years of failure. We're putting taxpayers first, Mike, that's what we're doing. And this is an incredibly effective tool. We've already seen it work in England. [Interruption.] Not a single local authority dares go to the electorate this year in England because they recognise that people are under enough financial pressure. Unsurprisingly, these rules have already made careful financial management in local authorities the preferred option, compared to simply asking residents to pay evermore taxes. Inflation-busting tax rises are no longer the default option in England. Currently, these protections offered to English taxpayers are not afforded to Welsh taxpayers.\n\nOur residents in Wales are paying more than average. Over the last decade, residents in Denbighshire have seen their council tax rise by 61.9 per cent; in Flintshire, 75 per cent; Wrexham, 76 per cent; and in Conwy, 84 per cent, in a decade. The inflation rate over the same period was 34 per cent. Despite those excessive increases, this financial year, all of those local authorities increased council tax by above inflation again. And this pattern is set to continue because our local authorities are fighting with their hands tied behind their backs.\n\nAs my colleague Cai Parry-Jones has highlighted, we need council mergers. Welsh Labour was wrong to reject the offer made by Conwy and Denbighshire to merge; stopping a proposal that could have seen savings of over £1 million on middle and front-line services, over £2 million on back-office functions and the creation of a single management team that could have saved thousands.\n\nThen we come to the funding formula. We are told that data is fundamental in driving budget allocations through the revenue support grant. But, again, local authorities are being failed in Wales. The formula uses data, Members, that is older than me. It comes from the 1991 census. Unsurprisingly, the WLGA have explained that calls from local authorities have grown for a thorough independent external review to be undertaken. I agree, and we need to see the Government get on and do this, and bring forward the proposals for the formula change urgently.\n\nBut why make this change now? There needs to be a wake-up call in this Chamber, Members, about the level of debt that local authorities are carrying. Conwy council has around £230 million of debt; Flintshire, £360 million; and Wrexham over £0.5 billion in debt. This situation is only going to get worse. From my time as a county councillor, I know that when these loans are taken, they are assumed—[Interruption.] I'll take a second intervention.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=11895"
+        },
+        {
+          "id": "contribution-779094",
+          "item_id": "item-16316-261014-7",
+          "item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
+          "lang": "en",
+          "t_start": 12079,
+          "text_english": "Thank you, Alun. If you let me get through, I'll explain why we need the cap now, before the burden of debt cripples taxpayers.",
+          "text_original": "Thank you, Alun. If you let me get through, I'll explain why we need the cap now, before the burden of debt cripples taxpayers.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=12079"
+        },
+        {
+          "id": "contribution-779098",
+          "item_id": "item-16316-261014-7",
+          "item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
+          "lang": "en",
+          "t_start": 12089,
+          "text_english": "The situation is getting worse. Councils borrow the debt on repayment terms expected to be 10, 15 or 20 years or more, but the repayment periods are only, often, five years. So, this means that when the loans mature, new deals need to be made and, with current interest rates, they're often much higher than originally forecast, meaning financing often falls to local authorities to find the extra money to continue to finance these debts. These debts are a ticking financial time bomb. \n\nThe solution is not more excessive council tax rises, which is the option that many local authorities will turn to, not more reliance on borrowing, not the decline in offers for mergers. It is not continuing a funding formula system based on data that is older than me. The solution is fundamental reform of local government in Wales. That must start with greater protection for our taxpayers. Council tax referenda will do just that. They will raise awareness of the serious state of our local government finance, they will challenge the cabinet and officers to work in a more effective way, and give voters the final say on the financial direction of their local area. Members, I urge you to support this motion.",
+          "text_original": "The situation is getting worse. Councils borrow the debt on repayment terms expected to be 10, 15 or 20 years or more, but the repayment periods are only, often, five years. So, this means that when the loans mature, new deals need to be made and, with current interest rates, they're often much higher than originally forecast, meaning financing often falls to local authorities to find the extra money to continue to finance these debts. These debts are a ticking financial time bomb. \n\nThe solution is not more excessive council tax rises, which is the option that many local authorities will turn to, not more reliance on borrowing, not the decline in offers for mergers. It is not continuing a funding formula system based on data that is older than me. The solution is fundamental reform of local government in Wales. That must start with greater protection for our taxpayers. Council tax referenda will do just that. They will raise awareness of the serious state of our local government finance, they will challenge the cabinet and officers to work in a more effective way, and give voters the final say on the financial direction of their local area. Members, I urge you to support this motion.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=12089"
         }
       ],
       "date": "2026-10-14",

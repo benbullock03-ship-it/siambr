@@ -2,8 +2,8 @@
   "ballots": [
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779120",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -13,8 +13,8 @@
     },
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779125",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -24,8 +24,8 @@
     },
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779128",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -112,8 +112,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773939",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -123,8 +123,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773957",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -134,8 +134,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773961",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -741,7 +741,7 @@
   "canonical_name": "Alun Cox",
   "constituency_name_cy": "Afan Ogwr Rhondda",
   "constituency_name_en": "Afan Ogwr Rhondda",
-  "contribution_count": 24,
+  "contribution_count": 26,
   "contributions_by_date": [
     {
       "contributions": [
@@ -774,6 +774,26 @@
           "text_english": "Minister, the programme for government commits to prioritising equality of access to sport for people of all ages, backgrounds and abilities, as well as increasing participation and improving grass-roots facilities. Back in June, I had the opportunity to visit the Margam Stags inclusion football festival, bringing together children and young people of different ages and abilities. The Margam Football Club Inclusion Stags are well known in my constituency for the invaluable opportunities they provide for people who might otherwise face significant barriers to taking part in sport.\n\nI also recently visited Afan United's brand-new facilities in Sandfields, where a major investment has transformed the site into a high-quality community football hub. This has put modern sporting facilities right on the doorstep of a community where levels of deprivation are high. These are the kinds of projects that can make equality of access a reality and give young people opportunities they might not otherwise have had. Minister, how will the Government ensure that its commitment to improve grass-roots facilities is targeted towards those communities and groups where barriers to participation are greatest?",
           "text_original": "Minister, the programme for government commits to prioritising equality of access to sport for people of all ages, backgrounds and abilities, as well as increasing participation and improving grass-roots facilities. Back in June, I had the opportunity to visit the Margam Stags inclusion football festival, bringing together children and young people of different ages and abilities. The Margam Football Club Inclusion Stags are well known in my constituency for the invaluable opportunities they provide for people who might otherwise face significant barriers to taking part in sport.\n\nI also recently visited Afan United's brand-new facilities in Sandfields, where a major investment has transformed the site into a high-quality community football hub. This has put modern sporting facilities right on the doorstep of a community where levels of deprivation are high. These are the kinds of projects that can make equality of access a reality and give young people opportunities they might not otherwise have had. Minister, how will the Government ensure that its commitment to improve grass-roots facilities is targeted towards those communities and groups where barriers to participation are greatest?",
           "tv_url": "http://www.senedd.tv/en/16316?startPos=1891"
+        },
+        {
+          "id": "contribution-779091",
+          "item_id": "item-16316-261014-7",
+          "item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
+          "lang": "en",
+          "t_start": 12069,
+          "text_english": "Can you explain to me, then, given those levels of debt, what does a cap do to reduce those levels of debt that you complain about?",
+          "text_original": "Can you explain to me, then, given those levels of debt, what does a cap do to reduce those levels of debt that you complain about?",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=12069"
+        },
+        {
+          "id": "contribution-779096",
+          "item_id": "item-16316-261014-7",
+          "item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
+          "lang": "en",
+          "t_start": 12087,
+          "text_english": "Which is already there.",
+          "text_original": "Which is already there.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=12087"
         }
       ],
       "date": "2026-10-14",

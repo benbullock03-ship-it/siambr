@@ -305,7 +305,7 @@
 			}}
 		>
 			{#snippet provenance()}
-				<ProvenanceStrip recordPublishedAt={sitting.record_published_at} sourceXmlUrl={sitting.source_xml_url} recordPageUrl={sitting.record_page_url} compact={phone} />
+				<ProvenanceStrip recordPublishedAt={sitting.record_published_at} sourceXmlUrl={sitting.source_xml_url} recordPageUrl={sitting.record_page_url} unattributed={sitting.unattributed} compact={phone} />
 			{/snippet}
 		</SiambrHud>
 

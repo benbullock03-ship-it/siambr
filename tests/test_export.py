@@ -192,6 +192,36 @@ class ExportTests(unittest.TestCase):
         self.assertEqual(amendment["tabled_by"], "Heledd Fychan")
         self.assertEqual(read_motion("Item 8. Debate. Cynnig heb ei ddiwygio.")["target"], "Motion")
 
+    def test_unattributed_speech_keeps_its_label_and_stays_out_of_member_totals(self):
+        # The Counsel General case: the Record names a speaker with no Member row (migration 011).
+        self.conn.execute(
+            """INSERT INTO debate_contributions (id, agenda_item_id, member_id, speaker_name, speaker_role,
+                   sequence_number, spoken_language, verbatim_text_original, verbatim_text_english,
+                   video_timestamp_start)
+               VALUES ('contribution-unattributed', 'item-16086-260715-4', NULL, 'Elfyn Llwyd',
+                       'Counsel General', 99, 'en', 'The words as spoken.', 'The words as spoken.', 900)"""
+        )
+        export_connection(self.conn, self.out)
+        sitting = read(self.out / "sittings" / "2026-07-15.json")
+        c = next(c for c in sitting["contributions"] if c["id"] == "contribution-unattributed")
+        self.assertIsNone(c["member_id"])
+        self.assertEqual((c["speaker_name"], c["speaker_role"], c["unattributed"]),
+                         ("Elfyn Llwyd", "Counsel General", True))
+        self.assertEqual(sitting["unattributed"], {
+            "contributions": 1,
+            "speakers": [{"name": "Elfyn Llwyd", "role": "Counsel General", "contributions": 1}],
+        })
+        stats = read(self.out / "stats" / "sittings" / "2026-07-15.json")
+        self.assertNotIn(None, [m["member_id"] for m in stats["by_member"]])
+        self.assertEqual(stats["unattributed"]["contributions"], 1)
+        self.assertEqual(stats["totals"]["unattributed_contributions"], 1)
+        doc = next(d for d in read(self.out / "search" / "index.json")["documents"]
+                   if d["id"] == "contribution-unattributed")
+        self.assertEqual((doc["member_id"], doc["member"]), (None, "Elfyn Llwyd"))
+        health = read(self.out / "health.json")
+        self.assertEqual(health["unattributed"]["contributions"], 1)
+        self.assertTrue(health["schema_version"].startswith("011"))
+
     def test_sittings_index_is_newest_first_with_item_speakers(self):
         index = read(self.out / "sittings" / "index.json")
         self.assertEqual([s["date"] for s in index], sorted((s["date"] for s in index), reverse=True))

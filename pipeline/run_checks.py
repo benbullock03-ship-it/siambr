@@ -102,11 +102,15 @@ def check_start_pos_matches_bronze(conn: sqlite3.Connection, bronze: Path) -> Ch
 
 def check_referential(conn: sqlite3.Connection) -> Check:
     failures = [f"foreign key violation in {row[0]} rowid {row[1]}" for row in conn.execute("PRAGMA foreign_key_check")]
+    # A contribution names a Member on the register, or carries the publisher's own label for a
+    # speaker the Record attributed to nobody (migration 011). Anything else has no speaker at all.
     orphans = conn.execute(
-        "SELECT count(*) FROM debate_contributions c LEFT JOIN members m ON m.id = c.member_id WHERE m.id IS NULL"
+        """SELECT count(*) FROM debate_contributions c
+           WHERE (c.member_id IS NULL OR c.member_id NOT IN (SELECT id FROM members))
+             AND COALESCE(c.speaker_name, '') = ''"""
     ).fetchone()[0]
     if orphans:
-        failures.append(f"{orphans} contributions name no known Member")
+        failures.append(f"{orphans} contributions name neither a known Member nor a publisher label")
     return Check("referential integrity", failures)
 
 

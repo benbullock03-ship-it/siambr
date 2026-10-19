@@ -2,8 +2,8 @@
   "ballots": [
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779120",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -13,8 +13,8 @@
     },
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779125",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -24,8 +24,8 @@
     },
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779128",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -112,8 +112,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773939",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -123,8 +123,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773957",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -134,8 +134,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773961",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -741,8 +741,44 @@
   "canonical_name": "Nigel Williams",
   "constituency_name_cy": "Fflint Wrecsam",
   "constituency_name_en": "Fflint Wrecsam",
-  "contribution_count": 22,
+  "contribution_count": 25,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-779118",
+          "item_id": "item-16316-261014-7",
+          "item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
+          "lang": "en",
+          "t_start": 12492,
+          "text_english": "Well, we all get that brown envelope, don't we, through the post, or sometimes it's an email nowadays? Council tax is not voluntary, is it? It arrives every year and households have got to find the money to pay for it. When a council wants to raise the bill by more than 4.99 per cent, Reform UK believes that the people paying for it should have the final say. This motion does not ban a higher increase, it simply says: make the case, publish the consequences and ask permission.\n\nThe Welsh average band D council tax rose by 7.7 per cent in 2024-25, and by a further 7.2 per cent in 2025-26. Over the last five years, council tax rises across Wales have accelerated significantly, with the Welsh average increasing 7.2 per cent in 2025-26. And nowhere is that seen more than in north-east Wales where I live. In Flintshire, the council tax increase for 2025-26 was 9.5 per cent, and in Wrexham, residents faced an increase of approximately 8.9 per cent. These rises came on top of substantial increases in previous years. Where does it stop? Yet both councils continue to face severe financial challenges in themselves.\n\nFrom a Flintshire and Wrexham perspective, the situation has become increasingly difficult to manage. Both authorities are forecasting budget deficits in excess of £25 million, as pointed out by Cai. Adult social care, there are issues, demand for services, additional learning needs provision, homelessness services and expensive out-of-county placements continue to grow faster than the funding available to support them.\n\nCouncils have had to make difficult decisions for well over a decade now—I'm aware of that. Flintshire and Wrexham have delivered millions of pounds of expenditure reductions since about 2010, but there comes a point where efficiencies are exhausted and residents are simply asked to pay more to cover a growing funding gap.\n\nBefore Flintshire approved its recent budget, residents were consulted. Many expressed concern about the rising council tax increases to bridge budget shortfalls during the continuing cost-of-living crisis. Despite these concerns, local people had no binding vote on the outcome—no binding vote, and that's important. When you speak to residents across Flintshire and Wrexham, you hear a common message: council tax keeps rising, but many people believe services are being reduced.\n\nI've seen it myself. Your bins—they don't get emptied every week now. There are all sorts of places where we're seeing things cut. Potholes in the road, local road infrastructure—there are loads of issues. Whether every criticism is justified or not, the perception is clear: people are paying more and feeling they are receiving less in return. That's why local democracy comes into its own. Of course, supporters of the status quo argue that local elections are sufficiently accountable. I disagree with that. A local election provides a general mandate. A referendum provides a specific mandate for an exceptional tax increase.\n\nAnd, of course, we must be honest about council finances. Reserves are not a magic pot of money that can simply solve every problem. Some reserves are earmarked, yes. Some are legally committed. And some can only be used for specific purposes. Flintshire, for example, reports significant levels of usable reserves, but much of that money is allocated for identified risks and future commitments. However, transparency is absolutely essential. If councils—",
+          "text_original": "Well, we all get that brown envelope, don't we, through the post, or sometimes it's an email nowadays? Council tax is not voluntary, is it? It arrives every year and households have got to find the money to pay for it. When a council wants to raise the bill by more than 4.99 per cent, Reform UK believes that the people paying for it should have the final say. This motion does not ban a higher increase, it simply says: make the case, publish the consequences and ask permission.\n\nThe Welsh average band D council tax rose by 7.7 per cent in 2024-25, and by a further 7.2 per cent in 2025-26. Over the last five years, council tax rises across Wales have accelerated significantly, with the Welsh average increasing 7.2 per cent in 2025-26. And nowhere is that seen more than in north-east Wales where I live. In Flintshire, the council tax increase for 2025-26 was 9.5 per cent, and in Wrexham, residents faced an increase of approximately 8.9 per cent. These rises came on top of substantial increases in previous years. Where does it stop? Yet both councils continue to face severe financial challenges in themselves.\n\nFrom a Flintshire and Wrexham perspective, the situation has become increasingly difficult to manage. Both authorities are forecasting budget deficits in excess of £25 million, as pointed out by Cai. Adult social care, there are issues, demand for services, additional learning needs provision, homelessness services and expensive out-of-county placements continue to grow faster than the funding available to support them.\n\nCouncils have had to make difficult decisions for well over a decade now—I'm aware of that. Flintshire and Wrexham have delivered millions of pounds of expenditure reductions since about 2010, but there comes a point where efficiencies are exhausted and residents are simply asked to pay more to cover a growing funding gap.\n\nBefore Flintshire approved its recent budget, residents were consulted. Many expressed concern about the rising council tax increases to bridge budget shortfalls during the continuing cost-of-living crisis. Despite these concerns, local people had no binding vote on the outcome—no binding vote, and that's important. When you speak to residents across Flintshire and Wrexham, you hear a common message: council tax keeps rising, but many people believe services are being reduced.\n\nI've seen it myself. Your bins—they don't get emptied every week now. There are all sorts of places where we're seeing things cut. Potholes in the road, local road infrastructure—there are loads of issues. Whether every criticism is justified or not, the perception is clear: people are paying more and feeling they are receiving less in return. That's why local democracy comes into its own. Of course, supporters of the status quo argue that local elections are sufficiently accountable. I disagree with that. A local election provides a general mandate. A referendum provides a specific mandate for an exceptional tax increase.\n\nAnd, of course, we must be honest about council finances. Reserves are not a magic pot of money that can simply solve every problem. Some reserves are earmarked, yes. Some are legally committed. And some can only be used for specific purposes. Flintshire, for example, reports significant levels of usable reserves, but much of that money is allocated for identified risks and future commitments. However, transparency is absolutely essential. If councils—",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=12492"
+        },
+        {
+          "id": "contribution-779102",
+          "item_id": "item-16316-261014-7",
+          "item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
+          "lang": "en",
+          "t_start": 12701,
+          "text_english": "Yes.",
+          "text_original": "Yes.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=12701"
+        },
+        {
+          "id": "contribution-779106",
+          "item_id": "item-16316-261014-7",
+          "item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
+          "lang": "en",
+          "t_start": 12721,
+          "text_english": "I'll take no—. In terms of this—. Where it comes from Plaid, who've operated around Labour in this, we're in this mess, where we are, because of what's happened over the years, because of people there and people here. So I'll take none of that.\n\nReserves are not a magic pot of money that can simply solve every problem. Some reserves—[Interruption.] No. Some reserves are earmarked, some are legally committed and some can only be used for specific purposes. [Interruption.] I did.\n\nThere's one thing I would like to mention, by the way, and it just came to me when Sarah Cooper-Lesadd was speaking, and I just wanted to finish on that, actually. On 2 October 2014, under the provisions of the Local Government Act 1972, a referendum was held in the town of Flint on the question to reinstate in-patient beds. The referendum drew 3,500 residents to vote, with 99 per cent saying 'yes'. So, referendums do work in towns, completely.\n\nI've missed some of the speech out, because I realise I'm actually going on now. This is local democracy in action, and I urge Members to support the motion. Thanks very much.",
+          "text_original": "I'll take no—. In terms of this—. Where it comes from Plaid, who've operated around Labour in this, we're in this mess, where we are, because of what's happened over the years, because of people there and people here. So I'll take none of that.\n\nReserves are not a magic pot of money that can simply solve every problem. Some reserves—[Interruption.] No. Some reserves are earmarked, some are legally committed and some can only be used for specific purposes. [Interruption.] I did.\n\nThere's one thing I would like to mention, by the way, and it just came to me when Sarah Cooper-Lesadd was speaking, and I just wanted to finish on that, actually. On 2 October 2014, under the provisions of the Local Government Act 1972, a referendum was held in the town of Flint on the question to reinstate in-patient beds. The referendum drew 3,500 residents to vote, with 99 per cent saying 'yes'. So, referendums do work in towns, completely.\n\nI've missed some of the speech out, because I realise I'm actually going on now. This is local democracy in action, and I urge Members to support the motion. Thanks very much.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=12721"
+        }
+      ],
+      "date": "2026-10-14",
+      "record_page_url": "https://record.senedd.wales/Plenary/16316"
+    },
     {
       "contributions": [
         {

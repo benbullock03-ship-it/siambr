@@ -1,5 +1,6 @@
 <script lang="ts">
 	import type { MemberLight, Sitting, TabledText } from '$lib/data/types';
+	import { memberOf, speakerName } from '$lib/data/speaker';
 	import { BADGE } from '$lib/data/provenance';
 	import { partyColor, partyLabel } from '$lib/dossier/parties';
 	import DivisionPlate from '$lib/hud/DivisionPlate.svelte';
@@ -12,7 +13,7 @@
 
 	const live = $derived<Beat | null>(clock.floor.live);
 	const contribution = $derived(live?.kind === 'contribution' ? live.contribution : null);
-	const speaker = $derived<MemberLight | null>(contribution ? (sitting.speakers[contribution.member_id] ?? null) : null);
+	const speaker = $derived<MemberLight | null>(contribution ? memberOf(sitting.speakers, contribution) : null);
 	const item = $derived(live ? (sitting.items.find((i) => i.id === live.itemId) ?? null) : null);
 	const untimed = $derived(live?.kind === 'contribution' && !live.timed);
 	let portraitFailed = $state(false);
@@ -43,7 +44,7 @@
 	const voteOrdinal = $derived(vote ? votesInItem.findIndex((b) => b.index === vote.index) + 1 : 0);
 	const caller = $derived(vote?.calledBy ? (sitting.contributions.find((c) => c.id === vote.calledBy) ?? null) : null);
 	const callerBeat = $derived(caller ? (clock.timeline.beats[clock.timeline.beatIndexByContributionId.get(caller.id) ?? -1] ?? null) : null);
-	const callerName = $derived(caller ? (sitting.speakers[caller.member_id]?.canonical_name ?? caller.member_id) : '');
+	const callerName = $derived(caller ? speakerName(caller, sitting.speakers) : '');
 	const total = $derived(vote ? vote.division.votes_for + vote.division.votes_against + vote.division.votes_abstain : 0);
 	// The printed text the vote decided, the Member who tabled it, and every text tabled for the debate.
 	const votedText = $derived(vote ? tabledTextFor(vote.division, sitting) : null);
@@ -136,8 +137,12 @@
 						<span class="lang">{contribution.lang === 'cy' ? 'Cymraeg' : 'English'}</span>
 					</p>
 				{:else}
-					<h2 class="name">{contribution.member_id}</h2>
-					<p class="meta small">Speaker not in the Members register.</p>
+					<h2 class="name">{contribution.speaker_name ?? 'Speaker not named'}</h2>
+					<p class="meta small">
+						{#if contribution.speaker_role}<span>· {contribution.speaker_role}</span>{/if}
+						<span class="lang">{contribution.lang === 'cy' ? 'Cymraeg' : 'English'}</span>
+					</p>
+					<p class="meta small unattributed">The Record does not attribute this speech to a Member.</p>
 				{/if}
 			</div>
 		</header>

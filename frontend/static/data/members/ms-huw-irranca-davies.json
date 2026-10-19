@@ -2,8 +2,8 @@
   "ballots": [
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779120",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -13,8 +13,8 @@
     },
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779125",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -24,8 +24,8 @@
     },
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779128",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -112,8 +112,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773939",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -123,8 +123,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773957",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -134,8 +134,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773961",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -741,7 +741,7 @@
   "canonical_name": "Huw Irranca-Davies",
   "constituency_name_cy": "Afan Ogwr Rhondda",
   "constituency_name_en": "Afan Ogwr Rhondda",
-  "contribution_count": 711,
+  "contribution_count": 747,
   "contributions_by_date": [
     {
       "contributions": [
@@ -814,6 +814,96 @@
           "text_english": "The proposal is to agree the motion without amendment. Does any Member object? There are no objections. The motion is therefore agreed in accordance with Standing Order 12.36. Thank you.",
           "text_original": "Y cwestiwn yw: a ddylid derbyn y cynnig heb ei ddiwygio? A oes unrhyw Aelod yn gwrthwynebu? Nac oes. Felly, derbynnir y cynnig yn unol â Rheol Sefydlog 12.36. Diolch yn fawr.",
           "tv_url": "http://www.senedd.tv/en/16316?startPos=10163"
+        },
+        {
+          "id": "contribution-779054",
+          "item_id": "item-16316-261014-7",
+          "item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
+          "lang": "cy",
+          "t_start": 10180,
+          "text_english": "The next item is the Reform UK debate on local referendums on council tax rises. I call on Cai Parry-Jones to move the motion.",
+          "text_original": "Yr eitem nesaf yw dadl Reform UK ar refferenda lleol ar gyfer codiadau'r dreth gyngor. Galwaf ar Cai Parry-Jones i wneud y cynnig.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=10180"
+        },
+        {
+          "id": "contribution-779066",
+          "item_id": "item-16316-261014-7",
+          "item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
+          "lang": "cy",
+          "t_start": 10562,
+          "text_english": "I have selected the amendment to the motion. I call on the Cabinet Minister for Finance to move formally amendment 1, tabled in the name of Heledd Fychan.",
+          "text_original": "Rwyf wedi dethol y gwelliant i'r cynnig. Galwaf ar y Gweinidog Cabinet dros Gyllid i gynnig yn ffurfiol welliant 1 yn enw Heledd Fychan.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=10562"
+        },
+        {
+          "id": "contribution-779070",
+          "item_id": "item-16316-261014-7",
+          "item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
+          "lang": "cy",
+          "t_start": 10572,
+          "text_english": "Thank you. I now call on Sarah Cooper-Lesadd.",
+          "text_original": "Diolch yn fawr iawn. Galwaf nawr ar Sarah Cooper-Lesadd.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=10572"
+        },
+        {
+          "id": "contribution-779081",
+          "item_id": "item-16316-261014-7",
+          "item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
+          "lang": "en",
+          "t_start": 11485,
+          "text_english": "Please, Mike, conclude, if you can.",
+          "text_original": "Please, Mike, conclude, if you can.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=11485"
+        },
+        {
+          "id": "contribution-779085",
+          "item_id": "item-16316-261014-7",
+          "item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
+          "lang": "en",
+          "t_start": 11506,
+          "text_english": "Janet—[Interruption.] Please. We're trying to listen to the contributions from the floor. Janet Finch-Saunders.",
+          "text_original": "Janet—[Interruption.] Please. We're trying to listen to the contributions from the floor. Janet Finch-Saunders.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=11506"
+        },
+        {
+          "id": "contribution-779116",
+          "item_id": "item-16316-261014-7",
+          "item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
+          "lang": "en",
+          "t_start": 12454,
+          "text_english": "It's not a debate. Sorry, the intervention has been taken. Continue.",
+          "text_original": "It's not a debate. Sorry, the intervention has been taken. Continue.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=12454"
+        },
+        {
+          "id": "contribution-779114",
+          "item_id": "item-16316-261014-7",
+          "item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
+          "lang": "cy",
+          "t_start": 12797,
+          "text_english": "I call on the Cabinet Minister for Finance, Elin Jones.",
+          "text_original": "Galwaf ar y Gweinidog Cabinet dros Gyllid, Elin Jones.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=12797"
+        },
+        {
+          "id": "contribution-779107",
+          "item_id": "item-16316-261014-7",
+          "item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
+          "lang": "cy",
+          "t_start": 13216,
+          "text_english": "I call on Francesca O'Brien to reply to the debate.",
+          "text_original": "Galwaf ar Francesca O'Brien i ymateb i'r ddadl.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=13216"
+        },
+        {
+          "id": "contribution-779139",
+          "item_id": "item-16316-261014-7",
+          "item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
+          "lang": "cy",
+          "t_start": 13674,
+          "text_english": "The proposal is to agree the motion without amendment. Does any Member object? [Objection.] Yes, there are objections. I will therefore defer voting on this item until voting time.",
+          "text_original": "Y cwestiwn yw: a ddylid derbyn y cynnig heb ei ddiwygio? A oes unrhyw Aelod yn gwrthwynebu? [Gwrthwynebiad.] Oes. Gohiriaf y bleidlais o dan yr eitem hon tan y cyfnod pleidleisio.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=13674"
         },
         {
           "id": "contribution-779142",
@@ -1870,6 +1960,186 @@
           "tv_url": "http://www.senedd.tv/en/16265?startPos=11752"
         },
         {
+          "id": "contribution-773758",
+          "item_id": "item-16265-260930-7",
+          "item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
+          "lang": "cy",
+          "t_start": 11780,
+          "text_english": "We move on now to item 6, the Reform UK debate on the default 20 mph speed limit. I call on Jason O'Connell to move the motion.",
+          "text_original": "Symudwn at eitem 6, dadl Reform UK ar y terfyn cyflymder diofyn o 20 mya. Galwaf ar Jason O'Connell i wneud y cynnig.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=11780"
+        },
+        {
+          "id": "contribution-773765",
+          "item_id": "item-16265-260930-7",
+          "item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
+          "lang": "cy",
+          "t_start": 12078,
+          "text_english": "Sarah Cooper-Lesadd. I do apologise. Just wait a moment. \n\nI have selected the amendment to the motion, and I call on the Deputy Minister for Transport to move formally amendment 1, tabled in the name of Heledd Fychan. Minister.",
+          "text_original": "Sarah Cooper-Lesadd. O, mae'n ddrwg gen i. Sori. Arhoswch am funud. \n\nRwyf wedi dethol y gwelliant i'r cynnig. Galwaf ar y Dirprwy Weinidog dros Drafnidiaeth i gynnig yn ffurfiol welliant 1 yn enw Heledd Fychan. Weinidog.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=12078"
+        },
+        {
+          "id": "contribution-773771",
+          "item_id": "item-16265-260930-7",
+          "item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
+          "lang": "cy",
+          "t_start": 12098,
+          "text_english": "Thank you very much. And now, Sarah Cooper-Lesadd.",
+          "text_original": "Diolch yn fawr iawn. Ac yn awr, Sarah Cooper-Lesadd.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=12098"
+        },
+        {
+          "id": "contribution-773773",
+          "item_id": "item-16265-260930-7",
+          "item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
+          "lang": "en",
+          "t_start": 12984,
+          "text_english": "[Inaudible.]—playing word bingo here now. Can I just remind you that there was a ruling in the previous Senedd—a very clear ruling—on the use of the word 'blanket' in terms of this debate? I'm very cognisant that all Members so far have used the terms of the debate as set, which is 'default', indeed, so if we can keep to—",
+          "text_original": "[Inaudible.]—playing word bingo here now. Can I just remind you that there was a ruling in the previous Senedd—a very clear ruling—on the use of the word 'blanket' in terms of this debate? I'm very cognisant that all Members so far have used the terms of the debate as set, which is 'default', indeed, so if we can keep to—",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=12984"
+        },
+        {
+          "id": "contribution-773775",
+          "item_id": "item-16265-260930-7",
+          "item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
+          "lang": "en",
+          "t_start": 13005,
+          "text_english": "Well, Janet, can I just make clear to you that the standards commissioner and others have ruled on this and that 'blanket' is not appropriate?",
+          "text_original": "Well, Janet, can I just make clear to you that the standards commissioner and others have ruled on this and that 'blanket' is not appropriate?",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=13005"
+        },
+        {
+          "id": "contribution-773796",
+          "item_id": "item-16265-260930-7",
+          "item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
+          "lang": "en",
+          "t_start": 13344,
+          "text_english": "Diolch yn fawr iawn, Gwyn.",
+          "text_original": "Diolch yn fawr iawn, Gwyn.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=13344"
+        },
+        {
+          "id": "contribution-773784",
+          "item_id": "item-16265-260930-7",
+          "item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
+          "lang": "en",
+          "t_start": 13619,
+          "text_english": "Indeed.",
+          "text_original": "Indeed.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=13619"
+        },
+        {
+          "id": "contribution-773791",
+          "item_id": "item-16265-260930-7",
+          "item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
+          "lang": "en",
+          "t_start": 13894,
+          "text_english": "Before calling the next speaker, this debate is rolling along very nicely, but simply to say that I don't expect Members to repeat where there has been a clear rule in the previous Senedd in terms of terminology around this. Members are being, by and large, very good in sticking to the terminology of this debate, but please don't try my patience. Paul Rock.",
+          "text_original": "Before calling the next speaker, this debate is rolling along very nicely, but simply to say that I don't expect Members to repeat where there has been a clear rule in the previous Senedd in terms of terminology around this. Members are being, by and large, very good in sticking to the terminology of this debate, but please don't try my patience. Paul Rock.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=13894"
+        },
+        {
+          "id": "contribution-773801",
+          "item_id": "item-16265-260930-7",
+          "item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
+          "lang": "en",
+          "t_start": 14286,
+          "text_english": "Paul, if you could—",
+          "text_original": "Paul, if you could—",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=14286"
+        },
+        {
+          "id": "contribution-773806",
+          "item_id": "item-16265-260930-7",
+          "item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
+          "lang": "en",
+          "t_start": 14295,
+          "text_english": "Diolch yn fawr iawn. We still have several speakers to get to. I do not think we will get to them all in a 60-minute debate. This is probably the final speaker here, before we go to the Minister and the concluding remarks. Carmelo Colasanto.",
+          "text_original": "Diolch yn fawr iawn. We still have several speakers to get to. I do not think we will get to them all in a 60-minute debate. This is probably the final speaker here, before we go to the Minister and the concluding remarks. Carmelo Colasanto.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=14295"
+        },
+        {
+          "id": "contribution-773824",
+          "item_id": "item-16265-260930-7",
+          "item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
+          "lang": "en",
+          "t_start": 14650,
+          "text_english": "Carmelo, could you conclude, please?",
+          "text_original": "Carmelo, could you conclude, please?",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=14650"
+        },
+        {
+          "id": "contribution-773827",
+          "item_id": "item-16265-260930-7",
+          "item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
+          "lang": "en",
+          "t_start": 14671,
+          "text_english": "Carmelo, thank you.",
+          "text_original": "Carmelo, thank you.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=14671"
+        },
+        {
+          "id": "contribution-773828",
+          "item_id": "item-16265-260930-7",
+          "item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
+          "lang": "cy",
+          "t_start": 14673,
+          "text_english": "I call on the Deputy Minister for Transport, Mark Hooper.",
+          "text_original": "Galwaf ar y Dirprwy Weinidog dros Drafnidiaeth, Mark Hooper.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=14673"
+        },
+        {
+          "id": "contribution-773816",
+          "item_id": "item-16265-260930-7",
+          "item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
+          "lang": "cy",
+          "t_start": 15205,
+          "text_english": "I call on Llŷr Powell to reply to the debate.",
+          "text_original": "Galwaf ar Llŷr Powell i ymateb i'r ddadl.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=15205"
+        },
+        {
+          "id": "contribution-773831",
+          "item_id": "item-16265-260930-7",
+          "item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
+          "lang": "en",
+          "t_start": 15391,
+          "text_english": "Janet, I'm not clear what the point of order is here in this instance.",
+          "text_original": "Janet, I'm not clear what the point of order is here in this instance.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=15391"
+        },
+        {
+          "id": "contribution-773833",
+          "item_id": "item-16265-260930-7",
+          "item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
+          "lang": "en",
+          "t_start": 15404,
+          "text_english": "Janet, I'm not clear that that is a point of order. The Minister is sitting where the Minister sits in his position, and the person leading the response is responding as he sees fit. If you can continue, please, Llŷr.",
+          "text_original": "Janet, I'm not clear that that is a point of order. The Minister is sitting where the Minister sits in his position, and the person leading the response is responding as he sees fit. If you can continue, please, Llŷr.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=15404"
+        },
+        {
+          "id": "contribution-773842",
+          "item_id": "item-16265-260930-7",
+          "item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
+          "lang": "en",
+          "t_start": 15658,
+          "text_english": "Llŷr, it's an opportune moment here just to remind Members—you were very kind and generous in taking that intervention—that we do expect Members to be present for the whole of the debate when they make an intervention. But, Llŷr, you were very generous.",
+          "text_original": "Llŷr, it's an opportune moment here just to remind Members—you were very kind and generous in taking that intervention—that we do expect Members to be present for the whole of the debate when they make an intervention. But, Llŷr, you were very generous.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=15658"
+        },
+        {
+          "id": "contribution-773847",
+          "item_id": "item-16265-260930-7",
+          "item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
+          "lang": "cy",
+          "t_start": 15692,
+          "text_english": "The proposal is to agree the motion without amendment. Does any Member object? [Objection.] There is objection. I will therefore defer voting under this item until voting time.",
+          "text_original": "Y cwestiwn yw: a ddylid derbyn y cynnig heb ei ddiwygio? A oes unrhyw Aelod yn gwrthwynebu? [Gwrthwynebiad.] Gwrthwynebu. Gohiriaf y bleidlais o dan yr eitem hon tan y cyfnod pleidleisio.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=15692"
+        },
+        {
           "id": "contribution-773852",
           "item_id": "item-16265-260930-8",
           "item_title_en": "7. Welsh Conservatives Debate: The defence sector",
@@ -2856,6 +3126,96 @@
           "text_english": "—as we wait in high expectation for the Counsel General to appear on the benches. If Members will just bear with us for a moment, as soon as we are ready, we will commence.",
           "text_original": "—as we wait in high expectation for the Counsel General to appear on the benches. If Members will just bear with us for a moment, as soon as we are ready, we will commence.",
           "tv_url": "http://www.senedd.tv/en/16262?startPos=3667"
+        },
+        {
+          "id": "contribution-770811",
+          "item_id": "item-16262-260922-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "cy",
+          "t_start": 3704,
+          "text_english": "We will move now to item 2, questions to the Counsel General. The first question is from Jane Dodds.",
+          "text_original": "Symudwn nawr at eitem 2, cwestiynau i'r Cwnsler Cyffredinol. Cwestiwn 1, Jane Dodds.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=3704"
+        },
+        {
+          "id": "contribution-770832",
+          "item_id": "item-16262-260922-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "cy",
+          "t_start": 4395,
+          "text_english": "I now call the party spokespeople to question the Counsel General. First of all, Reform UK spokesperson, Adrian Mason.",
+          "text_original": "Galwaf yn awr ar lefarwyr y pleidiau i holi'r Cwnsler Cyffredinol. Yn gyntaf, llefarydd Reform UK, Adrian Mason.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=4395"
+        },
+        {
+          "id": "contribution-770875",
+          "item_id": "item-16262-260922-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "cy",
+          "t_start": 4760,
+          "text_english": "The Welsh Labour spokesperson, Mike Hedges.",
+          "text_original": "Llefarydd Llafur Cymru, Mike Hedges.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=4760"
+        },
+        {
+          "id": "contribution-770890",
+          "item_id": "item-16262-260922-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "cy",
+          "t_start": 4963,
+          "text_english": "The Welsh Conservatives spokesperson, Paul Davies.",
+          "text_original": "Llefarydd y Ceidwadwyr Cymreig, Paul Davies.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=4963"
+        },
+        {
+          "id": "contribution-770859",
+          "item_id": "item-16262-260922-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "en",
+          "t_start": 5724,
+          "text_english": "We're trying to listen—",
+          "text_original": "We're trying to listen—",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=5724"
+        },
+        {
+          "id": "contribution-770865",
+          "item_id": "item-16262-260922-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "en",
+          "t_start": 5730,
+          "text_english": "Colleagues, we're trying to listen to the question. I think the Counsel General is trying to listen.",
+          "text_original": "Colleagues, we're trying to listen to the question. I think the Counsel General is trying to listen.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=5730"
+        },
+        {
+          "id": "contribution-770899",
+          "item_id": "item-16262-260922-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "en",
+          "t_start": 5813,
+          "text_english": "Right. Now, we're going to try and move ahead and get some more questions in further down the list, if we can, with everybody's help.",
+          "text_original": "Right. Now, we're going to try and move ahead and get some more questions in further down the list, if we can, with everybody's help.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=5813"
+        },
+        {
+          "id": "contribution-770900",
+          "item_id": "item-16262-260922-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "cy",
+          "t_start": 5819,
+          "text_english": "Therefore, question 5, Mair Rowlands.",
+          "text_original": "Felly, cwestiwn 5, Mair Rowlands.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=5819"
+        },
+        {
+          "id": "contribution-770993",
+          "item_id": "item-16262-260922-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "cy",
+          "t_start": 6303,
+          "text_english": "Finally, question 8—Kiera Marshall.",
+          "text_original": "Yn olaf, cwestiwn 8—Kiera Marshall.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=6303"
         },
         {
           "id": "contribution-771038",

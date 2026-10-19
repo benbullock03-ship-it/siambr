@@ -7,11 +7,14 @@
       "lang": "cy",
       "member_id": "ms-elin-jones",
       "seq": 0,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 68,
       "t_start": 3,
       "text_english": "Good afternoon and welcome, all, to this Plenary meeting, which is the first meeting of the seventh Senedd. May I start by saying how wonderful it is to see this Chamber full? May I congratulate the 95 of you elected to serve the people of Wales in our national Parliament? The expectations of constituents of us all will be very great, and we have a responsibility to deliver against those expectations, and to do so with dignity, respect and some hwyl too.\n\nAs I prepare to leave this role, may I wish you all every success in your important work over the next four years? So, as Llywydd, it's my duty, under Standing Order 6.4, to chair proceedings for the election of a new Presiding Officer. I therefore invite nominations under Standing Order 6.6. Are there any nominations?",
       "text_original": "Prynhawn da a chroeso, bawb, i'r Cyfarfod Llawn. Hwn yw'r cyfarfod cyntaf o seithfed Senedd Cymru. Gaf i gychwyn drwy ddweud pa mor hyfryd yw hi i weld y Siambr yma yn llawn? Gaf i estyn llongyfarchiadau i'r 95 ohonoch ar gael eich ethol i wasanaethu pobl Cymru yn ein Senedd genedlaethol? Bydd disgwyliadau'r etholwyr yn uchel o bob un ohonom, a'r cyfrifoldeb ar ein hysgwyddau i wireddu'r disgwyliadau hynny, a gwneud hynny gydag urddas, parch a twtsh bach o hwyl hefyd.\n\nWrth i fi baratoi i adael y swydd yma, gaf i ddymuno pob llwyddiant i chi i gyd yn eich gwaith pwysig dros y pedair blynedd nesaf? Felly, fel Llywydd, fy nyletswydd i o dan Reol Sefydlog 6.4 yw cadeirio'r trafodion ar gyfer ethol Llywydd newydd. Rwy'n gwahodd enwebiadau o dan Reol Sefydlog 6.6. A oes yna Aelod yn cael ei enwebu?",
-      "tv_url": "http://www.senedd.tv/en/16033?startPos=3"
+      "tv_url": "http://www.senedd.tv/en/16033?startPos=3",
+      "unattributed": false
     },
     {
       "id": "contribution-762139",
@@ -19,11 +22,14 @@
       "lang": "en",
       "member_id": "ms-jayne-bryant",
       "seq": 1,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 70,
       "t_start": 68,
       "text_english": "I nominate Huw Irranca-Davies.",
       "text_original": "I nominate Huw Irranca-Davies.",
-      "tv_url": "http://www.senedd.tv/en/16033?startPos=68"
+      "tv_url": "http://www.senedd.tv/en/16033?startPos=68",
+      "unattributed": false
     },
     {
       "id": "contribution-762140",
@@ -31,11 +37,14 @@
       "lang": "cy",
       "member_id": "ms-elin-jones",
       "seq": 2,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 80,
       "t_start": 70,
       "text_english": "Thank you. Huw Irranca-Davies has been nominated. Is there a Member from a different political group who seconds that nomination?",
       "text_original": "Diolch. Mae Huw Irranca-Davies wedi'i enwebu. A oes gennym ni Aelod nad yw o'r un grŵp gwleidyddol i eilio'r enwebiad?",
-      "tv_url": "http://www.senedd.tv/en/16033?startPos=70"
+      "tv_url": "http://www.senedd.tv/en/16033?startPos=70",
+      "unattributed": false
     },
     {
       "id": "contribution-762141",
@@ -43,11 +52,14 @@
       "lang": "en",
       "member_id": "ms-jane-dodds",
       "seq": 3,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 82,
       "t_start": 80,
       "text_english": "I second Huw Irranca-Davies.",
       "text_original": "I second Huw Irranca-Davies.",
-      "tv_url": "http://www.senedd.tv/en/16033?startPos=80"
+      "tv_url": "http://www.senedd.tv/en/16033?startPos=80",
+      "unattributed": false
     },
     {
       "id": "contribution-762142",
@@ -55,11 +67,14 @@
       "lang": "cy",
       "member_id": "ms-elin-jones",
       "seq": 4,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 91,
       "t_start": 82,
       "text_english": "Thank you. The nomination has been formally seconded. Are there any further nominations?",
       "text_original": "Diolch. Mae'r enwebiad, felly, wedi'i eilio yn ffurfiol. A oes yna unrhyw enwebiadau eraill?",
-      "tv_url": "http://www.senedd.tv/en/16033?startPos=82"
+      "tv_url": "http://www.senedd.tv/en/16033?startPos=82",
+      "unattributed": false
     },
     {
       "id": "contribution-762144",
@@ -67,11 +82,14 @@
       "lang": "en",
       "member_id": "ms-sam-rowlands",
       "seq": 5,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 93,
       "t_start": 91,
       "text_english": "Llywydd, I nominate Paul Davies.",
       "text_original": "Llywydd, I nominate Paul Davies.",
-      "tv_url": "http://www.senedd.tv/en/16033?startPos=91"
+      "tv_url": "http://www.senedd.tv/en/16033?startPos=91",
+      "unattributed": false
     },
     {
       "id": "contribution-762145",
@@ -79,11 +97,14 @@
       "lang": "cy",
       "member_id": "ms-elin-jones",
       "seq": 6,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 107,
       "t_start": 93,
       "text_english": "Thank you. Paul Davies has been nominated. Is there a seconder from a different political group for that nomination?",
       "text_original": "Diolch. Mae Paul Davies wedi cael ei enwebu. A oes yna eilydd o grŵp gwleidyddol gwahanol i eilio'r enwebiad hynny?",
-      "tv_url": "http://www.senedd.tv/en/16033?startPos=93"
+      "tv_url": "http://www.senedd.tv/en/16033?startPos=93",
+      "unattributed": false
     },
     {
       "id": "contribution-762146",
@@ -91,11 +112,14 @@
       "lang": "cy",
       "member_id": "ms-elin-jones",
       "seq": 7,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 154,
       "t_start": 107,
       "text_english": "There is not. As there is no seconder for that nomination, there is just one nomination that is put forward formally and fully, and I therefore propose, in accordance with Standing Order 6.8, that Huw Irranca-Davies be elected Llywydd. Does any Member object? [Objection.] There is objection to that. As there is an objection, I now ask the candidate to make a brief contribution to the Chamber—Huw Irranca-Davies.",
       "text_original": "Na. Gan nad oes yna eilydd i'r enwebiad hynny, dim ond un enwebiad, felly, sydd wedi'i gynnig yn ffurfiol ac yn llawn, a chynigiaf felly, yn unol â Rheol Sefydlog 6.8, fod Huw Irranca-Davies yn cael ei ethol yn Llywydd. A oes unrhyw Aelod yn gwrthwynebu hynny? [Gwrthwynebiad.] Mae yna wrthwynebiad i hynny. Felly, gan fod yna wrthwynebiad, dwi nawr yn gofyn i'r ymgeisydd wneud cyfraniad byr i'r Siambr—Huw Irranca-Davies.",
-      "tv_url": "http://www.senedd.tv/en/16033?startPos=107"
+      "tv_url": "http://www.senedd.tv/en/16033?startPos=107",
+      "unattributed": false
     },
     {
       "id": "contribution-762150",
@@ -103,11 +127,14 @@
       "lang": "cy",
       "member_id": "ms-huw-irranca-davies",
       "seq": 8,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 186,
       "t_start": 154,
       "text_english": "Thank you very much, Llywydd. First of all, may I congratulate all of the Members of the Senedd, new and old, on being elected? Further to that, I want to extend my thanks to those candidates who were unsuccessful this time. It calls for resilience, bravery and diligence to put your name forward for any election, and without those people who are willing to do so, our democracy could not function.",
       "text_original": "Diolch yn fawr iawn, Llywydd. Yn gyntaf oll, a gaf i longyfarch holl Aelodau'r Senedd, newydd a hen, ar eu hetholiad? Ymhellach, rwy'n ymestyn fy niolch i'r ymgeiswyr hynny a fu'n aflwyddiannus. Mae'n gofyn am wydnwch, dewrder a dyfalbarhad i roi eich enw ymlaen ar gyfer unrhyw etholiad, a heb y bobl hynny sy'n barod i wneud hynny, ni allai ein democratiaeth weithio.",
-      "tv_url": "http://www.senedd.tv/en/16033?startPos=154"
+      "tv_url": "http://www.senedd.tv/en/16033?startPos=154",
+      "unattributed": false
     },
     {
       "id": "contribution-762152",
@@ -115,11 +142,14 @@
       "lang": "en",
       "member_id": "ms-huw-irranca-davies",
       "seq": 9,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 311,
       "t_start": 186,
       "text_english": "For those Members of the Senedd who do not know me, I will offer a thankfully brief summary of my experience and skills of relevance to the role of Llywydd.\n\nI spent nearly 15 years in Westminster doing what I sometimes lightheartedly call my apprenticeship for the Senedd. During that time, I served as a Government Minister and a shadow Minister in key roles. I took through complex legislation and engaged constructively with Welsh Government Ministers here in the then Assembly, and I chaired powerful and influential scrutiny committees. When I came to the Senedd, I sought to contribute to the work of this democratic institution as a proud backbench Member—and never forget the importance of that role—also as Chair of the Legislation, Justice and Constitution Committee, as a member of two committees on Senedd reform, as a Government Minister and Cabinet Secretary, and throughout all of this, extending my knowledge and understanding of Standing Orders and Senedd procedures, which I believe has given me the depth and breadth of skills and the ability to take on this important role.\n\nI chose to come back to Wales. I resigned as a Member of the UK Parliament to stand for this Senedd in 2016. I am one of the few to make that journey with real intent and purpose. I did so because I believe in this Senedd, this beating heart of our national democracy here in Wales. Our Senedd Cymru is still a very young Parliament, but it is growing in strength and in confidence. I believe in the power of this democratic institution to improve the lives of the people of Wales, through giving voice to the diverse communities of Wales, through the representatives here elected, and by holding Government to account through effective and constructive scrutiny and challenge.",
       "text_original": "For those Members of the Senedd who do not know me, I will offer a thankfully brief summary of my experience and skills of relevance to the role of Llywydd.\n\nI spent nearly 15 years in Westminster doing what I sometimes lightheartedly call my apprenticeship for the Senedd. During that time, I served as a Government Minister and a shadow Minister in key roles. I took through complex legislation and engaged constructively with Welsh Government Ministers here in the then Assembly, and I chaired powerful and influential scrutiny committees. When I came to the Senedd, I sought to contribute to the work of this democratic institution as a proud backbench Member—and never forget the importance of that role—also as Chair of the Legislation, Justice and Constitution Committee, as a member of two committees on Senedd reform, as a Government Minister and Cabinet Secretary, and throughout all of this, extending my knowledge and understanding of Standing Orders and Senedd procedures, which I believe has given me the depth and breadth of skills and the ability to take on this important role.\n\nI chose to come back to Wales. I resigned as a Member of the UK Parliament to stand for this Senedd in 2016. I am one of the few to make that journey with real intent and purpose. I did so because I believe in this Senedd, this beating heart of our national democracy here in Wales. Our Senedd Cymru is still a very young Parliament, but it is growing in strength and in confidence. I believe in the power of this democratic institution to improve the lives of the people of Wales, through giving voice to the diverse communities of Wales, through the representatives here elected, and by holding Government to account through effective and constructive scrutiny and challenge.",
-      "tv_url": "http://www.senedd.tv/en/16033?startPos=186"
+      "tv_url": "http://www.senedd.tv/en/16033?startPos=186",
+      "unattributed": false
     },
     {
       "id": "contribution-762138",
@@ -127,11 +157,14 @@
       "lang": "cy",
       "member_id": "ms-huw-irranca-davies",
       "seq": 10,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 346,
       "t_start": 311,
       "text_english": "If the responsibility of being Llywydd is given to me by the Members of this Senedd, I pledge to work with every Member of the Senedd to ensure that our Senedd meets the high expectations of this institution and, as we move into the seventh Senedd term, that the Senedd is relevant to every part of Wales and engages with everyone in Wales, and that our democracy is strengthened through our common interests and efforts as parliamentarians.",
       "text_original": "Os caiff y cyfrifoldeb o fod yn Llywydd ei roi i mi gan Aelodau'r Senedd, rwy'n addo gweithio gyda'r holl Aelodau i sicrhau bod ein Senedd yn cwrdd â disgwyliadau uchel y sefydliad hwn ac, wrth inni fynd i seithfed tymor y Senedd, fod y Senedd yn berthnasol i bob rhan o Gymru ac yn ymgysylltu â nhw, a bod ein democratiaeth yn cael ei chryfhau trwy ein hymdrech gyffredin fel seneddwyr.",
-      "tv_url": "http://www.senedd.tv/en/16033?startPos=311"
+      "tv_url": "http://www.senedd.tv/en/16033?startPos=311",
+      "unattributed": false
     },
     {
       "id": "contribution-762143",
@@ -139,11 +172,14 @@
       "lang": "en",
       "member_id": "ms-huw-irranca-davies",
       "seq": 11,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 378,
       "t_start": 346,
       "text_english": "I will carry out this role with hallmark openness and collaboration, fairness and impartiality, always keen to ensure that this Senedd and all of us who have the privilege of representing our constituents do so with respect for each other in the way that we engage and we debate, respect for our democratic processes, and respect for the people of Wales in all our great and glorious diversity.",
       "text_original": "I will carry out this role with hallmark openness and collaboration, fairness and impartiality, always keen to ensure that this Senedd and all of us who have the privilege of representing our constituents do so with respect for each other in the way that we engage and we debate, respect for our democratic processes, and respect for the people of Wales in all our great and glorious diversity.",
-      "tv_url": "http://www.senedd.tv/en/16033?startPos=346"
+      "tv_url": "http://www.senedd.tv/en/16033?startPos=346",
+      "unattributed": false
     },
     {
       "id": "contribution-762147",
@@ -151,11 +187,14 @@
       "lang": "cy",
       "member_id": "ms-huw-irranca-davies",
       "seq": 12,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 379,
       "t_start": 378,
       "text_english": "Therefore, thank you.",
       "text_original": "Felly, diolch.",
-      "tv_url": "http://www.senedd.tv/en/16033?startPos=378"
+      "tv_url": "http://www.senedd.tv/en/16033?startPos=378",
+      "unattributed": false
     },
     {
       "id": "contribution-762148",
@@ -163,11 +202,14 @@
       "lang": "en",
       "member_id": "ms-huw-irranca-davies",
       "seq": 13,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 391,
       "t_start": 379,
       "text_english": "My thanks to colleagues from across the Siambr for urging me to put my name forward. If elected, I will do my best for all of you and for the Senedd, and, through this, the very best for the people of Wales.",
       "text_original": "My thanks to colleagues from across the Siambr for urging me to put my name forward. If elected, I will do my best for all of you and for the Senedd, and, through this, the very best for the people of Wales.",
-      "tv_url": "http://www.senedd.tv/en/16033?startPos=379"
+      "tv_url": "http://www.senedd.tv/en/16033?startPos=379",
+      "unattributed": false
     },
     {
       "id": "contribution-762311",
@@ -175,11 +217,14 @@
       "lang": "cy",
       "member_id": "ms-huw-irranca-davies",
       "seq": 14,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 394,
       "t_start": 391,
       "text_english": "My thanks to you all.",
       "text_original": "Diolch i chi i gyd.",
-      "tv_url": "http://www.senedd.tv/en/16033?startPos=391"
+      "tv_url": "http://www.senedd.tv/en/16033?startPos=391",
+      "unattributed": false
     },
     {
       "id": "contribution-762149",
@@ -187,11 +232,14 @@
       "lang": "cy",
       "member_id": "ms-elin-jones",
       "seq": 15,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 2685,
       "t_start": 394,
       "text_english": "We will now move to the secret ballot, and I will suspend the meeting to conduct that secret ballot. Voting will take place in briefing room 13, which is just outside this Chamber. The ballot will not close until all Members intending to vote have done so.\n\nI have agreed that Sarah Murphy may vote by proxy for reasons of parental leave, and Vikki Howells will exercise the vote on her behalf as a proxy.\n\nThe clerk will be responsible for overseeing the voting and the count, and, once the votes cast have been counted from the secret ballot, the bell will be rung so that we may reconvene to announce the result. So, I suspend the meeting.",
       "text_original": "Byddwn ni nawr yn symud at y bleidlais gyfrinachol, a byddaf i'n atal y cyfarfod, er mwyn hwyluso hynny, dros dro. Bydd y pleidleisio yn digwydd yn ystafell friffio 13, sydd jest y tu allan i'r Siambr yma. Ni fydd y balot yn cau tan fod pob Aelod sy'n bwriadu pleidleisio wedi gwneud hynny.\n\nRwyf i wedi cytuno y caiff Sarah Murphy bleidleisio drwy ddirprwy am ei bod hi ar absenoldeb rhiant, a bydd Vikki Howells yn bwrw'r bleidlais honno ar ei rhan hi fel dirprwy.\n\nY clerc fydd yn gyfrifol am oruchwylio'r pleidleisio a'r cyfrif, ac ar ôl cyfri'r pleidleisiau a gaiff eu bwrw yn y bleidlais gyfrinachol, bydd y gloch yn cael ei chanu fel y gallwn ailymgynnull ar gyfer cyhoeddi'r canlyniad. Felly, dwi'n atal y cyfarfod dros dro am nawr.",
-      "tv_url": "http://www.senedd.tv/en/16033?startPos=394"
+      "tv_url": "http://www.senedd.tv/en/16033?startPos=394",
+      "unattributed": false
     },
     {
       "id": "contribution-762155",
@@ -199,11 +247,14 @@
       "lang": "cy",
       "member_id": "ms-elin-jones",
       "seq": 16,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 2775,
       "t_start": 2685,
       "text_english": "We reconvene. I have a result for you following that secret ballot. There were 95 votes cast for Huw Irranca-Davies. In favour there were 85 votes, against nine, and one abstention. There were no spoilt ballot papers. So, I declare, in accordance with Standing Order 6.9, that Huw Irranca-Davies is elected as Presiding Officer of the Senedd. Many congratulations. [Applause.] We will now suspend the meeting for a second or two before the Presiding Officer takes the Chair.",
       "text_original": "Rydyn ni'n ailgydio yn y cyfarfod. Mae gyda fi ganlyniad ichi yn dilyn y bleidlais gyfrinachol. Mae 95 o bleidleisiau wedi eu bwrw ar gyfer Huw Irranca-Davies. O blaid Huw Irranca-Davies 85 o bleidleisiau, yn erbyn naw, yn ymatal un. Difethwyd ddim un pleidlais. Felly, dwi'n gallu datgan, yn unol â Rheol Sefydlog 6.9, fod Huw Irranca-Davies wedi cael ei ethol yn Llywydd y Senedd. Llongyfarchiadau mawr. [Cymeradwyaeth.] Fe fyddwn ni nawr yn atal y cyfarfod dros dro am eiliad neu ddwy, tra bod y Llywydd newydd yn dod i'r Gadair.",
-      "tv_url": "http://www.senedd.tv/en/16033?startPos=2685"
+      "tv_url": "http://www.senedd.tv/en/16033?startPos=2685",
+      "unattributed": false
     },
     {
       "id": "contribution-762160",
@@ -211,11 +262,14 @@
       "lang": "cy",
       "member_id": "ms-huw-irranca-davies",
       "seq": 17,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 2777,
       "t_start": 2775,
       "text_english": "Thank you all very much.",
       "text_original": "Diolch yn fawr iawn i chi i gyd.",
-      "tv_url": "http://www.senedd.tv/en/16033?startPos=2775"
+      "tv_url": "http://www.senedd.tv/en/16033?startPos=2775",
+      "unattributed": false
     },
     {
       "id": "contribution-762162",
@@ -223,11 +277,14 @@
       "lang": "en",
       "member_id": "ms-huw-irranca-davies",
       "seq": 18,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 2781,
       "t_start": 2777,
       "text_english": "Thank you very much indeed for your trust and confidence in me.",
       "text_original": "Thank you very much indeed for your trust and confidence in me.",
-      "tv_url": "http://www.senedd.tv/en/16033?startPos=2777"
+      "tv_url": "http://www.senedd.tv/en/16033?startPos=2777",
+      "unattributed": false
     },
     {
       "id": "contribution-762163",
@@ -235,11 +292,14 @@
       "lang": "cy",
       "member_id": "ms-huw-irranca-davies",
       "seq": 19,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 2827,
       "t_start": 2781,
       "text_english": "Also, I would like to thank Elin. [Applause.] Thank you for your careful and expert stewardship of this Welsh Parliament. It is a place that has changed greatly, and it is even better for your time as Llywydd. Thank you very much.",
       "text_original": "Hefyd, diolch yn fawr iawn, Elin. [Cymeradwyaeth.] Diolch i chi am eich stiwardiaeth ofalus ac arbenigol o'r Senedd hon. Mae'n lle sydd wedi newid yn fawr, ac mae'n well fyth o'ch cyfnod chi fel Llywydd. Diolch yn fawr iawn.",
-      "tv_url": "http://www.senedd.tv/en/16033?startPos=2781"
+      "tv_url": "http://www.senedd.tv/en/16033?startPos=2781",
+      "unattributed": false
     },
     {
       "id": "contribution-762171",
@@ -247,11 +307,14 @@
       "lang": "cy",
       "member_id": "ms-huw-irranca-davies",
       "seq": 0,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 2863,
       "t_start": 2827,
       "text_english": "Now we move to the next item of business. We move now to the election of a Deputy Presiding Officer. I would remind Members that, in accordance with Standing Order 6.12, nominations for a Deputy Presiding Officer are only valid if a nominee is from a different political group to my own. I therefore invite nominations under Standing Order 6.6.",
       "text_original": "Nawr te, i'r busnes nesaf. Rydyn ni'n symud ymlaen nawr at ethol y Dirprwy Lywydd. Hoffwn atgoffa'r Aelodau, yn unol â Rheol Sefydlog 6.12, mai dim ond os yw'r enwebiadau o grŵp gwleidyddol gwahanol i mi y bydd enwebiadau yn ddilys ar gyfer Dirprwy Lywydd. Felly, rwy'n gwahodd enwebiadau o dan Reol Sefydlog 6.6.",
-      "tv_url": "http://www.senedd.tv/en/16033?startPos=2827"
+      "tv_url": "http://www.senedd.tv/en/16033?startPos=2827",
+      "unattributed": false
     },
     {
       "id": "contribution-762177",
@@ -259,11 +322,14 @@
       "lang": "cy",
       "member_id": "ms-matthew-jones",
       "seq": 1,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 2868,
       "t_start": 2863,
       "text_english": "I would like to nominate Kerry Ferguson.",
       "text_original": "Hoffwn gynnig enw Kerry Ferguson.",
-      "tv_url": "http://www.senedd.tv/en/16033?startPos=2863"
+      "tv_url": "http://www.senedd.tv/en/16033?startPos=2863",
+      "unattributed": false
     },
     {
       "id": "contribution-762178",
@@ -271,11 +337,14 @@
       "lang": "cy",
       "member_id": "ms-huw-irranca-davies",
       "seq": 2,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 2881,
       "t_start": 2868,
       "text_english": "Thank you very much. Do we have a Member who is not from the same political group to second the nomination?",
       "text_original": "Diolch yn fawr iawn. A oes gennym Aelod nad yw o'r un grŵp gwleidyddol i eilio'r enwebiad?",
-      "tv_url": "http://www.senedd.tv/en/16033?startPos=2868"
+      "tv_url": "http://www.senedd.tv/en/16033?startPos=2868",
+      "unattributed": false
     },
     {
       "id": "contribution-762180",
@@ -283,11 +352,14 @@
       "lang": "en",
       "member_id": "ms-anthony-slaughter",
       "seq": 3,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 2884,
       "t_start": 2881,
       "text_english": "I second Kerry Ferguson.",
       "text_original": "I second Kerry Ferguson.",
-      "tv_url": "http://www.senedd.tv/en/16033?startPos=2881"
+      "tv_url": "http://www.senedd.tv/en/16033?startPos=2881",
+      "unattributed": false
     },
     {
       "id": "contribution-762183",
@@ -295,11 +367,14 @@
       "lang": "cy",
       "member_id": "ms-huw-irranca-davies",
       "seq": 4,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 2901,
       "t_start": 2884,
       "text_english": "Thank you. Are there any other nominations? No—",
       "text_original": "Diolch. A oes unrhyw enwebiadau eraill? Na—",
-      "tv_url": "http://www.senedd.tv/en/16033?startPos=2884"
+      "tv_url": "http://www.senedd.tv/en/16033?startPos=2884",
+      "unattributed": false
     },
     {
       "id": "contribution-762191",
@@ -307,11 +382,14 @@
       "lang": "en",
       "member_id": "ms-huw-irranca-davies",
       "seq": 5,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 2915,
       "t_start": 2901,
       "text_english": "Bear with me, I'm new to this. [Laughter.] I do not want to get this wrong.",
       "text_original": "Bear with me, I'm new to this. [Laughter.] I do not want to get this wrong.",
-      "tv_url": "http://www.senedd.tv/en/16033?startPos=2901"
+      "tv_url": "http://www.senedd.tv/en/16033?startPos=2901",
+      "unattributed": false
     },
     {
       "id": "contribution-762196",
@@ -319,11 +397,14 @@
       "lang": "cy",
       "member_id": "ms-huw-irranca-davies",
       "seq": 6,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": null,
       "t_start": 2915,
       "text_english": "I see that there are no other nominations. I therefore propose, in accordance with Standing Order 6.8, that—. I do apologise. As there is no objection—[Interruption.] No. I do apologise. I see that there are no other nominations. I therefore propose, in accordance with Standing Order 6.8, that Kerry Ferguson is elected as Deputy Presiding Officer. Does any Member object? No. As there are no objections, I therefore declare that Kerry Ferguson is elected as Deputy Presiding Officer of the Welsh Parliament, Senedd Cymru. [Applause.]",
       "text_original": "Gwelaf nad oes enwebiadau eraill. Cynigiaf, felly, yn unol â Rheol Sefydlog 6.8, bod—. Mae'n ddrwg gen i. Gan nad oes gwrthwynebiad—[Torri ar draws.] Na. Mae'n ddrwg gen i. Gan nad oes enwebiadau eraill, cynigiaf, felly, yn unol â Rheol Sefydlog 6.8, fod Kerry Ferguson wedi ei hethol yn Ddirprwy Lywydd. A oes unrhyw Aelod yn gwrthwynebu? Nac oes. Gan nad oes gwrthwynebiad, rwyf yn datgan felly bod Kerry Ferguson wedi ei hethol yn Ddirprwy Lywydd Senedd Cymru. [Cymeradwyaeth.]",
-      "tv_url": "http://www.senedd.tv/en/16033?startPos=2915"
+      "tv_url": "http://www.senedd.tv/en/16033?startPos=2915",
+      "unattributed": false
     }
   ],
   "date": "2026-05-12",
@@ -497,5 +578,9 @@
   "term": 7,
   "title_cy": "Cyfarfod Llawn",
   "title_en": "Plenary",
+  "unattributed": {
+    "contributions": 0,
+    "speakers": []
+  },
   "xml_sha256": "5b8beff79376ff2f3e2742e78f34d095c3860c3643b139a07528639f9b8fc1bf"
 }

@@ -2,8 +2,8 @@
   "ballots": [
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779120",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -13,8 +13,8 @@
     },
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779125",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -24,8 +24,8 @@
     },
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779128",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -112,8 +112,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773939",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -123,8 +123,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773957",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -134,8 +134,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773961",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -741,7 +741,7 @@
   "canonical_name": "Cai Parry-Jones",
   "constituency_name_cy": "Caerdydd Ffynnon Taf",
   "constituency_name_en": "Caerdydd Ffynnon Taf",
-  "contribution_count": 36,
+  "contribution_count": 40,
   "contributions_by_date": [
     {
       "contributions": [
@@ -784,6 +784,46 @@
           "text_english": "Minister, you've spent five months in this job. Let's look at your record: you're responsible for the first Welsh Government budget ever to be defeated in the history of devolution; you've twice managed to vote against your own Government, by mistake; you've had to correct the record for getting financial figures wrong in the Chamber; and, just now, you've failed to explain where the money's going to come from for the third Menai crossing. That is why I wasn't surprised that, when your Government needed to negotiate with my party for the next supplementary budget, it didn't send you, it sent the Minister for Government effectiveness. I have a source saying the exact same thing happened with the Labour negotiations. The First Minister said he had learnt lessons over the summer. The lesson, it appears, is to sideline you. So, Minister, who is actually running the Welsh Government's finances? And given it clearly isn't you, is it not time to officially hand over the reins to someone more competent?",
           "text_original": "Minister, you've spent five months in this job. Let's look at your record: you're responsible for the first Welsh Government budget ever to be defeated in the history of devolution; you've twice managed to vote against your own Government, by mistake; you've had to correct the record for getting financial figures wrong in the Chamber; and, just now, you've failed to explain where the money's going to come from for the third Menai crossing. That is why I wasn't surprised that, when your Government needed to negotiate with my party for the next supplementary budget, it didn't send you, it sent the Minister for Government effectiveness. I have a source saying the exact same thing happened with the Labour negotiations. The First Minister said he had learnt lessons over the summer. The lesson, it appears, is to sideline you. So, Minister, who is actually running the Welsh Government's finances? And given it clearly isn't you, is it not time to officially hand over the reins to someone more competent?",
           "tv_url": "http://www.senedd.tv/en/16316?startPos=3824"
+        },
+        {
+          "id": "contribution-779061",
+          "item_id": "item-16316-261014-7",
+          "item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
+          "lang": "cy",
+          "t_start": 10193,
+          "text_english": "Thank you, Llywydd. It's a pleasure to open this debate on behalf of Reform UK Cymru as the shadow finance Minister.",
+          "text_original": "Diolch, Lywydd. Pleser yw cael agor y cynnig hwn ar ran Reform UK Cymru heddiw fel y Gweinidog cyllid cysgodol.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=10193"
+        },
+        {
+          "id": "contribution-779062",
+          "item_id": "item-16316-261014-7",
+          "item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
+          "lang": "en",
+          "t_start": 10201,
+          "text_english": "Reform calls for more democratic powers to be put in the hands of local taxpayers. Where Welsh councils propose council tax increases above 4.99 per cent, residents will have the right to approve or reject them through a local referendum. This policy would finally put Welsh taxpayers on an equal footing to their English counterparts. If council leaders want to implement inflation-busting council tax rises year on year, it is only right that they justify it directly to the people who pay—the people who they supposedly work for.",
+          "text_original": "Reform calls for more democratic powers to be put in the hands of local taxpayers. Where Welsh councils propose council tax increases above 4.99 per cent, residents will have the right to approve or reject them through a local referendum. This policy would finally put Welsh taxpayers on an equal footing to their English counterparts. If council leaders want to implement inflation-busting council tax rises year on year, it is only right that they justify it directly to the people who pay—the people who they supposedly work for.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=10201"
+        },
+        {
+          "id": "contribution-779057",
+          "item_id": "item-16316-261014-7",
+          "item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
+          "lang": "en",
+          "t_start": 10235,
+          "text_english": "For too many people across Wales, opening the annual council tax bill is something they absolutely dread. Families are struggling with the cost of living. They're working hard to pay their mortgages whilst grappling with energy bills and weekly shopping, yet they're also being asked to find more and more money every year to pay their council tax. In my constituency of Caerdydd Ffynnon Taf, a standard band D bill in Cardiff has risen from around £1,637 in 2022-23 to over £2,000 this year—an increase of almost 23 per cent. And it's not just my constituency. Let us look at the figures elsewhere. In 2025-26, Wrexham and Flintshire increased council tax by 9.5 per cent, Pembrokeshire by 9.35 per cent and Ceredigion by 9.3 per cent. In Conwy, residents have faced successive increases of 9.67 per cent, 8.95 per cent and a further 6.5 per cent this year. And on Ynys Môn, the council's band D charge has risen more than 31 per cent since 2022. On average, that's over £425 more each year added to their council tax bill. Staggering. Yet, the Plaid Cymru-led council on Ynys Môn reported a budget underspend, totalling over £8 million across the last three financial years, and holds £19 million in general reserves. Surely, it is reasonable to ask whether residents were charged more than was necessary.\n\nIt isn't just about the money they haven't spent. It's also about the stupid decisions they've committed to spend on. A few weeks ago, the Isle of Anglesey County Council passed a motion to spend £1.1 million swapping household black bins for smaller ones. Only one councillor voted against that proposal, and I am proud to say that that was a sole Reform Cymru councillor—[Interruption.] There'll be more than one soon. A lonely voice of common sense in a crowded room of nonsense. Let me be clear, of course councils face genuine pressures, from social care to schools, roads and waste collection—these all need funding. We understand that and we want to see them fairly funded, but that does not mean that ever-higher council tax bills should be accepted as the norm. Wales has 22 principal local authorities, so let me ask a straightforward question: do we really need 22 separate back offices when councils could work together to save money? Do we need duplicated payroll systems, separate IT contracts and independent procurement arrangements when sharing services could deliver better value? Could councils combine their purchasing power to secure better prices, reduce duplication and free up money for front-line services, such as social care? This is not an attack on local government employees. They are common-sense questions about the political leadership of Welsh councils.\n\nGreater efficiency is one reason Reform wants to introduce a democratic lock on annual council tax increases above 4.99 per cent. We see this policy working as an active deterrent against wasteful and unnecessary spending. If Welsh councils want to raise tax above this threshold, they must make a convincing case through a local referendum. It is up to local people to decide whether their money is being spent efficiently. Consider a household paying £2,000 a year in council tax. A 4.99 per cent increase would add £100 to its bill and an 8 per cent increase would add £160. During a cost-of-living crisis, every pound matters. In England, councils are generally required to seek approval through a local referendum if they want to increase council tax beyond the relevant threshold. So, why shouldn't Welsh taxpayers have the same democratic safeguard? Our objective isn't to force councils to make indiscriminate cuts or undermine essential services, it is to challenge unnecessary duplication, improve procurement, review administrative overheads and encourage councils to work together, wherever that delivers savings.\n\nWe would also expect greater transparency so that residents can see how their money is spent, what savings have been achieved and why any proposed council tax increase above the threshold is necessary. The people of Wales work hard for their money. They deserve responsible spending, effective services and a fair deal from local government. The answer to every budget pressure cannot simply be another inflation-busting increase in council tax. Plaid Cymru talk about a new deal for Wales, but what the people of Wales really need is a fair deal from all layers of Government within Wales. It's time for the Welsh Government to set the bar.\n\nBut I know what will happen. Like every other major issue in Wales, Plaid will say it's somebody else's job to fix, someone else's responsibility. 'Council tax is a local matter for councils.' We've heard it before. This is where Reform is different. We will stand up for Wales and fight the corner of local people. We will make sure their voices are heard loud and clear. We will set the standard, and in this case, that means giving taxpayers the final say on high council tax increases. If Members here today want to help people with the cost of living, put your money where your mouth is and back this democratic lock. Their money, their decision.",
+          "text_original": "For too many people across Wales, opening the annual council tax bill is something they absolutely dread. Families are struggling with the cost of living. They're working hard to pay their mortgages whilst grappling with energy bills and weekly shopping, yet they're also being asked to find more and more money every year to pay their council tax. In my constituency of Caerdydd Ffynnon Taf, a standard band D bill in Cardiff has risen from around £1,637 in 2022-23 to over £2,000 this year—an increase of almost 23 per cent. And it's not just my constituency. Let us look at the figures elsewhere. In 2025-26, Wrexham and Flintshire increased council tax by 9.5 per cent, Pembrokeshire by 9.35 per cent and Ceredigion by 9.3 per cent. In Conwy, residents have faced successive increases of 9.67 per cent, 8.95 per cent and a further 6.5 per cent this year. And on Ynys Môn, the council's band D charge has risen more than 31 per cent since 2022. On average, that's over £425 more each year added to their council tax bill. Staggering. Yet, the Plaid Cymru-led council on Ynys Môn reported a budget underspend, totalling over £8 million across the last three financial years, and holds £19 million in general reserves. Surely, it is reasonable to ask whether residents were charged more than was necessary.\n\nIt isn't just about the money they haven't spent. It's also about the stupid decisions they've committed to spend on. A few weeks ago, the Isle of Anglesey County Council passed a motion to spend £1.1 million swapping household black bins for smaller ones. Only one councillor voted against that proposal, and I am proud to say that that was a sole Reform Cymru councillor—[Interruption.] There'll be more than one soon. A lonely voice of common sense in a crowded room of nonsense. Let me be clear, of course councils face genuine pressures, from social care to schools, roads and waste collection—these all need funding. We understand that and we want to see them fairly funded, but that does not mean that ever-higher council tax bills should be accepted as the norm. Wales has 22 principal local authorities, so let me ask a straightforward question: do we really need 22 separate back offices when councils could work together to save money? Do we need duplicated payroll systems, separate IT contracts and independent procurement arrangements when sharing services could deliver better value? Could councils combine their purchasing power to secure better prices, reduce duplication and free up money for front-line services, such as social care? This is not an attack on local government employees. They are common-sense questions about the political leadership of Welsh councils.\n\nGreater efficiency is one reason Reform wants to introduce a democratic lock on annual council tax increases above 4.99 per cent. We see this policy working as an active deterrent against wasteful and unnecessary spending. If Welsh councils want to raise tax above this threshold, they must make a convincing case through a local referendum. It is up to local people to decide whether their money is being spent efficiently. Consider a household paying £2,000 a year in council tax. A 4.99 per cent increase would add £100 to its bill and an 8 per cent increase would add £160. During a cost-of-living crisis, every pound matters. In England, councils are generally required to seek approval through a local referendum if they want to increase council tax beyond the relevant threshold. So, why shouldn't Welsh taxpayers have the same democratic safeguard? Our objective isn't to force councils to make indiscriminate cuts or undermine essential services, it is to challenge unnecessary duplication, improve procurement, review administrative overheads and encourage councils to work together, wherever that delivers savings.\n\nWe would also expect greater transparency so that residents can see how their money is spent, what savings have been achieved and why any proposed council tax increase above the threshold is necessary. The people of Wales work hard for their money. They deserve responsible spending, effective services and a fair deal from local government. The answer to every budget pressure cannot simply be another inflation-busting increase in council tax. Plaid Cymru talk about a new deal for Wales, but what the people of Wales really need is a fair deal from all layers of Government within Wales. It's time for the Welsh Government to set the bar.\n\nBut I know what will happen. Like every other major issue in Wales, Plaid will say it's somebody else's job to fix, someone else's responsibility. 'Council tax is a local matter for councils.' We've heard it before. This is where Reform is different. We will stand up for Wales and fight the corner of local people. We will make sure their voices are heard loud and clear. We will set the standard, and in this case, that means giving taxpayers the final say on high council tax increases. If Members here today want to help people with the cost of living, put your money where your mouth is and back this democratic lock. Their money, their decision.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=10235"
+        },
+        {
+          "id": "contribution-779063",
+          "item_id": "item-16316-261014-7",
+          "item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
+          "lang": "cy",
+          "t_start": 10558,
+          "text_english": "Support the motion. Thank you.",
+          "text_original": "Cefnogwch y cynnig. Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=10558"
         }
       ],
       "date": "2026-10-14",

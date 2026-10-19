@@ -2,8 +2,8 @@
   "ballots": [
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779120",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -13,8 +13,8 @@
     },
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779125",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -24,8 +24,8 @@
     },
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779128",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -112,8 +112,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773939",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -123,8 +123,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773957",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -134,8 +134,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773961",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -741,7 +741,7 @@
   "canonical_name": "Art Wright",
   "constituency_name_cy": "Casnewydd Islwyn",
   "constituency_name_en": "Casnewydd Islwyn",
-  "contribution_count": 26,
+  "contribution_count": 27,
   "contributions_by_date": [
     {
       "contributions": [
@@ -849,6 +849,16 @@
     },
     {
       "contributions": [
+        {
+          "id": "contribution-770844",
+          "item_id": "item-16262-260922-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "en",
+          "t_start": 5420,
+          "text_english": "I'm sure that, as a former Member of Parliament, the Counsel General is well acquainted with the concept of parliamentary sovereignty. Will the Counsel General acknowledge that the Senedd's legislative competence is defined by the Parliament of the United Kingdom and that the Senedd lacks the legal capacity to legislate on matters explicitly reserved to Westminster? Schedule 7A reserves the union. Does the Welsh Government accept that a Senedd Bill for independence or for an independence referendum would be outside the competency of the Senedd?",
+          "text_original": "I'm sure that, as a former Member of Parliament, the Counsel General is well acquainted with the concept of parliamentary sovereignty. Will the Counsel General acknowledge that the Senedd's legislative competence is defined by the Parliament of the United Kingdom and that the Senedd lacks the legal capacity to legislate on matters explicitly reserved to Westminster? Schedule 7A reserves the union. Does the Welsh Government accept that a Senedd Bill for independence or for an independence referendum would be outside the competency of the Senedd?",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=5420"
+        },
         {
           "id": "contribution-771062",
           "item_id": "item-16262-260922-5",

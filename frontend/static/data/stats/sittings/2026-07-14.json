@@ -741,8 +741,15 @@
     "divisions": 2,
     "speaking_seconds": 26646.0,
     "timed_contributions": 364,
+    "unattributed_contributions": 0,
+    "unattributed_seconds": 0.0,
     "untimed_contributions": 20,
     "welsh_contributions": 137,
     "welsh_share": 0.357
+  },
+  "unattributed": {
+    "contributions": 0,
+    "seconds": 0.0,
+    "untimed_contributions": 0
   }
 }

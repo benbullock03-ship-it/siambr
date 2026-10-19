@@ -51,6 +51,13 @@
 				<dd data-numeric>{count(t.divisions)}</dd>
 				{#if t.divisions === 0}<p class="small">No roll-call division was held on this sitting day.</p>{/if}
 			</div>
+			{#if t.unattributed_contributions > 0}
+				<div>
+					<dt>Not attributed to a Member</dt>
+					<dd data-numeric>{count(t.unattributed_contributions)}</dd>
+					<dd class="small">{duration(t.unattributed_seconds)} of the speaking time above. The Record names no Member for these speeches, so they count for no party.</dd>
+				</div>
+			{/if}
 		</dl>
 	</section>
 

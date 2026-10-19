@@ -1,9 +1,9 @@
 [
   {
-    "contribution_count": 194,
+    "contribution_count": 240,
     "date": "2026-10-14",
     "id": "plenary-16316",
-    "item_count": 8,
+    "item_count": 9,
     "items": [
       {
         "classification_provenance": "PROVENANCE_DERIVED",
@@ -131,8 +131,35 @@
       },
       {
         "classification_provenance": "PROVENANCE_DERIVED",
-        "id": "item-16316-261014-8",
+        "id": "item-16316-261014-7",
         "order": 6,
+        "policy_domain_id": "economy",
+        "speaker_ids": [
+          "ms-alun-cox",
+          "ms-andrew-griffin",
+          "ms-cai-parry-jones",
+          "ms-carrie-harper",
+          "ms-cefin-campbell",
+          "ms-david-hughes",
+          "ms-elin-jones",
+          "ms-francesca-o-brien",
+          "ms-huw-irranca-davies",
+          "ms-iain-mcintosh",
+          "ms-janet-finch-saunders",
+          "ms-mike-hedges",
+          "ms-nigel-williams",
+          "ms-rebeca-phillips",
+          "ms-sarah-cooper-lesadd",
+          "ms-tom-montgomery"
+        ],
+        "title_cy": "6. Dadl Reform UK: Refferenda lleol ar gyfer codiadau'r dreth gyngor",
+        "title_en": "6. Reform UK Debate: Local referendums on council tax rises",
+        "type": "debate"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16316-261014-8",
+        "order": 7,
         "policy_domain_id": "devolution",
         "speaker_ids": [
           "ms-huw-irranca-davies"
@@ -144,7 +171,7 @@
       {
         "classification_provenance": "PROVENANCE_DERIVED",
         "id": "item-16316-261014-9",
-        "order": 7,
+        "order": 8,
         "policy_domain_id": "transport",
         "speaker_ids": [
           "ms-anna-nicholl",
@@ -800,10 +827,10 @@
     "title_en": "Plenary"
   },
   {
-    "contribution_count": 248,
+    "contribution_count": 307,
     "date": "2026-09-30",
     "id": "plenary-16265",
-    "item_count": 9,
+    "item_count": 10,
     "items": [
       {
         "classification_provenance": "PROVENANCE_DERIVED",
@@ -943,8 +970,33 @@
       },
       {
         "classification_provenance": "PROVENANCE_DERIVED",
-        "id": "item-16265-260930-8",
+        "id": "item-16265-260930-7",
         "order": 6,
+        "policy_domain_id": "devolution",
+        "speaker_ids": [
+          "ms-carmelo-colasanto",
+          "ms-darren-millar",
+          "ms-david-mills",
+          "ms-gwyn-williams",
+          "ms-helen-jenner",
+          "ms-huw-irranca-davies",
+          "ms-janet-finch-saunders",
+          "ms-jason-o-connell",
+          "ms-ken-skates",
+          "ms-llyr-powell",
+          "ms-mark-hooper",
+          "ms-paul-rock",
+          "ms-sarah-cooper-lesadd",
+          "ms-vikki-howells"
+        ],
+        "title_cy": "6. Dadl Reform UK: Terfyn cyflymder diofyn 20 mya",
+        "title_en": "6. Reform UK Debate: Default 20 mph speed limit",
+        "type": "debate"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16265-260930-8",
+        "order": 7,
         "policy_domain_id": "devolution",
         "speaker_ids": [
           "ms-adam-price",
@@ -967,7 +1019,7 @@
       {
         "classification_provenance": "PROVENANCE_DERIVED",
         "id": "item-16265-260930-9",
-        "order": 7,
+        "order": 8,
         "policy_domain_id": "devolution",
         "speaker_ids": [
           "ms-huw-irranca-davies"
@@ -979,7 +1031,7 @@
       {
         "classification_provenance": "PROVENANCE_DERIVED",
         "id": "item-16265-260930-10",
-        "order": 8,
+        "order": 9,
         "policy_domain_id": "health",
         "speaker_ids": [
           "ms-anna-nicholl",
@@ -1409,10 +1461,10 @@
     "title_en": "Plenary"
   },
   {
-    "contribution_count": 231,
+    "contribution_count": 303,
     "date": "2026-09-22",
     "id": "plenary-16262",
-    "item_count": 6,
+    "item_count": 7,
     "items": [
       {
         "classification_provenance": "PROVENANCE_DERIVED",
@@ -1453,8 +1505,36 @@
       },
       {
         "classification_provenance": "PROVENANCE_DERIVED",
-        "id": "item-16262-260922-3",
+        "id": "item-16262-260922-2",
         "order": 1,
+        "policy_domain_id": "devolution",
+        "speaker_ids": [
+          "ms-adrian-mason",
+          "ms-andrew-griffin",
+          "ms-art-wright",
+          "ms-carrie-harper",
+          "ms-cristiana-emsley",
+          "ms-huw-irranca-davies",
+          "ms-jane-dodds",
+          "ms-jason-o-connell",
+          "ms-kerry-ferguson",
+          "ms-kiera-marshall",
+          "ms-mair-rowlands",
+          "ms-marc-jones",
+          "ms-matthew-jones",
+          "ms-mike-hedges",
+          "ms-niamh-salkeld",
+          "ms-paul-davies",
+          "ms-sarah-cooper-lesadd"
+        ],
+        "title_cy": "2. Cwestiynau i’r Cwnsler Cyffredinol",
+        "title_en": "2. Questions to the Counsel General",
+        "type": "oral_questions"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16262-260922-3",
+        "order": 2,
         "policy_domain_id": "devolution",
         "speaker_ids": [
           "ms-andrew-griffin",
@@ -1483,7 +1563,7 @@
       {
         "classification_provenance": "PROVENANCE_DERIVED",
         "id": "item-16262-260922-4",
-        "order": 2,
+        "order": 3,
         "policy_domain_id": "devolution",
         "speaker_ids": [
           "ms-benjamin-hodge-mckenna",
@@ -1507,7 +1587,7 @@
       {
         "classification_provenance": "PROVENANCE_DERIVED",
         "id": "item-16262-260922-5",
-        "order": 3,
+        "order": 4,
         "policy_domain_id": "transport",
         "speaker_ids": [
           "ms-adam-price",
@@ -1527,7 +1607,7 @@
       {
         "classification_provenance": "PROVENANCE_DERIVED",
         "id": "item-16262-260922-6",
-        "order": 4,
+        "order": 5,
         "policy_domain_id": "transport",
         "speaker_ids": [
           "ms-andrew-rt-davies",
@@ -1545,7 +1625,7 @@
       {
         "classification_provenance": "PROVENANCE_DERIVED",
         "id": "item-16262-260922-7",
-        "order": 5,
+        "order": 6,
         "policy_domain_id": "communities",
         "speaker_ids": [
           "ms-david-hughes",

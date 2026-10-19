@@ -68,7 +68,8 @@ Source of truth: `pipeline/migrations/*.sql` (applied by `python -m pipeline.app
 8. **`agenda_items`**:
    - `id`, `session_id`, `item_order`, `item_type` (`debate`/`oral_questions`/`statement`/`bill_stage`/`emergency_debate`), `title_en`, `title_cy`, `policy_domain_id`, `senedd_tv_clip_id`, `senedd_tv_clip_url`, `origin_type` (`government_business`/`committee_report`/`petition`/`member_motion`), `origin_ref_id`.
 9. **`debate_contributions`** (mirrored into FTS5 `debate_contributions_fts` by triggers):
-   - `id`, `agenda_item_id`, `member_id`, `sequence_number`, `spoken_language` (`en`/`cy`), `verbatim_text_original`, `verbatim_text_english`, `video_timestamp_start` (Senedd's `startPos`, seconds on the meeting clip; NULL when untimed), `video_timestamp_end` (always NULL in Gold; the export derives it).
+   - `id`, `agenda_item_id`, `member_id` (NULL when the Record attributes the speech to no Member; migration 011), `speaker_name` (the publisher's own label for that speaker, e.g. `Elfyn Llwyd` or `Aelod o'r Senedd / Member of the Senedd`), `speaker_role` (their job title, e.g. `Counsel General`), `sequence_number`, `spoken_language` (`en`/`cy`), `verbatim_text_original`, `verbatim_text_english`, `video_timestamp_start` (Senedd's `startPos`, seconds on the meeting clip; NULL when untimed), `video_timestamp_end` (always NULL in Gold; the export derives it).
+   - An item whose speaker cannot be matched to a Member is **published**, with the publisher's label: it is never skipped whole and never folded into a Member or party.
 10. **`division_votes`**:
     - `id`, `agenda_item_id`, `motion_text`, `votes_for`, `votes_against`, `votes_abstain`, `result` (`agreed`/`negatived`).
 11. **`member_votes`**:
@@ -78,7 +79,7 @@ Source of truth: `pipeline/migrations/*.sql` (applied by `python -m pipeline.app
 13. **`tabled_texts`** (migration 008; the Record's `contribution_type` I rows, verbatim):
     - `id`, `agenda_item_id`, `sequence_number`, `kind` (`motion`/`amendment`/`note`), `amendment_number`, `original_language`, `text_original`, `text_english`. Exported as `sittings/{date}.json` → `tabled_texts`.
 14. **`sync_runs`**:
-    - `id`, `started_at`, `finished_at`, `sessions_changed`, `error`.
+    - `id`, `started_at`, `finished_at`, `sessions_changed`, `error`, `meetings_listed`, `meetings_unavailable`, `unattributed_contributions` (the last successful poll's reconciliation, read by `health.json` and the watchdog).
 
 `citizen_trails`, `citizen_trail_stops` and `spatial_plinths` are dropped by migration `005_withdraw_corridors.sql`.
 
@@ -95,6 +96,8 @@ All pipeline scripts run as package modules from the repository root:
 - **Senedd TV streams**: `python -m pipeline.senedd_tv` (or `--meeting-id N`); `sync` runs it for the sittings it re-fetches
 - **Export Static JSON**: `python -m pipeline.export`
 - **Run Verification & Audit**: `python -m pipeline.run_checks`
+- **Retrieval watchdog**: `python -m pipeline.check_health` — fails if the live index lists a meeting the export does not hold. Run daily by `.github/workflows/watchdog.yml`.
+- **Re-ingest after a schema change**: `python -m pipeline.sync --rewrite` (replaces sessions whose XML checksum is unchanged).
 
 ---
 
@@ -110,6 +113,7 @@ All pipeline scripts run as package modules from the repository root:
    The Stage HUD and every Register route pass headless axe checks; `prefers-reduced-motion: reduce` replaces camera easing with cuts, hides walk mode, and loads no three.js on the Register.
 5. **Static Only**:
    `frontend/src` must not reference `/api/`. Data comes from `frontend/static/data/**.json` written by `pipeline.export`, which must be deterministic (run twice, no diff).
-6. **Gate commands** (all run in `deploy.yml`; `sync.yml` runs the verbatim and determinism gates only): `python -m unittest`, `python -m pipeline.run_checks --sample 40`, `python -m scripts.check_prose`, export determinism, and in `frontend/`: `npm run check`, `npm test` (includes the timeline and provenance gates), `npm run test:a11y`, `npm run test:perf` (reports only; SwiftShader cannot meet the frame bars).
+6. **Gate commands** (all run in `deploy.yml`; `sync.yml` runs the verbatim and determinism gates only; `watchdog.yml` runs `pipeline.check_health`): `python -m unittest`, `python -m pipeline.run_checks --sample 40`, `python -m scripts.check_prose`, export determinism, and in `frontend/`: `npm run check`, `npm test` (includes the timeline and provenance gates), `npm run test:a11y`, `npm run test:perf` (reports only; SwiftShader cannot meet the frame bars).
+   - An unattributed speaker warns, it does not block: the speech ships with the publisher's label, and the run states how many.
 7. **Tickets**:
    Work follows `tickets/INDEX.md` in order. The current run starts at T-12.

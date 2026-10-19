@@ -1,5 +1,6 @@
 <script lang="ts">
-	import { SEATING_NOTICE } from '$lib/3d/chamber/seating';
+	import type { UnattributedSummary } from '$lib/data/types';
+import { SEATING_NOTICE } from '$lib/3d/chamber/seating';
 	import ExternalLink from '$lib/hud/ExternalLink.svelte';
 	import { rememberDismissed, wasDismissed } from '$lib/hud/dismissed';
 	import { kiosk } from '$lib/kiosk.svelte';
@@ -8,15 +9,26 @@
 		recordPublishedAt,
 		sourceXmlUrl,
 		recordPageUrl,
+		unattributed = { contributions: 0, speakers: [] },
 		compact = false
 	}: {
 		recordPublishedAt: string | null;
 		sourceXmlUrl: string;
 		recordPageUrl: string | null;
+		/** Speech the Record attributed to no Member; stated here so the gap is never silent. */
+		unattributed?: UnattributedSummary;
 		/** Phone: one "i" button that opens the notice, so the text never sits over the chamber. */
 		compact?: boolean;
 	} = $props();
 	const stamp = $derived(recordPublishedAt ? recordPublishedAt.replace('T', ' ') : 'date not stated');
+	const unattributedNote = $derived.by(() => {
+		const n = unattributed.contributions;
+		if (!n) return null;
+		const who = unattributed.speakers.map((s) => (s.role ? `${s.name} (${s.role})` : s.name)).join('; ');
+		return n === 1
+			? `One speech is not attributed to a Member: ${who}.`
+			: `${n} speeches are not attributed to a Member: ${who}.`;
+	});
 	let dismissed = $state(false);
 	$effect(() => {
 		if (wasDismissed('seating', kiosk.active)) dismissed = true;
@@ -50,6 +62,7 @@
 		<div id="provenance-notice" class="info-popover small" popover="auto" bind:this={infoPopover} ontoggle={placeInfo}>
 			<p>{SEATING_NOTICE}</p>
 			{@render record()}
+			{#if unattributedNote}<p>{unattributedNote}</p>{/if}
 		</div>
 	</aside>
 {:else if !dismissed}
@@ -57,6 +70,7 @@
 		<div class="provenance-text">
 			<p>{SEATING_NOTICE}</p>
 			{@render record()}
+			{#if unattributedNote}<p>{unattributedNote}</p>{/if}
 		</div>
 		<button
 			type="button"

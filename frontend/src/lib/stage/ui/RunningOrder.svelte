@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { PROVENANCE_DERIVED } from '$lib/data/types';
-	import type { Sitting } from '$lib/data/types';
+	import type { Contribution, Sitting } from '$lib/data/types';
+	import { speakerName } from '$lib/data/speaker';
 	import { wallClockAt, type SittingClock } from '../clock.svelte';
 	import { debateItemOf, itemTitle, memberNamed, readMotion, targetLabel } from '../votes';
 	import { partyLabel } from '$lib/dossier/parties';
@@ -10,7 +11,7 @@
 	const timeline = $derived(clock.timeline);
 	const live = $derived(clock.floor.live);
 	const liveIndex = $derived(live?.index ?? -1);
-	const name = (memberId: string) => sitting.speakers[memberId]?.canonical_name ?? memberId;
+	const name = (c: Contribution) => speakerName(c, sitting.speakers);
 	/** Which debate each division decided, by the item number printed in its motion text. Derived. */
 	const debateOf = $derived(new Map(sitting.divisions.map((d) => [d.id, debateItemOf(d, sitting.items)])));
 	const votesOn = $derived.by(() => {
@@ -110,7 +111,7 @@
 						{#if beat.kind === 'contribution'}
 							<button type="button" class="row" data-rove="b:{beat.index}" tabindex={tab(`b:${beat.index}`)} aria-current={beat.index === liveIndex ? 'true' : undefined} onclick={() => clock.seek(beat.t)}>
 								<span class="time small" data-numeric>{beat.timed ? (wallClockAt(sitting.meeting_start_time, beat.t) ?? `${beat.t} s`) : 'untimed'}</span>
-								<span class="who">{name(beat.contribution.member_id)}</span>
+								<span class="who" class:unattributed={beat.contribution.unattributed}>{name(beat.contribution)}{#if beat.contribution.unattributed}<span class="mark small">not attributed</span>{/if}</span>
 								{#if beat.contribution.lang === 'cy'}<span class="lang small">cy</span>{/if}
 							</button>
 						{:else}

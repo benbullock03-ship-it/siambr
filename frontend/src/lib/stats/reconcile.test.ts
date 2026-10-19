@@ -57,10 +57,14 @@ describe(`stats for ${date}`, () => {
 			expect(r.untimed_contributions).toBe(mine[i].untimed_contributions);
 			near(r.seconds, mine[i].seconds);
 		}
-		expect(stats.by_member.reduce((n, r) => n + r.contributions, 0)).toBe(sitting.contributions.length);
+		// Unattributed speech is reported separately, never as a Member.
+		const attributed = sitting.contributions.filter((c) => c.member_id !== null).length;
+		expect(stats.by_member.reduce((n, r) => n + r.contributions, 0)).toBe(attributed);
+		expect(stats.unattributed.contributions).toBe(sitting.contributions.length - attributed);
+		// Member shares cover attributed speech only; the unattributed seconds sit outside them.
 		near(
 			stats.by_member.reduce((n, r) => n + r.seconds, 0),
-			stats.totals.speaking_seconds
+			stats.totals.speaking_seconds - stats.totals.unattributed_seconds
 		);
 	});
 
@@ -73,10 +77,12 @@ describe(`stats for ${date}`, () => {
 			expect(r.untimed_contributions).toBe(mine[i].untimed_contributions);
 			near(r.seconds, mine[i].seconds);
 		}
-		expect(stats.by_party.reduce((n, r) => n + r.contributions, 0)).toBe(sitting.contributions.length);
+		expect(stats.by_party.reduce((n, r) => n + r.contributions, 0)).toBe(
+			sitting.contributions.filter((c) => c.member_id !== null).length
+		);
 		near(
 			stats.by_party.reduce((n, r) => n + r.seconds, 0),
-			stats.totals.speaking_seconds
+			stats.totals.speaking_seconds - stats.totals.unattributed_seconds
 		);
 	});
 

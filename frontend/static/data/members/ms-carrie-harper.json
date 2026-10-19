@@ -2,8 +2,8 @@
   "ballots": [
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779120",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -13,8 +13,8 @@
     },
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779125",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -24,8 +24,8 @@
     },
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779128",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -112,8 +112,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773939",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -123,8 +123,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773957",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -134,8 +134,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773961",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -741,8 +741,54 @@
   "canonical_name": "Carrie Harper",
   "constituency_name_cy": "Fflint Wrecsam",
   "constituency_name_en": "Fflint Wrecsam",
-  "contribution_count": 18,
+  "contribution_count": 25,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-779100",
+          "item_id": "item-16316-261014-7",
+          "item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
+          "lang": "en",
+          "t_start": 12175,
+          "text_english": "I think we all know that communities are really struggling in the middle of a cost-of-living crisis, and, of course, nobody wants to pay more council tax, especially in these circumstances, and the pressures that are on people at the moment are very real. We recognise that, and that's why this Plaid Cymru Government has prioritised supporting our communities by extending free school meals, expanding free childcare and cutting business rates by 30 per cent for thousands of businesses across the country.\n\nBut we also have to recognise, as others have said, that county councils deliver essential services that people rely on every single day, from social care and children's services to schools, highways and waste collections, and those services cost money to run. I was a county councillor in Wrexham for almost 20 years, so I've seen first-hand how difficult budget decisions can be, and I know many of us here understand that reality.\n\nI can assure Reform that no county councillor wants to increase council tax, but councils have statutory responsibilities. They have to protect vulnerable children, care for older people, and maintain essential services. And let's remember that councils have had to deal with the consequences of austerity for the last 16 years, as well as rising demand and also increasing costs. And why 4.99 per cent? What happens if the cost of delivering statutory services rises by more than that? What happens if a referendum rejects the increase needed to maintain those services? Which services would Reform cut? Would it be social care, children's services, support for people with disabilities? Because those are the difficult questions Reform have to answer.\n\nAnd let's look at Reform's own record across the border as well. Every major council controlled by Reform in England with responsibility for services like education and social care increased council tax this year. When Reform ran Worcestershire County Council, you increased council tax by almost 9 per cent. There wasn't a referendum. So, why is it acceptable for Reform councillors in England to raise council tax by 9 per cent without a referendum, while you're demanding that councils here in Wales face a referendum for anything above 4.99 per cent?\n\nThere's a wider point about local democracy here as well. We already elect councillors to make these decisions on behalf of our communities. And in just a few months' time, people right across Wales are going to have the opportunity to hold those councillors to account at the ballot box. Now, of course councils should be challenged, they should be transparent about their budgets, they should explain why increases are necessary, and they should consult meaningfully with residents about their priorities. But we should also recognise that every council faces different pressures, different levels of need, and different financial circumstances.\n\nSo, it might sound simple to draw a line at 4.99 per cent, but running a council isn't that simple, as Reform's own councillors in England have found out. Despite promising to root out waste, the reality is there isn't some vast army of diversity officers whose salaries can fund our schools and social care. And when you're responsible for delivering services and protecting the most vulnerable, you can't just ignore the financial realities. And I think the people of Wales deserve to know what Reform's proposals would mean in practice, which services—.",
+          "text_original": "I think we all know that communities are really struggling in the middle of a cost-of-living crisis, and, of course, nobody wants to pay more council tax, especially in these circumstances, and the pressures that are on people at the moment are very real. We recognise that, and that's why this Plaid Cymru Government has prioritised supporting our communities by extending free school meals, expanding free childcare and cutting business rates by 30 per cent for thousands of businesses across the country.\n\nBut we also have to recognise, as others have said, that county councils deliver essential services that people rely on every single day, from social care and children's services to schools, highways and waste collections, and those services cost money to run. I was a county councillor in Wrexham for almost 20 years, so I've seen first-hand how difficult budget decisions can be, and I know many of us here understand that reality.\n\nI can assure Reform that no county councillor wants to increase council tax, but councils have statutory responsibilities. They have to protect vulnerable children, care for older people, and maintain essential services. And let's remember that councils have had to deal with the consequences of austerity for the last 16 years, as well as rising demand and also increasing costs. And why 4.99 per cent? What happens if the cost of delivering statutory services rises by more than that? What happens if a referendum rejects the increase needed to maintain those services? Which services would Reform cut? Would it be social care, children's services, support for people with disabilities? Because those are the difficult questions Reform have to answer.\n\nAnd let's look at Reform's own record across the border as well. Every major council controlled by Reform in England with responsibility for services like education and social care increased council tax this year. When Reform ran Worcestershire County Council, you increased council tax by almost 9 per cent. There wasn't a referendum. So, why is it acceptable for Reform councillors in England to raise council tax by 9 per cent without a referendum, while you're demanding that councils here in Wales face a referendum for anything above 4.99 per cent?\n\nThere's a wider point about local democracy here as well. We already elect councillors to make these decisions on behalf of our communities. And in just a few months' time, people right across Wales are going to have the opportunity to hold those councillors to account at the ballot box. Now, of course councils should be challenged, they should be transparent about their budgets, they should explain why increases are necessary, and they should consult meaningfully with residents about their priorities. But we should also recognise that every council faces different pressures, different levels of need, and different financial circumstances.\n\nSo, it might sound simple to draw a line at 4.99 per cent, but running a council isn't that simple, as Reform's own councillors in England have found out. Despite promising to root out waste, the reality is there isn't some vast army of diversity officers whose salaries can fund our schools and social care. And when you're responsible for delivering services and protecting the most vulnerable, you can't just ignore the financial realities. And I think the people of Wales deserve to know what Reform's proposals would mean in practice, which services—.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=12175"
+        },
+        {
+          "id": "contribution-779111",
+          "item_id": "item-16316-261014-7",
+          "item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
+          "lang": "en",
+          "t_start": 12395,
+          "text_english": "Yes.",
+          "text_original": "Yes.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=12395"
+        },
+        {
+          "id": "contribution-779113",
+          "item_id": "item-16316-261014-7",
+          "item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
+          "lang": "en",
+          "t_start": 12413,
+          "text_english": "I've just explained that councils have faced austerity for the last 16 years. As a county councillor, I've seen that first-hand. But, look, the question that you've got to answer is: if a referendum rejects the increase needed to maintain services, what are you going to cut? Whose jobs are going to go? Is it going to be teachers? Is it going to be social workers? Who? Who is it going to be? Because that's the reality of what you're proposing. It's really easy to promise lower taxes, but it's much more difficult to explain to people how you'll protect the services those taxes actually pay for. [Interruption.]",
+          "text_original": "I've just explained that councils have faced austerity for the last 16 years. As a county councillor, I've seen that first-hand. But, look, the question that you've got to answer is: if a referendum rejects the increase needed to maintain services, what are you going to cut? Whose jobs are going to go? Is it going to be teachers? Is it going to be social workers? Who? Who is it going to be? Because that's the reality of what you're proposing. It's really easy to promise lower taxes, but it's much more difficult to explain to people how you'll protect the services those taxes actually pay for. [Interruption.]",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=12413"
+        },
+        {
+          "id": "contribution-779117",
+          "item_id": "item-16316-261014-7",
+          "item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
+          "lang": "en",
+          "t_start": 12459,
+          "text_english": "I took your intervention. \n\nCouncillors have to make difficult decisions, but that's how local democracy works. That's what accountability means. Political leadership isn't just about the promises you make. It's about being responsible for the consequences of your decisions. And the consequences of what Reform are proposing here today could be very, very serious for our councils delivering essential services, and, importantly, for the communities who rely on them.",
+          "text_original": "I took your intervention. \n\nCouncillors have to make difficult decisions, but that's how local democracy works. That's what accountability means. Political leadership isn't just about the promises you make. It's about being responsible for the consequences of your decisions. And the consequences of what Reform are proposing here today could be very, very serious for our councils delivering essential services, and, importantly, for the communities who rely on them.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=12459"
+        }
+      ],
+      "date": "2026-10-14",
+      "record_page_url": "https://record.senedd.wales/Plenary/16316"
+    },
     {
       "contributions": [
         {
@@ -826,6 +872,42 @@
       ],
       "date": "2026-09-23",
       "record_page_url": "https://record.senedd.wales/Plenary/16263"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-770888",
+          "item_id": "item-16262-260922-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "en",
+          "t_start": 6011,
+          "text_english": "My question has some crossover with the question that Mike Hedges asked earlier.",
+          "text_original": "My question has some crossover with the question that Mike Hedges asked earlier.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=6011"
+        },
+        {
+          "id": "contribution-770885",
+          "item_id": "item-16262-260922-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "6. What assessment has the Counsel General made of the impact of pressures on legal aid provision on access to justice in Wales? OQ64498",
+          "text_original": "6. Pa asesiad y mae'r Cwnsler Cyffredinol wedi'i wneud o effaith pwysau ar ddarpariaeth cymorth cyfreithiol ar fynediad at gyfiawnder yng Nghymru? OQ64498",
+          "tv_url": "http://www.senedd.tv/en/16262"
+        },
+        {
+          "id": "contribution-770894",
+          "item_id": "item-16262-260922-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "en",
+          "t_start": 6044,
+          "text_english": "Diolch yn fawr iawn. We know how vital legal aid is to helping those in need and ensuring that everybody has the right to adequate legal representation. A report by the House of Lords select committee last year concluded that there are people who are both unable to access legal aid and unable to afford to pay for legal services privately. As the Law Society have noted, proposals put forward by the UK Government have not addressed the distinct issues facing the legal sector in Wales and that the part or full devolution of justice, if implemented and funded appropriately, offers significant potential opportunities to the people of Wales. What advice has the Counsel General given the Welsh Government on the adequacy of legal aid in Wales?",
+          "text_original": "Diolch yn fawr iawn. We know how vital legal aid is to helping those in need and ensuring that everybody has the right to adequate legal representation. A report by the House of Lords select committee last year concluded that there are people who are both unable to access legal aid and unable to afford to pay for legal services privately. As the Law Society have noted, proposals put forward by the UK Government have not addressed the distinct issues facing the legal sector in Wales and that the part or full devolution of justice, if implemented and funded appropriately, offers significant potential opportunities to the people of Wales. What advice has the Counsel General given the Welsh Government on the adequacy of legal aid in Wales?",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=6044"
+        }
+      ],
+      "date": "2026-09-22",
+      "record_page_url": "https://record.senedd.wales/Plenary/16262"
     },
     {
       "contributions": [

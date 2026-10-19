@@ -2,8 +2,8 @@
   "ballots": [
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779120",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -13,8 +13,8 @@
     },
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779125",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -24,8 +24,8 @@
     },
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779128",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -112,8 +112,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773939",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -123,8 +123,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773957",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -134,8 +134,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773961",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -741,7 +741,7 @@
   "canonical_name": "Marc Jones",
   "constituency_name_cy": "Fflint Wrecsam",
   "constituency_name_en": "Fflint Wrecsam",
-  "contribution_count": 19,
+  "contribution_count": 22,
   "contributions_by_date": [
     {
       "contributions": [
@@ -852,6 +852,36 @@
           "text_english": "Diolch, Brif Weinidog. In Fflint Wrecsam, you may be aware that communities continue to deal with both the historic legacy of illegal waste dumping and the current active sites that are causing ongoing problems for residents in my constituency. Time and again, we see the companies responsible for these environmental crimes avoid accountability by entering liquidation and walking away from the costs of remediation. This leaves local communities to deal with the consequences and risks shifting the burden of cleaning up onto the public purse. How will Welsh Government work with the UK Government, local authorities and relevant public bodies to address this ongoing issue?",
           "text_original": "Diolch, Brif Weinidog. In Fflint Wrecsam, you may be aware that communities continue to deal with both the historic legacy of illegal waste dumping and the current active sites that are causing ongoing problems for residents in my constituency. Time and again, we see the companies responsible for these environmental crimes avoid accountability by entering liquidation and walking away from the costs of remediation. This leaves local communities to deal with the consequences and risks shifting the burden of cleaning up onto the public purse. How will Welsh Government work with the UK Government, local authorities and relevant public bodies to address this ongoing issue?",
           "tv_url": "http://www.senedd.tv/en/16262?startPos=3014"
+        },
+        {
+          "id": "contribution-770910",
+          "item_id": "item-16262-260922-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "cy",
+          "t_start": 6209,
+          "text_english": "This feel slightly strange, asking a question to the person next to me. [Laughter.]",
+          "text_original": "Mae hwn yn teimlo ychydig bach yn od, gofyn cwestiwn i'r dyn drws nesaf. [Chwerthin.]",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=6209"
+        },
+        {
+          "id": "contribution-770908",
+          "item_id": "item-16262-260922-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "7. What legal advice has the Counsel General provided to the Welsh Government on the devolution of justice? OQ64506",
+          "text_original": "7. Pa gyngor cyfreithiol y mae'r Cwnsler Cyffredinol wedi ei roi i Lywodraeth Cymru ar ddatganoli cyfiawnder? OQ64506",
+          "tv_url": "http://www.senedd.tv/en/16262"
+        },
+        {
+          "id": "contribution-770916",
+          "item_id": "item-16262-260922-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "cy",
+          "t_start": 6255,
+          "text_english": "Thank you, Counsel General. The need to devolve justice has been outlined several times in this Chamber by the Independent Commission on the Constitutional Future of Wales and by the Law Society. We know that the current system deteriorates outcomes for people in Wales. And I've been frightened, truth be told, that 40 per cent of the funding comes from the Welsh Government, although justice has not been devolved. That isn't sustainable. So, does the Counsel General agree that devolution of justice is vital to improve outcomes for those who go through the system?",
+          "text_original": "Diolch, Gwnsler. Mae'r angen i ddatganoli cyfiawnder wedi ei ddangos droeon yn y Siambr yma gan y Comisiwn Annibynnol dros Ddyfodol Cyfansoddiadol Cymru a chan Gymdeithas y Cyfreithwyr. Dŷn ni'n gwybod bod y system bresennol yn gwaethygu canlyniadau i bobl Cymru. A dwi wedi cael braw, a bod yn onest, fod 40 y cant o'r cyllid yn dod wrth Lywodraeth Cymru, er nad ydy cyfiawnder wedi'i ddatganoli. Dydy hynny ddim yn gynaliadwy. Felly, ydy'r Cwnsler Cyffredinol yn cytuno efo fi fod datganoli cyfiawnder yn angenrheidiol i wella'r canlyniadau i'r rheini sy'n mynd drwy'r system?",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=6255"
         }
       ],
       "date": "2026-09-22",

@@ -238,7 +238,12 @@ class Exporter:
                 "id": c["id"],
                 "item_id": c["agenda_item_id"],
                 "seq": c["sequence_number"],
+                # NULL member_id means the Record did not attribute the speech to a Member; the
+                # publisher's own label and role travel with it instead (migration 011).
                 "member_id": c["member_id"],
+                "speaker_name": c["speaker_name"],
+                "speaker_role": c["speaker_role"],
+                "unattributed": c["member_id"] is None,
                 "lang": c["spoken_language"],
                 "text_original": c["verbatim_text_original"],
                 "text_english": c["verbatim_text_english"],
@@ -283,7 +288,14 @@ class Exporter:
                 "source_url": votes_source,
                 "votes": {v["member_id"]: v["vote_cast"] for v in votes},
             })
-        speaker_ids = sorted({c["member_id"] for c in contributions} | {mid for d in divisions for mid in d["votes"]})
+        speaker_ids = sorted({c["member_id"] for c in contributions if c["member_id"]}
+                             | {mid for d in divisions for mid in d["votes"]})
+        unattributed = defaultdict(lambda: {"contributions": 0, "role": None})
+        for c in contributions:
+            if c["member_id"] is None:
+                u = unattributed[c["speaker_name"]]
+                u["contributions"] += 1
+                u["role"] = u["role"] or c["speaker_role"]
         return {
             "date": s["session_date"],
             "id": s["id"],
@@ -320,6 +332,15 @@ class Exporter:
             "tabled_texts": texts,
             "divisions": divisions,
             "speakers": {mid: self.member_light(mid, s["session_date"]) for mid in speaker_ids},
+            # Speech the Record did not attribute to a Member, grouped by the publisher's own label.
+            # Never folded into a Member or party; the site shows it as unattributed.
+            "unattributed": {
+                "contributions": sum(u["contributions"] for u in unattributed.values()),
+                "speakers": [
+                    {"name": name, "role": u["role"], "contributions": u["contributions"]}
+                    for name, u in sorted(unattributed.items())
+                ],
+            },
             # What Siambr derived rather than copied: the record carries none of these.
             "provenance": {
                 "t_end_derived": PROVENANCE_DERIVED,
@@ -338,7 +359,8 @@ class Exporter:
             for r in self.conn.execute(
                 """SELECT c.agenda_item_id, c.member_id FROM debate_contributions c
                    JOIN agenda_items a ON a.id = c.agenda_item_id WHERE a.session_id = ?""", (s["id"],)):
-                speakers[r["agenda_item_id"]].add(r["member_id"])
+                if r["member_id"]:  # unattributed speech has no Member to list
+                    speakers[r["agenda_item_id"]].add(r["member_id"])
             n = self.conn.execute(
                 """SELECT count(*) FROM debate_contributions c JOIN agenda_items a ON a.id = c.agenda_item_id
                    WHERE a.session_id = ?""", (s["id"],)).fetchone()[0]
@@ -504,7 +526,8 @@ class Exporter:
         date = s["session_date"]
         out = [{
             "member_id": c["member_id"],
-            "party_id": party_on(self.tenures[c["member_id"]], date),
+            # Unattributed speech has no party; it is reported separately, never folded into one.
+            "party_id": party_on(self.tenures[c["member_id"]], date) if c["member_id"] else None,
             "item_id": c["agenda_item_id"],
             "domain_id": domain_of.get(c["agenda_item_id"]),
             "lang": c["spoken_language"],
@@ -532,6 +555,8 @@ class Exporter:
         party_of = {r["member_id"]: r["party_id"] for r in stat_rows}
         out = []
         for member_id, b in self.tally(stat_rows, "member_id").items():
+            if member_id is None:  # reported by unattributed_total(), not as a Member
+                continue
             member = self.members.get(member_id)
             out.append({
                 "member_id": member_id,
@@ -544,19 +569,31 @@ class Exporter:
         return sorted(out, key=lambda r: (-r["seconds"], -r["contributions"], r["member_id"] or ""))
 
     def party_rows(self, stat_rows: list[dict]) -> list[dict]:
+        # Unattributed speech belongs to no party and is reported by unattributed_total().
+        attributed = [r for r in stat_rows if r["member_id"] is not None]
         out = [{
             "party_id": party_id,
             "seconds": round3(b["seconds"]),
             "contributions": b["contributions"],
             "untimed_contributions": b["untimed_contributions"],
             "members": len(b["members"]),
-        } for party_id, b in self.tally(stat_rows, "party_id").items()]
+        } for party_id, b in self.tally(attributed, "party_id").items()]
         return sorted(out, key=lambda r: (-r["seconds"], -r["contributions"], r["party_id"] or ""))
 
     @staticmethod
-    def totals(stat_rows: list[dict], divisions: int) -> dict:
+    def unattributed_total(stat_rows: list[dict]) -> dict:
+        rows_ = [r for r in stat_rows if r["member_id"] is None]
+        return {
+            "contributions": len(rows_),
+            "seconds": round3(sum(r["seconds"] for r in rows_ if r["seconds"] is not None)),
+            "untimed_contributions": sum(1 for r in rows_ if r["seconds"] is None),
+        }
+
+    @classmethod
+    def totals(cls, stat_rows: list[dict], divisions: int) -> dict:
         welsh = sum(1 for r in stat_rows if r["lang"] == "cy")
         untimed = sum(1 for r in stat_rows if r["seconds"] is None)
+        unattributed = cls.unattributed_total(stat_rows)
         return {
             "contributions": len(stat_rows),
             "timed_contributions": len(stat_rows) - untimed,
@@ -566,6 +603,9 @@ class Exporter:
             "welsh_contributions": welsh,
             # Share of the contributions on record here, not of speaking time.
             "welsh_share": round3(welsh / len(stat_rows)) if stat_rows else 0.0,
+            # Part of the totals above, and never part of a Member's or party's share.
+            "unattributed_contributions": unattributed["contributions"],
+            "unattributed_seconds": unattributed["seconds"],
         }
 
     def stats_sitting(self, s: dict) -> dict:
@@ -584,6 +624,7 @@ class Exporter:
             "totals": self.totals(stat_rows, divisions),
             "by_member": self.member_rows(stat_rows),
             "by_party": self.party_rows(stat_rows),
+            "unattributed": self.unattributed_total(stat_rows),
             "by_item": [{
                 "item_id": i["id"],
                 "order": i["item_order"],
@@ -609,6 +650,8 @@ class Exporter:
             sittings.append({"date": s["session_date"], **self.totals(own, own_divisions)})
         matrix: dict = {}
         for r in stat_rows:
+            if r["member_id"] is None:  # no party series for unattributed speech
+                continue
             cell = matrix.setdefault((r["party_id"], r["domain_id"]), {"seconds": 0.0, "contributions": 0})
             cell["contributions"] += 1
             if r["seconds"] is not None:
@@ -627,6 +670,7 @@ class Exporter:
             "totals": self.totals(stat_rows, divisions),
             "by_member": self.member_rows(stat_rows),
             "by_party": parties,
+            "unattributed": self.unattributed_total(stat_rows),
             "by_sitting": sorted(sittings, key=lambda r: r["date"], reverse=True),
             # Contributions and seconds by party by policy domain; the domain is a Siambr grouping.
             "party_by_domain": {
@@ -688,8 +732,8 @@ class Exporter:
         """
         speeches = rows(
             self.conn,
-            """SELECT c.id, c.agenda_item_id, a.title_en, s.session_date, c.member_id, c.spoken_language,
-                      c.verbatim_text_original, c.verbatim_text_english, c.video_timestamp_start
+            """SELECT c.id, c.agenda_item_id, a.title_en, s.session_date, c.member_id, c.speaker_name,
+                      c.spoken_language, c.verbatim_text_original, c.verbatim_text_english, c.video_timestamp_start
                FROM debate_contributions c
                JOIN agenda_items a ON a.id = c.agenda_item_id
                JOIN plenary_sessions s ON s.id = a.session_id
@@ -704,7 +748,7 @@ class Exporter:
                 "item_id": sp["agenda_item_id"],
                 "item": sp["title_en"],
                 "member_id": sp["member_id"],
-                "member": member["canonical_name"] if member else sp["member_id"],
+                "member": member["canonical_name"] if member else sp["speaker_name"],
                 "lang": sp["spoken_language"],
                 "t": sp["video_timestamp_start"],
                 "text": sp["verbatim_text_english"],
@@ -767,8 +811,32 @@ class Exporter:
         self.write("search/index.json", self.search_index(divisions))
         published = [s["record_published_at"] for s in self.sessions if s["record_published_at"]]
         last_run = self.conn.execute(
-            "SELECT finished_at FROM sync_runs WHERE finished_at IS NOT NULL ORDER BY id DESC LIMIT 1"
+            "SELECT finished_at FROM sync_runs WHERE finished_at IS NOT NULL AND error IS NULL ORDER BY id DESC LIMIT 1"
         ).fetchone()
+        # The last poll that completed without an error: a failed run says nothing about coverage.
+        run = self.conn.execute(
+            """SELECT finished_at, meetings_listed, meetings_unavailable, unattributed_contributions
+               FROM sync_runs WHERE finished_at IS NOT NULL AND error IS NULL ORDER BY id DESC LIMIT 1"""
+        ).fetchone()
+        unattributed = self.conn.execute(
+            """SELECT count(*), count(DISTINCT a.session_id) FROM debate_contributions c
+               JOIN agenda_items a ON a.id = c.agenda_item_id WHERE c.member_id IS NULL"""
+        ).fetchone()
+        schema = self.conn.execute("SELECT max(version) FROM schema_migrations").fetchone()[0]
+        self.write("health.json", {
+            # When pipeline.sync last finished checking the Record, and what that poll saw.
+            "checked_at": run["finished_at"] if run else None,
+            "generated_at": max(published) if published else None,
+            "schema_version": schema,
+            "sittings": len(sittings),
+            "newest_sitting": sittings[0]["date"] if sittings else None,
+            "meetings": {
+                "listed": run["meetings_listed"] if run else 0,
+                "unavailable": run["meetings_unavailable"] if run else 0,
+            },
+            # Speech the Record did not attribute to a Member; published, never silently dropped.
+            "unattributed": {"contributions": unattributed[0], "sittings": unattributed[1]},
+        })
         self.write("index.json", {
             "terms": [{
                 "term": t["term"], "label_en": t["label_en"], "label_cy": t["label_cy"],

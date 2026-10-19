@@ -2,8 +2,8 @@
   "ballots": [
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779120",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -13,8 +13,8 @@
     },
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779125",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -24,8 +24,8 @@
     },
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779128",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -112,8 +112,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773939",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -123,8 +123,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773957",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -134,8 +134,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773961",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -741,7 +741,7 @@
   "canonical_name": "Paul Rock",
   "constituency_name_cy": "Caerdydd Ffynnon Taf",
   "constituency_name_en": "Caerdydd Ffynnon Taf",
-  "contribution_count": 24,
+  "contribution_count": 28,
   "contributions_by_date": [
     {
       "contributions": [
@@ -816,6 +816,46 @@
           "text_english": "Diolch. On 2 June, when I raised this in the Siambr, the First Minister said that the Government is committed to clear public reporting on Wales's progress towards net zero through an accessible online dashboard. I went to have a look for it when some of the other dashboards came out, and all I could find was an old PowerPoint presentation about public sector emissions. Maybe I'm looking in the wrong place. Progress and opportunity for climate resilience is inextricably linked with the need to halt and reverse the loss of nature. I'm glad to see this recognised with the announcement of the forthcoming climate and nature plan, but we need to be clear about how progress on both will be monitored and reported. You'll be aware of the importance of the forthcoming targets due to be introduced in accordance with the Environment (Principles, Governance and Biodiversity Targets) (Wales) Act 2026, yet presently we don't have targets or any clear means of Member oversight on progress. Could you confirm the timeline for the introduction of those biodiversity and nature targets and whether you intend to monitor and report on progress openly using one of those dashboards?",
           "text_original": "Diolch. On 2 June, when I raised this in the Siambr, the First Minister said that the Government is committed to clear public reporting on Wales's progress towards net zero through an accessible online dashboard. I went to have a look for it when some of the other dashboards came out, and all I could find was an old PowerPoint presentation about public sector emissions. Maybe I'm looking in the wrong place. Progress and opportunity for climate resilience is inextricably linked with the need to halt and reverse the loss of nature. I'm glad to see this recognised with the announcement of the forthcoming climate and nature plan, but we need to be clear about how progress on both will be monitored and reported. You'll be aware of the importance of the forthcoming targets due to be introduced in accordance with the Environment (Principles, Governance and Biodiversity Targets) (Wales) Act 2026, yet presently we don't have targets or any clear means of Member oversight on progress. Could you confirm the timeline for the introduction of those biodiversity and nature targets and whether you intend to monitor and report on progress openly using one of those dashboards?",
           "tv_url": "http://www.senedd.tv/en/16265?startPos=5104"
+        },
+        {
+          "id": "contribution-773793",
+          "item_id": "item-16265-260930-7",
+          "item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
+          "lang": "en",
+          "t_start": 13918,
+          "text_english": "Diolch, Lywydd. The core of this debate appears to be a very simple question: do we accept the evidence that lower speeds save lives or do we not? Yes, this is about road safety, but it's also about value for money and it's about public health. Despite what some in this Siambr insist, the science tells us that the consequences of even small increases of speed are stark. At 30 mph, a pedestrian struck by a vehicle faces roughly a 50 per cent chance of suffering a severe injury; at 20 mph, that risk falls to 10 per cent. And let's be honest, even most of the loudest critics of the policy don't deny this. After all, they too usually want 20 mph limits outside schools, they are happy to have them outside hospitals and they think they're important around playgrounds and care homes. In other words, they acknowledge the principle. They accept that where vulnerable people are present, slower speeds save lives.\n\nWhat strikes me about some of this debate is that it feels like the proposers of this motion are employing something I'm going to call 'imbyism'. They're quite happy to have that 20 mph speed limit outside their child's school, quite keen to have one outside the care home where their parents live, enthusiastic to have it on the road they cross every day. But what they're forgetting is that vulnerable people do not only exist within a few metres of a school gate or near a hospital entrance. Children need to walk to school from their homes, elderly people have to cross the road to get to the shops, disabled people need the freedom and confidence to travel around their communities. They need to navigate busy roads and residential streets every day. This is why the 20 mph policy was introduced—to reduce death and serious injury, to make people feel safer to walk and cycle around their communities, to reduce congestion and parking issues and to improve people's health, something I'm pleased had cross-party support in the previous Senedd.\n\nWhen some people say that a 20 mph blanket ban—. Sorry. I do apologise. It's in my notes. I didn't mean to say it. It's really hard when I didn't realise. When some people say it infringes their freedom, they are ignoring the freedom of those people. The freedom—",
+          "text_original": "Diolch, Lywydd. The core of this debate appears to be a very simple question: do we accept the evidence that lower speeds save lives or do we not? Yes, this is about road safety, but it's also about value for money and it's about public health. Despite what some in this Siambr insist, the science tells us that the consequences of even small increases of speed are stark. At 30 mph, a pedestrian struck by a vehicle faces roughly a 50 per cent chance of suffering a severe injury; at 20 mph, that risk falls to 10 per cent. And let's be honest, even most of the loudest critics of the policy don't deny this. After all, they too usually want 20 mph limits outside schools, they are happy to have them outside hospitals and they think they're important around playgrounds and care homes. In other words, they acknowledge the principle. They accept that where vulnerable people are present, slower speeds save lives.\n\nWhat strikes me about some of this debate is that it feels like the proposers of this motion are employing something I'm going to call 'imbyism'. They're quite happy to have that 20 mph speed limit outside their child's school, quite keen to have one outside the care home where their parents live, enthusiastic to have it on the road they cross every day. But what they're forgetting is that vulnerable people do not only exist within a few metres of a school gate or near a hospital entrance. Children need to walk to school from their homes, elderly people have to cross the road to get to the shops, disabled people need the freedom and confidence to travel around their communities. They need to navigate busy roads and residential streets every day. This is why the 20 mph policy was introduced—to reduce death and serious injury, to make people feel safer to walk and cycle around their communities, to reduce congestion and parking issues and to improve people's health, something I'm pleased had cross-party support in the previous Senedd.\n\nWhen some people say that a 20 mph blanket ban—. Sorry. I do apologise. It's in my notes. I didn't mean to say it. It's really hard when I didn't realise. When some people say it infringes their freedom, they are ignoring the freedom of those people. The freedom—",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=13918"
+        },
+        {
+          "id": "contribution-773804",
+          "item_id": "item-16265-260930-7",
+          "item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
+          "lang": "en",
+          "t_start": 14086,
+          "text_english": "Yes, why not?",
+          "text_original": "Yes, why not?",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=14086"
+        },
+        {
+          "id": "contribution-773789",
+          "item_id": "item-16265-260930-7",
+          "item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
+          "lang": "en",
+          "t_start": 14112,
+          "text_english": "I couldn't possibly comment on that, except to point out that Plaid Cymru also support this, as do the Greens.\n\nWhen some people say that the 20 mph default limit infringes their freedom, they're ignoring the freedom of those people—the freedom to walk safely in their communities, the freedom to cross the road without fear, the freedom to participate fully in community life. We need to be serious about encouraging a shift towards walking, wheeling and cycling, so we must create environments in which people feel safe to do so. We cannot talk about reducing congestion and parking issues whilst simultaneously arguing against measures that make streets safer for those who do not or are unable to drive.\n\nThat brings me to the practical alternative that is so often proposed: selective 20 mph zones for those schools, hospitals, care homes and playgrounds. Let's consider what that would mean in practice. The Welsh Government's nationwide implementation cost around £33 million. But if we were to scrap the 20 mph policy, which in itself would probably cost about £33 million again, and then redesignate every school, every care home, every hospital and every playground individually, at the average of £33,000 per location, the cost of that would be £163 million. I wonder whether Reform agree with me that £163 million is more money than £33 million. I understand that I can't use the B word in this debate, which is a shame, because communities need a simple, consistent layer of protection. The alternative, of course, is an expensive patchwork quilt of varying speed limits requiring more signs, more admin and more enforcement, leaving drivers confused as they try and work out which rule applies where. I'm nearly finished.\n\nIn this debate about cost, we're losing sight of the fact that lower speeds reduce the risk of death and serious injury. That's why the policy was introduced. That's why many opponents support 20 mph in the places they care about. That's why this debate ultimately comes down to this: whose freedom do we value in society? Is a car journey that is, on average, less than a minute quicker really more important than the ability of a child to walk safely to school, an older person to cross the road with confidence, or a disabled person to travel independently through their community? Almost one in five households in Wales do not have access to a car. Many of these people are old, disabled, young or poor. Why should they bear the consequences and the risk—",
+          "text_original": "I couldn't possibly comment on that, except to point out that Plaid Cymru also support this, as do the Greens.\n\nWhen some people say that the 20 mph default limit infringes their freedom, they're ignoring the freedom of those people—the freedom to walk safely in their communities, the freedom to cross the road without fear, the freedom to participate fully in community life. We need to be serious about encouraging a shift towards walking, wheeling and cycling, so we must create environments in which people feel safe to do so. We cannot talk about reducing congestion and parking issues whilst simultaneously arguing against measures that make streets safer for those who do not or are unable to drive.\n\nThat brings me to the practical alternative that is so often proposed: selective 20 mph zones for those schools, hospitals, care homes and playgrounds. Let's consider what that would mean in practice. The Welsh Government's nationwide implementation cost around £33 million. But if we were to scrap the 20 mph policy, which in itself would probably cost about £33 million again, and then redesignate every school, every care home, every hospital and every playground individually, at the average of £33,000 per location, the cost of that would be £163 million. I wonder whether Reform agree with me that £163 million is more money than £33 million. I understand that I can't use the B word in this debate, which is a shame, because communities need a simple, consistent layer of protection. The alternative, of course, is an expensive patchwork quilt of varying speed limits requiring more signs, more admin and more enforcement, leaving drivers confused as they try and work out which rule applies where. I'm nearly finished.\n\nIn this debate about cost, we're losing sight of the fact that lower speeds reduce the risk of death and serious injury. That's why the policy was introduced. That's why many opponents support 20 mph in the places they care about. That's why this debate ultimately comes down to this: whose freedom do we value in society? Is a car journey that is, on average, less than a minute quicker really more important than the ability of a child to walk safely to school, an older person to cross the road with confidence, or a disabled person to travel independently through their community? Almost one in five households in Wales do not have access to a car. Many of these people are old, disabled, young or poor. Why should they bear the consequences and the risk—",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=14112"
+        },
+        {
+          "id": "contribution-773802",
+          "item_id": "item-16265-260930-7",
+          "item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
+          "lang": "en",
+          "t_start": 14288,
+          "text_english": "—one sentence—simply so that the rest of us can reach our destinations 50 seconds sooner? Diolch.",
+          "text_original": "—one sentence—simply so that the rest of us can reach our destinations 50 seconds sooner? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=14288"
         }
       ],
       "date": "2026-09-30",

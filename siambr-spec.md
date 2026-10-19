@@ -160,7 +160,9 @@ CREATE TABLE agenda_items (
 CREATE TABLE debate_contributions (
     id TEXT PRIMARY KEY,                       -- e.g. 'contrib-2024-05-14-04-012'
     agenda_item_id TEXT NOT NULL REFERENCES agenda_items(id),
-    member_id TEXT NOT NULL REFERENCES members(id),
+    member_id TEXT REFERENCES members(id),     -- NULL when the Record attributes the speech to no Member
+    speaker_name TEXT,                         -- the publisher's own label for that speaker
+    speaker_role TEXT,                         -- their job title as the Record gives it ('Counsel General')
     sequence_number INTEGER NOT NULL,
     spoken_language TEXT NOT NULL CHECK(spoken_language IN ('cy', 'en')),
     verbatim_text_original TEXT NOT NULL,      -- Exact spoken words
@@ -404,14 +406,16 @@ Every card or dossier component displays an explicit provenance badge:
 - `pipeline.sync`: **the one command the scheduler runs.** Idempotent. Lists the XMLExport index for the last 21 days, fetches every listed meeting fresh (Bronze cache bypassed inside that window), rewrites changed sessions, pulls divisions for changed dates, then runs `export` if anything changed. Writes a row to `sync_runs` (started, finished, sessions_changed, error). Exit 0 on no change.
 - `pipeline.export`: Gold to Static. Deterministic: sorted keys, stable IDs, so an unchanged sitting produces a byte-identical file.
 - `pipeline.run_checks`: verbatim audit, referential checks, provenance flags.
+- `pipeline.check_health`: retrieval watchdog. Fails if the live index lists a meeting the export does not hold, whatever the cause; unattributed speech is reported, not failed. Run daily by `watchdog.yml`.
 - `pipeline.bake_spatial_buffers` and the `spatial_plinths` table are **withdrawn**.
 
 ### 8.2 Static Data Contract (`frontend/static/data/`)
 ```
 index.json                       terms, latest sitting date, generated_at
 sittings/index.json              [{date, meeting_id, term, item_count, contribution_count, record_published_at}]
-sittings/{date}.json             items[], contributions[] (id, item, seq, member_id, lang, text_original,
-                                 text_english, t_start, t_end_derived), divisions[] (with member votes),
+sittings/{date}.json             items[], contributions[] (id, item, seq, member_id, speaker_name, speaker_role,
+                                 unattributed, lang, text_original, text_english, t_start, t_end_derived),
+                                 divisions[] (with member votes), unattributed{contributions, speakers[]},
                                  clip_url, meeting_start_wallclock, record_published_at
 members/index.json               current-term Members: id, names, party, seat, gss, portrait, roles (light)
 members/{id}.json                full record: tenures, roles, contributions grouped by date
@@ -420,6 +424,8 @@ terms/{n}.json                   seat_count, presiding officers, members[]
 stats/sittings/{date}.json       derived speaking time by member and party, per-item counts   [PROVENANCE_DERIVED]
 stats/terms/{n}.json             derived aggregates                                            [PROVENANCE_DERIVED]
 search/index.json                prebuilt index over contributions and titles (minisearch or pagefind)
+health.json                      last successful poll (checked_at, meetings listed/unavailable) and the
+                                 unattributed speech count; read by the watchdog
 ```
 A sitting file is fetched once per Stage load. Member files are fetched on demand. Nothing in the bundle depends on a server.
 

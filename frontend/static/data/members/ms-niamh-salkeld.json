@@ -2,8 +2,8 @@
   "ballots": [
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779120",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -13,8 +13,8 @@
     },
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779125",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -24,8 +24,8 @@
     },
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779128",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -112,8 +112,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773939",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -123,8 +123,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773957",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -134,8 +134,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773961",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -741,7 +741,7 @@
   "canonical_name": "Niamh Salkeld",
   "constituency_name_cy": "Blaenau Gwent Caerffili Rhymni",
   "constituency_name_en": "Blaenau Gwent Caerffili Rhymni",
-  "contribution_count": 28,
+  "contribution_count": 30,
   "contributions_by_date": [
     {
       "contributions": [
@@ -849,6 +849,26 @@
     },
     {
       "contributions": [
+        {
+          "id": "contribution-770840",
+          "item_id": "item-16262-260922-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "2. What legal advice has the Counsel General provided to the Welsh Government on the devolution of youth justice? OQ64502",
+          "text_original": "2. Pa gyngor cyfreithiol y mae'r Cwnsler Cyffredinol wedi ei roi i Lywodraeth Cymru ar ddatganoli cyfiawnder ieuenctid? OQ64502",
+          "tv_url": "http://www.senedd.tv/en/16262"
+        },
+        {
+          "id": "contribution-770848",
+          "item_id": "item-16262-260922-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "en",
+          "t_start": 4079,
+          "text_english": "Diolch, Gwnsler Cyffredinol. Many have called for youth justice to be devolved to Wales, including the Brown commission, and I'm glad that this Plaid Cymru Government also wants to see that happen. Currently, a child in the justice system in Wales has one foot in each world. Their school, healthcare and social workers are devolved, yet their court and their custody are not. That jagged edge means different systems, different governments, and it's the child who tends to slip through the gaps. The UK Government is proposing, like you mentioned, reforms to the youth justice system. From April 2027, Wales is due to take on some funding for remand and early intervention. That's a start. It's funding, but it's not powers. Decisions on how the system works will still be made in Westminster, even though Wales delivers the majority of it. Does the Counsel General agree that the UK Government has a duty to work with Wales, not around it, on reforms to a system that Wales largely delivers? Diolch.",
+          "text_original": "Diolch, Gwnsler Cyffredinol. Many have called for youth justice to be devolved to Wales, including the Brown commission, and I'm glad that this Plaid Cymru Government also wants to see that happen. Currently, a child in the justice system in Wales has one foot in each world. Their school, healthcare and social workers are devolved, yet their court and their custody are not. That jagged edge means different systems, different governments, and it's the child who tends to slip through the gaps. The UK Government is proposing, like you mentioned, reforms to the youth justice system. From April 2027, Wales is due to take on some funding for remand and early intervention. That's a start. It's funding, but it's not powers. Decisions on how the system works will still be made in Westminster, even though Wales delivers the majority of it. Does the Counsel General agree that the UK Government has a duty to work with Wales, not around it, on reforms to a system that Wales largely delivers? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=4079"
+        },
         {
           "id": "contribution-771112",
           "item_id": "item-16262-260922-6",

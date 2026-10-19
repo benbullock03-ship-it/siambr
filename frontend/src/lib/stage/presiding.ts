@@ -13,7 +13,10 @@ const ADDRESSING_CHAIR_RE =
  * Returns true if a contribution by a Presiding Officer is made from the chair
  * rather than speaking as an ordinary backbench member to the chair.
  */
-export function isChairingContribution(c: Contribution, presidingMemberIds: ReadonlySet<string>): boolean {
+export function isChairingContribution(
+	c: Contribution,
+	presidingMemberIds: ReadonlySet<string>
+): c is Contribution & { member_id: string } {
 	if (!c.member_id || !presidingMemberIds.has(c.member_id)) return false;
 	// When Huw Irranca-Davies addresses the Deputy Presiding Officer from the floor (e.g. 90-second statements),
 	// he is speaking to the chair, not chairing the debate.

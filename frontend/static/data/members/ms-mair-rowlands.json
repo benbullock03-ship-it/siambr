@@ -2,8 +2,8 @@
   "ballots": [
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779120",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -13,8 +13,8 @@
     },
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779125",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -24,8 +24,8 @@
     },
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779128",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -112,8 +112,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773939",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -123,8 +123,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773957",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -134,8 +134,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773961",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -741,7 +741,7 @@
   "canonical_name": "Mair Rowlands",
   "constituency_name_cy": "Bangor Conwy Môn",
   "constituency_name_en": "Bangor Conwy Môn",
-  "contribution_count": 34,
+  "contribution_count": 36,
   "contributions_by_date": [
     {
       "contributions": [
@@ -876,6 +876,32 @@
       ],
       "date": "2026-09-29",
       "record_page_url": "https://record.senedd.wales/Plenary/16264"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-770902",
+          "item_id": "item-16262-260922-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "5. What assessment has the Counsel General made of people's ability to access legal services and justice through the medium of Welsh? OQ64495",
+          "text_original": "5. Pa asesiad mae'r Cwnsler Cyffredinol wedi ei wneud o allu pobl i gael mynediad at wasanaethau cyfreithiol a chyfiawnder drwy gyfrwng y Gymraeg? OQ64495",
+          "tv_url": "http://www.senedd.tv/en/16262"
+        },
+        {
+          "id": "contribution-770905",
+          "item_id": "item-16262-260922-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "cy",
+          "t_start": 5870,
+          "text_english": "Thank you, Counsel General. In February, the Law Society reported on the legal deserts in Wales, outlining how access to legal services declines outside the M4 corridor. While Cardiff has 12.3 solicitors for every 1,000 residents, in north Wales, the figure is closer to 2.3 per 1,000. This geographical inequality has a fundamental impact on Welsh-speaking communities in Bangor Conwy Môn and across north Wales in terms of access to legal services and justice through the medium of Welsh. Will the Counsel General outline the Government's plans to address this inequality?",
+          "text_original": "Diolch, Gwnsler. Ym mis Chwefror, fe adroddodd Cymdeithas y Cyfreithwyr ar yr anialwch cyfreithiol yng Nghymru, gan amlinellu sut mae mynediad pobl at wasanaethau cyfreithiol yn gostwng y tu allan i goridor yr M4. Tra bod gan Gaerdydd 12.3 cyfreithiwr i bob 1,000 o drigolion, yng ngogledd Cymru, mae'r ffigur yn agosach at 2.3 mewn bob 1,000. Mae'r anghydraddoldeb daearyddol yma'n cael effaith sylfaenol ar gymunedau Cymraeg ym Mangor Conwy Môn ac ar draws y gogledd i gael mynediad at wasanaethau cyfreithiol a chyfiawnder drwy gyfrwng y Gymraeg. A wnaiff y Cwnsler amlinellu beth yw cynlluniau'r Llywodraeth i fynd i'r afael â'r annhegwch hwn?",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=5870"
+        }
+      ],
+      "date": "2026-09-22",
+      "record_page_url": "https://record.senedd.wales/Plenary/16262"
     },
     {
       "contributions": [

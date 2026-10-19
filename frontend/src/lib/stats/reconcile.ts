@@ -3,7 +3,7 @@
  * `pipeline/export.py`. Nothing here ships to a page: it exists so a test can reconcile every
  * figure in `stats/sittings/{date}.json` against the record the site already serves.
  */
-import type { Contribution, ItemStat, MemberStat, PartyStat, Sitting, StatTotals } from '$lib/data/types';
+import type { Contribution, ItemStat, MemberStat, PartyStat, Sitting, StatTotals, UnattributedStat } from '$lib/data/types';
 
 /** Half up to three decimals, matching `round3` in the exporter. */
 export const round3 = (x: number) => Math.floor(x * 1000 + 0.5) / 1000;
@@ -26,7 +26,7 @@ export function secondsByContribution(contributions: Contribution[]): Map<string
 }
 
 interface Row {
-	member_id: string;
+	member_id: string | null;
 	party_id: string | null;
 	item_id: string;
 	lang: string;
@@ -37,7 +37,8 @@ function rowsOf(sitting: Sitting): Row[] {
 	const seconds = secondsByContribution(sitting.contributions);
 	return sitting.contributions.map((c) => ({
 		member_id: c.member_id,
-		party_id: sitting.speakers[c.member_id]?.party_id ?? null,
+		// Unattributed speech has no party; it is reported by unattributedOf(), never folded in.
+		party_id: c.member_id ? (sitting.speakers[c.member_id]?.party_id ?? null) : null,
 		item_id: c.item_id,
 		lang: c.lang,
 		seconds: seconds.has(c.id) ? (seconds.get(c.id) as number) : null
@@ -57,7 +58,7 @@ function tally<K>(rows: Row[], key: (r: Row) => K): Map<K, Bucket> {
 		const k = key(r);
 		const b = out.get(k) ?? { seconds: 0, contributions: 0, untimed_contributions: 0, members: new Set<string>() };
 		b.contributions += 1;
-		b.members.add(r.member_id);
+		if (r.member_id) b.members.add(r.member_id);
 		if (r.seconds === null) b.untimed_contributions += 1;
 		else b.seconds += r.seconds;
 		out.set(k, b);
@@ -80,7 +81,20 @@ export function totalsOf(sitting: Sitting): StatTotals {
 		speaking_seconds: round3(rows.reduce((s, r) => s + (r.seconds ?? 0), 0)),
 		divisions: sitting.divisions.length,
 		welsh_contributions: welsh,
-		welsh_share: rows.length ? round3(welsh / rows.length) : 0
+		welsh_share: rows.length ? round3(welsh / rows.length) : 0,
+		// Part of the totals above, and never part of a Member's or party's share.
+		unattributed_contributions: unattributedOf(sitting).contributions,
+		unattributed_seconds: unattributedOf(sitting).seconds
+	};
+}
+
+/** Speech the Record attributed to no Member: reported, never folded into a party or a Member. */
+export function unattributedOf(sitting: Sitting): UnattributedStat {
+	const rows = rowsOf(sitting).filter((r) => r.member_id === null);
+	return {
+		contributions: rows.length,
+		seconds: round3(rows.reduce((s, r) => s + (r.seconds ?? 0), 0)),
+		untimed_contributions: rows.filter((r) => r.seconds === null).length
 	};
 }
 
@@ -88,6 +102,7 @@ export function membersOf(sitting: Sitting): MemberStat[] {
 	const rows = rowsOf(sitting);
 	const out: MemberStat[] = [];
 	for (const [member_id, b] of tally(rows, (r) => r.member_id)) {
+		if (member_id === null) continue; // reported by unattributedOf(), not as a Member
 		out.push({
 			member_id,
 			canonical_name: sitting.speakers[member_id]?.canonical_name ?? member_id,
@@ -102,7 +117,8 @@ export function membersOf(sitting: Sitting): MemberStat[] {
 
 export function partiesOf(sitting: Sitting): PartyStat[] {
 	const out: PartyStat[] = [];
-	for (const [party_id, b] of tally(rowsOf(sitting), (r) => r.party_id)) {
+	const attributed = rowsOf(sitting).filter((r) => r.member_id !== null);
+	for (const [party_id, b] of tally(attributed, (r) => r.party_id)) {
 		out.push({
 			party_id,
 			seconds: round3(b.seconds),

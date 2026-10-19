@@ -2,8 +2,8 @@
   "ballots": [
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779120",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -13,8 +13,8 @@
     },
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779125",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -24,8 +24,8 @@
     },
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779128",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -112,8 +112,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773939",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -123,8 +123,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773957",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -134,8 +134,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773961",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -741,7 +741,7 @@
   "canonical_name": "Adrian Mason",
   "constituency_name_cy": "Clwyd",
   "constituency_name_en": "Clwyd",
-  "contribution_count": 24,
+  "contribution_count": 27,
   "contributions_by_date": [
     {
       "contributions": [
@@ -858,6 +858,36 @@
           "text_english": "Thanks for the answer, First Minister. So, while I recognise there are a number of schemes available, and I knew you'd refer to some, of course you would, but the Older People's Commissioner for Wales tells us that one in six older people in Wales are living in relative income poverty, with one in five going without heating and a quarter skipping meals or eating less. How can we imagine that situation? It's happening in Wales. These figures suggest that despite the support available, too many older people are still struggling, particularly those living on fixed incomes and those who may fall just outside eligibility for means-tested assistance. So, what further action will your Government take to ensure that support actually reaches older people, and how will you measure whether it is succeeding?",
           "text_original": "Thanks for the answer, First Minister. So, while I recognise there are a number of schemes available, and I knew you'd refer to some, of course you would, but the Older People's Commissioner for Wales tells us that one in six older people in Wales are living in relative income poverty, with one in five going without heating and a quarter skipping meals or eating less. How can we imagine that situation? It's happening in Wales. These figures suggest that despite the support available, too many older people are still struggling, particularly those living on fixed incomes and those who may fall just outside eligibility for means-tested assistance. So, what further action will your Government take to ensure that support actually reaches older people, and how will you measure whether it is succeeding?",
           "tv_url": "http://www.senedd.tv/en/16262?startPos=2718"
+        },
+        {
+          "id": "contribution-770842",
+          "item_id": "item-16262-260922-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "en",
+          "t_start": 4405,
+          "text_english": "Here we are again, Counsel General. You and I have to walk a narrow line in our exchanges. We're here in our legal capacity in this instance in an immensely political Chamber. So, no trick questions.\n\nConstitutional change can have long-term consequences, of course. When the Government considers seeking additional powers for Wales, what tests do you believe should be applied before a proposal is taken forward? Should those tests include a clearly identifiable difficulty, evidence that transferring powers is the best way to address it, a workable delivery plan and sustainable funding, and clear accountability? Where services operate across the England and Wales border, should the effect on those cross-border links also be addressed and made clear before any changes take place?",
+          "text_original": "Here we are again, Counsel General. You and I have to walk a narrow line in our exchanges. We're here in our legal capacity in this instance in an immensely political Chamber. So, no trick questions.\n\nConstitutional change can have long-term consequences, of course. When the Government considers seeking additional powers for Wales, what tests do you believe should be applied before a proposal is taken forward? Should those tests include a clearly identifiable difficulty, evidence that transferring powers is the best way to address it, a workable delivery plan and sustainable funding, and clear accountability? Where services operate across the England and Wales border, should the effect on those cross-border links also be addressed and made clear before any changes take place?",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=4405"
+        },
+        {
+          "id": "contribution-770846",
+          "item_id": "item-16262-260922-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "en",
+          "t_start": 4529,
+          "text_english": "Thank you. I want to move to the tribunal system. I know it's high in your priorities, Counsel General. So, the proposed new Welsh tribunal structure is intended not only to bring existing devolved tribunals into a more coherent system, but also be capable of taking on additional jurisdictions in the future. Before any additional jurisdiction is transferred into the Welsh tribunal system, what safeguards do you believe should be in place? In particular, how would we protect judicial independence, access to specialist expertise, consistent rights of appeal, and the handling of cases across the England-Wales border? And would you expect the costs and practical impact of each proposed transfer to be fully assessed before it takes place?",
+          "text_original": "Thank you. I want to move to the tribunal system. I know it's high in your priorities, Counsel General. So, the proposed new Welsh tribunal structure is intended not only to bring existing devolved tribunals into a more coherent system, but also be capable of taking on additional jurisdictions in the future. Before any additional jurisdiction is transferred into the Welsh tribunal system, what safeguards do you believe should be in place? In particular, how would we protect judicial independence, access to specialist expertise, consistent rights of appeal, and the handling of cases across the England-Wales border? And would you expect the costs and practical impact of each proposed transfer to be fully assessed before it takes place?",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=4529"
+        },
+        {
+          "id": "contribution-770860",
+          "item_id": "item-16262-260922-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "en",
+          "t_start": 4672,
+          "text_english": "Let's move now to the rail network—another one that is coming down the line, excuse the pun. Counsel General, the Government has set out a pathway towards full devolution of rail services and infrastructure, while also accepting that the Welsh network must remain integrated within the wider United Kingdom, of course. From a legal and constitutional point of view, what would need to be settled before such a transfer could take place? In particular, how would responsibility for long-term infrastructure liabilities, cross-border routes, for example, funding and dispute resolution be divided between Welsh Ministers, the Welsh Government and Great British Railways? And should funding and liability be settled as an integral part of any transfer rather than being left to subsequent negotiations?",
+          "text_original": "Let's move now to the rail network—another one that is coming down the line, excuse the pun. Counsel General, the Government has set out a pathway towards full devolution of rail services and infrastructure, while also accepting that the Welsh network must remain integrated within the wider United Kingdom, of course. From a legal and constitutional point of view, what would need to be settled before such a transfer could take place? In particular, how would responsibility for long-term infrastructure liabilities, cross-border routes, for example, funding and dispute resolution be divided between Welsh Ministers, the Welsh Government and Great British Railways? And should funding and liability be settled as an integral part of any transfer rather than being left to subsequent negotiations?",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=4672"
         }
       ],
       "date": "2026-09-22",

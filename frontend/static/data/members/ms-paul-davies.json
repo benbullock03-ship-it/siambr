@@ -2,8 +2,8 @@
   "ballots": [
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779120",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -13,8 +13,8 @@
     },
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779125",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -24,8 +24,8 @@
     },
     {
       "date": "2026-10-14",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16316-261014-7",
+      "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
       "division_id": "division-16316-779128",
       "item_id": "item-16316-261014-8",
       "item_title_en": "7. Voting Time",
@@ -112,8 +112,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773939",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -123,8 +123,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773957",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -134,8 +134,8 @@
     },
     {
       "date": "2026-09-30",
-      "debate_item_id": null,
-      "debate_item_title_en": null,
+      "debate_item_id": "item-16265-260930-7",
+      "debate_item_title_en": "6. Reform UK Debate: Default 20 mph speed limit",
       "division_id": "division-16265-773961",
       "item_id": "item-16265-260930-9",
       "item_title_en": "8. Voting Time",
@@ -741,7 +741,7 @@
   "canonical_name": "Paul Davies",
   "constituency_name_cy": "Ceredigion Penfro",
   "constituency_name_en": "Ceredigion Penfro",
-  "contribution_count": 49,
+  "contribution_count": 52,
   "contributions_by_date": [
     {
       "contributions": [
@@ -936,6 +936,36 @@
           "text_english": "First Minister, I believe that the Welsh Government's healthcare priorities for Ceredigion Penfro must be to protect essential health services at its hospitals so that patients do not have to travel further afield for treatment. Now, over the years, my constituents have seen health services centralised and moved further away by the local health board, despite clear public opposition to these changes. And there has been little, if any, intervention or challenge from a Welsh Government over the last 27 years. Now, following the change of Government in May, there was a sense of hope for my constituents that their views would be heard and the health board stopped, and, so far, that has not been the case. So, First Minister, what threshold must be crossed before the Welsh Government is prepared to intervene and prevent Hywel Dda University Health Board from further downgrading services in west Wales? And what message do you have for the people of Ceredigion Penfro who voted for a Government they believed would stand up for local communities and ensure that no further services are removed from their hospitals?",
           "text_original": "First Minister, I believe that the Welsh Government's healthcare priorities for Ceredigion Penfro must be to protect essential health services at its hospitals so that patients do not have to travel further afield for treatment. Now, over the years, my constituents have seen health services centralised and moved further away by the local health board, despite clear public opposition to these changes. And there has been little, if any, intervention or challenge from a Welsh Government over the last 27 years. Now, following the change of Government in May, there was a sense of hope for my constituents that their views would be heard and the health board stopped, and, so far, that has not been the case. So, First Minister, what threshold must be crossed before the Welsh Government is prepared to intervene and prevent Hywel Dda University Health Board from further downgrading services in west Wales? And what message do you have for the people of Ceredigion Penfro who voted for a Government they believed would stand up for local communities and ensure that no further services are removed from their hospitals?",
           "tv_url": "http://www.senedd.tv/en/16262?startPos=487"
+        },
+        {
+          "id": "contribution-770896",
+          "item_id": "item-16262-260922-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "en",
+          "t_start": 4967,
+          "text_english": "Diolch, Lywydd. Counsel General, I want to return to the issue raised by the Member for Brycheiniog Tawe Nedd and ask some further questions around what the Welsh Government can do to intervene and stop service reconfiguration decisions taken by local health boards. I listened very carefully to your earlier answers. Now, I'm sure you'll agree that health board service reconfiguration is a contentious issue in most parts of Wales, including, of course, in west Wales, which has a long history of service reductions, relocations and reconfigurations that have led many residents to feel that healthcare provision is increasingly being moved further away from their communities. In my view, when there is such strong public opposition to the health board's decisions, the Welsh Government has a moral responsibility to get involved and put a hold on controversial plans that do not carry the will of the people. So, Counsel General, you've confirmed here today that Ministers can intervene under the National Health Service (Wales) Act 2006, but can you tell us what role you have as the Welsh Government's legal adviser in any process that would involve intervention? And can you confirm that a Government can legally intervene on any health board decision under this Act?",
+          "text_original": "Diolch, Lywydd. Counsel General, I want to return to the issue raised by the Member for Brycheiniog Tawe Nedd and ask some further questions around what the Welsh Government can do to intervene and stop service reconfiguration decisions taken by local health boards. I listened very carefully to your earlier answers. Now, I'm sure you'll agree that health board service reconfiguration is a contentious issue in most parts of Wales, including, of course, in west Wales, which has a long history of service reductions, relocations and reconfigurations that have led many residents to feel that healthcare provision is increasingly being moved further away from their communities. In my view, when there is such strong public opposition to the health board's decisions, the Welsh Government has a moral responsibility to get involved and put a hold on controversial plans that do not carry the will of the people. So, Counsel General, you've confirmed here today that Ministers can intervene under the National Health Service (Wales) Act 2006, but can you tell us what role you have as the Welsh Government's legal adviser in any process that would involve intervention? And can you confirm that a Government can legally intervene on any health board decision under this Act?",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=4967"
+        },
+        {
+          "id": "contribution-770850",
+          "item_id": "item-16262-260922-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "en",
+          "t_start": 5146,
+          "text_english": "You see, many people across Wales will find it difficult to understand why Ministers appear powerless to act when there is overwhelming public concern about major service changes that could significantly affect access to healthcare. Therefore, Counsel General, can you outline the legal thresholds, then, you believe must be met before the Welsh Government will intervene in a service reconfiguration decision taken by a health board? Furthermore, do you believe the current legal set-up provides the Welsh Government with sufficient powers to protect communities from reconfiguration decisions that lack public confidence?",
+          "text_original": "You see, many people across Wales will find it difficult to understand why Ministers appear powerless to act when there is overwhelming public concern about major service changes that could significantly affect access to healthcare. Therefore, Counsel General, can you outline the legal thresholds, then, you believe must be met before the Welsh Government will intervene in a service reconfiguration decision taken by a health board? Furthermore, do you believe the current legal set-up provides the Welsh Government with sufficient powers to protect communities from reconfiguration decisions that lack public confidence?",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=5146"
+        },
+        {
+          "id": "contribution-770854",
+          "item_id": "item-16262-260922-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "en",
+          "t_start": 5210,
+          "text_english": "I'm asking your opinion.",
+          "text_original": "I'm asking your opinion.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=5210"
         },
         {
           "id": "contribution-770938",

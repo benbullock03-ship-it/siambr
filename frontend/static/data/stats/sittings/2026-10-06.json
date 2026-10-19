@@ -602,8 +602,15 @@
     "divisions": 1,
     "speaking_seconds": 17014.0,
     "timed_contributions": 285,
+    "unattributed_contributions": 0,
+    "unattributed_seconds": 0.0,
     "untimed_contributions": 20,
     "welsh_contributions": 104,
     "welsh_share": 0.341
+  },
+  "unattributed": {
+    "contributions": 0,
+    "seconds": 0.0,
+    "untimed_contributions": 0
   }
 }

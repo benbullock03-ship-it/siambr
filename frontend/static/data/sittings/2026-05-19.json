@@ -7,11 +7,14 @@
       "lang": "cy",
       "member_id": "ms-huw-irranca-davies",
       "seq": 0,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 28,
       "t_start": 4,
       "text_english": "A very warm welcome to you all to this session of the Senedd this afternoon. We begin with a motion to appoint Members to the Business Committee. I therefore call on the Trefnydd to move the motion—Heledd Fychan.",
       "text_original": "Croeso cynnes i bawb, a chroeso i'r sesiwn hwn o'r Senedd y prynhawn yma. Rydyn ni'n dechrau gyda'r cynnig i benodi Aelodau i'r Pwyllgor Busnes. Felly, galwaf ar y Trefnydd i wneud y cynnig—Heledd Fychan.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=4"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=4",
+      "unattributed": false
     },
     {
       "id": "contribution-762409",
@@ -19,11 +22,14 @@
       "lang": "cy",
       "member_id": "ms-heledd-fychan",
       "seq": 1,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 4,
       "t_start": 3,
       "text_english": "Thank you, Llywydd. I move the motion and invite Members of the Senedd to agree the appointment of members to the Business Committee.",
       "text_original": "Diolch, Lywydd. Rwy'n symud y cynnig ac yn gwahodd Aelodau'r Senedd i gytuno ar benodi aelodau i'r Pwyllgor Busnes.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=3"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=3",
+      "unattributed": false
     },
     {
       "id": "contribution-762410",
@@ -31,11 +37,14 @@
       "lang": "cy",
       "member_id": "ms-huw-irranca-davies",
       "seq": 2,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 54,
       "t_start": 28,
       "text_english": "Thank you, Heledd. The proposal is to appoint members to the Business Committee. Does any Member object? No. The motion is therefore agreed in accordance with Standing Order 12.36.",
       "text_original": "Diolch yn fawr iawn, Heledd. Y cwestiwn yw: a ddylid derbyn y cynnig i benodi aelodau i'r Pwyllgor Busnes? A oes unrhyw wrthwynebiad? Nac oes. Felly, derbynnir y cynnig yn unol â Rheol Sefydlog 12.36.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=28"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=28",
+      "unattributed": false
     },
     {
       "id": "contribution-762417",
@@ -43,11 +52,14 @@
       "lang": "cy",
       "member_id": "ms-huw-irranca-davies",
       "seq": 0,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 94,
       "t_start": 54,
       "text_english": "Next—. We do enjoy the use of the technology here. [Laughter.] So, we will move now to the proposal under Standing Order 12.10(ii) for items to be taken at the next Plenary meeting. I call on the Trefnydd to move the motion—Heledd Fychan.",
       "text_original": "Nesaf—. Rydyn ni'n joio'r dechnoleg yma. [Chwerthin.] Rydyn ni'n symud nawr i'r cynnig o dan Reol Sefydlog 12.10(ii) i eitemau gael eu cymryd yn y Cyfarfod Llawn nesaf. Galwaf ar y Trefnydd i wneud y cynnig—Heledd Fychan.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=54"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=54",
+      "unattributed": false
     },
     {
       "id": "contribution-762422",
@@ -55,11 +67,14 @@
       "lang": "cy",
       "member_id": "ms-heledd-fychan",
       "seq": 1,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 112,
       "t_start": 94,
       "text_english": "Thank you, Llywydd. I move the motion and invite Members of the Senedd to agree that questions to the First Minister and the recommendation of the First Minister to His Majesty the King of an individual to be appointed as Counsel General should be included on the agenda for the next Plenary meeting.",
       "text_original": "Diolch, Lywydd. Rwy'n symud y cynnig ac yn gwahodd Aelodau'r Senedd i gytuno bod cwestiynau i'r Prif Weinidog a chynnig i gytuno ar argymhelliad y Prif Weinidog i'w Fawrhydi o berson i'w benodi yn Gwnsler Cyffredinol yn cael eu cynnwys ar yr agenda ar gyfer ein Cyfarfod Llawn nesaf.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=94"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=94",
+      "unattributed": false
     },
     {
       "id": "contribution-762424",
@@ -67,11 +82,14 @@
       "lang": "cy",
       "member_id": "ms-huw-irranca-davies",
       "seq": 2,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 125,
       "t_start": 112,
       "text_english": "Thank you very much, Heledd. The proposal is to agree the motion. Does any Member object? No. Thank you, all, very much.",
       "text_original": "Diolch yn fawr iawn, Heledd. Y cwestiwn yw: a ddylid derbyn y cynnig? A oes unrhyw Aelod yn gwrthwynebu? Nac oes. Diolch yn fawr iawn i chi i gyd.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=112"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=112",
+      "unattributed": false
     },
     {
       "id": "contribution-762428",
@@ -79,11 +97,14 @@
       "lang": "cy",
       "member_id": "ms-huw-irranca-davies",
       "seq": 0,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 145,
       "t_start": 125,
       "text_english": "So, we now move to item 3 on our agenda. And item 3 is a statement by the First Minister on the First Minister's priorities. I call on the First Minister, Rhun ap Iorwerth.",
       "text_original": "Felly, nawr rydym ni'n symud i eitem 3 ar yr agenda. Eitem 3 ar yr agenda yw'r datganiad gan y Prif Weinidog: blaenoriaethau'r Prif Weinidog. Galwaf ar y Prif Weinidog, Rhun ap Iorwerth.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=125"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=125",
+      "unattributed": false
     },
     {
       "id": "contribution-762429",
@@ -91,11 +112,14 @@
       "lang": "cy",
       "member_id": "ms-rhun-ap-iorwerth",
       "seq": 1,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 192,
       "t_start": 145,
       "text_english": "Thank you very much. Llywydd, fellow Members of the Senedd, as we meet for the second time as a Senedd since the election less than two weeks ago, I do hope that my Government's desire to maintain momentum and to get on immediately in making a difference to people's lives is clear for everyone to see.\n\nIt was a pleasure to announce my energetic and talented ministerial team over recent days, and I am pleased to say that we have already met to discuss the priorities of this new administration and to receive an update on the impact of the war in the middle east on the cost of living for Welsh households.",
       "text_original": "Diolch yn fawr iawn. Lywydd, gyd-Aelodau'r Senedd, â ninnau’n cyfarfod am yr ail waith fel Senedd ers yr etholiad lai na phythefnos yn ôl, dwi’n gobeithio bod awydd fy Llywodraeth i gynnal momentwm ac i fwrw ati ar unwaith i wneud gwahaniaeth i fywydau pobl yn glir i bawb ei weld.\n\nPleser oedd cyhoeddi fy nhîm gweinidogol egnïol a dawnus dros y dyddiau diwethaf, a dwi’n falch o ddweud ein bod ni eisoes wedi cyfarfod i drafod blaenoriaethau’r weinyddiaeth newydd hon ac i dderbyn diweddariad ar effaith y rhyfel yn y dwyrain canol ar gostau byw aelwydydd Cymreig.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=145"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=145",
+      "unattributed": false
     },
     {
       "id": "contribution-762438",
@@ -103,11 +127,14 @@
       "lang": "en",
       "member_id": "ms-rhun-ap-iorwerth",
       "seq": 2,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 336,
       "t_start": 192,
       "text_english": "Llywydd, I vowed to lead a Government that would bring new energy, new ideas and new leadership, and I’m pleased that our first week in office has made a clear statement of intent in that regard.\n\nI was pleased to speak with Prime Minister Keir Starmer last week to set out the importance I place on a constructive relationship with the UK Government, and to press the case for further discussion on how greater devolution and fair funding can improve the lives of the people of Wales, arming us with the tools to take Wales forward. As I have emphasised many times, I expect our nation to be treated as an equal partner in those discussions, and for the actions that follow from the UK Government to reflect that in reality, not just in rhetoric. Claiming that this is a union of equals is not enough, because any analysis of the reality leaves such words ringing hollow. I want to make early progress on the devolution of justice and policing, the Crown Estate, and developing a fair funding formula, including matters such as rail, to tackle the injustice of HS2—all issues that have majority support in this Chamber.\n\nLlywydd, I was always clear that the Government I would lead would inject pace into the work of turning policy into practice, and I’m proud that we are already making progress on our first 100 days plan. There is already a strengthened Cabinet Office in place, structured to put a new focus on Government effectiveness and outcomes, fostering greater cohesion between departments, with the common goal of achieving our missions as one. A core team of Ministers have been tasked with ensuring progress on our key priorities and reporting on a regular basis to Cabinet.\n\nAre the right people in the right places focused on the right things? That's a question neglected for too long, I think, by previous administrations. I am therefore grateful to the Permanent Secretary for moving so swiftly to put new, fit-for-purpose structures in place during these early days to enable us to achieve the best outcomes for the people and communities we serve. Accountability will not be just some abstract buzzword, but rather something we experience as a Government week in, week out.",
       "text_original": "Llywydd, I vowed to lead a Government that would bring new energy, new ideas and new leadership, and I’m pleased that our first week in office has made a clear statement of intent in that regard.\n\nI was pleased to speak with Prime Minister Keir Starmer last week to set out the importance I place on a constructive relationship with the UK Government, and to press the case for further discussion on how greater devolution and fair funding can improve the lives of the people of Wales, arming us with the tools to take Wales forward. As I have emphasised many times, I expect our nation to be treated as an equal partner in those discussions, and for the actions that follow from the UK Government to reflect that in reality, not just in rhetoric. Claiming that this is a union of equals is not enough, because any analysis of the reality leaves such words ringing hollow. I want to make early progress on the devolution of justice and policing, the Crown Estate, and developing a fair funding formula, including matters such as rail, to tackle the injustice of HS2—all issues that have majority support in this Chamber.\n\nLlywydd, I was always clear that the Government I would lead would inject pace into the work of turning policy into practice, and I’m proud that we are already making progress on our first 100 days plan. There is already a strengthened Cabinet Office in place, structured to put a new focus on Government effectiveness and outcomes, fostering greater cohesion between departments, with the common goal of achieving our missions as one. A core team of Ministers have been tasked with ensuring progress on our key priorities and reporting on a regular basis to Cabinet.\n\nAre the right people in the right places focused on the right things? That's a question neglected for too long, I think, by previous administrations. I am therefore grateful to the Permanent Secretary for moving so swiftly to put new, fit-for-purpose structures in place during these early days to enable us to achieve the best outcomes for the people and communities we serve. Accountability will not be just some abstract buzzword, but rather something we experience as a Government week in, week out.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=192"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=192",
+      "unattributed": false
     },
     {
       "id": "contribution-762405",
@@ -115,11 +142,14 @@
       "lang": "en",
       "member_id": "ms-rhun-ap-iorwerth",
       "seq": 3,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 653,
       "t_start": 336,
       "text_english": "I have a number of core missions: cutting waiting lists, raising standards in our schools, creating jobs, supporting businesses, tackling child poverty, helping households with the cost-of-living crisis and standing up for Wales. The Cabinet Minister for Health and Care will begin the work immediately of putting our plan in place to cut waiting lists, but cross-Government, longer term thinking will be a hallmark of this Government. In this case, I have appointed a Deputy Minister with responsibility for public and preventative health, as pledged before the election, reflecting how I see this as a critical priority in ensuring a sustainable future for the NHS. I'll be hosting a summit of all health board chief executives, alongside the Cabinet Minister for Health and Care and the Minister for finance, to develop a road map for a sustainable shift of NHS resources towards primary care.\n\nNow, too many of our children leave school without the critical skills or qualifications they need and deserve. To raise standards in our schools, our work to improve literacy and numeracy has already started through beginning the development of a foundational literacy and numeracy plan. We will also work with schools, local authorities, parents and children to assess the issues around attendance and behaviour in our schools, improve the delivery of the additional learning needs system, embedding inclusive practice for all children and young people. \n\nTo create jobs and support businesses, we will focus on growing stronger Welsh firms, increasing the number of medium-sized and large businesses that can scale, export and retain value in Wales. At the same time, we seek to make energy a competitive advantage, ensuring power is reliable, affordable and increasingly clean, supporting investment and long-term job creation. That is why I have established a new economic portfolio focused on enterprise, energy and connectivity, with community always at its core. We want a Welsh economy that is fit for the twenty-first century, proudly Welsh, outward looking, strong and competitive. And we will strengthen economic connectivity, making it easier for people to access jobs and for businesses to reach suppliers and markets. This includes improving links across all regions, including the Valleys, the north, rural Wales, so that growth and opportunity are more evenly shared.\n\nTo tackle child poverty, we'll work with partners to develop a new plan, setting clear targets, benchmarks, milestones to drive ambitious but deliverable change. Our new transformational childcare offer will be the most generous in the history of devolution and the UK, helping boost household incomes and helping to lift families out of poverty—at full roll-out, 20 hours of funded childcare per week, for 48 weeks a year, for all children aged nine months to four years. And we will introduce Cynnal, piloting a new weekly payment targeted at families with children under six who are already receiving universal credit, to provide direct financial support to those who need it most, and making the case for the devolution of welfare powers to be able to help the most vulnerable. To help households with the cost-of-living crisis, we'll expand access to free school meals to secondary school pupils from families in receipt of universal credit from September, supporting students’ learning, giving families one less cost to worry about.\n\nThrough growing and sustaining Welsh-owned businesses, developing and delivering good jobs and reviving our town centres we'll boost living standards. We'll improve the quality and energy efficiency of Welsh housing to improve living standards, tackle fuel poverty and reduce household carbon emissions.\n\nOn our seriousness about standing up for Wales at every opportunity, I’ve already used my first conversations with the UK Prime Minister and the Secretary of State for Wales to press the case for fair funding and powers. And we have agreed that a first in-person meeting with the Prime Minister should take place in the coming weeks.\n\nWe only need to glance at the latest Westminster crisis to see how soon Governments pay a heavy price when they stray from the path they promised to take. My pledge to the people of Wales is that we will not waver, because, by realising these priorities, we are building the nation people deserve. I will never stop pursuing fair treatment for my nation—on funding, the full benefits of our natural resources, and the powers we need to improve people’s lives. Many have waited a long time for this moment, and, with a deep sense of gratitude and humility, I fully intend to reward their patience and trust by doing what I set out to do as First Minister.",
       "text_original": "I have a number of core missions: cutting waiting lists, raising standards in our schools, creating jobs, supporting businesses, tackling child poverty, helping households with the cost-of-living crisis and standing up for Wales. The Cabinet Minister for Health and Care will begin the work immediately of putting our plan in place to cut waiting lists, but cross-Government, longer term thinking will be a hallmark of this Government. In this case, I have appointed a Deputy Minister with responsibility for public and preventative health, as pledged before the election, reflecting how I see this as a critical priority in ensuring a sustainable future for the NHS. I'll be hosting a summit of all health board chief executives, alongside the Cabinet Minister for Health and Care and the Minister for finance, to develop a road map for a sustainable shift of NHS resources towards primary care.\n\nNow, too many of our children leave school without the critical skills or qualifications they need and deserve. To raise standards in our schools, our work to improve literacy and numeracy has already started through beginning the development of a foundational literacy and numeracy plan. We will also work with schools, local authorities, parents and children to assess the issues around attendance and behaviour in our schools, improve the delivery of the additional learning needs system, embedding inclusive practice for all children and young people. \n\nTo create jobs and support businesses, we will focus on growing stronger Welsh firms, increasing the number of medium-sized and large businesses that can scale, export and retain value in Wales. At the same time, we seek to make energy a competitive advantage, ensuring power is reliable, affordable and increasingly clean, supporting investment and long-term job creation. That is why I have established a new economic portfolio focused on enterprise, energy and connectivity, with community always at its core. We want a Welsh economy that is fit for the twenty-first century, proudly Welsh, outward looking, strong and competitive. And we will strengthen economic connectivity, making it easier for people to access jobs and for businesses to reach suppliers and markets. This includes improving links across all regions, including the Valleys, the north, rural Wales, so that growth and opportunity are more evenly shared.\n\nTo tackle child poverty, we'll work with partners to develop a new plan, setting clear targets, benchmarks, milestones to drive ambitious but deliverable change. Our new transformational childcare offer will be the most generous in the history of devolution and the UK, helping boost household incomes and helping to lift families out of poverty—at full roll-out, 20 hours of funded childcare per week, for 48 weeks a year, for all children aged nine months to four years. And we will introduce Cynnal, piloting a new weekly payment targeted at families with children under six who are already receiving universal credit, to provide direct financial support to those who need it most, and making the case for the devolution of welfare powers to be able to help the most vulnerable. To help households with the cost-of-living crisis, we'll expand access to free school meals to secondary school pupils from families in receipt of universal credit from September, supporting students’ learning, giving families one less cost to worry about.\n\nThrough growing and sustaining Welsh-owned businesses, developing and delivering good jobs and reviving our town centres we'll boost living standards. We'll improve the quality and energy efficiency of Welsh housing to improve living standards, tackle fuel poverty and reduce household carbon emissions.\n\nOn our seriousness about standing up for Wales at every opportunity, I’ve already used my first conversations with the UK Prime Minister and the Secretary of State for Wales to press the case for fair funding and powers. And we have agreed that a first in-person meeting with the Prime Minister should take place in the coming weeks.\n\nWe only need to glance at the latest Westminster crisis to see how soon Governments pay a heavy price when they stray from the path they promised to take. My pledge to the people of Wales is that we will not waver, because, by realising these priorities, we are building the nation people deserve. I will never stop pursuing fair treatment for my nation—on funding, the full benefits of our natural resources, and the powers we need to improve people’s lives. Many have waited a long time for this moment, and, with a deep sense of gratitude and humility, I fully intend to reward their patience and trust by doing what I set out to do as First Minister.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=336"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=336",
+      "unattributed": false
     },
     {
       "id": "contribution-762411",
@@ -127,11 +157,14 @@
       "lang": "cy",
       "member_id": "ms-rhun-ap-iorwerth",
       "seq": 4,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 685,
       "t_start": 653,
       "text_english": "Llywydd, I have no intention of forgetting the value and power of words. I am here to honour the promises that I have made to the people of Wales, and I know that I am speaking on behalf of the whole Government when I say that. The path will not always be smooth and without obstruction, but we will face the challenges together, with the aim of saying that we have always done our best for Wales.",
       "text_original": "Lywydd, does gen i ddim bwriad anghofio gwerth a grym geiriau. Dwi yma i anrhydeddu’r addewidion dwi wedi eu gwneud i bobl Cymru, a dwi’n gwybod fy mod i’n siarad ar ran y Llywodraeth gyfan wrth ddweud hynny. Fydd y llwybr ddim bob amser yn llyfn a di-rwystr, ond mi wynebwn ni’r heriau efo’n gilydd, efo’r amcan o ddweud ein bod ni wedi gwneud ein gorau dros Gymru bob amser.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=653"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=653",
+      "unattributed": false
     },
     {
       "id": "contribution-762416",
@@ -139,11 +172,14 @@
       "lang": "en",
       "member_id": "ms-rhun-ap-iorwerth",
       "seq": 5,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 722,
       "t_start": 685,
       "text_english": "I am conscious that we are merely custodians as we work in the pursuit of an ideal that we hope will long outlive any of us here: the betterment of the nation we love. A new administration with a new approach, one that inspires us to move with a new energy and renewed pace to turn aspirations into outcomes for the benefit of everyone who calls Wales home. Diolch yn fawr iawn.",
       "text_original": "I am conscious that we are merely custodians as we work in the pursuit of an ideal that we hope will long outlive any of us here: the betterment of the nation we love. A new administration with a new approach, one that inspires us to move with a new energy and renewed pace to turn aspirations into outcomes for the benefit of everyone who calls Wales home. Diolch yn fawr iawn.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=685"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=685",
+      "unattributed": false
     },
     {
       "id": "contribution-762420",
@@ -151,11 +187,14 @@
       "lang": "cy",
       "member_id": "ms-huw-irranca-davies",
       "seq": 6,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 739,
       "t_start": 722,
       "text_english": "Thank you, First Minister. In line with standard practice, the first speaker from each group will have five minutes to contribute, and all other speakers will have one minute. I now call on Dan Thomas.",
       "text_original": "Diolch, Brif Weinidog. Nawr, yn unol â'r drefn arferol, bydd gan y siaradwyr cyntaf o bob grŵp bum munud i gyfrannu, a bydd gan bob siaradwr arall un funud. Nawr, galwaf ar Dan Thomas.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=722"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=722",
+      "unattributed": false
     },
     {
       "id": "contribution-762423",
@@ -163,11 +202,14 @@
       "lang": "en",
       "member_id": "ms-dan-thomas",
       "seq": 7,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 1053,
       "t_start": 739,
       "text_english": "Thank you. First Minister, thank you for your statement today, and congratulations on your election results. The election has shown one thing very clearly: the political landscape in Wales has changed. After decades of Welsh politics looking exactly the same, the people of Wales have finally said enough is enough, with almost a third of voters trusting Reform to bring about real change. People want politicians focused on the issues that matter: the NHS, education, the economy, infrastructure and the cost of living. That is why Reform has surged across Wales—not because of constitutional obsessions or ideology, but because we are speaking for the people who feel ignored, overtaxed and forgotten: the people stuck on NHS waiting lists, the workers sitting in traffic at the Brynglas tunnels, the parents worried about falling educational standards, and the young people who no longer see a future for themselves in Wales. These are the people that Reform represents. The challenges facing Wales are now too serious for the same tired politics that has failed this country for decades.\n\nPlaid Cymru has had decades to prepare for this moment, so the people of Wales will rightly be expecting immediate action and swift improvements. Hope and platitudes may strike a chord during the election campaign, but governing Wales requires ministerial leadership, delivery and results. That is why I was disappointed to read reports that one of your first discussions with the outgoing Prime Minister touched on independence. I would welcome you setting the record straight on whether those reports are true. Because while the constitutional debates may excite politicians and commentators, most people in Wales are asking far more basic questions: 'Can I get a GP appointment? Will my child receive a decent education? Can I afford my bills? Will my family have opportunities in Wales in four years' time?' These are the issues that matter, and, while your statement today implies that these are your priorities, raising independence with the UK Government suggests that you are distracted by constitutional issues.\n\nYou also discussed with the Prime Minister the Barnett formula and funding, rail, borrowing powers and further devolution. Yet it appears the only topic the Prime Minister was prepared to discuss in the future was devolution. So, people across Wales will understandably ask, 'Where is the progress on funding? Where is the progress on rail? And what is the Government's alternative plan if those requests have been rejected by the UK Government?', because, during the election campaign, many of these proposals were presented as key to funding your major spending commitments.\n\nWe also learnt that your Government is seeking greater borrowing powers. The people of Wales are entitled to know what that borrowing is for. Is it for infrastructure projects that could strengthen the Welsh economy, or is it to fund spending commitments that future generations will ultimately have to pay? Future generations should not be burdened with unsustainable debt because Governments lack the courage to make efficiencies unborrowed.\n\nIn a minority Government, you will need support across this Chamber if you are to govern successfully. There is support here for practical policies that improve healthcare, strengthen infrastructure, back Welsh farming and businesses and restore standards in education. As long as your Government remains focused on these priorities, there is the opportunity for critical but constructive engagement in this Chamber.\n\nBut there is little appetite among ordinary Welsh people for endless constitutional expansion while basic services struggle. The people of Wales are not crying out for more politicians with more powers. They are crying out for politicians to use the powers they already have properly. Wales has had a devolved Government for more than a quarter of a century. So, people are right to ask, 'If the NHS is struggling, if educational outcomes are falling and if economic growth is weak, why is the answer always more powers for politicians instead of better delivery for the public?'\n\nFirst Minister, as leader of the largest opposition group in the Senedd, I can assure you that Reform will be watching closely. Where your Government fails the Welsh people or wastes taxpayers' money or loses sight of the everyday struggles facing ordinary families, we will hold you to account, because the people of Wales voted for real change. Reform will make sure their voices are heard loudly and clearly in this Chamber. Diolch yn fawr.",
       "text_original": "Thank you. First Minister, thank you for your statement today, and congratulations on your election results. The election has shown one thing very clearly: the political landscape in Wales has changed. After decades of Welsh politics looking exactly the same, the people of Wales have finally said enough is enough, with almost a third of voters trusting Reform to bring about real change. People want politicians focused on the issues that matter: the NHS, education, the economy, infrastructure and the cost of living. That is why Reform has surged across Wales—not because of constitutional obsessions or ideology, but because we are speaking for the people who feel ignored, overtaxed and forgotten: the people stuck on NHS waiting lists, the workers sitting in traffic at the Brynglas tunnels, the parents worried about falling educational standards, and the young people who no longer see a future for themselves in Wales. These are the people that Reform represents. The challenges facing Wales are now too serious for the same tired politics that has failed this country for decades.\n\nPlaid Cymru has had decades to prepare for this moment, so the people of Wales will rightly be expecting immediate action and swift improvements. Hope and platitudes may strike a chord during the election campaign, but governing Wales requires ministerial leadership, delivery and results. That is why I was disappointed to read reports that one of your first discussions with the outgoing Prime Minister touched on independence. I would welcome you setting the record straight on whether those reports are true. Because while the constitutional debates may excite politicians and commentators, most people in Wales are asking far more basic questions: 'Can I get a GP appointment? Will my child receive a decent education? Can I afford my bills? Will my family have opportunities in Wales in four years' time?' These are the issues that matter, and, while your statement today implies that these are your priorities, raising independence with the UK Government suggests that you are distracted by constitutional issues.\n\nYou also discussed with the Prime Minister the Barnett formula and funding, rail, borrowing powers and further devolution. Yet it appears the only topic the Prime Minister was prepared to discuss in the future was devolution. So, people across Wales will understandably ask, 'Where is the progress on funding? Where is the progress on rail? And what is the Government's alternative plan if those requests have been rejected by the UK Government?', because, during the election campaign, many of these proposals were presented as key to funding your major spending commitments.\n\nWe also learnt that your Government is seeking greater borrowing powers. The people of Wales are entitled to know what that borrowing is for. Is it for infrastructure projects that could strengthen the Welsh economy, or is it to fund spending commitments that future generations will ultimately have to pay? Future generations should not be burdened with unsustainable debt because Governments lack the courage to make efficiencies unborrowed.\n\nIn a minority Government, you will need support across this Chamber if you are to govern successfully. There is support here for practical policies that improve healthcare, strengthen infrastructure, back Welsh farming and businesses and restore standards in education. As long as your Government remains focused on these priorities, there is the opportunity for critical but constructive engagement in this Chamber.\n\nBut there is little appetite among ordinary Welsh people for endless constitutional expansion while basic services struggle. The people of Wales are not crying out for more politicians with more powers. They are crying out for politicians to use the powers they already have properly. Wales has had a devolved Government for more than a quarter of a century. So, people are right to ask, 'If the NHS is struggling, if educational outcomes are falling and if economic growth is weak, why is the answer always more powers for politicians instead of better delivery for the public?'\n\nFirst Minister, as leader of the largest opposition group in the Senedd, I can assure you that Reform will be watching closely. Where your Government fails the Welsh people or wastes taxpayers' money or loses sight of the everyday struggles facing ordinary families, we will hold you to account, because the people of Wales voted for real change. Reform will make sure their voices are heard loudly and clearly in this Chamber. Diolch yn fawr.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=739"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=739",
+      "unattributed": false
     },
     {
       "id": "contribution-762431",
@@ -175,11 +217,14 @@
       "lang": "en",
       "member_id": "ms-rhun-ap-iorwerth",
       "seq": 8,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 1196,
       "t_start": 1053,
       "text_english": "Can I welcome the leader of the opposition to the Senedd? He is quite right, of course, to say that the political landscape in Wales did change in this election, and it's certainly my intention at all times, as the First Minister, to reflect the plurality of opinion that was expressed in that recent election. We will be having to look for common ground across this Chamber, and I will certainly say that I share that ambition to be effective in our use of public funds in Wales, to be clever in the way that we spend money in the interests of the people that all of us serve. I agree that the things that are important to the people of Wales are the delivery of public services, and that is why that is reflected in the statement that I have issued today, be it on health, or education, or creating jobs, or the childcare offer, and standing up for Wales. These matters are very, very important.\n\nI have no doubt that we will continue to cross swords on the question of ambition for our nation. Maybe I could talk for a minute or two here, Llywydd, about what that ambition is, and I invite everybody to join me at the level of ambition that I'm setting for our nation. The accusation is often made that there is an obsession with the constitution. You know what? I'm obsessed with doing the right thing for Wales. I'm obsessed with taking our nation forward, and that means getting the right tools in our hands to do the job. I'll give you an analogy: you want to put a cupboard up—your screwdriver is broken. We need the tools to do the job, but you continue to struggle on with a broken screwdriver. Let's make the old screwdriver great again. [Laughter.] Let's get the right tools to do the job, and that is all we are talking about when we talk about expanding the powers that we have.\n\nYes, I mentioned independence. I have a level of ambition for my nation where I said that I want to lead a national conversation creating that confidence in our ability, undoubtedly, to be an independent nation like so many countries like ours. But, I said to the Prime Minister, as I have said throughout my time in politics and will continue to do so, we deal with the issues that we deal with now, and we set a journey that the people of Wales will ultimately have to decide on the trajectory and the pace of. I will offer leadership; I will do so here, within the Senedd, in partnership and seeking co-operation with Members across this Senedd, but always with the interests of the people of Wales at heart.",
       "text_original": "Can I welcome the leader of the opposition to the Senedd? He is quite right, of course, to say that the political landscape in Wales did change in this election, and it's certainly my intention at all times, as the First Minister, to reflect the plurality of opinion that was expressed in that recent election. We will be having to look for common ground across this Chamber, and I will certainly say that I share that ambition to be effective in our use of public funds in Wales, to be clever in the way that we spend money in the interests of the people that all of us serve. I agree that the things that are important to the people of Wales are the delivery of public services, and that is why that is reflected in the statement that I have issued today, be it on health, or education, or creating jobs, or the childcare offer, and standing up for Wales. These matters are very, very important.\n\nI have no doubt that we will continue to cross swords on the question of ambition for our nation. Maybe I could talk for a minute or two here, Llywydd, about what that ambition is, and I invite everybody to join me at the level of ambition that I'm setting for our nation. The accusation is often made that there is an obsession with the constitution. You know what? I'm obsessed with doing the right thing for Wales. I'm obsessed with taking our nation forward, and that means getting the right tools in our hands to do the job. I'll give you an analogy: you want to put a cupboard up—your screwdriver is broken. We need the tools to do the job, but you continue to struggle on with a broken screwdriver. Let's make the old screwdriver great again. [Laughter.] Let's get the right tools to do the job, and that is all we are talking about when we talk about expanding the powers that we have.\n\nYes, I mentioned independence. I have a level of ambition for my nation where I said that I want to lead a national conversation creating that confidence in our ability, undoubtedly, to be an independent nation like so many countries like ours. But, I said to the Prime Minister, as I have said throughout my time in politics and will continue to do so, we deal with the issues that we deal with now, and we set a journey that the people of Wales will ultimately have to decide on the trajectory and the pace of. I will offer leadership; I will do so here, within the Senedd, in partnership and seeking co-operation with Members across this Senedd, but always with the interests of the people of Wales at heart.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=1053"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=1053",
+      "unattributed": false
     },
     {
       "id": "contribution-762432",
@@ -187,11 +232,14 @@
       "lang": "cy",
       "member_id": "ms-huw-irranca-davies",
       "seq": 9,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 1198,
       "t_start": 1196,
       "text_english": "I call on Ken Skates.",
       "text_original": "Galwaf ar Ken Skates.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=1196"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=1196",
+      "unattributed": false
     },
     {
       "id": "contribution-762435",
@@ -199,11 +247,14 @@
       "lang": "en",
       "member_id": "ms-ken-skates",
       "seq": 10,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 1228,
       "t_start": 1198,
       "text_english": "Diolch, Lywydd. I think our Labour Members understand better than most in this Chamber the responsibilities and the challenges of Government, and I do wish the First Minister and his colleagues well. Now, of course, the First Minister understands the importance of a rigorous opposition, and I'm sure he'd be the first to say that asking awkward questions is all part of our job. He was pretty adept at it himself in opposition, and now it's his turn to answer them.",
       "text_original": "Diolch, Lywydd. I think our Labour Members understand better than most in this Chamber the responsibilities and the challenges of Government, and I do wish the First Minister and his colleagues well. Now, of course, the First Minister understands the importance of a rigorous opposition, and I'm sure he'd be the first to say that asking awkward questions is all part of our job. He was pretty adept at it himself in opposition, and now it's his turn to answer them.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=1198"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=1198",
+      "unattributed": false
     },
     {
       "id": "contribution-762412",
@@ -211,11 +262,14 @@
       "lang": "en",
       "member_id": "ms-ken-skates",
       "seq": 11,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 1505,
       "t_start": 1228,
       "text_english": "Though it's in its early days, there are some clear areas for improvement in this Government. You have to go back almost a decade to find the last time a First Minister appointed a Government where the majority of members were men, and yet, here we are again. As politicians, we are often, and rightly, reminded that what matters is deeds, not words. This Government certainly does not reflect the diversity of our modern nation.\n\nIt was also disappointing not to see a prominent role for the environment in this Cabinet. I feel for the Green Members in regard to this. Having supported the First Minister's nomination last week, they must be suffering the most severe case of buyer's remorse since Zack Polanski bought a houseboat. We will certainly be pushing to ensure climate change and decarbonisation are not sidelined. So, what will Ministers do to tackle river pollution? Cleaning up our rivers is an environmental imperative that simply cannot be ignored. I was also disappointed by the absence of reference to farming, given just how important food security is to the people we serve.\n\nNow, our duty in opposition is also to demand honesty and transparency, because setting out the priorities and ambitions is actually the easy part of the job. Real leadership, real Government and the real decisions kick in when you have to determine the how, what you won't do, what you'll cut, what you won't pay for. Take, for example, the childcare policy. It's been over seven months since the policy was first announced—seven months—and, still, the public haven't had an answer to that very basic question of how it will be funded. Now that he's in Government, can the First Minister tell us where the £400 million will come from? Look, reprioritising is not a real answer, neither is reviewing child poverty programmes. What will be cut, by how much and who will be affected? That's what the public need and deserve to know.\n\nAnd then, just over the weekend, we heard that Plaid Cymru will increase culture and sports funding by taking money from the NHS. Now, of course, no-one will complain about funding for culture and sports. In power, and through the Fusion programme, we boosted activity through the wider economy, major events and tourism budget. But, again, Plaid Cymru's headline is only half the story. So, how much money will be taken from health services? Given a stated intention to take money from secondary care and place it in primary care, does it mean, therefore, that even more money will be taken from our hospitals? Just how much money will be taken from health services? How many professionals in secondary care may lose their jobs as a result of this? Now, in the election, we pledged to rebuild Wrexham Maelor Hospital and the University Hospital of Wales, and a major hospital development in west Wales. Will this Government do the same?\n\nFor us in Welsh Labour, the priority of the Plaid minority Government should be to deliver improvements across our services, in our hospitals, in our streets, in employment support, and in our schools. As the First Minister will know, thousands of school support staff are living with only being paid during term time. Those are our teaching assistants, our caretakers, kitchen staff and more. We pledged to set up a negotiating body to deliver year-round pay. I know for a fact that a Bill manager is in place right now in this Government, ready to take forward that legislation. So, will this Government commit to taking that forward? School support staff rightly have Welsh Labour's full support, and we will back them in their campaign for fairness.\n\nWith regard to targeted payments for families in receipt of universal credit, Llywydd, people have been promised money within weeks. How many weeks—four or five, or 40 to 50? And has the Government now secured data relating to claimants of universal credit?\n\nOur main focus in opposition will be on whether the Government is improving people's lives at the pace and scale we need, on the bread and butter issues that matter most. Welsh Labour has always served communities and championed the people of Wales, and we will continue in the quest for fairness in a healthier and wealthier Wales.",
       "text_original": "Though it's in its early days, there are some clear areas for improvement in this Government. You have to go back almost a decade to find the last time a First Minister appointed a Government where the majority of members were men, and yet, here we are again. As politicians, we are often, and rightly, reminded that what matters is deeds, not words. This Government certainly does not reflect the diversity of our modern nation.\n\nIt was also disappointing not to see a prominent role for the environment in this Cabinet. I feel for the Green Members in regard to this. Having supported the First Minister's nomination last week, they must be suffering the most severe case of buyer's remorse since Zack Polanski bought a houseboat. We will certainly be pushing to ensure climate change and decarbonisation are not sidelined. So, what will Ministers do to tackle river pollution? Cleaning up our rivers is an environmental imperative that simply cannot be ignored. I was also disappointed by the absence of reference to farming, given just how important food security is to the people we serve.\n\nNow, our duty in opposition is also to demand honesty and transparency, because setting out the priorities and ambitions is actually the easy part of the job. Real leadership, real Government and the real decisions kick in when you have to determine the how, what you won't do, what you'll cut, what you won't pay for. Take, for example, the childcare policy. It's been over seven months since the policy was first announced—seven months—and, still, the public haven't had an answer to that very basic question of how it will be funded. Now that he's in Government, can the First Minister tell us where the £400 million will come from? Look, reprioritising is not a real answer, neither is reviewing child poverty programmes. What will be cut, by how much and who will be affected? That's what the public need and deserve to know.\n\nAnd then, just over the weekend, we heard that Plaid Cymru will increase culture and sports funding by taking money from the NHS. Now, of course, no-one will complain about funding for culture and sports. In power, and through the Fusion programme, we boosted activity through the wider economy, major events and tourism budget. But, again, Plaid Cymru's headline is only half the story. So, how much money will be taken from health services? Given a stated intention to take money from secondary care and place it in primary care, does it mean, therefore, that even more money will be taken from our hospitals? Just how much money will be taken from health services? How many professionals in secondary care may lose their jobs as a result of this? Now, in the election, we pledged to rebuild Wrexham Maelor Hospital and the University Hospital of Wales, and a major hospital development in west Wales. Will this Government do the same?\n\nFor us in Welsh Labour, the priority of the Plaid minority Government should be to deliver improvements across our services, in our hospitals, in our streets, in employment support, and in our schools. As the First Minister will know, thousands of school support staff are living with only being paid during term time. Those are our teaching assistants, our caretakers, kitchen staff and more. We pledged to set up a negotiating body to deliver year-round pay. I know for a fact that a Bill manager is in place right now in this Government, ready to take forward that legislation. So, will this Government commit to taking that forward? School support staff rightly have Welsh Labour's full support, and we will back them in their campaign for fairness.\n\nWith regard to targeted payments for families in receipt of universal credit, Llywydd, people have been promised money within weeks. How many weeks—four or five, or 40 to 50? And has the Government now secured data relating to claimants of universal credit?\n\nOur main focus in opposition will be on whether the Government is improving people's lives at the pace and scale we need, on the bread and butter issues that matter most. Welsh Labour has always served communities and championed the people of Wales, and we will continue in the quest for fairness in a healthier and wealthier Wales.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=1228"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=1228",
+      "unattributed": false
     },
     {
       "id": "contribution-762441",
@@ -223,11 +277,14 @@
       "lang": "en",
       "member_id": "ms-rhun-ap-iorwerth",
       "seq": 12,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 1718,
       "t_start": 1505,
       "text_english": "Diolch yn fawr iawn. I also welcome the leader of the Labour group here. I welcome and embrace the robust opposition and scrutiny I know we will receive. If it helps, I didn't try to be awkward, but I fully expect awkwardness from time to time, and I will take the awkwardness in the spirit that I'm sure it's meant in.\n\nI will hold him to account for his mathematics, first of all, in that we have a 50-50 ministerial split between men and women in this Government. I have to make a stand for Llyr Gruffydd in that he was picked on, rather, in that contribution, because of his outstanding background as Chair of the climate change committee here. He will be an excellent Cabinet Minister for the environment. This is an issue that has always been an issue that is at the heart of Plaid Cymru's vision for our nation, to develop a green nation for the environmental benefits that that brings, for the jobs benefits that that brings, and we will be a Government that drives forward a strong green agenda. To also suggest Llyr Gruffydd of not being a champion for agriculture is one that won't go down well in many quarters of the agriculture sector, because I know we need champions for farming, and I'm proud to have Llyr in my team, offering that leadership, working alongside the agriculture sector to deliver the very best for such a key part, not just of the economy, but of society in Wales.\n\nOn funding, we have laid out plans that, yes, are ambitious but that we know are achievable. That is what people should be able to expect from a Government—not going for the easy option, but pushing the boundaries of what we might be able to achieve as a Government. I remember the previous Labour administration making it clear that in no way would school meals be affordable, but, of course, through Plaid Cymru's influence from opposition, it was shown that not only was it affordable, but that it was necessary in order to provide the equal opportunities for children in our schools. The same will be our guiding principles this time. We know what needs to be done; we know they're challenging. And looking at childcare, yes, there's a focus, understandably, on the finances, which we know will be manageable, though pushing our limits as Ministers, but it's the workforce that we also have to focus on, how we make sure that we have enough people to put in place this ambitious programme to help families and help them with the cost of living. We will give it our best shot with a programme carefully thought out, carefully planned, and it's a pleasure now being able to work with those civil servants who will enable us to deliver.\n\nOn a few of the issues mentioned towards the end of the contribution, we were reminded, Llywydd, of the programme for government put forward by Labour in the recent election. That was a programme for government that was rejected by the people of Wales, but where there are good ideas across political parties, let's talk about those and see how we can put in place a set of ideas and ideals that can take Wales forward, drawing on talent, wherever that comes from, across this Senedd.",
       "text_original": "Diolch yn fawr iawn. I also welcome the leader of the Labour group here. I welcome and embrace the robust opposition and scrutiny I know we will receive. If it helps, I didn't try to be awkward, but I fully expect awkwardness from time to time, and I will take the awkwardness in the spirit that I'm sure it's meant in.\n\nI will hold him to account for his mathematics, first of all, in that we have a 50-50 ministerial split between men and women in this Government. I have to make a stand for Llyr Gruffydd in that he was picked on, rather, in that contribution, because of his outstanding background as Chair of the climate change committee here. He will be an excellent Cabinet Minister for the environment. This is an issue that has always been an issue that is at the heart of Plaid Cymru's vision for our nation, to develop a green nation for the environmental benefits that that brings, for the jobs benefits that that brings, and we will be a Government that drives forward a strong green agenda. To also suggest Llyr Gruffydd of not being a champion for agriculture is one that won't go down well in many quarters of the agriculture sector, because I know we need champions for farming, and I'm proud to have Llyr in my team, offering that leadership, working alongside the agriculture sector to deliver the very best for such a key part, not just of the economy, but of society in Wales.\n\nOn funding, we have laid out plans that, yes, are ambitious but that we know are achievable. That is what people should be able to expect from a Government—not going for the easy option, but pushing the boundaries of what we might be able to achieve as a Government. I remember the previous Labour administration making it clear that in no way would school meals be affordable, but, of course, through Plaid Cymru's influence from opposition, it was shown that not only was it affordable, but that it was necessary in order to provide the equal opportunities for children in our schools. The same will be our guiding principles this time. We know what needs to be done; we know they're challenging. And looking at childcare, yes, there's a focus, understandably, on the finances, which we know will be manageable, though pushing our limits as Ministers, but it's the workforce that we also have to focus on, how we make sure that we have enough people to put in place this ambitious programme to help families and help them with the cost of living. We will give it our best shot with a programme carefully thought out, carefully planned, and it's a pleasure now being able to work with those civil servants who will enable us to deliver.\n\nOn a few of the issues mentioned towards the end of the contribution, we were reminded, Llywydd, of the programme for government put forward by Labour in the recent election. That was a programme for government that was rejected by the people of Wales, but where there are good ideas across political parties, let's talk about those and see how we can put in place a set of ideas and ideals that can take Wales forward, drawing on talent, wherever that comes from, across this Senedd.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=1505"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=1505",
+      "unattributed": false
     },
     {
       "id": "contribution-762446",
@@ -235,11 +292,14 @@
       "lang": "cy",
       "member_id": "ms-huw-irranca-davies",
       "seq": 13,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 1720,
       "t_start": 1718,
       "text_english": "Thank you. Next, Darren Millar.",
       "text_original": "Diolch. Nesaf, Darren Millar.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=1718"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=1718",
+      "unattributed": false
     },
     {
       "id": "contribution-762447",
@@ -247,11 +307,14 @@
       "lang": "en",
       "member_id": "ms-darren-millar",
       "seq": 14,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 2078,
       "t_start": 1720,
       "text_english": "Diolch, Lywydd. First Minister, can I congratulate you on your appointment and also thank you for your statement today that was received just seven minutes before this session of Plenary began? A convention, of course, in terms of pre-sharing statements, that you would have complained about had you received a statement seven minutes before. \n\nSo, we've had 27 years of Labour Government in Wales. It's very clear that the people of Wales voted for change, and, of course, the change that has happened is not the change that my party was looking for. We would have liked a very different Senedd, but the voters have cast their views and I know that you are passionate about this country and wanting to improve it. I don't doubt that that is your commitment, and indeed the commitment of all Members of this Chamber, regardless of their political allegiances. And whilst we will disagree with you on many issues, we also, on these benches, share your ambition for a stronger Wales with a better health service, a better education system with higher standards and a much more dynamic and strong economy, creating the well-paid jobs that the people of Wales need.\n\nSo, I will give you this commitment, First Minister: when you bring forward, and your fellow Members of the Cabinet bring forward, sensible measures that will genuinely improve the lives of people here in Wales, we will support you. But I want to also be clear that, when we feel that those ambitions are being undermined by decisions that your Government takes, we will hold your feet to the fire, because that is our duty as a responsible opposition here in this Senedd. We want to hold you rigorously to account for delivery for the people of Wales.\n\nNow, in the run-up to the election, and you've referenced it today in your statement, you published that plan, the 100-day plan for the first 100 days of a Plaid Government. Of course, the clock is already ticking. We're already a week in since you were appointed as First Minister. And, of course, the 100 days will be up in the middle of August, during the recess. So the sands of time are already beginning to rush downwards, and you have just 90-odd days now to deliver on this 100-day plan. Now, in your statement today, you referenced the NHS, something of course that is precious to all of us, and we all want it to succeed and improve. Now, in the past, your party has supported in this Chamber our calls for the declaration of an NHS emergency in order that the Government can be focused on delivering urgent improvements in our NHS, particularly with regard to life-threatening care and treatment in our emergency departments because of the underperformance of those. Can I ask you: do you intend to declare a health emergency so that we can focus on the NHS within these 100 days that you've referred to? Because you didn't refer to it specifically in terms of a health emergency in your statement.\n\nCan I also ask you—? There were other things that you didn't mention in your statement that I think we can find some common ground on. So, for example, in your 100 days document, you refer to restricting the use of mobile phones in schools. Now, that's something that our party's been calling for for quite some time. We stand ready to support you on the delivery of that ambition. Can you tell us: are you prepared to deliver it? What have you already done to trigger the necessary actions to be able to deliver it? You mentioned a local government funding formula review—again, something that we have in common with you. We want to see that funding formula reviewed. It's not fair at the moment, particularly to local authorities in rural communities. And it's not fair either in terms of the disparities around generational funding, because it's outdated. It's not fit for purpose.\n\nYou touched on renewables in your answer on sustainability earlier on. One of the things that is a concern across Wales at the moment, and it will have been reiterated to you and many of your candidates on the doorsteps during the recent election campaign, are the proposals across Wales for large-scale solar and windfarms in our rural communities. Will you initiate, as a matter of urgency, a moratorium on all new planning applications for such developments in order that we can protect our landscapes from unnecessary industrialisation? I think that that's extremely important, and we need to have a signal from you immediately.\n\nCan I also ask—? You didn't refer in your 100 days document to the nuclear energy industry. That’s perhaps not surprising, given that your party's got various views on this particular matter, but it is important, of course, in your own constituency and in north-west Wales, and we want to see the rapid delivery of new jobs in the nuclear industry in the new facility in Wylfa in particular, and at Trawsfynydd in the future. Can you tell us what action is your Government going to take over the next 100 days in order to help to facilitate those jobs?\n\nAnd if I can, just in conclusion, Llywydd, one of the other things that you didn't mention, which is very, very important for people across Wales and is something that they're still concerned about, is grooming gangs. So, we know that there have been grooming gangs operating in Wales. We've called in the past for a Wales-wide inquiry into grooming gangs. We've had discussions and debates in this Chamber, I know, but, given that you're now in Government, will you review the information that's available to you in Government to determine whether this is something we can also agree on and work collaboratively on so that we can keep vulnerable young people, children, and especially our girls, safe? Thank you.",
       "text_original": "Diolch, Lywydd. First Minister, can I congratulate you on your appointment and also thank you for your statement today that was received just seven minutes before this session of Plenary began? A convention, of course, in terms of pre-sharing statements, that you would have complained about had you received a statement seven minutes before. \n\nSo, we've had 27 years of Labour Government in Wales. It's very clear that the people of Wales voted for change, and, of course, the change that has happened is not the change that my party was looking for. We would have liked a very different Senedd, but the voters have cast their views and I know that you are passionate about this country and wanting to improve it. I don't doubt that that is your commitment, and indeed the commitment of all Members of this Chamber, regardless of their political allegiances. And whilst we will disagree with you on many issues, we also, on these benches, share your ambition for a stronger Wales with a better health service, a better education system with higher standards and a much more dynamic and strong economy, creating the well-paid jobs that the people of Wales need.\n\nSo, I will give you this commitment, First Minister: when you bring forward, and your fellow Members of the Cabinet bring forward, sensible measures that will genuinely improve the lives of people here in Wales, we will support you. But I want to also be clear that, when we feel that those ambitions are being undermined by decisions that your Government takes, we will hold your feet to the fire, because that is our duty as a responsible opposition here in this Senedd. We want to hold you rigorously to account for delivery for the people of Wales.\n\nNow, in the run-up to the election, and you've referenced it today in your statement, you published that plan, the 100-day plan for the first 100 days of a Plaid Government. Of course, the clock is already ticking. We're already a week in since you were appointed as First Minister. And, of course, the 100 days will be up in the middle of August, during the recess. So the sands of time are already beginning to rush downwards, and you have just 90-odd days now to deliver on this 100-day plan. Now, in your statement today, you referenced the NHS, something of course that is precious to all of us, and we all want it to succeed and improve. Now, in the past, your party has supported in this Chamber our calls for the declaration of an NHS emergency in order that the Government can be focused on delivering urgent improvements in our NHS, particularly with regard to life-threatening care and treatment in our emergency departments because of the underperformance of those. Can I ask you: do you intend to declare a health emergency so that we can focus on the NHS within these 100 days that you've referred to? Because you didn't refer to it specifically in terms of a health emergency in your statement.\n\nCan I also ask you—? There were other things that you didn't mention in your statement that I think we can find some common ground on. So, for example, in your 100 days document, you refer to restricting the use of mobile phones in schools. Now, that's something that our party's been calling for for quite some time. We stand ready to support you on the delivery of that ambition. Can you tell us: are you prepared to deliver it? What have you already done to trigger the necessary actions to be able to deliver it? You mentioned a local government funding formula review—again, something that we have in common with you. We want to see that funding formula reviewed. It's not fair at the moment, particularly to local authorities in rural communities. And it's not fair either in terms of the disparities around generational funding, because it's outdated. It's not fit for purpose.\n\nYou touched on renewables in your answer on sustainability earlier on. One of the things that is a concern across Wales at the moment, and it will have been reiterated to you and many of your candidates on the doorsteps during the recent election campaign, are the proposals across Wales for large-scale solar and windfarms in our rural communities. Will you initiate, as a matter of urgency, a moratorium on all new planning applications for such developments in order that we can protect our landscapes from unnecessary industrialisation? I think that that's extremely important, and we need to have a signal from you immediately.\n\nCan I also ask—? You didn't refer in your 100 days document to the nuclear energy industry. That’s perhaps not surprising, given that your party's got various views on this particular matter, but it is important, of course, in your own constituency and in north-west Wales, and we want to see the rapid delivery of new jobs in the nuclear industry in the new facility in Wylfa in particular, and at Trawsfynydd in the future. Can you tell us what action is your Government going to take over the next 100 days in order to help to facilitate those jobs?\n\nAnd if I can, just in conclusion, Llywydd, one of the other things that you didn't mention, which is very, very important for people across Wales and is something that they're still concerned about, is grooming gangs. So, we know that there have been grooming gangs operating in Wales. We've called in the past for a Wales-wide inquiry into grooming gangs. We've had discussions and debates in this Chamber, I know, but, given that you're now in Government, will you review the information that's available to you in Government to determine whether this is something we can also agree on and work collaboratively on so that we can keep vulnerable young people, children, and especially our girls, safe? Thank you.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=1720"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=1720",
+      "unattributed": false
     },
     {
       "id": "contribution-762442",
@@ -259,11 +322,14 @@
       "lang": "cy",
       "member_id": "ms-rhun-ap-iorwerth",
       "seq": 15,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 2081,
       "t_start": 2078,
       "text_english": "Thank you very much for that contribution.",
       "text_original": "Diolch yn fawr am y cyfraniad yna.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=2078"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=2078",
+      "unattributed": false
     },
     {
       "id": "contribution-762443",
@@ -271,11 +337,14 @@
       "lang": "en",
       "member_id": "ms-rhun-ap-iorwerth",
       "seq": 16,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 2283,
       "t_start": 2081,
       "text_english": "A number of issues were touched on. I wouldn't have been happy if it hadn't started with a complaint, but we'll make sure, of course, that statements get to you on time.\n\nA number of issues. On health, I'll use the words: we clearly face an emergency within the NHS in Wales. We clearly face a crisis within the NHS in Wales. But far more important than what you call it is what you do in response, and that's why the Cabinet Minister for Health and Care has been charged with beginning, not next week, but already, to put in place those measures that we have already outlined in order to deal with, yes, the issue of waiting times and the pressing need to take action on that front, but also the longer term thinking, the preventative agenda, the women's health agenda, the mental health agenda and so on. So, we can think what we call it, or we can think what we do.\n\nOn the mobile phones, there is a manifesto commitment—you're quite right—to help schools to limit the use of mobile phones. That is something that, absolutely, we will want to pursue in Government.\n\nA couple of issues on energy. The first one: non-devolved energy is absolutely in the recent manifesto. And of course, we will be, as I have been, active in ensuring that Wales is able to benefit from the opportunities there, albeit without direct impact on decisions, because they are non-devolved. And on those renewable schemes, wherever they might be, the difference of approach from this Government is a very, very clear focus on where the community sits. We are in favour of renewable energy generation. I hope that, as a principle, that is something that we all are able to sign up for. As I mentioned earlier, it's for environmental reasons, it's for economic reasons. We should be making the most of those opportunities. But missing, too often, from considerations has been the impact—negative, in the need for mitigation, and positive, in terms of community ownership and so on—that can flow from energy projects. That will be a core principle that will guide us as a Government.\n\nOn the final issue, of course, I'm very happy to say—and it's important to say—that this Government will be doing everything that we possibly can to ensure that measures are taken to look after the well-being of people, working with the police. Again, non-devolved. We need responsibility for criminal justice and policing in Wales so that we have more of a grasp on the measures that we can take in order to address the issues mentioned. Again, that level of drive to get the tools that we need in our hands is something that will guide this Government always.\n\nOh, and can I say, finally, as well, one last thing? Yes, I'm passionate for Wales, but I also firmly believe that passion for Wales isn't a monopoly that Plaid Cymru has. Now, I want to draw out that passion in everybody here and translate that passion into ideas of how we can move things forward through our Parliament for the betterment of the lives of all the people of our nation.",
       "text_original": "A number of issues were touched on. I wouldn't have been happy if it hadn't started with a complaint, but we'll make sure, of course, that statements get to you on time.\n\nA number of issues. On health, I'll use the words: we clearly face an emergency within the NHS in Wales. We clearly face a crisis within the NHS in Wales. But far more important than what you call it is what you do in response, and that's why the Cabinet Minister for Health and Care has been charged with beginning, not next week, but already, to put in place those measures that we have already outlined in order to deal with, yes, the issue of waiting times and the pressing need to take action on that front, but also the longer term thinking, the preventative agenda, the women's health agenda, the mental health agenda and so on. So, we can think what we call it, or we can think what we do.\n\nOn the mobile phones, there is a manifesto commitment—you're quite right—to help schools to limit the use of mobile phones. That is something that, absolutely, we will want to pursue in Government.\n\nA couple of issues on energy. The first one: non-devolved energy is absolutely in the recent manifesto. And of course, we will be, as I have been, active in ensuring that Wales is able to benefit from the opportunities there, albeit without direct impact on decisions, because they are non-devolved. And on those renewable schemes, wherever they might be, the difference of approach from this Government is a very, very clear focus on where the community sits. We are in favour of renewable energy generation. I hope that, as a principle, that is something that we all are able to sign up for. As I mentioned earlier, it's for environmental reasons, it's for economic reasons. We should be making the most of those opportunities. But missing, too often, from considerations has been the impact—negative, in the need for mitigation, and positive, in terms of community ownership and so on—that can flow from energy projects. That will be a core principle that will guide us as a Government.\n\nOn the final issue, of course, I'm very happy to say—and it's important to say—that this Government will be doing everything that we possibly can to ensure that measures are taken to look after the well-being of people, working with the police. Again, non-devolved. We need responsibility for criminal justice and policing in Wales so that we have more of a grasp on the measures that we can take in order to address the issues mentioned. Again, that level of drive to get the tools that we need in our hands is something that will guide this Government always.\n\nOh, and can I say, finally, as well, one last thing? Yes, I'm passionate for Wales, but I also firmly believe that passion for Wales isn't a monopoly that Plaid Cymru has. Now, I want to draw out that passion in everybody here and translate that passion into ideas of how we can move things forward through our Parliament for the betterment of the lives of all the people of our nation.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=2081"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=2081",
+      "unattributed": false
     },
     {
       "id": "contribution-762433",
@@ -283,11 +352,14 @@
       "lang": "cy",
       "member_id": "ms-huw-irranca-davies",
       "seq": 17,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 2302,
       "t_start": 2283,
       "text_english": "Thank you. I am giving a great deal of latitude this afternoon. But now, importantly, for other Members, you will have just one minute. And first of all, I call on Zaynub Akbar.",
       "text_original": "Diolch. Dwi'n rhoi llawer o latitude y prynhawn yma. Ond nawr, yn bwysig iawn, i'r Aelodau eraill, un funud, os gwelwch yn dda—un funud. Ac yn gyntaf, Zaynub Akbar.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=2283"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=2283",
+      "unattributed": false
     },
     {
       "id": "contribution-762434",
@@ -295,11 +367,14 @@
       "lang": "en",
       "member_id": "ms-zaynub-akbar",
       "seq": 18,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 2371,
       "t_start": 2302,
       "text_english": "Diolch, Lywydd. Families across Cardiff are facing rising childcare costs at a time when too many children are growing up in poverty. Parents should not be forced to choose between work and affordable childcare, and every child deserves the best possible start in life. This challenge is particularly acute right now across Cardiff, where 41.6 per cent of children are living in income deprivation, higher than the Wales average of 38.7 per cent, highlighting the scale of need in our communities. I welcome this Government's commitment to expanding childcare provision and tackling child poverty once and for all. Does the First Minister agree with me that investing in a universal childcare offer is one of the most effective ways of supporting families, boosting employment and giving children a fair start? And will he outline how those benefits will be delivered in communities across Cardiff, and, indeed, across the whole of Wales? Diolch.",
       "text_original": "Diolch, Lywydd. Families across Cardiff are facing rising childcare costs at a time when too many children are growing up in poverty. Parents should not be forced to choose between work and affordable childcare, and every child deserves the best possible start in life. This challenge is particularly acute right now across Cardiff, where 41.6 per cent of children are living in income deprivation, higher than the Wales average of 38.7 per cent, highlighting the scale of need in our communities. I welcome this Government's commitment to expanding childcare provision and tackling child poverty once and for all. Does the First Minister agree with me that investing in a universal childcare offer is one of the most effective ways of supporting families, boosting employment and giving children a fair start? And will he outline how those benefits will be delivered in communities across Cardiff, and, indeed, across the whole of Wales? Diolch.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=2302"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=2302",
+      "unattributed": false
     },
     {
       "id": "contribution-762437",
@@ -307,11 +382,14 @@
       "lang": "en",
       "member_id": "ms-rhun-ap-iorwerth",
       "seq": 19,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 2452,
       "t_start": 2371,
       "text_english": "Diolch yn fawr iawn, and I welcome Zaynub Akbar to the Senedd. I have to be particularly careful in answering this question, as you nominated me to be the First Minister. [Laughter.] Who knows? I might not be here, were it not for Zaynub Akbar.\n\nBut I agree with you very much. Plaid Cymru identified, Llywydd, this as an issue that we were prioritising because it is needed. It's needed by families. It's needed by communities. We will look at the current childcare offer for Wales and Flying Start childcare programmes to learn from them, because this is by no means a Government that wants to throw everything out and start again. Where there's good practice, we build on it, so we look at what has been in place and help shape, from that learning, what the future of childcare looks like in Wales. Our focus is on expanding access, ensuring the system is sustainable and high quality. We'll take a phased, sustainable approach, working closely with local authorities and the sector, of course, to build capacity and maintain quality, because expanding childcare must go hand in hand with supporting providers and the workforce, and we know, Llywydd, that demand for childcare is increasing, reflecting just how important these services are to families in Caerdydd Ffynnon Taf, as in the rest of Wales.",
       "text_original": "Diolch yn fawr iawn, and I welcome Zaynub Akbar to the Senedd. I have to be particularly careful in answering this question, as you nominated me to be the First Minister. [Laughter.] Who knows? I might not be here, were it not for Zaynub Akbar.\n\nBut I agree with you very much. Plaid Cymru identified, Llywydd, this as an issue that we were prioritising because it is needed. It's needed by families. It's needed by communities. We will look at the current childcare offer for Wales and Flying Start childcare programmes to learn from them, because this is by no means a Government that wants to throw everything out and start again. Where there's good practice, we build on it, so we look at what has been in place and help shape, from that learning, what the future of childcare looks like in Wales. Our focus is on expanding access, ensuring the system is sustainable and high quality. We'll take a phased, sustainable approach, working closely with local authorities and the sector, of course, to build capacity and maintain quality, because expanding childcare must go hand in hand with supporting providers and the workforce, and we know, Llywydd, that demand for childcare is increasing, reflecting just how important these services are to families in Caerdydd Ffynnon Taf, as in the rest of Wales.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=2371"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=2371",
+      "unattributed": false
     },
     {
       "id": "contribution-762445",
@@ -319,11 +397,14 @@
       "lang": "cy",
       "member_id": "ms-helen-jenner",
       "seq": 20,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 2499,
       "t_start": 2452,
       "text_english": "As one who has come straight from a classroom job as a teacher to the Senedd, I know how important teachers are to the future of Wales. Every day, teachers do much more than just teach. They support young people, help families and work under great pressure. But, as I know, many teachers today are facing stress, behavioural problems from pupils and an increasing workload. This makes it difficult to keep staff and to encourage young people to follow a career in the profession. So, First Minister, what will the Welsh Government do to safeguard and support teachers in the workplace and to ensure that education is an attractive career in Wales? Thank you.",
       "text_original": "Fel rhywun sydd wedi dod yn syth o swydd dysgu yn y dosbarth i'r Senedd, dwi'n gwybod pa mor bwysig yw athrawon i ddyfodol Cymru. Bob dydd, mae athrawon yn gwneud llawer mwy na dysgu. Maen nhw'n cefnogi pobl ifanc, yn helpu teuluoedd ac yn gweithio o dan bwysau mawr. Ond, fel y gwn i, mae llawer o athrawon heddiw yn wynebu straen, problemau ymddygiad gan ddisgyblion a llwyth gwaith cynyddol. Mae hyn yn ei gwneud hi'n anodd cadw staff profiadol ac annog pobl ifanc i ddilyn gyrfa yn y proffesiwn. Felly, Brif Weinidog, beth fydd Llywodraeth Cymru yn ei wneud i ddiogelu a chefnogi athrawon yn y gweithle a sicrhau bod addysg yn yrfa ddeniadol yng Nghymru? Diolch yn fawr.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=2452"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=2452",
+      "unattributed": false
     },
     {
       "id": "contribution-762452",
@@ -331,11 +412,14 @@
       "lang": "cy",
       "member_id": "ms-rhun-ap-iorwerth",
       "seq": 21,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 2606,
       "t_start": 2499,
       "text_english": "Thank you very much for that question, and could I welcome the Member for Bangor Conwy Môn to the Senedd? It's very important, of course, that we do think about the pupils and what we want to enable them to achieve, but also to achieve for those who support them and enable that success as well. I have been a pupil and a parent, so the pupil side and their well-being is alive for me. Both my parents were teachers, and both of them have been presidents of teachers unions, so issues relating to teachers' well-being have been issues that I have experienced throughout my life.\n\nWe have described a vision for education in Wales promoting the importance of education within the nation in Wales. Too often, education has been allowed to slide in terms of the list of national priorities. This Government won't allow that to happen. And we have mentioned, of course, the numeracy and literacy scheme that will allow pupils to achieve their potential. But supporting teachers, recruiting more teachers, ensuring that the profession is attractive, is vital in order to achieve that vision. Without good teachers, children won't succeed. And, working with the Cabinet Minister, we will ensure, in every way that we operate, that teachers do understand that this is a Government that is on their side.",
       "text_original": "Diolch yn fawr iawn am y cwestiwn yna, a dwi'n croesawu'r Aelod dros Fangor Conwy Môn i'r Senedd yma. Mae'n bwysig iawn, wrth gwrs, ein bod ni'n meddwl, wastad, am y disgyblion a’r hyn rydyn ni am eu galluogi nhw i’w gyflawni, ond bob amser yn cyflawni i'r rheini sydd yn gefn iddyn nhw ac yn galluogi'r llwyddiant hwnnw. Dwi wedi bod yn ddisgybl ac yn rhiant, felly mae'r ochr disgyblion a'u lles nhw yn rhywbeth sydd yn fyw iawn i fi. Roedd fy nau riant i yn athrawon, a'r ddau ohonyn nhw'n llywyddion undeb athrawon, felly mae materion yn ymwneud â lles athrawon yn rhywbeth sydd wedi bod o fy nghwmpas i drwy gydol fy mywyd.\n\nRydyn ni wedi disgrifio gweledigaeth ar gyfer addysg yng Nghymru yn dyrchafu pwysigrwydd addysg eto o fewn y genedl yng Nghymru. Yn rhy aml mae addysg wedi cael ei adael i lithro, dwi'n meddwl, yn y rhestr o flaenoriaethau cenedlaethol. Wnaiff y Llywodraeth yma ddim caniatáu i hynny ddigwydd. Ac rydyn ni wedi sôn, onid ydyn, am y cynllun llythrennedd a rhifedd fydd yn galluogi disgyblion i gyrraedd eu potensial. Ond mae cefnogi athrawon, recriwtio rhagor o athrawon, sicrhau bod y proffesiwn yn ddeniadol, yn gwbl, gwbl angenrheidiol er mwyn gwireddu'r weledigaeth honno. Heb athrawon da, fydd plant ddim yn llwyddo. Ac, yn gweithio efo'r Gweinidog Cabinet, mi wnawn ni'n siŵr, ym mhob modd rydyn ni'n gweithredu, fod athrawon yn deall bod hon yn Llywodraeth sydd ar eu hochr nhw.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=2499"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=2499",
+      "unattributed": false
     },
     {
       "id": "contribution-762463",
@@ -343,11 +427,14 @@
       "lang": "en",
       "member_id": "ms-shav-taj",
       "seq": 22,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 2659,
       "t_start": 2606,
       "text_english": "In my constituency of Caerdydd Ffynnon Taf, and in communities across Wales, hard-working school support staff are still only paid during term time. Welsh Labour committed to a school support staff negotiating body, and that framework is very much ready. This is all about pay, leading to fairer wages, ending postcode pay gaps; job security, making sure that people have clearer contracts, fewer short-term roles; pupil support staff, making sure that gives schools an opportunity on better recruitment and retention; stability for children; equality—because, of course, 90 per cent of school support staff are women—and fair pay would lift thousands of families out of in-work poverty. So, as the TUC Congress now kicks off today, calling for a better deal for workers, will the First Minister now commit to delivering it at pace?",
       "text_original": "In my constituency of Caerdydd Ffynnon Taf, and in communities across Wales, hard-working school support staff are still only paid during term time. Welsh Labour committed to a school support staff negotiating body, and that framework is very much ready. This is all about pay, leading to fairer wages, ending postcode pay gaps; job security, making sure that people have clearer contracts, fewer short-term roles; pupil support staff, making sure that gives schools an opportunity on better recruitment and retention; stability for children; equality—because, of course, 90 per cent of school support staff are women—and fair pay would lift thousands of families out of in-work poverty. So, as the TUC Congress now kicks off today, calling for a better deal for workers, will the First Minister now commit to delivering it at pace?",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=2606"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=2606",
+      "unattributed": false
     },
     {
       "id": "contribution-762466",
@@ -355,11 +442,14 @@
       "lang": "cy",
       "member_id": "ms-rhun-ap-iorwerth",
       "seq": 23,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 2666,
       "t_start": 2659,
       "text_english": "Thank you very much for the question and, once again, welcome to a second Member from Caerdydd Ffynnon Taf to the Senedd.",
       "text_original": "Diolch yn fawr iawn am y cwestiwn ac, unwaith eto, croeso i'r ail Aelod o Gaerdydd Ffynnon Taf yma i'r Senedd.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=2659"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=2659",
+      "unattributed": false
     },
     {
       "id": "contribution-762470",
@@ -367,11 +457,14 @@
       "lang": "en",
       "member_id": "ms-rhun-ap-iorwerth",
       "seq": 24,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 2728,
       "t_start": 2666,
       "text_english": "Clearly, it is important that we have advocates here for the public sector workforce and the wider workforce in Wales, and I know the Member, given her background, will be a strong advocate for workers everywhere.\n\nOn school support staff, clearly this is an issue that was highlighted by her party, and everybody I think would sympathise. From my own experience, in my time in politics, I saw people moving away from a time when that pay was year-round to the new structures. I think we have to have an eye on how we address these issues moving forward, but there are also other ways in which we can show that, as a Government, we support that wider school workforce. We mentioned teachers, but it's very, very important, of course, to remember that the teaching workforce is only a part of that workforce in schools and, as a Government, we have to be, quite rightly, looking for ways of showing that support in practical terms.",
       "text_original": "Clearly, it is important that we have advocates here for the public sector workforce and the wider workforce in Wales, and I know the Member, given her background, will be a strong advocate for workers everywhere.\n\nOn school support staff, clearly this is an issue that was highlighted by her party, and everybody I think would sympathise. From my own experience, in my time in politics, I saw people moving away from a time when that pay was year-round to the new structures. I think we have to have an eye on how we address these issues moving forward, but there are also other ways in which we can show that, as a Government, we support that wider school workforce. We mentioned teachers, but it's very, very important, of course, to remember that the teaching workforce is only a part of that workforce in schools and, as a Government, we have to be, quite rightly, looking for ways of showing that support in practical terms.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=2666"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=2666",
+      "unattributed": false
     },
     {
       "id": "contribution-762444",
@@ -379,11 +472,14 @@
       "lang": "en",
       "member_id": "ms-paul-davies",
       "seq": 25,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 2803,
       "t_start": 2728,
       "text_english": "First Minister, the priorities of the people of Ceredigion Penfro were made very clear during the Senedd election campaign: they want to see their local hospital services—that is, general emergency surgery and the stroke unit—staying put at Withybush and Bronglais hospitals respectively. They want the Welsh Government to intervene and stop Hywel Dda University Health Board from downgrading and centralising services further away from communities in west Wales.\n\nYour party made it clear that removing these services means longer journey times for people in urgent need, and that it would put lives at risk. Given some of the comments we heard during the election campaign about standing up for small rural hospitals, it's vital that the Welsh Government now urgently intervenes to stop the health board from taking services away from these hospitals. Therefore, First Minister, given the commitments made during the election campaign, can you confirm that it's still your party's and therefore your Government's intention to protect services at Withybush and Bronglais hospitals? If so, when will your Government be intervening to stop the removal of these services from these hospitals?",
       "text_original": "First Minister, the priorities of the people of Ceredigion Penfro were made very clear during the Senedd election campaign: they want to see their local hospital services—that is, general emergency surgery and the stroke unit—staying put at Withybush and Bronglais hospitals respectively. They want the Welsh Government to intervene and stop Hywel Dda University Health Board from downgrading and centralising services further away from communities in west Wales.\n\nYour party made it clear that removing these services means longer journey times for people in urgent need, and that it would put lives at risk. Given some of the comments we heard during the election campaign about standing up for small rural hospitals, it's vital that the Welsh Government now urgently intervenes to stop the health board from taking services away from these hospitals. Therefore, First Minister, given the commitments made during the election campaign, can you confirm that it's still your party's and therefore your Government's intention to protect services at Withybush and Bronglais hospitals? If so, when will your Government be intervening to stop the removal of these services from these hospitals?",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=2728"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=2728",
+      "unattributed": false
     },
     {
       "id": "contribution-762449",
@@ -391,11 +487,14 @@
       "lang": "en",
       "member_id": "ms-rhun-ap-iorwerth",
       "seq": 26,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 2864,
       "t_start": 2803,
       "text_english": "Thank you for the question, and welcome back to the Senedd. The Cabinet Minister for Health and Care will be very, very aware of the need to make sure that the balance is found always between that local delivery as local as possible, which everybody wants, and the effective delivery overall of health. We are very aware of specific issues that relate to hospitals near us, those in our communities, and I'll be working very closely with the Cabinet Minister for health to make sure that there's real recognition of the concerns within local communities. It's the same in mine, it's the same in the communities probably served by everybody sitting here in this Senedd. What we need to do always is to make sure that those local services are protected and that we're also building a sustainable health service for the future. My Cabinet Minister for Health and Care will take that issue forward.",
       "text_original": "Thank you for the question, and welcome back to the Senedd. The Cabinet Minister for Health and Care will be very, very aware of the need to make sure that the balance is found always between that local delivery as local as possible, which everybody wants, and the effective delivery overall of health. We are very aware of specific issues that relate to hospitals near us, those in our communities, and I'll be working very closely with the Cabinet Minister for health to make sure that there's real recognition of the concerns within local communities. It's the same in mine, it's the same in the communities probably served by everybody sitting here in this Senedd. What we need to do always is to make sure that those local services are protected and that we're also building a sustainable health service for the future. My Cabinet Minister for Health and Care will take that issue forward.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=2803"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=2803",
+      "unattributed": false
     },
     {
       "id": "contribution-762453",
@@ -403,11 +502,14 @@
       "lang": "cy",
       "member_id": "ms-jane-dodds",
       "seq": 27,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 2876,
       "t_start": 2864,
       "text_english": "Good afternoon, First Minister, and a warm welcome to your new role. Thank you very much for setting out your priorities, and I do welcome them all—",
       "text_original": "Prynhawn da i chi, Brif Weinidog, a chroeso mawr i'r swydd hefyd. Diolch yn fawr iawn am osod allan y blaenoriaethau, a dwi'n eu croesawu nhw i gyd—",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=2864"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=2864",
+      "unattributed": false
     },
     {
       "id": "contribution-762455",
@@ -415,11 +517,14 @@
       "lang": "en",
       "member_id": "ms-jane-dodds",
       "seq": 28,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 2956,
       "t_start": 2876,
       "text_english": "—particularly the one on child poverty, which we've touched on today, and the cost of living, the NHS, childcare. Where you move with real pace and urgency on these issues, you'll find in me a constructive partner.\n\nI want to speak for those not in the Siambr today: the young people who can't see a future for themselves in Wales, the families who dread opening their bills, and the carers holding together a social care system running on empty. One point two million people in Wales didn't vote 12 days ago, not out of apathy, but because they have lost faith in a system here in Cardiff bay that can't find its way into their lives. If we want the people of Wales to believe things can be different, that we can tell them that NHS waiting lists will be different in two years' time, that we can tell them that child poverty will be reduced, that we can tell them what progress we can make at the end of this Senedd term, then we need targets, something that many of us in the last Senedd asked for. So, may I ask you, Prif Weinidog, when will you be setting out the clear targets that your Government will be making in these key areas? Diolch yn fawr iawn.",
       "text_original": "—particularly the one on child poverty, which we've touched on today, and the cost of living, the NHS, childcare. Where you move with real pace and urgency on these issues, you'll find in me a constructive partner.\n\nI want to speak for those not in the Siambr today: the young people who can't see a future for themselves in Wales, the families who dread opening their bills, and the carers holding together a social care system running on empty. One point two million people in Wales didn't vote 12 days ago, not out of apathy, but because they have lost faith in a system here in Cardiff bay that can't find its way into their lives. If we want the people of Wales to believe things can be different, that we can tell them that NHS waiting lists will be different in two years' time, that we can tell them that child poverty will be reduced, that we can tell them what progress we can make at the end of this Senedd term, then we need targets, something that many of us in the last Senedd asked for. So, may I ask you, Prif Weinidog, when will you be setting out the clear targets that your Government will be making in these key areas? Diolch yn fawr iawn.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=2876"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=2876",
+      "unattributed": false
     },
     {
       "id": "contribution-762461",
@@ -427,11 +532,14 @@
       "lang": "cy",
       "member_id": "ms-rhun-ap-iorwerth",
       "seq": 29,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 2961,
       "t_start": 2956,
       "text_english": "Thank you very much, and welcome back.",
       "text_original": "Diolch yn fawr iawn, a chroeso yn ôl.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=2956"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=2956",
+      "unattributed": false
     },
     {
       "id": "contribution-762462",
@@ -439,11 +547,14 @@
       "lang": "en",
       "member_id": "ms-rhun-ap-iorwerth",
       "seq": 30,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 3032,
       "t_start": 2961,
       "text_english": "When we speak of our eagerness to be held to account, we want to provide the tools in order to help people hold us to account. We are already developing the kinds of digital tools that will enable us to put out there the steps that we are taking on a range of issues, including those related to health and care. Some of that is practical, but some of it is working very, very closely to make sure that we set ambitious targets always. We can set easy targets today, but we want to set those ambitious targets, not just across health and care, but when we talk about child poverty, when we talk about our targets for educational achievement. We will be bringing forward to this Senedd details of those digital dashboards and different ways of measuring our progress, and we trust that you will use them robustly to measure how we're getting on.",
       "text_original": "When we speak of our eagerness to be held to account, we want to provide the tools in order to help people hold us to account. We are already developing the kinds of digital tools that will enable us to put out there the steps that we are taking on a range of issues, including those related to health and care. Some of that is practical, but some of it is working very, very closely to make sure that we set ambitious targets always. We can set easy targets today, but we want to set those ambitious targets, not just across health and care, but when we talk about child poverty, when we talk about our targets for educational achievement. We will be bringing forward to this Senedd details of those digital dashboards and different ways of measuring our progress, and we trust that you will use them robustly to measure how we're getting on.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=2961"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=2961",
+      "unattributed": false
     },
     {
       "id": "contribution-762450",
@@ -451,11 +562,14 @@
       "lang": "en",
       "member_id": "ms-anthony-slaughter",
       "seq": 31,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 3120,
       "t_start": 3032,
       "text_english": "As someone with only a week's experience, I hadn't planned on speaking today, but given that others are presuming to speak for the Greens I thought I should say a few words. [Laughter.] Firstly, welcome to the First Minister and the new Cabinet, and the statement that you've put out today. This was a historic election—people have talked about that—the political landscape in Wales has changed, and I'm really proud of the part the Wales Green Party have played in being part of that change. I'm looking forward to working with colleagues across this Chamber to tackle the multiple crises faced by the population of Wales.\n\nWe stood on a clear platform in this election, a clear platform of bold policies to deliver an ambitious future for the people of Wales, for the environment and the future of our planet here in Wales. We're here, the Welsh Greens, to speak for tenants paying unaffordable rents for damp, mouldy homes. We're here to speak for people in precarious jobs, working three or four jobs, still not able to feed their children. We're here for those young families struggling with the exorbitant costs of childcare. And I'm looking forward to working with the future—. And also not to mention the nature and climate crisis. And what matters to us is actions, not words.\n\nSo, I look forward to working with the new Welsh Government and others in this Chamber to deliver that bold action that our communities need. This was an election of change. Change has to be more than a word. In four years' time, we have to have delivered that change for the people of Wales and the planet. Diolch.",
       "text_original": "As someone with only a week's experience, I hadn't planned on speaking today, but given that others are presuming to speak for the Greens I thought I should say a few words. [Laughter.] Firstly, welcome to the First Minister and the new Cabinet, and the statement that you've put out today. This was a historic election—people have talked about that—the political landscape in Wales has changed, and I'm really proud of the part the Wales Green Party have played in being part of that change. I'm looking forward to working with colleagues across this Chamber to tackle the multiple crises faced by the population of Wales.\n\nWe stood on a clear platform in this election, a clear platform of bold policies to deliver an ambitious future for the people of Wales, for the environment and the future of our planet here in Wales. We're here, the Welsh Greens, to speak for tenants paying unaffordable rents for damp, mouldy homes. We're here to speak for people in precarious jobs, working three or four jobs, still not able to feed their children. We're here for those young families struggling with the exorbitant costs of childcare. And I'm looking forward to working with the future—. And also not to mention the nature and climate crisis. And what matters to us is actions, not words.\n\nSo, I look forward to working with the new Welsh Government and others in this Chamber to deliver that bold action that our communities need. This was an election of change. Change has to be more than a word. In four years' time, we have to have delivered that change for the people of Wales and the planet. Diolch.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=3032"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=3032",
+      "unattributed": false
     },
     {
       "id": "contribution-762454",
@@ -463,11 +577,14 @@
       "lang": "en",
       "member_id": "ms-rhun-ap-iorwerth",
       "seq": 32,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 3179,
       "t_start": 3120,
       "text_english": "I appreciate those comments, and congratulate you again on securing a presence for your party here in the Senedd for the first time. There is a theme here, which I very much welcome, of Members setting out those areas on which they seek co-operation. That is a very good place to start, whether it's on that right to a home, which is very, very important to us, whether it's the expansion of free school meals, which is important to build on the work of the last Government, achieved in co-operation with my party, whether it is on that nature and climate emergency, on the effective use of funding, on the NHS, on clean rivers. We're already seeing the basis on which we can form platforms for co-operation, and I look forward to developing that relationship in the months and years ahead.",
       "text_original": "I appreciate those comments, and congratulate you again on securing a presence for your party here in the Senedd for the first time. There is a theme here, which I very much welcome, of Members setting out those areas on which they seek co-operation. That is a very good place to start, whether it's on that right to a home, which is very, very important to us, whether it's the expansion of free school meals, which is important to build on the work of the last Government, achieved in co-operation with my party, whether it is on that nature and climate emergency, on the effective use of funding, on the NHS, on clean rivers. We're already seeing the basis on which we can form platforms for co-operation, and I look forward to developing that relationship in the months and years ahead.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=3120"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=3120",
+      "unattributed": false
     },
     {
       "id": "contribution-762459",
@@ -475,11 +592,14 @@
       "lang": "cy",
       "member_id": "ms-elwyn-vaughan",
       "seq": 33,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 3230,
       "t_start": 3179,
       "text_english": "The Welsh economy continues to face significant challenges, with Wales close to the bottom of UK league tables on measures such as gross value added per capita, productivity, employment rates and disposable income. In my constituency of Gwynedd Maldwyn, these indicators are even lower than the Wales average, and too many young people continue to be out of work, education or training. I know that my constituents will benefit from a renewed focus on economic growth through the creation of a new development agency. Does the First Minister agree with me that people in all parts of Wales, urban and rural alike, should expect the same opportunities in terms of jobs and good salaries and high-level skills? And can he outline how the Government will ensure that those benefits are felt across all communities?",
       "text_original": "Mae economi Cymru yn parhau i wynebu heriau sylweddol, gyda Chymru yn agos at waelod tablau cynghrair y Deyrnas Unedig ar fesurau fel gwerth ychwanegol gros y pen, cynhyrchiant, cyfraddau cyflogaeth ac incwm gwario. Yn fy etholaeth i, Gwynedd Maldwyn, mae'r dangosyddion hyn hyd yn oed yn is na chyfartaledd Cymru, ac mae gormod o bobl ifanc yn parhau i fod allan o waith, addysg neu hyfforddiant. Rwy'n gwybod y bydd fy etholwyr yn elwa o ffocws o'r newydd ar dwf economaidd drwy greu asiantaeth ddatblygu newydd. A yw'r Prif Weinidog yn cytuno â mi y dylai pobl ym mhob rhan o Gymru, trefol a gwledig fel ei gilydd, ddisgwyl yr un cyfleoedd o ran swyddi a chyflog da a sgiliau uchel? Ac a all e amlinellu sut y bydd y Llywodraeth yn sicrhau bod y buddion hynny yn cael eu teimlo ar draws pob cymuned?",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=3179"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=3179",
+      "unattributed": false
     },
     {
       "id": "contribution-762471",
@@ -487,11 +607,14 @@
       "lang": "cy",
       "member_id": "ms-rhun-ap-iorwerth",
       "seq": 34,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 3338,
       "t_start": 3230,
       "text_english": "Yes, the very important words there are 'all parts', 'all communities', and that is a principle that we've tried to make clear will be very important to us. People in all parts of Wales, whether they're in rural Maldwyn or in our cities, or in the Valleys, or in towns and villages across the country, people have to feel that they have access to the same opportunities for good jobs that are well paid. We've started work already within the 100 days plan. We're taking very early steps to try and unlock the economic potential of Wales: supporting businesses that are owned in Wales, setting the foundations for sustainable growth for the years to come.\n\nWe know that the Welsh economy has underperformed against so many measures over the years—GVA, income levels, levels of productivity, and so forth. When a person sees specific communities, including those in rural areas, suffering in particular, and the problems being more intense, that drives me to try to put actions in place to respond, and, yes, the new development agency is at the core of that. I've been quite open-minded about the details in terms of how this body could work. The work is starting immediately in terms of setting the terms of reference, but there is one thing that I've insisted upon from the outset, namely that the idea of having an equal impact across Wales has to be a totally fundamental principle of all the work that it does.",
       "text_original": "Ie, y geiriau pwysig yn fanna ydy 'pob rhan', 'pob cymuned', ac mae honno'n egwyddor rydyn ni wedi ceisio ei gwneud hi'n glir sydd yn mynd i fod yn bwysig iawn i ni. Mae'n rhaid i bobl ym mhob rhan o Gymru, pa un ai ym Maldwyn wledig neu yn ein dinasoedd ni, yn y Cymoedd, mewn pentrefi a threfi ledled y wlad, mae'n rhaid i bobl deimlo bod ganddyn nhw fynediad at yr un cyfleon am swyddi da wedi eu talu'n dda. Rydyn ni wedi dechrau gweithio'n barod o fewn y cynllun 100 diwrnod. Rydyn ni'n cymryd camau buan iawn i drio datgloi potensial economaidd Cymru: cefnogi busnesau wedi'u perchnogi yng Nghymru, gosod sylfeini ar gyfer twf cynaliadwy mewn blynyddoedd i ddod.\n\nRydyn ni'n gwybod bod economi Cymru wedi tanberfformio yn erbyn cymaint o fesurau dros y blynyddoedd—GVA, lefelau incwm, lefelau cynhyrchiant, ac ati. Pan fydd rhywun yn gweld wedyn cymunedau penodol, yn cynnwys rhai gwledig, yn dioddef yn arbennig, a'r problemau yn fwy dwys, mae hynny yn fy ngyrru i ymhellach i drio rhoi camau mewn lle i ymateb, ac, ydy, mae'r asiantaeth ddatblygu newydd yma wrth graidd hynny. Dwi wedi bod yn eithaf meddwl agored ynglŷn â manylder sut y gallai'r corff hwn weithio. Mae'r gwaith yn dechrau ar unwaith o osod y cylch gorchwyl, ond mae yna un peth dwi wedi mynnu o'r dechrau, bod yn rhaid i'r syniad o effaith gyfartal ar draws Cymru fod yn egwyddor gwbl, gwbl sylfaenol i'r holl waith y mae o'n ei wneud.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=3230"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=3230",
+      "unattributed": false
     },
     {
       "id": "contribution-762464",
@@ -499,11 +622,14 @@
       "lang": "en",
       "member_id": "ms-jason-o-connell",
       "seq": 35,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 3372,
       "t_start": 3338,
       "text_english": "Thank you for today's statement from the First Minister, and congratulations on your appointment. We wish you well.\n\nI would like to address one of the many Plaid Cymru elephants in the room today. One of your MSs, now elected in the Senedd, previously said that she hates the English, and I quote,\n\n'as a race, as people, as a country'.\n\nDo you stand by these comments, and what are you and your party going to do to ensure that this anti-English, xenophobic sentiment is rooted out and stopped? Diolch.",
       "text_original": "Thank you for today's statement from the First Minister, and congratulations on your appointment. We wish you well.\n\nI would like to address one of the many Plaid Cymru elephants in the room today. One of your MSs, now elected in the Senedd, previously said that she hates the English, and I quote,\n\n'as a race, as people, as a country'.\n\nDo you stand by these comments, and what are you and your party going to do to ensure that this anti-English, xenophobic sentiment is rooted out and stopped? Diolch.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=3338"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=3338",
+      "unattributed": false
     },
     {
       "id": "contribution-762468",
@@ -511,11 +637,14 @@
       "lang": "en",
       "member_id": "ms-rhun-ap-iorwerth",
       "seq": 36,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 3438,
       "t_start": 3372,
       "text_english": "Thank you very much for the question, and welcome to the Senedd. I think lessons in irony might be useful as well. The Member in question is from an English background herself, and the article I think you're referring to was written from that point of view, explaining the ridiculous nature of elements of the discussion about identity. I'll try to make sure that you are able to have access to that clarification that she made, as somebody who is from an English background, and I believe born in England, herself.\n\nI am by nature a leader and a politician who believes in seeking those elements that bring us together, in seeking those values of tolerance and understanding of each other that can make us stronger. Now, I understand that politics get in the way of that sometimes, but I urge everybody to join me in that spirit as we embark on the work of the seventh Senedd.",
       "text_original": "Thank you very much for the question, and welcome to the Senedd. I think lessons in irony might be useful as well. The Member in question is from an English background herself, and the article I think you're referring to was written from that point of view, explaining the ridiculous nature of elements of the discussion about identity. I'll try to make sure that you are able to have access to that clarification that she made, as somebody who is from an English background, and I believe born in England, herself.\n\nI am by nature a leader and a politician who believes in seeking those elements that bring us together, in seeking those values of tolerance and understanding of each other that can make us stronger. Now, I understand that politics get in the way of that sometimes, but I urge everybody to join me in that spirit as we embark on the work of the seventh Senedd.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=3372"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=3372",
+      "unattributed": false
     },
     {
       "id": "contribution-762473",
@@ -523,11 +652,14 @@
       "lang": "cy",
       "member_id": "ms-huw-thomas",
       "seq": 37,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 3464,
       "t_start": 3438,
       "text_english": "Congratulations and best wishes in your new role, First Minister. From my perspective, it's a great honour and privilege to stand here representing Caerdydd Penarth. From the beaches of Splott and Penarth to the top of the Garth mountain, from the steelworks in Tremorfa to the office blocks in the city centre, and from Cardiff City Stadium to the Wales Millennium Centre, this constituency, I believe, represents the best of the natural beauty, culture and industry of Wales.",
       "text_original": "Llongyfarchiadau a phob dymuniad da i chi yn eich swydd newydd, Brif Weinidog. O’m rhan i, mae’n fraint ac yn anrhydedd o'r mwyaf i gael sefyll yma yn cynrychioli Caerdydd a Phenarth. O draethau Sblot a Phenarth i gopa’r Garth, o waith dur Tremorfa i swyddfeydd canol y ddinas, ac o Stadiwm Cardiff City i Ganolfan Mileniwm Cymru, mae'r etholaeth hon, dwi'n credu, yn cyfuno'r gorau o brydferthwch naturiol, diwylliant a diwydiant Cymru.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=3438"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=3438",
+      "unattributed": false
     },
     {
       "id": "contribution-762474",
@@ -535,11 +667,14 @@
       "lang": "en",
       "member_id": "ms-huw-thomas",
       "seq": 38,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 3510,
       "t_start": 3464,
       "text_english": "And yet, poverty and inequality persist in these communities, nowhere more obviously so than in the field of housing, and I was struck that there was no mention in your statement of the need to build new homes. Both Cardiff and the Vale of Glamorgan councils are pursuing bold council house building programmes, but their ambition is not matched in Plaid Cymru's manifesto, whose targets are well below what is needed, and indeed in Cardiff's case, what's already in the pipeline. What, First Minister, is behind Plaid's lack of ambition in this area? Do you plan perhaps to cut the social housing grant, or do you agree with me that Welsh Government should increase funding in line with construction inflation, so that councils and housing associations across Wales can get on and deliver the homes that our people need? Diolch yn fawr.",
       "text_original": "And yet, poverty and inequality persist in these communities, nowhere more obviously so than in the field of housing, and I was struck that there was no mention in your statement of the need to build new homes. Both Cardiff and the Vale of Glamorgan councils are pursuing bold council house building programmes, but their ambition is not matched in Plaid Cymru's manifesto, whose targets are well below what is needed, and indeed in Cardiff's case, what's already in the pipeline. What, First Minister, is behind Plaid's lack of ambition in this area? Do you plan perhaps to cut the social housing grant, or do you agree with me that Welsh Government should increase funding in line with construction inflation, so that councils and housing associations across Wales can get on and deliver the homes that our people need? Diolch yn fawr.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=3464"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=3464",
+      "unattributed": false
     },
     {
       "id": "contribution-762475",
@@ -547,11 +682,14 @@
       "lang": "cy",
       "member_id": "ms-rhun-ap-iorwerth",
       "seq": 39,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 3530,
       "t_start": 3510,
       "text_english": "Thank you very much, and could I welcome the Member to the Senedd? Yes, he does represent a beautiful part of the beautiful capital city that I'm so proud of, and it was good that he got a mention of Cardiff City Stadium in there, although finding the time to go there will be quite difficult, I suspect.",
       "text_original": "Diolch yn fawr iawn, a gaf i groesawu'r Aelod i'r Senedd? Ydy, mae o'n cynrychioli rhan hyfryd o'r brifddinas hyfryd dwi mor falch ohoni, a da cael crybwyll Stadiwm Dinas Caerdydd i mewn hefyd, er y bydd cael amser i fynd yno, mae'n debyg, yn eithaf anodd.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=3510"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=3510",
+      "unattributed": false
     },
     {
       "id": "contribution-762479",
@@ -559,11 +697,14 @@
       "lang": "en",
       "member_id": "ms-rhun-ap-iorwerth",
       "seq": 40,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 3594,
       "t_start": 3530,
       "text_english": "The Member is right to point to the scourge of poverty, and inadequate housing is one of those legacies of 27 years of Labour First Ministers. It is something that we have probably put as much research work and policy planning into as any other subject area in the build-up to the recent election. The targets—yes, you know what? I probably would like to have more ambitious targets, but in pushing the limits of what we can do, you also look at what is deliverable. They're more ambitious than the last Labour Government's targets, of course, in seeking to do within a four-year term what the last Labour Government was only just able to do in five. So, we are setting a high level of ambition here, and we're determined to get on with the work of delivering the housing stock that the people of Wales deserve.",
       "text_original": "The Member is right to point to the scourge of poverty, and inadequate housing is one of those legacies of 27 years of Labour First Ministers. It is something that we have probably put as much research work and policy planning into as any other subject area in the build-up to the recent election. The targets—yes, you know what? I probably would like to have more ambitious targets, but in pushing the limits of what we can do, you also look at what is deliverable. They're more ambitious than the last Labour Government's targets, of course, in seeking to do within a four-year term what the last Labour Government was only just able to do in five. So, we are setting a high level of ambition here, and we're determined to get on with the work of delivering the housing stock that the people of Wales deserve.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=3530"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=3530",
+      "unattributed": false
     },
     {
       "id": "contribution-762483",
@@ -571,11 +712,14 @@
       "lang": "en",
       "member_id": "ms-peter-fox",
       "seq": 41,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 3659,
       "t_start": 3594,
       "text_english": "First Minister, can I congratulate you on your appointment, and all of your Cabinet colleagues? I wish you well in delivering the positive change that we desperately need in this country. Whilst many of your manifesto commitments are commendable, I think we all will have serious questions, as we've already heard, about how you will fund them, both in revenue and in capital terms. You said they are achievable, but your commitments depend in many ways on action from the UK Government, as well as further devolution of powers—something they seem to be ruling out in every respect. Clearly, your commitments will require efficiencies, cuts to public services or increases in taxation. First Minister, can you tell the people of Wales today what they can expect? Is it those cuts to services, is it deep efficiencies, or is it tax increases?",
       "text_original": "First Minister, can I congratulate you on your appointment, and all of your Cabinet colleagues? I wish you well in delivering the positive change that we desperately need in this country. Whilst many of your manifesto commitments are commendable, I think we all will have serious questions, as we've already heard, about how you will fund them, both in revenue and in capital terms. You said they are achievable, but your commitments depend in many ways on action from the UK Government, as well as further devolution of powers—something they seem to be ruling out in every respect. Clearly, your commitments will require efficiencies, cuts to public services or increases in taxation. First Minister, can you tell the people of Wales today what they can expect? Is it those cuts to services, is it deep efficiencies, or is it tax increases?",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=3594"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=3594",
+      "unattributed": false
     },
     {
       "id": "contribution-762457",
@@ -583,11 +727,14 @@
       "lang": "en",
       "member_id": "ms-rhun-ap-iorwerth",
       "seq": 42,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 3810,
       "t_start": 3659,
       "text_english": "I welcome the Member back to the Senedd. You started very well: many manifesto commitments are commendable. I appreciate that there are elements of the programme for government that Members across this Senedd have said that they're keen to work with us on.\n\nThere will be many strands to our approach. Further devolution of powers is giving us the tools to do the job. Already, I've spoken to the UK Prime Minister about taking those negotiations forward. These are things that we need to do. The Independent Commission on the Constitutional Future of Wales described bare-minimum measures that were needed to protect what we have. The devolution of policing is a no-brainer for us as a nation at a time when the Home Office has embarked on the biggest review of policing within the UK for 200 years. Let's do this; let's use this opportunity. Rather than piecemeal, give us—. There was a welcome measure this week on youth justice, for example. Let's take a look at the entirety of what we can achieve were we to have the powers.\n\nIn terms of the cost of the programme for government, of course, the budget itself is an expression, in numbers, of what that programme is. We have laid out that programme. It is up to you to hold us to account on it. We have come to the conclusion, after very careful thinking, planning and independent analysis, that this is deliverable. It is your job to hold us to account for it. I've made it clear that there will be no increase in income tax, for example, but I hope we will see an increase in the tax take due to the growing success of the Welsh economy. We have to look at these from different angles. Cuts? No. Reprioritisation? Yes. Cuts to the public services that people enjoy? No. Delivering services in a more effective way? Yes. So, hold us to account. Scrutinise us on the steps that we take. We have four years to deliver a programme that we believe can be the beginning of the transformation of Wales.",
       "text_original": "I welcome the Member back to the Senedd. You started very well: many manifesto commitments are commendable. I appreciate that there are elements of the programme for government that Members across this Senedd have said that they're keen to work with us on.\n\nThere will be many strands to our approach. Further devolution of powers is giving us the tools to do the job. Already, I've spoken to the UK Prime Minister about taking those negotiations forward. These are things that we need to do. The Independent Commission on the Constitutional Future of Wales described bare-minimum measures that were needed to protect what we have. The devolution of policing is a no-brainer for us as a nation at a time when the Home Office has embarked on the biggest review of policing within the UK for 200 years. Let's do this; let's use this opportunity. Rather than piecemeal, give us—. There was a welcome measure this week on youth justice, for example. Let's take a look at the entirety of what we can achieve were we to have the powers.\n\nIn terms of the cost of the programme for government, of course, the budget itself is an expression, in numbers, of what that programme is. We have laid out that programme. It is up to you to hold us to account on it. We have come to the conclusion, after very careful thinking, planning and independent analysis, that this is deliverable. It is your job to hold us to account for it. I've made it clear that there will be no increase in income tax, for example, but I hope we will see an increase in the tax take due to the growing success of the Welsh economy. We have to look at these from different angles. Cuts? No. Reprioritisation? Yes. Cuts to the public services that people enjoy? No. Delivering services in a more effective way? Yes. So, hold us to account. Scrutinise us on the steps that we take. We have four years to deliver a programme that we believe can be the beginning of the transformation of Wales.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=3659"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=3659",
+      "unattributed": false
     },
     {
       "id": "contribution-762465",
@@ -595,11 +742,14 @@
       "lang": "en",
       "member_id": "ms-carrie-harper",
       "seq": 43,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 3868,
       "t_start": 3810,
       "text_english": "The recent election has shown that people in Wales want a government that stands up confidently and consistently for our nation. Constituencies like mine in Fflint Wrecsam want constructive and effective co-operation between the Welsh and UK Governments. We know that's essential to delivering for our local communities. Unlike previous Welsh Governments that, at times, have treated standing up for Wales as an add-on, I know my constituents welcome the fact that we now have a Government committed to being unrelenting in standing up for Wales, including challenging Westminster where necessary, while also building strong and constructive working relationships. Will the First Minister set out how this Government will deliver that approach in practice, ensuring Wales secures fair funding, progress on rail and the powers we need, whilst maintaining a productive partnership with the UK Government? Diolch.",
       "text_original": "The recent election has shown that people in Wales want a government that stands up confidently and consistently for our nation. Constituencies like mine in Fflint Wrecsam want constructive and effective co-operation between the Welsh and UK Governments. We know that's essential to delivering for our local communities. Unlike previous Welsh Governments that, at times, have treated standing up for Wales as an add-on, I know my constituents welcome the fact that we now have a Government committed to being unrelenting in standing up for Wales, including challenging Westminster where necessary, while also building strong and constructive working relationships. Will the First Minister set out how this Government will deliver that approach in practice, ensuring Wales secures fair funding, progress on rail and the powers we need, whilst maintaining a productive partnership with the UK Government? Diolch.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=3810"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=3810",
+      "unattributed": false
     },
     {
       "id": "contribution-762467",
@@ -607,11 +757,14 @@
       "lang": "cy",
       "member_id": "ms-rhun-ap-iorwerth",
       "seq": 44,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 4053,
       "t_start": 3901,
       "text_english": "Thank you very much for that question, and welcome to the Senedd.",
       "text_original": "Diolch yn fawr iawn am y cwestiwn, a chroeso yma i'r Senedd.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=3901"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=3901",
+      "unattributed": false
     },
     {
       "id": "contribution-762469",
@@ -619,11 +772,14 @@
       "lang": "en",
       "member_id": "ms-rhun-ap-iorwerth",
       "seq": 45,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 3901,
       "t_start": 3868,
       "text_english": "That relationship is very important for us. On a day-to-day basis, cross-border relations are very important in a constituency such as the Member's, but that relationship between the Welsh Government and the UK Government will be key. Standing up for Wales in that respect has always been, and will always be, at the core of my priorities and what I have pledged to do: to stand up for Wales and be a champion for Wales in our negotiations with the UK Government as never before.\n\nIn terms of how that works, it works in many different ways. Our manifesto was clear that Wales is on a constitutional journey and that we'll pursue the devolution of further powers during this Senedd term, with steps already taken in initial conversations with both the Prime Minister and the Secretary of State for Wales. The immediate focus is on practical improvements through additional powers, including areas such as rail, justice and energy infrastructure. We're looking this week at new figures yet again revised upwards for the cost of HS2. That revises upwards the injustice for Wales of losing out on the billions of pounds that could transform our infrastructure and the productivity and societal gains that could flow from that. We take those arguments forward. They're arguments for justice that all of us should be able to unite behind.\n\nOur approach is progress through partnership and collaboration, where possible, and continuing always to advance our long-term constitutional ambitions, but working right now on the things that are important to the people of Wales. The tone is important—that productive, co-operative tone. It's about finding common ground. We've talked about it here in the context of this Senedd. We want that common ground, where we can find it, with the UK Government. It's worth reminding that there is a majority within this Senedd for enhanced devolution. All of us who are of that view should be getting our shoulders behind this.\n\nFinancially and fiscally, of course, Wales is held back because of that unfair funding formula as a whole. It's not just about Barnett nowadays. That's still a part of it, but it is about how you bring rail funding into it, it is about making sure that we have greater tax flexibility so that we can build a tax system that works for Wales, so that we can make the taxation system fairer and more progressive. And, of course, we want to see the removal of unnecessary restrictions from the Treasury on the use of reserves and scope to borrow, and so on. So, it's a multifaceted approach that will progress best when we speak as loudly as we can and as united as we can as a Senedd.",
       "text_original": "That relationship is very important for us. On a day-to-day basis, cross-border relations are very important in a constituency such as the Member's, but that relationship between the Welsh Government and the UK Government will be key. Standing up for Wales in that respect has always been, and will always be, at the core of my priorities and what I have pledged to do: to stand up for Wales and be a champion for Wales in our negotiations with the UK Government as never before.\n\nIn terms of how that works, it works in many different ways. Our manifesto was clear that Wales is on a constitutional journey and that we'll pursue the devolution of further powers during this Senedd term, with steps already taken in initial conversations with both the Prime Minister and the Secretary of State for Wales. The immediate focus is on practical improvements through additional powers, including areas such as rail, justice and energy infrastructure. We're looking this week at new figures yet again revised upwards for the cost of HS2. That revises upwards the injustice for Wales of losing out on the billions of pounds that could transform our infrastructure and the productivity and societal gains that could flow from that. We take those arguments forward. They're arguments for justice that all of us should be able to unite behind.\n\nOur approach is progress through partnership and collaboration, where possible, and continuing always to advance our long-term constitutional ambitions, but working right now on the things that are important to the people of Wales. The tone is important—that productive, co-operative tone. It's about finding common ground. We've talked about it here in the context of this Senedd. We want that common ground, where we can find it, with the UK Government. It's worth reminding that there is a majority within this Senedd for enhanced devolution. All of us who are of that view should be getting our shoulders behind this.\n\nFinancially and fiscally, of course, Wales is held back because of that unfair funding formula as a whole. It's not just about Barnett nowadays. That's still a part of it, but it is about how you bring rail funding into it, it is about making sure that we have greater tax flexibility so that we can build a tax system that works for Wales, so that we can make the taxation system fairer and more progressive. And, of course, we want to see the removal of unnecessary restrictions from the Treasury on the use of reserves and scope to borrow, and so on. So, it's a multifaceted approach that will progress best when we speak as loudly as we can and as united as we can as a Senedd.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=3868"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=3868",
+      "unattributed": false
     },
     {
       "id": "contribution-762472",
@@ -631,11 +787,14 @@
       "lang": "en",
       "member_id": "ms-james-evans",
       "seq": 46,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 4135,
       "t_start": 4053,
       "text_english": "First Minister, during the election campaign, a number of issues were raised by my constituents. One of the most prominent issues was the industrialisation of mid Wales by Bute Energy and Green GEN Cymru with their pylons and turbines. A number of your candidates, some of whom are sitting in here, and Ministers of your own Government, have called these proposals out and said that they need to be stopped. So, can you take the opportunity today to say that your Government will refuse planning applications that currently sit with Planning and Environment Decisions Wales? You did say that, if it sits right with the community, you will listen to them. The community overwhelmingly—the largest response PEDW ever had to a planning application—said it wasn't required. So, hopefully, you'll take that opportunity today to say that that application will be refused.\n\nThe second issue was on cross-border care and my constituents in parts of Powys having their care delayed in England because the health board couldn't meet the funding requirements to pay for those operations. Your candidates again said that they supported calls that I and other people—previous colleagues like Russell George—made to make sure that we could get the care that people needed. So, can you take the opportunity today, First Minister, to outline that you stand with those communities in their fight against pylons and turbines, and to make sure that we get people having that care in England when they need it? They should not be delayed because we cannot meet the funding requirements that people need to get their operations done.",
       "text_original": "First Minister, during the election campaign, a number of issues were raised by my constituents. One of the most prominent issues was the industrialisation of mid Wales by Bute Energy and Green GEN Cymru with their pylons and turbines. A number of your candidates, some of whom are sitting in here, and Ministers of your own Government, have called these proposals out and said that they need to be stopped. So, can you take the opportunity today to say that your Government will refuse planning applications that currently sit with Planning and Environment Decisions Wales? You did say that, if it sits right with the community, you will listen to them. The community overwhelmingly—the largest response PEDW ever had to a planning application—said it wasn't required. So, hopefully, you'll take that opportunity today to say that that application will be refused.\n\nThe second issue was on cross-border care and my constituents in parts of Powys having their care delayed in England because the health board couldn't meet the funding requirements to pay for those operations. Your candidates again said that they supported calls that I and other people—previous colleagues like Russell George—made to make sure that we could get the care that people needed. So, can you take the opportunity today, First Minister, to outline that you stand with those communities in their fight against pylons and turbines, and to make sure that we get people having that care in England when they need it? They should not be delayed because we cannot meet the funding requirements that people need to get their operations done.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=4053"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=4053",
+      "unattributed": false
     },
     {
       "id": "contribution-762477",
@@ -643,11 +802,14 @@
       "lang": "en",
       "member_id": "ms-rhun-ap-iorwerth",
       "seq": 47,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 4258,
       "t_start": 4135,
       "text_english": "I'm grateful to the Member, and welcome him back to the Senedd. On cross-border care, clearly, the constituency represented by the Member is in a—. It's not unique, but those constituencies are in a unique situation, and conversations have already been had during the course of the election with my now Cabinet Minister for health to make sure that we do create a more robust health landscape to serve the people of Powys who receive healthcare across the border.\n\nOn the development of renewables projects, people suggest moratoria or blanket refusals on planning and so on. I don't think that's the right approach, because you deal with them case by case. But also, there are principles at the heart of what I think is an important approach to the development of energy schemes, and that is, as I mentioned earlier, putting the community at the heart of decisions. That means the development of both generation and transmission. But attitudes can change within communities when people understand what benefits can flow from them. They will vary from project to project. I've looked at solar and wind and offshore. Each will have their own character. It's about placing at the heart of policy the need to make sure that we understand what a community wants, what benefits can come to a community. It could be cheaper energy, it could be ownership, it could be a whole host of issues. But taking that genuinely community-focused approach to energy puts us in a different position to where we have been so far.",
       "text_original": "I'm grateful to the Member, and welcome him back to the Senedd. On cross-border care, clearly, the constituency represented by the Member is in a—. It's not unique, but those constituencies are in a unique situation, and conversations have already been had during the course of the election with my now Cabinet Minister for health to make sure that we do create a more robust health landscape to serve the people of Powys who receive healthcare across the border.\n\nOn the development of renewables projects, people suggest moratoria or blanket refusals on planning and so on. I don't think that's the right approach, because you deal with them case by case. But also, there are principles at the heart of what I think is an important approach to the development of energy schemes, and that is, as I mentioned earlier, putting the community at the heart of decisions. That means the development of both generation and transmission. But attitudes can change within communities when people understand what benefits can flow from them. They will vary from project to project. I've looked at solar and wind and offshore. Each will have their own character. It's about placing at the heart of policy the need to make sure that we understand what a community wants, what benefits can come to a community. It could be cheaper energy, it could be ownership, it could be a whole host of issues. But taking that genuinely community-focused approach to energy puts us in a different position to where we have been so far.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=4135"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=4135",
+      "unattributed": false
     },
     {
       "id": "contribution-762484",
@@ -655,11 +817,14 @@
       "lang": "en",
       "member_id": "ms-natasha-asghar",
       "seq": 48,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 4343,
       "t_start": 4258,
       "text_english": "Thank you, First Minister, for setting out your priorities today. First Minister, people across Wales will be asking one simple question today: 'Where is the urgency?' You've inherited a health service in crisis. We already know the scale of failure after 27 years of missed targets, endless reviews and worsening outcomes. Alongside the crisis in the NHS, another system is under immense pressure, and that's social care. Good social care should be transformative, enabling people to live with dignity, maintain independence, and enjoy a better quality of life. This matters because health and social care cannot operate within silos. There needs to be proper integration between the two of them.\n\nFirst Minister, the people of Wales do not need endless reviews and summits. They need a Government finally prepared to deliver. After 27 years of stagnation, Wales cannot afford more delays dressed up as strategy. Because whilst Governments come and go, the suffering of patients, families, carers, businesses and residents across Wales continues, and that must come to an end. You said during the election campaign that Plaid Cymru is ready to deliver progress after years of stagnation. I haven't heard once about any road-building projects that you plan on bringing in this term. You know Natasha Asghar likes roads. Therefore, I'd like to know whether you are planning to bring into fruition an M4 toll-free relief road, which I, alongside my party, have been asking for for quite some time. First Minister, the speeches are now over, the campaign slogans are finished, and the responsibility is now on your shoulders. All eyes are on you and your team, and the people of Wales will judge you not on your promises, but on your results.",
       "text_original": "Thank you, First Minister, for setting out your priorities today. First Minister, people across Wales will be asking one simple question today: 'Where is the urgency?' You've inherited a health service in crisis. We already know the scale of failure after 27 years of missed targets, endless reviews and worsening outcomes. Alongside the crisis in the NHS, another system is under immense pressure, and that's social care. Good social care should be transformative, enabling people to live with dignity, maintain independence, and enjoy a better quality of life. This matters because health and social care cannot operate within silos. There needs to be proper integration between the two of them.\n\nFirst Minister, the people of Wales do not need endless reviews and summits. They need a Government finally prepared to deliver. After 27 years of stagnation, Wales cannot afford more delays dressed up as strategy. Because whilst Governments come and go, the suffering of patients, families, carers, businesses and residents across Wales continues, and that must come to an end. You said during the election campaign that Plaid Cymru is ready to deliver progress after years of stagnation. I haven't heard once about any road-building projects that you plan on bringing in this term. You know Natasha Asghar likes roads. Therefore, I'd like to know whether you are planning to bring into fruition an M4 toll-free relief road, which I, alongside my party, have been asking for for quite some time. First Minister, the speeches are now over, the campaign slogans are finished, and the responsibility is now on your shoulders. All eyes are on you and your team, and the people of Wales will judge you not on your promises, but on your results.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=4258"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=4258",
+      "unattributed": false
     },
     {
       "id": "contribution-762490",
@@ -667,11 +832,14 @@
       "lang": "en",
       "member_id": "ms-rhun-ap-iorwerth",
       "seq": 49,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 4414,
       "t_start": 4343,
       "text_english": "I appreciate the question and I welcome the Member back. I'm not sure we could act with much more urgency than we've been trying to. We're here in our second Senedd meeting, with less than two weeks since the election. We have a Cabinet in place. We have the work already progressing on the 100-day plan. We have our eyes on delivering that 100-day plan, and our eyes on a four-year programme for government that I believe can start to transform Wales. We have in place a Minister that specifically will be looking at social care, looking at that integration agenda, ensuring that we genuinely try to develop that joined-up thinking that we need in order to create sustainability across the health and care landscape. We have two Ministers working together on the connectivity agenda. We are determined that we look in its entirety at how we deliver that connectivity—on rail, on bus, on road—to make sure that our economy and our communities are well served by this Government.",
       "text_original": "I appreciate the question and I welcome the Member back. I'm not sure we could act with much more urgency than we've been trying to. We're here in our second Senedd meeting, with less than two weeks since the election. We have a Cabinet in place. We have the work already progressing on the 100-day plan. We have our eyes on delivering that 100-day plan, and our eyes on a four-year programme for government that I believe can start to transform Wales. We have in place a Minister that specifically will be looking at social care, looking at that integration agenda, ensuring that we genuinely try to develop that joined-up thinking that we need in order to create sustainability across the health and care landscape. We have two Ministers working together on the connectivity agenda. We are determined that we look in its entirety at how we deliver that connectivity—on rail, on bus, on road—to make sure that our economy and our communities are well served by this Government.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=4343"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=4343",
+      "unattributed": false
     },
     {
       "id": "contribution-762493",
@@ -679,11 +847,14 @@
       "lang": "cy",
       "member_id": "ms-huw-irranca-davies",
       "seq": 50,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 4419,
       "t_start": 4414,
       "text_english": "What's the word for 'penultimate' in Welsh? Laura Anne Jones.",
       "text_original": "Beth yw'r gair am penultimate yn Gymraeg? Laura Anne Jones.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=4414"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=4414",
+      "unattributed": false
     },
     {
       "id": "contribution-762494",
@@ -691,11 +862,14 @@
       "lang": "en",
       "member_id": "ms-laura-anne-jones",
       "seq": 51,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 4508,
       "t_start": 4419,
       "text_english": "Diolch. Firstly, First Minister, congratulations. I'm sure every single person in this Chamber wants you to do well for the sake of our country. However, I have huge reservations about whether you can achieve the best outcomes for Wales with the path that you're going down. \n\nIn regard to agriculture, what does the title 'Cabinet Minister for Rural Resilience and Sustainability' actually mean? The farmers in my new constituency of Sir Fynwy Torfaen are rightly concerned that there is no mention of farming, no mention of agriculture, and that matters, coupled with the fact that agriculture was not even mentioned in your six key priorities for government yesterday, or today in your 1,387-word speech, not a mention, as opposed to Reform, for whom agriculture will always be a top priority. I just pray this is not a sign of your true intentions. \n\nFirst Minister, will you reassure the Chamber and farmers across Wales that you will listen to them, that you will cut bureaucracy, and that you'll focus policy on what farmers do best, and that is to feed our nation, rather than let agriculture die on the altar of net-zero dogma and unrealistic environmental targets? It sounded just now as if climate change is the top priority for your Minister here, and agriculture a mere afterthought. Don't you agree with Reform that farming and agriculture deserves to be a top priority for any Government of Wales?",
       "text_original": "Diolch. Firstly, First Minister, congratulations. I'm sure every single person in this Chamber wants you to do well for the sake of our country. However, I have huge reservations about whether you can achieve the best outcomes for Wales with the path that you're going down. \n\nIn regard to agriculture, what does the title 'Cabinet Minister for Rural Resilience and Sustainability' actually mean? The farmers in my new constituency of Sir Fynwy Torfaen are rightly concerned that there is no mention of farming, no mention of agriculture, and that matters, coupled with the fact that agriculture was not even mentioned in your six key priorities for government yesterday, or today in your 1,387-word speech, not a mention, as opposed to Reform, for whom agriculture will always be a top priority. I just pray this is not a sign of your true intentions. \n\nFirst Minister, will you reassure the Chamber and farmers across Wales that you will listen to them, that you will cut bureaucracy, and that you'll focus policy on what farmers do best, and that is to feed our nation, rather than let agriculture die on the altar of net-zero dogma and unrealistic environmental targets? It sounded just now as if climate change is the top priority for your Minister here, and agriculture a mere afterthought. Don't you agree with Reform that farming and agriculture deserves to be a top priority for any Government of Wales?",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=4419"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=4419",
+      "unattributed": false
     },
     {
       "id": "contribution-762480",
@@ -703,11 +877,14 @@
       "lang": "en",
       "member_id": "ms-rhun-ap-iorwerth",
       "seq": 52,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 4606,
       "t_start": 4508,
       "text_english": "I appreciate the question and I welcome the Member back. O ye of little faith, though, I must say. She asks, 'What does rural resilience and sustainability mean?' It means the resilience of rural Wales and sustainability. I'm not sure I should point out the awkwardness that your party didn't mention health as a priority within your programme for government. So, what I would say is that Plaid Cymru is a party that has always championed both agriculture and rural Wales and the sustainability of our environment. I know that, working together, we can make sure that we provide the support that a strong, resilient agriculture sector needs in order to build resilience in our food and drink sector, and that we build food security in a resilient way. Am I starting to get through? This is what rural resilience means, and I think it's very well described in the role that is now taken by Llyr Gruffydd. We have here a Government team that isn't just covering the bases but is setting down foundations for taking agendas forward, be that on agriculture or on the environment or on health and all those issues that matter to the people of Wales.",
       "text_original": "I appreciate the question and I welcome the Member back. O ye of little faith, though, I must say. She asks, 'What does rural resilience and sustainability mean?' It means the resilience of rural Wales and sustainability. I'm not sure I should point out the awkwardness that your party didn't mention health as a priority within your programme for government. So, what I would say is that Plaid Cymru is a party that has always championed both agriculture and rural Wales and the sustainability of our environment. I know that, working together, we can make sure that we provide the support that a strong, resilient agriculture sector needs in order to build resilience in our food and drink sector, and that we build food security in a resilient way. Am I starting to get through? This is what rural resilience means, and I think it's very well described in the role that is now taken by Llyr Gruffydd. We have here a Government team that isn't just covering the bases but is setting down foundations for taking agendas forward, be that on agriculture or on the environment or on health and all those issues that matter to the people of Wales.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=4508"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=4508",
+      "unattributed": false
     },
     {
       "id": "contribution-762486",
@@ -715,11 +892,14 @@
       "lang": "cy",
       "member_id": "ms-huw-irranca-davies",
       "seq": 53,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 4612,
       "t_start": 4606,
       "text_english": "And finally today, First Minister, I call on Sara Crowley.",
       "text_original": "Ac yn olaf heddiw, Brif Weinidog, galwaf ar Sara Crowley.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=4606"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=4606",
+      "unattributed": false
     },
     {
       "id": "contribution-762487",
@@ -727,11 +907,14 @@
       "lang": "en",
       "member_id": "ms-sara-crowley",
       "seq": 54,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 4661,
       "t_start": 4612,
       "text_english": "Diolch, Lywydd. Previous Labour Governments' record left too many people across Wales waiting too long for treatment, and, in Cwm Taf Morgannwg, too many patients continue to face lengthy delays for appointments and care. My constituents across Pontypridd Cynon Merthyr need an NHS that focuses not only on reducing waiting lists, but on delivering faster diagnoses and better outcomes for patients. I know that they will welcome the Government's commitment to reforming how elective care is delivered and improving cancer outcomes across Wales. Will the First Minister, or Prif Weinidog, therefore outline how measures such as dedicated elective care centres, faster diagnostics and greater use of telehealth will help reduce waiting times and improve patient care in communities served by Cwm Taf Morgannwg health board? Diolch.",
       "text_original": "Diolch, Lywydd. Previous Labour Governments' record left too many people across Wales waiting too long for treatment, and, in Cwm Taf Morgannwg, too many patients continue to face lengthy delays for appointments and care. My constituents across Pontypridd Cynon Merthyr need an NHS that focuses not only on reducing waiting lists, but on delivering faster diagnoses and better outcomes for patients. I know that they will welcome the Government's commitment to reforming how elective care is delivered and improving cancer outcomes across Wales. Will the First Minister, or Prif Weinidog, therefore outline how measures such as dedicated elective care centres, faster diagnostics and greater use of telehealth will help reduce waiting times and improve patient care in communities served by Cwm Taf Morgannwg health board? Diolch.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=4612"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=4612",
+      "unattributed": false
     },
     {
       "id": "contribution-762491",
@@ -739,11 +922,14 @@
       "lang": "en",
       "member_id": "ms-rhun-ap-iorwerth",
       "seq": 55,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 4810,
       "t_start": 4661,
       "text_english": "Diolch yn fawr iawn. I welcome another new Member here today. Now, under our first 100 days plan, we will convene an elective care task and finish group, comprised of relevant experts. They'll be responsible for developing a delivery plan on establishing up to 10 new elective care hubs across Wales. It's about transforming the approach and improving the experience for patients in Wales, and it's about supporting clinical teams. We talked about supporting teachers earlier in relation to education improvement. We absolutely will be a Government that understands the need to back our clinical teams. \n\nOn cancer, we have made a commitment in the manifesto to introduce a national cancer plan—long, long overdue—and work on this is included in the 100-day plan for Government. Preparatory work is already in train to take that forward, to set priorities for the NHS in Wales, and we'll reach out to stakeholders to hear their views at the appropriate time. In the meantime, NHS Wales Performance and Improvement is supporting the NHS in Wales to improve cancer waiting time performance and to address the differences in access across Wales, which is something that we have to even out. \n\nTelehealth—absolutely yes. We're determined to do more on the back of emerging technologies. And on prevention, finally, too many lives in Wales are cut short because of illness that can be prevented, and we plan to take a cross-Government approach to preventing ill health, recognising the importance of good living conditions, supporting early years environments, cultural and economic drivers, and so on. Going back to a question raised earlier, and I omitted to respond to it, there's no suggestion of taking money from health towards culture. It's thinking in the round about how cross-cutting actions by Government affect each other. 'There is a preventative role in health for culture' is the approach that we take. If we don't prioritise preventing avoidable ill health, NHS pressures will worsen, year on year. We can be guaranteed of that, as future pressures will intensify, particularly for multiple, long-term conditions such as cancer, frailty, diabetes and cardiovascular conditions. We're ready for the task.",
       "text_original": "Diolch yn fawr iawn. I welcome another new Member here today. Now, under our first 100 days plan, we will convene an elective care task and finish group, comprised of relevant experts. They'll be responsible for developing a delivery plan on establishing up to 10 new elective care hubs across Wales. It's about transforming the approach and improving the experience for patients in Wales, and it's about supporting clinical teams. We talked about supporting teachers earlier in relation to education improvement. We absolutely will be a Government that understands the need to back our clinical teams. \n\nOn cancer, we have made a commitment in the manifesto to introduce a national cancer plan—long, long overdue—and work on this is included in the 100-day plan for Government. Preparatory work is already in train to take that forward, to set priorities for the NHS in Wales, and we'll reach out to stakeholders to hear their views at the appropriate time. In the meantime, NHS Wales Performance and Improvement is supporting the NHS in Wales to improve cancer waiting time performance and to address the differences in access across Wales, which is something that we have to even out. \n\nTelehealth—absolutely yes. We're determined to do more on the back of emerging technologies. And on prevention, finally, too many lives in Wales are cut short because of illness that can be prevented, and we plan to take a cross-Government approach to preventing ill health, recognising the importance of good living conditions, supporting early years environments, cultural and economic drivers, and so on. Going back to a question raised earlier, and I omitted to respond to it, there's no suggestion of taking money from health towards culture. It's thinking in the round about how cross-cutting actions by Government affect each other. 'There is a preventative role in health for culture' is the approach that we take. If we don't prioritise preventing avoidable ill health, NHS pressures will worsen, year on year. We can be guaranteed of that, as future pressures will intensify, particularly for multiple, long-term conditions such as cancer, frailty, diabetes and cardiovascular conditions. We're ready for the task.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=4661"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=4661",
+      "unattributed": false
     },
     {
       "id": "contribution-762482",
@@ -751,11 +937,14 @@
       "lang": "cy",
       "member_id": "ms-huw-irranca-davies",
       "seq": 56,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 4813,
       "t_start": 4810,
       "text_english": "Thank you, First Minister, and thank you to you all, too.",
       "text_original": "Diolch, Brif Weinidog, a diolch, bawb, hefyd.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=4810"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=4810",
+      "unattributed": false
     },
     {
       "id": "contribution-762485",
@@ -763,11 +952,14 @@
       "lang": "en",
       "member_id": "ms-huw-irranca-davies",
       "seq": 57,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 4837,
       "t_start": 4813,
       "text_english": "I will try my hardest here to make sure that I call as many people as I can—both frontbench speakers, from all parties, and also as many backbenchers as I can. We haven't succeeded today, but we've got through a good few questions. So, thank you so much for keeping your questions succinct, and your answers succinct as well, whilst going into the detail that needs to be done.",
       "text_original": "I will try my hardest here to make sure that I call as many people as I can—both frontbench speakers, from all parties, and also as many backbenchers as I can. We haven't succeeded today, but we've got through a good few questions. So, thank you so much for keeping your questions succinct, and your answers succinct as well, whilst going into the detail that needs to be done.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=4813"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=4813",
+      "unattributed": false
     },
     {
       "id": "contribution-762488",
@@ -775,11 +967,14 @@
       "lang": "cy",
       "member_id": "ms-huw-irranca-davies",
       "seq": 58,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": 4845,
       "t_start": 4837,
       "text_english": "That brings today's proceedings to a close. The date of the next Plenary meeting will be 2 June. Thank you, all.",
       "text_original": "Daw hynny â thrafodion heddiw i ben. Dyddiad y Cyfarfod Llawn nesaf fydd 2 Mehefin. Diolch i bawb.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=4837"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=4837",
+      "unattributed": false
     },
     {
       "id": "contribution-762489",
@@ -787,11 +982,14 @@
       "lang": "en",
       "member_id": "ms-huw-irranca-davies",
       "seq": 59,
+      "speaker_name": null,
+      "speaker_role": null,
       "t_end_derived": null,
       "t_start": 4845,
       "text_english": "Have a good recess. Bye.",
       "text_original": "Have a good recess. Bye.",
-      "tv_url": "http://www.senedd.tv/en/16053?startPos=4845"
+      "tv_url": "http://www.senedd.tv/en/16053?startPos=4845",
+      "unattributed": false
     }
   ],
   "date": "2026-05-19",
@@ -1287,5 +1485,9 @@
   "term": 7,
   "title_cy": "Cyfarfod Llawn",
   "title_en": "Plenary",
+  "unattributed": {
+    "contributions": 0,
+    "speakers": []
+  },
   "xml_sha256": "406c3b0f7798b20f1442635f17b1aceff2df0269c0f31c89613bb3aef4003e2e"
 }
