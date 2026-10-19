@@ -9,7 +9,7 @@ import unittest
 from pathlib import Path
 
 from pipeline import run_checks
-from pipeline.export import export_connection, is_timed, rows, round3, seconds_by_contribution
+from pipeline.export import export_connection, is_timed, read_motion, rows, round3, seconds_by_contribution
 from pipeline.plenary import known_member_ids, normalise, write_session
 from tests.memory_db import memory_db
 from tests.test_plenary_ingestion import MODERN, SOURCE, insert_speakers
@@ -180,6 +180,17 @@ class ExportTests(unittest.TestCase):
         first = {p.relative_to(self.out): p.read_bytes() for p in self.out.rglob("*.json")}
         export_connection(self.conn, self.out)
         self.assertEqual(first, {p.relative_to(self.out): p.read_bytes() for p in self.out.rglob("*.json")})
+
+    def test_read_motion_reads_the_question_in_either_language(self):
+        # The Record's English field occasionally carries the Welsh question verbatim (2026-10-07).
+        amended = read_motion("Item 8. Reform UK Debate - access to HMOs. Cynnig wedi’i ddiwygio.")
+        self.assertEqual(amended["target"], "Motion as amended")
+        self.assertIsNone(amended["tabled_by"])
+        amendment = read_motion(
+            "Item 8. Reform UK Debate - access to HMOs. Gwelliant 1, a gyflwynwyd yn enw Heledd Fychan.")
+        self.assertEqual(amendment["target"], "Amendment 1")
+        self.assertEqual(amendment["tabled_by"], "Heledd Fychan")
+        self.assertEqual(read_motion("Item 8. Debate. Cynnig heb ei ddiwygio.")["target"], "Motion")
 
     def test_sittings_index_is_newest_first_with_item_speakers(self):
         index = read(self.out / "sittings" / "index.json")

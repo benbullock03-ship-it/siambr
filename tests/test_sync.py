@@ -150,6 +150,20 @@ class SyncTests(unittest.TestCase):
         index = json.loads((self.out / "index.json").read_text(encoding="utf-8"))
         self.assertRegex(index["checked_at"], r"^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}Z$")
 
+    def test_main_stamps_checked_at_with_the_run_it_recorded(self):
+        """sync() exports before record_run() inserts the row, so main() re-exports after it."""
+        with mock.patch.object(sync_mod, "sync", return_value=sync_mod.SyncResult(exported=True)):
+            status = sync_mod.main(["--db", str(self.db), "--out", str(self.out)])
+        self.assertEqual(status, 0)
+        index = json.loads((self.out / "index.json").read_text(encoding="utf-8"))
+        self.assertRegex(index["checked_at"], r"^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}Z$")
+        conn = create_connection(self.db)
+        try:
+            finished = conn.execute("SELECT finished_at FROM sync_runs").fetchone()[0]
+        finally:
+            conn.close()
+        self.assertEqual(index["checked_at"], finished)
+
 
 if __name__ == "__main__":
     unittest.main()

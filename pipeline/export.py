@@ -94,7 +94,7 @@ def _motion_topic(motion_text: str) -> str:
     head = _MOTION_HEAD.match(motion_text.strip())
     rest = (head.group(2) if head else motion_text).strip()
     sentences = [s.strip() for s in re.split(r"\.\s+(?=[A-Z])", rest) if s.strip()]
-    has_question = len(sentences) > 1 and re.search(r"amendment|motion", sentences[-1], re.IGNORECASE) is not None
+    has_question = len(sentences) > 1 and re.search(r"amendment|motion|gwelliant|cynnig", sentences[-1], re.IGNORECASE) is not None
     topic = ". ".join(sentences[:-1]) if has_question else rest
     return topic.rstrip(".")
 
@@ -105,16 +105,18 @@ def read_motion(motion_text: str) -> dict:
     head = _MOTION_HEAD.match(motion_text.strip())
     rest = (head.group(2) if head else motion_text.strip()).strip()
     sentences = [s.strip() for s in re.split(r"\.\s+(?=[A-Z])", rest) if s.strip()]
-    has_question = len(sentences) > 1 and re.search(r"amendment|motion", sentences[-1], re.IGNORECASE) is not None
+    has_question = len(sentences) > 1 and re.search(r"amendment|motion|gwelliant|cynnig", sentences[-1], re.IGNORECASE) is not None
     question = re.sub(r"\.$", "", sentences[-1]) if has_question else ""
-    amendment = re.search(r"amendment\s+(\d+)", question.lower())
+    # The Record is bilingual and occasionally prints the Welsh question in its English field
+    # ("Cynnig wedi'i ddiwygio"), so both languages are read.
+    amendment = re.search(r"(?:amendment|gwelliant)\s+(\d+)", question.lower())
     if amendment:
         target = f"Amendment {int(amendment.group(1))}"
-    elif re.search(r"as\s+amended", question.lower()):
+    elif re.search(r"as\s+amended|wedi['’]?i\s+ddiwygio", question.lower()):
         target = "Motion as amended"
     else:
         target = "Motion"
-    tabled = re.search(r"tabled\s+in\s+the\s+name\s+of\s+(.+)\Z", question, re.IGNORECASE)
+    tabled = re.search(r"(?:tabled\s+in\s+the\s+name\s+of|a\s+gyflwynwyd\s+yn\s+enw)\s+(.+)\Z", question, re.IGNORECASE)
     return {"target": target, "tabled_by": re.sub(r"\.$", "", tabled.group(1).strip()) if tabled else None}
 
 

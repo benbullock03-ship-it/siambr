@@ -1,7 +1,7 @@
 name: deploy
 
-# Code changes deploy on push; data changes deploy from sync.yml after their own commit.
-# Every gate in siambr-spec.md 10.2 runs first; a failing gate blocks the deploy.
+# Every gate in siambr-spec.md 10.2 runs on push to main; a failing gate blocks the deploy.
+# The deploy job itself runs only on a manual dispatch until there is a live site.
 on:
   push:
     branches: [main]
@@ -107,8 +107,12 @@ jobs:
           path: frontend/build
           retention-days: 1
 
+  # Nothing is deployed automatically yet: there is no live site or domain. Data changes are
+  # committed by sync.yml and stop at the repo. When a site exists, set the Cloudflare secrets and
+  # delete this condition (or add a data-only trigger here).
   deploy:
     needs: gates
+    if: github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/download-artifact@v4

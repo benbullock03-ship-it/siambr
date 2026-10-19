@@ -148,6 +148,10 @@ def main(argv: list[str] | None = None) -> int:
             traceback.print_exc(file=sys.stderr)
         apply_migrations(conn)
         record_run(conn, started_at, result)
+        if result.exported:
+            # export_connection stamps index.json's checked_at from the newest sync_runs row, and
+            # sync() exports before this run's row exists. Re-export so the site reports this run.
+            export_connection(conn, Path(args.out))
     finally:
         conn.close()
     print(result.summary())

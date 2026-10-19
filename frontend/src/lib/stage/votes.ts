@@ -37,9 +37,11 @@ export function itemTitle(title: string): string {
 
 export function targetOf(text: string): VoteTarget {
 	const s = text.toLowerCase();
-	const amendment = s.match(/amendment\s+(\d+)/);
+	// The Record is bilingual and occasionally prints the Welsh question in its English field
+	// ("Cynnig wedi'i ddiwygio"), so both languages are read rather than one assumed.
+	const amendment = s.match(/(?:amendment|gwelliant)\s+(\d+)/);
 	if (amendment) return { kind: 'amendment', number: Number(amendment[1]) };
-	if (/as\s+amended/.test(s)) return { kind: 'motion_as_amended' };
+	if (/(?:as\s+amended|wedi['’]?i\s+ddiwygio)/.test(s)) return { kind: 'motion_as_amended' };
 	return { kind: 'motion' };
 }
 
@@ -64,10 +66,10 @@ export function readMotion(motionText: string): MotionReading {
 	const rest = (head ? head[2] : text).trim();
 	// The question is the last sentence when the text has more than one: "…grooming gangs. Amendment 1, tabled …"
 	const sentences = rest.split(/\.\s+(?=[A-Z])/).map((s) => s.trim()).filter(Boolean);
-	const hasQuestion = sentences.length > 1 && /amendment|motion/i.test(sentences[sentences.length - 1]);
+	const hasQuestion = sentences.length > 1 && /amendment|motion|gwelliant|cynnig/i.test(sentences[sentences.length - 1]);
 	const question = hasQuestion ? sentences[sentences.length - 1].replace(/\.$/, '') : null;
 	const topic = (hasQuestion ? sentences.slice(0, -1).join('. ') : rest).replace(/\.$/, '');
-	const tabled = question?.match(/tabled\s+in\s+the\s+name\s+of\s+(.+)$/i);
+	const tabled = question?.match(/(?:tabled\s+in\s+the\s+name\s+of|a\s+gyflwynwyd\s+yn\s+enw)\s+(.+)$/i);
 	return {
 		itemNumber: itemNo,
 		topic,

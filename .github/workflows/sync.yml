@@ -1,10 +1,17 @@
 name: sync
 
+# Polls the Record of Proceedings and commits new or revised sittings. It does not build or
+# deploy: there is no live site yet. The deploy job in deploy.yml is manual until there is one.
+#
+# Senedd Plenary sits on Tuesdays and Wednesdays from 13:30 UK time. The Record for a sitting is
+# normally published the following morning (observed 09:00-11:00 UTC) and revised again later, so
+# the windows below poll the sitting day and the morning after. Times are UTC; GitHub delays
+# scheduled runs by minutes to hours, which the windows are wide enough to absorb.
 on:
   schedule:
-    # Every 30 minutes through Tuesday and Wednesday sittings, once a day otherwise (UTC).
-    - cron: '*/30 13-23 * * 2,3'
-    - cron: '0 6 * * *'
+    - cron: '*/30 13-23 * * 2,3'  # sitting day, through the evening
+    - cron: '*/30 0-12 * * 3,4'   # the morning after each sitting
+    - cron: '0 6 * * *'           # daily catch-up for anything the windows above miss
   workflow_dispatch:
 
 # Two ticks never push over each other; a queued tick waits for the running one.
@@ -18,6 +25,7 @@ permissions:
 jobs:
   sync:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
         with:
@@ -32,7 +40,22 @@ jobs:
       - run: pip install -r pipeline/requirements.txt
 
       - name: Poll the Record of Proceedings
-        run: python -m pipeline.sync
+        run: |
+          set -o pipefail
+          python -m pipeline.sync | tee sync.log
+          {
+            echo '### Record of Proceedings'
+            echo '```'
+            tail -n 1 sync.log
+            echo '```'
+            # Skips and unavailability are omissions from the record; never let them pass unseen.
+            echo '<details><summary>Full log</summary>'
+            echo
+            echo '```'
+            cat sync.log
+            echo '```'
+            echo '</details>'
+          } >> "$GITHUB_STEP_SUMMARY"
 
       # A quiet run still writes its sync_runs row into the database, so the commit test looks only
       # at the record itself. The DB rides along whenever the record moved.
@@ -73,25 +96,3 @@ jobs:
           git add data/bronze data/siambr.db frontend/static/data
           git commit -m "sync: ${{ steps.changes.outputs.dates }}"
           git push
-
-      - uses: actions/setup-node@v4
-        if: steps.changes.outputs.changed == 'true'
-        with:
-          node-version: 24
-          cache: npm
-          cache-dependency-path: frontend/package-lock.json
-
-      - name: Build the site
-        if: steps.changes.outputs.changed == 'true'
-        working-directory: frontend
-        run: |
-          npm ci
-          npm run build
-
-      - name: Deploy to Cloudflare Pages
-        if: steps.changes.outputs.changed == 'true'
-        uses: cloudflare/wrangler-action@v3
-        with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy frontend/build --project-name=siambr --branch=main

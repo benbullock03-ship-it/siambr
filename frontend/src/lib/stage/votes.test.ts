@@ -31,6 +31,19 @@ describe('readMotion', () => {
 		expect(readMotion('Item 7. Debate: Fair Funding.  Motion.').topic).toBe('Debate: Fair Funding');
 	});
 
+	it('reads the Welsh question the Record sometimes prints in its English field', () => {
+		const amended = readMotion("Item 8. Reform UK Debate - access to HMOs. Cynnig wedi’i ddiwygio.");
+		expect(amended.itemNumber).toBe(8);
+		expect(amended.topic).toBe('Reform UK Debate - access to HMOs');
+		expect(amended.target).toEqual({ kind: 'motion_as_amended' });
+
+		const amendment = readMotion('Item 8. Reform UK Debate - access to HMOs. Gwelliant 1, a gyflwynwyd yn enw Heledd Fychan.');
+		expect(amendment.target).toEqual({ kind: 'amendment', number: 1 });
+		expect(amendment.tabledBy).toBe('Heledd Fychan');
+
+		expect(readMotion("Item 8. Debate - x. Cynnig heb ei ddiwygio.").target).toEqual({ kind: 'motion' });
+	});
+
 	it('takes a motion text with no question as a vote on the motion itself', () => {
 		const r = readMotion('Item 6. Member Debate under Standing Order 11.21(iv) - ophthalmology services');
 		expect(r.itemNumber).toBe(6);
@@ -135,7 +148,16 @@ describe('matchDivisionCalls', () => {
 				if (!c) missing.push(`${s.date} ${d.motion_text}`);
 				else expect(c.item_id).toBe(d.item_id);
 			}
-			for (const d of s.divisions) expect(debateItemOf(d, s.items), `${s.date} ${d.motion_text}`).not.toBeNull();
+			// A division loses its debate only when ingest skipped that item whole because a
+			// speaker could not be attributed to a Member (T-13: the Counsel General and the
+			// anonymous Modern.Gov 7). Any other miss is a broken link.
+			const exported = new Set(s.items.map(itemNumber));
+			for (const d of s.divisions) {
+				if (debateItemOf(d, s.items)) continue;
+				const n = readMotion(d.motion_text).itemNumber;
+				expect(n, `${s.date} ${d.motion_text}`).not.toBeNull();
+				expect(exported.has(n as number), `${s.date} ${d.motion_text}`).toBe(false);
+			}
 		}
 		expect(missing).toEqual([]);
 	});
