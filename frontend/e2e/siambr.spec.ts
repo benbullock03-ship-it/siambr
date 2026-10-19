@@ -23,6 +23,16 @@ test('the front door is the latest sitting, paused, with one Play', async ({ pag
 	expect(await violations(page)).toEqual([]);
 });
 
+test('states speech the Record attributed to no Member, and badges it', async ({ page }) => {
+	test.slow();
+	await page.goto(`/sitting/${DATE}`);
+	// The notice says who the Record names, in its own words; the running order marks the row.
+	await expect(page.getByText('One speech is not attributed to a Member: Elfyn Llwyd (Counsel General).')).toBeVisible();
+	// The running order marks the row itself, not just the notice (the item may be collapsed).
+	await expect(page.getByText('not attributed', { exact: true })).toHaveCount(1);
+	expect(await violations(page)).toEqual([]);
+});
+
 test('/siambr still opens the chamber', async ({ page }) => {
 	await page.goto('/siambr');
 	await expect(page).toHaveURL(new RegExp(`/sitting/${DATE}`));

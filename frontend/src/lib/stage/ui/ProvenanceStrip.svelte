@@ -162,6 +162,9 @@ import { SEATING_NOTICE } from '$lib/3d/chamber/seating';
 		border: none;
 		color: var(--color-body-text);
 		cursor: pointer;
+		/* WCAG 2.2 target size: never below the tap minimum. */
+		min-width: var(--tap-min);
+		min-height: var(--tap-min);
 		padding: 0.25rem;
 		border-radius: 3px;
 		line-height: 1;

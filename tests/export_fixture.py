@@ -34,6 +34,15 @@ def main(argv: list[str] | None = None) -> int:
                 " stream_url_verbatim = ?, stream_vbegin_verbatim = ? WHERE id = 'session-1'",
                 (FIXTURE_STREAM, sitting_start("2026-06-10", "13:30:00"), FIXTURE_VERBATIM, sitting_start("2026-06-10", "13:30:00")),
             )
+            # One speech the Record attributes to no Member, so the Stage gates exercise that notice.
+            conn.execute(
+                """INSERT INTO debate_contributions (id, agenda_item_id, member_id, speaker_name, speaker_role,
+                       sequence_number, spoken_language, verbatim_text_original, verbatim_text_english,
+                       video_timestamp_start)
+                   VALUES ('speech-unattributed', 'item-2', NULL, 'Elfyn Llwyd', 'Counsel General', 0, 'en',
+                           'The Record names no Member for this answer.',
+                           'The Record names no Member for this answer.', 90)"""
+            )
         conn.close()
         counts = export(db, args.out)
     print(f"fixture: {counts['sittings']} sittings, {counts['members']} members -> {args.out}")

@@ -97,7 +97,9 @@
 	</div>
 
 	<div class="status" role="status" aria-live="polite">
-		{#if speaker && speakerAnchor.visible && (!focus || focus.desk.id !== speaker.desk.id)}
+		<!-- The beacon floats at the desk's screen position and can land on the controls guide;
+		     while the guide is up on a first visit, the guide is the instruction that matters. -->
+		{#if speaker && speakerAnchor.visible && dismissedControls && (!focus || focus.desk.id !== speaker.desk.id)}
 			<div
 				class="live-speaker-beacon floating"
 				style:--speaker-x="{speakerAnchor.x}px"
@@ -278,6 +280,9 @@
 		border: none;
 		color: var(--color-body-text);
 		cursor: pointer;
+		/* WCAG 2.2 target size: never below the tap minimum. */
+		min-width: var(--tap-min);
+		min-height: var(--tap-min);
 		padding: 0.25rem;
 		border-radius: 3px;
 		line-height: 1;
@@ -307,7 +312,8 @@
 	.engine {
 		margin-left: 0.6rem;
 		font-family: var(--font-mono);
-		color: var(--color-muted);
+		/* On the guide's panel, --color-muted falls just short of 4.5:1. */
+		color: var(--color-body-text);
 	}
 
 	/* --- Live Speaker In-Chamber Beacon --- */
