@@ -6,6 +6,7 @@ import { ScreenSound } from './screenVideo.svelte';
 
 const playing: ScreenState = {
 	t: 100,
+	offset: 0,
 	playing: true,
 	speed: 1,
 	division: false,
@@ -29,6 +30,13 @@ describe('screenPlan at 1x', () => {
 		expect(screenPlan(at({}, { time: 100 + DRIFT_SECONDS })).seekTo).toBeNull();
 		expect(screenPlan(at({}, { time: 99.4 })).seekTo).toBe(100);
 		expect(screenPlan(at({}, { time: 100.6 })).seekTo).toBe(100);
+	});
+
+	it('targets the stream timeline when the broadcast began before the Record start', () => {
+		// Senedd TV's first segment can precede the Record's origin (2026-10-13: +8.6 s).
+		const offset = at({ offset: 8.6 }, { time: 108.6 });
+		expect(screenPlan(offset)).toEqual({ show: 'video', play: true, seekTo: null, audible: true });
+		expect(screenPlan(at({ offset: 8.6 }, { time: 100 })).seekTo).toBe(108.6);
 	});
 
 	it('keeps the last frame and does not re-snap while buffering', () => {

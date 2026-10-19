@@ -166,6 +166,9 @@ export interface Sitting {
 	stream_url: string | null;
 	/** The same pictures with the floor audio as spoken; gated like stream_url. */
 	stream_url_verbatim: string | null;
+	/** Seconds to add to sitting time to reach the stream's own timeline. Derived and measured; null when no stream ships. */
+	stream_offset_s: number | null;
+	stream_offset_verbatim_s: number | null;
 	items: SittingItem[];
 	contributions: Contribution[];
 	tabled_texts: TabledText[];

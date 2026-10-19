@@ -57,6 +57,8 @@ export function sitting(overrides: Partial<Sitting>): Sitting {
 		clip_url: null,
 		stream_url: null,
 		stream_url_verbatim: null,
+		stream_offset_s: null,
+		stream_offset_verbatim_s: null,
 		items: [],
 		contributions: [],
 		tabled_texts: [],

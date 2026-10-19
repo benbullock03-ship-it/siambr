@@ -84,19 +84,28 @@ class ParsingTests(unittest.TestCase):
 
 
 class AlignmentGateTests(unittest.TestCase):
-    def test_gate_at_0_2_and_3_seconds(self):
-        for gap, ok in [(0, True), (2, True), (-2, True), (2.001, False), (3, False), (-3, False)]:
+    def test_published_while_the_first_segment_is_within_the_bound(self):
+        # The broadcast may begin before the Record's origin (2026-10-13 began 8.6 s early) and the
+        # player applies the measured offset, so a small gap ships rather than losing the video.
+        for gap, ok in [(0, True), (2, True), (-8.6, True), (-300, True), (300, True),
+                        (300.001, False), (-3600, False)]:
             with self.subTest(gap=gap):
                 self.assertEqual(senedd_tv.is_aligned(RECORD_START + gap, "2026-07-15", "13:30:01"), ok)
+
+    def test_offset_is_the_measured_gap_to_the_record_start(self):
+        self.assertAlmostEqual(senedd_tv.stream_offset_s(RECORD_START, "2026-07-15", "13:30:01"), 0.0, places=3)
+        self.assertAlmostEqual(senedd_tv.stream_offset_s(RECORD_START - 8.6, "2026-07-15", "13:30:01"), 8.6, places=3)
+        self.assertAlmostEqual(senedd_tv.stream_offset_s(RECORD_START + 2.5, "2026-07-15", "13:30:01"), -2.5, places=3)
+        self.assertIsNone(senedd_tv.stream_offset_s(RECORD_START + 3600, "2026-07-15", "13:30:01"))
 
     def test_start_is_read_in_europe_london(self):
         winter = datetime(2026, 1, 13, 13, 30, 1, tzinfo=timezone.utc).timestamp()
         self.assertTrue(senedd_tv.is_aligned(winter, "2026-01-13", "13:30:01"))
-        self.assertFalse(senedd_tv.is_aligned(RECORD_START + 3600, "2026-07-15", "13:30:01"))
 
     def test_missing_clock_never_aligns(self):
         self.assertFalse(senedd_tv.is_aligned(None, "2026-07-15", "13:30:01"))
         self.assertFalse(senedd_tv.is_aligned(RECORD_START, "2026-07-15", None))
+        self.assertIsNone(senedd_tv.stream_offset_s(RECORD_START, "2026-07-15", None))
 
 
 class ResolveAndExportTests(unittest.TestCase):
@@ -127,7 +136,7 @@ class ResolveAndExportTests(unittest.TestCase):
     def test_resolves_mirrors_and_exports_an_aligned_stream(self):
         self.assertTrue(senedd_tv.refresh_stream(self.conn, 16086, get=upstream(), log=self.log.append))
         self.assertEqual(self.stored(), (MASTER_URL, FIRST_SEGMENT))
-        self.assertIn("-0.6 s from the Record start, aligned", self.log[0])
+        self.assertIn("-0.6 s from the Record start, aligned, offset +0.6 s", self.log[0])
         folder = self.bronze / "2026"
         self.assertEqual((folder / "2026-07-15-16086-master.m3u8").read_bytes(), MASTER)
         manifest = (folder / "2026-07-15-16086.sha256").read_text().splitlines()
@@ -141,7 +150,7 @@ class ResolveAndExportTests(unittest.TestCase):
         row = self.conn.execute(
             "SELECT stream_url_verbatim, stream_vbegin_verbatim FROM plenary_sessions WHERE id = 'plenary-16086'").fetchone()
         self.assertEqual(tuple(row), (VERBATIM_URL, FIRST_SEGMENT))
-        self.assertIn("verbatim stream -0.6 s from the Record start, aligned", self.log[1])
+        self.assertIn("verbatim stream first segment -0.6 s from the Record start, aligned, offset +0.6 s", self.log[1])
         self.assertTrue((self.bronze / "2026" / "2026-07-15-16086-verbatim.sha256").exists())
         export_connection(self.conn, self.out)
         sitting = json.loads((self.out / "sittings" / "2026-07-15.json").read_text(encoding="utf-8"))
@@ -156,12 +165,24 @@ class ResolveAndExportTests(unittest.TestCase):
         sitting = json.loads((self.out / "sittings" / "2026-07-15.json").read_text(encoding="utf-8"))
         self.assertIsNone(sitting["stream_url_verbatim"])
 
-    def test_a_stream_three_seconds_out_is_stored_but_not_exported(self):
+    def test_a_stream_a_few_seconds_out_ships_with_its_measured_offset(self):
+        # 2026-10-13's broadcast began 8.6 s before the Record's origin; the offset carries the fix.
         late = VARIANT.replace(b"PROGRAM-DATE-TIME:2026-07-15T12:30:00.400000Z", b"PROGRAM-DATE-TIME:2026-07-15T12:30:04.000000Z")
         senedd_tv.refresh_stream(self.conn, 16086, get=upstream({VARIANT_URL: late}), log=self.log.append)
         self.assertEqual(self.stored()[0], MASTER_URL)
-        self.assertIn("not aligned", self.log[0])
+        self.assertIn("+3.0 s from the Record start, aligned, offset -3.0 s", self.log[0])
+        self.assertEqual(self.exported(), MASTER_URL)
+        sitting = json.loads((self.out / "sittings" / "2026-07-15.json").read_text(encoding="utf-8"))
+        self.assertAlmostEqual(sitting["stream_offset_s"], -3.0, places=3)
+
+    def test_a_stream_an_hour_out_is_stored_but_never_exported(self):
+        wrong = VARIANT.replace(b"PROGRAM-DATE-TIME:2026-07-15T12:30:00.400000Z", b"PROGRAM-DATE-TIME:2026-07-15T13:30:00.000000Z")
+        senedd_tv.refresh_stream(self.conn, 16086, get=upstream({VARIANT_URL: wrong}), log=self.log.append)
+        self.assertEqual(self.stored()[0], MASTER_URL)
+        self.assertIn("will not ship", self.log[0])
         self.assertIsNone(self.exported())
+        sitting = json.loads((self.out / "sittings" / "2026-07-15.json").read_text(encoding="utf-8"))
+        self.assertIsNone(sitting["stream_offset_s"])
 
     def test_a_failed_lookup_leaves_null_then_keeps_what_was_stored(self):
         down = upstream({f"https://player.senedd.tv/Player/Index/{g}": SourceUnavailable("302 to /Player/Error")
@@ -204,10 +225,17 @@ class ResolveAndExportTests(unittest.TestCase):
 
         path = self.out / "sittings" / "2026-07-15.json"
         sitting = json.loads(path.read_text(encoding="utf-8"))
+        expected = senedd_tv.stream_offset_s(FIRST_SEGMENT, "2026-07-15", "13:30:01")
+        self.assertAlmostEqual(sitting["stream_offset_s"], expected, places=3)
         with self.conn:
             self.conn.execute("UPDATE plenary_sessions SET stream_vbegin = stream_vbegin + 3")
+        # A 3 s shift is still shippable, so the gate now fails only because the export is stale.
+        self.assertTrue(senedd_tv.is_aligned(RECORD_START + 3, "2026-07-15", "13:30:01"))
         self.assertFalse(run_checks.check_stream_gate(self.conn, self.out).ok)
         self.assertEqual(sitting["stream_url"], MASTER_URL)
+        export_connection(self.conn, self.out)
+        self.assertTrue(run_checks.check_stream_gate(self.conn, self.out).ok)
+        self.assertAlmostEqual(json.loads(path.read_text(encoding="utf-8"))["stream_offset_s"], expected - 3, places=3)
 
 
 if __name__ == "__main__":

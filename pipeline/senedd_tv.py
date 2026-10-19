@@ -6,8 +6,10 @@ senedd.tv/en/{meeting_id} embeds player.senedd.tv/Player/Index/{guid}, and that 
 meeting's master playlist: the interpretation feed. senedd.tv/cy/{meeting_id} embeds a second player
 that names the verbatim feed, the floor audio as spoken, over the same pictures. The player page, the master and its first variant playlist are
 mirrored to data/bronze/senedd_tv/{year}/ beside a SHA-256 manifest. No URL is built by hand;
-export publishes one only when its first segment starts within ALIGN_TOLERANCE_S of the
-Record's MeetingDate, the origin of every startPos.
+export publishes one when its first segment starts within MAX_STREAM_OFFSET_S of the Record's
+MeetingDate, the origin of every startPos, together with the measured difference. The player adds
+that offset, so a broadcast that began a few seconds before the Record's origin still lines up
+frame for frame instead of being withheld.
 """
 
 from __future__ import annotations
@@ -37,7 +39,10 @@ PLAYER_PAGE = "https://player.senedd.tv/Player/Index/{guid}"
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0 Safari/537.36 Siambr/0.1"
 PLAYER_TRIES = 4
 SENEDD_TV_BRONZE = BRONZE_DIR / "senedd_tv"
-ALIGN_TOLERANCE_S = 2.0
+# How far the first segment may sit from the Record's MeetingDate before the stream is refused
+# outright: beyond this it is more likely the wrong meeting than a broadcast that began early.
+# Observed real offsets are under 10 s, and the player applies the measured value.
+MAX_STREAM_OFFSET_S = 300.0
 LONDON = ZoneInfo("Europe/London")
 
 _GUID = r"[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}"
@@ -92,10 +97,22 @@ def sitting_start(session_date: str, meeting_start_time: str) -> float:
     return datetime.fromisoformat(f"{session_date}T{meeting_start_time}").replace(tzinfo=LONDON).timestamp()
 
 
-def is_aligned(vbegin: float | None, session_date: str, meeting_start_time: str | None) -> bool:
+def stream_offset_s(vbegin: float | None, session_date: str, meeting_start_time: str | None) -> float | None:
+    """Seconds to add to sitting time to reach the stream's own timeline.
+
+    The stream's first segment is at ``vbegin``; the Record's origin is ``meeting_start_time`` on
+    ``session_date``. Positive when the broadcast began before the Record's origin. None when the
+    stream has no wall clock, the Record states no start, or the gap is too wide to trust.
+    """
     if vbegin is None or not meeting_start_time:
-        return False
-    return abs(vbegin - sitting_start(session_date, meeting_start_time)) <= ALIGN_TOLERANCE_S
+        return None
+    offset = sitting_start(session_date, meeting_start_time) - vbegin
+    return offset if abs(offset) <= MAX_STREAM_OFFSET_S else None
+
+
+def is_aligned(vbegin: float | None, session_date: str, meeting_start_time: str | None) -> bool:
+    """True when the stream can be published, with stream_offset_s() applied by the player."""
+    return stream_offset_s(vbegin, session_date, meeting_start_time) is not None
 
 
 def mirror(session_date: str, meeting_id: int, files: list[tuple[str, str, bytes]], feed: str = "interpretation") -> None:
@@ -174,9 +191,11 @@ def refresh_stream(conn: sqlite3.Connection, meeting_id: int, *, get: Callable[[
         if stream.vbegin is None or not start:
             log(f"meeting {meeting_id} ({session_date}): {label} has no wall clock, will not ship")
         else:
-            verdict = "aligned" if is_aligned(stream.vbegin, session_date, start) else "not aligned, will not ship"
+            offset = stream_offset_s(stream.vbegin, session_date, start)
+            verdict = (f"aligned, offset {offset:+.1f} s" if offset is not None
+                       else f"more than {MAX_STREAM_OFFSET_S:.0f} s out, will not ship")
             log(f"meeting {meeting_id} ({session_date}): {label} "
-                f"{stream.vbegin - sitting_start(session_date, start):+.1f} s from the Record start, {verdict}")
+                f"first segment {stream.vbegin - sitting_start(session_date, start):+.1f} s from the Record start, {verdict}")
     return changed
 
 

@@ -20,6 +20,8 @@ export interface VideoState {
 
 export interface ScreenState {
 	t: number;
+	/** Seconds to add to t to reach the stream's own timeline (Senedd TV began before the Record's origin). */
+	offset: number;
 	playing: boolean;
 	speed: Speed;
 	/** A division tally holds the screens. */
@@ -51,9 +53,11 @@ export function jumpedSince(prev: ClockMark | null, now: ClockMark): boolean {
 export function screenPlan(s: ScreenState): ScreenPlan {
 	const live = s.speed === 1;
 	const waiting = s.video.seeking || s.video.readyState < HAVE_FUTURE_DATA;
+	// The video runs on the stream's timeline, which may begin a few seconds before the sitting's.
+	const target = s.t + s.offset;
 	// A stalled video keeps its last frame; re-snapping it mid-stall would only blank the screen.
-	const drifted = live && !waiting && Math.abs(s.video.time - s.t) > DRIFT_SECONDS;
-	const seekTo = s.jumped || drifted ? s.t : null;
+	const drifted = live && !waiting && Math.abs(s.video.time - target) > DRIFT_SECONDS;
+	const seekTo = s.jumped || drifted ? target : null;
 	const blank = s.jumped || s.blank || s.video.readyState < HAVE_CURRENT_DATA;
 	return {
 		show: s.division ? 'tally' : live && !blank ? 'video' : 'dark',

@@ -11,9 +11,18 @@
 		clock,
 		stream,
 		sound,
+		offset = 0,
 		held = false,
 		texture = $bindable(null)
-	}: { clock: SittingClock | null; stream: string | null; sound: ScreenSound; held?: boolean; texture?: Texture | null } = $props();
+	}: {
+		clock: SittingClock | null;
+		stream: string | null;
+		sound: ScreenSound;
+		/** Seconds to add to sitting time to reach the stream's own timeline. */
+		offset?: number;
+		held?: boolean;
+		texture?: Texture | null;
+	} = $props();
 
 	const { invalidate } = useThrelte();
 	let armed = $state(false);
@@ -67,7 +76,7 @@
 
 		let live = true;
 		let hls: { destroy(): void } | null = null;
-		attach(el, stream, untrack(() => clock?.t ?? 0)).then(
+		attach(el, stream, untrack(() => (clock?.t ?? 0) + offset)).then(
 			(h) => (live ? (hls = h) : h?.destroy()),
 			(error) => {
 				if (!live) return;
@@ -110,6 +119,7 @@
 			mark = now;
 			const plan = screenPlan({
 				t: clock.t,
+				offset,
 				playing: clock.playing && !held,
 				speed: clock.speed,
 				division: clock.floor.divisionTint !== null,

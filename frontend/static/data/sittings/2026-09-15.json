@@ -4291,6 +4291,8 @@
     "items.type": "PROVENANCE_DERIVED",
     "speakers.party_id": "PROVENANCE_DERIVED",
     "speakers.role_title_en": "PROVENANCE_DERIVED",
+    "stream_offset_s": "PROVENANCE_DERIVED",
+    "stream_offset_verbatim_s": "PROVENANCE_DERIVED",
     "t_end_derived": "PROVENANCE_DERIVED"
   },
   "record_page_url": "https://record.senedd.wales/Plenary/16260",
@@ -5335,8 +5337,10 @@
       "role_title_en": null
     }
   },
-  "stream_url": null,
-  "stream_url_verbatim": null,
+  "stream_offset_s": 2.359999895095825,
+  "stream_offset_verbatim_s": 2.359999895095825,
+  "stream_url": "https://nafw.cdn.vustreams.com/m/626a36e9-1e83-41c5-b1a6-924c28a4bc5b/interpretation/interpretation.isml/interpretation.m3u8?t=2026-09-15T12:30:07",
+  "stream_url_verbatim": "https://nafw.cdn.vustreams.com/m/626a36e9-1e83-41c5-b1a6-924c28a4bc5b/verbatim/verbatim.isml/verbatim.m3u8?t=2026-09-15T12:30:07",
   "tabled_texts": [
     {
       "amendment_number": null,

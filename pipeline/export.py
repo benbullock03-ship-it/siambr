@@ -19,7 +19,7 @@ from pathlib import Path
 
 from pipeline.adapters.plenary_votes import votes_url
 from pipeline.db import DEFAULT_DB_PATH, REPO_ROOT, create_connection
-from pipeline.senedd_tv import is_aligned
+from pipeline.senedd_tv import is_aligned, stream_offset_s
 
 DEFAULT_OUT = REPO_ROOT / "frontend" / "static" / "data"
 PROVENANCE_DERIVED = "PROVENANCE_DERIVED"
@@ -310,10 +310,15 @@ class Exporter:
             "record_published_at": s["record_published_at"],
             "meeting_start_time": s["meeting_start_time"],
             "clip_url": next((i["senedd_tv_clip_url"] for i in items if i["senedd_tv_clip_url"]), None),
-            # Senedd TV's own playlist, only when its first frame is the Record's startPos origin.
+            # Senedd TV's own playlist; shipped when its first segment is within
+            # MAX_STREAM_OFFSET_S of the Record's start, with that difference measured below.
             "stream_url": s["stream_url"] if is_aligned(s["stream_vbegin"], s["session_date"], s["meeting_start_time"]) else None,
             "stream_url_verbatim": s["stream_url_verbatim"]
             if is_aligned(s["stream_vbegin_verbatim"], s["session_date"], s["meeting_start_time"]) else None,
+            # Seconds to add to sitting time to reach the stream's own timeline, measured from the
+            # stream's first PROGRAM-DATE-TIME and the Record's start (derived, never guessed).
+            "stream_offset_s": stream_offset_s(s["stream_vbegin"], s["session_date"], s["meeting_start_time"]),
+            "stream_offset_verbatim_s": stream_offset_s(s["stream_vbegin_verbatim"], s["session_date"], s["meeting_start_time"]),
             "items": [{
                 "id": i["id"],
                 "order": i["item_order"],
@@ -348,6 +353,8 @@ class Exporter:
                 "items.type": PROVENANCE_DERIVED,
                 "speakers.party_id": PROVENANCE_DERIVED,
                 "speakers.role_title_en": PROVENANCE_DERIVED,
+                "stream_offset_s": PROVENANCE_DERIVED,
+                "stream_offset_verbatim_s": PROVENANCE_DERIVED,
             },
         }
 

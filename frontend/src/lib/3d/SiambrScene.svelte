@@ -33,6 +33,7 @@
 		hud,
 		paused = false,
 		stream = null,
+		streamOffset = 0,
 		sound = new ScreenSound()
 	}: {
 		desks: Desk[];
@@ -44,6 +45,8 @@
 		paused?: boolean;
 		/** Senedd TV stream for the wall screens; null where the video does not run. */
 		stream?: string | null;
+		/** Seconds to add to sitting time to reach that stream's own timeline. */
+		streamOffset?: number;
 		sound?: ScreenSound;
 	} = $props();
 
@@ -98,7 +101,7 @@
 <Dais />
 <Desks {desks} seats={view.seats} focus={hud.focus} floor={view.floor} liveDeskId={view.liveDesk?.id ?? null} paused={paused || !clock?.playing} reducedMotion={hud.reducedMotion} bind:hitMesh={deskMesh} bind:pickMesh bind:llywyddHit />
 {#if stream}
-	<ChamberScreen {clock} {stream} {sound} held={paused} bind:texture={screenVideo} />
+	<ChamberScreen {clock} {stream} {sound} offset={streamOffset} held={paused} bind:texture={screenVideo} />
 {/if}
 <DivisionDisplays floor={view.floor} t={clock?.t ?? 0} video={stream ? screenVideo : null} />
 {#if hud.walk}

@@ -255,14 +255,23 @@ def _published_streams(conn: sqlite3.Connection, static: Path) -> tuple[list[tup
 
 
 def check_stream_gate(conn: sqlite3.Connection, static: Path) -> Check:
-    """An exported stream url is Gold's, and only where its first segment is within the tolerance of the sitting start."""
+    """An exported stream url is Gold's, only where it can be placed on the sitting clock, and its
+    exported offset is the measured gap between the stream's first segment and the Record's start."""
     name = "exported stream urls pass the alignment gate"
     published, failures = _published_streams(conn, static)
     for s, url in published:
-        aligned = senedd_tv.is_aligned(s["vbegin"], s["session_date"], s["meeting_start_time"])
-        expected = s["url"] if aligned else None
+        offset = senedd_tv.stream_offset_s(s["vbegin"], s["session_date"], s["meeting_start_time"])
+        expected = s["url"] if offset is not None else None
         if url != expected:
             failures.append(f"{s['id']}: exported {s['feed']} {url!r}, gate gives {expected!r}")
+            continue
+        exported = static / "sittings" / f"{s['session_date']}.json"
+        if not exported.exists():
+            continue
+        sitting = json.loads(exported.read_text(encoding="utf-8"))
+        key = "stream_offset_s" if s["feed"] == "stream_url" else "stream_offset_verbatim_s"
+        if sitting.get(key) != offset:
+            failures.append(f"{s['id']}: exported {key} {sitting.get(key)!r}, measured {offset!r}")
     return Check(name, failures)
 
 

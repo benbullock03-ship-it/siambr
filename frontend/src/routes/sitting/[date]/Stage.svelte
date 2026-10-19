@@ -82,9 +82,12 @@
 	// No wall-screen video on phones, with reduced motion or in kiosk, or with the flag off: no <video>, no hls.js.
 	const screensRun = $derived(SCREEN_VIDEO && !phone && !hud.reducedMotion && !hud.kiosk);
 	const sound = new ScreenSound();
+	const asSpoken = $derived(sound.feed === 'verbatim' && Boolean(sitting.stream_url_verbatim));
 	const screenStream = $derived(
-		!screensRun ? null : sound.feed === 'verbatim' && sitting.stream_url_verbatim ? sitting.stream_url_verbatim : sitting.stream_url
+		!screensRun ? null : asSpoken ? sitting.stream_url_verbatim : sitting.stream_url
 	);
+	// The video's timeline is the stream's, which may begin before the Record's origin.
+	const screenOffset = $derived(!screensRun ? 0 : (asSpoken ? sitting.stream_offset_verbatim_s : sitting.stream_offset_s) ?? 0);
 	// A new sitting or feed gets a fresh attempt at its own stream.
 	$effect(() => {
 		void sitting.date;
@@ -285,7 +288,7 @@
 			{@const SiambrScene = Scene}
 			<div class="canvas" aria-hidden="true">
 				<SiambrCanvas forceWebGL={renderer === 'webgl2'} onfailure={() => (fallback = 'no-webgl')} onready={(backend) => (renderer = backend)}>
-					<SiambrScene {desks} {view} {clock} {rig} {player} {hud} {paused} stream={screenStream} {sound} />
+					<SiambrScene {desks} {view} {clock} {rig} {player} {hud} {paused} stream={screenStream} streamOffset={screenOffset} {sound} />
 				</SiambrCanvas>
 			</div>
 		{:else}
