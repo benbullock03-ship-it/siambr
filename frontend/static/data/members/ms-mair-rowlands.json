@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,142 @@
   "canonical_name": "Mair Rowlands",
   "constituency_name_cy": "Bangor Conwy Môn",
   "constituency_name_en": "Bangor Conwy Môn",
-  "contribution_count": 23,
+  "contribution_count": 34,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778980",
+          "item_id": "item-16316-261014-5",
+          "item_title_en": "4. 90-second Statements",
+          "lang": "cy",
+          "t_start": 5924,
+          "text_english": "This week marks Baby Loss Awareness Week, a time to remember the babies lost too soon and to recognise the deep impact that baby loss during pregnancy, during childbirth or afterwards can have on families.",
+          "text_original": "Mae'r wythnos hon yn nodi Wythnos Ymwybyddiaeth o Golli Babi, sef amser i gofio babanod sydd wedi eu colli'n rhy fuan ac i gydnabod yr effaith ddofn y gall colled yn ystod beichiogrwydd, ar adeg geni neu wedi geni ei chael ar deuluoedd.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=5924"
+        },
+        {
+          "id": "contribution-778982",
+          "item_id": "item-16316-261014-5",
+          "item_title_en": "4. 90-second Statements",
+          "lang": "en",
+          "t_start": 5942,
+          "text_english": "Baby Loss Awareness Week is an opportunity to bring us together and to ensure that anyone affected by pregnancy and baby loss knows that they are not alone.",
+          "text_original": "Baby Loss Awareness Week is an opportunity to bring us together and to ensure that anyone affected by pregnancy and baby loss knows that they are not alone.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=5942"
+        },
+        {
+          "id": "contribution-778986",
+          "item_id": "item-16316-261014-5",
+          "item_title_en": "4. 90-second Statements",
+          "lang": "cy",
+          "t_start": 5953,
+          "text_english": "Some of us in this Chamber, our families, friends, colleagues and constituents will have been touched in some way by pregnancy loss or baby loss.",
+          "text_original": "Bydd rhai ohonom yn y Siambr hon, ein teuluoedd, ffrindiau, cydweithwyr ac etholwyr wedi cael ein cyffwrdd mewn rhyw ffordd gan golled beichiogrwydd neu golled babi.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=5953"
+        },
+        {
+          "id": "contribution-778989",
+          "item_id": "item-16316-261014-5",
+          "item_title_en": "4. 90-second Statements",
+          "lang": "en",
+          "t_start": 5966,
+          "text_english": "Baby Loss Awareness Week is an opportunity not only to remember babies who have died too soon, but also to break the silence, increase understanding and ensure that no-one feels they have to face their grief alone. Families must also be at the heart of baby loss investigations and efforts to provide answers.",
+          "text_original": "Baby Loss Awareness Week is an opportunity not only to remember babies who have died too soon, but also to break the silence, increase understanding and ensure that no-one feels they have to face their grief alone. Families must also be at the heart of baby loss investigations and efforts to provide answers.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=5966"
+        },
+        {
+          "id": "contribution-778990",
+          "item_id": "item-16316-261014-5",
+          "item_title_en": "4. 90-second Statements",
+          "lang": "cy",
+          "t_start": 5985,
+          "text_english": "Although every story is different, they have one thing in common: no-one should feel that they have to face this grief alone. This is why the work of charities like Sands Cymru and Tommy's, alongside health professionals like bereavement midwives and support groups across Wales, are so valuable to families.",
+          "text_original": "Er bod pob stori yn wahanol, mae un peth yn gyffredin: ni ddylai neb deimlo eu bod yn wynebu'r galar hwn ar eu pen eu hunain. Dyna pam mae gwaith elusennau fel Sands Cymru a Tommy's, ynghyd â gweithwyr iechyd proffesiynol fel bydwragedd profedigaeth a grwpiau cymorth ledled Cymru, mor werthfawr i deuluoedd.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=5985"
+        },
+        {
+          "id": "contribution-778964",
+          "item_id": "item-16316-261014-5",
+          "item_title_en": "4. 90-second Statements",
+          "lang": "en",
+          "t_start": 6009,
+          "text_english": "As we approach the Wave of Light tomorrow, when people will light a candle in memory of babies we have lost, let us remember every baby and offer our support and compassion to all those living with loss. Diolch yn fawr.",
+          "text_original": "As we approach the Wave of Light tomorrow, when people will light a candle in memory of babies we have lost, let us remember every baby and offer our support and compassion to all those living with loss. Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=6009"
+        }
+      ],
+      "date": "2026-10-14",
+      "record_page_url": "https://record.senedd.wales/Plenary/16316"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-778471",
+          "item_id": "item-16315-261013-2",
+          "item_title_en": "2. Business Statement and Announcement",
+          "lang": "cy",
+          "t_start": 4319,
+          "text_english": "Can I ask for a statement from the Deputy Minister for Transport on Network Rail's plans to close the railway between Holyhead and Chester for four weeks in January to carry out repair works along the line? This is a line that thousands of people rely on, and therefore the impact that this will have on passengers in Bangor Conwy Môn and north Wales will be significant. However, many people who use these services regularly remain unaware of the disruption that lies ahead. I'm pleased to see that Network Rail has now published further information about the work, but I would like to request a statement from the Deputy Minister outlining the support that the Welsh Government can provide between now and January to spread the word, ensuring that local residents are aware of the situation and have the opportunity to make alternative travel arrangements. Thank you.",
+          "text_original": "Gaf i ofyn am ddatganiad gan y Dirprwy Weinidog dros Drafnidiaeth ar gynlluniau Network Rail i gau'r rheilffordd rhwng Caergybi a Chaer am bedair wythnos ym mis Ionawr er mwyn cynnal gwaith atgyweirio ar hyd y llinell? Mae hwn yn rheilffordd y mae miloedd o bobl yn ddibynnol arno, ac felly bydd yr effaith y bydd hyn yn ei chael ar deithwyr ym Mangor Conwy Môn a gogledd Cymru yn sylweddol. Serch hynny, mae nifer fawr o bobl sy'n defnyddio'r gwasanaethau yma yn rheolaidd yn parhau yn anymwybodol o'r tarfu sydd o'u blaenau. Dwi'n falch o weld bod Network Rail erbyn hyn wedi cyhoeddi rhagor o ddeunydd gwybodaeth am y gwaith, ond hoffwn ofyn am ddatganiad gan y Dirprwy Weinidog sy'n gosod allan y gefnogaeth y gall Llywodraeth Cymru ei rhoi rhwng rŵan a mis Ionawr i ledaenu'r gair, fel bod trigolion lleol yn ymwybodol o'r sefyllfa ac yn cael cyfle i baratoi cynlluniau teithio amgen. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=4319"
+        }
+      ],
+      "date": "2026-10-13",
+      "record_page_url": "https://record.senedd.wales/Plenary/16315"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776131",
+          "item_id": "item-16313-261006-4",
+          "item_title_en": "4. Statement by the Deputy Minister for Transport: Strategic Priorities for the Menai Strait Crossings and M4 around Newport",
+          "lang": "cy",
+          "t_start": 9840,
+          "text_english": "Thank you very much, Dirprwy Lywydd. I thank the Minister for his statement and for all his work in recent months to put a plan and a commitment for a third crossing over the Menai back on the table. I know that this news will be welcomed across communities adjacent to the bridge and beyond. Those communities have had to endure years of disruption and our local economy has suffered as a result of significant congestion. Of course, everyone accepts that a project as significant and complex as this cannot be implemented overnight, so I welcome the short-term measures that the Minister has mentioned to ease congestion in the meantime. Could the Deputy Minister share more information on the next steps that the Government will take to develop the plan and the business case, in order to provide a better understanding for the communities who are too often affected by the resilience problems of the current Menai crossings? Thank you.",
+          "text_original": "Diolch yn fawr, Ddirprwy Lywydd. Diolch i'r Gweinidog am ei ddatganiad ac am ei holl waith yn y misoedd diwethaf i roi cynllun ac ymrwymiad ar gyfer trydedd bont dros y Fenai yn ôl ar y bwrdd. Dwi'n gwybod bod y newyddion yma yn cael ei groesawu ar draws cymunedau cyfagos i'r bont a thu hwnt. Mae'r cymunedau hynny wedi gorfod wynebu blynyddoedd o darfu ac mae ein heconomi leol wedi dioddef o ganlyniad i dagfeydd sylweddol. Wrth gwrs, mae pawb yn derbyn nad dros nos mae gwireddu prosiect mor sylweddol a chymhleth â hyn, felly dwi'n croesawu'r mesurau tymor byr mae'r Gweinidog wedi'u crybwyll i helpu lleddfu'r tagfeydd yn y cyfamser. A all y Dirprwy Weinidog rannu mwy o wybodaeth ar y camau nesaf y bydd y Llywodraeth yn eu cymryd i ddatblygu cynllun a'r achos busnes, er mwyn rhoi gwell dealltwriaeth i'n cymunedau sy'n cael eu heffeithio'n rhy aml gan broblemau gwydnwch croesfannau'r Fenai? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=9840"
+        }
+      ],
+      "date": "2026-10-06",
+      "record_page_url": "https://record.senedd.wales/Plenary/16313"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-772925",
+          "item_id": "item-16264-260929-4",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "cy",
+          "t_start": 4535,
+          "text_english": "Could I request a statement from the Cabinet Minister for Social Justice and Equality on the disappointing news that the post office on Bangor high street will close temporarily in January next year? Although the Post Office only anticipates a period of six months of disruption before an alternative service is established, I am concerned that the temporary closure will have a significant negative impact on the residents of Bangor and the surrounding areas who depend on the branch to access essential services. I would like a statement from the Minister that elaborates on the discussions that the Welsh Government is holding with the UK Government regarding the protection of the network of Post Office branches in Wales and the actions that are being taken to ensure that the key services of the Post Office remain accessible to all.",
+          "text_original": "Gaf i ofyn am ddatganiad gan y Gweinidog Cabinet dros Gyfiawnder Cymdeithasol a Chydraddoldeb ar y newyddion siomedig y bydd y swyddfa bost ar stryd fawr Bangor yn cau dros dro ym mis Ionawr y flwyddyn nesaf? Er mai cyfnod o chwe mis o darfu yn unig y mae Swyddfa'r Post yn rhagweld cyn bydd gwasanaeth amgen yn cael ei sefydlu, rwy'n pryderu y bydd y cau dros dro yn cael effaith negyddol sylweddol ar drigolion Bangor a'r ardaloedd cyfagos sy'n dibynnu ar y gangen i gael mynediad at wasanaethau hanfodol. Hoffwn ddatganiad gan y Gweinidog sy'n ymhelaethu ar y trafodaethau y mae Llywodraeth Cymru yn eu cynnal gyda Llywodraeth y Deyrnas Unedig ynghylch diogelu rhwydwaith y canghennau Swyddfa'r Post yng Nghymru a'r camau sy'n cael eu cymryd i sicrhau bod gwasanaethau allweddol Swyddfa'r Post yn parhau i fod yn hygyrch i bawb.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=4535"
+        },
+        {
+          "id": "contribution-773055",
+          "item_id": "item-16264-260929-8",
+          "item_title_en": "7. Statement by the Deputy Minister for Social Care, Mental Health and Women's Health: Improving Family-centred Neonatal Care in Wales: Progress Towards the Bliss Baby Charter",
+          "lang": "cy",
+          "t_start": 13364,
+          "text_english": "Thank you very much, Llywydd, and thank you, Deputy Minister. I would like to echo the words of Janet Finch-Saunders and the Deputy Minister about the very sad news about the death of a baby in Bangor, which is a great blow to the community. I would also declare an interest, as I am going to talk about my personal experience.\n\nI welcome the focus on family-centred neonatal care and the progress that has been made to the Bliss baby charter. This is a very personal matter for me. My son was born prematurely after 32 weeks, and he spent almost a month in the infant specialist care unit at Ysbyty Gwynedd. We received exceptional care from the staff there, and I will always be grateful for that.\n\nThe experience also highlighted the challenges that families face, including my partner still having to work during that period. Also, because of the aftercare that I received, I didn't get to see my son for a number of hours, and I was in a ward with a number of other mothers with their newborns, with my son in an incubator in the specialist unit.\n\nBut one of the most important things for us was to be included in our son's care. The staff treated us as part of the team around him, and that reflects the principles of the charter. That includes things such as being able to feed him through a tube and the skin-to-skin element, and there was accommodation available there for us to stay, but maybe the resources weren't the best they could have been—",
+          "text_original": "Diolch yn fawr iawn, Lywydd, a diolch, Ddirprwy Weinidog. Hoffwn ategu geiriau'r Gweinidog a Janet Finch-Saunders ynglŷn â'r newyddion hynod o drist am farwolaeth babi ym Mangor, sy'n ergyd drom i'r gymuned leol. Dyma hefyd ddatgan buddiant, gan fy mod i am sôn ychydig am brofiad personol.\n\nRydw i'n croesawu'r ffocws ar ofal newyddenedigol sy'n canolbwyntio ar y teulu a'r cynnydd sydd wedi'i wneud drwy siarter fabanod Bliss. Mae'n fater personol iawn i mi. Cafodd fy mab ei eni'n gynamserol ar ôl 32 wythnos, a threuliodd bron i fis yn uned gofal arbenigol babanod Ysbyty Gwynedd. Cawsom ofal arbennig gan y staff yno, a byddaf bob amser yn ddiolchgar am hynny.\n\nRoedd y profiad hefyd yn amlygu'r heriau y mae teuluoedd yn eu hwynebu, sy'n cynnwys fy mhartner yn dal yn gorfod gweithio yn ystod y cyfnod yna. Hefyd, oherwydd yr ôl-ofal roeddwn i'n ei dderbyn, ni chefais weld fy mab am nifer o oriau, ac roeddwn i mewn ward efo nifer o famau eraill efo'u babanod newydd, efo fy mab i mewn inciwbetor yn yr uned arbenigol.\n\nOnd un o'r pethau pwysicaf i ni oedd cael ein cynnwys yng ngofal ein mab. Roedd y staff yn ein trin fel rhan o'r tîm o'i gwmpas, ac mae hynny'n adlewyrchu egwyddorion y siarter. Roedd hyn yn cynnwys pethau fel ein dysgu ni sut i'w fwydo fo trwy diwb, yr elfen skin-to-skin, ac mi roedd yna lety ar gael yno i ni aros, ond efallai nad oedd yr adnoddau ddim y gorau y gallen nhw fod—",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=13364"
+        },
+        {
+          "id": "contribution-773063",
+          "item_id": "item-16264-260929-8",
+          "item_title_en": "7. Statement by the Deputy Minister for Social Care, Mental Health and Women's Health: Improving Family-centred Neonatal Care in Wales: Progress Towards the Bliss Baby Charter",
+          "lang": "cy",
+          "t_start": 13453,
+          "text_english": "Sorry. So, how will the Government ensure that the best practices are shared and incorporated consistently in all neonatal units across Wales, and how will you ensure that the experiences and views of parents are collected and used regularly to inform further improvements to neonatal services in Wales? Thank you.",
+          "text_original": "Sori. Felly, sut bydd y Llywodraeth yn sicrhau bod yr arferion gorau hyn yn cael eu rhannu a'u hymgorffori'n gyson ym mhob rhan o Gymru, a sut ydych chi'n sicrhau bod barn rhieni a'u profiadau nhw'n cael eu casglu a'u defnyddio'n rheolaidd i lywio gwelliannau pellach i wasanaethau? Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=13453"
+        }
+      ],
+      "date": "2026-09-29",
+      "record_page_url": "https://record.senedd.wales/Plenary/16264"
+    },
     {
       "contributions": [
         {

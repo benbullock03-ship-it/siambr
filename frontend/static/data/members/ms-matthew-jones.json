@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,164 @@
   "canonical_name": "Matthew Jones",
   "constituency_name_cy": "Sir Fynwy Torfaen",
   "constituency_name_en": "Sir Fynwy Torfaen",
-  "contribution_count": 18,
+  "contribution_count": 30,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778435",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "8. What action is the Government taking to improve and integrate public transport links in Sir Fynwy Torfaen? OQ64704",
+          "text_original": "8. Pa gamau mae'r Llywodraeth yn eu cymryd i wella ac integreiddio cysylltiadau trafnidiaeth gyhoeddus yn Sir Fynwy Torfaen? OQ64704",
+          "tv_url": "http://www.senedd.tv/en/16315"
+        },
+        {
+          "id": "contribution-778437",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 3260,
+          "text_english": "Diolch, Brif Weinidog. The transport Minister's announcement last week shows that this Government is willing to tackle transport issues that have previously been kicked down the road. Now, this is an opportunity to vastly improve public transport throughout Monmouthshire and Torfaen. Because when people have the option of quick, frequent and reliable public transport, they'll take it, especially if it's convenient and affordable.\n\nNow, previous south Wales metro reports have proposed upgrading to transport services, with more frequent trains between Abergavenny and Cardiff and rapid bus transport from Monmouth to Newport. So, will this Government's fresh look at transport in the south-east of Wales look to provide convenient and affordable public transport, including, if I may, rapid bus transport between towns in Sir Fynwy Torfaen, more frequent trains between Abergavenny and Cardiff, and more reliable trains to and from Chepstow, Severn Tunnel Junction and the much-anticipated Magor and Undy station? Diolch.",
+          "text_original": "Diolch, Brif Weinidog. The transport Minister's announcement last week shows that this Government is willing to tackle transport issues that have previously been kicked down the road. Now, this is an opportunity to vastly improve public transport throughout Monmouthshire and Torfaen. Because when people have the option of quick, frequent and reliable public transport, they'll take it, especially if it's convenient and affordable.\n\nNow, previous south Wales metro reports have proposed upgrading to transport services, with more frequent trains between Abergavenny and Cardiff and rapid bus transport from Monmouth to Newport. So, will this Government's fresh look at transport in the south-east of Wales look to provide convenient and affordable public transport, including, if I may, rapid bus transport between towns in Sir Fynwy Torfaen, more frequent trains between Abergavenny and Cardiff, and more reliable trains to and from Chepstow, Severn Tunnel Junction and the much-anticipated Magor and Undy station? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=3260"
+        }
+      ],
+      "date": "2026-10-13",
+      "record_page_url": "https://record.senedd.wales/Plenary/16315"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776619",
+          "item_id": "item-16314-261007-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Health and Care",
+          "lang": "en",
+          "t_start": 2733,
+          "text_english": "Gweinidog, getting to and from appointments using NHS-provided transport or public transport is a significant challenge in Sir Fynwy Torfaen, as we've just heard, and one that affects those who are already the most vulnerable. I've heard accounts of constituents who have been unable to secure transport home from hospitals after treatment, and even having to pay for hotels just to make early appointments. For those without enough money to pay or without supportive friends and family, appointments can be missed, and people struggling may have to pay large sums for taxis. For those less well-off, the effects are severe. So, what steps is the Government taking to make sure the most vulnerable in our society can get to and from essential appointments and treatments safely? Diolch.",
+          "text_original": "Gweinidog, getting to and from appointments using NHS-provided transport or public transport is a significant challenge in Sir Fynwy Torfaen, as we've just heard, and one that affects those who are already the most vulnerable. I've heard accounts of constituents who have been unable to secure transport home from hospitals after treatment, and even having to pay for hotels just to make early appointments. For those without enough money to pay or without supportive friends and family, appointments can be missed, and people struggling may have to pay large sums for taxis. For those less well-off, the effects are severe. So, what steps is the Government taking to make sure the most vulnerable in our society can get to and from essential appointments and treatments safely? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=2733"
+        },
+        {
+          "id": "contribution-776968",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "en",
+          "t_start": 16151,
+          "text_english": "Just a quick one, sorry. Just to look at the actual wording of the motion, which says that you would\n\n'end access to HMOs and social housing for foreign nationals'.\n\nI just wanted to pick up on a point that I would have said earlier on. I believe you're Canadian originally, so—. Well, sorry, I'm not sure. Or there are other members of your group who weren't necessarily from here. [Interruption.] But this motion—. Originally, originally. But this motion would say—",
+          "text_original": "Just a quick one, sorry. Just to look at the actual wording of the motion, which says that you would\n\n'end access to HMOs and social housing for foreign nationals'.\n\nI just wanted to pick up on a point that I would have said earlier on. I believe you're Canadian originally, so—. Well, sorry, I'm not sure. Or there are other members of your group who weren't necessarily from here. [Interruption.] But this motion—. Originally, originally. But this motion would say—",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=16151"
+        },
+        {
+          "id": "contribution-776985",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "en",
+          "t_start": 16182,
+          "text_english": "Yes, originally.",
+          "text_original": "Yes, originally.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=16182"
+        },
+        {
+          "id": "contribution-776977",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "en",
+          "t_start": 16183,
+          "text_english": "Sorry, sorry. The point I'm trying to make, and I'll try to make it succinctly, is that under this, if this passed, you would not be allowed to be in a HMO. Is that right, that you would not be allowed to live in a HMO?",
+          "text_original": "Sorry, sorry. The point I'm trying to make, and I'll try to make it succinctly, is that under this, if this passed, you would not be allowed to be in a HMO. Is that right, that you would not be allowed to live in a HMO?",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=16183"
+        },
+        {
+          "id": "contribution-776982",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "en",
+          "t_start": 16201,
+          "text_english": "I'm sorry, I'm sorry, I didn't know that. I didn't mean to offend you.",
+          "text_original": "I'm sorry, I'm sorry, I didn't know that. I didn't mean to offend you.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=16201"
+        }
+      ],
+      "date": "2026-10-07",
+      "record_page_url": "https://record.senedd.wales/Plenary/16314"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-775832",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 150,
+          "text_english": "Diolch, Brif Weinidog. Access to essential services is a major concern for many of my constituents in Monmouthshire, and the statistics back that up. Some of the most pressing issues found in the Welsh index of multiple deprivation statistics include access to pharmacies, GPs, local shops and childcare. These services are often twice as hard to reach in rural areas as the national average. The challenges are hard to tackle, but there are communities working to do this. What is the Welsh Government doing to address these wide-ranging problems in rural areas like Monmouthshire?",
+          "text_original": "Diolch, Brif Weinidog. Access to essential services is a major concern for many of my constituents in Monmouthshire, and the statistics back that up. Some of the most pressing issues found in the Welsh index of multiple deprivation statistics include access to pharmacies, GPs, local shops and childcare. These services are often twice as hard to reach in rural areas as the national average. The challenges are hard to tackle, but there are communities working to do this. What is the Welsh Government doing to address these wide-ranging problems in rural areas like Monmouthshire?",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=150"
+        }
+      ],
+      "date": "2026-10-06",
+      "record_page_url": "https://record.senedd.wales/Plenary/16313"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-773666",
+          "item_id": "item-16265-260930-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Rural Resilience and Sustainability",
+          "lang": "en",
+          "t_start": 5337,
+          "text_english": "I welcome your rapid first steps on the climate and nature action plan for Wales, because if we're going to meet net zero by 2040 and achieve substantial nature recovery by 2050, we'll need to keep moving quickly and effectively, because the pace at which nature is declining in recent years is truly alarming. Since before the election, I've been in touch with groups like Save the River Usk, who are not just bringing much-needed attention to the subject but also building up detailed data sets at a grass-roots level, providing crucial local insights about the impact of the climate and nature crisis. You've said that the Government's new climate and nature board will reflect the experiences and priorities of people and communities across Wales. Will there be a role for informed and organised groups, like Save the River Usk, on the board so that their local knowledge and experience can be harnessed? Diolch.",
+          "text_original": "I welcome your rapid first steps on the climate and nature action plan for Wales, because if we're going to meet net zero by 2040 and achieve substantial nature recovery by 2050, we'll need to keep moving quickly and effectively, because the pace at which nature is declining in recent years is truly alarming. Since before the election, I've been in touch with groups like Save the River Usk, who are not just bringing much-needed attention to the subject but also building up detailed data sets at a grass-roots level, providing crucial local insights about the impact of the climate and nature crisis. You've said that the Government's new climate and nature board will reflect the experiences and priorities of people and communities across Wales. Will there be a role for informed and organised groups, like Save the River Usk, on the board so that their local knowledge and experience can be harnessed? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=5337"
+        }
+      ],
+      "date": "2026-09-30",
+      "record_page_url": "https://record.senedd.wales/Plenary/16265"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771912",
+          "item_id": "item-16263-260923-9",
+          "item_title_en": "9. Short Debate: The unacceptable pause in scheduled treatment for trans patients",
+          "lang": "en",
+          "t_start": 16858,
+          "text_english": "I thank Anthony for this debate. I want to begin by thanking you, Mabon, the Minister. I value every conversation that we've had and I recognise your commitment to standing up for trans people and trying to make sure that this situation is resolved. Also, to all Government Ministers, it's clear that you support trans people. But this decision was made by the NWJCC at arm's length from the Government, and the NWJCC has urgent questions to answer. Its lack of transparency is highly concerning. More than three weeks ago, I wrote, with backbenchers, to the NWJCC with urgent questions about the decision and how people would be supported. We've had no reply. A recent virtual briefing on the pause raised more questions than answers. These have not been answered yet. And today, the NWJCC sent some Members a list of FAQs about its review process, but not to me—I've had to have it from another Member. The FAQs raise even further questions about the timeline, which I want the NWJCC to answer. If they've reviewed all the patients and are satisfied, or aren't satisfied, what next? At what point will the pause stop? Is it 10 patients, or 60? Is it for patients registered for surgery in 2027? Many people have put their lives on hold, including taking months off work to recover after surgery. Their health, livelihoods and finances are all now in limbo. We must reassure a community already experiencing fear and anxiety, made worse because the NWJCC has not publicly or adequately explained their concerns. Any independent review must quickly provide answers to those awaiting surgery and restore confidence across the wider trans community. Diolch.",
+          "text_original": "I thank Anthony for this debate. I want to begin by thanking you, Mabon, the Minister. I value every conversation that we've had and I recognise your commitment to standing up for trans people and trying to make sure that this situation is resolved. Also, to all Government Ministers, it's clear that you support trans people. But this decision was made by the NWJCC at arm's length from the Government, and the NWJCC has urgent questions to answer. Its lack of transparency is highly concerning. More than three weeks ago, I wrote, with backbenchers, to the NWJCC with urgent questions about the decision and how people would be supported. We've had no reply. A recent virtual briefing on the pause raised more questions than answers. These have not been answered yet. And today, the NWJCC sent some Members a list of FAQs about its review process, but not to me—I've had to have it from another Member. The FAQs raise even further questions about the timeline, which I want the NWJCC to answer. If they've reviewed all the patients and are satisfied, or aren't satisfied, what next? At what point will the pause stop? Is it 10 patients, or 60? Is it for patients registered for surgery in 2027? Many people have put their lives on hold, including taking months off work to recover after surgery. Their health, livelihoods and finances are all now in limbo. We must reassure a community already experiencing fear and anxiety, made worse because the NWJCC has not publicly or adequately explained their concerns. Any independent review must quickly provide answers to those awaiting surgery and restore confidence across the wider trans community. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=16858"
+        }
+      ],
+      "date": "2026-09-23",
+      "record_page_url": "https://record.senedd.wales/Plenary/16263"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-770757",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 2098,
+          "text_english": "First Minister, Monmouthshire has faced catastrophic flooding in recent years, and I was pleased that you were able to visit Monmouth and Abergavenny before the Senedd elections to speak to some of the local people affected, as well as to those finding solutions—long-lasting solutions—upstream. The scenes from last year’s flooding, especially those from Monmouth, will be etched in the memory of everyone who saw them for a long time. These once in 100 years events are getting more and more frequent, and we must now assume that they could happen at any time. As we've heard, the approaching El Niño event is on the horizon, with extreme weather events already anticipated, so, with this in mind, how is the Government improving flood preparedness for this winter? And in the longer term, how can we learn from the experiences of Monmouthshire residents to improve flood management for their community and for all of Wales? Diolch.",
+          "text_original": "First Minister, Monmouthshire has faced catastrophic flooding in recent years, and I was pleased that you were able to visit Monmouth and Abergavenny before the Senedd elections to speak to some of the local people affected, as well as to those finding solutions—long-lasting solutions—upstream. The scenes from last year’s flooding, especially those from Monmouth, will be etched in the memory of everyone who saw them for a long time. These once in 100 years events are getting more and more frequent, and we must now assume that they could happen at any time. As we've heard, the approaching El Niño event is on the horizon, with extreme weather events already anticipated, so, with this in mind, how is the Government improving flood preparedness for this winter? And in the longer term, how can we learn from the experiences of Monmouthshire residents to improve flood management for their community and for all of Wales? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=2098"
+        },
+        {
+          "id": "contribution-770936",
+          "item_id": "item-16262-260922-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 7037,
+          "text_english": "Trefnydd, we know that many people were preparing for surgery when they heard, by word of mouth or by social media, that their surgeries under the Welsh Gender Service had been paused during the Senedd's summer recess. One of my constituents was actually in hospital for surgery when they were told that their operation was cancelled, with no further support provided since then. You'll know that I've written, with other Members, to the NHS Wales Joint Commissioning Committee, who were responsible for this decision, asking about the evidence that informed this decision, the lack of communication with patients, and how patients' voices were not heard.\n\nI know that this decision was made by a medical body, rather than a political one, but I'd like to request a statement outlining how the Government will ensure that this community will be listened to, how their concerns will be central to any further decisions made about trans healthcare, and how they will be supported. Diolch.",
+          "text_original": "Trefnydd, we know that many people were preparing for surgery when they heard, by word of mouth or by social media, that their surgeries under the Welsh Gender Service had been paused during the Senedd's summer recess. One of my constituents was actually in hospital for surgery when they were told that their operation was cancelled, with no further support provided since then. You'll know that I've written, with other Members, to the NHS Wales Joint Commissioning Committee, who were responsible for this decision, asking about the evidence that informed this decision, the lack of communication with patients, and how patients' voices were not heard.\n\nI know that this decision was made by a medical body, rather than a political one, but I'd like to request a statement outlining how the Government will ensure that this community will be listened to, how their concerns will be central to any further decisions made about trans healthcare, and how they will be supported. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=7037"
+        }
+      ],
+      "date": "2026-09-22",
+      "record_page_url": "https://record.senedd.wales/Plenary/16262"
+    },
     {
       "contributions": [
         {

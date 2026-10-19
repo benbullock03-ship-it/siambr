@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,116 @@
   "canonical_name": "James Evans",
   "constituency_name_cy": "Brycheiniog Tawe Nedd",
   "constituency_name_en": "Brycheiniog Tawe Nedd",
-  "contribution_count": 53,
+  "contribution_count": 62,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-779040",
+          "item_id": "item-16316-261014-6",
+          "item_title_en": "5. Welsh Labour Debate: Palliative and end-of-life care",
+          "lang": "en",
+          "t_start": 9063,
+          "text_english": "I want to start by thanking the Labour group for bringing this motion forward today, and this important debate. Because this is an issue that should unite every single one of us in this Chamber, regardless of our political differences. Like Sam Rowlands, I want to thank Mark Isherwood, who's no longer in this Chamber, for all the work he did in this space. He was a leader in this area for us. We do miss him, but we look forward to seeing what Sam can do in his stead. \n\nOver the years, I've had the privilege of visiting a number of charities and organisations across Wales that provide care and support for people facing some of the most difficult moments of their lives. I've visited St David's, like Natasha Asghar mentioned. But one particular visit that has stayed with me was a visit to a children's palliative care centre, Tŷ Hafan, close to Cardiff. Seeing the compassion, dedication and extraordinary care provided to children with life-limiting conditions, and support offered not just to the children, but the parents and the families, is something that really does put life in perspective. I want to thank all those people who work in Tŷ Hafan for the amazing work that they do.\n\nBut palliative care isn't simply about helping someone at the end of their life, it's about helping people live as well as they possibly can for as long as they possibly can. It's about dignity, comfort, compassion and giving families the opportunity to make precious memories together. I want to pay tribute to every nurse, doctor, healthcare assistant, volunteer and charity worker who makes that possible across our country.\n\nBut, Llywydd, behind that incredible work lies a deeply worrying financial reality. Across Wales, hospices support more than 20,000 adults and children every year, yet around two thirds of their income still relies on charitable fundraising. Just last month, Hospice UK and Hospices Cymru warned that an additional £30 million is needed over the remainder of this Senedd term just to protect these essential services. Those are deeply concerning figures for everybody. They're not simply financial pressures on a balance sheet; they have real consequences for patients and families who depend on these services. I welcomed the additional funding that the Welsh Government has provided, including that £4.3 million package announced earlier this year and the work being undertaken to improve how hospices are commissioned, but we must recognise that short-term financial support cannot overtake that long-term security that the service and sector has asked for. We cannot expect our hospices to continue to provide reassurance to families in those most difficult circumstances.\n\nI think there also sits a wider issue of fairness. The Welsh Government itself has acknowledged that around one in four people in Wales currently lack access to hospice care or equivalent specialist palliative care support, and that simply cannot be acceptable. Whether someone lives in Cardiff, the Valleys, rural Powys or north Wales, they should be able to access the same dignity and compassion and that quality of care. We must remember that good palliative care is also about supporting families, providing respite, helping people remain in their own homes and reducing unnecessary pressure on our hospitals. People at the end of their life do not want to end up in accident and emergency departments sat on hard chairs waiting to be seen. That's just not where they want to go.\n\nBut I'd just like to say to the new Cabinet Minister: you made a lot of promises to this sector when you were the shadow Minister for this. In January 2024, you led a debate in this Senedd, calling for long-term funding. On 16 July that year, you also said you were unhappy about the delays to the sector. In September, you talked about inefficient progress, and in January and March of this year, you said that funding levels were unsustainable. So, in responding to this debate, Cabinet Minister, I hope that officials haven't got in your ear and changed your mind, because I think some of those assurances that you have given to the sector over the years are going to be held to account. I would like to see that you've listened and are going to act now you're in Government to deliver for this key sector, and deliver for those families and people across Wales who are relying on you to stand up to your promises. Thank you.",
+          "text_original": "I want to start by thanking the Labour group for bringing this motion forward today, and this important debate. Because this is an issue that should unite every single one of us in this Chamber, regardless of our political differences. Like Sam Rowlands, I want to thank Mark Isherwood, who's no longer in this Chamber, for all the work he did in this space. He was a leader in this area for us. We do miss him, but we look forward to seeing what Sam can do in his stead. \n\nOver the years, I've had the privilege of visiting a number of charities and organisations across Wales that provide care and support for people facing some of the most difficult moments of their lives. I've visited St David's, like Natasha Asghar mentioned. But one particular visit that has stayed with me was a visit to a children's palliative care centre, Tŷ Hafan, close to Cardiff. Seeing the compassion, dedication and extraordinary care provided to children with life-limiting conditions, and support offered not just to the children, but the parents and the families, is something that really does put life in perspective. I want to thank all those people who work in Tŷ Hafan for the amazing work that they do.\n\nBut palliative care isn't simply about helping someone at the end of their life, it's about helping people live as well as they possibly can for as long as they possibly can. It's about dignity, comfort, compassion and giving families the opportunity to make precious memories together. I want to pay tribute to every nurse, doctor, healthcare assistant, volunteer and charity worker who makes that possible across our country.\n\nBut, Llywydd, behind that incredible work lies a deeply worrying financial reality. Across Wales, hospices support more than 20,000 adults and children every year, yet around two thirds of their income still relies on charitable fundraising. Just last month, Hospice UK and Hospices Cymru warned that an additional £30 million is needed over the remainder of this Senedd term just to protect these essential services. Those are deeply concerning figures for everybody. They're not simply financial pressures on a balance sheet; they have real consequences for patients and families who depend on these services. I welcomed the additional funding that the Welsh Government has provided, including that £4.3 million package announced earlier this year and the work being undertaken to improve how hospices are commissioned, but we must recognise that short-term financial support cannot overtake that long-term security that the service and sector has asked for. We cannot expect our hospices to continue to provide reassurance to families in those most difficult circumstances.\n\nI think there also sits a wider issue of fairness. The Welsh Government itself has acknowledged that around one in four people in Wales currently lack access to hospice care or equivalent specialist palliative care support, and that simply cannot be acceptable. Whether someone lives in Cardiff, the Valleys, rural Powys or north Wales, they should be able to access the same dignity and compassion and that quality of care. We must remember that good palliative care is also about supporting families, providing respite, helping people remain in their own homes and reducing unnecessary pressure on our hospitals. People at the end of their life do not want to end up in accident and emergency departments sat on hard chairs waiting to be seen. That's just not where they want to go.\n\nBut I'd just like to say to the new Cabinet Minister: you made a lot of promises to this sector when you were the shadow Minister for this. In January 2024, you led a debate in this Senedd, calling for long-term funding. On 16 July that year, you also said you were unhappy about the delays to the sector. In September, you talked about inefficient progress, and in January and March of this year, you said that funding levels were unsustainable. So, in responding to this debate, Cabinet Minister, I hope that officials haven't got in your ear and changed your mind, because I think some of those assurances that you have given to the sector over the years are going to be held to account. I would like to see that you've listened and are going to act now you're in Government to deliver for this key sector, and deliver for those families and people across Wales who are relying on you to stand up to your promises. Thank you.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=9063"
+        },
+        {
+          "id": "contribution-779145",
+          "item_id": "item-16316-261014-9",
+          "item_title_en": "8. Short Debate: Green across the aisle: Making environmental stewardship a common cause",
+          "lang": "en",
+          "t_start": 14711,
+          "text_english": "I'll be short, because I know we're running out of time. As probably the third longest serving Member still left in this Chamber this afternoon, we've been through a lot of different changes, from 'Brexit and our land' to 'Sustainable Farming and our Land', and we've always talked about sustainability through that. I asked the Cabinet Minister a question the other day about the optional and collaborative layers, about ring-fenced funding, and he body-swerved the question quite remarkably, actually. But it'd be quite interesting to know from him, through those optional and collaborative layers, how much are you going to ring-fence for things like biodiversity, for increasing wildlife, for making sure that wildfires are addressed, and flooding. So, through your answer, Cabinet Minister, it'd be quite nice to see if you don't body-swerve the question again.",
+          "text_original": "I'll be short, because I know we're running out of time. As probably the third longest serving Member still left in this Chamber this afternoon, we've been through a lot of different changes, from 'Brexit and our land' to 'Sustainable Farming and our Land', and we've always talked about sustainability through that. I asked the Cabinet Minister a question the other day about the optional and collaborative layers, about ring-fenced funding, and he body-swerved the question quite remarkably, actually. But it'd be quite interesting to know from him, through those optional and collaborative layers, how much are you going to ring-fence for things like biodiversity, for increasing wildlife, for making sure that wildfires are addressed, and flooding. So, through your answer, Cabinet Minister, it'd be quite nice to see if you don't body-swerve the question again.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=14711"
+        },
+        {
+          "id": "contribution-779154",
+          "item_id": "item-16316-261014-9",
+          "item_title_en": "8. Short Debate: Green across the aisle: Making environmental stewardship a common cause",
+          "lang": "en",
+          "t_start": 15487,
+          "text_english": "Cabinet Minister, will you take an intervention?",
+          "text_original": "Cabinet Minister, will you take an intervention?",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=15487"
+        },
+        {
+          "id": "contribution-779156",
+          "item_id": "item-16316-261014-9",
+          "item_title_en": "8. Short Debate: Green across the aisle: Making environmental stewardship a common cause",
+          "lang": "en",
+          "t_start": 15491,
+          "text_english": "You mentioned wildfires and peatland. I know there are other Members in the Chamber who represent Blaenau Gwent, for example. If you look at Llangynidr, for example, it's almost lost all of its peatland. It would just be interesting to hear from the Government exactly what you're going to do in terms of restoration and the partners you're going to work with up there to make sure the peat is restored. Because if you want to hold water back, that is a way of doing it.",
+          "text_original": "You mentioned wildfires and peatland. I know there are other Members in the Chamber who represent Blaenau Gwent, for example. If you look at Llangynidr, for example, it's almost lost all of its peatland. It would just be interesting to hear from the Government exactly what you're going to do in terms of restoration and the partners you're going to work with up there to make sure the peat is restored. Because if you want to hold water back, that is a way of doing it.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=15491"
+        }
+      ],
+      "date": "2026-10-14",
+      "record_page_url": "https://record.senedd.wales/Plenary/16316"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-778554",
+          "item_id": "item-16315-261013-4",
+          "item_title_en": "4. Statement by the Cabinet Minister for Rural Resilience and Sustainability: Winter preparedness: Be flood ready",
+          "lang": "en",
+          "t_start": 9764,
+          "text_english": "Cabinet Secretary—no, Cabinet Minister now—you mentioned on a number of occasions during your statement the sustainable farming scheme, but actually I think the figure is £102 million, not £100 million, which you quoted. I hope there hasn't been a cut there. There is no actual ring-fenced support within the sustainable farming scheme for flood prevention and mitigation, but it is an overarching aim of the scheme to deliver that. So, I'd actually quite like to know from you today, out of that £102 million, how much of that is going to be identified for flood mitigation. If you want farmers to go into it, you'll have to provide the funding to enable them to go into these schemes. So, I'd quite like some assurances from you today. How much are you doing that and are you going to ring-fence any part of that money to deliver these aims that you've set out today?",
+          "text_original": "Cabinet Secretary—no, Cabinet Minister now—you mentioned on a number of occasions during your statement the sustainable farming scheme, but actually I think the figure is £102 million, not £100 million, which you quoted. I hope there hasn't been a cut there. There is no actual ring-fenced support within the sustainable farming scheme for flood prevention and mitigation, but it is an overarching aim of the scheme to deliver that. So, I'd actually quite like to know from you today, out of that £102 million, how much of that is going to be identified for flood mitigation. If you want farmers to go into it, you'll have to provide the funding to enable them to go into these schemes. So, I'd quite like some assurances from you today. How much are you doing that and are you going to ring-fence any part of that money to deliver these aims that you've set out today?",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=9764"
+        },
+        {
+          "id": "contribution-778611",
+          "item_id": "item-16315-261013-5",
+          "item_title_en": "5. Statement by the Cabinet Minister for Health and Care: Update on winter preparedness",
+          "lang": "en",
+          "t_start": 13391,
+          "text_english": "Diolch, Lywydd. I thank the Cabinet Minister for your statement today. Can I join you in thanking all those NHS staff across the country doing a lot of work under extreme circumstances? Now that I've stepped back from the shadow health role, and I'm sitting a little bit closer to the exit, I just want to remind you, and just reassure you, really, that it's no reflection on my job of scrutinising you over the NHS performance here in Wales. Because, Cabinet Minister, in opposition, you criticised Labour's winter plans as 'short-term sticking plasters' and 'no solutions' and challenged the absence of clear targets. Today, you said your Government has acted 'earlier than ever before', with health boards' plans being stress-tested and an additional £2 million for urgent and emergency care.\n\nNow, I welcome the preparation, but delivery and preparation are two very different things. So, I'd like to know what weaknesses have been identified through the stress-testing so far, and what changes are being made to reassure the public and the clinicians that results will be delivered. And will you today—because I know you do like targets, Cabinet Minister—publish measurable targets, reducing ambulance handover delays, emergency department waiting times, and delayed discharges, so that we can actually judge whether your Government's plans are actually delivering, and worth the paper they're written on?",
+          "text_original": "Diolch, Lywydd. I thank the Cabinet Minister for your statement today. Can I join you in thanking all those NHS staff across the country doing a lot of work under extreme circumstances? Now that I've stepped back from the shadow health role, and I'm sitting a little bit closer to the exit, I just want to remind you, and just reassure you, really, that it's no reflection on my job of scrutinising you over the NHS performance here in Wales. Because, Cabinet Minister, in opposition, you criticised Labour's winter plans as 'short-term sticking plasters' and 'no solutions' and challenged the absence of clear targets. Today, you said your Government has acted 'earlier than ever before', with health boards' plans being stress-tested and an additional £2 million for urgent and emergency care.\n\nNow, I welcome the preparation, but delivery and preparation are two very different things. So, I'd like to know what weaknesses have been identified through the stress-testing so far, and what changes are being made to reassure the public and the clinicians that results will be delivered. And will you today—because I know you do like targets, Cabinet Minister—publish measurable targets, reducing ambulance handover delays, emergency department waiting times, and delayed discharges, so that we can actually judge whether your Government's plans are actually delivering, and worth the paper they're written on?",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=13391"
+        },
+        {
+          "id": "contribution-778733",
+          "item_id": "item-16315-261013-8",
+          "item_title_en": "8. Legislative Consent Motion: The Armed Forces Bill",
+          "lang": "en",
+          "t_start": 17885,
+          "text_english": "Deputy First Minister, as co-chair of the cross-party group on the armed forces and cadets, I welcome this Bill and the strengthening of the armed forces covenant. Our service personnel, veterans and their families deserve our full support. But paragraph 25 of the Government's LCM makes clear that implementation costs in Wales must be met from existing budgets, with no additional UK Government funding. So, I'd like to ask you, Deputy First Minister: what assessment has your Government made of these costs, and how will you ensure that already stretched local authorities and health boards have the resources and the guidance they need to meet their expanded duties under the covenant? Diolch.",
+          "text_original": "Deputy First Minister, as co-chair of the cross-party group on the armed forces and cadets, I welcome this Bill and the strengthening of the armed forces covenant. Our service personnel, veterans and their families deserve our full support. But paragraph 25 of the Government's LCM makes clear that implementation costs in Wales must be met from existing budgets, with no additional UK Government funding. So, I'd like to ask you, Deputy First Minister: what assessment has your Government made of these costs, and how will you ensure that already stretched local authorities and health boards have the resources and the guidance they need to meet their expanded duties under the covenant? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=17885"
+        }
+      ],
+      "date": "2026-10-13",
+      "record_page_url": "https://record.senedd.wales/Plenary/16315"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771667",
+          "item_id": "item-16263-260923-7",
+          "item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+          "lang": "en",
+          "t_start": 12422,
+          "text_english": "Will you take an intervention?",
+          "text_original": "Will you take an intervention?",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=12422"
+        },
+        {
+          "id": "contribution-771711",
+          "item_id": "item-16263-260923-7",
+          "item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+          "lang": "en",
+          "t_start": 15129,
+          "text_english": "Diolch, Llywydd. Can I thank everybody contributing to such a lively debate this afternoon? There's nothing more I love in this Chamber than talking about the second greatest union in my life—other than my marriage, of course—and that is the great union of the United Kingdom of Great Britain and Northern Ireland, and the great benefits that it brings to the people right the way across these islands.\n\nWe opened with Adrian. As you said, we are Welsh, but we are also British. We can be both, and far too often this debate gets polarised between the two. And as we've seen during the election, Plaid Cymru like to politicise Welshness, which is an absolute disgrace. You also raised the point about the United Kingdom being our biggest trading partner. We know that. We know how important the United Kingdom is to us. But what would Plaid Cymru want us to do? They'd want to make us poorer and more reliant on the state, something that we all fundamentally disagree with.\n\nYou also raised an important point about defence. That's something that keeps us safe at night. It keeps us safe in our beds, and that is something we should always be proud of. Because, as Darren Millar raised, those are questions that Plaid Cymru simply cannot answer when they're asked about it. They dodge the question because they know they do not know the answer. You did raise the constitutional arrangements of these islands. Yes, they're not perfect, but what is the alternative? Who would we see as a President of Wales? Maybe the ex-Llywydd and Minister may be a candidate, who knows? But I don't think we need to change the arrangements that we currently have. Because Plaid would hold us at the back of the queue, and I think the Minister summed this up. They want to join the EU, but they want to leave another union. The hypocrisy in their argument is absolutely astounding.\n\nI agree with Huw from Labour. I agree with you on the point that Wales is stronger within the United Kingdom. That is something that we on these benches share with you—that we are stronger together. You said you weren't a member of Plaid Cymru, but by recent events, there is still time. So, just bear with yourself, you never know what could happen. They'll take anybody at the minute.\n\nYou also talked about the £7,000, about people being poorer. That is something we have to be clear about. The IFS have been very clear on this: that Wales would be poorer if we were an independent nation. But you also talked about wanting to devolve powers down to local government. The irony in that is you had 27 years to do that, and all Labour were interested in was 27 years of centralisation here in this building. So, I don't know when the change is coming. Maybe new leader Ken Skates has different views. That wasn't the view of some of the extreme socialists who were there before.\n\nAnd then we had Carrie Harper. You talked about managed decline. I would just gently say to you that the reason why Wales has had managed decline is because you've propped up previous Welsh Labour Governments for years and years. If there's anyone who's managed decline—. It's not the fault of the United Kingdom, it's the fault of yourselves for propping up Welsh Labour over the years.\n\nGareth, you talked about the First Minister perhaps misleading the public—I can't say the word I said the other day, or the Llywydd will pull me up again—the simple reason being that we were told that independence was not on the ballot paper. This wasn't going to be discussed. But what do we see at the first opportunity? The First Minister is quite happy to stand with the socialist cabal and the separatist cabal who are keen to rip apart our United Kingdom and talk with people who sponsored state terrorism against our country—an absolute disgrace. And you also talked about the Government needing to get on with the day job. How much Government time and money and energy is being wasted on this, looking at Welsh independence, when we have a pro-union majority in this Senedd? I think the Government need to remember that.\n\nDarren Millar, I really enjoyed your contribution. I didn't think we could ever get Mystic Meg into a contribution. [Laughter.] I'm not quite sure she'd be happy about the arrangement. You talked about our shared history, the blood, sweat and tears to protect, build and defend these islands. And you also talked about our armed forces, as others did. But as you said, Plaid can't answer the questions on the future. How are we going to sort out our policing? How are we going to sort out our defence? How are we going to sort out social security? Plaid have no answer for that. They're selling a pipe dream to people. And as we've seen through all the polls, the Welsh public are not buying it.\n\nElfed, you said that people in Wales didn't want Labour. And I agree, they didn't want Labour, but they didn't want independence either. What you see in this Chamber is a majority, and people voted in their droves for parties who are pro-union. They even voted for the Lib Dems, who've switched their position to pro-union now as well. Because we want to make sure we are stronger within the United Kingdom. I'm afraid I didn't agree with much else that you said.\n\nFrancesca O'Brien—a very passionate speech. You highlighted that the United Kingdom is the best country in this world, and I think everybody in this Chamber should agree with that. We should not be ashamed of our shared history. We should not be ashamed of our world history either. Britain built the world. You talked about how Welsh people have shaped our globe, how we have improved democracy, how we have brought freedoms to people around the globe. And I'm afraid to say what we see in this Chamber—[Interruption.] What we see in this Chamber, Llywydd, is political opportunism by others, rewriting our history to suit a political narrative to rip our country apart.\n\nMike Hedges—I always like your contributions, Mike, because you speak with a lot of experience about the Welsh tax receipts, about GVA, and Wales just not being able to afford our public services across this country if we become an independent nation. That is a matter of fact. But it's something yet again Plaid can't talk about. And also, the Institute for Fiscal Studies's report—that has always been very clear that Wales would not be able to afford to be an independent nation.\n\nAnd Iain McIntosh, you raised a lot of points, as others, but you said that that shared history that we have across this country is very, very important.\n\nThen we come to the First Minister's human shield, Dafydd Trystan Davies, who seems to be rolled out all the time to deal with things that the First Minister doesn't want to deal with, because he's too busy making a TikTok video somewhere, I suspect. [Interruption.] Yes, I will conclude after this. And you talked about the future of our nation. We want a strong Wales in a strong United Kingdom, because we believe that the people of Wales deserve to be part of our United Kingdom. We have helped to build it. We help to maintain it. And on these benches, we will always support it.\n\nSo, if Members across this Chamber want to support our union for a safer, stronger future across our United Kingdom, support our motion, reject the amendments and vote with us today.",
+          "text_original": "Diolch, Llywydd. Can I thank everybody contributing to such a lively debate this afternoon? There's nothing more I love in this Chamber than talking about the second greatest union in my life—other than my marriage, of course—and that is the great union of the United Kingdom of Great Britain and Northern Ireland, and the great benefits that it brings to the people right the way across these islands.\n\nWe opened with Adrian. As you said, we are Welsh, but we are also British. We can be both, and far too often this debate gets polarised between the two. And as we've seen during the election, Plaid Cymru like to politicise Welshness, which is an absolute disgrace. You also raised the point about the United Kingdom being our biggest trading partner. We know that. We know how important the United Kingdom is to us. But what would Plaid Cymru want us to do? They'd want to make us poorer and more reliant on the state, something that we all fundamentally disagree with.\n\nYou also raised an important point about defence. That's something that keeps us safe at night. It keeps us safe in our beds, and that is something we should always be proud of. Because, as Darren Millar raised, those are questions that Plaid Cymru simply cannot answer when they're asked about it. They dodge the question because they know they do not know the answer. You did raise the constitutional arrangements of these islands. Yes, they're not perfect, but what is the alternative? Who would we see as a President of Wales? Maybe the ex-Llywydd and Minister may be a candidate, who knows? But I don't think we need to change the arrangements that we currently have. Because Plaid would hold us at the back of the queue, and I think the Minister summed this up. They want to join the EU, but they want to leave another union. The hypocrisy in their argument is absolutely astounding.\n\nI agree with Huw from Labour. I agree with you on the point that Wales is stronger within the United Kingdom. That is something that we on these benches share with you—that we are stronger together. You said you weren't a member of Plaid Cymru, but by recent events, there is still time. So, just bear with yourself, you never know what could happen. They'll take anybody at the minute.\n\nYou also talked about the £7,000, about people being poorer. That is something we have to be clear about. The IFS have been very clear on this: that Wales would be poorer if we were an independent nation. But you also talked about wanting to devolve powers down to local government. The irony in that is you had 27 years to do that, and all Labour were interested in was 27 years of centralisation here in this building. So, I don't know when the change is coming. Maybe new leader Ken Skates has different views. That wasn't the view of some of the extreme socialists who were there before.\n\nAnd then we had Carrie Harper. You talked about managed decline. I would just gently say to you that the reason why Wales has had managed decline is because you've propped up previous Welsh Labour Governments for years and years. If there's anyone who's managed decline—. It's not the fault of the United Kingdom, it's the fault of yourselves for propping up Welsh Labour over the years.\n\nGareth, you talked about the First Minister perhaps misleading the public—I can't say the word I said the other day, or the Llywydd will pull me up again—the simple reason being that we were told that independence was not on the ballot paper. This wasn't going to be discussed. But what do we see at the first opportunity? The First Minister is quite happy to stand with the socialist cabal and the separatist cabal who are keen to rip apart our United Kingdom and talk with people who sponsored state terrorism against our country—an absolute disgrace. And you also talked about the Government needing to get on with the day job. How much Government time and money and energy is being wasted on this, looking at Welsh independence, when we have a pro-union majority in this Senedd? I think the Government need to remember that.\n\nDarren Millar, I really enjoyed your contribution. I didn't think we could ever get Mystic Meg into a contribution. [Laughter.] I'm not quite sure she'd be happy about the arrangement. You talked about our shared history, the blood, sweat and tears to protect, build and defend these islands. And you also talked about our armed forces, as others did. But as you said, Plaid can't answer the questions on the future. How are we going to sort out our policing? How are we going to sort out our defence? How are we going to sort out social security? Plaid have no answer for that. They're selling a pipe dream to people. And as we've seen through all the polls, the Welsh public are not buying it.\n\nElfed, you said that people in Wales didn't want Labour. And I agree, they didn't want Labour, but they didn't want independence either. What you see in this Chamber is a majority, and people voted in their droves for parties who are pro-union. They even voted for the Lib Dems, who've switched their position to pro-union now as well. Because we want to make sure we are stronger within the United Kingdom. I'm afraid I didn't agree with much else that you said.\n\nFrancesca O'Brien—a very passionate speech. You highlighted that the United Kingdom is the best country in this world, and I think everybody in this Chamber should agree with that. We should not be ashamed of our shared history. We should not be ashamed of our world history either. Britain built the world. You talked about how Welsh people have shaped our globe, how we have improved democracy, how we have brought freedoms to people around the globe. And I'm afraid to say what we see in this Chamber—[Interruption.] What we see in this Chamber, Llywydd, is political opportunism by others, rewriting our history to suit a political narrative to rip our country apart.\n\nMike Hedges—I always like your contributions, Mike, because you speak with a lot of experience about the Welsh tax receipts, about GVA, and Wales just not being able to afford our public services across this country if we become an independent nation. That is a matter of fact. But it's something yet again Plaid can't talk about. And also, the Institute for Fiscal Studies's report—that has always been very clear that Wales would not be able to afford to be an independent nation.\n\nAnd Iain McIntosh, you raised a lot of points, as others, but you said that that shared history that we have across this country is very, very important.\n\nThen we come to the First Minister's human shield, Dafydd Trystan Davies, who seems to be rolled out all the time to deal with things that the First Minister doesn't want to deal with, because he's too busy making a TikTok video somewhere, I suspect. [Interruption.] Yes, I will conclude after this. And you talked about the future of our nation. We want a strong Wales in a strong United Kingdom, because we believe that the people of Wales deserve to be part of our United Kingdom. We have helped to build it. We help to maintain it. And on these benches, we will always support it.\n\nSo, if Members across this Chamber want to support our union for a safer, stronger future across our United Kingdom, support our motion, reject the amendments and vote with us today.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=15129"
+        }
+      ],
+      "date": "2026-09-23",
+      "record_page_url": "https://record.senedd.wales/Plenary/16263"
+    },
     {
       "contributions": [
         {

@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,154 @@
   "canonical_name": "Elwyn Vaughan",
   "constituency_name_cy": "Gwynedd Maldwyn",
   "constituency_name_en": "Gwynedd Maldwyn",
-  "contribution_count": 15,
+  "contribution_count": 26,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778817",
+          "item_id": "item-16316-261014-2",
+          "item_title_en": "1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "2. How is the Welsh Government protecting and promoting national monuments in Gwynedd Maldwyn for future generations? OQ64676",
+          "text_original": "2. Sut y mae Llywodraeth Cymru yn diogelu ac yn hyrwyddo henebion cenedlaethol Gwynedd Maldwyn ar gyfer cenedlaethau’r dyfodol? OQ64676",
+          "tv_url": "http://www.senedd.tv/en/16316"
+        },
+        {
+          "id": "contribution-778819",
+          "item_id": "item-16316-261014-2",
+          "item_title_en": "1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport",
+          "lang": "cy",
+          "t_start": 348,
+          "text_english": "You will be aware that Llansilin in the Gwynedd Maldwyn constituency is the home of Sycharth, the ancient court of Owain Glyndŵr and one of the most significant sites of our national heritage. Unfortunately, however, it is disgraceful that the current state of the site doesn't reflect its historic and national importance. There are problems such as overgrowing foliage, lack of access and even a lack of mention of the site on the Cadw website. On the other hand, Powys council has already rejected proposals for more signage on the road to promote the site. Can I ask, therefore, how the Welsh Government can work with Cadw and Powys County Council to ensure that Sycharth is promoted as a site of national importance for future generations?",
+          "text_original": "Fe fyddwch yn ymwybodol fod Llansilin yn etholaeth Gwynedd Maldwyn yn gartref i Sycharth, llys hynafol Owain Glyndŵr ac un o safleoedd mwyaf arwyddocaol ein treftadaeth genedlaethol. Yn anffodus, fodd bynnag, mae'n gywilyddus nad yw cyflwr presennol y safle yn adlewyrchu ei bwysigrwydd hanesyddol a chenedlaethol. Ceir problemau megis gordyfiant, diffyg mynediad hygyrch, a hyd yn oed diffyg crybwyll i'r safle ar wefan Cadw. Ar y llaw arall, mae Cyngor Sir Powys eisoes wedi gwrthod ymdrechion am fwy o arwyddion pwrpasol ar y ffyrdd i hyrwyddo'r lle. A gaf i ofyn, felly, sut y gall Llywodraeth Cymru gydweithio â Cadw a Chyngor Sir Powys i sicrhau bod Sycharth yn cael ei hyrwyddo fel safle o bwysigrwydd genedlaethol ar gyfer cenedlaethau'r dyfodol?",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=348"
+        }
+      ],
+      "date": "2026-10-14",
+      "record_page_url": "https://record.senedd.wales/Plenary/16316"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-778521",
+          "item_id": "item-16315-261013-3",
+          "item_title_en": "3. Statement by the Cabinet Minister for Government Effectiveness and the Constitution: The next steps for the Glyndŵr National Park (Designation) Order",
+          "lang": "cy",
+          "t_start": 7175,
+          "text_english": "Thank you, Minister. This is the reality of what a new national park would mean: joining together the area from Llangadfan in Powys to Prestatyn, areas that have nothing whatsoever in common. Increasing house prices 25 per cent above the average, according to Nationwide building society, making the situation even worse for our young people. Increasing transport pressures as a result of the enchanting make-believe image of national parks in areas like Llanrhaeadr-ym-Mochnant and Llanddwyn, while doing nothing to improve biodiversity, according to recent studies, compared to areas outside of the park, while costing approximately £6 million per annum, at a time when existing parks have faced funding cuts of 41 per cent, and are under huge pressure, and while our rural services also face constant cuts. Creating a new authority is neither sustainable nor appropriate, and £2.1 million has already been wasted on this by the previous Government. Enough is enough. Could I have confirmation that this Government will not spend a fortune on the next phase of this process?",
+          "text_original": "Diolch, Weinidog. Dyma chi'r realiti y byddai parc cenedlaethol newydd yn ei olygu: uno'r ardal o Langadfan ym Mhowys i Brestatyn ynghyd, sydd â dim byd yn gyffredin â'i gilydd. Cynyddu prisiau tai 25 y cant yn uwch na'r cyfartaledd yn ôl cymdeithas dai y Nationwide, gan wneud pethau hyd yn oed yn waeth i'n pobl ifanc. Cynyddu pwysau trafnidiaeth yn sgil delwedd hud a lledrith statws parc cenedlaethol ar lefydd fel Llanrhaeadr-ym-Mochnant a Llanwddyn, tra'n gwneud dim gwahaniaeth i fioamrywiaeth, yn ôl astudiaethau diweddar, o gymharu â thu allan i barciau cenedlaethol, tra’n costio tua £6 miliwn y flwyddyn ar adeg pan fo parciau sydd eisoes yn bodoli wedi cael toriadau cyllidol o 41 y cant, ac o dan bwysau dybryd, a thra bod ein gwasanaethau gwledig yn cael eu torri o hyd. Dyw cael awdurdod newydd ddim yn gynaliadwy nac yn briodol, a gwastraffwyd £2.1 miliwn eisoes gan y Llywodraeth flaenorol ar hyn. Digon yw digon. A ellir cael cadarnhad na fydd y Llywodraeth yma yn gwario ffortiwn ar y cam nesaf hyn?",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=7175"
+        }
+      ],
+      "date": "2026-10-13",
+      "record_page_url": "https://record.senedd.wales/Plenary/16315"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776787",
+          "item_id": "item-16314-261007-4",
+          "item_title_en": "4. 90-second Statements",
+          "lang": "cy",
+          "t_start": 8240,
+          "text_english": "Thank you, Llywydd. 'Go, Elfyn, go': that was the chant this week in the village of Dinas Mawddwy, and all over Wales this weekend. As a whole nation held its collective breath, crossed its fingers and watched every car and every corner, the dream became a reality in the Sardinian sun: Elfyn Evans and Scott Martin, world rally champions. Congratulations to them. And what a finale. After years of coming so close—falling just short time and time again—what a pleasure it was to finally see Elfyn lift up this special trophy, and to do so under the most dramatic circumstances possible.\n\nAnd while the victory was so sweet, how wonderful it was to see the drama unfold live on S4C, which allowed the entire nation to share the excitement, the nerves and the celebrations through the medium of Welsh. 'Drama at the finishing line' was the exclamation of the Ralio commentator, Howard Davies, words that have now reverberated around the world.\n\nCongratulations, Elfyn, the first Welshman and Briton to achieve this feat in a quarter of a century. We're all so proud of your well-deserved success—none more so, of course, than your own father, Gwyndaf, a former British rally champion, who has followed you all along this journey. From Dinas Mawddwy to the pinnacle of the world—what a story, what a season and what a victory. The proud Welshman from the land of the Gwylliaid, now the world champion. Thank you.",
+          "text_original": "Diolch, Lywydd. 'Go, Elfyn, go': dyna oedd y gri wythnos yma ym mhentref Dinas Mawddwy, ac ar hyd a lled Cymru y benwythnos hon. Wrth i genedl gyfan ddal eu gwynt, croesi bysedd a gwylio pob car a phob cornel, daeth y freuddwyd yn realiti yn haul Sardinia: Elfyn Evans a Scott Martin, pencampwyr ralio’r byd. Llongyfarchiadau iddynt. Ac am ddiweddglo. Ar ôl blynyddoedd o ddod mor agos—ar ôl boddi wrth y lan dro ar ôl tro ar ôl tro—am bleser oedd hi o’r diwedd gweld Elfyn yn codi’r tlws arbennig, a hynny o dan yr amgylchiadau mwyaf dramatig posib.\n\nA thra mor felys fu’r fuddugoliaeth, am wych oedd gweld y ddrama’n datblygu’n fyw ar S4C, gan ganiatáu i genedl gyfan rannu’r cyffro, y nerfau a’r dathlu drwy gyfrwng y Gymraeg. 'Drama yn y diwedd' ebychodd sylwebydd Ralio, Howard Davies, geiriau sydd bellach wedi eu clywed ledled y byd.\n\nLlongyfarchiadau mawr, Elfyn, Cymro a'r Prydeiniwr cyntaf i gyflawni’r gamp ers chwarter canrif. Rydym i gyd mor falch o dy lwyddiant haeddiannol—neb llai, wrth gwrs, na dy dad, Gwyndaf, yntau’n gyn-bencampwr rali Prydain, ac sydd wedi dy ddilyn ar hyd y daith. O Ddinas Mawddwy i binacl y byd—am stori, am dymor, ac am fuddugoliaeth. Y Cymro balch o wlad y Gwylliaid bellach yn bencampwr y byd. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=8240"
+        }
+      ],
+      "date": "2026-10-07",
+      "record_page_url": "https://record.senedd.wales/Plenary/16314"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776093",
+          "item_id": "item-16313-261006-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "cy",
+          "t_start": 7404,
+          "text_english": "Minister, may I first of all warmly welcome the Plaid Cymru Government's announcement last week regarding the additional £3.4 million for Powys health board to help to reduce waiting times? This investment will make a difference to patients in Powys, where a large number depend on accessing healthcare services across the border in England. Given the vital role that cross-border healthcare plays for people in Powys and along Offa's Dyke, can we have a statement on this, please?",
+          "text_original": "Weinidog, a gaf i groesawu yn y lle cyntaf yn fawr iawn gyhoeddiad Llywodraeth Plaid Cymru yr wythnos diwethaf ynghylch y £3.4 miliwn ychwanegol i fwrdd iechyd Powys i helpu i leihau amseroedd aros? Fe fydd y buddsoddiad hwn yn gwneud gwahaniaeth i gleifion ym Mhowys, lle mae nifer fawr yn dibynnu ar gael mynediad at wasanaethau gofal iechyd ar draws y ffin yn Lloegr. O ystyried y rôl hanfodol y mae gofal iechyd trawsffiniol yn ei chwarae i bobl ym Mhowys ac ar hyd Clawdd Offa, a oes modd cael sylw ar hyn, os gwelwch yn dda?",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=7404"
+        }
+      ],
+      "date": "2026-10-06",
+      "record_page_url": "https://record.senedd.wales/Plenary/16313"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-773528",
+          "item_id": "item-16265-260930-1",
+          "item_title_en": "1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "3. Will the Cabinet Minister provide an update on the roll-out of the Welsh Government’s childcare offer in Powys? OQ64599",
+          "text_original": "3. A wnaiff y Gweinidog Cabinet roi diweddariad ar gyflwyno cynnig gofal plant Llywodraeth Cymru ym Mhowys? OQ64599",
+          "tv_url": "http://www.senedd.tv/en/16265"
+        },
+        {
+          "id": "contribution-773531",
+          "item_id": "item-16265-260930-1",
+          "item_title_en": "1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice",
+          "lang": "cy",
+          "t_start": 1992,
+          "text_english": "Thank you very much for that positive update. There is always a concern in mid Wales that everything goes to urban or city areas. An assurance, therefore, that our rural areas will also benefit from this important development in childcare would be appreciated. Thank you very much.",
+          "text_original": "Diolch yn fawr am y diweddariad positif yna. Mae gwastad yn bryder yn y canolbarth fod pob dim yn mynd i'r ardaloedd trefol neu ddinesig. Byddai cael sicrwydd, felly, bydd ein hardaloedd gwledig yr un mor gymwys ac yn elwa o'r datblygiad pwysig yma ym maes gofal plant yn cael ei werthfawrogi. Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=1992"
+        },
+        {
+          "id": "contribution-773700",
+          "item_id": "item-16265-260930-4",
+          "item_title_en": "4. 90-second Statements",
+          "lang": "cy",
+          "t_start": 7486,
+          "text_english": "Last week marked the hundredth anniversary of the opening of the Stiwt, or Plas y Mwynwyr, in Rhosllanerchrugog. The Stiwt was built by the community for the community. Between 1924 and 1926, a penny was donated for every tonne of coal mined from the local pits towards building the theatre. Almost £18,000 was raised, a huge sum at the time. The miners continued to contribute, giving 2p from their weekly wages towards maintenance. The Stiwt was opened in 1926, the same year as the general strike. Amid enormous hardship and uncertainty, the Rhos miners built an incredible thing: a place for entertainment, education, the community and Welsh cultural life. For generations, it has been a gateway to the arts. As Mark Lewis Jones said last week, 'It all started in the Stiwt'.\n\nWhen the Stiwt closed in 1977, it could have all come to an end, but the community didn't allow that. After a determined campaign and £2.1 million from the heritage lottery fund, the Stiwt was reopened in 1999. We owe a great debt to all those who campaigned to save it. On Friday night, we had an amazing night at the Stiwt celebrating the centenary in the company of incredible talent on stage. It was also a privilege last year to meet Emyr Prys Jones, the creator of the Stiwt's beautiful stained glass window, a powerful tribute to the industrial heritage of the Rhos. So, with the Stiwt celebrating 100 years, let's celebrate not only the building but the community that built it, saved it, and continues to give it life.",
+          "text_original": "Yr wythnos diwethaf, cofnodwyd 100 mlynedd ers agor y Stiwt, neu Blas y Mwynwyr, yn Rhosllanerchrugog. Adeiladwyd y Stiwt gan y gymuned i'r gymuned. Rhwng 1924 a 1926, rhoddwyd ceiniog o bob tunnell o lo o’r pyllau lleol tuag at adeiladu'r theatr. Codwyd bron i £18,000, swm anferthol ar y pryd. Parhaodd y glowyr i gyfrannu, gan roi 2c o’u cyflogau wythnosol tuag at y cynnal a chadw. Agorwyd y Stiwt ym 1926, yr un flwyddyn â’r streic gyffredinol. Yng nghanol caledi enfawr ac ansicrwydd, gwnaeth glowyr y Rhos rywbeth anhygoel: lle ar gyfer adloniant, addysg, y gymuned a bywyd diwylliannol Cymreig. Ers cenedlaethau, mae wedi bod yn fynediad at y celfyddydau. Fel y dywedodd Mark Lewis Jones yr wythnos diwethaf, 'Fe ddechreuodd o i gyd yn y Stiwt'.\n\nPan gaeodd y Stiwt ym 1977, gallai’r cyfan wedi dod i ben, ond wnaeth y gymuned ddim caniatáu hynny. Ar ôl ymgyrch penderfynol a £2.1 miliwn o’r gronfa loteri treftadaeth, ailagorwyd y Stiwt ym 1999. Mae ein dyled yn fawr i bawb a ymgyrchodd i’w arbed. Nos Wener, cawsom noson anhygoel yn y Stiwt yn dathlu'r canmlwyddiant yng nghwmni talent rhyfeddol ar y llwyfan. Hefyd, roedd yn fraint y llynedd i gwrdd ag Emyr Prys Jones, crëwr ffenestr liw hyfryd y Stiwt, teyrnged pwerus i dreftadaeth ddiwydiannol y Rhos. Felly, efo’r Stiwt yn dathlu 100 mlynedd, gadewch i ni ddathlu nid yn unig yr adeilad ond y gymuned a’i adeiladodd, a'i achubodd, ac sy’n parhau i roi bywyd iddo.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=7486"
+        },
+        {
+          "id": "contribution-773715",
+          "item_id": "item-16265-260930-6",
+          "item_title_en": "5. Member Debate under Standing Order 11.21(iv): Contaminated land",
+          "lang": "cy",
+          "t_start": 8575,
+          "text_english": "Thank you for bringing this particular motion forward today.",
+          "text_original": "Diolch am ddod â'r cynnig arbennig yma ymlaen heddiw.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=8575"
+        },
+        {
+          "id": "contribution-773716",
+          "item_id": "item-16265-260930-6",
+          "item_title_en": "5. Member Debate under Standing Order 11.21(iv): Contaminated land",
+          "lang": "en",
+          "t_start": 8580,
+          "text_english": "Thank you for bringing this motion together today. From Agent Orange production to genetically modified organism controversies, Monsanto has been at the heart of it. This agricultural giant's legacy includes toxic chemicals, patent disputes and environmental damage, leading to lawsuits and ongoing health concerns worldwide.\n\nMonsanto's controversial legacy has left an indelible mark on agricultural global health and the environment. The agrochemical giant's decades-long history includes production of toxic chemicals like Agent Orange, PCBs, polychlorinated biphenyls, and DDT, dichlorodiphenyltrichloroethane, while its aggressive patenting of genetically modified seeds has sparked intense debate about food sovereignty and farmers’ rights. From lawsuits over cancer-causing pesticides to allegations of suppressing scientific research, you'll discover why Monsanto has become one of the most criticised corporations in modern history. Many critics argue that Monsanto's business practices prioritise profits over public health and environmental safety, leading to lasting consequences we're still grappling with today.\n\nMonsanto began in 1901 as a chemical manufacturer producing saccharin. By the 1940s they expanded into agricultural chemicals, including DDT and Agent Orange. The company shifted focus to biotechnology in the 1980s, launching the first genetically modified crops in 1996 through their flagship product, Roundup Ready soya beans. Monsanto's production of PCBs led to widespread environmental contamination, with devastating effects on local communities. Monsanto operated a PCB manufacturing plant in Anniston, USA from 1929 to 1971, dumping toxic waste into local waterways. The contamination left residents with high rates of cancer, liver disease and diabetes, while polluting the soil and water systems. Testing revealed PCB levels 200 times higher than the federal safety limit in local creeks. Internal documents reveal that Monsanto knew about PCB dangers as early as 1937, but continued production until 1977. The company buried contaminated soil in unlined landfills. In 2003, Monsanto paid $700 million to settle claims by 20,000 Anniston residents over PCB contamination. Monsanto's decades-long history of corporate misconduct has left an indelible mark on public health, environmental safety and agricultural independence. From the devastating effects of Agent Orange to the ongoing Roundup controversy, their actions continue to impact millions of lives worldwide.\n\nTheir acquisition by Bayer—something I'm sure they regret—hasn't eased the company's troubled legacy, as lawsuits and health concerns persist. You'll find that the Monsanto story serves as a stark reminder of how corporate profits often overshadow public welfare. In 1919, the US chemical company Monsanto entered into partnership with Graesser's chemical works at Cefn Mawr to produce vanillin, salicylic acid, aspirin, and, later, rubber-processing chemicals. The site was later operated by Flexsys, a subsidiary of Solutia, but production ceased in 2010.\n\nThe alleged dumping of PCBs, poisonous chemicals that do not break down but build up in the environment, animals, fish and humans over time, are widespread. These chemicals were dumped in 12 known sites across Wales, including in Rhiwabon, Cefn Mawr and the infamous Llwyneinion acid tar lagoon near Rhosllanerchrugog. Evidence gathered by campaigners and experts over years claims that PCBs may have been responsible for spikes in rare cancers in those areas. A local resident, featured in Buried with Michael Sheen, Michael Phillips, revealed that, as children, he and his friends went down to Llwyneinion acid lagoon to watch as fire crews battled to bring a fire there under control in 1980. The fire took 18 hours to extinguish, but, years later, Michael and his friends all contracted rare cancers, which he attributes to exposure to PCBs. And he says, 'My surgeon said, \"This is strange, I've never seen this type of cancer before\" and he'd had this distinguished career of 40 years', said Phillips. Two of his friends have passed away, with brain cancer and breast cancer. Another is battling brain cancer, while a fourth had all his lymph nodes removed, as they were cancerous. A fifth even had the same type of cancer as Phillips—something his surgeon said was equivalent to the odds of winning the lottery every day for six months.\n\nAnd that's the reality today of the situation left behind by the worst of multinational capitalism. At the end of the day, it's about people, about their and our environment. It's about the potential threats to them, their families, children and future generations. And that's why we owe it to them to demand action and put a strategic framework and plan of action in place. Diolch yn fawr.",
+          "text_original": "Thank you for bringing this motion together today. From Agent Orange production to genetically modified organism controversies, Monsanto has been at the heart of it. This agricultural giant's legacy includes toxic chemicals, patent disputes and environmental damage, leading to lawsuits and ongoing health concerns worldwide.\n\nMonsanto's controversial legacy has left an indelible mark on agricultural global health and the environment. The agrochemical giant's decades-long history includes production of toxic chemicals like Agent Orange, PCBs, polychlorinated biphenyls, and DDT, dichlorodiphenyltrichloroethane, while its aggressive patenting of genetically modified seeds has sparked intense debate about food sovereignty and farmers’ rights. From lawsuits over cancer-causing pesticides to allegations of suppressing scientific research, you'll discover why Monsanto has become one of the most criticised corporations in modern history. Many critics argue that Monsanto's business practices prioritise profits over public health and environmental safety, leading to lasting consequences we're still grappling with today.\n\nMonsanto began in 1901 as a chemical manufacturer producing saccharin. By the 1940s they expanded into agricultural chemicals, including DDT and Agent Orange. The company shifted focus to biotechnology in the 1980s, launching the first genetically modified crops in 1996 through their flagship product, Roundup Ready soya beans. Monsanto's production of PCBs led to widespread environmental contamination, with devastating effects on local communities. Monsanto operated a PCB manufacturing plant in Anniston, USA from 1929 to 1971, dumping toxic waste into local waterways. The contamination left residents with high rates of cancer, liver disease and diabetes, while polluting the soil and water systems. Testing revealed PCB levels 200 times higher than the federal safety limit in local creeks. Internal documents reveal that Monsanto knew about PCB dangers as early as 1937, but continued production until 1977. The company buried contaminated soil in unlined landfills. In 2003, Monsanto paid $700 million to settle claims by 20,000 Anniston residents over PCB contamination. Monsanto's decades-long history of corporate misconduct has left an indelible mark on public health, environmental safety and agricultural independence. From the devastating effects of Agent Orange to the ongoing Roundup controversy, their actions continue to impact millions of lives worldwide.\n\nTheir acquisition by Bayer—something I'm sure they regret—hasn't eased the company's troubled legacy, as lawsuits and health concerns persist. You'll find that the Monsanto story serves as a stark reminder of how corporate profits often overshadow public welfare. In 1919, the US chemical company Monsanto entered into partnership with Graesser's chemical works at Cefn Mawr to produce vanillin, salicylic acid, aspirin, and, later, rubber-processing chemicals. The site was later operated by Flexsys, a subsidiary of Solutia, but production ceased in 2010.\n\nThe alleged dumping of PCBs, poisonous chemicals that do not break down but build up in the environment, animals, fish and humans over time, are widespread. These chemicals were dumped in 12 known sites across Wales, including in Rhiwabon, Cefn Mawr and the infamous Llwyneinion acid tar lagoon near Rhosllanerchrugog. Evidence gathered by campaigners and experts over years claims that PCBs may have been responsible for spikes in rare cancers in those areas. A local resident, featured in Buried with Michael Sheen, Michael Phillips, revealed that, as children, he and his friends went down to Llwyneinion acid lagoon to watch as fire crews battled to bring a fire there under control in 1980. The fire took 18 hours to extinguish, but, years later, Michael and his friends all contracted rare cancers, which he attributes to exposure to PCBs. And he says, 'My surgeon said, \"This is strange, I've never seen this type of cancer before\" and he'd had this distinguished career of 40 years', said Phillips. Two of his friends have passed away, with brain cancer and breast cancer. Another is battling brain cancer, while a fourth had all his lymph nodes removed, as they were cancerous. A fifth even had the same type of cancer as Phillips—something his surgeon said was equivalent to the odds of winning the lottery every day for six months.\n\nAnd that's the reality today of the situation left behind by the worst of multinational capitalism. At the end of the day, it's about people, about their and our environment. It's about the potential threats to them, their families, children and future generations. And that's why we owe it to them to demand action and put a strategic framework and plan of action in place. Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=8580"
+        }
+      ],
+      "date": "2026-09-30",
+      "record_page_url": "https://record.senedd.wales/Plenary/16265"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-772814",
+          "item_id": "item-16264-260929-3",
+          "item_title_en": "2. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 716,
+          "text_english": "Our rural services have been historically underfunded and have failed to accurately reflect the cost of providing rural services. That's why the review of the funding formula this Government is undertaking should be welcomed. But isn't it the reality that this shows the urgent need to change Wales's funding formula from Westminster to ensure fairness and justice, and that everyone in this Chamber should support this Government in that call?",
+          "text_original": "Mae ein gwasanaethau gwledig wedi'u tangyllido yn hanesyddol ac wedi methu ag adlewyrchu yn gywir cost darparu gwasanaethau gwledig. Dyna pam y dylid croesawu'r adolygiad o'r fformiwla gyllido y mae'r Llywodraeth yma yn ei wneud. Ond onid y realiti yw bod hyn yn dangos yr angen dybryd i newid fformiwla cyllido Cymru o San Steffan i sicrhau tegwch a chyfiawnder, ac y dylai pawb yn y Siambr yma gefnogi'r Llywodraeth yma yn yr alwad honno?",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=716"
+        }
+      ],
+      "date": "2026-09-29",
+      "record_page_url": "https://record.senedd.wales/Plenary/16264"
+    },
     {
       "contributions": [
         {

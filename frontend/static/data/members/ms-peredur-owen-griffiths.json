@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,122 @@
   "canonical_name": "Peredur Owen Griffiths",
   "constituency_name_cy": "Casnewydd Islwyn",
   "constituency_name_en": "Casnewydd Islwyn",
-  "contribution_count": 31,
+  "contribution_count": 40,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-776132",
+          "item_id": "item-16313-261006-4",
+          "item_title_en": "4. Statement by the Deputy Minister for Transport: Strategic Priorities for the Menai Strait Crossings and M4 around Newport",
+          "lang": "cy",
+          "t_start": 10371,
+          "text_english": "Thank you for the briefing this morning and for this afternoon's statement.",
+          "text_original": "Diolch yn fawr am y briffiad y bore yma ac am y datganiad y prynhawn yma.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=10371"
+        },
+        {
+          "id": "contribution-776133",
+          "item_id": "item-16313-261006-4",
+          "item_title_en": "4. Statement by the Deputy Minister for Transport: Strategic Priorities for the Menai Strait Crossings and M4 around Newport",
+          "lang": "en",
+          "t_start": 10377,
+          "text_english": "The M4 runs through my constituency. Communities across Newport and beyond feel the impact of congestion every single day. These problems are not new. Successive Labour Government have had 27 years to act. They commissioned studies, gathered the evidence and spent more than £150 million developing the M4 relief road only for it ultimately to be abandoned with a promise of other solutions.\n\nBut the reality is Newport has been left without a solution, yet these same voices are now very vocal when this Welsh Government is grasping the nettle. So, the question is: will these proposals solve the problem? Time will tell, and I will continue to scrutinise the Government on these solutions. But one thing is clear: doing nothing is not an option.\n\nI welcome the commitment to work with Newport City Council and other local government partners while ensuring residents and businesses have a meaningful voice. So, Minister, how will you sequence and implement these proposals over the next 18 months and ensure that local government, residents and businesses genuinely shape the decisions that you take? Diolch yn fawr.",
+          "text_original": "The M4 runs through my constituency. Communities across Newport and beyond feel the impact of congestion every single day. These problems are not new. Successive Labour Government have had 27 years to act. They commissioned studies, gathered the evidence and spent more than £150 million developing the M4 relief road only for it ultimately to be abandoned with a promise of other solutions.\n\nBut the reality is Newport has been left without a solution, yet these same voices are now very vocal when this Welsh Government is grasping the nettle. So, the question is: will these proposals solve the problem? Time will tell, and I will continue to scrutinise the Government on these solutions. But one thing is clear: doing nothing is not an option.\n\nI welcome the commitment to work with Newport City Council and other local government partners while ensuring residents and businesses have a meaningful voice. So, Minister, how will you sequence and implement these proposals over the next 18 months and ensure that local government, residents and businesses genuinely shape the decisions that you take? Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=10377"
+        }
+      ],
+      "date": "2026-10-06",
+      "record_page_url": "https://record.senedd.wales/Plenary/16313"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-773652",
+          "item_id": "item-16265-260930-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Rural Resilience and Sustainability",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "7. How is the Welsh Government promoting rural resilience in Casnewydd Islwyn? OQ64590",
+          "text_original": "7. Sut mae Llywodraeth Cymru yn hyrwyddo gwydnwch gwledig yng Nghasnewydd Islwyn? OQ64590",
+          "tv_url": "http://www.senedd.tv/en/16265"
+        },
+        {
+          "id": "contribution-773655",
+          "item_id": "item-16265-260930-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Rural Resilience and Sustainability",
+          "lang": "cy",
+          "t_start": 5605,
+          "text_english": "Thank you very much for that response, and I'm pleased that you are doing all of that work.",
+          "text_original": "Diolch yn fawr am yr ateb yna, a dwi'n falch eich bod chi yn gwneud yr holl waith yna hefyd.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=5605"
+        },
+        {
+          "id": "contribution-773658",
+          "item_id": "item-16265-260930-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Rural Resilience and Sustainability",
+          "lang": "en",
+          "t_start": 5611,
+          "text_english": "I want to turn to a specific issue that I've raised with you in the past, the water pressure in Redwick. The residents of this village, just outside Newport, have suffered with low water pressure for many years due to inadequate water infrastructure serving their community. This problem is exacerbated during periods of dry weather, like the unprecedented one that we have just experienced. There are five farms in the area and the water supply problem is so bad that some farms are unable to adequately supply their dairy herds. The water supply is so low it cannot keep up with the thirst of the animals. So-called mitigation measures have been put in place, but they have fallen short, and, in some cases, failed to materialise. The only solution to this is upgrading the flow of water into the village through major infrastructure overhaul. Minister, what pressure can you bring to bear on the situation and, in particular, Dŵr Cymru, to make this happen? And what action would you expect to happen before next summer so that we don't see the same problems happening again?",
+          "text_original": "I want to turn to a specific issue that I've raised with you in the past, the water pressure in Redwick. The residents of this village, just outside Newport, have suffered with low water pressure for many years due to inadequate water infrastructure serving their community. This problem is exacerbated during periods of dry weather, like the unprecedented one that we have just experienced. There are five farms in the area and the water supply problem is so bad that some farms are unable to adequately supply their dairy herds. The water supply is so low it cannot keep up with the thirst of the animals. So-called mitigation measures have been put in place, but they have fallen short, and, in some cases, failed to materialise. The only solution to this is upgrading the flow of water into the village through major infrastructure overhaul. Minister, what pressure can you bring to bear on the situation and, in particular, Dŵr Cymru, to make this happen? And what action would you expect to happen before next summer so that we don't see the same problems happening again?",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=5611"
+        }
+      ],
+      "date": "2026-09-30",
+      "record_page_url": "https://record.senedd.wales/Plenary/16265"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771536",
+          "item_id": "item-16263-260923-3",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 6723,
+          "text_english": "Diolch, Lindsay. Responsibility for administering the civil service pension scheme transferred from MyCSP to Capita on 1 December 2025. The change was intended to modernise the service, but the transfer included a substantial volume of cases affecting some retirement quotations and new pension payments. The Cabinet Office and Capita established a recovery programme to prioritise urgent and hardship cases, clear outstanding work, and restore contracted service standards.\n\nThe Commission currently has fewer than five former employees who have retired since Capita became the administrators, one of which has accessed the hardship loan scheme introduced by the Commission, in line with Cabinet Office guidance, to mitigate the financial impact, and we continue to monitor the situation and seek assurances that outstanding cases are resolved very quickly.",
+          "text_original": "Diolch, Lindsay. Responsibility for administering the civil service pension scheme transferred from MyCSP to Capita on 1 December 2025. The change was intended to modernise the service, but the transfer included a substantial volume of cases affecting some retirement quotations and new pension payments. The Cabinet Office and Capita established a recovery programme to prioritise urgent and hardship cases, clear outstanding work, and restore contracted service standards.\n\nThe Commission currently has fewer than five former employees who have retired since Capita became the administrators, one of which has accessed the hardship loan scheme introduced by the Commission, in line with Cabinet Office guidance, to mitigate the financial impact, and we continue to monitor the situation and seek assurances that outstanding cases are resolved very quickly.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=6723"
+        },
+        {
+          "id": "contribution-771577",
+          "item_id": "item-16263-260923-3",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "cy",
+          "t_start": 6842,
+          "text_english": "Thank you very much for raising this issue.",
+          "text_original": "Diolch yn fawr am godi y mater yma.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=6842"
+        },
+        {
+          "id": "contribution-771581",
+          "item_id": "item-16263-260923-3",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 6845,
+          "text_english": "It raises serious issues and, I agree, the situation is completely unacceptable. The welfare of former employees is paramount to what this Commission is looking to do.\n\nIn answer to your question, the chief executive has written to the managing director of Capita Pensions Solutions earlier this year to raise the concerns that you've raised, and former members of staff have raised, about the impact the backlog was having on Commission staff. To date, we haven't had a response to that, and that is also unacceptable.\n\nBut, in turning to what the Commission has done to support your constituents and others, in addition to administering the hardship loan, the human resources service continues to provide ongoing communication to affected retired staff, and the welfare of former employees has remained our primary concern. So, we will be keeping that under review and, where possible, furthering it as well.",
+          "text_original": "It raises serious issues and, I agree, the situation is completely unacceptable. The welfare of former employees is paramount to what this Commission is looking to do.\n\nIn answer to your question, the chief executive has written to the managing director of Capita Pensions Solutions earlier this year to raise the concerns that you've raised, and former members of staff have raised, about the impact the backlog was having on Commission staff. To date, we haven't had a response to that, and that is also unacceptable.\n\nBut, in turning to what the Commission has done to support your constituents and others, in addition to administering the hardship loan, the human resources service continues to provide ongoing communication to affected retired staff, and the welfare of former employees has remained our primary concern. So, we will be keeping that under review and, where possible, furthering it as well.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=6845"
+        }
+      ],
+      "date": "2026-09-23",
+      "record_page_url": "https://record.senedd.wales/Plenary/16263"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-770955",
+          "item_id": "item-16262-260922-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "cy",
+          "t_start": 7889,
+          "text_english": "Trefnydd, as vice-chair of the executive committee for the Urdd Eisteddfod in Bro'r Wenynen, I'm pleased to say that holding the Urdd Eisteddfod in Newport next year will be an important and historic moment for our area. It's an opportunity not only to welcome thousands of visitors, but also to introduce more families, young people and children to the Welsh language and our national culture.\n\nOn Saturday, the welcome festival will take place in the centre of Newport, and everyone is welcome to join us at the celebration. For me, the important thing will be the legacy left by the Eisteddfod. Can I therefore ask for a statement describing how the Government will work with the Urdd, local authorities, schools and community groups to ensure that the Eisteddfod has a permanent impact on the use of the Welsh language, and on confidence in terms of community use across Casnewydd Islwyn, and Bro'r Wenynen in its entirety?",
+          "text_original": "Drefnydd, fel is-gadeirydd pwyllgor gwaith Eisteddfod yr Urdd Bro'r Wenynen, dwi'n falch o ddweud y bydd cynnal Eisteddfod yr Urdd yng Nghasnewydd y flwyddyn nesaf yn foment bwysig a hanesyddol iawn i'n hardal. Mae'n gyfle nid yn unig i groesawu miloedd o ymwelwyr, ond hefyd i gyflwyno mwy o blant, pobl ifanc a theuluoedd i'r Gymraeg a'n diwylliant cenedlaethol. \n\nDdydd Sadwrn, bydd yr ŵyl groeso yn digwydd yng nghanol Casnewydd, ac mae croeso mawr i bawb fod yno i ddathlu. I mi, y peth pwysig fydd y gwaddol fydd yr Eisteddfod yn ei adael ar ei hôl. A gaf i felly ddatganiad, os gwelwch yn dda, sy'n disgrifio sut y bydd y Llywodraeth yn cydweithio â'r Urdd, awdurdodau lleol, ysgolion a grwpiau cymunedol i sicrhau bod yr Eisteddfod yn cael effaith barhaol ar y defnydd o'r Gymraeg, ac ar hyder defnydd cymunedol ledled Casnewydd Islwyn, a Bro'r Wenynen yn ei chyfanrwydd?",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=7889"
+        }
+      ],
+      "date": "2026-09-22",
+      "record_page_url": "https://record.senedd.wales/Plenary/16262"
+    },
     {
       "contributions": [
         {

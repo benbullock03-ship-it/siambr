@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "abstain"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,446 @@
   "canonical_name": "Huw Thomas",
   "constituency_name_cy": "Caerdydd Penarth",
   "constituency_name_en": "Caerdydd Penarth",
-  "contribution_count": 85,
+  "contribution_count": 124,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778930",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "cy",
+          "t_start": 4001,
+          "text_english": "Thanks, Dirprwy Lywydd. May I wish you both a happy shwmae? Minister, as we've already heard, the major news this week was the agreement on the supplementary budget. May I thank you personally for your meetings with me and the fact that we've been able to come positively to an agreement that ensures £60 million additionally for schools and colleges for additional learning needs? This is a victory. I visited a school in Pentrebane in Cardiff west this morning. It's obviously going to make a huge difference that that funding is going to come through immediately now.",
+          "text_original": "Diolch, Ddirprwy Lywydd. A gaf i ddymuno shwmae hapus i'r ddwy ohonoch chi? Weinidog, fel rydym ni wedi clywed, newyddion mawr yr wythnos yma oedd y cytundeb ar y gyllideb atodol. A gaf i ddiolch i chi yn bersonol am eich cyfarfodydd gyda fi a'r ffaith ein bod ni wedi gallu dod yn gadarnhaol at gytundeb sydd yn sicrhau £60 miliwn ychwanegol i ysgolion a cholegau ar gyfer anghenion dysgu ychwanegol? Mae hyn yn fuddugoliaeth. Bues i'n ymweld ag ysgol ym Mhentrebane yng ngorllewin Caerdydd y bore yma. Mae'n amlwg yn mynd i wneud gwahaniaeth bod yr arian yn dod yn syth yn awr.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=4001"
+        },
+        {
+          "id": "contribution-778939",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "en",
+          "t_start": 4041,
+          "text_english": "We are clear that this money is an important down payment, but it's not enough. Further funding is required. You have spoken previously about your concerns about in-year overspends within the NHS and so the need to hold money back, unallocated, to address that concern. I accept that as a prudent argument at the moment, but what are you doing to drive those overspends down? In a written question answer to me—",
+          "text_original": "We are clear that this money is an important down payment, but it's not enough. Further funding is required. You have spoken previously about your concerns about in-year overspends within the NHS and so the need to hold money back, unallocated, to address that concern. I accept that as a prudent argument at the moment, but what are you doing to drive those overspends down? In a written question answer to me—",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=4041"
+        },
+        {
+          "id": "contribution-778944",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "en",
+          "t_start": 4075,
+          "text_english": "If I can just put this across. A month or two ago, the net annual deficit forecast for health boards was £333 million. What is that figure now? Have you managed to get that figure down, so that we can unlock additional funding for schools and colleges?",
+          "text_original": "If I can just put this across. A month or two ago, the net annual deficit forecast for health boards was £333 million. What is that figure now? Have you managed to get that figure down, so that we can unlock additional funding for schools and colleges?",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=4075"
+        },
+        {
+          "id": "contribution-778925",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "cy",
+          "t_start": 4219,
+          "text_english": "Thanks. I didn't hear a figure there of what the overspend had declined by, so perhaps we could correspond by letter on that. One of your priorities as a Government is the childcare offer. One of our priorities is to ensure fair pay in the economy.",
+          "text_original": "Diolch. Wnes i ddim clywed ffigur yn fanna o beth roedd y gorwariant wedi gostwng ganddo, felly efallai gallwn chi ysgrifennu drwy lythyr ar y mater. Un o'ch blaenoriaethau chi fel Llywodraeth ydy'r cynnig gofal plant. Un o'n blaenoriaethau ni ydy sicrhau tâl teg yn yr economi.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=4219"
+        },
+        {
+          "id": "contribution-778931",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "en",
+          "t_start": 4239,
+          "text_english": "Welsh Labour's manifesto made a commitment to ensuring that businesses receiving Welsh Government support pay the real living wage. I've asked previously whether businesses funded through the childcare offer will be mandated to pay the real living wage. I've not had a clear answer on that yet, but I note your programme for government commits you to adopting a 'fair work first' approach to public sector grants, loans and contracts. I wonder what progress have you made in putting that commitment into practice. Specifically, will payment of the real living wage become a condition of public sector contracts and financial support to businesses? And what is the timetable for introducing those requirements? Diolch yn fawr.",
+          "text_original": "Welsh Labour's manifesto made a commitment to ensuring that businesses receiving Welsh Government support pay the real living wage. I've asked previously whether businesses funded through the childcare offer will be mandated to pay the real living wage. I've not had a clear answer on that yet, but I note your programme for government commits you to adopting a 'fair work first' approach to public sector grants, loans and contracts. I wonder what progress have you made in putting that commitment into practice. Specifically, will payment of the real living wage become a condition of public sector contracts and financial support to businesses? And what is the timetable for introducing those requirements? Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=4239"
+        }
+      ],
+      "date": "2026-10-14",
+      "record_page_url": "https://record.senedd.wales/Plenary/16316"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-778376",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 596,
+          "text_english": "Community energy schemes, like larger schemes, also require access to the grid. I want to see sustainable schemes and the grid infrastructure being delivered across Wales in order to deliver the benefits that we want to see for our local communities.",
+          "text_original": "Mae cynlluniau egni cymdeithasol, fel cynlluniau mwy, hefyd angen mynediad i'r grid. Dwi eisiau gweld cynlluniau cynaliadwy a'r isadeiledd grid yn cael eu cyflawni ledled Cymru, i gyflawni'r buddiannau rydyn ni eisiau eu gweld ar gyfer ein cymunedau lleol.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=596"
+        },
+        {
+          "id": "contribution-778366",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 616,
+          "text_english": "First Minister, what steps are you taking, working with the UK Government, Ofgem and network operators, to ensure that connection costs and waiting times don't prevent these projects, be they community or larger scale, from progressing? We need that grid infrastructure in place for it to succeed. I think Wales has got an opportunity to be an energy superpower, and that's why the comments from the Plaid Cymru Member earlier about SMRs are so disappointing. So, can you, further to my first question, explain why SMRs are the right solution for Anglesey but not for south Wales?",
+          "text_original": "First Minister, what steps are you taking, working with the UK Government, Ofgem and network operators, to ensure that connection costs and waiting times don't prevent these projects, be they community or larger scale, from progressing? We need that grid infrastructure in place for it to succeed. I think Wales has got an opportunity to be an energy superpower, and that's why the comments from the Plaid Cymru Member earlier about SMRs are so disappointing. So, can you, further to my first question, explain why SMRs are the right solution for Anglesey but not for south Wales?",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=616"
+        },
+        {
+          "id": "contribution-778517",
+          "item_id": "item-16315-261013-3",
+          "item_title_en": "3. Statement by the Cabinet Minister for Government Effectiveness and the Constitution: The next steps for the Glyndŵr National Park (Designation) Order",
+          "lang": "cy",
+          "t_start": 7509,
+          "text_english": "Well, what a disappointing statement. Anyone who has walked along the Berwyn mountains, as I have done, will know how unique and special an environment it is: Cadair Berwyn, Llyn Lluncaws, Pistyll Rhaeadr, Cyrniau Nod, to name just a few places. These are wild, remote areas, which deserve to be known better amongst the people of Wales and beyond.",
+          "text_original": "Wel, am ddatganiad siomedig. Bydd unrhyw un sydd wedi cerdded ar hyd mynyddoedd y Berwyn, fel dwi wedi gwneud, yn gwybod amgylchedd mor unigryw ac arbennig ydy e: Cadair Berwyn, Llyn Lluncaws, Pistyll Rhaeadr, Cyrniau Nod, i enwi ond rhai mannau. Dyma leoliadau gwyllt, anghysbell, sy'n haeddu cael eu hadnabod yn well gan drwch poblogaeth Cymru a thu hwnt.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=7509"
+        },
+        {
+          "id": "contribution-778523",
+          "item_id": "item-16315-261013-3",
+          "item_title_en": "3. Statement by the Cabinet Minister for Government Effectiveness and the Constitution: The next steps for the Glyndŵr National Park (Designation) Order",
+          "lang": "en",
+          "t_start": 7532,
+          "text_english": "Just yesterday I chaired the cross-party group on outdoor activities, where there was a unanimous view around the table on how vital and underappreciated access to the countryside is. We know what the RSPB have said about Wales being one of the most nature-deprived countries in the western world, and we heard earlier, even from the Reform Member, about the importance of tourism to our economy. So, why take this decision? There is no mention of doing this in your manifesto. I don't wish to downplay the real concerns that exist around these proposals, but the place to explore them, surely, is through a public inquiry. I'd like the Minister to explain why he doesn't believe that a public inquiry is the right format for this, because it looks to me that, at this Government's first test on its ability to protect nature, it fails spectacularly, and has instead entered into some sort of unholy trinity with the Tories and Reform. Your progressive credentials look failing to me, Minister.",
+          "text_original": "Just yesterday I chaired the cross-party group on outdoor activities, where there was a unanimous view around the table on how vital and underappreciated access to the countryside is. We know what the RSPB have said about Wales being one of the most nature-deprived countries in the western world, and we heard earlier, even from the Reform Member, about the importance of tourism to our economy. So, why take this decision? There is no mention of doing this in your manifesto. I don't wish to downplay the real concerns that exist around these proposals, but the place to explore them, surely, is through a public inquiry. I'd like the Minister to explain why he doesn't believe that a public inquiry is the right format for this, because it looks to me that, at this Government's first test on its ability to protect nature, it fails spectacularly, and has instead entered into some sort of unholy trinity with the Tories and Reform. Your progressive credentials look failing to me, Minister.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=7532"
+        }
+      ],
+      "date": "2026-10-13",
+      "record_page_url": "https://record.senedd.wales/Plenary/16315"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776764",
+          "item_id": "item-16314-261007-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
+          "lang": "en",
+          "t_start": 7227,
+          "text_english": "I'll try and be brief. Minister, you'll be aware that Cardiff Council is delivering one of the UK's most ambitious and award-winning council house building schemes. A key factor in achieving that was having an LDP in place that enabled the council to secure greater social housing contributions from large-scale developments. Without a plan in place, Cardiff would have lost control of the process and seen piecemeal developments dispersed across the city. Too often, though, engagement on LDPs is dominated by well-organised voices opposed to development. So, Minister, in your rethinking of LDPs, how will you ensure that the voices of those on housing waiting lists, those living in temporary accommodation who desperately need social housing, are also heard, given they are far less likely to participate in these consultations compared with well-resourced, well-organised groups who don't want to see any houses built?",
+          "text_original": "I'll try and be brief. Minister, you'll be aware that Cardiff Council is delivering one of the UK's most ambitious and award-winning council house building schemes. A key factor in achieving that was having an LDP in place that enabled the council to secure greater social housing contributions from large-scale developments. Without a plan in place, Cardiff would have lost control of the process and seen piecemeal developments dispersed across the city. Too often, though, engagement on LDPs is dominated by well-organised voices opposed to development. So, Minister, in your rethinking of LDPs, how will you ensure that the voices of those on housing waiting lists, those living in temporary accommodation who desperately need social housing, are also heard, given they are far less likely to participate in these consultations compared with well-resourced, well-organised groups who don't want to see any houses built?",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=7227"
+        }
+      ],
+      "date": "2026-10-07",
+      "record_page_url": "https://record.senedd.wales/Plenary/16314"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-775944",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "cy",
+          "t_start": 4208,
+          "text_english": "Thank you, Llywydd. Many comments have been made over recent weeks on constitutional issues. I want to focus on what's important to the people of Wales, and that's why I want to ask questions on the programme for government.",
+          "text_original": "Diolch, Lywydd. Mae yna lot o sylwadau wedi cael eu gwneud dros yr wythnosau diwethaf am faterion cyfansoddiadol. Dwi eisiau ffocysu ar beth sydd yn bwysig i bobl Cymru, a dyna pam dwi am holi cwestiynau ar y rhaglen lywodraethu.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=4208"
+        },
+        {
+          "id": "contribution-775947",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "en",
+          "t_start": 4222,
+          "text_english": "Minister, the programme for government, which you have overall oversight for, is full of references to collaboration and it's also very strong—there's a whole section on it—about supporting teachers. But, last week, an overwhelming majority of school leaders voted to support industrial action in response to your Government's priorities and policies. Ninety-three per cent of NAHT members voted, and 72.5 per cent of them indicated they would be prepared to take industrial action. Why does the Minister think the programme for government has been so poorly received by school leaders? Can you confirm that intensive negotiations with NAHT are now taking place, and what progress is the Government making?",
+          "text_original": "Minister, the programme for government, which you have overall oversight for, is full of references to collaboration and it's also very strong—there's a whole section on it—about supporting teachers. But, last week, an overwhelming majority of school leaders voted to support industrial action in response to your Government's priorities and policies. Ninety-three per cent of NAHT members voted, and 72.5 per cent of them indicated they would be prepared to take industrial action. Why does the Minister think the programme for government has been so poorly received by school leaders? Can you confirm that intensive negotiations with NAHT are now taking place, and what progress is the Government making?",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=4222"
+        },
+        {
+          "id": "contribution-775971",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "en",
+          "t_start": 4325,
+          "text_english": "Diolch, Weinidog. I applaud the answer you gave earlier in response to Reform's attack on trade unions, and I should declare myself a member of many of them, including Unite, because I'm going to come on to this. You talk about social partnership, you talk about Government efficiency, and there's a clear link between both, but at your own party conference this weekend, you had a delegation of health visitors from Cwm Taf, who are Unite members, who've been on strike. They heard a political priority from the First Minister that he would resolve their dispute, and they believe he's lied. Those are their words—that he's failed to keep his promise. As the Minister responsible for keeping the Government's priorities, do you regret the First Minister's failure to keep his promise? We now have the longest running nursing strike in NHS Wales history. To secure efficiency of the NHS, what will you do to resolve the issue?",
+          "text_original": "Diolch, Weinidog. I applaud the answer you gave earlier in response to Reform's attack on trade unions, and I should declare myself a member of many of them, including Unite, because I'm going to come on to this. You talk about social partnership, you talk about Government efficiency, and there's a clear link between both, but at your own party conference this weekend, you had a delegation of health visitors from Cwm Taf, who are Unite members, who've been on strike. They heard a political priority from the First Minister that he would resolve their dispute, and they believe he's lied. Those are their words—that he's failed to keep his promise. As the Minister responsible for keeping the Government's priorities, do you regret the First Minister's failure to keep his promise? We now have the longest running nursing strike in NHS Wales history. To secure efficiency of the NHS, what will you do to resolve the issue?",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=4325"
+        },
+        {
+          "id": "contribution-776195",
+          "item_id": "item-16313-261006-6",
+          "item_title_en": "6. Debate: Fiscal Reform",
+          "lang": "en",
+          "t_start": 14445,
+          "text_english": "Well, I'll try and use my time wisely, then, and I look forward to having no more contributions from the Reform benches as we get straight to the vote. [Laughter.]\n\nLet me be clear, Welsh Labour is proud to co-table this motion, welcoming and reaffirming support for the UK Labour Government's transformative £14 billion commitment for Welsh rail infrastructure. I'm delighted, a bit cheeky, that our co-tablers feel able to welcome this commitment rather than their previous position, which was to question the seriousness with which both Labour Governments at the time were determined to boost rail infrastructure in Wales. Look, we all recognise the underfunding that has resulted off the back of HS2. That £14 billion makes that good and then some. I'm pleased that Members from across the Senedd will also have the chance to put on record their support for this generational commitment. I'll take Cai's as read, right?",
+          "text_original": "Well, I'll try and use my time wisely, then, and I look forward to having no more contributions from the Reform benches as we get straight to the vote. [Laughter.]\n\nLet me be clear, Welsh Labour is proud to co-table this motion, welcoming and reaffirming support for the UK Labour Government's transformative £14 billion commitment for Welsh rail infrastructure. I'm delighted, a bit cheeky, that our co-tablers feel able to welcome this commitment rather than their previous position, which was to question the seriousness with which both Labour Governments at the time were determined to boost rail infrastructure in Wales. Look, we all recognise the underfunding that has resulted off the back of HS2. That £14 billion makes that good and then some. I'm pleased that Members from across the Senedd will also have the chance to put on record their support for this generational commitment. I'll take Cai's as read, right?",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=14445"
+        },
+        {
+          "id": "contribution-776203",
+          "item_id": "item-16313-261006-6",
+          "item_title_en": "6. Debate: Fiscal Reform",
+          "lang": "cy",
+          "t_start": 14500,
+          "text_english": "We all know how important public transport is to improve people's quality of life, to create jobs, to link communities and to bring people closer together, and to encourage economic growth and prosperity. We heard that in the debate on the Menai crossing and the M4. But, for too long, our rail infrastructure has been prevented from reaching its potential by successive Conservative Governments in Westminster that failed to invest in Wales. That changed in 2024 when a Labour Government was elected in the UK, meaning that Wales had two Labour Governments at the time that could work together. And through that collaboration, the two Governments managed to commit to historic levels of investment in Welsh rail infrastructure and to double the long-term plan for Welsh rail, bringing a welcome end to the 14 years of neglect and underspend.\n\nThe investment will transform communities across Wales, including the five Burns station between Cardiff and the Severn Tunnel Junction, and improve capacity and accessibility in Cardiff Central station, which is the busiest station in Wales, and also start the north Wales network by improving rail crossings and undertaking that crucial work to get more regular services. The project will also help to build a pipeline for planning the next generation of improvements across Wales.",
+          "text_original": "Rydyn ni i gyd yn gwybod pa mor bwysig yw trafnidiaeth gyhoeddus i wella ansawdd bywyd pobl, i greu swyddi, i gysylltu cymunedau a dod â phobl yn nes at ei gilydd, ac i ysgogi twf economaidd a ffyniant. Fe glywon ni hynna yn y drafodaeth ar bont Menai a'r M4. Ond, am gyfnod rhy hir, cafodd ein seilwaith rheilffyrdd ni ei atal rhag cyrraedd ei botensial gan Lywodraethau olynol Torïaidd yn San Steffan, a fethodd â buddsoddi yng Nghymru. Newidiodd hynny yn 2024, pan etholwyd Llywodraeth Lafur yn y Deyrnas Gyfunol, gan olygu bod gan Gymru ddwy Lywodraeth Lafur ar y pryd a allai gydweithio. A thrwy gydweithio, llwyddodd y ddwy Lywodraeth hynny i ymrwymo i lefelau hanesyddol o fuddsoddiad yn seilwaith rheilffyrdd Cymru ac i ddyblu cynllun hirdymor ar gyfer rheilffyrdd Cymru gan roi diwedd croesawgar ar yr 14 mlynedd o esgeulustod a thanwariant.\n\nBydd y buddsoddiad yn trawsnewid cymunedau ledled Cymru gan gynnwys y pum gorsaf Burns rhwng Caerdydd a Chyffordd Twnnel Hafren, gwella hygyrchedd a rhoi mwy o gapasiti yng ngorsaf ganolog Caerdydd, sef yr orsaf brysuraf yng Nghymru, a hefyd yn cychwyn rhwydwaith gogledd Cymru gan wella croesfannau rheilffordd ac ymgymryd â'r gwaith hanfodol cyntaf hwnnw tuag at wasanaethau mwy rheolaidd. Bydd y prosiect hefyd yn helpu adeiladu pipeline ar gyfer cynllunio i gyflawni'r genhedlaeth nesaf o welliannau ledled Cymru.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=14500"
+        },
+        {
+          "id": "contribution-776207",
+          "item_id": "item-16313-261006-6",
+          "item_title_en": "6. Debate: Fiscal Reform",
+          "lang": "en",
+          "t_start": 14591,
+          "text_english": "A pipeline of potentially 43 projects, 12,000 jobs in every part of Wales, with some examples including new stations in Swansea and west Wales, including at St Clears, improved services to Milford Haven, Pembroke Dock and Fishguard, direct services to Liverpool, the Wirral and Wrexham, and stronger links to Deeside industrial park, as well as plans to upgrade the north Wales main line and more reliable trains and services on the Cambrian line. These generational commitments will help deliver the transport network that Wales deserves and show the benefit of having a UK Labour Government that is committed to investing in Wales. I know from Ministers in Westminster that the UK Labour Government is working to deliver these plans as quickly as possible, and I can give my assurance that the benches here will work with the Government here in Wales to secure those commitments.\n\nOn the issue of fair funding, as the party of devolution, Welsh Labour is also proud to reiterate our long-standing calls for the Barnett formula to be reviewed and for the Welsh Government's fiscal flexibilities to be enhanced. Welsh Labour has always pushed for more funding and more powers for Wales as part of a strong United Kingdom.",
+          "text_original": "A pipeline of potentially 43 projects, 12,000 jobs in every part of Wales, with some examples including new stations in Swansea and west Wales, including at St Clears, improved services to Milford Haven, Pembroke Dock and Fishguard, direct services to Liverpool, the Wirral and Wrexham, and stronger links to Deeside industrial park, as well as plans to upgrade the north Wales main line and more reliable trains and services on the Cambrian line. These generational commitments will help deliver the transport network that Wales deserves and show the benefit of having a UK Labour Government that is committed to investing in Wales. I know from Ministers in Westminster that the UK Labour Government is working to deliver these plans as quickly as possible, and I can give my assurance that the benches here will work with the Government here in Wales to secure those commitments.\n\nOn the issue of fair funding, as the party of devolution, Welsh Labour is also proud to reiterate our long-standing calls for the Barnett formula to be reviewed and for the Welsh Government's fiscal flexibilities to be enhanced. Welsh Labour has always pushed for more funding and more powers for Wales as part of a strong United Kingdom.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=14591"
+        },
+        {
+          "id": "contribution-776210",
+          "item_id": "item-16313-261006-6",
+          "item_title_en": "6. Debate: Fiscal Reform",
+          "lang": "cy",
+          "t_start": 14667,
+          "text_english": "Thanks to the two Labour Governments working together, we managed to secure additional powers in this area, including in relation to the expenditure of reserves. We are clear that those changes should continue and be permanent. But, as has been an issue for a series of Welsh Governments over the years, it's also appropriate that Wales gets its fair share of funding. That does mean reform of the Barnett formula. In our manifesto this year, Welsh Labour made the case for a new 'fair share formula', which would ensure that Wales receives its proper share of UK resources automatically in all-important areas.\n\nWe also worked to ensure the reform of Barnett to create a system that is based on need and works for all parts of the UK. We recognise that the only way, ultimately, of reaching a system that is based on need is through negotiation and securing agreement between the four nations of the United Kingdom, and, in that regard, I would question how productive it is to for the Welsh First Minister to be grandstanding on this issue by placing the whole responsibility for fairer funding entirely on the shoulders of the UK Prime Minister, as he did over the weekend.\n\nWe know that the Scottish Government continues to evade demands for a system based on need, so I think the Welsh Government has a key role in making the case to secure an agreement across the nations of the UK. I'm running out of time.",
+          "text_original": "Diolch i ddwy Lywodraeth Lafur yn cydweithio, fe lwyddwyd i sicrhau pwerau ychwanegol yn y maes hwn, gan gynnwys mewn perthynas â gwario'r cronfeydd wrth gefn. Dŷn ni'n glir y dylai'r newidiadau hynny barhau yn barhaol. Ond fel sydd wedi bod yn bwynt i gyfres o Lywodraethau Cymru dros y blynyddoedd, mae'n gwbl briodol hefyd fod Cymru'n cael ei chyfran deg o gyllid. Mae hynny yn golygu diwygio fformiwla Barnett. Yn ein maniffesto ni eleni, gwnaeth Llafur Cymru gyflwyno'r achos dros 'fformiwla cyfran deg' newydd a fyddai wedi sicrhau bod Cymru'n derbyn ei chyfran o adnoddau'r Deyrnas Gyfunol yn awtomatig mewn meysydd hollbwysig.\n\nMi wnaethon ni hefyd ymrwymo i weithio i sicrhau diwygio Barnett er mwyn creu system sy'n seiliedig ar angen ac sy'n gweithio i bob rhan o'r Deyrnas Gyfunol. Rydym ni'n cydnabod mai'r unig ffordd yn y pen draw o gyrraedd system sy'n seiliedig ar angen yw drwy drafod a sicrhau cytundeb rhwng y pedair cenedl yn y Deyrnas Gyfunol, ac, yn hynny o beth, byddwn i'n cwestiynu pa mor gynhyrchiol yw hi i Brif Weinidog Cymru 'grandstand-io' ar y mater hwn drwy roi'r cyfrifoldeb cyfan am gyllid tecach yn unig ar ysgwyddau Prif Weinidog y Deyrnas Gyfunol, fel roedd e'n gwneud dros y penwythnos.\n\nRydyn ni'n gwybod bod Llywodraeth yr Alban yn parhau i osgoi galw am system sy'n seiliedig ar angen. Felly, mae gan Lywodraeth Cymru, dwi'n credu, rôl allweddol i wneud yr achos i sicrhau cytundeb ar draws cenhedloedd y Deyrnas Gyfunol. Dwi'n rhedeg allan o amser.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=14667"
+        },
+        {
+          "id": "contribution-776213",
+          "item_id": "item-16313-261006-6",
+          "item_title_en": "6. Debate: Fiscal Reform",
+          "lang": "en",
+          "t_start": 14762,
+          "text_english": "I'm running out of time, so I'll just go to the end, Llywydd.\n\nWelsh Labour will continue to make the case for Wales to receive its fair share of funding. We'll continue to press for needs-based funding and greater fiscal flexibility.",
+          "text_original": "I'm running out of time, so I'll just go to the end, Llywydd.\n\nWelsh Labour will continue to make the case for Wales to receive its fair share of funding. We'll continue to press for needs-based funding and greater fiscal flexibility.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=14762"
+        },
+        {
+          "id": "contribution-776215",
+          "item_id": "item-16313-261006-6",
+          "item_title_en": "6. Debate: Fiscal Reform",
+          "lang": "en",
+          "t_start": 14777,
+          "text_english": "I'm concluding as we speak. My last sentence is: whatever the vote is today, the action continues and we in the Senedd and the Welsh Government need to continue to press on this issue. Diolch yn fawr.",
+          "text_original": "I'm concluding as we speak. My last sentence is: whatever the vote is today, the action continues and we in the Senedd and the Welsh Government need to continue to press on this issue. Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=14777"
+        }
+      ],
+      "date": "2026-10-06",
+      "record_page_url": "https://record.senedd.wales/Plenary/16313"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-773663",
+          "item_id": "item-16265-260930-3",
+          "item_title_en": "3. Topical Questions",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "1. Will the Cabinet Minister make a statement about proposed job losses at Admiral and Legal and General? TQ1493",
+          "text_original": "1. A wnaiff y Gweinidog y Cabinet ddatganiad am y colledion swyddi arfaethedig yn Admiral a Legal and General? TQ1493",
+          "tv_url": "http://www.senedd.tv/en/16265"
+        },
+        {
+          "id": "contribution-773668",
+          "item_id": "item-16265-260930-3",
+          "item_title_en": "3. Topical Questions",
+          "lang": "en",
+          "t_start": 5996,
+          "text_english": "Diolch, Weinidog. As you can imagine, last week's announcements have caused huge anxiety for workers at both Admiral and Legal & General. These are well-paid jobs in an industry that's been a success story for Cardiff and south Wales over recent decades. The news not only impacts the workers at these companies, but also, more broadly, the Cardiff economy in the city centre. And, as I said, the financial services sector has been a huge success story for Cardiff, with Admiral growing from next to nothing to being Wales's only FTSE 100 headquartered company, and Legal & General being at the heart of the city centre's redevelopment in recent years.\n\nLast Friday, Minister, Shav Taj and I, along with Cardiff's four Members of Parliament, met with the companies to press both companies to minimise compulsory redundancies and maximise redeployment opportunities. They need the Welsh Government on their side—the workers, the companies and the industry. So, Minister, have you been able to meet with the companies yet? Will you look to rapidly deploy ReAct and Careers Wales support, working with partners in the Department for Work and Pensions and local government? And, more widely, what support will the Welsh Government deploy to make sure that this industry can return to growth as soon as possible?",
+          "text_original": "Diolch, Weinidog. As you can imagine, last week's announcements have caused huge anxiety for workers at both Admiral and Legal & General. These are well-paid jobs in an industry that's been a success story for Cardiff and south Wales over recent decades. The news not only impacts the workers at these companies, but also, more broadly, the Cardiff economy in the city centre. And, as I said, the financial services sector has been a huge success story for Cardiff, with Admiral growing from next to nothing to being Wales's only FTSE 100 headquartered company, and Legal & General being at the heart of the city centre's redevelopment in recent years.\n\nLast Friday, Minister, Shav Taj and I, along with Cardiff's four Members of Parliament, met with the companies to press both companies to minimise compulsory redundancies and maximise redeployment opportunities. They need the Welsh Government on their side—the workers, the companies and the industry. So, Minister, have you been able to meet with the companies yet? Will you look to rapidly deploy ReAct and Careers Wales support, working with partners in the Department for Work and Pensions and local government? And, more widely, what support will the Welsh Government deploy to make sure that this industry can return to growth as soon as possible?",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=5996"
+        }
+      ],
+      "date": "2026-09-30",
+      "record_page_url": "https://record.senedd.wales/Plenary/16265"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-772847",
+          "item_id": "item-16264-260929-3",
+          "item_title_en": "2. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 2122,
+          "text_english": "Thank you for raising this question. In Cardiff, a lot of work has been done to support the music ecosystem in the city through a music strategy that's now over seven years old.",
+          "text_original": "Diolch am godi'r cwestiwn yma. Yng Nghaerdydd, mae yna beth wmbreth o waith wedi cael ei wneud i gefnogi yr ecosystem gerdd yn y ddinas drwy strategaeth gerdd sydd nawr dros saith mlynedd oed.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=2122"
+        },
+        {
+          "id": "contribution-772853",
+          "item_id": "item-16264-260929-3",
+          "item_title_en": "2. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 2137,
+          "text_english": "As part of that music strategy, a music board has been established. There's been a grass-roots music venue fund to support our fantastic venues. This Friday, we have the third iteration of the Cardiff Music City Festival kicking off for the next fortnight, funded with support from the last Welsh Labour Government. That festival takes place across the city, taking in venues like Tramshed—and I'm grateful to the Member for raising that issue. To quote the venue:\n\n'We are devastated by the announcement that Tramshed will be excluded from the permanent 30% business rates relief.'\n\nSo, can I ask the First Minister, therefore, why was that? Will he work with us to look again at that cliff edge? And can I return to the issue of the Cardiff music festival? Will he commit to funding future iterations of that festival going forward? Diolch yn fawr.",
+          "text_original": "As part of that music strategy, a music board has been established. There's been a grass-roots music venue fund to support our fantastic venues. This Friday, we have the third iteration of the Cardiff Music City Festival kicking off for the next fortnight, funded with support from the last Welsh Labour Government. That festival takes place across the city, taking in venues like Tramshed—and I'm grateful to the Member for raising that issue. To quote the venue:\n\n'We are devastated by the announcement that Tramshed will be excluded from the permanent 30% business rates relief.'\n\nSo, can I ask the First Minister, therefore, why was that? Will he work with us to look again at that cliff edge? And can I return to the issue of the Cardiff music festival? Will he commit to funding future iterations of that festival going forward? Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=2137"
+        }
+      ],
+      "date": "2026-09-29",
+      "record_page_url": "https://record.senedd.wales/Plenary/16264"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771356",
+          "item_id": "item-16263-260923-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "cy",
+          "t_start": 522,
+          "text_english": "I'm pleased to hear the Minister's reference to reindustrialisation. I welcome that. I would also agree on the importance of the nuclear industry in achieving that. Last week, I visited Hinkley Point, which is a nuclear power station that is being built with a great deal of Welsh steel, and there's an opportunity to go further, beyond the new project in Wylfa, in expanding nuclear in Wales.",
+          "text_original": "Dwi'n falch o glywed cyfeiriad y Gweinidog at ailddiwydiannu. Dwi'n croesawu hynny. Byddwn hefyd yn eilio pwysigrwydd y diwydiant niwclear i gwblhau hynny. Yr wythnos diwethaf, bues i lawr yn Hinkley Point, pwerdy niwclear sydd wedi ei adeiladu gyda pheth helaeth o ddur Cymreig, ac mae yna gyfle i fynd ymhellach, y tu hwnt i'r prosiect newydd yn Wylfa, o ran ehangu'r diwydiant niwclear yng Nghymru.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=522"
+        },
+        {
+          "id": "contribution-771359",
+          "item_id": "item-16263-260923-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "en",
+          "t_start": 548,
+          "text_english": "But on the net-zero target set by Welsh Government for 2040, we welcome that target. We will push you on it. But that target is meaningless unless the Minister is prepared to deliver the renewable energy infrastructure needed to achieve it, and you referenced renewables in your earlier answer. Do you accept that Wales cannot reach net zero in that time frame without a major expansion of onshore wind as well as offshore wind, and that that in itself cannot be delivered without grid infrastructure and pylons to connect it? And if you do accept that premise, will you commit to supporting that infrastructure and those projects, even where those decisions prove difficult and locally unpopular?",
+          "text_original": "But on the net-zero target set by Welsh Government for 2040, we welcome that target. We will push you on it. But that target is meaningless unless the Minister is prepared to deliver the renewable energy infrastructure needed to achieve it, and you referenced renewables in your earlier answer. Do you accept that Wales cannot reach net zero in that time frame without a major expansion of onshore wind as well as offshore wind, and that that in itself cannot be delivered without grid infrastructure and pylons to connect it? And if you do accept that premise, will you commit to supporting that infrastructure and those projects, even where those decisions prove difficult and locally unpopular?",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=548"
+        },
+        {
+          "id": "contribution-771472",
+          "item_id": "item-16263-260923-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and Welsh Language",
+          "lang": "cy",
+          "t_start": 4998,
+          "text_english": "The Member mentioned the Basque Country. May I refer the Minister to ysgol Groes-wen, also in Caerdydd Penarth, which is an innovative example here in Wales, on a model that has been adopted from education plans in the Basque Country and which is developing bilingualism through having two streams, Welsh and English? I want to recognise the Minister's support locally for a fourth Welsh-medium secondary school in south Cardiff. I also appreciate the personal conflict that exists in her role as a Minister.\n\nBut, having said that, can I just raise once again this issue of site? She will know in her role as the Minister the practical challenges in ensuring a fourth secondary school, in terms of the growth in numbers and the sustainability of other schools in Cardiff. But that aspiration exists in the council and in this Chamber, I believe, to see a fourth secondary school to respond to some of the concerns that have been raised on easy access across the city to Welsh-medium education. So, whilst the council proceeds with the preparatory work in terms of a business plan, I have written on the issue of the site at Callaghan Square. Cardiff south has developed a great deal and there are not many sites—",
+          "text_original": "Mae'r Aelod wedi crybwyll Gwlad y Basg. A gaf i gyfeirio'r Gweinidog tuag at ysgol Groes-wen, hefyd yng Nghaerdydd Penarth, sydd yn enghraifft arloesol yma yng Nghymru, ar fodel sydd wedi'i gymryd o gynlluniau addysg yng Ngwlad y Basg, sydd yn tyfu dwyieithrwydd drwy ddwy ffrwd, Cymraeg a Saesneg? Dwi eisiau cydnabod cefnogaeth y Gweinidog yn lleol i'r ymgyrch dros bedwaredd ysgol Gymraeg yn ne Caerdydd. Dwi hefyd yn gwerthfawrogi'r conflict personol sydd nawr yn ei rôl fel Gweinidog.\n\nOnd, wedi dweud hynny, allaf i jest godi eto y mater yma o'r safle? Fe fydd hi'n deall yn ei rôl fel Gweinidog yr heriau ymarferol sydd yna o ran sicrhau pedwaredd ysgol, o ran twf niferoedd a chynaliadwyedd ysgolion eraill yng Nghaerdydd. Ond mae'r dyhead yna yn y cyngor a, dwi'n credu, yn y Siambr yma hefyd i weld pedwaredd ysgol i ateb y consýrn sydd wedi cael ei godi ynghylch access rhwydd ledled y ddinas i addysg Gymraeg. Felly, tra bo'r cyngor yn mynd rhagddo â'r gwaith o baratoi cynllun busnes, dwi wedi ysgrifennu ac wedi cyfeirio at yr issue hyn gyda'r safle yn Callaghan Square. Mae de Caerdydd wedi datblygu yn sylweddol a does yna ddim llawer o safleoedd—",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=4998"
+        },
+        {
+          "id": "contribution-771485",
+          "item_id": "item-16263-260923-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and Welsh Language",
+          "lang": "cy",
+          "t_start": 5076,
+          "text_english": "Elin Jones has just left the Chamber, unfortunately. Will you work with the Minister for finance to take that site off the market, as it belongs to the Welsh Government, so that the option exists and we can unlock a new secondary school in south Cardiff?",
+          "text_original": "Mae Elin Jones newydd adael y Siambr, yn anffodus. A wnewch chi weithio gyda'r Gweinidog cyllid i dynnu'r safle yna oddi ar y farchnad—safle sy'n eiddo i Lywodraeth Cymru—fel bod yr opsiwn yna i ddatgloi ysgol Gymraeg yn ne Caerdydd?",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=5076"
+        },
+        {
+          "id": "contribution-771635",
+          "item_id": "item-16263-260923-6",
+          "item_title_en": "6. Welsh Labour Debate: Further education",
+          "lang": "en",
+          "t_start": 10435,
+          "text_english": "If only.",
+          "text_original": "If only.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=10435"
+        },
+        {
+          "id": "contribution-771676",
+          "item_id": "item-16263-260923-7",
+          "item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+          "lang": "en",
+          "t_start": 12129,
+          "text_english": "Diolch, Lywydd. In a debate that too often doesn't allow for nuance, I'm going to try to insert some. Welsh Labour believes that Wales's future is more secure and more prosperous as part of the United Kingdom. Secondly, we also believe that sovereignty ultimately rests within the people of Wales. The union doesn't have a God-given right to exist. It has to demonstrate that it works for each part of the UK. And to that end, we agree and support the Plaid Cymru amendment that the constitution of Wales is a matter for the people of Wales. And as you've seen in our own amendment, we further believe that devolution is the settled will of the people of Wales. This has been tested at two referenda. A majority of Welsh MPs represent parties who support devolution. Even at the historic Senedd election in May and subsequent opinion polls, it is clear that, for a majority of Welsh people, their preferred constitutional settlement is devolution. And they want this place to work for them.\n\nNow, as a Welsh-speaking Welshman born in west Wales, I'm occasionally asked why I'm not a member of Plaid Cymru. I know, imagine. [Laughter.] Putting aside that, for me, my Welsh identity is not in competition with my British one or indeed my European one. People can feel both or all three at the same time and not be any less Welsh or any less British. But putting that aside, the answer partly lies in a little phrase that I've carried around in my wallet for the last 20 years. It's on my Labour Party membership card. It declares that\n\n'by the strength of our common endeavour we achieve more than we achieve alone'.",
+          "text_original": "Diolch, Lywydd. In a debate that too often doesn't allow for nuance, I'm going to try to insert some. Welsh Labour believes that Wales's future is more secure and more prosperous as part of the United Kingdom. Secondly, we also believe that sovereignty ultimately rests within the people of Wales. The union doesn't have a God-given right to exist. It has to demonstrate that it works for each part of the UK. And to that end, we agree and support the Plaid Cymru amendment that the constitution of Wales is a matter for the people of Wales. And as you've seen in our own amendment, we further believe that devolution is the settled will of the people of Wales. This has been tested at two referenda. A majority of Welsh MPs represent parties who support devolution. Even at the historic Senedd election in May and subsequent opinion polls, it is clear that, for a majority of Welsh people, their preferred constitutional settlement is devolution. And they want this place to work for them.\n\nNow, as a Welsh-speaking Welshman born in west Wales, I'm occasionally asked why I'm not a member of Plaid Cymru. I know, imagine. [Laughter.] Putting aside that, for me, my Welsh identity is not in competition with my British one or indeed my European one. People can feel both or all three at the same time and not be any less Welsh or any less British. But putting that aside, the answer partly lies in a little phrase that I've carried around in my wallet for the last 20 years. It's on my Labour Party membership card. It declares that\n\n'by the strength of our common endeavour we achieve more than we achieve alone'.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=12129"
+        },
+        {
+          "id": "contribution-771686",
+          "item_id": "item-16263-260923-7",
+          "item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+          "lang": "cy",
+          "t_start": 12236,
+          "text_english": "In other words, strength comes with unity; together we are stronger. That is the ethos that allowed Robert Owen, a Welshman from Newtown, to establish the pioneering co-operative community in New Lanark, Scotland, and then to expand that co-operative movement across Britain in the nineteenth century. When Aneurin Bevan established the health service, he didn't just do that in Tredegar or just in Wales, but he did that across the United Kingdom. And today, even within a devolved settlement, people from all parts of this country continue to benefit from sharing resources and expertise across the political borders of the United Kingdom.",
+          "text_original": "Mewn geiriau eraill, mewn undod mae nerth; gyda'n gilydd yn gryfach. Dyna'r ethos ganiataodd i Gymro o'r Drenewydd, Robert Owen, sefydlu'r gymuned gydweithredol arloesol yn New Lanark yn yr Alban, ac yna ehangu'r symudiad cydweithredol hwnnw ledled Prydain yn y bedwaredd ganrif ar bymtheg. Pan sefydlodd Aneurin Bevan y gwasanaeth iechyd, wnaeth e ddim gwneud hynny jest yn Nhredegar neu jest yng Nghymru, ond ledled y Deyrnas Gyfunol. A hyd heddiw, hyd yn oed o fewn setliad datganoledig, mae pobl o bob cwr o'r wlad yn parhau i fanteisio o rannu adnoddau ac arbenigedd ar draws ffiniau gwleidyddol y Deyrnas Gyfunol.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=12236"
+        },
+        {
+          "id": "contribution-771690",
+          "item_id": "item-16263-260923-7",
+          "item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+          "lang": "en",
+          "t_start": 12282,
+          "text_english": "When Welsh miners went on strike for their livelihoods and their industry, they didn't do so in isolation, they did so in concert with workers in England and Scotland, and received support from communities across the UK, including, famously, the gay community in London. We've heard today about the nuclear industry: a project in south-west England underpinned by a supply chain in south Wales, and a project in north Wales unlocked by engineering excellence of a British firm growing out of the north-west of England. And as for those high-growth Welsh companies that the economy Minister referenced earlier, when they want to raise capital for growth, they can do so easily with seamless access to the best place to do so on the planet, in the City of London.\n\nNow, I, too, do not pretend that the union, as it stands, is perfect. It is too centralised, it is too unequal, and there is a clear case for reform—lower case. [Laughter.] There are some in this Chamber, no doubt, who will say that the levels of poverty in Wales would justify independence, but if you park the fact that independence would cost every person in Wales £7,000 and result in catastrophic cuts to public services, or if you don't acknowledge that, since 1999, the devolved nations and regions, including Wales, have actually outperformed the rest of the country. If you ignore all of that, I would bet that those who want independence because Wales is poorer than other parts of the UK would still want independence if Wales was richer than other parts of the UK. Such is the dogmaticalness of their position.\n\nOn these benches, we believe in the redistribution of wealth, using the resources of richer areas to lift outcomes across the country. And we also believe in decisions being taken at the right level of Government. That's why we want to see more decisions being taken by local councils—power devolved not just to Wales, but out of Cardiff Bay. There are, then, of course, decisions that are best taken within Wales. I would argue, despite the myriad challenges posed by Tory austerity in the period from 2010, that period nevertheless shows devolution working, with the Welsh Government able to protect Wales and Welsh institutions in a way that wasn't possible during the 1980s, and now—",
+          "text_original": "When Welsh miners went on strike for their livelihoods and their industry, they didn't do so in isolation, they did so in concert with workers in England and Scotland, and received support from communities across the UK, including, famously, the gay community in London. We've heard today about the nuclear industry: a project in south-west England underpinned by a supply chain in south Wales, and a project in north Wales unlocked by engineering excellence of a British firm growing out of the north-west of England. And as for those high-growth Welsh companies that the economy Minister referenced earlier, when they want to raise capital for growth, they can do so easily with seamless access to the best place to do so on the planet, in the City of London.\n\nNow, I, too, do not pretend that the union, as it stands, is perfect. It is too centralised, it is too unequal, and there is a clear case for reform—lower case. [Laughter.] There are some in this Chamber, no doubt, who will say that the levels of poverty in Wales would justify independence, but if you park the fact that independence would cost every person in Wales £7,000 and result in catastrophic cuts to public services, or if you don't acknowledge that, since 1999, the devolved nations and regions, including Wales, have actually outperformed the rest of the country. If you ignore all of that, I would bet that those who want independence because Wales is poorer than other parts of the UK would still want independence if Wales was richer than other parts of the UK. Such is the dogmaticalness of their position.\n\nOn these benches, we believe in the redistribution of wealth, using the resources of richer areas to lift outcomes across the country. And we also believe in decisions being taken at the right level of Government. That's why we want to see more decisions being taken by local councils—power devolved not just to Wales, but out of Cardiff Bay. There are, then, of course, decisions that are best taken within Wales. I would argue, despite the myriad challenges posed by Tory austerity in the period from 2010, that period nevertheless shows devolution working, with the Welsh Government able to protect Wales and Welsh institutions in a way that wasn't possible during the 1980s, and now—",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=12282"
+        },
+        {
+          "id": "contribution-771670",
+          "item_id": "item-16263-260923-7",
+          "item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+          "lang": "en",
+          "t_start": 12423,
+          "text_english": "No, I haven't got time. I'm sorry, James.\n\nEspecially with a Prime Minister who himself recognises the value of devolution, we want to see the continued development of this institution with new responsibilities and new powers. And then on issues like defence, it's self-evident that we are safer and more secure within a United Kingdom. Wales has proudly played a role within the British armed forces defeating tyranny during the last century. And it's small wonder that a loud champion of Scottish independence during the referendum campaign there was the Russian President, just as he was on Brexit, I might add. And I would gently suggest that, on trade issues, decisions are better taken in concert with the European Union.\n\nThere isn't much coherence in supporting being part of the UK whilst also celebrating Brexit. Equally, it makes no sense to want independence from the UK—",
+          "text_original": "No, I haven't got time. I'm sorry, James.\n\nEspecially with a Prime Minister who himself recognises the value of devolution, we want to see the continued development of this institution with new responsibilities and new powers. And then on issues like defence, it's self-evident that we are safer and more secure within a United Kingdom. Wales has proudly played a role within the British armed forces defeating tyranny during the last century. And it's small wonder that a loud champion of Scottish independence during the referendum campaign there was the Russian President, just as he was on Brexit, I might add. And I would gently suggest that, on trade issues, decisions are better taken in concert with the European Union.\n\nThere isn't much coherence in supporting being part of the UK whilst also celebrating Brexit. Equally, it makes no sense to want independence from the UK—",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=12423"
+        },
+        {
+          "id": "contribution-771678",
+          "item_id": "item-16263-260923-7",
+          "item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+          "lang": "en",
+          "t_start": 12475,
+          "text_english": "—and then looking to rejoin the EU. We have the best of both worlds in devolution. Welsh Labour is the party of devolution and we look forward to holding the devolved Government to account.",
+          "text_original": "—and then looking to rejoin the EU. We have the best of both worlds in devolution. Welsh Labour is the party of devolution and we look forward to holding the devolved Government to account.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=12475"
+        }
+      ],
+      "date": "2026-09-23",
+      "record_page_url": "https://record.senedd.wales/Plenary/16263"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-770698",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 322,
+          "text_english": "I also had an opportunity earlier this year to visit this site and to see the great potential that exists there not only for a centre of innovation in rail, but also as a place where you could have things such as data centres, which will help to unlock the broader project.",
+          "text_original": "Fe ges i hefyd gyfle yn gynharach eleni i ymweld â'r safle yma a gweld y potensial arbennig sydd yno nid yn unig fel canolfan arloesi rheilffyrdd, ond hefyd fel lle ble y gellir cael pethau fel canolfannau data, a fydd yn helpu i ddatgloi y prosiect ehangach.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=322"
+        },
+        {
+          "id": "contribution-770701",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 341,
+          "text_english": "Welsh Labour invested £2 billion in the Heads of the Valleys road precisely for a reason like this, to connect communities, including along the M4 corridor but also in the old Valleys communities, with projects like this. If we are serious about bringing well-paid jobs and re-industrialising the former coalfields, this is exactly the kind of investment that Wales should secure, recognising that this will take public money as well as private money. So, I've heard a bit of equivocation from you today, which will raise concerns for people wanting to see a rail solution brought forward. We want to see more trains brought forward into Wales, and this would help unlock that. Can you give a reason why your Government would not support the GCRE project specifically? And if you can't give a reason, will you perhaps today commit to supporting it? Diolch yn fawr.",
+          "text_original": "Welsh Labour invested £2 billion in the Heads of the Valleys road precisely for a reason like this, to connect communities, including along the M4 corridor but also in the old Valleys communities, with projects like this. If we are serious about bringing well-paid jobs and re-industrialising the former coalfields, this is exactly the kind of investment that Wales should secure, recognising that this will take public money as well as private money. So, I've heard a bit of equivocation from you today, which will raise concerns for people wanting to see a rail solution brought forward. We want to see more trains brought forward into Wales, and this would help unlock that. Can you give a reason why your Government would not support the GCRE project specifically? And if you can't give a reason, will you perhaps today commit to supporting it? Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=341"
+        },
+        {
+          "id": "contribution-770977",
+          "item_id": "item-16262-260922-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "cy",
+          "t_start": 8243,
+          "text_english": "Trefnydd, I would like a statement from the relevant Minister on the criteria used in allocating additional funding to support people living in poverty. A press release last week on emergency food and poverty support noted that funding would not be allocated on the basis of the number of people living in poverty, but, rather, that an additional percentage of the funding will be distributed according to how rural a community is.",
+          "text_original": "Drefnydd, hoffwn i gael datganiad gan y Gweinidog perthnasol ynghylch y meini prawf a ddefnyddir wrth ddyrannu cyllid ychwanegol i gefnogi pobl sy'n byw mewn tlodi. Nododd cyhoeddiad i'r wasg yr wythnos diwethaf ynghylch cymorth bwyd a thlodi brys na fydd cyllid yn cael ei ddyrannu ar sail nifer y bobl sy'n byw mewn tlodi, ond, yn hytrach, y bydd cyfran ychwanegol o'r cyllid yn cael ei ddosbarthu yn ôl pa mor wledig yw cymuned.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=8243"
+        },
+        {
+          "id": "contribution-770982",
+          "item_id": "item-16262-260922-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 8269,
+          "text_english": "There's a long-established formula for the distribution of such funding, and well-established processes for making changes to this formula. Your Government has torn that up via a press release, and I'm told councils are still waiting for details nearly a week after the announcement was made. I find it deeply concerning, without debate or scrutiny, that the Plaid Government would divert potential funding away from communities such as Ely, Caerau, south Riverside, Pentrebane, Grangetown, Butetown and Splott, despite the significant challenges of poverty faced by residents there. Surely there's consensus across this Chamber that the most effective way to target funding intended to alleviate poverty is to allocate it according to the levels of poverty and need. The Minister needs to urgently explain why she believes differently. Diolch yn fawr.",
+          "text_original": "There's a long-established formula for the distribution of such funding, and well-established processes for making changes to this formula. Your Government has torn that up via a press release, and I'm told councils are still waiting for details nearly a week after the announcement was made. I find it deeply concerning, without debate or scrutiny, that the Plaid Government would divert potential funding away from communities such as Ely, Caerau, south Riverside, Pentrebane, Grangetown, Butetown and Splott, despite the significant challenges of poverty faced by residents there. Surely there's consensus across this Chamber that the most effective way to target funding intended to alleviate poverty is to allocate it according to the levels of poverty and need. The Minister needs to urgently explain why she believes differently. Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=8269"
+        },
+        {
+          "id": "contribution-771008",
+          "item_id": "item-16262-260922-4",
+          "item_title_en": "4. Statement by the First Minister: 'New Ambition for Wales: Programme for Government 2026-2030'",
+          "lang": "cy",
+          "t_start": 11107,
+          "text_english": "First Minister, it's encouraging to see the first visible signs that this Government has a programme at last. Many who read the statement by the First Minister will have smiled to see the claim that the Government made a good start during its first 100 days. For many across Wales, however, a series of reviews and a series of postponed decisions felt like anything but progress.",
+          "text_original": "Brif Weinidog, mae'n galonogol gweld yr arwyddion gweladwy cyntaf bod gan y Llywodraeth hon raglen o'r diwedd. Bydd nifer a ddarllenodd gyflwyniad y Prif Weinidog wedi gwenu wrth weld yr honiad bod y Llywodraeth wedi cychwyn arni'n ddi-oed yn ystod eu 100 diwrnod cyntaf. I lawer ledled Cymru, fodd bynnag, roedd cyfres o adolygiadau a chyfres o benderfyniadau'n cael eu gohirio yn teimlo fel unrhyw beth ond hynny.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=11107"
+        },
+        {
+          "id": "contribution-771010",
+          "item_id": "item-16262-260922-4",
+          "item_title_en": "4. Statement by the First Minister: 'New Ambition for Wales: Programme for Government 2026-2030'",
+          "lang": "en",
+          "t_start": 11133,
+          "text_english": "More concerning, however, is the continued failure to prioritise funding to areas of genuine need. Many in Cardiff will have heard the Trefnydd's contemptuous dismissal of my question earlier today. We've heard claims from Plaid Cymru MSs in the past that the additional learning needs funding gap was less severe in Wales than elsewhere—comments that teaching unions quickly criticised as out of touch with the reality facing schools.\n\nAnd last week, there was an appearance of going even further, with Government Ministers appearing to cast doubts on the future of Flying Start. Whether or not that suggestion proves accurate, it has caused significant concern among those people delivering and benefiting from the programme. Will the First Minister take the opportunity right now to provide clarity and guarantee that funding for Flying Start will continue, as well as the prioritisation of those most in need? Children in some of Wales's most deprived communities should not pay the price for the Government's failure to properly cost its election promises.",
+          "text_original": "More concerning, however, is the continued failure to prioritise funding to areas of genuine need. Many in Cardiff will have heard the Trefnydd's contemptuous dismissal of my question earlier today. We've heard claims from Plaid Cymru MSs in the past that the additional learning needs funding gap was less severe in Wales than elsewhere—comments that teaching unions quickly criticised as out of touch with the reality facing schools.\n\nAnd last week, there was an appearance of going even further, with Government Ministers appearing to cast doubts on the future of Flying Start. Whether or not that suggestion proves accurate, it has caused significant concern among those people delivering and benefiting from the programme. Will the First Minister take the opportunity right now to provide clarity and guarantee that funding for Flying Start will continue, as well as the prioritisation of those most in need? Children in some of Wales's most deprived communities should not pay the price for the Government's failure to properly cost its election promises.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=11133"
+        }
+      ],
+      "date": "2026-09-22",
+      "record_page_url": "https://record.senedd.wales/Plenary/16262"
+    },
     {
       "contributions": [
         {

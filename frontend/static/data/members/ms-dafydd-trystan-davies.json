@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "abstain"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,542 @@
   "canonical_name": "Dafydd Trystan Davies",
   "constituency_name_cy": "Caerdydd Ffynnon Taf",
   "constituency_name_en": "Caerdydd Ffynnon Taf",
-  "contribution_count": 86,
+  "contribution_count": 137,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778490",
+          "item_id": "item-16315-261013-3",
+          "item_title_en": "3. Statement by the Cabinet Minister for Government Effectiveness and the Constitution: The next steps for the Glyndŵr National Park (Designation) Order",
+          "lang": "en",
+          "t_start": 5461,
+          "text_english": "Diolch, Ddirprwy Lywydd. Today, I am updating Members on the next steps regarding the Glyndŵr National Park (Designation) Order submitted to Welsh Ministers by Natural Resources Wales in January of this year.\n\nFollowing careful consideration of the designation Order, the evidence assembled by Natural Resources Wales, the representations and objections received during the designation process, and the associated impact assessments, I have reached a provisional view in respect of the question of whether to confirm, confirm with modifications or to reject the designation Order. I am currently minded not to confirm the designation Order, and consequently minded not to proceed with a public local inquiry at this stage. Not confirming the designation Order and not proceeding with a public local inquiry will mean that no new national park is established at this time.\n\nI do want to be clear with Members that this is not a final decision. Before reaching a final decision, I intend to provide a short opportunity for everyone with an interest in this proposal to make further representations in respect of the provisional view that I have reached.",
+          "text_original": "Diolch, Ddirprwy Lywydd. Today, I am updating Members on the next steps regarding the Glyndŵr National Park (Designation) Order submitted to Welsh Ministers by Natural Resources Wales in January of this year.\n\nFollowing careful consideration of the designation Order, the evidence assembled by Natural Resources Wales, the representations and objections received during the designation process, and the associated impact assessments, I have reached a provisional view in respect of the question of whether to confirm, confirm with modifications or to reject the designation Order. I am currently minded not to confirm the designation Order, and consequently minded not to proceed with a public local inquiry at this stage. Not confirming the designation Order and not proceeding with a public local inquiry will mean that no new national park is established at this time.\n\nI do want to be clear with Members that this is not a final decision. Before reaching a final decision, I intend to provide a short opportunity for everyone with an interest in this proposal to make further representations in respect of the provisional view that I have reached.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=5461"
+        },
+        {
+          "id": "contribution-778492",
+          "item_id": "item-16315-261013-3",
+          "item_title_en": "3. Statement by the Cabinet Minister for Government Effectiveness and the Constitution: The next steps for the Glyndŵr National Park (Designation) Order",
+          "lang": "cy",
+          "t_start": 5554,
+          "text_english": "Members will be aware that the previous administration asked Natural Resources Wales to assess the case for a new national park. Following an extensive programme of evidence gathering, engagement and consultation, NRW concluded that the area comprising the proposed Glyndŵr national park did meet the statutory tests for designation, and submitted the designation Order to Welsh Ministers.\n\nSince then, a significant volume of evidence has been gathered. Over 400 responses were received during the notification period. These reflected a variety of views, with many respondents supporting the proposal and many opposing it. Significant objections were also submitted, including objections from every one of the five local authorities in the area. There were strong feelings in favour and strong feelings against. Many have highlighted the potential benefits: these include opportunities to enhance nature recovery, strengthen climate resilience, provide strategic leadership for landscape management, and support recreation and sustainable tourism. The evidence presented by NRW identifies a number of opportunities in these areas.\n\nAt the same time, important questions have been raised throughout the process relating to affordability, funding requirements in the future, value for money, governance arrangements and potential impacts on local communities, infrastructure, energy developments, housing and the Welsh language. These concerns have been raised by local authorities, businesses and land managers.\n\nIn reaching my provisional view, I have carefully considered these issues. I have considered the findings of the regulatory impact assessment and integrated impact assessment prepared by officials. That analysis highlights both possible benefits and significant uncertainties. The regulatory impact assessment estimates establishment costs of over £11 million and identifies ongoing costs associated with establishing and operating a new national park authority. It also notes uncertainty in the evidence base.",
+          "text_original": "Bydd Aelodau'n cofio bod y weinyddiaeth flaenorol wedi gofyn i Gyfoeth Naturiol Cymru i asesu'r achos o blaid parc cenedlaethol newydd. Yn dilyn rhaglen drwyadl o gasglu tystiolaeth, trafod ac ymgynghori, daeth Cyfoeth Naturiol Cymru i'r casgliad bod ardal y parc cenedlaethol Glyndŵr arfaethedig yn bodloni'r profion statudol ar gyfer ei dynodi, a chyflwynodd Orchymyn dynodi i Weinidogion Cymru.\n\nErs hynny, mae llwyth o dystiolaeth wedi'i chasglu. Daeth dros 400 o ymatebion i law yn ystod y cyfnod hysbysu. Roedd y rhain yn adlewyrchu amrywiaeth o safbwyntiau, gyda llawer o ymatebwyr yn cefnogi a llawer yn gwrthwynebu. Cyflwynwyd gwrthwynebiadau sylweddol hefyd, gan gynnwys gwrthwynebiadau gan bob un o'r pum awdurdod lleol yn yr ardal berthnasol. Teimladau cryf o blaid a theimladau cryf yn erbyn. Mae llawer wedi tynnu sylw at y manteision posibl: cyfleoedd i adfer natur, gwrthsefyll newid hinsawdd yn well, rhoi arweiniad strategol ar gyfer rheoli'r dirwedd, cefnogi hamddena a thwristiaeth gynaliadwy. Mae'r dystiolaeth gan Gyfoeth Naturiol Cymru yn nodi nifer o gyfleoedd yn y meysydd hyn.\n\nAr yr un pryd, mae cwestiynau pwysig wedi'u codi ar hyd y broses yn ymwneud â fforddiadwyedd, gofynion cyllidol y dyfodol, gwerth am arian, trefniadau llywodraethu ac effeithiau posibl ar gymunedau lleol, seilwaith, datblygiadau ynni, tai a'r iaith Gymraeg. Mae'r pryderon yma wedi'u codi gan awdurdodau lleol a chynrychiolwyr y sectorau busnes a rheoli tir.\n\nWrth i fi ddod i gasgliad dros dro, dwi wedi ystyried y materion yma'n fanwl. Dwi wedi ystyried canlyniadau'r asesiad effaith rheoleiddiol a'r asesiad effaith integredig gafodd eu paratoi gan swyddogion. Mae'r dadansoddiad yn nodi manteision posibl ynghyd ag ansicrwydd sylweddol. Mae'r asesiad effaith rheoleiddiol yn amcangyfrif costau sefydlu o dros £11 miliwn ac yn nodi'r costau wedi hynny sy'n gysylltiedig â sefydlu a gweithredu awdurdod parc cenedlaethol newydd. Mae hefyd yn nodi ansicrwydd yn y sylfaen dystiolaeth.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=5554"
+        },
+        {
+          "id": "contribution-778477",
+          "item_id": "item-16315-261013-3",
+          "item_title_en": "3. Statement by the Cabinet Minister for Government Effectiveness and the Constitution: The next steps for the Glyndŵr National Park (Designation) Order",
+          "lang": "cy",
+          "t_start": 5721,
+          "text_english": "As I have already noted, all five local authorities in the area objected to the designation. While I have carefully considered all representations received, I do recognise the importance of understanding the views of these local authorities, which already play a role in delivering many of the outcomes that are sought through designation and which would be important partners should a national park ultimately be established.\n\nI therefore consider that there is great value in continuing to maintain a strong focus on enabling those existing designations and partnerships to deliver for nature, climate, cultural heritage, recreation and local communities, while continuing to pursue the objectives identified through the Glyndŵr park designation process through other mechanisms. For example, we are taking practical action to restore nature and build climate resilience across the north-east. Through the Welsh Government’s national peatland programme, significant restoration work has been delivered within the Clwydian range and Dee valley national landscape, including at Llandegla moor site, which is of special scientific interest, bringing around 120 hectares of peatland into a more favourable condition.\n\nThe evidence demonstrates that many of the challenges identified by Natural Resources Wales are already being addressed through this Welsh Government's current programmes. These include our work on biodiversity recovery, peatland restoration, nature networks, the sustainable farming scheme, including Ffermio Bro, climate and nature action, sustainable tourism and wider rural investment.\n\nImportantly, these policies are already delivering real outcomes for communities, farmers and the environment. Ffermio Bro, our bespoke sustainable farming scheme for designated landscapes, is supporting farmers to deliver practical action for nature recovery, climate resilience and sustainable land management. Farmers at Llangwyfan farm are restoring hedgerows to reconnect ancient woodland and improve woodland management to strengthen habitats for native flora and fauna. This is helping to create a more connected and resilient landscape. It therefore appears to me that the objectives identified through the designation process may be delivered through alternative mechanisms, without establishing a new national park authority and without incurring the ongoing financial commitments that the designation would require.\n\nLooking ahead, I believe there will be further opportunities to secure these outcomes through the Welsh Government's work, through our climate and nature action plan, our culture strategy, our proposed rural-proofing and environmental sustainability duty, which will strengthen the consideration of environmental sustainability, climate resilience and rural impacts across public sector decision making. I will also consider whether existing arrangements for national landscapes can be further strengthened, alongside other integrated approaches that support nature recovery, sustainable land management and thriving rural communities.\n\nHaving said all that, I do recognise the significance of this proposal in front of us today and the strong interest it continues to generate. My responsibility is to reach a reasonable conclusion on the basis of all the relevant information. It's for that reason that I am not making a final decision today. Instead, I invite any party to submit further representations before reaching a final decision.\n\nThis is therefore an opportunity for local authorities, representative organisations, businesses, community groups and members of the public to present any additional evidence, arguments or material considerations that they believe Welsh Ministers should take into account. People and organisations can submit their views via e-mail or through the post, the details of which will be on the Welsh Government's website as we bring the statement in the Senedd today to a close. I will also be publishing links to a range of evidence that has been developed during the process so far to further inform these considerations. I would encourage people to provide new evidence, in particular, or information that has not already been considered through the extensive work carried out to date.\n\nThe intention of these steps is not to repeat earlier consultation exercises; rather, it is intended to ensure that all relevant evidence has been properly considered and in a reasonable manner before a final decision is made. Once this period has concluded, in four weeks' time, officials will analyse the representations received and provide further advice to me. Then I will consider all submissions carefully before coming to a final decision, as well as publishing my reasons.\n\nThe landscapes, communities and cultural heritage of the north-east are nationally important. Whatever the final outcome, the evidence assembled over recent years has highlighted both their special qualities and the challenges they face. I remain committed to working with partners to secure positive outcomes for those landscapes, communities and future generations. Note again that this announcement represents a provisional view only. I encourage all interested parties to engage constructively with the next steps so that any final decision is informed by the fullest possible consideration of the evidence before us. Thank you very much.",
+          "text_original": "Fel dwi eisoes wedi'i nodi, gwnaeth y pum awdurdod lleol yn yr ardal wrthwynebu'r dynodiad. Er fy mod wedi ystyried yn ofalus yr holl sylwadau sydd wedi dod i law, dwi'n cydnabod ei bod yn bwysig iawn deall barn yr awdurdodau lleol yma, sydd eisoes yn chwarae rhan wrth gyflawni llawer o’r canlyniadau a geisir trwy ddynodi ac a fyddai’n bartneriaid pwysig pe bai parc cenedlaethol yn cael ei sefydlu yn y pen draw.\n\nDwi'n ystyried felly fod gwerth mawr mewn parhau i gadw ffocws cryf ar alluogi'r dynodiadau a'r partneriaethau presennol yma i gyflawni ar gyfer natur, hinsawdd, treftadaeth ddiwylliannol, hamdden a chymunedau lleol, tra'n parhau i fynd ar drywydd yr amcanion a nodwyd drwy broses ddynodi parc Glyndŵr drwy fecanweithiau eraill. Er enghraifft, rŷn ni'n cymryd camau ymarferol i adfer natur ac adeiladu gwydnwch hinsawdd ar draws y gogledd-ddwyrain. Drwy raglen genedlaethol mawndir Llywodraeth Cymru, cyflawnwyd gwaith adfer sylweddol o fewn tirwedd genedlaethol bryniau Clwyd a dyffryn Dyfrdwy, gan gynnwys safle rhostir Llandegla sydd o ddiddordeb gwyddonol arbennig, gan ddod â thua 120 hectar o fawndir i gyflwr gwell.\n\nMae'r dystiolaeth yn dangos bod llawer o'r heriau a nodwyd gan Gyfoeth Naturiol Cymru eisoes dan ystyriaeth gan raglenni presennol y Llywodraeth hon. Yn eu plith mae ein gwaith ar adfer bioamrywiaeth, adfer mawndiroedd, rhwydweithiau natur, y cynllun ffermio cynaliadwy, gan gynnwys Ffermio Bro, gweithredu ar hinsawdd a natur, twristiaeth gynaliadwy a buddsoddi ehangach yng nghefn gwlad.\n\nYn bwysig, mae'r polisïau yma eisoes yn cyflawni canlyniadau gwirioneddol i gymunedau, ffermwyr a'r amgylchedd. Mae Ffermio Bro, ein cynllun ffermio cynaliadwy pwrpasol ar gyfer tirweddau dynodedig, yn cefnogi ffermwyr i weithredu’n ymarferol ar gyfer adferiad natur, gwydnwch hinsawdd a rheoli tir cynaliadwy. Mae ffermwyr yn fferm Llangwyfan yn adfer gwrychoedd i ailgysylltu coetir hynafol a gwella rheoli coetiroedd i gryfhau cynefinoedd ar gyfer fflora a ffawna brodorol. Mae hyn yn helpu i greu tirwedd fwy cysylltiedig a gwydn. Mae'n ymddangos i mi, felly, y gellir cyflawni'r amcanion a gafodd eu nodi gan y broses ddynodi trwy fecanweithiau amgen, heb sefydlu awdurdod parc cenedlaethol newydd a heb ysgwyddo'r ymrwymiadau ariannol y byddai ar y dynodiad eu hangen wedi hynny.\n\nWrth edrych ymlaen, dwi'n credu bydd yna gyfleoedd pellach i sicrhau'r canlyniadau hyn drwy waith y Llywodraeth, drwy ein cynllun gweithredu hinsawdd a natur sydd ar ein gweill, ein strategaeth ddiwylliant, ein dyletswydd diogelu gwledig a chynaliadwyedd amgylcheddol arfaethedig, a fydd yn cryfhau'r ystyriaeth o gynaliadwyedd amgylcheddol, gwydnwch hinsawdd ac effeithiau gwledig ar draws penderfyniadau'r sector cyhoeddus. Dwi hefyd am ystyried a ellir cryfhau'r trefniadau presennol ar gyfer tirweddau cenedlaethol, ochr yn ochr â dulliau integredig eraill sy'n cefnogi adferiad natur, rheoli tir cynaliadwy a chymunedau gwledig ffyniannus.\n\nWedi dweud hynny i gyd, dwi'n cydnabod arwyddocâd y cynnig hwn sydd o'n blaenau heddiw a'r diddordeb mawr sydd ynddo. Fy nghyfrifoldeb i yw dod i gasgliad rhesymol ar sail yr holl wybodaeth berthnasol. Am y rheswm hwnnw, dwi ddim am wneud penderfyniad terfynol heddiw. Yn hytrach, dwi’n gwahodd unrhyw barti i gyflwyno sylwadau pellach cyn inni wneud penderfyniad terfynol.\n\nDyma gyfle felly i awdurdodau lleol, sefydliadau cynrychioladol, busnesau, grwpiau cymunedol ac aelodau o'r cyhoedd gyflwyno unrhyw dystiolaeth, dadleuon neu ystyriaethau materol ychwanegol y credant y dylai Gweinidogion Cymru eu hystyried. Gall pobl a sefydliadau gyflwyno'u barn drwy e-bost neu drwy'r post, a bydd y manylion ar wefan Llywodraeth Cymru wrth i ni ddod i ddiwedd y datganiad hwn yn y Senedd heddiw. Byddaf hefyd yn cyhoeddi dolenni i ystod o'r dystiolaeth sydd wedi'i ddatblygu yn ystod y broses hyd yma i lywio'r ystyriaethau ymhellach. Byddwn i'n annog pobl i gyflwyno sylwadau yn benodol sy'n darparu tystiolaeth neu wybodaeth newydd nad ydynt eisoes wedi eu hystyried drwy'r gwaith helaeth a wnaed hyd yn hyn.\n\nNid bwriad y camau hyn yw ailadrodd ymarferion ymgynghori cynharach; yn hytrach, mae'n bwriadu sicrhau bod yr holl dystiolaeth berthnasol wedi ei hystyried yn briodol ac yn rhesymol cyn gwneud penderfyniad terfynol. Ar ôl i'r cyfnod hwn ddod i ben, mewn pedair wythnos, bydd swyddogion yn dadansoddi'r sylwadau a dderbyniwyd ac yn rhoi cyngor pellach i mi. Yna byddaf yn ystyried yr holl gyflwyniadau yn ofalus cyn dod i benderfyniad terfynol, ynghyd â chyhoeddi fy rhesymau.\n\nMae tirweddau cymunedau a threftadaeth ddiwylliannol y gogledd-ddwyrain yn bwysig yn genedlaethol. Beth bynnag yw'r canlyniad terfynol, mae'r dystiolaeth a gasglwyd dros y blynyddoedd diwethaf wedi tynnu sylw at eu rhinweddau arbennig a'r heriau maen nhw'n eu hwynebu. Dwi'n parhau i ymrwymo i weithio gyda phartneriaid i sicrhau canlyniadau cadarnhaol i'r tirweddau, i'r cymunedau a chenedlaethau'r dyfodol. Nodwch eto: mae'r cyhoeddiad hwn yn cynrychioli barn dros dro yn unig. Dwi'n annog pawb sydd â diddordeb i ymgysylltu'n adeiladol ar y camau nesaf, fel bod unrhyw benderfyniad terfynol yn cael ei lywio gan yr ystyriaeth lawnaf bosib o'r dystiolaeth sydd o'n blaenau. Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=5721"
+        },
+        {
+          "id": "contribution-778515",
+          "item_id": "item-16315-261013-3",
+          "item_title_en": "3. Statement by the Cabinet Minister for Government Effectiveness and the Constitution: The next steps for the Glyndŵr National Park (Designation) Order",
+          "lang": "en",
+          "t_start": 6469,
+          "text_english": "Thank you to the opposition spokesperson for his comments. My intention, Dirprwy Lywydd, is not to get into immense detail in my responses, because we are now in a phase of listening. I have set out the rationale for why I will be listening over the next four weeks before I make my final decision. But the points are clearly well made by the opposition spokesperson, and I thank him for those comments.",
+          "text_original": "Thank you to the opposition spokesperson for his comments. My intention, Dirprwy Lywydd, is not to get into immense detail in my responses, because we are now in a phase of listening. I have set out the rationale for why I will be listening over the next four weeks before I make my final decision. But the points are clearly well made by the opposition spokesperson, and I thank him for those comments.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=6469"
+        },
+        {
+          "id": "contribution-778505",
+          "item_id": "item-16315-261013-3",
+          "item_title_en": "3. Statement by the Cabinet Minister for Government Effectiveness and the Constitution: The next steps for the Glyndŵr National Park (Designation) Order",
+          "lang": "en",
+          "t_start": 6690,
+          "text_english": "Thank you to the opposition spokesperson for those questions. There are some points of substance there. I've heard the view expressed clearly, which I will obviously take into account, and I will reiterate my request to anyone who has an interest in these matters to write to the Government through the Welsh Government website or through the Royal Mail to offer us their views. I will welcome those views, and I will consider them carefully and reasonably.\n\nIt is a period of four weeks, and that is the timetable. It would be my intention, and I have asked my officials, to assess and analyse those representations in short order, because I do not believe that uncertainty helps anyone. I would hope to be in a position to update this Senedd either by Christmas or early in the new year as to the next steps—the next step either being the commissioning of a public inquiry or a rejection of the designation Order.\n\nThere is a point raised here about whether we should always turn to a public inquiry or to a 54:46 result on a consultation to guide us as a Government. Fundamentally, it is my belief that Government Ministers must make political judgments. At times, those judgments will be balanced, and there will be people who are proponents of one side or the other, but we have to consider the evidence carefully and come to a conclusion. That is what I have sought to do here, and I have set out a follow-on process that will allow people to make further representations. Diolch.",
+          "text_original": "Thank you to the opposition spokesperson for those questions. There are some points of substance there. I've heard the view expressed clearly, which I will obviously take into account, and I will reiterate my request to anyone who has an interest in these matters to write to the Government through the Welsh Government website or through the Royal Mail to offer us their views. I will welcome those views, and I will consider them carefully and reasonably.\n\nIt is a period of four weeks, and that is the timetable. It would be my intention, and I have asked my officials, to assess and analyse those representations in short order, because I do not believe that uncertainty helps anyone. I would hope to be in a position to update this Senedd either by Christmas or early in the new year as to the next steps—the next step either being the commissioning of a public inquiry or a rejection of the designation Order.\n\nThere is a point raised here about whether we should always turn to a public inquiry or to a 54:46 result on a consultation to guide us as a Government. Fundamentally, it is my belief that Government Ministers must make political judgments. At times, those judgments will be balanced, and there will be people who are proponents of one side or the other, but we have to consider the evidence carefully and come to a conclusion. That is what I have sought to do here, and I have set out a follow-on process that will allow people to make further representations. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=6690"
+        },
+        {
+          "id": "contribution-778518",
+          "item_id": "item-16315-261013-3",
+          "item_title_en": "3. Statement by the Cabinet Minister for Government Effectiveness and the Constitution: The next steps for the Glyndŵr National Park (Designation) Order",
+          "lang": "en",
+          "t_start": 7129,
+          "text_english": "I thank the Member for those generally positive comments. As my colleague has highlighted, there was no money allocated in the previous Government's budget for this purpose, which I think is interesting, shall we say. You make some interesting points more broadly about the governance of national parks. It is something that I shall certainly be considering and my colleagues will certainly be considering. The landscape of governance in Wales is potentially more complicated than it needs to be. How we move from here to where we would like to be is another question and I'm sure we will have lively debates in this Senedd around some of those issues. But it is a point well made.",
+          "text_original": "I thank the Member for those generally positive comments. As my colleague has highlighted, there was no money allocated in the previous Government's budget for this purpose, which I think is interesting, shall we say. You make some interesting points more broadly about the governance of national parks. It is something that I shall certainly be considering and my colleagues will certainly be considering. The landscape of governance in Wales is potentially more complicated than it needs to be. How we move from here to where we would like to be is another question and I'm sure we will have lively debates in this Senedd around some of those issues. But it is a point well made.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=7129"
+        },
+        {
+          "id": "contribution-778526",
+          "item_id": "item-16315-261013-3",
+          "item_title_en": "3. Statement by the Cabinet Minister for Government Effectiveness and the Constitution: The next steps for the Glyndŵr National Park (Designation) Order",
+          "lang": "cy",
+          "t_start": 7241,
+          "text_english": "I thank the Member. I can confirm that we won't be spending a fortune, but recommending that people send their comments via e-mail in the next phase. We won't be spending a great amount of money on the analysis either. That is, we need to make a wise decision on these issues as a matter of urgency.",
+          "text_original": "Diolch i’r Aelod. Mi allaf i gadarnhau na fyddwn ni'n gwario ffortiwn, ond yn argymell pobl i hala e-bost atom ni gyda’u sylwadau nhw yn y cam nesaf—nag ar y dadansoddi chwaith. Hynny yw, mae angen i ni symud ymlaen i ddod i benderfyniad rhesymol a chall ar y materion yma rhag blaen.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=7241"
+        },
+        {
+          "id": "contribution-778533",
+          "item_id": "item-16315-261013-3",
+          "item_title_en": "3. Statement by the Cabinet Minister for Government Effectiveness and the Constitution: The next steps for the Glyndŵr National Park (Designation) Order",
+          "lang": "en",
+          "t_start": 7348,
+          "text_english": "I thank the Member for the question. I think allusion has been made to the sum spent by a previous Government on this programme, and I've given a commitment to the Senedd that, over this next period, we will be spending very little indeed in simply assessing the information we get in, and affording an opportunity for people to e-mail us. \n\nI understand the point made that it should be rejected permanently today. I am minded towards that point of view, but, for the reasons I've outlined, I have set out that extra short process, so that interested parties—. Because it is not a matter of consensus, even across this Chamber, but I am minded to make that decision. I have set out the reasons why I am minded to make that decision, but I have also set out a short timescale for reaching that decision. \n\nYou raise an interesting point, and maybe I may make some positive points about the previous Government here. The financial context that we face is clearly an issue. I think, if we were in a position, if we were back in the halcyon dates of public sector growth in spending between 1997 and 2005, we might be having a different discussion here. I'm sceptical about layers of bureaucracy generally, but if the financial position was different—. I think that is an issue. \n\nI also think—and it is something that I'm hoping to bring to my role, and colleagues are hoping to bring to their role—that we have, as a Senedd, and as a Government in past years, sought out major pieces of legislation, major new initiatives, without following through every time on working out what the outcomes will be for people in communities right across Wales. And if we can bring that focus back to outcomes and to making an improvement to people's lives, we can improve housing, the Welsh language, businesses, tourism, sustainability, in a more integrated way. So, I think there is an opportunity there to bring things together across Government.\n\nAs I've set out, I am not persuaded that that requires a new national park in the Glyndŵr area, as of today. I've offered that opportunity for people to make further representations, and I welcome all comments on that point. Diolch yn fawr.",
+          "text_original": "I thank the Member for the question. I think allusion has been made to the sum spent by a previous Government on this programme, and I've given a commitment to the Senedd that, over this next period, we will be spending very little indeed in simply assessing the information we get in, and affording an opportunity for people to e-mail us. \n\nI understand the point made that it should be rejected permanently today. I am minded towards that point of view, but, for the reasons I've outlined, I have set out that extra short process, so that interested parties—. Because it is not a matter of consensus, even across this Chamber, but I am minded to make that decision. I have set out the reasons why I am minded to make that decision, but I have also set out a short timescale for reaching that decision. \n\nYou raise an interesting point, and maybe I may make some positive points about the previous Government here. The financial context that we face is clearly an issue. I think, if we were in a position, if we were back in the halcyon dates of public sector growth in spending between 1997 and 2005, we might be having a different discussion here. I'm sceptical about layers of bureaucracy generally, but if the financial position was different—. I think that is an issue. \n\nI also think—and it is something that I'm hoping to bring to my role, and colleagues are hoping to bring to their role—that we have, as a Senedd, and as a Government in past years, sought out major pieces of legislation, major new initiatives, without following through every time on working out what the outcomes will be for people in communities right across Wales. And if we can bring that focus back to outcomes and to making an improvement to people's lives, we can improve housing, the Welsh language, businesses, tourism, sustainability, in a more integrated way. So, I think there is an opportunity there to bring things together across Government.\n\nAs I've set out, I am not persuaded that that requires a new national park in the Glyndŵr area, as of today. I've offered that opportunity for people to make further representations, and I welcome all comments on that point. Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=7348"
+        },
+        {
+          "id": "contribution-778529",
+          "item_id": "item-16315-261013-3",
+          "item_title_en": "3. Statement by the Cabinet Minister for Government Effectiveness and the Constitution: The next steps for the Glyndŵr National Park (Designation) Order",
+          "lang": "cy",
+          "t_start": 7588,
+          "text_english": "I have to admit that I'm slightly disappointed by the comments made by my colleague behind me there. I am one who has enjoyed the Berwyn range—I've run in the Berwyn mountains on occasion. I do acknowledge and agree with the Member on the points that he's made on the importance of our natural areas and the opportunity that we have as a Government to improve that. There are a number of strategies that I've highlighted in my statement today that will do exactly that: sustainable tourism, sustainable rural communities, prosperous rural communities. Those are the opportunities that we have in taking steps across Government to make improvements. That's what I want to do, and that's what's at the forefront of my mind as I move towards a decision on these issues.",
+          "text_original": "Mae'n rhaid cyfaddef fy mod i fymryn yn siomedig â sylwadau fy nghyfaill o'r cefn yn fanna. Dwi'n un sydd wedi mwynhau mynyddoedd y Berwyn—dwi wedi rhedeg mynyddoedd y Berwyn ar adegau. Dwi'n cydnabod ac yn cytuno â'r Aelod ar ei bwyntiau ar bwysigrwydd ein hardaloedd naturiol a'r cyfle sydd gyda ni fel Llywodraeth i wella hynny. Mae yna sawl strategaeth dwi wedi eu hamlygu yn fy natganiad heddiw a fydd yn gwneud yn union hynny: twristiaeth gynaliadwy, cymunedau gwledig cynaliadwy, cymunedau gwledig ffyniannus. Dyna'r cyfle sydd gyda ni wrth gymryd camau reit ar draws y Llywodraeth i wella pethau. Dyna dwi am ei wneud, a dyna sydd yn pwyso ar fy meddwl i wrth symud tuag at benderfyniad ar y materion hyn.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=7588"
+        },
+        {
+          "id": "contribution-778545",
+          "item_id": "item-16315-261013-3",
+          "item_title_en": "3. Statement by the Cabinet Minister for Government Effectiveness and the Constitution: The next steps for the Glyndŵr National Park (Designation) Order",
+          "lang": "en",
+          "t_start": 7718,
+          "text_english": "I thank the Member. I can give that reassurance to communities. I can give that reassurance to everyone who will be submitting comments during that four-week period. I have committed to the Senedd to aim to give a final decision by Christmas, and that is my commitment to the Senedd. I believe that minimises the risk of uncertainty and disruption that these proposals have created to communities right across the area affected.",
+          "text_original": "I thank the Member. I can give that reassurance to communities. I can give that reassurance to everyone who will be submitting comments during that four-week period. I have committed to the Senedd to aim to give a final decision by Christmas, and that is my commitment to the Senedd. I believe that minimises the risk of uncertainty and disruption that these proposals have created to communities right across the area affected.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=7718"
+        }
+      ],
+      "date": "2026-10-13",
+      "record_page_url": "https://record.senedd.wales/Plenary/16315"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776899",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "en",
+          "t_start": 14581,
+          "text_english": "Could I ask you to clarify, are you talking about nationality as self-recorded or are you talking about citizenship and UK passport holders, because there is a difference between both?",
+          "text_original": "Could I ask you to clarify, are you talking about nationality as self-recorded or are you talking about citizenship and UK passport holders, because there is a difference between both?",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=14581"
+        },
+        {
+          "id": "contribution-776974",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "en",
+          "t_start": 17129,
+          "text_english": "Llywydd, I'd like to raise a point of order about the proposing Member's speech at the beginning. I believe that there was an error of fact and I invite the Member, in her response, to correct that. There was a conflation of nation, nationality and citizenship. The census provides us with accurate data on social rented housing in Cardiff and can be accessed by all Members on the census website. Of social rented housing, there were 19,400 UK passport holders, and 1,800—less than 10 per cent—who held other passports. Of rented from the local authority, there were 19,605 UK passport holders. Other passport holders were 1,848. So, I invite the Member, as a matter of order, to correct the record. Passport holders are those numbers. I believe the Member was talking about self-described nationality. Diolch, Lywydd.",
+          "text_original": "Llywydd, I'd like to raise a point of order about the proposing Member's speech at the beginning. I believe that there was an error of fact and I invite the Member, in her response, to correct that. There was a conflation of nation, nationality and citizenship. The census provides us with accurate data on social rented housing in Cardiff and can be accessed by all Members on the census website. Of social rented housing, there were 19,400 UK passport holders, and 1,800—less than 10 per cent—who held other passports. Of rented from the local authority, there were 19,605 UK passport holders. Other passport holders were 1,848. So, I invite the Member, as a matter of order, to correct the record. Passport holders are those numbers. I believe the Member was talking about self-described nationality. Diolch, Lywydd.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=17129"
+        }
+      ],
+      "date": "2026-10-07",
+      "record_page_url": "https://record.senedd.wales/Plenary/16314"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-775930",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "en",
+          "t_start": 3604,
+          "text_english": "The Welsh Government is committed to establishing a national commission for Wales and is taking forward the final arrangements necessary for its establishment. I will make a further statement to Senedd Members in due course, setting out the commission’s remit, membership and next steps.",
+          "text_original": "The Welsh Government is committed to establishing a national commission for Wales and is taking forward the final arrangements necessary for its establishment. I will make a further statement to Senedd Members in due course, setting out the commission’s remit, membership and next steps.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=3604"
+        },
+        {
+          "id": "contribution-775934",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "en",
+          "t_start": 3693,
+          "text_english": "I thank the Member for the question. The case is very clearly made for the devolution of the Crown Estate. If you look over the past decade, there have been hundreds of millions of pounds of profits made by the Crown Estate in Wales. We believe that money should be invested in Wales and in Welsh energy and in supporting Welsh families and communities. The Welsh Government has established an expert group on the devolution of the Crown Estate and the future of the Crown Estate, which is building the evidence case. I expect a final report from the group to be published next summer. Then they will move forward to work on the broader issues of energy devolution.",
+          "text_original": "I thank the Member for the question. The case is very clearly made for the devolution of the Crown Estate. If you look over the past decade, there have been hundreds of millions of pounds of profits made by the Crown Estate in Wales. We believe that money should be invested in Wales and in Welsh energy and in supporting Welsh families and communities. The Welsh Government has established an expert group on the devolution of the Crown Estate and the future of the Crown Estate, which is building the evidence case. I expect a final report from the group to be published next summer. Then they will move forward to work on the broader issues of energy devolution.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=3693"
+        },
+        {
+          "id": "contribution-775937",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "en",
+          "t_start": 3749,
+          "text_english": "As a Government, we recognise the value that trade unions bring to Government effectiveness. They provide structures for meaningful dialogue, negotiation and problem solving, enabling early intervention that saves time and money. Social partnership ensures workforce voices are heard early in decision making and remains the most effective way to address Wales's challenges.",
+          "text_original": "As a Government, we recognise the value that trade unions bring to Government effectiveness. They provide structures for meaningful dialogue, negotiation and problem solving, enabling early intervention that saves time and money. Social partnership ensures workforce voices are heard early in decision making and remains the most effective way to address Wales's challenges.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=3749"
+        },
+        {
+          "id": "contribution-775945",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "en",
+          "t_start": 3823,
+          "text_english": "As I said in my first response, this Government remains committed to social partnership. It is something that we believe in, in principle and on principle. There will be Members across this Chamber who have led organisations and who have managed organisations with trade unions and built effective relationships with those trade unions. We will make no apology for supporting trade unions, for working with them. There will be times, as everyone knows, when we will not see eye to eye on everything with those trade unions, but a strong and happy workforce is an effective workforce, and I'm proud to say that this Government will work with our trade union partners.",
+          "text_original": "As I said in my first response, this Government remains committed to social partnership. It is something that we believe in, in principle and on principle. There will be Members across this Chamber who have led organisations and who have managed organisations with trade unions and built effective relationships with those trade unions. We will make no apology for supporting trade unions, for working with them. There will be times, as everyone knows, when we will not see eye to eye on everything with those trade unions, but a strong and happy workforce is an effective workforce, and I'm proud to say that this Government will work with our trade union partners.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=3823"
+        },
+        {
+          "id": "contribution-775941",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "en",
+          "t_start": 3954,
+          "text_english": "Well, I welcome the Member to his new position on the Reform frontbench. Had he been at a previous question time, he would have heard me say from this position that this Government is committed to delivering on its priorities for the people of Wales—on childcare, on child poverty, on the economy, on educational standards and on tackling waiting lists. Those are our priorities. That mission is underpinned by standing up for Wales, and we make no apology for seeking devolution of the Crown Estate, for the very reasons we've heard outlined earlier, for improving our rail services, and for making our communities safer by devolving policing. That is our agenda as a Government, as I set out in my oral statement on the priorities on the constitution.",
+          "text_original": "Well, I welcome the Member to his new position on the Reform frontbench. Had he been at a previous question time, he would have heard me say from this position that this Government is committed to delivering on its priorities for the people of Wales—on childcare, on child poverty, on the economy, on educational standards and on tackling waiting lists. Those are our priorities. That mission is underpinned by standing up for Wales, and we make no apology for seeking devolution of the Crown Estate, for the very reasons we've heard outlined earlier, for improving our rail services, and for making our communities safer by devolving policing. That is our agenda as a Government, as I set out in my oral statement on the priorities on the constitution.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=3954"
+        },
+        {
+          "id": "contribution-775955",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "en",
+          "t_start": 4057,
+          "text_english": "There's a simple answer to that question, which is 'yes', because, as a Government, we are committed to outcomes. We have been critical of previous Governments who have poured money into projects and focused on inputs and outputs rather than outcomes that people can feel in their daily lives across the country. Part of my role is to challenge and to work with every one of my Cabinet colleagues to look at those Government programmes, to ensure that we are both getting value for taxpayers' money and ensuring that we're delivering outcomes for people right across Wales, whether that's on childcare, on the economy, on education—change that people can feel.",
+          "text_original": "There's a simple answer to that question, which is 'yes', because, as a Government, we are committed to outcomes. We have been critical of previous Governments who have poured money into projects and focused on inputs and outputs rather than outcomes that people can feel in their daily lives across the country. Part of my role is to challenge and to work with every one of my Cabinet colleagues to look at those Government programmes, to ensure that we are both getting value for taxpayers' money and ensuring that we're delivering outcomes for people right across Wales, whether that's on childcare, on the economy, on education—change that people can feel.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=4057"
+        },
+        {
+          "id": "contribution-775959",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "en",
+          "t_start": 4153,
+          "text_english": "Again, I thank the Member for the question. This Government has a very limited set of bodies that it seeks to set up. There has been widespread debate about the national economic development agency. There is widespread consensus across this Chamber that the Welsh economy is not performing as it should, and an arm's-length, business-driven development agency is a clear way forward there. However, I share the Member's scepticism for the proliferation of bureaucracy, for more bodies for bodies' sake. You will be aware that the Government publishes the budget and the grant letter for every Government sponsored body on an annual basis. Where there are efficiencies to be gained, I will certainly pursue them. Thank you.",
+          "text_original": "Again, I thank the Member for the question. This Government has a very limited set of bodies that it seeks to set up. There has been widespread debate about the national economic development agency. There is widespread consensus across this Chamber that the Welsh economy is not performing as it should, and an arm's-length, business-driven development agency is a clear way forward there. However, I share the Member's scepticism for the proliferation of bureaucracy, for more bodies for bodies' sake. You will be aware that the Government publishes the budget and the grant letter for every Government sponsored body on an annual basis. Where there are efficiencies to be gained, I will certainly pursue them. Thank you.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=4153"
+        },
+        {
+          "id": "contribution-775958",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "cy",
+          "t_start": 4267,
+          "text_english": "Thank you for the question.",
+          "text_original": "Diolch am y cwestiwn.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=4267"
+        },
+        {
+          "id": "contribution-775960",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "en",
+          "t_start": 4269,
+          "text_english": "I think what we're seeing across the public services in Wales is a legacy of a decade and more of austerity that has seen cuts and challenges, and public services that are genuinely facing crisis point. I am very pleased that my colleague the Minister for education has been engaging effectively with a range of teaching unions. There's been more progress with some than others. I said in my earlier answer that trade union colleagues and us will not always agree. Those negotiations are ongoing, and I'm sure we would all wish to see a positive conclusion to those negotiations. My colleague the Cabinet Minister for education has focused on raising standards in our schools, and if we are to achieve that, it must be done in collaboration and co-operation with both the teachers and those who lead our schools.",
+          "text_original": "I think what we're seeing across the public services in Wales is a legacy of a decade and more of austerity that has seen cuts and challenges, and public services that are genuinely facing crisis point. I am very pleased that my colleague the Minister for education has been engaging effectively with a range of teaching unions. There's been more progress with some than others. I said in my earlier answer that trade union colleagues and us will not always agree. Those negotiations are ongoing, and I'm sure we would all wish to see a positive conclusion to those negotiations. My colleague the Cabinet Minister for education has focused on raising standards in our schools, and if we are to achieve that, it must be done in collaboration and co-operation with both the teachers and those who lead our schools.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=4269"
+        },
+        {
+          "id": "contribution-775977",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "en",
+          "t_start": 4390,
+          "text_english": "As my colleague will know full well, the Cabinet Minister for health is responsible for the health service and our health priorities, and has set out our approach and our encouragement to all of those partners in the debate in Cwm Taf, to reach a negotiated conclusion. We very much hope that will happen at the soonest time possible.\n\nThe point more generally about the NHS is an important one. People right across Wales are currently being let down by a service that has not invested significantly enough in tackling waiting lists. We have invested, as the First Minister said earlier, £145 million in bringing down waiting lists, because the impact of that on individuals, on families, on workplaces right across Wales is unconscionable, and those are our priorities as a Government.",
+          "text_original": "As my colleague will know full well, the Cabinet Minister for health is responsible for the health service and our health priorities, and has set out our approach and our encouragement to all of those partners in the debate in Cwm Taf, to reach a negotiated conclusion. We very much hope that will happen at the soonest time possible.\n\nThe point more generally about the NHS is an important one. People right across Wales are currently being let down by a service that has not invested significantly enough in tackling waiting lists. We have invested, as the First Minister said earlier, £145 million in bringing down waiting lists, because the impact of that on individuals, on families, on workplaces right across Wales is unconscionable, and those are our priorities as a Government.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=4390"
+        },
+        {
+          "id": "contribution-775988",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "en",
+          "t_start": 4463,
+          "text_english": "One of the areas that we are looking at as a centralised Cabinet office in the Government is looking right across our Government priorities and ensuring that there is effective delivery on those and there is effective value for money. I know my colleague the Cabinet Minister for Finance has been engaging with Cabinet colleagues about their budgets for the year ahead, working closely with them to ensure that there is value for money at the heart of those programmes. Government effectiveness is about value for money, it is about delivering outcomes for people, and it comes back to the question posed earlier: if there are programmes that are not delivering measurable, tangible outcomes for people in communities right across Wales, then we should indeed reconsider them.",
+          "text_original": "One of the areas that we are looking at as a centralised Cabinet office in the Government is looking right across our Government priorities and ensuring that there is effective delivery on those and there is effective value for money. I know my colleague the Cabinet Minister for Finance has been engaging with Cabinet colleagues about their budgets for the year ahead, working closely with them to ensure that there is value for money at the heart of those programmes. Government effectiveness is about value for money, it is about delivering outcomes for people, and it comes back to the question posed earlier: if there are programmes that are not delivering measurable, tangible outcomes for people in communities right across Wales, then we should indeed reconsider them.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=4463"
+        },
+        {
+          "id": "contribution-775961",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "en",
+          "t_start": 4580,
+          "text_english": "I think if anyone had seen the evidence from colleagues in the media, in BBC and in S4C, to the culture committee in Westminster and in other places on the challenges facing the media landscape, and the very real challenges facing the media landscape right across Wales, they would understand that broadcasting in Wales would be in a stronger place if it was indeed devolved. That is why this Government is committed to the devolution of broadcasting, so that we can have effective media, so that we can have effective scrutiny of this Government, amongst other things. That is what we support, and we make no apology for supporting that.",
+          "text_original": "I think if anyone had seen the evidence from colleagues in the media, in BBC and in S4C, to the culture committee in Westminster and in other places on the challenges facing the media landscape, and the very real challenges facing the media landscape right across Wales, they would understand that broadcasting in Wales would be in a stronger place if it was indeed devolved. That is why this Government is committed to the devolution of broadcasting, so that we can have effective media, so that we can have effective scrutiny of this Government, amongst other things. That is what we support, and we make no apology for supporting that.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=4580"
+        },
+        {
+          "id": "contribution-775967",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "en",
+          "t_start": 4634,
+          "text_english": "Diolch, Safa. Trustworthy statistics play a vital role in effective decision making across Wales. They help us understand where need is greatest, target resources effectively and judge whether outcomes are improving. As a Government, we are committed to using high-quality evidence to shape policy and delivery, and to publish clear outcomes that strengthen accountability.",
+          "text_original": "Diolch, Safa. Trustworthy statistics play a vital role in effective decision making across Wales. They help us understand where need is greatest, target resources effectively and judge whether outcomes are improving. As a Government, we are committed to using high-quality evidence to shape policy and delivery, and to publish clear outcomes that strengthen accountability.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=4634"
+        },
+        {
+          "id": "contribution-775986",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "en",
+          "t_start": 4715,
+          "text_english": "Diolch yn fawr. The Member, from her professional background, speaks clearly from experience. I believe there is more work to be done in the NHS on improving productivity. I also believe that throwing money at a problem as a sticking plaster is not a long-term solution. Decisions should be informed by evidence on outcomes, value for money and long-term sustainability, not simply the upfront costs. Health economics is an important part of that evidence base, helping decision makers understand what delivers the best outcomes from available resources. For example, health economics is being used in our work as a Government to bring care closer to home, often referred to as Community by Design, including community resource teams, virtual wards, integrated community hubs for health and social care.",
+          "text_original": "Diolch yn fawr. The Member, from her professional background, speaks clearly from experience. I believe there is more work to be done in the NHS on improving productivity. I also believe that throwing money at a problem as a sticking plaster is not a long-term solution. Decisions should be informed by evidence on outcomes, value for money and long-term sustainability, not simply the upfront costs. Health economics is an important part of that evidence base, helping decision makers understand what delivers the best outcomes from available resources. For example, health economics is being used in our work as a Government to bring care closer to home, often referred to as Community by Design, including community resource teams, virtual wards, integrated community hubs for health and social care.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=4715"
+        },
+        {
+          "id": "contribution-775973",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "en",
+          "t_start": 4838,
+          "text_english": "Diolch yn fawr. Thank you to the Member for their question. I also pay tribute to the work that she did in a previous life with TUC Cymru, doing very important work on behalf of trade unions in Wales. The focus of the question on recruitment and retention is an important one in the health service. There is work on a workforce strategy being undertaken currently, both by Welsh Government and our colleagues in Health Education and Improvement Wales. Getting these data right and planning for the long term is crucial, because we need the right staffing in the right places, with the right mix of skills, in order to deliver long-term, sustainable success for our health service.",
+          "text_original": "Diolch yn fawr. Thank you to the Member for their question. I also pay tribute to the work that she did in a previous life with TUC Cymru, doing very important work on behalf of trade unions in Wales. The focus of the question on recruitment and retention is an important one in the health service. There is work on a workforce strategy being undertaken currently, both by Welsh Government and our colleagues in Health Education and Improvement Wales. Getting these data right and planning for the long term is crucial, because we need the right staffing in the right places, with the right mix of skills, in order to deliver long-term, sustainable success for our health service.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=4838"
+        },
+        {
+          "id": "contribution-775994",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "en",
+          "t_start": 4966,
+          "text_english": "I thank the Member for the question and for highlighting some of those very local issues. Clearly, I'm not abreast of the precise nature of the issues in Gwaun Cae Gurwen, but if the Member would like to write to myself or my Cabinet colleague the Cabinet Minister for health, I'm sure we can look specifically at that.\n\nI think there is a broader question here about how Government listens, takes concerns on board and what those avenues are for citizens right across the country to make progress when those concerns are not being listened to. We've heard various examples over the last hour or so from colleagues across this Chamber. It is something that we need to be clear about, and there is almost certainly a case for ensuring that that is as effective as possible, and it's one of those areas I'd be happy to look at.",
+          "text_original": "I thank the Member for the question and for highlighting some of those very local issues. Clearly, I'm not abreast of the precise nature of the issues in Gwaun Cae Gurwen, but if the Member would like to write to myself or my Cabinet colleague the Cabinet Minister for health, I'm sure we can look specifically at that.\n\nI think there is a broader question here about how Government listens, takes concerns on board and what those avenues are for citizens right across the country to make progress when those concerns are not being listened to. We've heard various examples over the last hour or so from colleagues across this Chamber. It is something that we need to be clear about, and there is almost certainly a case for ensuring that that is as effective as possible, and it's one of those areas I'd be happy to look at.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=4966"
+        },
+        {
+          "id": "contribution-776003",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "en",
+          "t_start": 5040,
+          "text_english": "I have regular discussions with the Cabinet Minister for Finance on public procurement and its contribution to the Welsh economy. These discussions have included strengthening Welsh supply chains, improving access to opportunities for Welsh businesses, particularly small and medium-sized enterprises and social enterprises, and increasing expenditure with Wales-based suppliers towards our 70 per cent ambition.",
+          "text_original": "I have regular discussions with the Cabinet Minister for Finance on public procurement and its contribution to the Welsh economy. These discussions have included strengthening Welsh supply chains, improving access to opportunities for Welsh businesses, particularly small and medium-sized enterprises and social enterprises, and increasing expenditure with Wales-based suppliers towards our 70 per cent ambition.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=5040"
+        },
+        {
+          "id": "contribution-776011",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "en",
+          "t_start": 5095,
+          "text_english": "I thank the Member for the question. The point is very well made. We need to support our small and medium-sized enterprises, and in my view, we can do more as a Government to support those small and medium-sized enterprises. We track supplier and contract award data through our procurement systems and business intelligence reporting and supplier information, including SME status where available, is drawn from core procurement platforms and analysed through departmental dashboards. And what this enables us to do is monitor the participation and success of SMEs in winning contracts, assess trends over time and identify opportunities to increase access to public sector procurement for local businesses.",
+          "text_original": "I thank the Member for the question. The point is very well made. We need to support our small and medium-sized enterprises, and in my view, we can do more as a Government to support those small and medium-sized enterprises. We track supplier and contract award data through our procurement systems and business intelligence reporting and supplier information, including SME status where available, is drawn from core procurement platforms and analysed through departmental dashboards. And what this enables us to do is monitor the participation and success of SMEs in winning contracts, assess trends over time and identify opportunities to increase access to public sector procurement for local businesses.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=5095"
+        },
+        {
+          "id": "contribution-776162",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "en",
+          "t_start": 5150,
+          "text_english": "Thank you very much.",
+          "text_original": "Thank you very much.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=5150"
+        },
+        {
+          "id": "contribution-775981",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "en",
+          "t_start": 5164,
+          "text_english": "Presiding Officer, I understand that you have given your permission for questions 5 and 9 to be grouped.\n\nIn my role, I am focused on strengthening delivery across Government. Through our programme for government, we have set clear priorities. I am working to keep our efforts focused on those priorities, support joined-up working and maintain a clear focus on outcomes.",
+          "text_original": "Presiding Officer, I understand that you have given your permission for questions 5 and 9 to be grouped.\n\nIn my role, I am focused on strengthening delivery across Government. Through our programme for government, we have set clear priorities. I am working to keep our efforts focused on those priorities, support joined-up working and maintain a clear focus on outcomes.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=5164"
+        },
+        {
+          "id": "contribution-775996",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "en",
+          "t_start": 5219,
+          "text_english": "I think Members should be very careful in this Chamber of accusing colleagues of misleading the Chamber or—",
+          "text_original": "I think Members should be very careful in this Chamber of accusing colleagues of misleading the Chamber or—",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=5219"
+        },
+        {
+          "id": "contribution-776004",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "en",
+          "t_start": 5168,
+          "text_english": "—misleading people. Our manifesto in the election, upon which we stood, upon which we fought the election and won the election, was based on prioritising bringing waiting lists down, on tackling waiting lists, prioritising the health service and developing productivity within the NHS. That is our priority and I will remain focused on that priority.",
+          "text_original": "—misleading people. Our manifesto in the election, upon which we stood, upon which we fought the election and won the election, was based on prioritising bringing waiting lists down, on tackling waiting lists, prioritising the health service and developing productivity within the NHS. That is our priority and I will remain focused on that priority.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=5168"
+        },
+        {
+          "id": "contribution-776018",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "en",
+          "t_start": 5304,
+          "text_english": "Thank you to the Member, and I'm very well aware of those thriving and important cross-border relationships in the north-east to the north-west of England, and also in the south-east to the south-west of England, and we support those important relationships.\n\nI think the broader question relating to Government priorities is very clear in my mind. Our priorities are childcare, child poverty, the health service, schools and the economy. And on each of those, we intend to make progress. As the Cabinet Minister for the constitution, specifically charged with looking at constitutional issues, there are a range of areas—railways, the Crown Estate, policing—where I believe we can make progress, working with the UK Government, to deliver better services for people in Wales. And that remains the core focus of my work as a Government Minister and a core focus of our work as a Welsh Government—delivering better public services, whether it's in schools, health or education.",
+          "text_original": "Thank you to the Member, and I'm very well aware of those thriving and important cross-border relationships in the north-east to the north-west of England, and also in the south-east to the south-west of England, and we support those important relationships.\n\nI think the broader question relating to Government priorities is very clear in my mind. Our priorities are childcare, child poverty, the health service, schools and the economy. And on each of those, we intend to make progress. As the Cabinet Minister for the constitution, specifically charged with looking at constitutional issues, there are a range of areas—railways, the Crown Estate, policing—where I believe we can make progress, working with the UK Government, to deliver better services for people in Wales. And that remains the core focus of my work as a Government Minister and a core focus of our work as a Welsh Government—delivering better public services, whether it's in schools, health or education.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=5304"
+        },
+        {
+          "id": "contribution-775985",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "cy",
+          "t_start": 5424,
+          "text_english": "Well, I thank the Member very much for the question, and I know that he has served the NHS for many years, and very effectively, in Swansea. There is a common theme to these questions, isn't there, that, with this additional funding that the Government's providing in childcare, in the health service, in the economy, we need outcomes for the people of Wales. And therefore, we need to look in great detail, as my colleague the Cabinet Minister for health has done, at what exactly those plans are. Are they plans that will deliver for the longer term? Do they ensure that there is collaboration between the health service and the care service provided through local authorities in order to ensure that the care package is complete, to ensure that some of the challenges in the system are addressed? Do they look, as our colleague earlier referred to, to the longer term with the workforce? So, all of those issues have to coalesce, and we always have to ask the question as to whether this money is going to deliver real change in the long term, not just in the short term. Thank you.",
+          "text_original": "Wel, diolch yn fawr i'r Aelod am y cwestiwn, a dwi'n gwybod bod yntau wedi gwasanaethu'r NHS am flynyddoedd lawer, ac yn effeithiol iawn, yn Abertawe. Mae yna graidd i'r cwestiynau yma, onid oes, sef, gyda'r buddsoddiad ychwanegol mae'r Llywodraeth yma yn ei roi yng ngofal plant, yn y gwasanaeth iechyd, yn yr economi, mae angen canlyniadau i bobl. Ac felly, mae angen edrych yn fanwl iawn, fel mae'n cyfaill y Gweinidog Cabinet dros iechyd wedi'i wneud, ar beth yn union yw'r cynlluniau. Ydyn nhw'n gynlluniau sy'n mynd i ddelifro i'r tymor hir? Ydyn nhw'n sicrhau bod yna gydweithio rhwng y gwasanaeth iechyd a'r gwasanaeth gofal trwy awdurdodau lleol i sicrhau bod y pecyn gofal yn gyflawn, i sicrhau bod rhai o'r heriau sydd yn y system yn cael eu hannerch? Ydyn nhw'n edrych, fel y gwnaeth fy nghydweithwraig gynnau fach gyfeirio atyn nhw, i'r hirdymor gyda'r gweithlu? Mae'r holl faterion yna'n gorfod dod at ei gilydd, a gofyn y cwestiwn bob tro: ydy'r arian yma yn mynd i wneud newid go iawn yn yr hirdymor, nid jest am y tymor byr? Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=5424"
+        },
+        {
+          "id": "contribution-776030",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "cy",
+          "t_start": 5537,
+          "text_english": "Our assessment is that Wales should have the powers that it needs to deliver for the people of Wales, improve services and strengthen accountability. We are pressing for a fairer settlement for Wales. A new Wales Bill would provide the clearest way and the most effective way of implementing agreed changes.",
+          "text_original": "Ein hasesiad ni yw y dylai Cymru gael y pwerau sydd eu hangen i gyflawni dros bobl Cymru, gwella gwasanaethau a chryfhau atebolrwydd. Rŷn ni yn pwyso am setliad tecach i Gymru. Byddai Bil Cymru newydd yn darparu'r ffordd gliriaf a mwyaf effeithiol o wneud y newidiadau y cytunir arnynt.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=5537"
+        },
+        {
+          "id": "contribution-776053",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "cy",
+          "t_start": 5653,
+          "text_english": "Thank you. I believe the Member is asking me to commit to press the UK Government to secure progress. I make that clear commitment this afternoon, and I do so happily. I think it's worth reporting to the Senedd that my initial meetings with UK Cabinet Ministers have been constructive and collaborative. Of course, as the discussions develop, we will get into the minutiae. But I am eager to emphasise that the response that I've received to date has been positive, and I therefore hope that that will be the basis for further progress.",
+          "text_original": "Diolch yn fawr. Dwi'n credu bod yr Aelod yn gofyn i fi ymrwymo i bwyso ar Lywodraeth Prydain i sicrhau cynnydd. Dwi'n gwneud yr ymrwymiad hwnnw yn glir ac yn hapus. Dwi'n credu ei bod hi'n werth adrodd wrth y Senedd fod fy nghyfarfodydd cychwynnol i gyda Gweinidogion Cabinet o Lywodraeth Prydain wedi bod yn adeiladol ac yn gydweithredol. Wrth gwrs, wrth i'r trafodaethau fynd yn eu blaen, fe ddown ni i mewn i'r manylion. Ond dwi yn awyddus i bwysleisio bod yr ymateb sydd wedi dod hyd yn hyn wedi bod yn gadarnhaol, ac felly dwi'n gobeithio y bydd hynny yn sail i gynnydd pellach.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=5653"
+        },
+        {
+          "id": "contribution-776017",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "en",
+          "t_start": 5705,
+          "text_english": "The Welsh Government will work closely with partners at a local and regional level to ensure that decision making and service delivery take place in ways that support effective delivery of public services.",
+          "text_original": "The Welsh Government will work closely with partners at a local and regional level to ensure that decision making and service delivery take place in ways that support effective delivery of public services.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=5705"
+        },
+        {
+          "id": "contribution-776032",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "en",
+          "t_start": 5768,
+          "text_english": "Well, I'm delighted to see that the Welsh Conservatives are now in favour of the single transferrable vote. I should encourage everyone—[Interruption.] I should encourage everyone in this—[Interruption.] Well, that is the best way—[Interruption.] That is the best way—[Interruption.] That is the best way to ensure effective accountability, and I hope in due course that every Member of the Senedd will support such a development of the Welsh electoral system.",
+          "text_original": "Well, I'm delighted to see that the Welsh Conservatives are now in favour of the single transferrable vote. I should encourage everyone—[Interruption.] I should encourage everyone in this—[Interruption.] Well, that is the best way—[Interruption.] That is the best way—[Interruption.] That is the best way to ensure effective accountability, and I hope in due course that every Member of the Senedd will support such a development of the Welsh electoral system.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=5768"
+        },
+        {
+          "id": "contribution-776036",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "cy",
+          "t_start": 5813,
+          "text_english": "The greatest challenges facing Wales demand a whole-Government response. That is why our programme for government sets out a new ambition for Wales, based on shared priorities rather than departmental silos. I work closely with colleagues right across the Cabinet to ensure that the Government collaborates across portfolios to ensure meaningful outcomes for people across Wales.",
+          "text_original": "Mae'r heriau mwyaf sy'n wynebu Cymru yn galw am ymateb ar draws y Llywodraeth gyfan. Dyna pam mae ein rhaglen lywodraethu yn nodi uchelgais newydd i Gymru, wedi'i seilio ar flaenoriaethau a rennir yn hytrach nag ar seilos adrannol. Dwi'n gweithio'n agos iawn gyda chydweithwyr reit ar draws y Cabinet i sicrhau bod y Llywodraeth yn cydweithio ar draws portffolios er mwyn sicrhau canlyniadau ystyrlon i bobl ledled Cymru.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=5813"
+        },
+        {
+          "id": "contribution-776054",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "cy",
+          "t_start": 5884,
+          "text_english": "I thank the Member for the question, and I pay tribute to the work that she has carried out, and others in the Chamber, on a cross-party basis, to develop our understanding of the impact that trauma does have on children and, indeed, on adults who have experienced trauma as children. Through the trauma-informed Wales framework and the support of ACE Hub Wales and close collaboration across ministerial portfolios, we're implementing approaches informed by adverse childhood experiences and trauma across the development of policies and the provision of services.\n\nPreventing ACEs and responding effectively to trauma is a responsibility that's shared across the Government and public services. Our approach has been planned to ensure that the work is co-ordinated, rather than left to individual organisations and departments to implement themselves. That's our ambition, Llywydd. My hope as part of my role is to ensure that that does happen. That ambition, which was shared by Governments of the past, hasn't always been implemented at grass-roots level, and that's what I would wish to focus on.",
+          "text_original": "Diolch yn fawr iawn i'r Aelod am y cwestiwn, a dwi'n talu teyrnged i'r gwaith mae hi wedi'i wneud, ac eraill yn y Siambr hon, ar sail drawsbleidiol, i ddatblygu ein dealltwriaeth ni o'r effaith mae trawma yn ei gael ar blant ac, yn wir, ar y sawl sy'n oedolion sydd wedi profi trawma yn blant. Trwy fframwaith Cymru sy'n ystyriol o drawma, cefnogaeth Hyb ACE Cymru a chydweithio agos ar draws portffolios gweinidogol, rŷm ni'n ymgorffori dulliau sy'n ystyriol o adverse childhood experiences a thrawma ar draws datblygu polisïau a darparu gwasanaethau.\n\nMae atal profiadau niweidiol yn ystod plentyndod ac ymateb yn effeithiol i drawma yn gyfrifoldeb a rennir ar draws y Llywodraeth a gwasanaethau cyhoeddus. Mae'n ddull gweithredu wedi ei gynllunio i sicrhau bod y gwaith yn cael ei gydlynu, yn hytrach na'i adael i adrannau a sefydliadau unigol i weithredu ar eu pennau eu hunain. Dyna'n huchelgais, Lywydd. Fy ngobaith i fel rhan o fy rôl i yw sicrhau bod hynny'n digwydd. Mae'r uchelgais honno, sydd wedi'i rhannu gan Lywodraethau yn y gorffennol, heb o reidrwydd bob tro wedi cael ei gweithredu ar lawr gwlad, a dyna fyddwn i'n dymuno canolbwyntio arno.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=5884"
+        },
+        {
+          "id": "contribution-776086",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "en",
+          "t_start": 5988,
+          "text_english": "This Government’s position is clear: policing should be fully devolved to Wales. The Dirprwy Brif Weinidog and I have met with the policing Minister to discuss devolution and other policing priorities. I've also had an introductory meeting with the Secretary of State for Wales.",
+          "text_original": "This Government’s position is clear: policing should be fully devolved to Wales. The Dirprwy Brif Weinidog and I have met with the policing Minister to discuss devolution and other policing priorities. I've also had an introductory meeting with the Secretary of State for Wales.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=5988"
+        },
+        {
+          "id": "contribution-776014",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "en",
+          "t_start": 6066,
+          "text_english": "I thank the Member for the question. I'm not entirely sure that he is convinced of a record of failings after five months. I should probably remind him that another party was in Government for 27 years, and if he wants to address—[Interruption.] If he wants to address questions to Members of that party, I'm sure he can do so afterwards in the tea room.\n\nOur focus as a Government is on delivery, on schools, on childcare, on child poverty, on the NHS and on the economy. We have identified that there is a programme of policing reform taking place now for the England and Wales jurisdiction, led by the Home Office. There is an opportunity there to make the case for greater devolution for Wales, for greater responsibility for the Welsh Government, which will make communities in Wales safer, and that is what we will pursue.",
+          "text_original": "I thank the Member for the question. I'm not entirely sure that he is convinced of a record of failings after five months. I should probably remind him that another party was in Government for 27 years, and if he wants to address—[Interruption.] If he wants to address questions to Members of that party, I'm sure he can do so afterwards in the tea room.\n\nOur focus as a Government is on delivery, on schools, on childcare, on child poverty, on the NHS and on the economy. We have identified that there is a programme of policing reform taking place now for the England and Wales jurisdiction, led by the Home Office. There is an opportunity there to make the case for greater devolution for Wales, for greater responsibility for the Welsh Government, which will make communities in Wales safer, and that is what we will pursue.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=6066"
+        },
+        {
+          "id": "contribution-776024",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "cy",
+          "t_start": 6139,
+          "text_english": "The programme for government and our well-being objectives are a single framework for action, linking the priorities people have entrusted us to deliver and the long-term outcomes of the Act that we want to achieve. I've also agreed to a review of the Act, focusing on enhancing the Act’s implementation in practice.",
+          "text_original": "Mae’r rhaglen lywodraethu a'n hamcanion llesiant yn un fframwaith gweithredu sy’n cysylltu'r blaenoriaethau mae pobl wedi ymddiried ynom i’w cyflawni a’r canlyniadau hirdymor yn y Ddeddf rydym am eu cyflawni. Dwi hefyd wedi cytuno i adolygiad o'r Ddeddf, gan ganolbwyntio ar wella’r ffordd mae’r Ddeddf yn cael ei gweithredu.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=6139"
+        },
+        {
+          "id": "contribution-776039",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "cy",
+          "t_start": 6206,
+          "text_english": "I thank the Member for that question. There is a clear commitment from this Government to promote culture and sport. There is a new culture and sport strategy, which is being led by the Cabinet Minister for Culture and Sport and Trefnydd. There is a clear focus from this Government on promoting sport and culture, whilst also recognising, as you have set out, the important role that culture and sport can have across a range of public policies, including the preventative health agenda, which is hugely important to this Government. Thank you.",
+          "text_original": "Diolch yn fawr i'r Aelod am y cwestiwn. Mae yna ymrwymiad clir gan y Llywodraeth yma i hybu diwylliant a chwaraeon. Mae yna strategaeth diwylliant a chwaraeon newydd dan ofal y Gweinidog Cabinet dros Ddiwylliant a Chwaraeon a'r Trefnydd. Mae yna ffocws clir gan y Llywodraeth hon ar hybu a hyrwyddo chwaraeon a diwylliant, ond hefyd cydnabod, fel rŷch chi wedi nodi, y rôl bwysig mae diwylliant a chwaraeon yn gallu ei chael ar draws ystod polisi cyhoeddus, gan gynnwys yr agenda iechyd ataliol, sy'n bwysig iawn i'r Llywodraeth hon. Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=6206"
+        }
+      ],
+      "date": "2026-10-06",
+      "record_page_url": "https://record.senedd.wales/Plenary/16313"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771664",
+          "item_id": "item-16263-260923-7",
+          "item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+          "lang": "cy",
+          "t_start": 12121,
+          "text_english": "Formally, Llywydd.",
+          "text_original": "Yn ffurfiol, Lywydd.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=12121"
+        },
+        {
+          "id": "contribution-771703",
+          "item_id": "item-16263-260923-7",
+          "item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+          "lang": "cy",
+          "t_start": 14685,
+          "text_english": "Thank you very much, Llywydd. May I remind everyone in this Chamber that this is a debate that has been called by Reform UK? The First Minister yesterday was talking about health, about childcare, about the economy. Reform UK has chosen to focus on constitutional issues.\n\nBut the Government's amendment is a simple one—and I'm pleased to hear that there is support for it from more than one party on the floor of this Chamber—which is that the people of Wales should determine the constitutional future of our country. As we have heard today, Members of this Senedd have different views about where Wales should be constitutionally, and those differences are completely valid in a democratic legislature. But I do hope that we can all agree on two things: that Wales's future should be determined democratically by the people of Wales, and secondly, that Wales should have the powers, the resources and the tools that it needs to deliver on behalf of people here and now. It is these principles that are the basis of the Government's amendment today. Our amendment doesn't ask Members to give up their views; it asks us to acknowledge a principle that hopefully will gain support from across the Chamber, and it is not a party political viewpoint.",
+          "text_original": "Diolch yn fawr iawn, Lywydd. A gaf i atgoffa pawb yn y Siambr hon bod hon yn ddadl sydd wedi'i alw gan Reform UK? Roedd Prif Weinidog Cymru ddoe yn siarad am iechyd, am ofal plant, am yr economi. Reform UK sy'n dewis canolbwyntio ar faterion cyfansoddiadol.\n\nOnd mae gwelliant y Llywodraeth yn un syml—a dwi'n falch i glywed bod yna gefnogaeth iddo fe mewn mwy nag un plaid ar lawr y Siambr yma—sef y dylai pobl Cymru benderfynu ar ddyfodol cyfansoddiadol ein gwlad. Fel rŷn ni wedi'i glywed heddiw, mae gan Aelodau o'r Senedd hon farn wahanol am ble y dylai Cymru fod yn y pen draw yn gyfansoddiadol. Mae'r gwahaniaethau hynny yn gwbl ddilys mewn deddfwrfa ddemocrataidd. Ond dwi'n gobeithio y gallwn ni i gyd gytuno ar ddau beth: y dylai dyfodol Cymru gael ei benderfynu'n ddemocrataidd gan bobl Cymru, ac yn ail, y dylai Cymru gael y pwerau, yr adnoddau a'r offer sydd eu hangen i gyflawni dros bobl yma ac yn awr. Yr egwyddorion hyn sy'n sail i welliant y Llywodraeth heddiw. Dyw ein gwelliant ni ddim yn gofyn i Aelodau roi'r gorau i'w barn; mae'n gofyn i ni gydnabod egwyddor y gobeithiaf y gall ennyn cefnogaeth ar draws y Siambr, a dyw e ddim yn safbwynt pleidiol.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=14685"
+        },
+        {
+          "id": "contribution-771704",
+          "item_id": "item-16263-260923-7",
+          "item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+          "lang": "en",
+          "t_start": 14780,
+          "text_english": "The principle is one that has been widely recognised.\n\n'National aspirations must be respected; peoples may...be...governed only by their own consent.'\n\nThat was Woodrow Wilson to Congress in 1918. The self-determination of peoples is in the first article of the UN charter. Talking of our Scottish friends,\n\n'as a nation, they have an undoubted right to national self-determination'.\n\nI didn't expect myself to be quoting Baroness Thatcher approvingly in this Chamber, but she was right, of course—on that matter. [Interruption.] Wait for it. But we must put the people at the heart of constitutional change, because the UK is a 'voluntary nation of nations'—Gordon Brown, the former Prime Minister, in the commission on the UK's future. And yesterday, the Scottish Parliament agreed that\n\n'the Parliament agrees that Scotland...has a right to decide its own future.'",
+          "text_original": "The principle is one that has been widely recognised.\n\n'National aspirations must be respected; peoples may...be...governed only by their own consent.'\n\nThat was Woodrow Wilson to Congress in 1918. The self-determination of peoples is in the first article of the UN charter. Talking of our Scottish friends,\n\n'as a nation, they have an undoubted right to national self-determination'.\n\nI didn't expect myself to be quoting Baroness Thatcher approvingly in this Chamber, but she was right, of course—on that matter. [Interruption.] Wait for it. But we must put the people at the heart of constitutional change, because the UK is a 'voluntary nation of nations'—Gordon Brown, the former Prime Minister, in the commission on the UK's future. And yesterday, the Scottish Parliament agreed that\n\n'the Parliament agrees that Scotland...has a right to decide its own future.'",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=14780"
+        },
+        {
+          "id": "contribution-771716",
+          "item_id": "item-16263-260923-7",
+          "item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+          "lang": "cy",
+          "t_start": 14855,
+          "text_english": "If there is one lesson to learn from the last quarter of a century of devolution, it is this: the constitutional settlement is not static. Someone somewhere said that devolution is a process, not an event. The question is not will constitutional change happen; the question is how can we ensure that Wales is ready for that change, can influence it and benefit from it. For this Government, that means practical changes that help us to ensure better results and outcomes for people on the ground and for communities. This is not a theoretical matter, that's not what constitutional change is; it is ensuring that we have the powers, the resources and the tools to deliver for the people of Wales.",
+          "text_original": "Os oes un wers o'r chwarter canrif diwethaf o ddatganoli, dyma hi: dyw'r setliad cyfansoddiadol ddim yn sefyll yn ei hunfan. Mi ddywedodd rhywun rhywle fod datganoli yn broses, ddim yn ddigwyddiad. Nid y cwestiwn yw a fydd newid cyfansoddiadol yn digwydd; y cwestiwn yw sut y gallwn sicrhau bod Cymru yn barod ar gyfer y newid hwnnw, yn gallu dylanwadu arno ac yn elwa ohono. I'r Llywodraeth hon, mae hynny'n golygu diwygiadau ymarferol sy'n ein helpu ni i sicrhau canlyniadau gwell i bobl ar lawr gwlad ac i gymunedau. Nid mater damcaniaethol yn unig yw diwygio cyfansoddiadol; mae'n sicrhau bod gennym y pwerau, yr adnoddau a'r offer i gyflawni dros bobl Cymru.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=14855"
+        },
+        {
+          "id": "contribution-771719",
+          "item_id": "item-16263-260923-7",
+          "item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+          "lang": "en",
+          "t_start": 14907,
+          "text_english": "That's why our priorities in terms of devolution are clear. We made the case for progress on devolving rail infrastructure, on justice and policing, and on the Crown Estate. These are areas where there is substantial evidence, significant public interest and support that reaches well beyond a single political party. They will lead to a better train service, to lower energy bills, to safer communities—real changes to people's lives here in Wales. I've been heartened by the positive approach from the UK Government in response to those calls, and I hope we can conclude those discussions constructively.\n\nOur objective isn't to move powers between institutions, but to ensure responsibilities sit at the level where they can be exercised most effectively and deliver the best outcomes for people and communities. And let me be clear to my colleagues here: it does indeed mean decentralisation within Wales as part of that package. We are decentralists in Plaid Cymru and we believe in those principles as a key area for us.\n\nTurning to some of the points made in the debate, I do reflect there is a certain irony, particularly from colleagues opposite, in their support for the free movement of goods, capital, services and people, and of a large union that would bring all of those freedoms together. I would remind people that that was voted upon some years ago, and it remains our position that Wales would be better off in such a large European union.\n\nThere have also been points about the proud history of Wales, the proud history of Wales in the industrial revolution. And yet we have also heard from the benches opposite that that great nation that powered the industrial revolution—and we've heard of its great success—has fiscal challenges today. That is the legacy of the British state. We've heard about Slovenia, which saw a growth of 33 per cent in its gross domestic product in 10 years. We've heard about other countries who've seen growth far in excess of the Welsh context—successful independent countries—in this debate here.\n\nBut let's return to the fundamental point of our amendment and of this debate, in the view of the Government. Members here will disagree as to where Wales should ultimately be heading, but I do sincerely hope that we can agree on some basic fundamentals: that Wales's future should be determined democratically, and that change should be informed by evidence, not assertion. The public debate is stronger when it includes a wide range of voices and perspectives, and it is our shared responsibility to ensure that Wales has the confidence, the capacity and the tools to shape its own future. The people of Wales, Llywydd, are sovereign. It is for us to determine our future, wherever that may lead us. Diolch yn fawr.",
+          "text_original": "That's why our priorities in terms of devolution are clear. We made the case for progress on devolving rail infrastructure, on justice and policing, and on the Crown Estate. These are areas where there is substantial evidence, significant public interest and support that reaches well beyond a single political party. They will lead to a better train service, to lower energy bills, to safer communities—real changes to people's lives here in Wales. I've been heartened by the positive approach from the UK Government in response to those calls, and I hope we can conclude those discussions constructively.\n\nOur objective isn't to move powers between institutions, but to ensure responsibilities sit at the level where they can be exercised most effectively and deliver the best outcomes for people and communities. And let me be clear to my colleagues here: it does indeed mean decentralisation within Wales as part of that package. We are decentralists in Plaid Cymru and we believe in those principles as a key area for us.\n\nTurning to some of the points made in the debate, I do reflect there is a certain irony, particularly from colleagues opposite, in their support for the free movement of goods, capital, services and people, and of a large union that would bring all of those freedoms together. I would remind people that that was voted upon some years ago, and it remains our position that Wales would be better off in such a large European union.\n\nThere have also been points about the proud history of Wales, the proud history of Wales in the industrial revolution. And yet we have also heard from the benches opposite that that great nation that powered the industrial revolution—and we've heard of its great success—has fiscal challenges today. That is the legacy of the British state. We've heard about Slovenia, which saw a growth of 33 per cent in its gross domestic product in 10 years. We've heard about other countries who've seen growth far in excess of the Welsh context—successful independent countries—in this debate here.\n\nBut let's return to the fundamental point of our amendment and of this debate, in the view of the Government. Members here will disagree as to where Wales should ultimately be heading, but I do sincerely hope that we can agree on some basic fundamentals: that Wales's future should be determined democratically, and that change should be informed by evidence, not assertion. The public debate is stronger when it includes a wide range of voices and perspectives, and it is our shared responsibility to ensure that Wales has the confidence, the capacity and the tools to shape its own future. The people of Wales, Llywydd, are sovereign. It is for us to determine our future, wherever that may lead us. Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=14907"
+        }
+      ],
+      "date": "2026-09-23",
+      "record_page_url": "https://record.senedd.wales/Plenary/16263"
+    },
     {
       "contributions": [
         {

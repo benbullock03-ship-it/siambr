@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "abstain"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,90 @@
   "canonical_name": "Joe Martin",
   "constituency_name_cy": "Caerdydd Penarth",
   "constituency_name_en": "Caerdydd Penarth",
-  "contribution_count": 12,
+  "contribution_count": 19,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-776929",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "en",
+          "t_start": 15443,
+          "text_english": "Thank you. Foreign nationals living in Welsh and British social housing should be given a grace period of three months to find private housing, after which, they should be deported. It isn't the responsibility of the Welsh or British taxpayer to fund the living arrangements of people from overseas. People moving to the UK should be able to afford to buy or rent a house at normal market rates before they move here. If they can't afford to live here without help from the taxpayer, then they shouldn't come to the UK.\n\nNow, Kiera Marshall is right, there is a shortage of social housing in this country, but Reform would build tens of thousands more. But those homes should go to British—[Interruption.] No, thank you. Those homes should go to British people. There is no point in building thousands of new homes when net immigration is bringing in hundreds of thousands of people every year to fill them.\n\nThe British state and the Welsh state do not exist to provide social housing to the rest of the world, they exist to serve the interests of the British and Welsh people, and putting the people of Britain and Wales first necessarily means putting the rest of the world second. It isn't racist or xenophobic or unkind to regard your countrymen as your priority. Those closest to you get preferential treatment. And as a Welsh politician representing Wales, that is right, that is just and that is normal. [Interruption.] No, thank you. [Interruption.] [Laughter.]\n\nI'm sure that was a very funny joke. Thank you. If you ask me to choose between my countrymen, the people of Wales, who are my first and only priority, and strangers, every time, I will proudly choose my countrymen. The people of Wales deserve to be a priority in their own country. They are a unique and special people with a shared history that goes back thousands of years. If, like some of my colleagues, you want to move here and join us, you are more than welcome, but you cannot require the taxpayer to fund your lifestyle.\n\nI cannot even fathom—. I cannot even fathom the entitlement required to look at a country with failing—[Interruption.] No. I cannot even fathom the entitlement required to look at a country with failing public services, patients dying in hospital corridors, and think yourself entitled to subsidised housing when you aren't even from there. If I moved to China or Eritrea or Bangladesh and told them to house me, they would flatly tell me 'no'. They are right to do so, and we should do the same. I do not accept for a moment that it's the moral responsibility of the poorest nation in the UK to give up its social housing for people that aren't even from the UK.\n\nOnce foreign nationals have been banned from social housing, and those who cannot or will not find private accommodation are deported, the allocation system should be overhauled. It should prioritise British workers under the age of 35, young married couples, veterans, victims of domestic violence and care leavers. Being in work should also be a requirement to access any newly built social housing. These measures would go some way to reflect the fact that we live in a world of finite resources and that our own come first. So, I'll be voting in favour of the motion.",
+          "text_original": "Thank you. Foreign nationals living in Welsh and British social housing should be given a grace period of three months to find private housing, after which, they should be deported. It isn't the responsibility of the Welsh or British taxpayer to fund the living arrangements of people from overseas. People moving to the UK should be able to afford to buy or rent a house at normal market rates before they move here. If they can't afford to live here without help from the taxpayer, then they shouldn't come to the UK.\n\nNow, Kiera Marshall is right, there is a shortage of social housing in this country, but Reform would build tens of thousands more. But those homes should go to British—[Interruption.] No, thank you. Those homes should go to British people. There is no point in building thousands of new homes when net immigration is bringing in hundreds of thousands of people every year to fill them.\n\nThe British state and the Welsh state do not exist to provide social housing to the rest of the world, they exist to serve the interests of the British and Welsh people, and putting the people of Britain and Wales first necessarily means putting the rest of the world second. It isn't racist or xenophobic or unkind to regard your countrymen as your priority. Those closest to you get preferential treatment. And as a Welsh politician representing Wales, that is right, that is just and that is normal. [Interruption.] No, thank you. [Interruption.] [Laughter.]\n\nI'm sure that was a very funny joke. Thank you. If you ask me to choose between my countrymen, the people of Wales, who are my first and only priority, and strangers, every time, I will proudly choose my countrymen. The people of Wales deserve to be a priority in their own country. They are a unique and special people with a shared history that goes back thousands of years. If, like some of my colleagues, you want to move here and join us, you are more than welcome, but you cannot require the taxpayer to fund your lifestyle.\n\nI cannot even fathom—. I cannot even fathom the entitlement required to look at a country with failing—[Interruption.] No. I cannot even fathom the entitlement required to look at a country with failing public services, patients dying in hospital corridors, and think yourself entitled to subsidised housing when you aren't even from there. If I moved to China or Eritrea or Bangladesh and told them to house me, they would flatly tell me 'no'. They are right to do so, and we should do the same. I do not accept for a moment that it's the moral responsibility of the poorest nation in the UK to give up its social housing for people that aren't even from the UK.\n\nOnce foreign nationals have been banned from social housing, and those who cannot or will not find private accommodation are deported, the allocation system should be overhauled. It should prioritise British workers under the age of 35, young married couples, veterans, victims of domestic violence and care leavers. Being in work should also be a requirement to access any newly built social housing. These measures would go some way to reflect the fact that we live in a world of finite resources and that our own come first. So, I'll be voting in favour of the motion.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=15443"
+        }
+      ],
+      "date": "2026-10-07",
+      "record_page_url": "https://record.senedd.wales/Plenary/16314"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771343",
+          "item_id": "item-16263-260923-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "2. How will the Welsh Government's energy policy support its efforts to achieve its net-zero targets? OQ64525",
+          "text_original": "2. Sut y bydd polisi ynni Llywodraeth Cymru yn cefnogi ei hymdrechion i gyflawni ei thargedau sero net? OQ64525",
+          "tv_url": "http://www.senedd.tv/en/16263"
+        },
+        {
+          "id": "contribution-771346",
+          "item_id": "item-16263-260923-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "en",
+          "t_start": 403,
+          "text_english": "Thank you, Minister. Minister, releasing carbon dioxide into the atmosphere causes temperatures on earth to rise, and that isn't good for any of us. And we need to achieve whatever reduction in emissions is necessary to secure the long-term future of mankind. That's why, in its current formulation, net zero is so frustrating. Deindustrialisation and a reliance on China and India are not long-term solutions. Renewables, again, are not a long-term solution, neither is burying our heads in the sand about the economic and geopolitical problems created by net zero. The only long-term solution to the challenges that we face, both as a nation and as a species, is nuclear power. So, I'm excited about the development of small modular reactors at Wylfa. After that, Minister, what's next for nuclear power in Wales?",
+          "text_original": "Thank you, Minister. Minister, releasing carbon dioxide into the atmosphere causes temperatures on earth to rise, and that isn't good for any of us. And we need to achieve whatever reduction in emissions is necessary to secure the long-term future of mankind. That's why, in its current formulation, net zero is so frustrating. Deindustrialisation and a reliance on China and India are not long-term solutions. Renewables, again, are not a long-term solution, neither is burying our heads in the sand about the economic and geopolitical problems created by net zero. The only long-term solution to the challenges that we face, both as a nation and as a species, is nuclear power. So, I'm excited about the development of small modular reactors at Wylfa. After that, Minister, what's next for nuclear power in Wales?",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=403"
+        },
+        {
+          "id": "contribution-771463",
+          "item_id": "item-16263-260923-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and Welsh Language",
+          "lang": "en",
+          "t_start": 4918,
+          "text_english": "Minister, it's vitally important that Wales's unique culture is not only preserved but nurtured. Access to Welsh-medium education for those who want it will be an important part of that process. More than that, bilingualism is literally good for the brain. It leads to better executive function, better memory, problem solving, and even delays dementia onset by an average of around five years. Of course, Wales isn't the only country that recognises the importance of language in the transmission of culture. There are examples that we can learn from from across the globe. I'd be interested to know if the Welsh Government has learned or is trying to learn anything from Catalonia and the Basque region in successfully promoting bilingualism.",
+          "text_original": "Minister, it's vitally important that Wales's unique culture is not only preserved but nurtured. Access to Welsh-medium education for those who want it will be an important part of that process. More than that, bilingualism is literally good for the brain. It leads to better executive function, better memory, problem solving, and even delays dementia onset by an average of around five years. Of course, Wales isn't the only country that recognises the importance of language in the transmission of culture. There are examples that we can learn from from across the globe. I'd be interested to know if the Welsh Government has learned or is trying to learn anything from Catalonia and the Basque region in successfully promoting bilingualism.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=4918"
+        },
+        {
+          "id": "contribution-771550",
+          "item_id": "item-16263-260923-3",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "2. What are Commission's plans regarding the expansion of Tŷ Hywel? OQ64535",
+          "text_original": "2. Beth yw cynlluniau'r Comisiwn o ran ehangu Tŷ Hywel? OQ64535",
+          "tv_url": "http://www.senedd.tv/en/16263"
+        },
+        {
+          "id": "contribution-771564",
+          "item_id": "item-16263-260923-3",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 6541,
+          "text_english": "Thank you, Commissioner. Rent on Tŷ Hywel currently costs £2.7 million per year. Can you give any indication of what that might rise to once the proposed construction is complete?",
+          "text_original": "Thank you, Commissioner. Rent on Tŷ Hywel currently costs £2.7 million per year. Can you give any indication of what that might rise to once the proposed construction is complete?",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=6541"
+        },
+        {
+          "id": "contribution-771926",
+          "item_id": "item-16263-260923-9",
+          "item_title_en": "9. Short Debate: The unacceptable pause in scheduled treatment for trans patients",
+          "lang": "en",
+          "t_start": 17033,
+          "text_english": "Thank you for giving me some time to speak. I'll respect that, Llywydd, by being as quick as I can and just reading the end of what I wanted to say. The Welsh Gender Service should be closed forever and the doctors in the UK who performed surgeries on children should be imprisoned for what they've done. And if Reform form a government in Westminster in 2029, I'll be making representations to our colleagues there that justice be served to the liars and the butchers responsible for what's happened to what's left of the young people who have had surgery performed.",
+          "text_original": "Thank you for giving me some time to speak. I'll respect that, Llywydd, by being as quick as I can and just reading the end of what I wanted to say. The Welsh Gender Service should be closed forever and the doctors in the UK who performed surgeries on children should be imprisoned for what they've done. And if Reform form a government in Westminster in 2029, I'll be making representations to our colleagues there that justice be served to the liars and the butchers responsible for what's happened to what's left of the young people who have had surgery performed.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=17033"
+        }
+      ],
+      "date": "2026-09-23",
+      "record_page_url": "https://record.senedd.wales/Plenary/16263"
+    },
     {
       "contributions": [
         {

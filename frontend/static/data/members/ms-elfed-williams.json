@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,126 @@
   "canonical_name": "Elfed Williams",
   "constituency_name_cy": "Bangor Conwy Môn",
   "constituency_name_en": "Bangor Conwy Môn",
-  "contribution_count": 12,
+  "contribution_count": 22,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-779005",
+          "item_id": "item-16316-261014-6",
+          "item_title_en": "5. Welsh Labour Debate: Palliative and end-of-life care",
+          "lang": "cy",
+          "t_start": 6637,
+          "text_english": "Hospices provide care and excellent support for children, young people and adults, and I want to share personal experience that demonstrates just how important this service is. Our daughter was born with cerebral palsy following complications during childbirth. She couldn't walk or use her hands, and for years, my wife and I were her main carers. During this challenging period, Tŷ Gobaith was a saviour for our family. It provided crucial respite, but far more than that too. The staff provided support, advice and professional care for us as a family.\n\nOne of the most difficult decisions for any parent is to accept that the life of their child may be short. Unfortunately, our daughter passed away at seven years of age. But the support of Tŷ Gobaith didn't stop at that point. The support continued through our bereavement, and counselling was available for our other daughters too. I will always be grateful for the care and compassion that was shown to our family by the staff at Tŷ Gobaith.\n\nLlywydd, I'm pleased that we're having an opportunity to discuss an issue that is so important to so many families across Wales on the floor of this Chamber this afternoon. I'm also pleased to see that there is cross-party consensus in relation to the pressures facing hospices in Wales and the support required to meet their needs.\n\nIn the motion, the Labour Party is right to set out the significant financial pressures facing hospices in Wales, is right to call for a long-term plan to improve palliative care and end-of-life care, is right to make the case for a fair settlement for the sector in order to maintain a sustainable workforce. But with all due respect, Llywydd, it's important to note that it is Labour that has been in power for a quarter of a century and more. As a father and as a carer who has seen directly the challenges facing hospices, I do support this motion, but I have to admit my disappointment that more wasn't done by Labour during their time in power.\n\nI welcome the motion and I'm pleased and proud that Plaid Cymru is now in charge and that we have a Government that is serious about addressing the complex and deep-seated challenges facing hospices, and I look forward to supporting this motion. Thank you.",
+          "text_original": "Mae hosbisau yn darparu gofal a chefnogaeth arbennig i blant, pobl ifanc ac oedolion, ac rwyf am rannu profiad personol sy'n dangos pa mor bwysig yw'r gwasanaeth hwn. Cafodd ein merch ei geni a pharlys yr ymennydd yn dilyn cymhlethdodau yn ystod ei genedigaeth. Nid oedd yn gallu cerdded na defnyddio ei dwylo, ac am flynyddoedd, fy ngwraig a minnau oedd ei phrif ofalwyr. Yn ystod y cyfnod heriol hwnnw, roedd Tŷ Gobaith yn achubiaeth i'n teulu. Roedd yn cynnig seibiant hanfodol, ond llawer mwy na hynny hefyd. Roedd y staff yn darparu cymorth, cyngor a gofal proffesiynol i ni fel teulu.\n\nUn o'r penderfyniadau anoddaf i unrhyw riant yw derbyn y gallai bywyd eu plentyn fod yn fyr. Yn anffodus, collwyd ein merch pan oedd yn saith oed. Ond ni ddaeth y gefnogaeth gan Tŷ Gobaith i ben bryd hynny. Parhaodd y cymorth trwy ein profedigaeth, ac roedd cwnsela ar gael i'n merched eraill hefyd. Byddaf bob amser yn ddiolchgar am y gofal a'r tosturi a ddangoswyd i'n teulu gan staff Tŷ Gobaith.\n\nLywydd, dwi'n falch ein bod ni'n cael cyfle i drafod y pwnc sydd mor bwysig i gymaint o deuluoedd ar draws Cymru ar lawr y Siambr y prynhawn yma. Dwi hefyd yn falch o weld bod consensws trawsbleidiol i'w gael am y pwysau sy'n wynebu hosbisau yng Nghymru a'r gefnogaeth sydd ei angen i'w diwallu.\n\nYn eu cynnig, mae'r Blaid Lafur yn gywir i nodi'r pwysau ariannol sylweddol sy'n wynebu hosbisau yng Nghymru, yn gywir i alw am gynllun hirdymor i wella gofal lliniarol a gofal diwedd oes, yn gywir i wneud yr achos dros setliad ariannol teg i'r sector er mwyn cynnal gweithlu cynaliadwy. Ond gyda phob parch, Lywydd, mae'n bwysig nodi mai Llafur sydd wedi bod mewn grym yng Nghymru ers chwarter canrif a mwy. Fel tad ac fel gofalwr sydd wedi gweld yn uniongyrchol yr heriau sy'n wynebu hosbisau, dwi yn cefnogi'r cynnig yma, ond mae'n rhaid imi gyfaddef fy siom nad oedd mwy o weithredu wedi bod gan Lafur yn eu hamser mewn grym.\n\nDwi'n croesawu'r cynnig, ond yn falch bod Plaid Cymru wrth y llyw erbyn hyn, a bod gennym ni Lywodraeth sydd o ddifri am fynd i'r afael â'r heriau dyrys a dwfn sy'n wynebu hosbisau, a dwi'n edrych ymlaen i gefnogi'r cynnig. Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=6637"
+        }
+      ],
+      "date": "2026-10-14",
+      "record_page_url": "https://record.senedd.wales/Plenary/16316"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776029",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "6. What assessment has the Welsh Government made of the need for a new Wales Act to ensure equality of powers with Scotland? OQ64630",
+          "text_original": "6. Pa asesiad y mae Llywodraeth Cymru wedi'i wneud o'r angen am Ddeddf Cymru newydd i sicrhau pwerau sy'n gyfartal â'r Alban? OQ64630",
+          "tv_url": "http://www.senedd.tv/en/16313"
+        },
+        {
+          "id": "contribution-776040",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "cy",
+          "t_start": 5563,
+          "text_english": "Thank you for that response. The current devolution settlement in Wales leaves us short of many of the powers and the flexibility that we need as a nation to formulate and implement coherent cross-departmental policies for the benefit of our communities. I was very pleased to hear the First Minister of Wales announce last week that he had written to the UK Prime Minister formally to try to secure a new deal for Wales, a deal that would transfer a number of powers that have already been devolved to Scotland, such as policing, justice, the Crown Estate, railways, welfare and fiscal fairness. A number of independent commissions and reviews over the years, including the Silk commission and the Independent Commission on the Constitutional Future of Wales, have come to the conclusion that devolution needs to be strengthened and more powers placed in the hands of the Senedd in order to allow Wales to deal more effectively with its own challenges. With that in mind, will the Cabinet Minister commit to continuing to press the UK Government? Finally—",
+          "text_original": "Diolch am yr ymateb. Mae'r setliad datganoli presennol yng Nghymru yn ein gadael ni'n fyr o nifer o'r pwerau a'r hyblygrwydd sydd eu hangen arnom fel cenedl i lunio a gweithredu polisïau trawsadrannol, cydlynol er lles ein cymunedau. Roeddwn i'n falch iawn o glywed Prif Weinidog Cymru yn cyhoeddi'r wythnos diwethaf ei fod wedi ysgrifennu at Brif Weinidog y Deyrnas Unedig yn ffurfiol i geisio sicrhau bargen newydd i Gymru, bargen fyddai'n trosglwyddo nifer o'r pwerau sydd eisoes wedi'u datganoli i'r Alban, megis plismona, cyfiawnder, Ystad y Goron, rheilffyrdd, lles a thegwch ariannol. Mae nifer o gomisiynau annibynnol dros y blynyddoedd, gan gynnwys comisiwn Silk a'r Comisiwn Annibynnol ar Ddyfodol Cyfansoddiadol Cymru, wedi dod i'r casgliad bod angen cryfhau datganoli a rhoi mwy o bwerau yn nwylo'r Senedd er mwyn galluogi Cymru i fynd i'r afael yn fwy effeithiol â'u heriau ei hun. Gyda hynny mewn golwg, a wnaiff y Gweinidog Cabinet ymrwymo i barhau i bwyso ar Lywodraeth y Deyrnas Unedig? O'r diwedd—",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=5563"
+        },
+        {
+          "id": "contribution-776234",
+          "item_id": "item-16313-261006-6",
+          "item_title_en": "6. Debate: Fiscal Reform",
+          "lang": "cy",
+          "t_start": 16259,
+          "text_english": "I'm pleased to be able to contribute to this important debate this afternoon. I'd like to put on record at the outset that of course I support point 1 and point 2 in the motion before us. A number of my fellow Members on these benches have made the case clear again today as to why we need to see urgent action from the UK Government, and I wish to focus my comments on point 3 of the motion.",
+          "text_original": "Dwi'n falch o gael cyfrannu i'r ddadl bwysig hon y prynhawn yma. Hoffwn roi ar y cofnod, i gychwyn, fy mod i wrth gwrs yn cefnogi pwynt 1 a phwynt 2 yn y cynnig sydd o'n blaenau. Mae nifer o fy nghyd-Aelodau ar y meinciau yma wedi gwneud yr achos yn glir eto heddiw dros pam mae angen i ni weld gweithrediadau brys gan Lywodraeth y Deyrnas Unedig, a dwi am ganolbwyntio fy sylwadau ar bwynt 3 yn y cynnig.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=16259"
+        },
+        {
+          "id": "contribution-776236",
+          "item_id": "item-16313-261006-6",
+          "item_title_en": "6. Debate: Fiscal Reform",
+          "lang": "en",
+          "t_start": 16290,
+          "text_english": "When the Prime Minister, Keir Starmer, made his way to Wales to announce £14 billion of investment to, as he put it, 'transform' Welsh rail, I'm sure many of us were hopeful that it was signalling the beginning of the end of historic underfunding for Welsh rail. However, as the details of commitments emerged, it became clear that, far from putting Wales on the right track, this commitment risks facilitating the continuation of underinvestment in Welsh rail over the current spending review period. It also, of course, made no effort to right the wrongs of the HS2 and the Oxford and Cambridge lines scandal. And whilst I'm sure we are glad to hear the new Prime Minister recently confirm that the £14 billion commitment remains firmly in place, I would maybe suggest to the Labour Party that it should have a word with Stephen Kinnock, the Secretary of State for Wales, given his views on this, as he doesn't quite seem to be on the same page as you in the Labour Party here, or even the Prime Minister.\n\nPoint 3 in today's motion does not set out to give Wales any special treatment or to secure any additional funding. Rather, the motion aims to ensure that the UK Government's commitment properly aligns with the delivery timelines of projects in Wales that have already been given the green light.\n\nAs the Cabinet Minister for Finance put it in her letter to the Chancellor:\n\n'At this level of funding, the projects underpinning the commitment cannot be progressed at the pace required and key commitments will not be delivered within the planned timeframe.'\n\nIf we continue as we are, deadlines will be missed, projects will be in limbo, jobs could be at risk, and rail in Wales will continue to lag behind the rest of the UK. I therefore urge you all to support this motion today.",
+          "text_original": "When the Prime Minister, Keir Starmer, made his way to Wales to announce £14 billion of investment to, as he put it, 'transform' Welsh rail, I'm sure many of us were hopeful that it was signalling the beginning of the end of historic underfunding for Welsh rail. However, as the details of commitments emerged, it became clear that, far from putting Wales on the right track, this commitment risks facilitating the continuation of underinvestment in Welsh rail over the current spending review period. It also, of course, made no effort to right the wrongs of the HS2 and the Oxford and Cambridge lines scandal. And whilst I'm sure we are glad to hear the new Prime Minister recently confirm that the £14 billion commitment remains firmly in place, I would maybe suggest to the Labour Party that it should have a word with Stephen Kinnock, the Secretary of State for Wales, given his views on this, as he doesn't quite seem to be on the same page as you in the Labour Party here, or even the Prime Minister.\n\nPoint 3 in today's motion does not set out to give Wales any special treatment or to secure any additional funding. Rather, the motion aims to ensure that the UK Government's commitment properly aligns with the delivery timelines of projects in Wales that have already been given the green light.\n\nAs the Cabinet Minister for Finance put it in her letter to the Chancellor:\n\n'At this level of funding, the projects underpinning the commitment cannot be progressed at the pace required and key commitments will not be delivered within the planned timeframe.'\n\nIf we continue as we are, deadlines will be missed, projects will be in limbo, jobs could be at risk, and rail in Wales will continue to lag behind the rest of the UK. I therefore urge you all to support this motion today.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=16290"
+        }
+      ],
+      "date": "2026-10-06",
+      "record_page_url": "https://record.senedd.wales/Plenary/16313"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771409",
+          "item_id": "item-16263-260923-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "8. What action is the Welsh Government taking to maximise the local economic opportunities arising from the Gwyndod project in Bangor Conwy Môn? OQ64550",
+          "text_original": "8. Pa gamau y mae Llywodraeth Cymru yn eu cymryd i wneud y mwyaf o’r cyfleoedd economaidd lleol sy’n deillio o brosiect Gwyndod ym Mangor Conwy Môn? OQ64550",
+          "tv_url": "http://www.senedd.tv/en/16263"
+        },
+        {
+          "id": "contribution-771414",
+          "item_id": "item-16263-260923-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "cy",
+          "t_start": 2958,
+          "text_english": "I thank the Cabinet Minister for that response. On my visit to the Gwyndod site last week, it was clear that this is not only an opportunity to secure energy for decades, but also a once-in-a-generation opportunity for the economy of Ynys Môn and north-west Wales. If we want local people to truly benefit, we need to start to prepare now. That means working with local colleges to ensure that apprenticeships and the required skills are in place, and, importantly, that they have the funding to deliver those. It also means giving fair opportunities to local businesses to get work through the supply chain. Will the Minister therefore commit to ensuring that jobs, skills and local businesses will be at the heart of the Welsh Government's strategy for Gwyndod? Thank you.",
+          "text_original": "Diolch i'r Gweinidog Cabinet am yr ymateb. Ar fy ymweliad â safle Gwyndod yr wythnos diwethaf, roedd hi'n amlwg fod hwn nid yn unig yn gyfle i sicrhau ynni dibynadwy am ddegawdau, ond yn gyfle unwaith mewn cenedlaeth i economi Ynys Môn a'r gogledd-orllewin. Os ydym am i bobl leol elwa go iawn, mae angen dechrau paratoi nawr. Mae hynny'n golygu gweithio gyda'r colegau lleol i sicrhau prentisiaethau a'r sgiliau fydd eu hangen, ac, yn bwysig, sicrhau bod ganddynt y cyllid i wneud hynny. Mae hefyd yn golygu rhoi cyfle teg i fusnesau lleol ennill gwaith drwy'r gadwyn gyflenwi. A wnaiff y Gweinidog felly ymrwymo i sicrhau mai swyddi, sgiliau a busnesau lleol fydd wrth galon strategaeth Llywodraeth Cymru ar gyfer Gwyndod? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=2958"
+        },
+        {
+          "id": "contribution-771687",
+          "item_id": "item-16263-260923-7",
+          "item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+          "lang": "cy",
+          "t_start": 13439,
+          "text_english": "Thank you, Llywydd. It's clear, in looking at the motion and the amendments tabled this afternoon, that there are two very different views on the future of Wales in this Chamber.\n\nI will turn first of all to Reform's original motion. I'm sure that the irony will be palpable to all, as a party that makes great play of the importance of freedom of opinion seeks to limit the right of the people of Wales to have a constructive discussion on the future of our nation. A discussion on their own terms, that's all Reform are interested in. As the growth in support for constitutional change continues, their strategy of protecting the status quo of the UK and casting doubt on the benefits of devolution is contrary to the view of the majority of the people of Wales.\n\nAnd let's turn now to the Labour amendment. Yes, warm words about devolution and all its benefits on paper, but as we saw over the two years of their partnership in power at both ends of the M4, they mean nothing in practice. Although the direction has come now to be more supportive of devolution from their new head in Downing Street, they are finding it difficult to even convince their own Members in Westminster of the need for further devolution.\n\nIn the election, the people of Wales made it clear that they wanted more powers over their own future, but they also made it perfectly clear that they don't believe that Labour is serious about acting on those aspirations, which brings me to the Plaid Cymru amendment. Simply, we believe that the people of Wales and the people of Wales alone should have the right to determine their own future. Those aren't constitutional dreams, but a fundamental right that is afforded to almost every other democratic nation across the world. In tabling our amendment today, we are seeking to unlock the conversation about the future of our nation. The other parties are determined to keep it under lock and key. Is this the best things can be for Wales?\n\nDuring the summer, I went over to Slovenia, a nation with a million fewer people than Wales, a nation that insisted on its independence despite a challenging economic and social environment. But now it's a nation that has caused its economy to grow more than sevenfold over recent years, a nation that has benefited from its membership of the European Union, and a nation that has built its economy on the energy and tourism sectors. The comparison with Wales in that regard is quite clear.\n\nPersonally, I don't believe that Westminster is working for our nation, but the people of Wales should have the power to have their say on that issue, not Whitehall. To conclude, Llywydd, Matthew Rhys said last week,",
+          "text_original": "Diolch, Lywydd. Mae'n amlwg, wrth edrych ar y cynnig a'r gwelliannau sydd wedi'u gosod y prynhawn yma, fod dwy agwedd wahanol iawn i'w cael am ddyfodol Cymru yn y Siambr hon.\n\nGwnaf i droi'n gyntaf at gynnig gwreiddiol Reform. Dwi'n siŵr y bydd yr eironi'n glir i bawb, wrth i blaid sydd yn gwneud chwarae mawr ar bwysigrwydd rhyddid barn geisio cyfyngu ar hawl bobl Cymru i gynnal trafodaeth adeiladol dros ddyfodol ein gwlad. Trafodaeth ar eu termau nhw yn unig ydy ffordd Reform. Wrth i'r twf am gefnogaeth dros newid cyfansoddiad yng Nghymru barhau, mae ei strategaeth am amddiffyn statws cwo y Deyrnas Unedig a thaflu amheuaeth dros fanteision datganoli yn groes i beth mae mwyafrif o bobl Cymru yn dymuno ei weld.\n\nA dyma droi at welliant Llafur. Ie, geiriau cynnes am ddatganoli a'i holl fanteision ar bapur, ond fel y gwelsom dros y ddwy flynedd o'u partneriaeth mewn grym bob ochr i'r M4, dydyn nhw'n golygu dim mewn realiti. Er bod y cyfarwyddyd wedi dod erbyn hyn i fod yn fwy cefnogol o ddatganoli gan eu pennaeth newydd yn Downing Street, maen nhw'n ei chael hi'n anodd i hyd yn oed argyhoeddi eu Haelodau eu hunain yn San Steffan am yr angen am fwy o ddatganoli.\n\nYn yr etholiad, fe wnaeth pobl Cymru ei gwneud hi'n glir eu bod nhw'n dymuno mwy o bwerau dros eu dyfodol eu hunain, ond fe ddaru nhw hefyd ei gwneud hi'n berffaith glir nad ydyn nhw'n credu bod Llafur o ddifrif dros weithredu'r dyheadau hynny, sydd yn dod â fi at welliant Plaid Cymru. Yn syml, rydym ni'n coelio mai pobl Cymru a phobl Cymru yn unig ddylai fod â'r hawl i benderfynu dros ddyfodol ein hunain. Nid breuddwydion cyfansoddiadol ydy'r rheini, ond hawl sydd yn cael ei roi i bron i bob gwlad ddemocrataidd arall ar draws y byd. Wrth osod ein gwelliant heddiw, rydym yn ceisio datgloi'r sgwrs am ddyfodol ein gwlad. Mae'r pleidiau eraill yn benderfynol o'i chadw dan glo. Ai dyma'r gorau all pethau fod i Gymru?\n\nYn ystod yr haf, es i draw i Slofenia, gwlad sydd efo miliwn yn llai o bobl na Chymru, gwlad a fynnodd ei hannibyniaeth er gwaethaf amgylchiadau economaidd a chymdeithasol heriol. Ond erbyn hyn, mae hi'n wlad sydd wedi gwneud i'w heconomi dyfu mwy na saith gwaith dros y blynyddoedd diwethaf, yn wlad sydd wedi manteisio ar ei haelodaeth o'r Undeb Ewropeaidd, ac yn wlad sydd wedi adeiladu ei heconomi ar y sectorau ynni a thwristiaeth. Mae'r gymhariaeth â Chymru yn hynny o beth yn glir.\n\nYn bersonol, dydw i ddim yn credu bod San Steffan yn gweithio i'n cenedl, ond pobl Cymru ddylai fod â'r grym i gael dweud eu dweud ar hynny, nid Whitehall. I gloi, Lywydd, dywedodd Matthew Rhys wythnos diwethaf,",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=13439"
+        },
+        {
+          "id": "contribution-771688",
+          "item_id": "item-16263-260923-7",
+          "item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+          "lang": "en",
+          "t_start": 13654,
+          "text_english": "'We are a small but mighty nation.'",
+          "text_original": "'We are a small but mighty nation.'",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=13654"
+        },
+        {
+          "id": "contribution-771689",
+          "item_id": "item-16263-260923-7",
+          "item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+          "lang": "cy",
+          "t_start": 13658,
+          "text_english": "He was quite right, of course, but we are also an ambitious nation, a nation that is filled with potential and a nation that is perfectly capable of deciding its own future. I refuse to believe that anyone in this Chamber could disagree with that analysis. I encourage all Members to use their right to self-determination this afternoon by supporting the Plaid Cymru amendment.",
+          "text_original": "Mi oedd o'n hollol gywir, wrth gwrs, ond rydym ni hefyd yn wlad uchelgeisiol, yn wlad llawn potensial ac yn wlad sydd yn ddigon galluog i benderfynu dros ddyfodol ein hunain. Dwi'n gwrthod credu bod unrhyw un yn y Siambr hon yn anghytuno efo'r dadansoddiad yna. Dwi'n annog pob Aelod i ddefnyddio eu hawl i hunan-benderfynu y prynhawn yma a chefnogi gwelliant Plaid Cymru.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=13658"
+        }
+      ],
+      "date": "2026-09-23",
+      "record_page_url": "https://record.senedd.wales/Plenary/16263"
+    },
     {
       "contributions": [
         {

@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,138 @@
   "canonical_name": "David Mills",
   "constituency_name_cy": "Brycheiniog Tawe Nedd",
   "constituency_name_en": "Brycheiniog Tawe Nedd",
-  "contribution_count": 9,
+  "contribution_count": 19,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-779134",
+          "item_id": "item-16316-261014-9",
+          "item_title_en": "8. Short Debate: Green across the aisle: Making environmental stewardship a common cause",
+          "lang": "en",
+          "t_start": 14015,
+          "text_english": "Shall I start?",
+          "text_original": "Shall I start?",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=14015"
+        },
+        {
+          "id": "contribution-779136",
+          "item_id": "item-16316-261014-9",
+          "item_title_en": "8. Short Debate: Green across the aisle: Making environmental stewardship a common cause",
+          "lang": "en",
+          "t_start": 14017,
+          "text_english": "Thank you, Presiding Officer. I'm pleased to have the opportunity to open the debate today. I will be giving a minute of my time to John Clark, Paul Rock, Anna Nicholl and James Evans. I want to begin by outlining why I am personally invested in this issue. I have been a lifelong environmentalist. I run a farm where I've dedicated a significant amount of my land to habitat restoration and tree planting. Prior to farming, I have a background in conservation and countryside management. I have also run an organic, environmentally conscious farm in France, where I saw first-hand the value of good land management, protecting biodiversity and working with nature rather than against it.\n\nThe ease of operating in France has helped me identify where we have gone wrong in Wales. For me, environmental stewardship has never been an abstract political concept; it is something I live and practice every day. It's about the condition of the land you pass on to the next generation, it is about the wildlife that inhabits your fields and hedgerows and it's about the health of our rivers, the quality of our soil, the responsibility we all have to leave our countryside in a better condition than we found it. And it was precisely because of that commitment that I became increasingly frustrated with the bureaucracy I encountered in Wales. Too often, I found a system more interested in penalising conservationists for breaching some trivial rule buried deep in a dense guidance document, rather than encouraging landowners to do the right thing for the environment. The spirit of the guidance should be more important than a strict, legalistic interpretation where conservationists can be fined for petty reasons. People who want to restore habitats, plant trees and improve biodiversity should be treated as partners, not potential rule breakers. That experience helped spur me to stand for elected office, and that brings me to the purpose of today's debate.",
+          "text_original": "Thank you, Presiding Officer. I'm pleased to have the opportunity to open the debate today. I will be giving a minute of my time to John Clark, Paul Rock, Anna Nicholl and James Evans. I want to begin by outlining why I am personally invested in this issue. I have been a lifelong environmentalist. I run a farm where I've dedicated a significant amount of my land to habitat restoration and tree planting. Prior to farming, I have a background in conservation and countryside management. I have also run an organic, environmentally conscious farm in France, where I saw first-hand the value of good land management, protecting biodiversity and working with nature rather than against it.\n\nThe ease of operating in France has helped me identify where we have gone wrong in Wales. For me, environmental stewardship has never been an abstract political concept; it is something I live and practice every day. It's about the condition of the land you pass on to the next generation, it is about the wildlife that inhabits your fields and hedgerows and it's about the health of our rivers, the quality of our soil, the responsibility we all have to leave our countryside in a better condition than we found it. And it was precisely because of that commitment that I became increasingly frustrated with the bureaucracy I encountered in Wales. Too often, I found a system more interested in penalising conservationists for breaching some trivial rule buried deep in a dense guidance document, rather than encouraging landowners to do the right thing for the environment. The spirit of the guidance should be more important than a strict, legalistic interpretation where conservationists can be fined for petty reasons. People who want to restore habitats, plant trees and improve biodiversity should be treated as partners, not potential rule breakers. That experience helped spur me to stand for elected office, and that brings me to the purpose of today's debate.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=14017"
+        },
+        {
+          "id": "contribution-779123",
+          "item_id": "item-16316-261014-9",
+          "item_title_en": "8. Short Debate: Green across the aisle: Making environmental stewardship a common cause",
+          "lang": "en",
+          "t_start": 14161,
+          "text_english": "Environmental stewardship should not belong to one political party, one ideology, or one side of the Chamber. It should be a common cause. For small c conservatives, environmental conservation is central to our political philosophy. Yes, too often the tradition is overlooked because the debate about the environment has become almost entirely dominated by carbon reduction, which, whilst important, should not dominate Government action over other concerns. Many to the right, myself included, object to the direction of current environmental policy, but we should not allow that disagreement to be mistaken for indifference towards the environment itself. I believe climate change is a serious, potentially existential challenge that must be addressed, and we cannot simply ignore the evidence to pretend that a changing climate presents no risks, but we must distinguish between the challenge we face and the policies Governments choose to pursue in response to it.\n\nI have profound concerns about the approach to net zero. The UK can impose ever more ambitious targets on itself and introduce costly regulations, but climate change is a global problem driven by global emissions. The effectiveness of our response must therefore be judged in a global context. My concern is that policies pursued in the name of net zero will make little difference to the global climate trajectory if they are not matched by meaningful international action, while not imposing enormous costs on ordinary people here at home, because those costs are not borne equally. We should not ask people on the lowest incomes to shoulder disproportionate costs for policies whose global impact depends on what the rest of the world does, when the UK's impact is so minuscule.\n\nIf the United Kingdom reached net zero by next week, would the climate stop changing? Of course it would not. That does not mean we should abandon efforts to reduce emissions, it means we should pursue them sensibly, in concert with other countries, and in a way that is economically sustainable and commands public support.\n\nWe should also be honest about the need to adapt to the changes in climate we face. We need resilient infrastructure, effective flood prevention, healthy soils, restored peatlands, and landscapes better equipped to withstand drought, wildfire and extreme rainfall. We must also consider the standardisation of air conditioning in homes and schools, and fund agricultural science that looks at how crops may have to adapt to a changing climate.\n\nMitigation and adaptation must go hand in hand, but my concern is that the single-minded focus of carbon targets has distracted us from other pressing environmental problems—problems where we could make tangible difference to people's lives and the natural world around us.\n\nAs we have been racing towards ever more ambitious carbon targets, our rivers and our seas have been filling with sewage. Natural Resources Wales reported that Dŵr Cymru was responsible for 155 pollution incidents in 2024. That was the highest number of sewage pollution incidents recorded by the company in a decade. We should be just as determined to stop sewage entering our rivers as we are to meet carbon targets.\n\nAnother area where we should be able to find common ground is the protection of our habitats and our beautiful landscapes. Species are disappearing, habitats are under pressure and too many landscapes are failing to reach their ecological potential. Tree planting, habitat restoration, healthier soils and protecting native species can all make a real difference, but this must be done in partnership with farmers and landowners, not through top-down diktats. We should reward long-term stewardship rather than simply measuring compliance with administrative requirements. We also need tougher penalties for environmental crime and better policing. While law-abiding citizens face increasingly costly waste disposal, criminals are dumping toxic waste and despoiling our countryside with apparent impunity.\n\nMichael Sheen's recent documentary Buried has highlighted the illegal dumping of forever chemicals and acid sludge across England and Wales. In March, Natural Resources Wales reported that nearly 50,000 fly-tipping incidents had been recorded in Welsh local authorities in the previous year—an increase of almost 15 per cent. That's about 133 incidents every day. We need effective investigations and meaningful penalties. This is not about punishing well-meaning landowners for missing a clause in a regulation; it's about ensuring that those who wantonly destroy our natural environment face prison.\n\nPresiding Officer, this brings me back to the central argument of this debate: environmental policy should not be judged solely on carbon targets, but by whether our rivers are cleaner, our habitats are recovering, our wildlife is thriving and our countryside is protected for future generations. Achieving this means working with farmers, landowners, conservationists, volunteers, communities and businesses. Good environmental policy need not be prohibitively expensive. Often, the best solutions are practical, locally led and rooted in an understanding of the landscapes. We can disagree about net zero and the pace of decarbonisation, but surely we can agree that sewage should not pollute our rivers, that endangered species should be protected, illegal dumping should be punished and those restoring habitats should be encouraged rather than obstructed. These aren't left-wing or right-wing objectives; they're commonsense objectives.\n\nI'm confident the new Minister for climate change and rural resilience shares my desire to put sound land management and the protection of our natural inheritance at the heart of environmental policy, and I look forward to hearing how he intends to deliver that. Our responsibility as custodians is to ensure the next generation inherits a natural environment richer, healthier and better protected than the one we inherited. That's what environmental stewardship means to me. I look forward to hearing the other contributors to the debate. Thank you.",
+          "text_original": "Environmental stewardship should not belong to one political party, one ideology, or one side of the Chamber. It should be a common cause. For small c conservatives, environmental conservation is central to our political philosophy. Yes, too often the tradition is overlooked because the debate about the environment has become almost entirely dominated by carbon reduction, which, whilst important, should not dominate Government action over other concerns. Many to the right, myself included, object to the direction of current environmental policy, but we should not allow that disagreement to be mistaken for indifference towards the environment itself. I believe climate change is a serious, potentially existential challenge that must be addressed, and we cannot simply ignore the evidence to pretend that a changing climate presents no risks, but we must distinguish between the challenge we face and the policies Governments choose to pursue in response to it.\n\nI have profound concerns about the approach to net zero. The UK can impose ever more ambitious targets on itself and introduce costly regulations, but climate change is a global problem driven by global emissions. The effectiveness of our response must therefore be judged in a global context. My concern is that policies pursued in the name of net zero will make little difference to the global climate trajectory if they are not matched by meaningful international action, while not imposing enormous costs on ordinary people here at home, because those costs are not borne equally. We should not ask people on the lowest incomes to shoulder disproportionate costs for policies whose global impact depends on what the rest of the world does, when the UK's impact is so minuscule.\n\nIf the United Kingdom reached net zero by next week, would the climate stop changing? Of course it would not. That does not mean we should abandon efforts to reduce emissions, it means we should pursue them sensibly, in concert with other countries, and in a way that is economically sustainable and commands public support.\n\nWe should also be honest about the need to adapt to the changes in climate we face. We need resilient infrastructure, effective flood prevention, healthy soils, restored peatlands, and landscapes better equipped to withstand drought, wildfire and extreme rainfall. We must also consider the standardisation of air conditioning in homes and schools, and fund agricultural science that looks at how crops may have to adapt to a changing climate.\n\nMitigation and adaptation must go hand in hand, but my concern is that the single-minded focus of carbon targets has distracted us from other pressing environmental problems—problems where we could make tangible difference to people's lives and the natural world around us.\n\nAs we have been racing towards ever more ambitious carbon targets, our rivers and our seas have been filling with sewage. Natural Resources Wales reported that Dŵr Cymru was responsible for 155 pollution incidents in 2024. That was the highest number of sewage pollution incidents recorded by the company in a decade. We should be just as determined to stop sewage entering our rivers as we are to meet carbon targets.\n\nAnother area where we should be able to find common ground is the protection of our habitats and our beautiful landscapes. Species are disappearing, habitats are under pressure and too many landscapes are failing to reach their ecological potential. Tree planting, habitat restoration, healthier soils and protecting native species can all make a real difference, but this must be done in partnership with farmers and landowners, not through top-down diktats. We should reward long-term stewardship rather than simply measuring compliance with administrative requirements. We also need tougher penalties for environmental crime and better policing. While law-abiding citizens face increasingly costly waste disposal, criminals are dumping toxic waste and despoiling our countryside with apparent impunity.\n\nMichael Sheen's recent documentary Buried has highlighted the illegal dumping of forever chemicals and acid sludge across England and Wales. In March, Natural Resources Wales reported that nearly 50,000 fly-tipping incidents had been recorded in Welsh local authorities in the previous year—an increase of almost 15 per cent. That's about 133 incidents every day. We need effective investigations and meaningful penalties. This is not about punishing well-meaning landowners for missing a clause in a regulation; it's about ensuring that those who wantonly destroy our natural environment face prison.\n\nPresiding Officer, this brings me back to the central argument of this debate: environmental policy should not be judged solely on carbon targets, but by whether our rivers are cleaner, our habitats are recovering, our wildlife is thriving and our countryside is protected for future generations. Achieving this means working with farmers, landowners, conservationists, volunteers, communities and businesses. Good environmental policy need not be prohibitively expensive. Often, the best solutions are practical, locally led and rooted in an understanding of the landscapes. We can disagree about net zero and the pace of decarbonisation, but surely we can agree that sewage should not pollute our rivers, that endangered species should be protected, illegal dumping should be punished and those restoring habitats should be encouraged rather than obstructed. These aren't left-wing or right-wing objectives; they're commonsense objectives.\n\nI'm confident the new Minister for climate change and rural resilience shares my desire to put sound land management and the protection of our natural inheritance at the heart of environmental policy, and I look forward to hearing how he intends to deliver that. Our responsibility as custodians is to ensure the next generation inherits a natural environment richer, healthier and better protected than the one we inherited. That's what environmental stewardship means to me. I look forward to hearing the other contributors to the debate. Thank you.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=14161"
+        }
+      ],
+      "date": "2026-10-14",
+      "record_page_url": "https://record.senedd.wales/Plenary/16316"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-775830",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "2. Will the First Minister outline how the Welsh Government’s international offices deliver value for money for Welsh taxpayers? OQ64621",
+          "text_original": "2. A wnaiff y Prif Weinidog amlinellu sut mae swyddfeydd rhyngwladol Llywodraeth Cymru yn darparu gwerth am arian i drethdalwyr Cymru? OQ64621",
+          "tv_url": "http://www.senedd.tv/en/16313"
+        },
+        {
+          "id": "contribution-775835",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 505,
+          "text_english": "International relations are not the remit of the Welsh Government. Coming from the world of farming and business before entering the Senedd, when I came here I was shocked at the waste—it really shocked me. And nothing symbolises that waste more than the 20 mini embassies that we've got. These are on four continents, costing £5 million a year to run, and they're part of a larger package of £58 million, which is spent on all sorts of things. Is this indulgence worth it when public finances are so tight? So, does the First Minister genuinely believe that every one of those overseas offices is delivering value for money? And would he not agree with me that the money would be better spent on the NHS, schools and other failing vital public services that are actually within the Senedd's devolved responsibilities?",
+          "text_original": "International relations are not the remit of the Welsh Government. Coming from the world of farming and business before entering the Senedd, when I came here I was shocked at the waste—it really shocked me. And nothing symbolises that waste more than the 20 mini embassies that we've got. These are on four continents, costing £5 million a year to run, and they're part of a larger package of £58 million, which is spent on all sorts of things. Is this indulgence worth it when public finances are so tight? So, does the First Minister genuinely believe that every one of those overseas offices is delivering value for money? And would he not agree with me that the money would be better spent on the NHS, schools and other failing vital public services that are actually within the Senedd's devolved responsibilities?",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=505"
+        },
+        {
+          "id": "contribution-776102",
+          "item_id": "item-16313-261006-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 7460,
+          "text_english": "Thank you, Deputy Presiding Officer. I'd like to ask for a statement from the Cabinet Minister for Rural Resilience and Sustainability on how the Welsh Government intends to turn the lessons from this summer's wildfires and the very real risk of flooding this autumn and winter into investment in rural communities such as those across Brycheiniog Tawe Nedd.\n\nResearch has highlighted that measures such as rewetting peatland and better land management can help prevent wildfires, while also slowing water run-off and reducing flood risk. Indeed, the Welsh Government has already committed more than £5 million to natural flood management this financial year. So, could we have a statement setting out how farmers and landowners will be supported to deliver landscape-scale resilience and whether the Welsh Government will use this opportunity to bring much-needed investment and jobs into rural communities like mine?",
+          "text_original": "Thank you, Deputy Presiding Officer. I'd like to ask for a statement from the Cabinet Minister for Rural Resilience and Sustainability on how the Welsh Government intends to turn the lessons from this summer's wildfires and the very real risk of flooding this autumn and winter into investment in rural communities such as those across Brycheiniog Tawe Nedd.\n\nResearch has highlighted that measures such as rewetting peatland and better land management can help prevent wildfires, while also slowing water run-off and reducing flood risk. Indeed, the Welsh Government has already committed more than £5 million to natural flood management this financial year. So, could we have a statement setting out how farmers and landowners will be supported to deliver landscape-scale resilience and whether the Welsh Government will use this opportunity to bring much-needed investment and jobs into rural communities like mine?",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=7460"
+        }
+      ],
+      "date": "2026-10-06",
+      "record_page_url": "https://record.senedd.wales/Plenary/16313"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-773482",
+          "item_id": "item-16265-260930-1",
+          "item_title_en": "1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "1. What steps is the Welsh Government taking to tackle rural poverty in Brycheiniog Tawe Nedd? OQ64579",
+          "text_original": "1. Pa gamau y mae Llywodraeth Cymru yn eu cymryd i fynd i'r afael â thlodi gwledig ym Mrycheiniog Tawe Nedd? OQ64579",
+          "tv_url": "http://www.senedd.tv/en/16265"
+        },
+        {
+          "id": "contribution-773485",
+          "item_id": "item-16265-260930-1",
+          "item_title_en": "1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice",
+          "lang": "en",
+          "t_start": 52,
+          "text_english": "Rural poverty in mid Wales is a hidden crisis, driven by low wages in work employment, high care dependency and now rising unemployment. Although very few people in Powys today experience absolute poverty, there are those who fail to achieve the standards of living that we expect in an affluent developed country beyond the basic necessities of life. Energy costs have risen exponentially, the price of diesel has hit an all-time high, but wages are not rising to match this. Latest figures show that the unemployment rate in mid and south west Wales has risen to 3.5 per cent over the year. I visited a job centre in Llandrindod Wells recently, where work coaches told me about the lack of jobs being created in rural areas. So, how is the Cabinet Minister working with other areas of Government to address rural poverty in mid Wales and focus on setting the conditions for rural businesses to thrive and take on new staff?",
+          "text_original": "Rural poverty in mid Wales is a hidden crisis, driven by low wages in work employment, high care dependency and now rising unemployment. Although very few people in Powys today experience absolute poverty, there are those who fail to achieve the standards of living that we expect in an affluent developed country beyond the basic necessities of life. Energy costs have risen exponentially, the price of diesel has hit an all-time high, but wages are not rising to match this. Latest figures show that the unemployment rate in mid and south west Wales has risen to 3.5 per cent over the year. I visited a job centre in Llandrindod Wells recently, where work coaches told me about the lack of jobs being created in rural areas. So, how is the Cabinet Minister working with other areas of Government to address rural poverty in mid Wales and focus on setting the conditions for rural businesses to thrive and take on new staff?",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=52"
+        }
+      ],
+      "date": "2026-09-30",
+      "record_page_url": "https://record.senedd.wales/Plenary/16265"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771384",
+          "item_id": "item-16263-260923-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "en",
+          "t_start": 2540,
+          "text_english": "I welcome the Welsh Government's guidance published in June on behind-the-meter energy systems, and I was pleased to see the Government recognising the potential for businesses to generate, use and sell locally produced energy. These are exactly the sorts of arrangements that can deliver real economic benefit to Welsh communities and ensure that solar panels are installed on industrial units rather than prime agricultural land.\n\nI have heard from business owners who tell me that the financial return from exporting surplus electricity to the grid can be low, that it's so low that it simply does not provide enough incentive to install solar panels on large commercial or industrial buildings. Suppliers setting their own export tariffs turns this on its head. So, can the Minister outline what they are doing to actively promote private-wire and licence-exempt arrangements, allowing businesses to sell surplus power directly to neighbouring businesses at an agreed price?",
+          "text_original": "I welcome the Welsh Government's guidance published in June on behind-the-meter energy systems, and I was pleased to see the Government recognising the potential for businesses to generate, use and sell locally produced energy. These are exactly the sorts of arrangements that can deliver real economic benefit to Welsh communities and ensure that solar panels are installed on industrial units rather than prime agricultural land.\n\nI have heard from business owners who tell me that the financial return from exporting surplus electricity to the grid can be low, that it's so low that it simply does not provide enough incentive to install solar panels on large commercial or industrial buildings. Suppliers setting their own export tariffs turns this on its head. So, can the Minister outline what they are doing to actively promote private-wire and licence-exempt arrangements, allowing businesses to sell surplus power directly to neighbouring businesses at an agreed price?",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=2540"
+        }
+      ],
+      "date": "2026-09-23",
+      "record_page_url": "https://record.senedd.wales/Plenary/16263"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-770960",
+          "item_id": "item-16262-260922-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 8110,
+          "text_english": "Thank you, Deputy Presiding Officer. I'd like to call for a statement from the Cabinet Minister for Health and Care on the increasing prevalence of antisemitism in the healthcare sector. The Campaign Against Antisemitism is today publishing a groundbreaking documentary featuring patients and practitioners describing experiences, including Nazi salutes, antisemitic death threats and patients refusing treatment from Jewish doctors. There has been a meteoric increase in antisemitism over the last three years, and British Jews have been taking steps to conceal their Jewish identity. Whilst most evidence focuses on England, I'd be surprised if Wales were immune from this problem. So, can we have a statement outlining how the Welsh Government is monitoring antisemitism in our healthcare services, and what action is being taken to root it out?",
+          "text_original": "Thank you, Deputy Presiding Officer. I'd like to call for a statement from the Cabinet Minister for Health and Care on the increasing prevalence of antisemitism in the healthcare sector. The Campaign Against Antisemitism is today publishing a groundbreaking documentary featuring patients and practitioners describing experiences, including Nazi salutes, antisemitic death threats and patients refusing treatment from Jewish doctors. There has been a meteoric increase in antisemitism over the last three years, and British Jews have been taking steps to conceal their Jewish identity. Whilst most evidence focuses on England, I'd be surprised if Wales were immune from this problem. So, can we have a statement outlining how the Welsh Government is monitoring antisemitism in our healthcare services, and what action is being taken to root it out?",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=8110"
+        }
+      ],
+      "date": "2026-09-22",
+      "record_page_url": "https://record.senedd.wales/Plenary/16262"
+    },
     {
       "contributions": [
         {

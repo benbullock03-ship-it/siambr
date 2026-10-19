@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "abstain"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,86 @@
   "canonical_name": "Elyn Stephens",
   "constituency_name_cy": "Afan Ogwr Rhondda",
   "constituency_name_en": "Afan Ogwr Rhondda",
-  "contribution_count": 16,
+  "contribution_count": 22,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778600",
+          "item_id": "item-16315-261013-5",
+          "item_title_en": "5. Statement by the Cabinet Minister for Health and Care: Update on winter preparedness",
+          "lang": "en",
+          "t_start": 12707,
+          "text_english": "Diolch, Lywydd. Gweinidog Cabinet, winter pressures are often discussed in terms of hospital capacity, delayed discharges and access to primary care, but in the communities that I represent, there's also the very basic issue of whether people can physically get to hospital at all. Living in the shadow of the Rhigos mountain, I know personally how dependent communities in Afan Ogwr Rhondda are on mountain roads, such as the Rhigos, the Bwlch—Bwlch y Clawdd to friends—and Maerdy mountain.\n\nThese are essential routes for people getting to hospital and for ambulance crews getting patients to urgent and emergency care. During periods of snow and ice, those roads can close very quickly with little communication, leaving communities effectively cut off. What assurances can the Cabinet Secretary give that winter preparedness plans include specific contingencies for mountain road closures, including joint working between health boards, the ambulance services and local authorities, so that patients in those communities are not left without safe access to care?",
+          "text_original": "Diolch, Lywydd. Gweinidog Cabinet, winter pressures are often discussed in terms of hospital capacity, delayed discharges and access to primary care, but in the communities that I represent, there's also the very basic issue of whether people can physically get to hospital at all. Living in the shadow of the Rhigos mountain, I know personally how dependent communities in Afan Ogwr Rhondda are on mountain roads, such as the Rhigos, the Bwlch—Bwlch y Clawdd to friends—and Maerdy mountain.\n\nThese are essential routes for people getting to hospital and for ambulance crews getting patients to urgent and emergency care. During periods of snow and ice, those roads can close very quickly with little communication, leaving communities effectively cut off. What assurances can the Cabinet Secretary give that winter preparedness plans include specific contingencies for mountain road closures, including joint working between health boards, the ambulance services and local authorities, so that patients in those communities are not left without safe access to care?",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=12707"
+        }
+      ],
+      "date": "2026-10-13",
+      "record_page_url": "https://record.senedd.wales/Plenary/16315"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776819",
+          "item_id": "item-16314-261007-6",
+          "item_title_en": "5. Motion to delegate authority to make the arrangements for recruiting a new Commissioner for Standards to the Standards of Conduct Committee",
+          "lang": "cy",
+          "t_start": 8667,
+          "text_english": "I formally move the motion in the name of Lindsay Whittle.",
+          "text_original": "Symudaf y cynnig yn ffurfiol yn enw Lindsay Whittle.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=8667"
+        },
+        {
+          "id": "contribution-777102",
+          "item_id": "item-16314-261007-11",
+          "item_title_en": "10. Short Debate: The importance of port infrastructure and maritime traffic to the Welsh economy",
+          "lang": "en",
+          "t_start": 19439,
+          "text_english": "Thank you to Ben for bringing forward this debate and for being so generous with your time. I had a feeling you'd concentrate on Port Talbot, as will I. We cannot allow ports like Port Talbot to be places where the components of the green transition simply arrive and leave. The greater opportunity lies in building the supply chain around them. For floating offshore wind, that means fabrication, welding, pipe fitting, mooring and anchor systems, cables, logistics, installation and long-term maintenance. Port Talbot already has many of those black skills, built through generations of steel making and heavy industry, as other Members have alluded to. We should utilise those transferable skills alongside the robotic mechanics, digital and engineering skills that those new technologies will require. We must also widen who gets those opportunities, with clear routes in for women, school leavers and people from disadvantaged backgrounds into those skilled, well-paid careers. This must be about innovation as well as infrastructure, linking ports, colleges, businesses and research institutions so that Cymru is not simply deploying new technology, but designing, developing and manufacturing it here too.",
+          "text_original": "Thank you to Ben for bringing forward this debate and for being so generous with your time. I had a feeling you'd concentrate on Port Talbot, as will I. We cannot allow ports like Port Talbot to be places where the components of the green transition simply arrive and leave. The greater opportunity lies in building the supply chain around them. For floating offshore wind, that means fabrication, welding, pipe fitting, mooring and anchor systems, cables, logistics, installation and long-term maintenance. Port Talbot already has many of those black skills, built through generations of steel making and heavy industry, as other Members have alluded to. We should utilise those transferable skills alongside the robotic mechanics, digital and engineering skills that those new technologies will require. We must also widen who gets those opportunities, with clear routes in for women, school leavers and people from disadvantaged backgrounds into those skilled, well-paid careers. This must be about innovation as well as infrastructure, linking ports, colleges, businesses and research institutions so that Cymru is not simply deploying new technology, but designing, developing and manufacturing it here too.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=19439"
+        }
+      ],
+      "date": "2026-10-07",
+      "record_page_url": "https://record.senedd.wales/Plenary/16314"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-772859",
+          "item_id": "item-16264-260929-3",
+          "item_title_en": "2. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "4. Will the First Minister outline how residents in Afan Ogwr Rhondda will benefit from the national energy strategy? OQ64584",
+          "text_original": "4. A wnaiff y Prif Weinidog amlinellu sut y bydd trigolion Afan Ogwr Rhondda yn elwa o'r strategaeth ynni genedlaethol? OQ64584",
+          "tv_url": "http://www.senedd.tv/en/16264"
+        },
+        {
+          "id": "contribution-772862",
+          "item_id": "item-16264-260929-3",
+          "item_title_en": "2. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 2460,
+          "text_english": "Diolch, Brif Weinidog. A key test of this strategy, as you've just outlined, for my constituents is whether the energy transition brings not just more generation, but more good jobs, innovation and economic value to those communities like Afan Ogwr Rhondda. Neath Port Talbot is leading the south-west Wales bid to the UK local innovation partnerships fund, which could be an important addition to those aims. The region was originally told that up to £20 million would be available, but I've now been informed by partners involved that this may have been reduced to £15 million—so by a quarter—while Hull and East Yorkshire and Tees Valley have up to £30 million available jointly. It seems to me the UK Government never seems to miss an opportunity to short-change Wales. Can you confirm whether the Welsh Government has been informed of this change, and what representations will you make to protect south-west Wales's share?",
+          "text_original": "Diolch, Brif Weinidog. A key test of this strategy, as you've just outlined, for my constituents is whether the energy transition brings not just more generation, but more good jobs, innovation and economic value to those communities like Afan Ogwr Rhondda. Neath Port Talbot is leading the south-west Wales bid to the UK local innovation partnerships fund, which could be an important addition to those aims. The region was originally told that up to £20 million would be available, but I've now been informed by partners involved that this may have been reduced to £15 million—so by a quarter—while Hull and East Yorkshire and Tees Valley have up to £30 million available jointly. It seems to me the UK Government never seems to miss an opportunity to short-change Wales. Can you confirm whether the Welsh Government has been informed of this change, and what representations will you make to protect south-west Wales's share?",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=2460"
+        },
+        {
+          "id": "contribution-773010",
+          "item_id": "item-16264-260929-6",
+          "item_title_en": "5. Statement by the Cabinet Minister for Local Government, Housing and Planning: The Revision of the National Development Framework and National Conversation",
+          "lang": "cy",
+          "t_start": 10056,
+          "text_english": "Minister, in contrast to the Reform UK MS, I very much welcome the emphasis on holding a national conversation about the future of planning in Wales. The more people who can engage in that consultation, the better: they are the ones who ultimately will be affected by the planning decisions. As the conversation is now ongoing, I'm interested in how we ensure that it reaches the people who don't usually engage with the planning system.\n\nIn many of our communities in the Valleys and in post-industrial areas, people can be impacted directly by major planning decisions, but perhaps won't respond to formal consultations and won't attend public meetings and won't feel that the planning system has been planned necessarily for them to take part. Could you talk a little bit about how the Government is going to reach out to those communities proactively, and how will you assess then whether the national conversation has succeeded in extending participation beyond those who already engage with planning?",
+          "text_original": "Weinidog, yn wahanol i'r Aelod o Reform UK, rwy'n croesawu'n fawr y pwyslais ar gynnal sgwrs genedlaethol am ddyfodol cynllunio yng Nghymru. Y mwyaf o bobl a all ymwneud â'r ymgynghoriad yna, y gorau oll: yn y pen draw, nhw fydd yn cael eu heffeithio gan y penderfyniadau cynllunio. Gan fod y sgwrs bellach ar y gweill, mae gen i ddiddordeb arbennig mewn sut rydym yn sicrhau ei bod yn cyrraedd y bobl nad ydynt fel arfer yn ymgysylltu â'r system gynllunio.\n\nMewn llawer o'n cymunedau yn y Cymoedd ac mewn ardaloedd ôl-ddiwydiannol, gall bobl gael eu heffeithio'n uniongyrchol gan benderfyniadau cynllunio mawr, ond efallai na fyddent yn ymateb i ymgynghoriadau ffurfiol a mynychu cyfarfodydd cyhoeddus, nac yn teimlo, o reidrwydd, fod y system gynllunio wedi'i chynllunio i'w galluogi i gymryd rhan. A allwch sôn ychydig am sut mae'r Llywodraeth yn mynd ati'n rhagweithiol i gyrraedd y cymunedau hynny yn ystod y broses hon, a sut byddwch yn asesu wedyn a yw'r sgwrs genedlaethol wedi llwyddo i ehangu cyfranogiad y tu hwnt i'r rhai sydd eisoes yn ymgysylltu â chynllunio?",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=10056"
+        }
+      ],
+      "date": "2026-09-29",
+      "record_page_url": "https://record.senedd.wales/Plenary/16264"
+    },
     {
       "contributions": [
         {

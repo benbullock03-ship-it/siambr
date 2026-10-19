@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,128 @@
   "canonical_name": "Niamh Salkeld",
   "constituency_name_cy": "Blaenau Gwent Caerffili Rhymni",
   "constituency_name_en": "Blaenau Gwent Caerffili Rhymni",
-  "contribution_count": 19,
+  "contribution_count": 28,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778583",
+          "item_id": "item-16315-261013-4",
+          "item_title_en": "4. Statement by the Cabinet Minister for Rural Resilience and Sustainability: Winter preparedness: Be flood ready",
+          "lang": "en",
+          "t_start": 10117,
+          "text_english": "Thank you, Cabinet Minister, for your statement today. Flooding remains a real worry for communities across Blaenau Gwent Caerffili Rhymni and the whole of Wales, especially as we see this much more extreme weather happening year on year. Research by the British Red Cross highlights the challenges that are faced by people in vulnerable situations when flooding eventually happens. The research found that most people were completely unprepared when flooding hit. Many were displaced for months from their homes, often living in unsuitable accommodation, struggled to get recovery grants, and almost all of them said that their mental health had been significantly impacted by the flooding. So, I was just wondering what the Welsh Government was going to do to make sure that our most vulnerable communities in Blaenau Gwent Caerffili Rhymni are better prepared for flooding and get the support they need when it happens, especially that mental health support as well in the longer term.",
+          "text_original": "Thank you, Cabinet Minister, for your statement today. Flooding remains a real worry for communities across Blaenau Gwent Caerffili Rhymni and the whole of Wales, especially as we see this much more extreme weather happening year on year. Research by the British Red Cross highlights the challenges that are faced by people in vulnerable situations when flooding eventually happens. The research found that most people were completely unprepared when flooding hit. Many were displaced for months from their homes, often living in unsuitable accommodation, struggled to get recovery grants, and almost all of them said that their mental health had been significantly impacted by the flooding. So, I was just wondering what the Welsh Government was going to do to make sure that our most vulnerable communities in Blaenau Gwent Caerffili Rhymni are better prepared for flooding and get the support they need when it happens, especially that mental health support as well in the longer term.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=10117"
+        }
+      ],
+      "date": "2026-10-13",
+      "record_page_url": "https://record.senedd.wales/Plenary/16315"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-773706",
+          "item_id": "item-16265-260930-6",
+          "item_title_en": "5. Member Debate under Standing Order 11.21(iv): Contaminated land",
+          "lang": "en",
+          "t_start": 7936,
+          "text_english": "Diolch, Ddirprwy Lywydd. Firstly, I would like to thank all the Members who have shown their support for this debate today. I especially want to thank Elwyn Vaughan, who has worked closely with me on this motion and has been a strong advocate for change in his constituency as well. The fact that this motion has support from Members across the Senedd and from different parts of Wales is significant, because contaminated land is not an isolated or local problem. It's a legacy of our shared industrial past, which communities across Wales live with to this day. I look forward to hearing from Members in this debate, and particularly about the experiences of communities in their own constituencies.\n\nFor many people across Wales, our industrial past is not simply something confined to the history books. It's something that communities continue to live with today. We see that with our coal tips, which remain a visible part of the landscape in many of our communities. But the legacy of contaminated land is often much harder to see. Toxic substances left behind by historic industrial activity can remain in our ground for decades after that activity has ended, and in the case of some chemicals, they can be in our ground for generations.\n\nSo, what do we mean when we talk about contaminated land? As Natural Resources Wales explains, land can become contaminated through previous industrial, commercial or landfill uses, including where contamination has migrated from an adjacent site. That can include heavy metals, such as arsenic, cadmium and lead, oils and tars, solvents and gases, alongside radioactive substances. And those consequences can extend beyond the disposal site itself, with contamination potentially affecting human health, animal health and also our wider environment. We've also heard increasing public concerns about persistent chemicals, such as polychlorinated biphenyls, or PCBs—a group of toxic, human-made, hazardous chemicals that have dangerous effects on our environment and our health, which can remain in the environment for long periods of time.",
+          "text_original": "Diolch, Ddirprwy Lywydd. Firstly, I would like to thank all the Members who have shown their support for this debate today. I especially want to thank Elwyn Vaughan, who has worked closely with me on this motion and has been a strong advocate for change in his constituency as well. The fact that this motion has support from Members across the Senedd and from different parts of Wales is significant, because contaminated land is not an isolated or local problem. It's a legacy of our shared industrial past, which communities across Wales live with to this day. I look forward to hearing from Members in this debate, and particularly about the experiences of communities in their own constituencies.\n\nFor many people across Wales, our industrial past is not simply something confined to the history books. It's something that communities continue to live with today. We see that with our coal tips, which remain a visible part of the landscape in many of our communities. But the legacy of contaminated land is often much harder to see. Toxic substances left behind by historic industrial activity can remain in our ground for decades after that activity has ended, and in the case of some chemicals, they can be in our ground for generations.\n\nSo, what do we mean when we talk about contaminated land? As Natural Resources Wales explains, land can become contaminated through previous industrial, commercial or landfill uses, including where contamination has migrated from an adjacent site. That can include heavy metals, such as arsenic, cadmium and lead, oils and tars, solvents and gases, alongside radioactive substances. And those consequences can extend beyond the disposal site itself, with contamination potentially affecting human health, animal health and also our wider environment. We've also heard increasing public concerns about persistent chemicals, such as polychlorinated biphenyls, or PCBs—a group of toxic, human-made, hazardous chemicals that have dangerous effects on our environment and our health, which can remain in the environment for long periods of time.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=7936"
+        },
+        {
+          "id": "contribution-773701",
+          "item_id": "item-16265-260930-6",
+          "item_title_en": "5. Member Debate under Standing Order 11.21(iv): Contaminated land",
+          "lang": "en",
+          "t_start": 8107,
+          "text_english": "The recent BBC documentary Buried, presented by Michael Sheen, has brought renewed attention to this issue of contaminated land, which I very much welcome, and I would like to thank all of those who have been involved in its production. However, we must recognise that, for many communities, these concerns have been raised by them for many years. Campaigners and communities across Wales have been raising these issues with us, and quite a few of them are actually up there in the gallery today.\n\nAnd I've seen the impact of that legacy first-hand in my own constituency. In Ynysddu, Ty Llwyd quarry was actually featured in the recent documentary, with the two Jans. It's a site where local people have been raising concerns for years about the historical disposal of chemical waste, its links to Monsanto's former manufacturing plant in Newport and what that legacy could mean for the surrounding community. There have also been concerns about leachate leaving the former quarry site, particularly following periods of heavy rainfall, and the potential for contaminants to move then into the surrounding area.\n\nI want to take this opportunity to thank Councillor Janine Reid, who is here as well today, and also her colleague Councillor Jan Jones, for the tireless work that they have done to raise these concerns and make sure that their community's voice is heard.\n\nBut, ultimately, Ty Llwyd is about more than what is happening at a former quarry site. It's about the people who live alongside it. For those people, this is not an abstract environmental issue. It's something that's been hanging over the community for years. It's about the place where people live, where their children have grown up and where people go and walk their dogs. It's about being able to feel confident that the place they call home is safe and that their community and its future are being protected.\n\nAs Councillor Reid put it:\n\n'For our community, Ty Llwyd is not an abstract environmental issue—it is something that has been hanging over us for years. The consequences of what has happened here are felt by the people who live alongside it.\n\n'We need the contamination to be properly understood, the risks to our community to be taken seriously, and a clear plan to ensure that Ty Llwyd along with other sites in Wales, do not continue to be a source of concern for local people—with reassurance that our community and its future are being protected.'\n\nAnd I think that quote from Janine gets to the real heart of this issue today. People shouldn't have to live for years with unanswered questions about what may be beneath their feet, what may be moving through the land around them, or what the potential risks could be. They deserve clear information about what is known, a proper understanding of the risks, and confidence that there is a clear plan in place on how we deal with those risks. And, as we know, Ty Llwyd is not unique. Across Wales, there are thousands of sites with a history of industrial or other potentially contaminating activity—from north to south, from Cefn Mawr to Maendy, communities across Wales are living alongside that legacy.\n\nResearch by Friends of the Earth Cymru has identified more than 45,000 potentially contaminated land sites across Wales. And while that gives us some indication of the scale of this issue, it also highlights the fact that we still do not have a clear national picture of potentially contaminated land across Wales. We need to know where these sites are, what contaminants may be present and which pose the greatest risks to our communities and to our environment. And that is why this motion today calls for a national framework for the testing and assessment of potentially contaminated land, prioritising those sites that pose the greatest risks. We need to know where these sites are. We need to understand what contamination may be present and the risks it poses. And we need to make sure that the sites presenting the greatest risks are prioritised.\n\nBut there is also another important issue here, and that is who pays. The principle of 'polluters pay' should be at the heart of this approach. Where the person or the company responsible for pollution can be identified and held responsible, they should contribute towards the costs of putting it right. That burden should not simply fall on our local authorities, and it shouldn't fall on the taxpayers either.\n\nBut. of course, as we know, with historical contamination it's not always straightforward. Some companies may no longer exist. Ownership may have changed. Records may be incomplete. That's why the motion also calls for the UK Government to introduce a dedicated funding mechanism for cases where the costs cannot be recovered, because there has to be a solution for those sites as well. We cannot have a situation where a local authority knows there is a potential problem, but does not have the resources to properly address it. And we cannot expect communities to carry the burden of historical industrial activity simply because the pollution happened many years ago.\n\nLocal authorities, Natural Resources Wales and other organisations are already doing important work in identifying, investigating and managing contaminated land. But they need the resources and the support to fulfil those responsibilities. And communities need confidence that, when they raise concerns, those concerns will be properly investigated.\n\nSo, Dirprwy Lywydd, this motion is ultimately about making sure that the legacy of our industrial past is managed properly and fairly. It's about having a clearer national picture of contaminated land. It's about prioritising the sites where the risks are greatest. It's about giving local authorities the support that they need. And it's about making sure that, where possible, those responsible for pollution contribute to the cost of putting it right.\n\nThe communities living alongside these sites did not create this contamination, so they should not be left with carrying the uncertainty, the potential risks or the costs. For those reasons, Dirprwy Lywydd, I hope Members across the Siambr will support this motion today. Diolch yn fawr.",
+          "text_original": "The recent BBC documentary Buried, presented by Michael Sheen, has brought renewed attention to this issue of contaminated land, which I very much welcome, and I would like to thank all of those who have been involved in its production. However, we must recognise that, for many communities, these concerns have been raised by them for many years. Campaigners and communities across Wales have been raising these issues with us, and quite a few of them are actually up there in the gallery today.\n\nAnd I've seen the impact of that legacy first-hand in my own constituency. In Ynysddu, Ty Llwyd quarry was actually featured in the recent documentary, with the two Jans. It's a site where local people have been raising concerns for years about the historical disposal of chemical waste, its links to Monsanto's former manufacturing plant in Newport and what that legacy could mean for the surrounding community. There have also been concerns about leachate leaving the former quarry site, particularly following periods of heavy rainfall, and the potential for contaminants to move then into the surrounding area.\n\nI want to take this opportunity to thank Councillor Janine Reid, who is here as well today, and also her colleague Councillor Jan Jones, for the tireless work that they have done to raise these concerns and make sure that their community's voice is heard.\n\nBut, ultimately, Ty Llwyd is about more than what is happening at a former quarry site. It's about the people who live alongside it. For those people, this is not an abstract environmental issue. It's something that's been hanging over the community for years. It's about the place where people live, where their children have grown up and where people go and walk their dogs. It's about being able to feel confident that the place they call home is safe and that their community and its future are being protected.\n\nAs Councillor Reid put it:\n\n'For our community, Ty Llwyd is not an abstract environmental issue—it is something that has been hanging over us for years. The consequences of what has happened here are felt by the people who live alongside it.\n\n'We need the contamination to be properly understood, the risks to our community to be taken seriously, and a clear plan to ensure that Ty Llwyd along with other sites in Wales, do not continue to be a source of concern for local people—with reassurance that our community and its future are being protected.'\n\nAnd I think that quote from Janine gets to the real heart of this issue today. People shouldn't have to live for years with unanswered questions about what may be beneath their feet, what may be moving through the land around them, or what the potential risks could be. They deserve clear information about what is known, a proper understanding of the risks, and confidence that there is a clear plan in place on how we deal with those risks. And, as we know, Ty Llwyd is not unique. Across Wales, there are thousands of sites with a history of industrial or other potentially contaminating activity—from north to south, from Cefn Mawr to Maendy, communities across Wales are living alongside that legacy.\n\nResearch by Friends of the Earth Cymru has identified more than 45,000 potentially contaminated land sites across Wales. And while that gives us some indication of the scale of this issue, it also highlights the fact that we still do not have a clear national picture of potentially contaminated land across Wales. We need to know where these sites are, what contaminants may be present and which pose the greatest risks to our communities and to our environment. And that is why this motion today calls for a national framework for the testing and assessment of potentially contaminated land, prioritising those sites that pose the greatest risks. We need to know where these sites are. We need to understand what contamination may be present and the risks it poses. And we need to make sure that the sites presenting the greatest risks are prioritised.\n\nBut there is also another important issue here, and that is who pays. The principle of 'polluters pay' should be at the heart of this approach. Where the person or the company responsible for pollution can be identified and held responsible, they should contribute towards the costs of putting it right. That burden should not simply fall on our local authorities, and it shouldn't fall on the taxpayers either.\n\nBut. of course, as we know, with historical contamination it's not always straightforward. Some companies may no longer exist. Ownership may have changed. Records may be incomplete. That's why the motion also calls for the UK Government to introduce a dedicated funding mechanism for cases where the costs cannot be recovered, because there has to be a solution for those sites as well. We cannot have a situation where a local authority knows there is a potential problem, but does not have the resources to properly address it. And we cannot expect communities to carry the burden of historical industrial activity simply because the pollution happened many years ago.\n\nLocal authorities, Natural Resources Wales and other organisations are already doing important work in identifying, investigating and managing contaminated land. But they need the resources and the support to fulfil those responsibilities. And communities need confidence that, when they raise concerns, those concerns will be properly investigated.\n\nSo, Dirprwy Lywydd, this motion is ultimately about making sure that the legacy of our industrial past is managed properly and fairly. It's about having a clearer national picture of contaminated land. It's about prioritising the sites where the risks are greatest. It's about giving local authorities the support that they need. And it's about making sure that, where possible, those responsible for pollution contribute to the cost of putting it right.\n\nThe communities living alongside these sites did not create this contamination, so they should not be left with carrying the uncertainty, the potential risks or the costs. For those reasons, Dirprwy Lywydd, I hope Members across the Siambr will support this motion today. Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=8107"
+        },
+        {
+          "id": "contribution-773746",
+          "item_id": "item-16265-260930-6",
+          "item_title_en": "5. Member Debate under Standing Order 11.21(iv): Contaminated land",
+          "lang": "en",
+          "t_start": 11440,
+          "text_english": "Diolch, Ddirprwy Lywydd. I'd like to thank everyone who has spoken today and shared their experiences of communities in their constituency. Elwyn, I'd like to thank you for sharing the heartbreaking story of Michael and his friends. I think it really highlighted the impact that contaminated land can have on people's health in the long term.\n\nAndrew, thank you again for being a voice for your constituents and also noting that people are still asking questions 60 years later. We need to make sure that those people have the answers that they've been waiting for. To Ken and Nigel, thank you for speaking about your constituencies in the north-east—I see a lot of similarities in the north-east with where I represent in the south-east as well—and mentioning the impact that it has on local people. The fact that, Nigel, you were listing potential sites I think again highlighted the fact that we need to know where these sites really are.\n\nJanet, again, thank you for your contribution. I completely agree with stronger action on polluters, definitely, and that data collection is key when we talk about contaminated land. Kiera, thank you for speaking about your constituency. I remember seeing that area in the documentary, and what really stood out to me was people were just getting on with their everyday lives, but also very aware that they're, potentially, next to a very, very dangerous piece of land, and the impact that can have on their homes and their children as well.\n\nVikki, thank you for bringing up your constituents. Again, the most concerning thing that you mentioned—and I agree—is that we just don't know what is dumped on these sites. I think that, again, is at the heart of this, and the polluter-pays principle needs to be at the core of what we do here. Also, I take on board what you say about mental health support as well; I think that's really important. Sera, those figures that you said, again, are terrifying, and also highlighting the fact that that data collection is different in every constituency as well—that's something that, again, needs to be addressed by having a clearer national picture.\n\nAnd then, Art, thank you as well for that final contribution. Obviously, as you mentioned, the Monsanto site is in Newport, which is in your constituency, and we need to hold those polluters to account. I agree as well that people need to be compensated for that, if we can get the polluters to pay for what has happened.\n\nListening to the contributions today, I think it's clear that Wales's industrial legacy is still felt by so many communities across our nation. For some, that legacy is visible in the land around them and in the concerns they continue to raise about what may have been left behind. Contaminated land is an important part of that legacy. The substances that are left behind by historical industrial activity can pose, as we've all mentioned, real serious risks to people, to animals and the wider environment. And for communities—a lot of them sat up there in the gallery, again, today—who are living alongside these sites, that uncertainty about what is there, about what risks it may pose and what happens next can be really difficult for them to live with.\n\nI'd like to thank as well the Cabinet Minister for his response. I think that a lot of what you said will be welcomed by many people in this Chamber today, and I know many of the campaigners as well, to see that we're really taking action when it comes to contaminated land and bringing communities along with us. I really do welcome the Welsh Government's commitment to continuing to address Wales's post-industrial legacy when it comes to coal tips as well, and supporting communities that continue to live with its consequences.\n\nBut today's debate has also made clear, I think, that the Welsh Government can't do this alone. The UK Government needs to step up too, for Wales and for the wider UK as well. For generations, Wales's resources and communities played a huge role in powering industrial growth across the UK and beyond. It's only right that the UK Government now supports efforts to help those communities to finally move forward, and that means working with the Welsh Government to make sure that polluters pay, and that, where those costs cannot be recovered, there is dedicated funding available to investigate and remediate contaminated land.\n\nCommunities can no longer wait for this issue to be treated as something that can simply be left for another day. Urgent action is needed to make former industrial land safe, to protect public health and the environment and to address the concerns that communities have been raising for years. For me, this debate comes back to a really simple point: we cannot change what happened in Wales's industrial past, but we can decide what happens next. Communities should not be left carrying the consequences of pollution they did not cause. They should not have to spend years fighting to have their concerns heard. And they should be able to have confidence that, where risks exist, they will be properly investigated and addressed. We must take action and demand fairness for our post-industrial communities, and that's why I encourage Members across this Chamber to support this motion today. Diolch yn fawr.",
+          "text_original": "Diolch, Ddirprwy Lywydd. I'd like to thank everyone who has spoken today and shared their experiences of communities in their constituency. Elwyn, I'd like to thank you for sharing the heartbreaking story of Michael and his friends. I think it really highlighted the impact that contaminated land can have on people's health in the long term.\n\nAndrew, thank you again for being a voice for your constituents and also noting that people are still asking questions 60 years later. We need to make sure that those people have the answers that they've been waiting for. To Ken and Nigel, thank you for speaking about your constituencies in the north-east—I see a lot of similarities in the north-east with where I represent in the south-east as well—and mentioning the impact that it has on local people. The fact that, Nigel, you were listing potential sites I think again highlighted the fact that we need to know where these sites really are.\n\nJanet, again, thank you for your contribution. I completely agree with stronger action on polluters, definitely, and that data collection is key when we talk about contaminated land. Kiera, thank you for speaking about your constituency. I remember seeing that area in the documentary, and what really stood out to me was people were just getting on with their everyday lives, but also very aware that they're, potentially, next to a very, very dangerous piece of land, and the impact that can have on their homes and their children as well.\n\nVikki, thank you for bringing up your constituents. Again, the most concerning thing that you mentioned—and I agree—is that we just don't know what is dumped on these sites. I think that, again, is at the heart of this, and the polluter-pays principle needs to be at the core of what we do here. Also, I take on board what you say about mental health support as well; I think that's really important. Sera, those figures that you said, again, are terrifying, and also highlighting the fact that that data collection is different in every constituency as well—that's something that, again, needs to be addressed by having a clearer national picture.\n\nAnd then, Art, thank you as well for that final contribution. Obviously, as you mentioned, the Monsanto site is in Newport, which is in your constituency, and we need to hold those polluters to account. I agree as well that people need to be compensated for that, if we can get the polluters to pay for what has happened.\n\nListening to the contributions today, I think it's clear that Wales's industrial legacy is still felt by so many communities across our nation. For some, that legacy is visible in the land around them and in the concerns they continue to raise about what may have been left behind. Contaminated land is an important part of that legacy. The substances that are left behind by historical industrial activity can pose, as we've all mentioned, real serious risks to people, to animals and the wider environment. And for communities—a lot of them sat up there in the gallery, again, today—who are living alongside these sites, that uncertainty about what is there, about what risks it may pose and what happens next can be really difficult for them to live with.\n\nI'd like to thank as well the Cabinet Minister for his response. I think that a lot of what you said will be welcomed by many people in this Chamber today, and I know many of the campaigners as well, to see that we're really taking action when it comes to contaminated land and bringing communities along with us. I really do welcome the Welsh Government's commitment to continuing to address Wales's post-industrial legacy when it comes to coal tips as well, and supporting communities that continue to live with its consequences.\n\nBut today's debate has also made clear, I think, that the Welsh Government can't do this alone. The UK Government needs to step up too, for Wales and for the wider UK as well. For generations, Wales's resources and communities played a huge role in powering industrial growth across the UK and beyond. It's only right that the UK Government now supports efforts to help those communities to finally move forward, and that means working with the Welsh Government to make sure that polluters pay, and that, where those costs cannot be recovered, there is dedicated funding available to investigate and remediate contaminated land.\n\nCommunities can no longer wait for this issue to be treated as something that can simply be left for another day. Urgent action is needed to make former industrial land safe, to protect public health and the environment and to address the concerns that communities have been raising for years. For me, this debate comes back to a really simple point: we cannot change what happened in Wales's industrial past, but we can decide what happens next. Communities should not be left carrying the consequences of pollution they did not cause. They should not have to spend years fighting to have their concerns heard. And they should be able to have confidence that, where risks exist, they will be properly investigated and addressed. We must take action and demand fairness for our post-industrial communities, and that's why I encourage Members across this Chamber to support this motion today. Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=11440"
+        }
+      ],
+      "date": "2026-09-30",
+      "record_page_url": "https://record.senedd.wales/Plenary/16265"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-772886",
+          "item_id": "item-16264-260929-3",
+          "item_title_en": "2. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "8. What steps is the Welsh Government taking to ensure that a child’s chances in life are not determined by where they grow up? OQ64588",
+          "text_original": "8. Pa gamau y mae Llywodraeth Cymru yn eu cymryd i sicrhau nad yw cyfleoedd plentyn mewn bywyd yn cael eu pennu gan lle maen nhw'n tyfu i fyny? OQ64588",
+          "tv_url": "http://www.senedd.tv/en/16264"
+        },
+        {
+          "id": "contribution-772891",
+          "item_id": "item-16264-260929-3",
+          "item_title_en": "2. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 3225,
+          "text_english": "Diolch, Brif Weinidog. In Blaenau Gwent, 48.6 per cent of children live in income deprivation. That's the highest rate of any local authority in Wales, and it's just so heartbreaking and unacceptable that in twenty-first century Wales so many of our children are growing up without the opportunities that every child deserves. We know that growing up in poverty can have a lasting impact on a child's health, their education and opportunities, shaping their life chances well into adulthood. \n\nThat's why I really do welcome the ambition of this Plaid Cymru Government to make child poverty a defining mission. It's a moral imperative, because every child deserves the same opportunities in life regardless of where they're born. So, as this Government takes a much needed and ambitious new approach, how will you make sure that this ambition translates into real change for children and families in Blaenau Gwent Caerffili Rhymni?",
+          "text_original": "Diolch, Brif Weinidog. In Blaenau Gwent, 48.6 per cent of children live in income deprivation. That's the highest rate of any local authority in Wales, and it's just so heartbreaking and unacceptable that in twenty-first century Wales so many of our children are growing up without the opportunities that every child deserves. We know that growing up in poverty can have a lasting impact on a child's health, their education and opportunities, shaping their life chances well into adulthood. \n\nThat's why I really do welcome the ambition of this Plaid Cymru Government to make child poverty a defining mission. It's a moral imperative, because every child deserves the same opportunities in life regardless of where they're born. So, as this Government takes a much needed and ambitious new approach, how will you make sure that this ambition translates into real change for children and families in Blaenau Gwent Caerffili Rhymni?",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=3225"
+        }
+      ],
+      "date": "2026-09-29",
+      "record_page_url": "https://record.senedd.wales/Plenary/16264"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771545",
+          "item_id": "item-16263-260923-3",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "cy",
+          "t_start": 7153,
+          "text_english": "I thank the Member for raising this important point. I hope that the Member and also everyone else in this Senedd agrees with me that we also, as Members of the Senedd, must take responsibility for looking after each other, whatever our party. This is especially important when the online world is becoming ever more violent towards politicians, especially young women. Therefore, as I speak about the online world, I'd like to ask what the Commission is doing to support Members of the Senedd and staff who see their well-being being negatively impacted because of the increase that we have all seen in online abuse, especially with AI as well, and deepfakes, just as an example for you.",
+          "text_original": "Diolch i'r Aelod am godi'r cwestiwn pwysig yma. Dwi'n gobeithio bod yr Aelod a hefyd pawb arall yn y Senedd yma'n cytuno â fi bod yn rhaid i ni hefyd fel Aelodau o'r Senedd gymryd cyfrifoldeb i edrych ar ôl ein gilydd, pa bynnag blaid. Mae hyn yn enwedig o bwysig pan mae'r byd ar-lein yn dod yn fwy treisgar tuag at wleidyddion, yn enwedig menywod ifanc. Felly, wrth i fi siarad am y byd ar-lein, hoffwn wybod beth mae'r Comisiwn yn ei wneud er mwyn cefnogi Aelodau o'r Senedd a staff sydd yn gweld eu lles yn cael ei effeithio'n negyddol oherwydd y cynnydd rydyn ni i gyd wedi gweld mewn cam-drin ar-lein, yn enwedig gydag AI hefyd, a deepfakes, jest fel enghraifft i ti.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=7153"
+        },
+        {
+          "id": "contribution-771626",
+          "item_id": "item-16263-260923-6",
+          "item_title_en": "6. Welsh Labour Debate: Further education",
+          "lang": "en",
+          "t_start": 9547,
+          "text_english": "I'm glad also that we have the opportunity today to discuss NEETs, so I thank Lynne Neagle as well for bringing forward this really important debate, but also the chance to discuss why young people find themselves in this position as well. Not too long ago, I raised this issue here in the Senedd, particularly the long-term impact that being out of education, employment or training can have on a young person's chances in life. As one of the youngest Members in the Senedd—I think Ben actually might win the award just above me, just about—this is something that is really personal to me as well.\n\nThe recent Milburn report highlighted the real scale of this challenge, with around 56,000 young people in Wales. Again, that statistic's been bounced around, but that's 17 per cent of all 16 to 24-year-olds not in education, employment or training. \n\nNow, there are lots of reasons why a young person might find themselves in this position. It could be difficulties at school, mental health, child poverty, transport, or simply not having the right support at the right time. In the constituency that I represent, Blaenau Gwent Caerffili Rhymni, we're seeing some of these challenges very clearly. Back in June, I raised this with the First Minister, pointing out that Blaenau Gwent has the highest proportion of residents aged 16 and over with no qualifications in Wales—that's 27.9 per cent—while Caerphilly is fourth among all local authorities.\n\nNow, those figures are really concerning, but what concerns me more is what they can mean for a young person that's growing up in these communities. That's why early intervention really matters as well. We need to support young people before they reach the point of completely disengaging, and I've seen some really good examples of this in my own constituency. A couple of weeks ago, I visited ACT training in Ebbw Vale. They're supporting young people who, for all sorts of reasons, haven't found that typical conventional route from school into further education, training or employment. And I just want to put on the record as well my thanks to all of the staff there for the work that they do, because it was really inspiring, that visit. And there was one thing that really stood out to me that one of the staff said during that visit. They told me that, for some of the young people that they work with, the support that they provide can quite literally be the difference between life and death for that young person, and I think that really brings home again the real seriousness of this situation. Because we can talk about NEET rates and percentages like I did at the start, but, for that young person, this isn't a statistic. It's their life.\n\nFurther education and training have a huge role to play, but there are also wider barriers as well that can make it so hard for a young person to take that next step. If they're struggling with their mental health, they may not be in a position to engage. If they’re growing up in child poverty, like so many do in my constituency, they may not have the money for travel, equipment, or the stability that they need to take up an opportunity, if that opportunity's there. And particularly in the Valleys, transport, as we know, can be a real barrier. You can have a college course, apprenticeship or job available, but if a young person can't get there reliably or affordably that opportunity is, effectively, out of reach for them.\n\nAnd that's why this has to be a cross-Government issue. Education and skills are a big part of the answer, and having those spaces as well is so important. But so are mental health, tackling child poverty, transport, the economy, and support for young people and their families.\n\nNot every young person is going to follow the same path. Some will go to university, some into apprenticeships, some straight into employment, and some might take a little longer to find their route as well, and all of those options are okay. But what matters is that they have the opportunity to find it. A young person growing up in Blaenau Gwent Caerffili Rhymni should have the same chances to succeed as someone growing up anywhere else in Wales, because talent is spread equally across the whole of Wales, but opportunity isn't. Diolch.",
+          "text_original": "I'm glad also that we have the opportunity today to discuss NEETs, so I thank Lynne Neagle as well for bringing forward this really important debate, but also the chance to discuss why young people find themselves in this position as well. Not too long ago, I raised this issue here in the Senedd, particularly the long-term impact that being out of education, employment or training can have on a young person's chances in life. As one of the youngest Members in the Senedd—I think Ben actually might win the award just above me, just about—this is something that is really personal to me as well.\n\nThe recent Milburn report highlighted the real scale of this challenge, with around 56,000 young people in Wales. Again, that statistic's been bounced around, but that's 17 per cent of all 16 to 24-year-olds not in education, employment or training. \n\nNow, there are lots of reasons why a young person might find themselves in this position. It could be difficulties at school, mental health, child poverty, transport, or simply not having the right support at the right time. In the constituency that I represent, Blaenau Gwent Caerffili Rhymni, we're seeing some of these challenges very clearly. Back in June, I raised this with the First Minister, pointing out that Blaenau Gwent has the highest proportion of residents aged 16 and over with no qualifications in Wales—that's 27.9 per cent—while Caerphilly is fourth among all local authorities.\n\nNow, those figures are really concerning, but what concerns me more is what they can mean for a young person that's growing up in these communities. That's why early intervention really matters as well. We need to support young people before they reach the point of completely disengaging, and I've seen some really good examples of this in my own constituency. A couple of weeks ago, I visited ACT training in Ebbw Vale. They're supporting young people who, for all sorts of reasons, haven't found that typical conventional route from school into further education, training or employment. And I just want to put on the record as well my thanks to all of the staff there for the work that they do, because it was really inspiring, that visit. And there was one thing that really stood out to me that one of the staff said during that visit. They told me that, for some of the young people that they work with, the support that they provide can quite literally be the difference between life and death for that young person, and I think that really brings home again the real seriousness of this situation. Because we can talk about NEET rates and percentages like I did at the start, but, for that young person, this isn't a statistic. It's their life.\n\nFurther education and training have a huge role to play, but there are also wider barriers as well that can make it so hard for a young person to take that next step. If they're struggling with their mental health, they may not be in a position to engage. If they’re growing up in child poverty, like so many do in my constituency, they may not have the money for travel, equipment, or the stability that they need to take up an opportunity, if that opportunity's there. And particularly in the Valleys, transport, as we know, can be a real barrier. You can have a college course, apprenticeship or job available, but if a young person can't get there reliably or affordably that opportunity is, effectively, out of reach for them.\n\nAnd that's why this has to be a cross-Government issue. Education and skills are a big part of the answer, and having those spaces as well is so important. But so are mental health, tackling child poverty, transport, the economy, and support for young people and their families.\n\nNot every young person is going to follow the same path. Some will go to university, some into apprenticeships, some straight into employment, and some might take a little longer to find their route as well, and all of those options are okay. But what matters is that they have the opportunity to find it. A young person growing up in Blaenau Gwent Caerffili Rhymni should have the same chances to succeed as someone growing up anywhere else in Wales, because talent is spread equally across the whole of Wales, but opportunity isn't. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=9547"
+        }
+      ],
+      "date": "2026-09-23",
+      "record_page_url": "https://record.senedd.wales/Plenary/16263"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771112",
+          "item_id": "item-16262-260922-6",
+          "item_title_en": "6. Statement by the Cabinet Minister for Rural Resilience and Sustainability: Update on the Deposit-return Scheme",
+          "lang": "en",
+          "t_start": 16091,
+          "text_english": "Thank you to the Cabinet Minister for this update today. I'm really pleased to see Wales continuing to show ambition and lead the way with DRS. We know that at the heart of DRS is tackling litter that we see across the whole of Wales and our communities, improving recycling and protecting our natural environment.\n\nI also welcome the approach that you've taken to the transition. We're asking businesses, local authorities and communities to make a real big change here, so it's right that we really give them the time and the support that they need to get this right. With Exchange for Change now appointed across the four nations, there's a real opportunity here, as you've said, to make the system work much more seamlessly across the whole of the UK.\n\nMy question is this: how will the Welsh Government work with the other nations to make sure that the schemes work well together across the UK, while ensuring Wales can still retain its environmental ambition, particularly around glass and reuse?",
+          "text_original": "Thank you to the Cabinet Minister for this update today. I'm really pleased to see Wales continuing to show ambition and lead the way with DRS. We know that at the heart of DRS is tackling litter that we see across the whole of Wales and our communities, improving recycling and protecting our natural environment.\n\nI also welcome the approach that you've taken to the transition. We're asking businesses, local authorities and communities to make a real big change here, so it's right that we really give them the time and the support that they need to get this right. With Exchange for Change now appointed across the four nations, there's a real opportunity here, as you've said, to make the system work much more seamlessly across the whole of the UK.\n\nMy question is this: how will the Welsh Government work with the other nations to make sure that the schemes work well together across the UK, while ensuring Wales can still retain its environmental ambition, particularly around glass and reuse?",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=16091"
+        }
+      ],
+      "date": "2026-09-22",
+      "record_page_url": "https://record.senedd.wales/Plenary/16262"
+    },
     {
       "contributions": [
         {

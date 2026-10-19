@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,152 @@
   "canonical_name": "Tom Montgomery",
   "constituency_name_cy": "Clwyd",
   "constituency_name_en": "Clwyd",
-  "contribution_count": 17,
+  "contribution_count": 29,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778823",
+          "item_id": "item-16316-261014-2",
+          "item_title_en": "1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "1. What steps is the Welsh Government taking to support the expansion of library services in Clwyd? OQ64690",
+          "text_original": "1. Pa gamau mae Llywodraeth Cymru yn eu cymryd i gefnogi'r gwaith o ehangu gwasanaethau llyfrgell yng Nghlwyd? OQ64690",
+          "tv_url": "http://www.senedd.tv/en/16316"
+        },
+        {
+          "id": "contribution-778827",
+          "item_id": "item-16316-261014-2",
+          "item_title_en": "1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport",
+          "lang": "en",
+          "t_start": 89,
+          "text_english": "Thank you, Minister. A local authority in Clwyd in 2023 resolved to reduce library one-stop shop opening hours by 40 per cent. This was despite over 4,500 residents responding to the consultation—the most that the local authority had seen in years. Ninety per cent of those responses warned that the closure or reduction in hours would limit their ability to visit their local library, and 96 per cent of these submissions submitted negative comments about the proposal. The local authority went ahead because its hands, to a certain extent, were tied financially by the funding formula. The significant change has seen around £360,000 saved but severely limits residents' access to this important service. So, what steps are you taking to support local library services, and what discussions have you had with the Minister for local government on seeing a funding formula that specifically protects library services? Diolch.",
+          "text_original": "Thank you, Minister. A local authority in Clwyd in 2023 resolved to reduce library one-stop shop opening hours by 40 per cent. This was despite over 4,500 residents responding to the consultation—the most that the local authority had seen in years. Ninety per cent of those responses warned that the closure or reduction in hours would limit their ability to visit their local library, and 96 per cent of these submissions submitted negative comments about the proposal. The local authority went ahead because its hands, to a certain extent, were tied financially by the funding formula. The significant change has seen around £360,000 saved but severely limits residents' access to this important service. So, what steps are you taking to support local library services, and what discussions have you had with the Minister for local government on seeing a funding formula that specifically protects library services? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=89"
+        }
+      ],
+      "date": "2026-10-14",
+      "record_page_url": "https://record.senedd.wales/Plenary/16316"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-778569",
+          "item_id": "item-16315-261013-4",
+          "item_title_en": "4. Statement by the Cabinet Minister for Rural Resilience and Sustainability: Winter preparedness: Be flood ready",
+          "lang": "en",
+          "t_start": 10263,
+          "text_english": "Minister, as you know, local authorities have a duty to publish reports of investigations into significant flooding incidents—section 19 reports. Wrexham council has warned that they usually take between nine months and a year to complete their reports. That's similar in Conwy and Flintshire. And in another local authority in our constituency of Clwyd, it can take up to 18 months to complete a section 19 report. Bearing in mind that these reports identify the cause, likelihood of reoccurrence, and any appropriate alleviation measures that can be taken, their importance is key. But the delays around completing these reports don't appear to be addressed in your statement. So, Cabinet Minister, what support will the Welsh Government provide to local authorities to speed up work on section 19 reports? Diolch.",
+          "text_original": "Minister, as you know, local authorities have a duty to publish reports of investigations into significant flooding incidents—section 19 reports. Wrexham council has warned that they usually take between nine months and a year to complete their reports. That's similar in Conwy and Flintshire. And in another local authority in our constituency of Clwyd, it can take up to 18 months to complete a section 19 report. Bearing in mind that these reports identify the cause, likelihood of reoccurrence, and any appropriate alleviation measures that can be taken, their importance is key. But the delays around completing these reports don't appear to be addressed in your statement. So, Cabinet Minister, what support will the Welsh Government provide to local authorities to speed up work on section 19 reports? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=10263"
+        }
+      ],
+      "date": "2026-10-13",
+      "record_page_url": "https://record.senedd.wales/Plenary/16315"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776830",
+          "item_id": "item-16314-261007-7",
+          "item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+          "lang": "en",
+          "t_start": 8712,
+          "text_english": "Thank you, Llywydd. Before having the honour of being elected, I worked with some of the most vulnerable people in north Wales. As a Member of the Senedd, I have continued to champion their cause. Members, we should be deeply concerned that our country has a much higher rate of children in care than in England. In 2025, there were 114 children per 10,000 in the care of Welsh local authorities, compared to 67 children per 10,000 in the care of the local authorities in England. There are currently around 7,000 children in placement. In Wrexham, there are over 300 young people living in such a situation; Swansea has 475 and, in Cardiff, it's nearly 1,000.",
+          "text_original": "Thank you, Llywydd. Before having the honour of being elected, I worked with some of the most vulnerable people in north Wales. As a Member of the Senedd, I have continued to champion their cause. Members, we should be deeply concerned that our country has a much higher rate of children in care than in England. In 2025, there were 114 children per 10,000 in the care of Welsh local authorities, compared to 67 children per 10,000 in the care of the local authorities in England. There are currently around 7,000 children in placement. In Wrexham, there are over 300 young people living in such a situation; Swansea has 475 and, in Cardiff, it's nearly 1,000.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=8712"
+        },
+        {
+          "id": "contribution-776782",
+          "item_id": "item-16314-261007-7",
+          "item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+          "lang": "en",
+          "t_start": 8759,
+          "text_english": "These figures are alarming, but they are not just numbers; they're human beings whose lives can be seriously impacted by their experience. Young people with care experience told the previous Senedd that, for example, some school teachers made it really obvious that they were in care, meaning that they never had a break from their experience of the care system. They told the previous Senedd that they had very little support to help them move on from foster placements and that they lacked the basic skills needed to live independently. \n\nWe know that care leavers are underrepresented at universities and are on what Crisis describes as a 'predictable route' into homelessness. According to the National Society for the Prevention of Cruelty to Children, they are approximately four times more likely to have a mental health need compared to children living with their birth families. Overwhelmingly, professionals and academics have made it clear that corporate parenting has not been achieving for care-experienced children and young people.\n\nParents are being failed too. Research shows that parents who go through care proceedings once are more likely to find themselves in proceedings again with subsequent children. Forty-seven per cent of newborn babies subject to care proceedings in England were born to mothers who had previously had children subject to care proceedings. The Nuffield Family Justice Observatory found that mothers and fathers who are frequently involved in care proceedings are dealing with complex and unresolved trauma, which is compounded by the court experience. The adversarial proceedings, formal language and impersonal process compound anxieties and triggers self-protective behaviours, which negatively impact the relationship between the professional and the family unit. Parents feel that they are not being listened to. As the independent review of children's social care in 2022 found, court proceedings are, by their nature, adversarial and have a high human and economic cost.\n\nMembers, it doesn't have to be like this. There is another way: family drug and alcohol courts. How are these different? I want to answer by quoting the words of a parent who had previously had children removed, comparing the FDAC process to the standard process. Of the standard process, she said, 'We felt like we had no voice and that we were powerless, and that we were just being accused of things and that there was no opportunity to defend ourselves.' Speaking of the family drug and alcohol court process, the same parent said, 'It feels like we have the power to actually have our say, get things done, have our side heard, and then they try to work with us to improve things and meet in the middle.'\n\nUnlike standard proceedings, FDAC uses a trauma-informed approach, which includes listening to parents without judgment, focusing on parents' strengths and the resources that they currently have available to them, and allowing flexibility. Parents are given a key worker from the FDAC team and a judge who provides them with support and a problem-solving approach. There is weekly substance misuse testing, which involves the parents, and fortnightly non-lawyer reviews with consistent legal monitoring that creates a forum for judges and professionals to problem solve with the parents, set clear goals and delegate tasks for the following two weeks. Parents have a multidisciplinary team to support them, who help them to gain access to services and agencies. They provide transparent information and set up multiple sessions per week to address the intervention plan.\n\nClearly, it’s a very different model to the standard process, but how do we get families there? One challenge that arose from the Welsh trial was that the number of referrals was hampered by confusion over the threshold. Professionals were thought to be pre-screening referrals themselves and only referring if parents' substance misuse was particularly severe. Some legal representatives were under the impression that the local authority was responsible for determining which cases met the threshold, while the judge suggested that there was a general lack of awareness and exposure to the model.\n\nThat lack of awareness can be overcome when we follow the model used in London, which is that the usual threshold for proceedings applies, meaning that if a family is not selected for the model, they will enter the usual family proceedings court instead, and a family will qualify if they have a history of parental drug or alcohol misuse. So, now that we know what these courts are, I want to show you why the FDACs are a more effective model.\n\nThe evaluation of the family drug and alcohol court in Wales found that the number of parents misusing substances decreased from 83 per cent at the start of the process to 54 per cent. The number of parents misusing alcohol, thanks to the proceedings, reduced from 91 per cent to 60 per cent. Not perfect, but a marked improvement. The number of parents recorded as misusing drugs fell from 94 per cent to 51 per cent. Those supported by the experience of family drug and alcohol courts in England and, more recently, the national FDAC impact evaluation, found that a higher proportion of parents stopped misusing drugs or alcohol by the end of the proceedings. The pilot in Wales showed that the number of children in the care of one or both of their parents more than doubled from the start of the proceedings to the end. That is supported, again, by a study in England, which found that 52 per cent of children were returned to their parents, compared to only 13 per cent in the standard process. The family teams almost halved the number of children being placed in local authority care. That's more family units kept as one.\n\nThere are other proven benefits too. Unsurprisingly, feedback from parents is overwhelmingly positive. The Bedfordshire team evaluation saw parents describe the process as non-judgmental and inclusive, whilst parents in London described the system as transformative. And here in Wales, a parent who was reunited with their child at the end of the proceedings described the service as a lifesaver and said, 'My life's back on track because of the FDAC team. I can't recommend them enough.' 'I can't recommend them enough'—what a contrast to how parents feel about the standard process.\n\nIt is a serious failure that whilst England has 13 of these specialist teams, we don't have a single one in Wales. The current situation goes against recommendation 35 of the 'Justice in Wales for the People of Wales' report. It goes against the recommendation in the evaluation of the Welsh pilot. It goes against the best interests of children, young people and their parents. There is no reason why this injustice cannot be stopped. This is confirmed when also considering the economic case.\n\nThe Centre for Justice Innovation and Mutual Ventures' economic analysis shows that, for every £1 spent on FDAC operations, £3 is generated in savings to the taxpayer. A reduction in the cost of children's services needs to be taken extremely seriously, especially when we consider that overspends in Welsh local authorities arising from children's social care last year alone came to nearly £30 million. Bearing in mind the benefit to the taxpayer, the benefit to some of our most vulnerable children and the benefit to some of our most vulnerable parents, I urge the Senedd to back my motion today. Let us together create a care system that builds, not breaks families. Thank you.",
+          "text_original": "These figures are alarming, but they are not just numbers; they're human beings whose lives can be seriously impacted by their experience. Young people with care experience told the previous Senedd that, for example, some school teachers made it really obvious that they were in care, meaning that they never had a break from their experience of the care system. They told the previous Senedd that they had very little support to help them move on from foster placements and that they lacked the basic skills needed to live independently. \n\nWe know that care leavers are underrepresented at universities and are on what Crisis describes as a 'predictable route' into homelessness. According to the National Society for the Prevention of Cruelty to Children, they are approximately four times more likely to have a mental health need compared to children living with their birth families. Overwhelmingly, professionals and academics have made it clear that corporate parenting has not been achieving for care-experienced children and young people.\n\nParents are being failed too. Research shows that parents who go through care proceedings once are more likely to find themselves in proceedings again with subsequent children. Forty-seven per cent of newborn babies subject to care proceedings in England were born to mothers who had previously had children subject to care proceedings. The Nuffield Family Justice Observatory found that mothers and fathers who are frequently involved in care proceedings are dealing with complex and unresolved trauma, which is compounded by the court experience. The adversarial proceedings, formal language and impersonal process compound anxieties and triggers self-protective behaviours, which negatively impact the relationship between the professional and the family unit. Parents feel that they are not being listened to. As the independent review of children's social care in 2022 found, court proceedings are, by their nature, adversarial and have a high human and economic cost.\n\nMembers, it doesn't have to be like this. There is another way: family drug and alcohol courts. How are these different? I want to answer by quoting the words of a parent who had previously had children removed, comparing the FDAC process to the standard process. Of the standard process, she said, 'We felt like we had no voice and that we were powerless, and that we were just being accused of things and that there was no opportunity to defend ourselves.' Speaking of the family drug and alcohol court process, the same parent said, 'It feels like we have the power to actually have our say, get things done, have our side heard, and then they try to work with us to improve things and meet in the middle.'\n\nUnlike standard proceedings, FDAC uses a trauma-informed approach, which includes listening to parents without judgment, focusing on parents' strengths and the resources that they currently have available to them, and allowing flexibility. Parents are given a key worker from the FDAC team and a judge who provides them with support and a problem-solving approach. There is weekly substance misuse testing, which involves the parents, and fortnightly non-lawyer reviews with consistent legal monitoring that creates a forum for judges and professionals to problem solve with the parents, set clear goals and delegate tasks for the following two weeks. Parents have a multidisciplinary team to support them, who help them to gain access to services and agencies. They provide transparent information and set up multiple sessions per week to address the intervention plan.\n\nClearly, it’s a very different model to the standard process, but how do we get families there? One challenge that arose from the Welsh trial was that the number of referrals was hampered by confusion over the threshold. Professionals were thought to be pre-screening referrals themselves and only referring if parents' substance misuse was particularly severe. Some legal representatives were under the impression that the local authority was responsible for determining which cases met the threshold, while the judge suggested that there was a general lack of awareness and exposure to the model.\n\nThat lack of awareness can be overcome when we follow the model used in London, which is that the usual threshold for proceedings applies, meaning that if a family is not selected for the model, they will enter the usual family proceedings court instead, and a family will qualify if they have a history of parental drug or alcohol misuse. So, now that we know what these courts are, I want to show you why the FDACs are a more effective model.\n\nThe evaluation of the family drug and alcohol court in Wales found that the number of parents misusing substances decreased from 83 per cent at the start of the process to 54 per cent. The number of parents misusing alcohol, thanks to the proceedings, reduced from 91 per cent to 60 per cent. Not perfect, but a marked improvement. The number of parents recorded as misusing drugs fell from 94 per cent to 51 per cent. Those supported by the experience of family drug and alcohol courts in England and, more recently, the national FDAC impact evaluation, found that a higher proportion of parents stopped misusing drugs or alcohol by the end of the proceedings. The pilot in Wales showed that the number of children in the care of one or both of their parents more than doubled from the start of the proceedings to the end. That is supported, again, by a study in England, which found that 52 per cent of children were returned to their parents, compared to only 13 per cent in the standard process. The family teams almost halved the number of children being placed in local authority care. That's more family units kept as one.\n\nThere are other proven benefits too. Unsurprisingly, feedback from parents is overwhelmingly positive. The Bedfordshire team evaluation saw parents describe the process as non-judgmental and inclusive, whilst parents in London described the system as transformative. And here in Wales, a parent who was reunited with their child at the end of the proceedings described the service as a lifesaver and said, 'My life's back on track because of the FDAC team. I can't recommend them enough.' 'I can't recommend them enough'—what a contrast to how parents feel about the standard process.\n\nIt is a serious failure that whilst England has 13 of these specialist teams, we don't have a single one in Wales. The current situation goes against recommendation 35 of the 'Justice in Wales for the People of Wales' report. It goes against the recommendation in the evaluation of the Welsh pilot. It goes against the best interests of children, young people and their parents. There is no reason why this injustice cannot be stopped. This is confirmed when also considering the economic case.\n\nThe Centre for Justice Innovation and Mutual Ventures' economic analysis shows that, for every £1 spent on FDAC operations, £3 is generated in savings to the taxpayer. A reduction in the cost of children's services needs to be taken extremely seriously, especially when we consider that overspends in Welsh local authorities arising from children's social care last year alone came to nearly £30 million. Bearing in mind the benefit to the taxpayer, the benefit to some of our most vulnerable children and the benefit to some of our most vulnerable parents, I urge the Senedd to back my motion today. Let us together create a care system that builds, not breaks families. Thank you.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=8759"
+        },
+        {
+          "id": "contribution-776877",
+          "item_id": "item-16314-261007-7",
+          "item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+          "lang": "en",
+          "t_start": 10908,
+          "text_english": "Diolch. I'm grateful to everyone who has spoken today, to those Members across parties who have given their time to understand what is quite a complex policy area and have shown willingness to work with me to bring this motion forward today to try and create positive change for Welsh children, parents and families in crisis.\n\nAs I referred to in my opening remarks, the Centre for Justice Innovation undertook a financial analysis of the FDACs in 2024. That analysis demonstrates that FDACs generate significant savings in comparison to standard care proceedings, as well as being a better way to help children be cared for safely by their parents.\n\nThe work shows that FDACs is an invest-to-save option, offering local authorities the possibility of significant revenue savings. The potential fiscal benefit is incredible: for every £1 we spend on family, drug and alcohol courts, £3.20 of net savings can be returned. Is it worth investing now to save in the near future? I think so. This is especially true when we consider the better impact of FDACs have on people and children's lives: keeping families together as one unit, drug misuse down, alcohol misuse down, mental health improved and case reoccurrence down. I've heard from several Members and I'll do my best to mention you all.\n\nWe heard from Sarah Cooper-Lesadd. Thank you for sharing your personal experience, as you have done time and time again in this Chamber. The lived experience that you bring is really beneficial to the debate, and thank you for highlighting the impact that the Welsh model had on families and cases. While I accept the point that you're trying to make about the powers of this place, what I will say is we don't need more powers. We can do this, because we've already done this. We've already created the trial and spent the money. So, I'm concerned that the point that you're making risks dragging us into a constitutional debate with Westminster instead of getting on and actually bringing forward this change for families and young people.\n\nNatasha, thank you so much for your powerful contribution and highlighting the impact that these courts have, not just on the family but on bringing down substance misuse and for the potential savings that we can see for local authorities—up to £10,000 per case.\n\nLouise Emery, thank you for highlighting that the courts are waiting for us. They're ready to go; we've got the model set. We just need to be brave enough to make the decision here today. \n\nJane Dodds reminded us of the human impact that we can all have by supporting this motion. And Art, thank you for reminding us of who is at the heart of this debate: it is the children that we're all tasked to care for.\n\nI want to be clear with the Senedd, there were several weaknesses in the Cardiff and Vale trial court. The economic analysis was outside of its scope. The FDAC team was undermined at the start by a lack of space to operate from. A vacancy for a qualified social worker wasn't filled, the referral pathway into the court was not clear. A low number of team members resulted in fewer cases being taken on and the ambiguity around the future of the pilot caused serious uncertainty as to whether additional cases could be accepted. All of those problems can be overcome by developing and implementing a better trial in Wales.\n\nMinister, thank you for once again speaking so passionately about the people that you are charged with protecting. But as I said to Sarah, we have the power to do this. We can do this. We have the money to do this. Getting dragged into a wider debate about the constitutional future of Wales may be laudable to some, but it risks delaying a plan that has cross-party support now, that has a model that works now and that we have the evidence to prove can make a real difference now. The evidence we've heard in this Chamber today, and that is to be found in the family drug and alcohol courts across in England, should make us all realise that creating them in Wales is worthwhile. The proposal will enable us to build a system that builds, not breaks, families, and I hope I can count on Members' support today. Diolch.",
+          "text_original": "Diolch. I'm grateful to everyone who has spoken today, to those Members across parties who have given their time to understand what is quite a complex policy area and have shown willingness to work with me to bring this motion forward today to try and create positive change for Welsh children, parents and families in crisis.\n\nAs I referred to in my opening remarks, the Centre for Justice Innovation undertook a financial analysis of the FDACs in 2024. That analysis demonstrates that FDACs generate significant savings in comparison to standard care proceedings, as well as being a better way to help children be cared for safely by their parents.\n\nThe work shows that FDACs is an invest-to-save option, offering local authorities the possibility of significant revenue savings. The potential fiscal benefit is incredible: for every £1 we spend on family, drug and alcohol courts, £3.20 of net savings can be returned. Is it worth investing now to save in the near future? I think so. This is especially true when we consider the better impact of FDACs have on people and children's lives: keeping families together as one unit, drug misuse down, alcohol misuse down, mental health improved and case reoccurrence down. I've heard from several Members and I'll do my best to mention you all.\n\nWe heard from Sarah Cooper-Lesadd. Thank you for sharing your personal experience, as you have done time and time again in this Chamber. The lived experience that you bring is really beneficial to the debate, and thank you for highlighting the impact that the Welsh model had on families and cases. While I accept the point that you're trying to make about the powers of this place, what I will say is we don't need more powers. We can do this, because we've already done this. We've already created the trial and spent the money. So, I'm concerned that the point that you're making risks dragging us into a constitutional debate with Westminster instead of getting on and actually bringing forward this change for families and young people.\n\nNatasha, thank you so much for your powerful contribution and highlighting the impact that these courts have, not just on the family but on bringing down substance misuse and for the potential savings that we can see for local authorities—up to £10,000 per case.\n\nLouise Emery, thank you for highlighting that the courts are waiting for us. They're ready to go; we've got the model set. We just need to be brave enough to make the decision here today. \n\nJane Dodds reminded us of the human impact that we can all have by supporting this motion. And Art, thank you for reminding us of who is at the heart of this debate: it is the children that we're all tasked to care for.\n\nI want to be clear with the Senedd, there were several weaknesses in the Cardiff and Vale trial court. The economic analysis was outside of its scope. The FDAC team was undermined at the start by a lack of space to operate from. A vacancy for a qualified social worker wasn't filled, the referral pathway into the court was not clear. A low number of team members resulted in fewer cases being taken on and the ambiguity around the future of the pilot caused serious uncertainty as to whether additional cases could be accepted. All of those problems can be overcome by developing and implementing a better trial in Wales.\n\nMinister, thank you for once again speaking so passionately about the people that you are charged with protecting. But as I said to Sarah, we have the power to do this. We can do this. We have the money to do this. Getting dragged into a wider debate about the constitutional future of Wales may be laudable to some, but it risks delaying a plan that has cross-party support now, that has a model that works now and that we have the evidence to prove can make a real difference now. The evidence we've heard in this Chamber today, and that is to be found in the family drug and alcohol courts across in England, should make us all realise that creating them in Wales is worthwhile. The proposal will enable us to build a system that builds, not breaks, families, and I hope I can count on Members' support today. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=10908"
+        },
+        {
+          "id": "contribution-777016",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "en",
+          "t_start": 17680,
+          "text_english": "Diolch, Lywydd. May I begin by thanking all Members across the Chamber who have contributed to a lively debate? Let me focus immediately on the people at the heart of this debate: those whose interests Reform believe are in urgent need of our support, the Welsh people.\n\nAt the end of the summer, 1,954 homeless people, including 102 children, were living in temporary hostel accommodation. A further 2,539 people, including 268 children, were in hotels and bed and breakfasts. That is nearly 4,500 people in Wales without a proper home of their own, nearly 400 children without the security that a proper home provides, and in too many cases without a bedroom of their own.\n\nThose are not abstract figures, they are the families whose lives are put on hold because our social housing system is failing to meet their need. Housing is a finite resource—there are only so many homes available at any one time. In the midst of a housing crisis, it is the duty of this Senedd, of the Welsh Government, to decide fairly who should get priority. The position of Reform is plain: Welsh homes should go to Welsh people first, and social housing should serve people with the longest established link to Wales and the United Kingdom. But let me also be clear about what this means: EU nationals who have been granted settled status here have a lawful right to reside here. Reform respects that, and they would not be the target of this policy. Our concern is with a system that can put recent overseas arrivals ahead of the British and Welsh families who have lived, worked, paid taxes and raised their children here, only to find themselves in temporary accommodation or unable to secure a home in their own town. We must not allow subsidised social housing to become a further incentive for people to come here illegally from abroad. At a time when Welsh families are living in hostels, hotels and B&Bs, the first duty of Government must be to the people it is elected to serve.",
+          "text_original": "Diolch, Lywydd. May I begin by thanking all Members across the Chamber who have contributed to a lively debate? Let me focus immediately on the people at the heart of this debate: those whose interests Reform believe are in urgent need of our support, the Welsh people.\n\nAt the end of the summer, 1,954 homeless people, including 102 children, were living in temporary hostel accommodation. A further 2,539 people, including 268 children, were in hotels and bed and breakfasts. That is nearly 4,500 people in Wales without a proper home of their own, nearly 400 children without the security that a proper home provides, and in too many cases without a bedroom of their own.\n\nThose are not abstract figures, they are the families whose lives are put on hold because our social housing system is failing to meet their need. Housing is a finite resource—there are only so many homes available at any one time. In the midst of a housing crisis, it is the duty of this Senedd, of the Welsh Government, to decide fairly who should get priority. The position of Reform is plain: Welsh homes should go to Welsh people first, and social housing should serve people with the longest established link to Wales and the United Kingdom. But let me also be clear about what this means: EU nationals who have been granted settled status here have a lawful right to reside here. Reform respects that, and they would not be the target of this policy. Our concern is with a system that can put recent overseas arrivals ahead of the British and Welsh families who have lived, worked, paid taxes and raised their children here, only to find themselves in temporary accommodation or unable to secure a home in their own town. We must not allow subsidised social housing to become a further incentive for people to come here illegally from abroad. At a time when Welsh families are living in hostels, hotels and B&Bs, the first duty of Government must be to the people it is elected to serve.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=17680"
+        },
+        {
+          "id": "contribution-776970",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "en",
+          "t_start": 17819,
+          "text_english": "We have heard important contributions from colleagues. Joe Martin offered a prospect that I'm sure many on other sides of the Chamber would be pleased to see: him moving to China. [Laughter.] However, should he move there, he would have to find his own house. He would not be housed at the cost of the Chinese state. Our moral responsibility is to put the Welsh and British people first. John Clark rightly highlighted that it is unfair that a person who has paid taxes to our country for decades can be waiting longer for a house than those who have just arrived. And Francesca O'Brien shared some serious—[Interruption.] I think we've had quite enough interventions today, thank you. She shared some serious figures highlighting the scale of this issue and a lack of transparency from some local authorities.\n\nI'd like to take a moment to respond to some of the other comments that have been made, starting off with the leader of Welsh Labour. For clarity, Suella Braverman was born in London and is a British citizen, so would be entitled to social housing under this policy. Peter—[Interruption.] Peter, as I've just clarified, EU citizens are not impacted by this policy when they have settled status, although I must say it is hard to take lessons from the Tories about seriousness on immigration. Kiera, the right to buy—[Interruption.] The right to buy gives people the chance to own their own home, one of the greatest equalisers of wealth this country has ever seen. Now, can it be done differently? Of course it can be done differently. But selling one social house can give you the equity to build three more. To simply say that we will not allow—[Interruption.] To simply say that we will not allow working families the opportunity to get on the housing ladder and own their own home is nonsensical. Jayne, it is not divisive to say that the Welsh Government should put the Welsh people first. And to the leader of the Welsh Greens, there is nothing more ugly and hateful than your party declaring that believing that the state of Israel can exist is racist.\n\nOf course, reforming allocations alone is not the whole answer. We need to build more homes, but here, too, Wales is being failed. Minister, you spoke about the importance of house building. However, we have exchanged very recently frustrations with the planning system. Planning decisions take months and sometimes years, holding up investment and house building. Rather than acting now to relieve the pressure on planning departments, the Welsh Government has embarked on a three-year review of the national planning framework. Wales cannot afford another three years adrift. The backlog is already severe. The Bevan Foundation estimates that Wales is short of some 9,600 homes. That is the equivalent of building another Llandudno, another Bangor, nearly building a whole other Rhyl. These homes were needed yesterday, before we even start to begin to meet today's targets.\n\nThat is why Reform wants practical planning reforms, making it easier to create desperately needed homes above high-street shops, seriously restricting the conversion of hotels into HMOs and relieving the burden on overwhelmed planning and housing teams. But while we build for the future, we must also be honest about the homes that we have now and who should have first call on them. This motion proposes a sensible and proportionate measure. It will help ensure that the scarce resource of social homes are available first to the people with the strongest claim on them. This is a principle that this Senedd should be able to support, and I urge Members to do so. Diolch.",
+          "text_original": "We have heard important contributions from colleagues. Joe Martin offered a prospect that I'm sure many on other sides of the Chamber would be pleased to see: him moving to China. [Laughter.] However, should he move there, he would have to find his own house. He would not be housed at the cost of the Chinese state. Our moral responsibility is to put the Welsh and British people first. John Clark rightly highlighted that it is unfair that a person who has paid taxes to our country for decades can be waiting longer for a house than those who have just arrived. And Francesca O'Brien shared some serious—[Interruption.] I think we've had quite enough interventions today, thank you. She shared some serious figures highlighting the scale of this issue and a lack of transparency from some local authorities.\n\nI'd like to take a moment to respond to some of the other comments that have been made, starting off with the leader of Welsh Labour. For clarity, Suella Braverman was born in London and is a British citizen, so would be entitled to social housing under this policy. Peter—[Interruption.] Peter, as I've just clarified, EU citizens are not impacted by this policy when they have settled status, although I must say it is hard to take lessons from the Tories about seriousness on immigration. Kiera, the right to buy—[Interruption.] The right to buy gives people the chance to own their own home, one of the greatest equalisers of wealth this country has ever seen. Now, can it be done differently? Of course it can be done differently. But selling one social house can give you the equity to build three more. To simply say that we will not allow—[Interruption.] To simply say that we will not allow working families the opportunity to get on the housing ladder and own their own home is nonsensical. Jayne, it is not divisive to say that the Welsh Government should put the Welsh people first. And to the leader of the Welsh Greens, there is nothing more ugly and hateful than your party declaring that believing that the state of Israel can exist is racist.\n\nOf course, reforming allocations alone is not the whole answer. We need to build more homes, but here, too, Wales is being failed. Minister, you spoke about the importance of house building. However, we have exchanged very recently frustrations with the planning system. Planning decisions take months and sometimes years, holding up investment and house building. Rather than acting now to relieve the pressure on planning departments, the Welsh Government has embarked on a three-year review of the national planning framework. Wales cannot afford another three years adrift. The backlog is already severe. The Bevan Foundation estimates that Wales is short of some 9,600 homes. That is the equivalent of building another Llandudno, another Bangor, nearly building a whole other Rhyl. These homes were needed yesterday, before we even start to begin to meet today's targets.\n\nThat is why Reform wants practical planning reforms, making it easier to create desperately needed homes above high-street shops, seriously restricting the conversion of hotels into HMOs and relieving the burden on overwhelmed planning and housing teams. But while we build for the future, we must also be honest about the homes that we have now and who should have first call on them. This motion proposes a sensible and proportionate measure. It will help ensure that the scarce resource of social homes are available first to the people with the strongest claim on them. This is a principle that this Senedd should be able to support, and I urge Members to do so. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=17819"
+        }
+      ],
+      "date": "2026-10-07",
+      "record_page_url": "https://record.senedd.wales/Plenary/16314"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-772804",
+          "item_id": "item-16264-260929-2",
+          "item_title_en": "1. Nominations for a Committee Chair",
+          "lang": "en",
+          "t_start": 152,
+          "text_english": "Can I second, Llywydd?",
+          "text_original": "Can I second, Llywydd?",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=152"
+        },
+        {
+          "id": "contribution-772905",
+          "item_id": "item-16264-260929-3",
+          "item_title_en": "2. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "11. What assessment has the First Minister undertaken regarding the impact of the nation of sanctuary policy on housing availability in north Wales? OQ64566",
+          "text_original": "11. Pa asesiad mae'r Prif Weinidog wedi'i wneud o effaith polisi cenedl noddfa ar faint o dai sydd ar gael yng ngogledd Cymru? OQ64566",
+          "tv_url": "http://www.senedd.tv/en/16264"
+        },
+        {
+          "id": "contribution-772911",
+          "item_id": "item-16264-260929-3",
+          "item_title_en": "2. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 3786,
+          "text_english": "Thank you, First Minister. The Home Office has written to me confirming that around 70 homes are currently being used for asylum seekers in north-east Wales. That's up 25 per cent on 2025-26. Now, 283 people are housed in this area—that's 43 more than the same time last year. And now the Home Office is looking to move more in. Opposition in villages and towns across north-east Wales is strong, and there is no surprise in that when you consider that 650 local people are still being housed in hotels and bed and breakfasts. I was shocked when a county council in Clwyd explained to me that, often, asylum seekers are moved in without prior notification to the local authority—they're finding out after the fact. First Minister, do you agree with me that local authorities should be consulted before asylum seekers are moved in, and that locals should always be prioritised for housing?",
+          "text_original": "Thank you, First Minister. The Home Office has written to me confirming that around 70 homes are currently being used for asylum seekers in north-east Wales. That's up 25 per cent on 2025-26. Now, 283 people are housed in this area—that's 43 more than the same time last year. And now the Home Office is looking to move more in. Opposition in villages and towns across north-east Wales is strong, and there is no surprise in that when you consider that 650 local people are still being housed in hotels and bed and breakfasts. I was shocked when a county council in Clwyd explained to me that, often, asylum seekers are moved in without prior notification to the local authority—they're finding out after the fact. First Minister, do you agree with me that local authorities should be consulted before asylum seekers are moved in, and that locals should always be prioritised for housing?",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=3786"
+        },
+        {
+          "id": "contribution-773019",
+          "item_id": "item-16264-260929-6",
+          "item_title_en": "5. Statement by the Cabinet Minister for Local Government, Housing and Planning: The Revision of the National Development Framework and National Conversation",
+          "lang": "en",
+          "t_start": 9830,
+          "text_english": "Can I thank the Minister for bringing this statement forward? But, Members, this revision will include at least seven different reports, 10 different assessments, and is not expected to be completed until the winter of 2029, a matter of months before the next Senedd election and, possibly, a change of Government, who may then choose to start this process all over again. This timeline is symbolic of the planning system in Wales—broken, costly and painfully slow. For example, planning rules require councils to decide on applications within 91 days, but the average wait for a council in my constituency is 223 days. Minister, I often hear from businesses across Wales who point to costly and long waits linked to the planning process as a significant barrier to investment in Wales. Would it not be better to get a grip on the planning crisis at Welsh planning authorities before starting years of work on changing the national framework? We need action now, not a three-year wait. Thank you.",
+          "text_original": "Can I thank the Minister for bringing this statement forward? But, Members, this revision will include at least seven different reports, 10 different assessments, and is not expected to be completed until the winter of 2029, a matter of months before the next Senedd election and, possibly, a change of Government, who may then choose to start this process all over again. This timeline is symbolic of the planning system in Wales—broken, costly and painfully slow. For example, planning rules require councils to decide on applications within 91 days, but the average wait for a council in my constituency is 223 days. Minister, I often hear from businesses across Wales who point to costly and long waits linked to the planning process as a significant barrier to investment in Wales. Would it not be better to get a grip on the planning crisis at Welsh planning authorities before starting years of work on changing the national framework? We need action now, not a three-year wait. Thank you.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=9830"
+        }
+      ],
+      "date": "2026-09-29",
+      "record_page_url": "https://record.senedd.wales/Plenary/16264"
+    },
     {
       "contributions": [
         {

@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,86 @@
   "canonical_name": "Paul Rock",
   "constituency_name_cy": "Caerdydd Ffynnon Taf",
   "constituency_name_en": "Caerdydd Ffynnon Taf",
-  "contribution_count": 18,
+  "contribution_count": 24,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-779032",
+          "item_id": "item-16316-261014-6",
+          "item_title_en": "5. Welsh Labour Debate: Palliative and end-of-life care",
+          "lang": "en",
+          "t_start": 8737,
+          "text_english": "Last night—or last week, rather—I was delighted to visit City Hospice in my constituency. They do fantastic work supporting people with terminal illnesses and their families. They provide care to people within their own homes, helping to keep them connected with their local communities and their support networks for as long as possible, but they also have an amazing drop-in centre in Whitchurch, with beautiful gardens and space for people to take part in meaningful activities, allowing people to keep on living well right to the end of their lives.\n\nThey told me about a man they supported who was understandably feeling very low and said that one of the things he was really missing was the opportunity to chat about football, so they created a sports bar where people could drink alcohol-free beer, watch football matches and talk about them, often with a sporting hero as a special guest. I confess that's not something that appeals to me at all personally, but the sports bar has now become one of their most popular activities. This is the real difference that hospices make in people's lives, but this vital work is at risk without sustainable funding and strong collaborative working with local health boards.\n\nThe previous Government took steps towards developing a hospice commissioning framework to ensure consistent good practice across Wales. However, I understand there are still significant variations across different areas. The Welsh hospice sector needs an additional £5.5 million of funding this year and an additional £8.2 million of funding in each subsequent year of the Senedd term. This works out at around, as people have said, £30 million for the whole of this Senedd term, which is not a great deal amount of money considering the hugely beneficial impacts for our communities.\n\nOn average, Welsh hospices get only around a third of their income from statutory sources and must fundraise for the rest from private donors, which is extremely difficult in the context of the cost-of-living crisis. Any additional financial help for hospices would of course be welcomed, but long-term certainty in both the contracts and grant funding, so that staff and service users can be confident their vital services will be there whenever they are needed. Predictable, multi-year recurring funding allows hospices to better plan ahead and supports their highly skilled staff with a huge number of different medical specialisms embedded within their own local communities.\n\nI'm glad that we all agree that the incredible work of our hospices and palliative care workers is not just worth celebrating in this debate this afternoon, but also worthy of fair and sustainable funding in recognition of their life-affirming work. Diolch.",
+          "text_original": "Last night—or last week, rather—I was delighted to visit City Hospice in my constituency. They do fantastic work supporting people with terminal illnesses and their families. They provide care to people within their own homes, helping to keep them connected with their local communities and their support networks for as long as possible, but they also have an amazing drop-in centre in Whitchurch, with beautiful gardens and space for people to take part in meaningful activities, allowing people to keep on living well right to the end of their lives.\n\nThey told me about a man they supported who was understandably feeling very low and said that one of the things he was really missing was the opportunity to chat about football, so they created a sports bar where people could drink alcohol-free beer, watch football matches and talk about them, often with a sporting hero as a special guest. I confess that's not something that appeals to me at all personally, but the sports bar has now become one of their most popular activities. This is the real difference that hospices make in people's lives, but this vital work is at risk without sustainable funding and strong collaborative working with local health boards.\n\nThe previous Government took steps towards developing a hospice commissioning framework to ensure consistent good practice across Wales. However, I understand there are still significant variations across different areas. The Welsh hospice sector needs an additional £5.5 million of funding this year and an additional £8.2 million of funding in each subsequent year of the Senedd term. This works out at around, as people have said, £30 million for the whole of this Senedd term, which is not a great deal amount of money considering the hugely beneficial impacts for our communities.\n\nOn average, Welsh hospices get only around a third of their income from statutory sources and must fundraise for the rest from private donors, which is extremely difficult in the context of the cost-of-living crisis. Any additional financial help for hospices would of course be welcomed, but long-term certainty in both the contracts and grant funding, so that staff and service users can be confident their vital services will be there whenever they are needed. Predictable, multi-year recurring funding allows hospices to better plan ahead and supports their highly skilled staff with a huge number of different medical specialisms embedded within their own local communities.\n\nI'm glad that we all agree that the incredible work of our hospices and palliative care workers is not just worth celebrating in this debate this afternoon, but also worthy of fair and sustainable funding in recognition of their life-affirming work. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=8737"
+        },
+        {
+          "id": "contribution-779140",
+          "item_id": "item-16316-261014-9",
+          "item_title_en": "8. Short Debate: Green across the aisle: Making environmental stewardship a common cause",
+          "lang": "en",
+          "t_start": 14683,
+          "text_english": "My constituents see and smell the wildfires; the rising threat of flooding is constantly at their door. Our farmers are worried about the viability of their businesses and their communities; people are concerned about how they can afford to heat their homes, pay their bills and feed their families. We can ease pressure on household costs by helping people to move to sustainable energy and fossil-fuel-free heating. So, it's very disappointing to see the UK Government's support for heat pumps evaporating before our eyes. Heat pumps lower heating bills, but people need to be supported to make the change. Also, Wales is blessed with extraordinary natural resources. We have the potential to generate all the renewable energy our nation needs, so that we can reduce energy bills, make families less vulnerable to rising fuel costs and cut carbon emissions at the same time. This is about delivering greater energy security, warmer homes and a more sustainable future for our children. So, when we put social justice at the centre of climate action, and we put climate action at the centre of social justice, we don't have to choose between helping people and helping the planet, we must, and we can, do both.",
+          "text_original": "My constituents see and smell the wildfires; the rising threat of flooding is constantly at their door. Our farmers are worried about the viability of their businesses and their communities; people are concerned about how they can afford to heat their homes, pay their bills and feed their families. We can ease pressure on household costs by helping people to move to sustainable energy and fossil-fuel-free heating. So, it's very disappointing to see the UK Government's support for heat pumps evaporating before our eyes. Heat pumps lower heating bills, but people need to be supported to make the change. Also, Wales is blessed with extraordinary natural resources. We have the potential to generate all the renewable energy our nation needs, so that we can reduce energy bills, make families less vulnerable to rising fuel costs and cut carbon emissions at the same time. This is about delivering greater energy security, warmer homes and a more sustainable future for our children. So, when we put social justice at the centre of climate action, and we put climate action at the centre of social justice, we don't have to choose between helping people and helping the planet, we must, and we can, do both.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=14683"
+        }
+      ],
+      "date": "2026-10-14",
+      "record_page_url": "https://record.senedd.wales/Plenary/16316"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-778428",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 2500,
+          "text_english": "At the start of September, my mother passed away. She had spent her entire career working as a health visitor. For her, this work wasn't just a job, it was her calling. My mum's identity, from when she first started training in 1951, was shaped around her time as a health visitor. Even in retirement, you could tell from the way that she spoke and interacted with people that being a health visitor was really part of who she was and what she was meant to be doing. This is the case for so many people for whom their career is a vocation.\n\nDoes the First Minister agree with me that, very often, when a career is a vocation for a person, they are often not remunerated according to the value of the kind of work they do for society or in comparison with other equivalent professions? And furthermore, does the First Minister agree that this is an issue that disproportionately affects professions dominated by women, like health visiting, more than it does professions dominated by men?",
+          "text_original": "At the start of September, my mother passed away. She had spent her entire career working as a health visitor. For her, this work wasn't just a job, it was her calling. My mum's identity, from when she first started training in 1951, was shaped around her time as a health visitor. Even in retirement, you could tell from the way that she spoke and interacted with people that being a health visitor was really part of who she was and what she was meant to be doing. This is the case for so many people for whom their career is a vocation.\n\nDoes the First Minister agree with me that, very often, when a career is a vocation for a person, they are often not remunerated according to the value of the kind of work they do for society or in comparison with other equivalent professions? And furthermore, does the First Minister agree that this is an issue that disproportionately affects professions dominated by women, like health visiting, more than it does professions dominated by men?",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=2500"
+        },
+        {
+          "id": "contribution-778678",
+          "item_id": "item-16315-261013-6",
+          "item_title_en": "6. Statement by the Deputy Minister for Transport: Climate Adaptation and Resilience in Wales's Transport Network",
+          "lang": "en",
+          "t_start": 15971,
+          "text_english": "Footpaths are an essential, but often overlooked part of the transport network across Wales. Well-maintained pavements and footpaths are particularly important for older people, people with mobility difficulties, wheelchair users, people with prams or pushchairs, as well as the 20 per cent of Welsh households without a car. \n\nAs we've heard this afternoon, poor winter weather will soon be with us. Flooding and icy nights will inevitably speed up the degradation of our footpaths. Accidents caused by uneven paving slabs and hidden hazards within deceptively deep puddles lead to pressure on NHS services, or to people feeling just too scared to go out.\n\nMaintenance of footpaths is the responsibility, of course, of local authorities, but what will the Minister be doing to support them to keep paths in good condition this winter, as well as make proactive adaptions to prevent future damage in extreme weather events and keep them open and accessible for everyone who needs them?",
+          "text_original": "Footpaths are an essential, but often overlooked part of the transport network across Wales. Well-maintained pavements and footpaths are particularly important for older people, people with mobility difficulties, wheelchair users, people with prams or pushchairs, as well as the 20 per cent of Welsh households without a car. \n\nAs we've heard this afternoon, poor winter weather will soon be with us. Flooding and icy nights will inevitably speed up the degradation of our footpaths. Accidents caused by uneven paving slabs and hidden hazards within deceptively deep puddles lead to pressure on NHS services, or to people feeling just too scared to go out.\n\nMaintenance of footpaths is the responsibility, of course, of local authorities, but what will the Minister be doing to support them to keep paths in good condition this winter, as well as make proactive adaptions to prevent future damage in extreme weather events and keep them open and accessible for everyone who needs them?",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=15971"
+        }
+      ],
+      "date": "2026-10-13",
+      "record_page_url": "https://record.senedd.wales/Plenary/16315"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-773649",
+          "item_id": "item-16265-260930-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Rural Resilience and Sustainability",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "5. Will the Cabinet Minister provide an update on progress towards reaching the Welsh Government's nature and biodiversity targets? OQ64581",
+          "text_original": "5. A wnaiff y Gweinidog Cabinet roi diweddariad ar y cynnydd tuag at gyrraedd targedau natur a bioamrywiaeth Llywodraeth Cymru? OQ64581",
+          "tv_url": "http://www.senedd.tv/en/16265"
+        },
+        {
+          "id": "contribution-773625",
+          "item_id": "item-16265-260930-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Rural Resilience and Sustainability",
+          "lang": "en",
+          "t_start": 5104,
+          "text_english": "Diolch. On 2 June, when I raised this in the Siambr, the First Minister said that the Government is committed to clear public reporting on Wales's progress towards net zero through an accessible online dashboard. I went to have a look for it when some of the other dashboards came out, and all I could find was an old PowerPoint presentation about public sector emissions. Maybe I'm looking in the wrong place. Progress and opportunity for climate resilience is inextricably linked with the need to halt and reverse the loss of nature. I'm glad to see this recognised with the announcement of the forthcoming climate and nature plan, but we need to be clear about how progress on both will be monitored and reported. You'll be aware of the importance of the forthcoming targets due to be introduced in accordance with the Environment (Principles, Governance and Biodiversity Targets) (Wales) Act 2026, yet presently we don't have targets or any clear means of Member oversight on progress. Could you confirm the timeline for the introduction of those biodiversity and nature targets and whether you intend to monitor and report on progress openly using one of those dashboards?",
+          "text_original": "Diolch. On 2 June, when I raised this in the Siambr, the First Minister said that the Government is committed to clear public reporting on Wales's progress towards net zero through an accessible online dashboard. I went to have a look for it when some of the other dashboards came out, and all I could find was an old PowerPoint presentation about public sector emissions. Maybe I'm looking in the wrong place. Progress and opportunity for climate resilience is inextricably linked with the need to halt and reverse the loss of nature. I'm glad to see this recognised with the announcement of the forthcoming climate and nature plan, but we need to be clear about how progress on both will be monitored and reported. You'll be aware of the importance of the forthcoming targets due to be introduced in accordance with the Environment (Principles, Governance and Biodiversity Targets) (Wales) Act 2026, yet presently we don't have targets or any clear means of Member oversight on progress. Could you confirm the timeline for the introduction of those biodiversity and nature targets and whether you intend to monitor and report on progress openly using one of those dashboards?",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=5104"
+        }
+      ],
+      "date": "2026-09-30",
+      "record_page_url": "https://record.senedd.wales/Plenary/16265"
+    },
     {
       "contributions": [
         {

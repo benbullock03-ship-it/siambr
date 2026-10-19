@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,134 @@
   "canonical_name": "Andrew Griffin",
   "constituency_name_cy": "Gwynedd Maldwyn",
   "constituency_name_en": "Gwynedd Maldwyn",
-  "contribution_count": 7,
+  "contribution_count": 16,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778828",
+          "item_id": "item-16316-261014-2",
+          "item_title_en": "1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport",
+          "lang": "en",
+          "t_start": 468,
+          "text_english": "Following on from that question about protecting our historic heritage for future generations, last week, I had a meeting with Historic Houses Wales. A great deal of our heritage is actually in private ownership. I know from personal experience of living in a grade II listed house just how expensive these properties can be to maintain, particularly when there are restrictions on making improvements to reduce running costs. Can I ask the Cabinet Minister what practical support is available through Cadw for private owners who are helping to preserve our historic heritage, and how is she working with colleagues across Government to make sure these buildings remain viable for future generations?",
+          "text_original": "Following on from that question about protecting our historic heritage for future generations, last week, I had a meeting with Historic Houses Wales. A great deal of our heritage is actually in private ownership. I know from personal experience of living in a grade II listed house just how expensive these properties can be to maintain, particularly when there are restrictions on making improvements to reduce running costs. Can I ask the Cabinet Minister what practical support is available through Cadw for private owners who are helping to preserve our historic heritage, and how is she working with colleagues across Government to make sure these buildings remain viable for future generations?",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=468"
+        }
+      ],
+      "date": "2026-10-14",
+      "record_page_url": "https://record.senedd.wales/Plenary/16316"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-778544",
+          "item_id": "item-16315-261013-3",
+          "item_title_en": "3. Statement by the Cabinet Minister for Government Effectiveness and the Constitution: The next steps for the Glyndŵr National Park (Designation) Order",
+          "lang": "en",
+          "t_start": 7649,
+          "text_english": "Diolch, Ddirprwy Lywydd. As a north Powys resident, I welcome the Minister's announcement today. I think he's reached a sensible conclusion, albeit provisionally, and I'm sure my constituents in the affected area will also welcome this announcement. All five local authorities, remember—all five local authorities—objected to this proposal, and there have been very real concerns from farmers, businesses and local communities.\n\nIn my role as Chair of the Public Accounts and Public Administration Committee, I'm particularly conscious of the financial pressures facing public services. Indeed, only yesterday we were examining the serious financial difficulties facing the NHS in Wales. At £11.6 million, just to establish another national park authority, before we even consider the ongoing costs, we have to question whether that's the best use of public money. Nobody's suggesting we shouldn't protect our countryside, but, surely, we should make better use of the arrangements we already have, rather than creating another layer of bureaucracy. So, Minister, can you reassure those communities that their concerns will be properly reflected in the final decision, and tell us how quickly that decision will be made once the four weeks are up? Diolch.",
+          "text_original": "Diolch, Ddirprwy Lywydd. As a north Powys resident, I welcome the Minister's announcement today. I think he's reached a sensible conclusion, albeit provisionally, and I'm sure my constituents in the affected area will also welcome this announcement. All five local authorities, remember—all five local authorities—objected to this proposal, and there have been very real concerns from farmers, businesses and local communities.\n\nIn my role as Chair of the Public Accounts and Public Administration Committee, I'm particularly conscious of the financial pressures facing public services. Indeed, only yesterday we were examining the serious financial difficulties facing the NHS in Wales. At £11.6 million, just to establish another national park authority, before we even consider the ongoing costs, we have to question whether that's the best use of public money. Nobody's suggesting we shouldn't protect our countryside, but, surely, we should make better use of the arrangements we already have, rather than creating another layer of bureaucracy. So, Minister, can you reassure those communities that their concerns will be properly reflected in the final decision, and tell us how quickly that decision will be made once the four weeks are up? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=7649"
+        }
+      ],
+      "date": "2026-10-13",
+      "record_page_url": "https://record.senedd.wales/Plenary/16315"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776831",
+          "item_id": "item-16314-261007-4",
+          "item_title_en": "4. 90-second Statements",
+          "lang": "en",
+          "t_start": 8425,
+          "text_english": "This week is the first National Cadets Week, and I wanted to take the opportunity to recognise both the young people involved in the cadet forces and the volunteers who give up so much of their time to support them. I've been involved with the Royal Air Force Air Cadets for more than 40 years, first in uniform as a cadet and a member of staff, and now as a civilian trustee, so this is something very close to me.\n\nOver those years, I've seen many young people come through the organisation. Some have gone on to join the armed forces, but many haven't, and that's not the point. What the cadet movement does particularly well is give young people opportunities; it gives them confidence, responsibility, friendships and experiences they might otherwise never have had. And none of this happens without the adult volunteers who turn up week after week, often after a full day's work, and give their evenings and weekends to make it happen. His Majesty the King has recognised their contribution during National Cadets Week, and I would simply like to add my thanks. After more than 40 years, I am still very proud to be involved. Diolch.",
+          "text_original": "This week is the first National Cadets Week, and I wanted to take the opportunity to recognise both the young people involved in the cadet forces and the volunteers who give up so much of their time to support them. I've been involved with the Royal Air Force Air Cadets for more than 40 years, first in uniform as a cadet and a member of staff, and now as a civilian trustee, so this is something very close to me.\n\nOver those years, I've seen many young people come through the organisation. Some have gone on to join the armed forces, but many haven't, and that's not the point. What the cadet movement does particularly well is give young people opportunities; it gives them confidence, responsibility, friendships and experiences they might otherwise never have had. And none of this happens without the adult volunteers who turn up week after week, often after a full day's work, and give their evenings and weekends to make it happen. His Majesty the King has recognised their contribution during National Cadets Week, and I would simply like to add my thanks. After more than 40 years, I am still very proud to be involved. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=8425"
+        }
+      ],
+      "date": "2026-10-07",
+      "record_page_url": "https://record.senedd.wales/Plenary/16314"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-775821",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "1. What assessment has the First Minister made of the provision of public services in rural Wales? OQ64619",
+          "text_original": "1. Pa asesiad y mae'r Prif Weinidog wedi'i wneud o ddarpariaeth gwasanaethau cyhoeddus yng nghefn gwlad Cymru? OQ64619",
+          "tv_url": "http://www.senedd.tv/en/16313"
+        },
+        {
+          "id": "contribution-775825",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 50,
+          "text_english": "Thank you, First Minister. During the election campaign, I heard the same concern right across the Gwynedd Maldwyn constituency that rural mid Wales is too often overlooked. We're seeing schools close, continuing problems on the Cambrian line, in-patient beds closed at Tywyn, and potentially fewer community hospital beds provided in Powys. This winter we are also facing reductions in routine gritting. Now, I know the response: 'Schools and roads are matters for councils, health services for health boards'. But the Welsh Government sets policy, provides much of the funding and can intervene. Indeed, you've just provided Powys Teaching Health Board with an additional £3.5 million to tackle waiting lists. So, who in your Government is responsible for looking at the cumulative effect of all these decisions on rural communities, and what are you going to do about it?",
+          "text_original": "Thank you, First Minister. During the election campaign, I heard the same concern right across the Gwynedd Maldwyn constituency that rural mid Wales is too often overlooked. We're seeing schools close, continuing problems on the Cambrian line, in-patient beds closed at Tywyn, and potentially fewer community hospital beds provided in Powys. This winter we are also facing reductions in routine gritting. Now, I know the response: 'Schools and roads are matters for councils, health services for health boards'. But the Welsh Government sets policy, provides much of the funding and can intervene. Indeed, you've just provided Powys Teaching Health Board with an additional £3.5 million to tackle waiting lists. So, who in your Government is responsible for looking at the cumulative effect of all these decisions on rural communities, and what are you going to do about it?",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=50"
+        },
+        {
+          "id": "contribution-776071",
+          "item_id": "item-16313-261006-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 7084,
+          "text_english": "Trefnydd, could I ask for a statement from the Cabinet Secretary for health and social care on the operation of the 'Listening to People' NHS complaints process? Constituents have raised concerns with me following their experience of pursuing complaints involving Betsi Cadwaladr University Health Board. The new system places clear requirements on health bodies, including acknowledgement within five working days and a 10 working day early resolution stage. However, concerns have been raised with me about what happens when a patient believes that the health board itself has failed to follow those requirements. Could we therefore have a statement from the Cabinet Secretary explaining how compliance with 'Listening to People' is monitored, what action the Welsh Government can take where a health board is not compliant, and what effective route is available to a patient who believes the complaints process itself has failed? Thank you.",
+          "text_original": "Trefnydd, could I ask for a statement from the Cabinet Secretary for health and social care on the operation of the 'Listening to People' NHS complaints process? Constituents have raised concerns with me following their experience of pursuing complaints involving Betsi Cadwaladr University Health Board. The new system places clear requirements on health bodies, including acknowledgement within five working days and a 10 working day early resolution stage. However, concerns have been raised with me about what happens when a patient believes that the health board itself has failed to follow those requirements. Could we therefore have a statement from the Cabinet Secretary explaining how compliance with 'Listening to People' is monitored, what action the Welsh Government can take where a health board is not compliant, and what effective route is available to a patient who believes the complaints process itself has failed? Thank you.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=7084"
+        }
+      ],
+      "date": "2026-10-06",
+      "record_page_url": "https://record.senedd.wales/Plenary/16313"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-773560",
+          "item_id": "item-16265-260930-1",
+          "item_title_en": "1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice",
+          "lang": "en",
+          "t_start": 2060,
+          "text_english": "Thank you, Cabinet Minister. I welcome the principle of extending childcare, but there does seem to be a rather large gap between announcing an entitlement and families actually benefiting from it. Powys County Council has itself estimated that the parents of more than 1,000 young children in the county could be missing out on free or reduced-cost childcare. And, of course, in a county as large and rural as Powys, eligibility is only half the issue. There also has to be a suitable provider within a reasonable distance of where a family lives. So, Cabinet Minister, as you roll out this offer, what are you doing to ensure that Powys County Council not only identifies those families who are entitled to support, but has sufficient childcare provision for them actually to use it?",
+          "text_original": "Thank you, Cabinet Minister. I welcome the principle of extending childcare, but there does seem to be a rather large gap between announcing an entitlement and families actually benefiting from it. Powys County Council has itself estimated that the parents of more than 1,000 young children in the county could be missing out on free or reduced-cost childcare. And, of course, in a county as large and rural as Powys, eligibility is only half the issue. There also has to be a suitable provider within a reasonable distance of where a family lives. So, Cabinet Minister, as you roll out this offer, what are you doing to ensure that Powys County Council not only identifies those families who are entitled to support, but has sufficient childcare provision for them actually to use it?",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=2060"
+        },
+        {
+          "id": "contribution-773728",
+          "item_id": "item-16265-260930-6",
+          "item_title_en": "5. Member Debate under Standing Order 11.21(iv): Contaminated land",
+          "lang": "en",
+          "t_start": 8907,
+          "text_english": "Can I begin by thanking Niamh, with Elwyn's support, for bringing this important issue to the Chamber today? Some of what I'm going to say may repeat some things that Niamh and Elwyn have said, but that's because they are important and need to be said more than once.\n\nWales has a proud industrial history. It has brought jobs and prosperity to communities across the country and made an enormous contribution to the development of modern Britain. But that history has also left us with problems, which, many decades later, we are still having to deal with. Old mines, quarries, chemical works and industrial sites simply did not operate to the environmental standards that we would expect today. And for some of the people I represent, that isn't just history. Close to the north-eastern border of my constituency, as mentioned by Elwyn, near Rhos, Cefn Mawr, Acrefair and Ruabon, is the former Monsanto chemical waste tip. This is not rumour or local folklore. Parliamentary records confirm that Monsanto chemicals were deposited there in 1964 and 1965—prior to my being born, just.\n\nMore than 60 years later, people are still asking questions about that site and the neighbouring acid tar lagoon. Wrexham council has investigated the sites extensively. Its position is that contaminants are present, but the sites do not meet the legal definition of contaminated land. It does, however, continue to inspect and monitor them. But I can understand why people living nearby remain concerned. If you live close to somewhere like this, you want straightforward answers. What is in the ground? Is it getting out? Is there any risk to my family or my home, and if there is a problem, who is going to do something about it? These seem perfectly reasonable questions to me, and 60 years is an awfully long time to be asking them.\n\nThere have been calls for people living near contaminated sites to be offered blood tests for PCBs. Public Health Wales has considered that, and its advice is that blood testing is not recommended. It cannot reliably tell somebody how or where they were exposed, or what the consequences for their health might be. We should listen to that advice. There's little point in offering people a test that may leave them with more questions rather than fewer.\n\nBut that makes investigating the land itself all the more important. We need to establish what is actually there, whether contaminants are escaping and whether they present a genuine risk. This is where councils need help. They have responsibilities for contaminated land, but investigating sites like these is complicated and expensive. I welcome the fact that capital funding has now been agreed, but Wrexham County Borough Council is already making the point that additional funding will be needed if councils are going to investigate potentially contaminated sites properly. I think we should listen to them. There is little use giving local authorities responsibility for dealing with these sites if we don't also give them the means to do the job.\n\nThen, of course, comes, as Niamh has mentioned, the difficult question of who pays if something needs putting right. Where the original polluter can be identified and liability established, every reasonable effort should be made to recover the costs from them. But when something happened 50, 60 or even 100 years ago, that isn't always possible. Companies disappear, businesses change hands and records are lost. We cannot simply shrug our shoulders. The fact that pollution is old doesn't make it any less real. And it isn't reasonable to leave one council and its council tax payers facing an enormous bill simply because the original polluter can no longer be pursued. There is a balance to be struck here.\n\nI don't want to frighten people unnecessarily. Public Health Wales makes clear that PCBs can come from a number of sources and that finding elevated levels in a particular place does not necessarily establish where someone has been exposed. What I do want is for people to have confidence that somebody is actually finding out. If a site is safe, tell them, give them reassurance. If there's a problem, tell them and then do something about it.\n\nThe people living near the former Monsanto tip have lived with questions about that site for long enough. There will be other communities across Wales in very much the same position. They deserve answers, they deserve a system capable of establishing the facts, and where action is needed, they deserve to know that the money and the determination are there to see it through. As their representatives, the least we can do is to make sure their questions are heard and keep asking them until they get a proper answer. Thank you.",
+          "text_original": "Can I begin by thanking Niamh, with Elwyn's support, for bringing this important issue to the Chamber today? Some of what I'm going to say may repeat some things that Niamh and Elwyn have said, but that's because they are important and need to be said more than once.\n\nWales has a proud industrial history. It has brought jobs and prosperity to communities across the country and made an enormous contribution to the development of modern Britain. But that history has also left us with problems, which, many decades later, we are still having to deal with. Old mines, quarries, chemical works and industrial sites simply did not operate to the environmental standards that we would expect today. And for some of the people I represent, that isn't just history. Close to the north-eastern border of my constituency, as mentioned by Elwyn, near Rhos, Cefn Mawr, Acrefair and Ruabon, is the former Monsanto chemical waste tip. This is not rumour or local folklore. Parliamentary records confirm that Monsanto chemicals were deposited there in 1964 and 1965—prior to my being born, just.\n\nMore than 60 years later, people are still asking questions about that site and the neighbouring acid tar lagoon. Wrexham council has investigated the sites extensively. Its position is that contaminants are present, but the sites do not meet the legal definition of contaminated land. It does, however, continue to inspect and monitor them. But I can understand why people living nearby remain concerned. If you live close to somewhere like this, you want straightforward answers. What is in the ground? Is it getting out? Is there any risk to my family or my home, and if there is a problem, who is going to do something about it? These seem perfectly reasonable questions to me, and 60 years is an awfully long time to be asking them.\n\nThere have been calls for people living near contaminated sites to be offered blood tests for PCBs. Public Health Wales has considered that, and its advice is that blood testing is not recommended. It cannot reliably tell somebody how or where they were exposed, or what the consequences for their health might be. We should listen to that advice. There's little point in offering people a test that may leave them with more questions rather than fewer.\n\nBut that makes investigating the land itself all the more important. We need to establish what is actually there, whether contaminants are escaping and whether they present a genuine risk. This is where councils need help. They have responsibilities for contaminated land, but investigating sites like these is complicated and expensive. I welcome the fact that capital funding has now been agreed, but Wrexham County Borough Council is already making the point that additional funding will be needed if councils are going to investigate potentially contaminated sites properly. I think we should listen to them. There is little use giving local authorities responsibility for dealing with these sites if we don't also give them the means to do the job.\n\nThen, of course, comes, as Niamh has mentioned, the difficult question of who pays if something needs putting right. Where the original polluter can be identified and liability established, every reasonable effort should be made to recover the costs from them. But when something happened 50, 60 or even 100 years ago, that isn't always possible. Companies disappear, businesses change hands and records are lost. We cannot simply shrug our shoulders. The fact that pollution is old doesn't make it any less real. And it isn't reasonable to leave one council and its council tax payers facing an enormous bill simply because the original polluter can no longer be pursued. There is a balance to be struck here.\n\nI don't want to frighten people unnecessarily. Public Health Wales makes clear that PCBs can come from a number of sources and that finding elevated levels in a particular place does not necessarily establish where someone has been exposed. What I do want is for people to have confidence that somebody is actually finding out. If a site is safe, tell them, give them reassurance. If there's a problem, tell them and then do something about it.\n\nThe people living near the former Monsanto tip have lived with questions about that site for long enough. There will be other communities across Wales in very much the same position. They deserve answers, they deserve a system capable of establishing the facts, and where action is needed, they deserve to know that the money and the determination are there to see it through. As their representatives, the least we can do is to make sure their questions are heard and keep asking them until they get a proper answer. Thank you.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=8907"
+        }
+      ],
+      "date": "2026-09-30",
+      "record_page_url": "https://record.senedd.wales/Plenary/16265"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-770926",
+          "item_id": "item-16262-260922-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 6962,
+          "text_english": "Trefnydd, we just heard questions to the Counsel General about the legal position surrounding health service reconfiguration. Last week, Powys Teaching Health Board decided to press ahead with consultation on proposals that could remove in-patient beds from a number of our community hospitals. There is considerable concern across Powys and many of us are far from convinced that the voices of local people or their elected representatives are being heard. Will you therefore arrange for an urgent statement from the Cabinet Minister for Health and Care setting out the Government's position, what discussions he has had with the health board, and, crucially, whether he is prepared to intervene?",
+          "text_original": "Trefnydd, we just heard questions to the Counsel General about the legal position surrounding health service reconfiguration. Last week, Powys Teaching Health Board decided to press ahead with consultation on proposals that could remove in-patient beds from a number of our community hospitals. There is considerable concern across Powys and many of us are far from convinced that the voices of local people or their elected representatives are being heard. Will you therefore arrange for an urgent statement from the Cabinet Minister for Health and Care setting out the Government's position, what discussions he has had with the health board, and, crucially, whether he is prepared to intervene?",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=6962"
+        }
+      ],
+      "date": "2026-09-22",
+      "record_page_url": "https://record.senedd.wales/Plenary/16262"
+    },
     {
       "contributions": [
         {

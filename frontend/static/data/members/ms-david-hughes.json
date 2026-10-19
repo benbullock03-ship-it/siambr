@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,98 @@
   "canonical_name": "David Hughes",
   "constituency_name_cy": "Pontypridd Cynon Merthyr",
   "constituency_name_en": "Pontypridd Cynon Merthyr",
-  "contribution_count": 10,
+  "contribution_count": 16,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778476",
+          "item_id": "item-16315-261013-2",
+          "item_title_en": "2. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 4424,
+          "text_english": "Business Manager, can I ask for a joint statement from the Deputy Minister for social care, the Minister for local government and the Minister for education on the pupil development grant for children looked after? The issue I raise is complicated and cuts across multiple portfolios. A recent Estyn report highlighted concerns about the current PDG-CLA funding arrangements. Corporate parenting responsibility remains with the placing authority, but the receiving authorities are required to provide support from their own PDG-CLA allocation. Estyn also reported existing arrangements did not always operate effectively, including inconsistent information sharing and joint working, particularly when learners move between settings, services and local authorities. So, can I have a statement on how the Welsh Government intends to address these issues highlighted in Estyn's report? Diolch.",
+          "text_original": "Business Manager, can I ask for a joint statement from the Deputy Minister for social care, the Minister for local government and the Minister for education on the pupil development grant for children looked after? The issue I raise is complicated and cuts across multiple portfolios. A recent Estyn report highlighted concerns about the current PDG-CLA funding arrangements. Corporate parenting responsibility remains with the placing authority, but the receiving authorities are required to provide support from their own PDG-CLA allocation. Estyn also reported existing arrangements did not always operate effectively, including inconsistent information sharing and joint working, particularly when learners move between settings, services and local authorities. So, can I have a statement on how the Welsh Government intends to address these issues highlighted in Estyn's report? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=4424"
+        }
+      ],
+      "date": "2026-10-13",
+      "record_page_url": "https://record.senedd.wales/Plenary/16315"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776789",
+          "item_id": "item-16314-261007-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "8. What action is the Cabinet Minister taking to speed up the processing of planning applications by local authorities? OQ64640",
+          "text_original": "8. Pa gamau y mae'r Gweinidog Cabinet yn eu cymryd i gyflymu'r gwaith o brosesu ceisiadau cynllunio gan awdurdodau lleol? OQ64640",
+          "tv_url": "http://www.senedd.tv/en/16314"
+        },
+        {
+          "id": "contribution-776796",
+          "item_id": "item-16314-261007-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
+          "lang": "en",
+          "t_start": 8134,
+          "text_english": "Minister, people in Pontypridd Cynon Merthyr have been asking me how many more years will communities and businesses have to wait for a planning system that delivers decisions promptly. Will you commit to clear, measurable targets for reducing delays? Will you introduce clear planning performance targets for councils and Welsh Government, and publish the results so that the public can hold both to account for the delays? Thank you.",
+          "text_original": "Minister, people in Pontypridd Cynon Merthyr have been asking me how many more years will communities and businesses have to wait for a planning system that delivers decisions promptly. Will you commit to clear, measurable targets for reducing delays? Will you introduce clear planning performance targets for councils and Welsh Government, and publish the results so that the public can hold both to account for the delays? Thank you.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=8134"
+        }
+      ],
+      "date": "2026-10-07",
+      "record_page_url": "https://record.senedd.wales/Plenary/16314"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-772973",
+          "item_id": "item-16264-260929-4",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 5356,
+          "text_english": "Thank you. Business Manager, can I ask for a statement from the Cabinet Minister for Local Government, Housing and Planning on how local government's funding supports the third sector and charitable organisations? The Welsh Local Government Association estimates budget pressures of £560 million for 2026-27, but this year local government's settlement only increases councils' core funding by £292 million. When budgets are tight, grants and contracts with local charities and voluntary groups are often among the first to be cut. Yet these organisations provide early support to vulnerable people, and can help ease the demand on statutory services. So, can we have a statement on how the Government is working with councils to protect funding for the third sector, and whether assessments have been made of the impact of funding pressures on voluntary organisations? And can I say that I've got to declare an interest because I've got family working in both sectors?",
+          "text_original": "Thank you. Business Manager, can I ask for a statement from the Cabinet Minister for Local Government, Housing and Planning on how local government's funding supports the third sector and charitable organisations? The Welsh Local Government Association estimates budget pressures of £560 million for 2026-27, but this year local government's settlement only increases councils' core funding by £292 million. When budgets are tight, grants and contracts with local charities and voluntary groups are often among the first to be cut. Yet these organisations provide early support to vulnerable people, and can help ease the demand on statutory services. So, can we have a statement on how the Government is working with councils to protect funding for the third sector, and whether assessments have been made of the impact of funding pressures on voluntary organisations? And can I say that I've got to declare an interest because I've got family working in both sectors?",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=5356"
+        }
+      ],
+      "date": "2026-09-29",
+      "record_page_url": "https://record.senedd.wales/Plenary/16264"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771350",
+          "item_id": "item-16263-260923-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "en",
+          "t_start": 157,
+          "text_english": "Minister, many people in Pontypridd Cynon Merthyr still struggle to access jobs, education and healthcare because of poor transport links. Given the significant amount of public money already spent on transport projects in Wales, can the Cabinet Secretary please explain why so many communities remain poorly served, and what steps will be taken to improve reliability and accessibility before asking taxpayers to fund further major schemes? Thank you.",
+          "text_original": "Minister, many people in Pontypridd Cynon Merthyr still struggle to access jobs, education and healthcare because of poor transport links. Given the significant amount of public money already spent on transport projects in Wales, can the Cabinet Secretary please explain why so many communities remain poorly served, and what steps will be taken to improve reliability and accessibility before asking taxpayers to fund further major schemes? Thank you.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=157"
+        }
+      ],
+      "date": "2026-09-23",
+      "record_page_url": "https://record.senedd.wales/Plenary/16263"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771085",
+          "item_id": "item-16262-260922-7",
+          "item_title_en": "7. Statement by the Cabinet Minister for Local Government, Housing and Planning: Building Safety Programme Update",
+          "lang": "en",
+          "t_start": 18785,
+          "text_english": "Cabinet Minister, the building safety programme risks becoming yet another example of taxpayers being asked to foot the bill for failures that they did not cause. England regulates buildings above 18m under its strictest duties. Wales has brought every multi-occupied residential building of any height into the new framework. That's over 51,000 buildings, mostly owned by small private landlords. The Senedd's own committee called the compliance timeline 'unrealistic'. Has the Minister modelled the impact on housing supply and on the capacity of authorities that must enforce it, while residents living in the most dangerous buildings still wait? With housing affordability worsening and house building targets already being missed, can you provide evidence that these measures will not further slow housing delivery? Thank you.",
+          "text_original": "Cabinet Minister, the building safety programme risks becoming yet another example of taxpayers being asked to foot the bill for failures that they did not cause. England regulates buildings above 18m under its strictest duties. Wales has brought every multi-occupied residential building of any height into the new framework. That's over 51,000 buildings, mostly owned by small private landlords. The Senedd's own committee called the compliance timeline 'unrealistic'. Has the Minister modelled the impact on housing supply and on the capacity of authorities that must enforce it, while residents living in the most dangerous buildings still wait? With housing affordability worsening and house building targets already being missed, can you provide evidence that these measures will not further slow housing delivery? Thank you.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=18785"
+        }
+      ],
+      "date": "2026-09-22",
+      "record_page_url": "https://record.senedd.wales/Plenary/16262"
+    },
     {
       "contributions": [
         {

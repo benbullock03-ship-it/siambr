@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,200 @@
   "canonical_name": "Benjamin Hodge Mckenna",
   "constituency_name_cy": "Afan Ogwr Rhondda",
   "constituency_name_en": "Afan Ogwr Rhondda",
-  "contribution_count": 27,
+  "contribution_count": 42,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778849",
+          "item_id": "item-16316-261014-2",
+          "item_title_en": "1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "5. What is the Welsh Government doing to promote the growth of esports in Wales? OQ64683",
+          "text_original": "5. Beth mae Llywodraeth Cymru yn ei wneud i hyrwyddo twf e-chwaraeon yng Nghymru? OQ64683",
+          "tv_url": "http://www.senedd.tv/en/16316"
+        },
+        {
+          "id": "contribution-778864",
+          "item_id": "item-16316-261014-2",
+          "item_title_en": "1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport",
+          "lang": "en",
+          "t_start": 2166,
+          "text_english": "Thank you. Esports is something that I'm deeply passionate about, and I didn't expect, before coming down to the Chamber today, to be beaten to the post by the Labour spokesman on this issue, but I'm glad that it has happened. One area that I'd like to talk about is the benefits that esports events could bring to Wales. Stockton University in the United States described esports tournaments and events as 'the untapped tourism opportunity'. The Greater London Authority recently estimated that a single esports event, the 2025 BLAST Premier London Open, generated more than £30 million of economic impact for the city. Now, the mayor of London has recently set out an ambition to put London at the heart of global esports, and I see no reason why we shouldn't have a similar ambition here in Wales so that we can enjoy the benefits of this growing industry. So, will you commit today to take positive action to help attract more esports events to Wales? Diolch.",
+          "text_original": "Thank you. Esports is something that I'm deeply passionate about, and I didn't expect, before coming down to the Chamber today, to be beaten to the post by the Labour spokesman on this issue, but I'm glad that it has happened. One area that I'd like to talk about is the benefits that esports events could bring to Wales. Stockton University in the United States described esports tournaments and events as 'the untapped tourism opportunity'. The Greater London Authority recently estimated that a single esports event, the 2025 BLAST Premier London Open, generated more than £30 million of economic impact for the city. Now, the mayor of London has recently set out an ambition to put London at the heart of global esports, and I see no reason why we shouldn't have a similar ambition here in Wales so that we can enjoy the benefits of this growing industry. So, will you commit today to take positive action to help attract more esports events to Wales? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=2166"
+        },
+        {
+          "id": "contribution-779041",
+          "item_id": "item-16316-261014-6",
+          "item_title_en": "5. Welsh Labour Debate: Palliative and end-of-life care",
+          "lang": "en",
+          "t_start": 6828,
+          "text_english": "The fundamental concept of our healthcare system in Wales is that it provides care free at the point of use from cradle to grave, and, unfortunately, it's the latter part of that statement that is at risk at the moment. It is the duty of our health services to ensure that people facing terminal illness and their families receive dignified and compassionate care at the end of life. Approximately 20,000 children and adults depend on our hospice services each year, and therefore they must be protected. But words alone won't protect them. Almost 30 per cent of Welsh voluntary hospices that were surveyed said that they had to reduce in-patient beds or services due to financial or workforce pressure already.\n\nSeveral hospices across Wales have already closed, either permanently or temporarily, such as a four-bed unit in St David's Hospice in Holyhead. More than 70 per cent of hospices with in-patient units expect that cost pressures will make further beds unavailable. A significant majority of hospice care providers in Wales still depend on charitable donations. Now, in 2025-26, the Welsh Government provided £3 million and committed to finding a sustainable funding solution, but Hospice UK estimate that that is just 10 per cent of the £30 million that will be required over this Senedd term just to safeguard existing services.\n\nAs Ken Skates mentioned, Marie Curie have already suggested that the current system is failing people, that nearly a third of people in Wales have unmet palliative care needs. And what's worse is that the demand is expected to rise by more than 25 per cent over the next 25 years. That's a significant increase in demand for a system that is already having to scale back its services due to cost pressures. And while I'm glad that Labour did bring forward this debate today, the fact is that they had years in power in which they could have dealt with the issues that are currently facing hospice care in Wales. And now that Plaid Cymru are in charge, they must explain how they're going to support the sector, as patients cannot be cared for by an announcement or framework.\n\nEssential end-of-life care must be protected, and the current model is clearly unsustainable. Community hospice and palliative care services help people to reduce avoidable hospital admissions and they relieve pressure from elsewhere in our healthcare system. In Reform, we will support measures that place our hospices on a sustainable footing, strengthen community and out-of-hours capacity, and develop the workforce that is necessary to meet growing demands. Hence, we will be supporting this motion today. Diolch yn fawr.",
+          "text_original": "The fundamental concept of our healthcare system in Wales is that it provides care free at the point of use from cradle to grave, and, unfortunately, it's the latter part of that statement that is at risk at the moment. It is the duty of our health services to ensure that people facing terminal illness and their families receive dignified and compassionate care at the end of life. Approximately 20,000 children and adults depend on our hospice services each year, and therefore they must be protected. But words alone won't protect them. Almost 30 per cent of Welsh voluntary hospices that were surveyed said that they had to reduce in-patient beds or services due to financial or workforce pressure already.\n\nSeveral hospices across Wales have already closed, either permanently or temporarily, such as a four-bed unit in St David's Hospice in Holyhead. More than 70 per cent of hospices with in-patient units expect that cost pressures will make further beds unavailable. A significant majority of hospice care providers in Wales still depend on charitable donations. Now, in 2025-26, the Welsh Government provided £3 million and committed to finding a sustainable funding solution, but Hospice UK estimate that that is just 10 per cent of the £30 million that will be required over this Senedd term just to safeguard existing services.\n\nAs Ken Skates mentioned, Marie Curie have already suggested that the current system is failing people, that nearly a third of people in Wales have unmet palliative care needs. And what's worse is that the demand is expected to rise by more than 25 per cent over the next 25 years. That's a significant increase in demand for a system that is already having to scale back its services due to cost pressures. And while I'm glad that Labour did bring forward this debate today, the fact is that they had years in power in which they could have dealt with the issues that are currently facing hospice care in Wales. And now that Plaid Cymru are in charge, they must explain how they're going to support the sector, as patients cannot be cared for by an announcement or framework.\n\nEssential end-of-life care must be protected, and the current model is clearly unsustainable. Community hospice and palliative care services help people to reduce avoidable hospital admissions and they relieve pressure from elsewhere in our healthcare system. In Reform, we will support measures that place our hospices on a sustainable footing, strengthen community and out-of-hours capacity, and develop the workforce that is necessary to meet growing demands. Hence, we will be supporting this motion today. Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=6828"
+        }
+      ],
+      "date": "2026-10-14",
+      "record_page_url": "https://record.senedd.wales/Plenary/16316"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-778395",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 209,
+          "text_english": "Parents across Afan Ogwr Rhondda are deeply concerned about their children's school transport arrangements. A survey conducted, with 176 respondents from Rhondda Cynon Taf, found that 72 respondents reported attendance disruption for their children due to insufficient school transport arrangements. A hundred and twenty-five people described feeling anxiety, vulnerability, stress or fear as a result. Reliability, capacity and safety are seriously important, especially when a child faces additional barriers to their learning. So, when assessments are made on transport provision, what will your Government do to ensure that vulnerable learners are not left behind by decisions that are driven by costs rather than outcomes?",
+          "text_original": "Parents across Afan Ogwr Rhondda are deeply concerned about their children's school transport arrangements. A survey conducted, with 176 respondents from Rhondda Cynon Taf, found that 72 respondents reported attendance disruption for their children due to insufficient school transport arrangements. A hundred and twenty-five people described feeling anxiety, vulnerability, stress or fear as a result. Reliability, capacity and safety are seriously important, especially when a child faces additional barriers to their learning. So, when assessments are made on transport provision, what will your Government do to ensure that vulnerable learners are not left behind by decisions that are driven by costs rather than outcomes?",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=209"
+        },
+        {
+          "id": "contribution-778589",
+          "item_id": "item-16315-261013-5",
+          "item_title_en": "5. Statement by the Cabinet Minister for Health and Care: Update on winter preparedness",
+          "lang": "en",
+          "t_start": 11346,
+          "text_english": "Thank you, Minister, for the advance notice of your statement today. I'd like to begin by associating myself with the comments you made about our NHS staff, who are the absolute backbone of the NHS in Wales, and they deserve a system that works for them and works effectively. I'm also glad that we're talking about winter preparedness today. Winter is something that has affected humanity every year since the dawn of time, and so it blows my mind that there still hasn't been proper planning in the Welsh NHS to deal with the pressures that we know are going to reoccur year after year.\n\nHowever, I am slightly concerned about the current plans that are in place. Whilst doing research for the debate today, I came across this document. It's a self-assessment and assurance template that was published in the annex of the September board meeting notes from Swansea Bay University Health Board. In it, it outlines 90 key actions that the health board should undertake in order to begin preparing for winter. Of those 90, only 28 had been fully implemented, 61 had been partially implemented and one had not been implemented at all. This was something that was worrying to see to me, and I wonder, when it comes to these templates, what is the acceptable number of key actions that are completely implemented in order to be able to call this preparedness plan a success.\n\nWhat are the enforcement mechanisms that are going to be used to ensure that health boards deliver here? You say, for example, that of your three priorities, they are not optional aspirations, they are delivery expectations, and that you would expect a health board to take corrective action and strengthen their response were they not to achieve them. But in this document, Swansea bay health board says that, when it comes to meeting the vaccination key actions, the significant risks to delivery are around limited capacity and lack of access to vaccination clinics.\n\nAcross all of the actions listed in that document, they say that eight key actions are at risk of full delivery due to insufficient workforce and seven key actions are at risk of delivery due to insufficient funding. Now, there is mention in your statement of £2 million being allocated as part of the urgent and emergency care improvement programme, but Audit Wales notes that the annual deficit for the NHS in 2025-26 was £199 million. So, if these health boards are already in deficit, and the only funding that has been made available clearly in your statement is £2 million, that seems to me like a drop in the ocean and not sufficient to implement these plans properly. So, are there any plans for additional resources to be allocated for winter preparedness? And if not, why not? If so, how many resources are going to be allocated and how much is that estimated to cost the taxpayer?\n\nNow, something else that I found interesting about this document was to do with your comments about the plans needing to be tested in September and October of this year. Towards the end of the template, there is a self-assessment section and within it there are some local comments that have been made. It says this document has to be completed by a senior officer with sufficient oversight of the region's health and social care integrated plan to deliver the actions for winter 2026.\n\nNow, in that self-assessment template, or the regional assurance template, rather, point 35 says that the plan should be tested during a winter exercise. The local comments in this document say, 'Which parts need testing? We don't have any resources for testing, and we only think that some bits are applicable for testing.' So, given that testing, you say, needs to occur within September and October, what is the progress of this testing? Has it all been completed already? And if it hasn't, do additional resources need to be allocated to our health boards in order to ensure that this testing can occur? And my suspicion is that the concerns are not just isolated to Swansea bay. I was able to see a screenshot of the same document from Powys Teaching Health Board in the annex of one of their recent board meeting documents. That screenshot showed that they would be unable to ensure pulmonary rehabilitation within two to four weeks after an exacerbation, because their current wait time for these services is between 20 and 36 weeks.\n\nSo, whilst I agree that we need to be focusing on winter preparedness, I'm personally concerned, given the evidence that I've seen today, about the health board's ability to implement on time. And I would like to ask you what your assessment is of the health board's ability to deliver these preparedness plans this winter and what actions are going to be taken to correct if they are not able to implement them. Diolch yn fawr.",
+          "text_original": "Thank you, Minister, for the advance notice of your statement today. I'd like to begin by associating myself with the comments you made about our NHS staff, who are the absolute backbone of the NHS in Wales, and they deserve a system that works for them and works effectively. I'm also glad that we're talking about winter preparedness today. Winter is something that has affected humanity every year since the dawn of time, and so it blows my mind that there still hasn't been proper planning in the Welsh NHS to deal with the pressures that we know are going to reoccur year after year.\n\nHowever, I am slightly concerned about the current plans that are in place. Whilst doing research for the debate today, I came across this document. It's a self-assessment and assurance template that was published in the annex of the September board meeting notes from Swansea Bay University Health Board. In it, it outlines 90 key actions that the health board should undertake in order to begin preparing for winter. Of those 90, only 28 had been fully implemented, 61 had been partially implemented and one had not been implemented at all. This was something that was worrying to see to me, and I wonder, when it comes to these templates, what is the acceptable number of key actions that are completely implemented in order to be able to call this preparedness plan a success.\n\nWhat are the enforcement mechanisms that are going to be used to ensure that health boards deliver here? You say, for example, that of your three priorities, they are not optional aspirations, they are delivery expectations, and that you would expect a health board to take corrective action and strengthen their response were they not to achieve them. But in this document, Swansea bay health board says that, when it comes to meeting the vaccination key actions, the significant risks to delivery are around limited capacity and lack of access to vaccination clinics.\n\nAcross all of the actions listed in that document, they say that eight key actions are at risk of full delivery due to insufficient workforce and seven key actions are at risk of delivery due to insufficient funding. Now, there is mention in your statement of £2 million being allocated as part of the urgent and emergency care improvement programme, but Audit Wales notes that the annual deficit for the NHS in 2025-26 was £199 million. So, if these health boards are already in deficit, and the only funding that has been made available clearly in your statement is £2 million, that seems to me like a drop in the ocean and not sufficient to implement these plans properly. So, are there any plans for additional resources to be allocated for winter preparedness? And if not, why not? If so, how many resources are going to be allocated and how much is that estimated to cost the taxpayer?\n\nNow, something else that I found interesting about this document was to do with your comments about the plans needing to be tested in September and October of this year. Towards the end of the template, there is a self-assessment section and within it there are some local comments that have been made. It says this document has to be completed by a senior officer with sufficient oversight of the region's health and social care integrated plan to deliver the actions for winter 2026.\n\nNow, in that self-assessment template, or the regional assurance template, rather, point 35 says that the plan should be tested during a winter exercise. The local comments in this document say, 'Which parts need testing? We don't have any resources for testing, and we only think that some bits are applicable for testing.' So, given that testing, you say, needs to occur within September and October, what is the progress of this testing? Has it all been completed already? And if it hasn't, do additional resources need to be allocated to our health boards in order to ensure that this testing can occur? And my suspicion is that the concerns are not just isolated to Swansea bay. I was able to see a screenshot of the same document from Powys Teaching Health Board in the annex of one of their recent board meeting documents. That screenshot showed that they would be unable to ensure pulmonary rehabilitation within two to four weeks after an exacerbation, because their current wait time for these services is between 20 and 36 weeks.\n\nSo, whilst I agree that we need to be focusing on winter preparedness, I'm personally concerned, given the evidence that I've seen today, about the health board's ability to implement on time. And I would like to ask you what your assessment is of the health board's ability to deliver these preparedness plans this winter and what actions are going to be taken to correct if they are not able to implement them. Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=11346"
+        }
+      ],
+      "date": "2026-10-13",
+      "record_page_url": "https://record.senedd.wales/Plenary/16315"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776631",
+          "item_id": "item-16314-261007-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Health and Care",
+          "lang": "en",
+          "t_start": 2939,
+          "text_english": "Diolch, Ddirprwy Lywydd. Minister, I was enjoying the work of the Minister for government effectiveness earlier this week by looking at the new digital dashboards. In the waiting lists section, I'm sure you'll be aware that, unfortunately, they're going in the wrong direction: total waiting lists and two-year waits are both up. Now, I acknowledge you received a terrible inheritance from Welsh Labour, but we're past the first 100 days of your Government now, we're closing in on six months, and we're heading into the winter, where we all know pressures are going to be worse. Now, originally, the First Minister said that two-year waits would be eradicated within months of a Plaid Cymru Government, and then it changed to being within a first year. So, will you take the opportunity today to commit that two-year waits will be eradicated by May of next year, or are you going to move the goalposts again on this issue?",
+          "text_original": "Diolch, Ddirprwy Lywydd. Minister, I was enjoying the work of the Minister for government effectiveness earlier this week by looking at the new digital dashboards. In the waiting lists section, I'm sure you'll be aware that, unfortunately, they're going in the wrong direction: total waiting lists and two-year waits are both up. Now, I acknowledge you received a terrible inheritance from Welsh Labour, but we're past the first 100 days of your Government now, we're closing in on six months, and we're heading into the winter, where we all know pressures are going to be worse. Now, originally, the First Minister said that two-year waits would be eradicated within months of a Plaid Cymru Government, and then it changed to being within a first year. So, will you take the opportunity today to commit that two-year waits will be eradicated by May of next year, or are you going to move the goalposts again on this issue?",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=2939"
+        },
+        {
+          "id": "contribution-776617",
+          "item_id": "item-16314-261007-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Health and Care",
+          "lang": "en",
+          "t_start": 3066,
+          "text_english": "I'm glad to hear the commitment from you that you will be eradicating two-year waits in May. I hope I'm not going to be stood here holding you to account on that next year.\n\nOne thing that will impact waiting lists is access to GP surgeries. The number of GPs in Wales has decreased by 106 over the last few years, and the people needing treatment per GP has increased by 30 per cent. I spoke with the BMA last week, who launched the Save our Surgeries campaign. Natasha Asghar from the Welsh Conservatives launched a statement of opinion on this issue. I've supported it, alongside Reform colleagues, Welsh Labour have supported it, and the Liberal Democrats have supported it, but not a single person from Plaid Cymru has supported that statement of opinion, Minister. Why not?",
+          "text_original": "I'm glad to hear the commitment from you that you will be eradicating two-year waits in May. I hope I'm not going to be stood here holding you to account on that next year.\n\nOne thing that will impact waiting lists is access to GP surgeries. The number of GPs in Wales has decreased by 106 over the last few years, and the people needing treatment per GP has increased by 30 per cent. I spoke with the BMA last week, who launched the Save our Surgeries campaign. Natasha Asghar from the Welsh Conservatives launched a statement of opinion on this issue. I've supported it, alongside Reform colleagues, Welsh Labour have supported it, and the Liberal Democrats have supported it, but not a single person from Plaid Cymru has supported that statement of opinion, Minister. Why not?",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=3066"
+        },
+        {
+          "id": "contribution-776625",
+          "item_id": "item-16314-261007-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Health and Care",
+          "lang": "en",
+          "t_start": 3173,
+          "text_english": "Well, I don't understand why that means your party couldn't support the statement of opinion.\n\nOne area that we do agree on is the need for and use of surgical hubs in Wales. I'm glad that you mentioned Llantrisant Health Park, because that was a site that I also visited recently, alongside other MSs in the Chamber. All of the MSs who were on that visit were told very clearly that the Plaid Cymru Government will not see one spade in the ground when it comes to building any more surgical hubs, due to the planning and approval processes, within this Senedd term, let alone build the 10 that your Government is targeting. So, what are you doing to speed up that planning and approval process so that we can get on with building the health infrastructure that we desperately need here in Wales?",
+          "text_original": "Well, I don't understand why that means your party couldn't support the statement of opinion.\n\nOne area that we do agree on is the need for and use of surgical hubs in Wales. I'm glad that you mentioned Llantrisant Health Park, because that was a site that I also visited recently, alongside other MSs in the Chamber. All of the MSs who were on that visit were told very clearly that the Plaid Cymru Government will not see one spade in the ground when it comes to building any more surgical hubs, due to the planning and approval processes, within this Senedd term, let alone build the 10 that your Government is targeting. So, what are you doing to speed up that planning and approval process so that we can get on with building the health infrastructure that we desperately need here in Wales?",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=3173"
+        },
+        {
+          "id": "contribution-777013",
+          "item_id": "item-16314-261007-11",
+          "item_title_en": "10. Short Debate: The importance of port infrastructure and maritime traffic to the Welsh economy",
+          "lang": "en",
+          "t_start": 18598,
+          "text_english": "Diolch, Ddirprwy Lywydd. I'd like to start by offering a minute of my time to Cristiana Emsley, Claire Archibald, John Clark, Gareth Beer, Steve Bayliss, Sarah Cooper-Lesadd, Sera Evans, Alun Cox, Elyn Stephens and Shav Taj. Given the number of contributors, I'm sure we're all going to be incredibly brief on this topic. Now, I'm also sure that it's going to be a debate that is equally as lively as the last one that we just had, on the importance of port infrastructure and maritime traffic to the Welsh economy.\n\nIn the interest of being brief, why not start at the beginning? Maritime traffic and waterborne trade began in ancient Mesopotamia, where different groups of people would use reed-based boats to transport goods down river. This was then refined by the Phoenicians, who developed the technology into more fervent trade and industrial action across their empire.\n\nThere is a long history of maritime trade within Wales. Some of the earliest evidence of use of trade ships in Wales comes from a model of a ship that was found to have been created during the Bronze Age here. And, of course, we have a strong history throughout the Iron Age and, indeed, the Roman times, when the Romans used maritime traffic for supply and trade to reinforce their settlements and fortresses, such as the one in Caernarfon.\n\nThat strong history is maintained through the medieval and industrial periods, where coal and copper was exported all over the world from south Wales. And, of course, my own hometown of Port Talbot has a strong maritime history, hence the name. The coastal harbour there has been in place since the seventeenth century. In 1834, the Aberavon Harbour Company was created and, two years later, it was renamed as the Port Talbot Dock Company. The port opened properly in 1837 and is widely considered to be the first major dock on the south Wales coast, before even Cardiff's was created in its full form. Today, the site in Port Talbot is operated by Associated British Ports. ABP estimates that there is £2.3 billion-worth of trade that passes through their ports in Wales and that it contributes £1.5 billion of gross value added to our economy, supporting 21,800 jobs.\n\nNow, the reason for me bringing this topic forward today is to champion the case for the port in Port Talbot. ABP have a vision to invest more than £0.5 billion in the site, creating thousands of jobs in the process, and I urge the Government today to assist them with whatever they need to bring that investment to fruition. I'll conclude by saying that Logistics UK have also said that the port in Port Talbot is well placed to reduce pressure on other ports in Wales and drive growth in the Welsh economy. I call on the Welsh Government to do everything that it can to support investments in our Welsh ports, recognise their importance to the economy and invest in the infrastructure necessary to ensure that our ports in Wales can thrive. Diolch yn fawr.",
+          "text_original": "Diolch, Ddirprwy Lywydd. I'd like to start by offering a minute of my time to Cristiana Emsley, Claire Archibald, John Clark, Gareth Beer, Steve Bayliss, Sarah Cooper-Lesadd, Sera Evans, Alun Cox, Elyn Stephens and Shav Taj. Given the number of contributors, I'm sure we're all going to be incredibly brief on this topic. Now, I'm also sure that it's going to be a debate that is equally as lively as the last one that we just had, on the importance of port infrastructure and maritime traffic to the Welsh economy.\n\nIn the interest of being brief, why not start at the beginning? Maritime traffic and waterborne trade began in ancient Mesopotamia, where different groups of people would use reed-based boats to transport goods down river. This was then refined by the Phoenicians, who developed the technology into more fervent trade and industrial action across their empire.\n\nThere is a long history of maritime trade within Wales. Some of the earliest evidence of use of trade ships in Wales comes from a model of a ship that was found to have been created during the Bronze Age here. And, of course, we have a strong history throughout the Iron Age and, indeed, the Roman times, when the Romans used maritime traffic for supply and trade to reinforce their settlements and fortresses, such as the one in Caernarfon.\n\nThat strong history is maintained through the medieval and industrial periods, where coal and copper was exported all over the world from south Wales. And, of course, my own hometown of Port Talbot has a strong maritime history, hence the name. The coastal harbour there has been in place since the seventeenth century. In 1834, the Aberavon Harbour Company was created and, two years later, it was renamed as the Port Talbot Dock Company. The port opened properly in 1837 and is widely considered to be the first major dock on the south Wales coast, before even Cardiff's was created in its full form. Today, the site in Port Talbot is operated by Associated British Ports. ABP estimates that there is £2.3 billion-worth of trade that passes through their ports in Wales and that it contributes £1.5 billion of gross value added to our economy, supporting 21,800 jobs.\n\nNow, the reason for me bringing this topic forward today is to champion the case for the port in Port Talbot. ABP have a vision to invest more than £0.5 billion in the site, creating thousands of jobs in the process, and I urge the Government today to assist them with whatever they need to bring that investment to fruition. I'll conclude by saying that Logistics UK have also said that the port in Port Talbot is well placed to reduce pressure on other ports in Wales and drive growth in the Welsh economy. I call on the Welsh Government to do everything that it can to support investments in our Welsh ports, recognise their importance to the economy and invest in the infrastructure necessary to ensure that our ports in Wales can thrive. Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=18598"
+        }
+      ],
+      "date": "2026-10-07",
+      "record_page_url": "https://record.senedd.wales/Plenary/16314"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-773614",
+          "item_id": "item-16265-260930-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Rural Resilience and Sustainability",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "6. What assessment has the Government made of the sustainability of livestock numbers in Wales? OQ64573",
+          "text_original": "6. Pa asesiad mae'r Llywodraeth wedi'i wneud o gynaliadwyedd niferoedd da byw yng Nghymru? OQ64573",
+          "tv_url": "http://www.senedd.tv/en/16265"
+        },
+        {
+          "id": "contribution-773628",
+          "item_id": "item-16265-260930-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Rural Resilience and Sustainability",
+          "lang": "en",
+          "t_start": 5456,
+          "text_english": "Thank you. My colleague Laura Anne Jones mentioned back in July that Westminster's Climate Change Committee recommended a 25 per cent reduction in livestock numbers by 2040 in order to hit net-zero targets. Now, you've stated that there are no plans for a reduction, and that is something that I welcome, but it raises a further question to me, and it's one that's been discussed in this Chamber today. Given your dual role as Minister for rural resilience and sustainability, in scenarios where the interests of our rural communities stand in direct contrast with actions necessitated by net-zero policy, will you choose to back our farmers or bow to the interests of the climate lobby?",
+          "text_original": "Thank you. My colleague Laura Anne Jones mentioned back in July that Westminster's Climate Change Committee recommended a 25 per cent reduction in livestock numbers by 2040 in order to hit net-zero targets. Now, you've stated that there are no plans for a reduction, and that is something that I welcome, but it raises a further question to me, and it's one that's been discussed in this Chamber today. Given your dual role as Minister for rural resilience and sustainability, in scenarios where the interests of our rural communities stand in direct contrast with actions necessitated by net-zero policy, will you choose to back our farmers or bow to the interests of the climate lobby?",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=5456"
+        }
+      ],
+      "date": "2026-09-30",
+      "record_page_url": "https://record.senedd.wales/Plenary/16265"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-772962",
+          "item_id": "item-16264-260929-5",
+          "item_title_en": "4. Statement by the Cabinet Minister for Health and Care: Review of the Escalation and Intervention Framework",
+          "lang": "cy",
+          "t_start": 6041,
+          "text_english": "Thank you, Cabinet Minister, for giving us advance sight of the statement.",
+          "text_original": "Diolch, Weinidog Cabinet, am anfon y datganiad ymlaen llaw.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=6041"
+        },
+        {
+          "id": "contribution-772963",
+          "item_id": "item-16264-260929-5",
+          "item_title_en": "4. Statement by the Cabinet Minister for Health and Care: Review of the Escalation and Intervention Framework",
+          "lang": "en",
+          "t_start": 6046,
+          "text_english": "I'm glad that we are talking about the escalation framework today, because it's clear to me that the current framework is, frankly, ineffective. Health boards across Wales are sitting in level 4 for certain parts of their domains, or indeed, in the case of Betsi Cadwaladr, level 5, and meanwhile waiting lists continue to go up across the country and patients are not seeing the improvements that they deserve.\n\nThere are things in the statement today and within the review, however, that I do agree with. I fundamentally agree with the outcomes for patients being put at the centre of this review, and alongside the outcomes for patients, the addition of the workforce as one of the key pillars within this framework, as I think one thing that is mentioned less than it should be is that the performance of the NHS is not just letting down the patients who depend on it, but it's also letting down those front-line staff who often have to bear the brunt of the frustrations of people interacting with the system.\n\nI also agree that proactivity in intervention should be the objective. We should be ensuring that these health boards are held to a higher quality of standard before the issues arise, and not be seeking to administer remedial action after the issues have already arisen.\n\nOne thing that is also mentioned in your statement that I do agree with is the importance of leadership and governance in determining the success of organisational capacity, alongside strengthening accountability for leadership within our health organisations. We at Reform were clear that those who operate our health boards should be held accountable for the performance within them, and we would have considered, if necessary, amending the National Health Service (Wales) Act 2006 to ensure that ministerial authority can be held over these health boards, and if necessary, link pay to performance when it comes to some of these health board bosses who are earning large salaries but failing to deliver for our people.\n\nIt's obviously up to Ministers to make the important decisions, and that's something that's outlined in this new framework, but when I was reading through it earlier, there were a couple of occasions where it seemed to me that lines were blurred between Welsh Government taking meetings and providing information versus Ministers. So, I'd like to ask for clarity in terms of where the line drawn is with this new framework. Where will civil servants or other members working for the Government be taking meetings with health boards, and when will meetings be taken by you or your Deputy Ministers?\n\nI'd also like to ask how the lessons learned from intervening with these health boards are being learned and how they will be applied across other health boards in Wales, so that we don't have to keep coming back and deal with the same interventions time and time again.\n\nAnother thing that's mentioned in the new framework today is escalation boards. So, once these health boards are put into level 3 or above, escalation board meetings can be held. But there was detail lacking, from what I could read, in terms of how frequent these escalation board meetings will be, what will be discussed within them, and who will be doing the discussing and the decision making within those meetings.\n\nCriteria were also given in terms of de-escalation within the framework, but in terms of the criteria that I read, these were illustrative criteria. So, I'd like to ask: how will the final criteria be determined? I assume they'll be on a case-by-case basis. And who will be determining the criteria both for escalation and de-escalation through the new framework?\n\nFinally, it's mentioned that, in level 5, there will be consideration given to changes of governance within health boards and, at level 4, that there will be leadership and organisational assessments that will be conducted with regard to the leadership of these health boards. So, I would like to ask: how will these assessments be conducted? Who will be reviewed, and on what criteria will they be reviewed by? If, as is the case for many of our health boards across the country, a health board has been sat in level 4 or, indeed, level 5 for an extended period of time, at what point will the Government intervene and pursue organisational changes within the health boards, to ensure that those who are failing to deliver for our patients in Wales are held to account? Diolch yn fawr.",
+          "text_original": "I'm glad that we are talking about the escalation framework today, because it's clear to me that the current framework is, frankly, ineffective. Health boards across Wales are sitting in level 4 for certain parts of their domains, or indeed, in the case of Betsi Cadwaladr, level 5, and meanwhile waiting lists continue to go up across the country and patients are not seeing the improvements that they deserve.\n\nThere are things in the statement today and within the review, however, that I do agree with. I fundamentally agree with the outcomes for patients being put at the centre of this review, and alongside the outcomes for patients, the addition of the workforce as one of the key pillars within this framework, as I think one thing that is mentioned less than it should be is that the performance of the NHS is not just letting down the patients who depend on it, but it's also letting down those front-line staff who often have to bear the brunt of the frustrations of people interacting with the system.\n\nI also agree that proactivity in intervention should be the objective. We should be ensuring that these health boards are held to a higher quality of standard before the issues arise, and not be seeking to administer remedial action after the issues have already arisen.\n\nOne thing that is also mentioned in your statement that I do agree with is the importance of leadership and governance in determining the success of organisational capacity, alongside strengthening accountability for leadership within our health organisations. We at Reform were clear that those who operate our health boards should be held accountable for the performance within them, and we would have considered, if necessary, amending the National Health Service (Wales) Act 2006 to ensure that ministerial authority can be held over these health boards, and if necessary, link pay to performance when it comes to some of these health board bosses who are earning large salaries but failing to deliver for our people.\n\nIt's obviously up to Ministers to make the important decisions, and that's something that's outlined in this new framework, but when I was reading through it earlier, there were a couple of occasions where it seemed to me that lines were blurred between Welsh Government taking meetings and providing information versus Ministers. So, I'd like to ask for clarity in terms of where the line drawn is with this new framework. Where will civil servants or other members working for the Government be taking meetings with health boards, and when will meetings be taken by you or your Deputy Ministers?\n\nI'd also like to ask how the lessons learned from intervening with these health boards are being learned and how they will be applied across other health boards in Wales, so that we don't have to keep coming back and deal with the same interventions time and time again.\n\nAnother thing that's mentioned in the new framework today is escalation boards. So, once these health boards are put into level 3 or above, escalation board meetings can be held. But there was detail lacking, from what I could read, in terms of how frequent these escalation board meetings will be, what will be discussed within them, and who will be doing the discussing and the decision making within those meetings.\n\nCriteria were also given in terms of de-escalation within the framework, but in terms of the criteria that I read, these were illustrative criteria. So, I'd like to ask: how will the final criteria be determined? I assume they'll be on a case-by-case basis. And who will be determining the criteria both for escalation and de-escalation through the new framework?\n\nFinally, it's mentioned that, in level 5, there will be consideration given to changes of governance within health boards and, at level 4, that there will be leadership and organisational assessments that will be conducted with regard to the leadership of these health boards. So, I would like to ask: how will these assessments be conducted? Who will be reviewed, and on what criteria will they be reviewed by? If, as is the case for many of our health boards across the country, a health board has been sat in level 4 or, indeed, level 5 for an extended period of time, at what point will the Government intervene and pursue organisational changes within the health boards, to ensure that those who are failing to deliver for our patients in Wales are held to account? Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=6046"
+        }
+      ],
+      "date": "2026-09-29",
+      "record_page_url": "https://record.senedd.wales/Plenary/16264"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771601",
+          "item_id": "item-16263-260923-6",
+          "item_title_en": "6. Welsh Labour Debate: Further education",
+          "lang": "en",
+          "t_start": 9011,
+          "text_english": "I stand today in support of the motion, not because I agree with everything that Labour did in Government—and, to be clear, I don't—but because the facts in the motion today are true: too many young people in Wales are not in education, employment or training. Demand for college places is up, but the funding has not followed suit, and that is a crucial policy failure that must be addressed.\n\nThe motion today discusses a crisis amongst young people who are not in education, employment or training, alongside the lifelong scarring that follows. Now, we know that the statistics are dire. As Sam just shared with us, in the year ending December 2025, 17 per cent of 16 to 24-year-olds were not in education, employment or training. That's 56,800 young people who are unable to participate in the economy. Wales was the only UK nation where those statistics rose year on year, with a 5.5 per cent increase. That is a stark failure of the Government in this place to deliver for our young people. It's also a huge missed opportunity for our economy and for our public finances. If we could get just half of those young people into full-time employment, the Welsh Government would generate over £90 million in income tax receipts. And that's before you consider the wider benefits that come with a larger consumer base and a greater number of young people who are engaged in the economy.\n\nNow, colleges are one of our main routes for young people to escape the NEET trap. The motion is right to recognise that the record levels of demand are imposing financial pressures on these organisations. Colleges across Wales are being forced to turn students away because they simply do not have the resources to place them on courses. ColegauCymru said in January that the 2026-27 budget risked shutting young people out of education and that it would shatter the then Government's own young person's guarantee. They estimated a funding shortfall of more than £23.5 million across FE institutions.\n\nNow, the young person's guarantee was Labour's promise to every 16 to 24-year-old in the country that they would be offered education, training or help into work. Yet, with some of the highest employability spending per head compared to other parts of the UK, more and more of our young people are being left behind. The Government needs to step up and deliver the funding for institutions and initiatives that can help to solve this problem.\n\nNow, last week, Llywydd, I visited, alongside yourself, a showcase event for Pathways, a pilot project that helped to get young people in the Rhondda out of the NEET trap and on to a positive path for the future. That pilot will publish its evidence this autumn, and I hope that it can be a positive model for young people for improving their lives and continuing to engage with the economy.\n\nNow, Plaid Cymru spend a lot of time talking about their ambitions for Wales, but the ambitions that I'm interested in are the ambitions of our young people and their ability to fulfil those ambitions within the economy. Therefore, I will be supporting the motion before us today, alongside the Conservative amendment calling for closer ties between our institutions and the private sector. Diolch yn fawr.",
+          "text_original": "I stand today in support of the motion, not because I agree with everything that Labour did in Government—and, to be clear, I don't—but because the facts in the motion today are true: too many young people in Wales are not in education, employment or training. Demand for college places is up, but the funding has not followed suit, and that is a crucial policy failure that must be addressed.\n\nThe motion today discusses a crisis amongst young people who are not in education, employment or training, alongside the lifelong scarring that follows. Now, we know that the statistics are dire. As Sam just shared with us, in the year ending December 2025, 17 per cent of 16 to 24-year-olds were not in education, employment or training. That's 56,800 young people who are unable to participate in the economy. Wales was the only UK nation where those statistics rose year on year, with a 5.5 per cent increase. That is a stark failure of the Government in this place to deliver for our young people. It's also a huge missed opportunity for our economy and for our public finances. If we could get just half of those young people into full-time employment, the Welsh Government would generate over £90 million in income tax receipts. And that's before you consider the wider benefits that come with a larger consumer base and a greater number of young people who are engaged in the economy.\n\nNow, colleges are one of our main routes for young people to escape the NEET trap. The motion is right to recognise that the record levels of demand are imposing financial pressures on these organisations. Colleges across Wales are being forced to turn students away because they simply do not have the resources to place them on courses. ColegauCymru said in January that the 2026-27 budget risked shutting young people out of education and that it would shatter the then Government's own young person's guarantee. They estimated a funding shortfall of more than £23.5 million across FE institutions.\n\nNow, the young person's guarantee was Labour's promise to every 16 to 24-year-old in the country that they would be offered education, training or help into work. Yet, with some of the highest employability spending per head compared to other parts of the UK, more and more of our young people are being left behind. The Government needs to step up and deliver the funding for institutions and initiatives that can help to solve this problem.\n\nNow, last week, Llywydd, I visited, alongside yourself, a showcase event for Pathways, a pilot project that helped to get young people in the Rhondda out of the NEET trap and on to a positive path for the future. That pilot will publish its evidence this autumn, and I hope that it can be a positive model for young people for improving their lives and continuing to engage with the economy.\n\nNow, Plaid Cymru spend a lot of time talking about their ambitions for Wales, but the ambitions that I'm interested in are the ambitions of our young people and their ability to fulfil those ambitions within the economy. Therefore, I will be supporting the motion before us today, alongside the Conservative amendment calling for closer ties between our institutions and the private sector. Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=9011"
+        }
+      ],
+      "date": "2026-09-23",
+      "record_page_url": "https://record.senedd.wales/Plenary/16263"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771011",
+          "item_id": "item-16262-260922-4",
+          "item_title_en": "4. Statement by the First Minister: 'New Ambition for Wales: Programme for Government 2026-2030'",
+          "lang": "en",
+          "t_start": 10923,
+          "text_english": "During the election campaign, the First Minister said that the election was not about independence and that it would not be a priority during this Senedd term. Then, last week, he signed a joint statement with Sinn Féin and the SNP saying that Westminster's time was at an end. And now, today, in the programme for government that was published, it lists in the section of devolved powers the desire to pursue the devolved power to hold an independence referendum in Wales. Given the First Minister's comments during the election and then his comments today about his determination for an honest politics, I'd like to ask: what's changed between now and then?",
+          "text_original": "During the election campaign, the First Minister said that the election was not about independence and that it would not be a priority during this Senedd term. Then, last week, he signed a joint statement with Sinn Féin and the SNP saying that Westminster's time was at an end. And now, today, in the programme for government that was published, it lists in the section of devolved powers the desire to pursue the devolved power to hold an independence referendum in Wales. Given the First Minister's comments during the election and then his comments today about his determination for an honest politics, I'd like to ask: what's changed between now and then?",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=10923"
+        }
+      ],
+      "date": "2026-09-22",
+      "record_page_url": "https://record.senedd.wales/Plenary/16262"
+    },
     {
       "contributions": [
         {

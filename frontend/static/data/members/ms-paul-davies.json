@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,216 @@
   "canonical_name": "Paul Davies",
   "constituency_name_cy": "Ceredigion Penfro",
   "constituency_name_en": "Ceredigion Penfro",
-  "contribution_count": 33,
+  "contribution_count": 49,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778862",
+          "item_id": "item-16316-261014-2",
+          "item_title_en": "1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport",
+          "lang": "cy",
+          "t_start": 1092,
+          "text_english": "Minister, last week, a member of Amgueddfa Cymru staff said that the national museum had become increasingly dysfunctional and described a culture of managed decline, individual posturing, and a lack of professional stewardship of the national collection. They also raised the fact that any additional public funding provided, as part of the centenary of the museum, could fail to deliver its objectives unless the issues identified were examined and addressed properly. Minister, what is your response to those concerns? And following on from your earlier responses, what kind of discussions have you had with Amgueddfa Cymru to secure public confidence in the governance and management of our national collections?",
+          "text_original": "Diolch, Ddirprwy Lywydd. Weinidog, yr wythnos diwethaf, dywedodd aelod o staff Amgueddfa Cymru fod yr amgueddfa genedlaethol wedi dod yn fwyfwy camweithredol yn ystod y blynyddoedd diwethaf. Disgrifiodd ddiwylliant o ddirywiad rheoledig, ystum unigol, a diffyg stiwardiaeth broffesiynol o'r casgliad cenedlaethol. Roedd hefyd wedi codi y gallai unrhyw gyllid cyhoeddus ychwanegol a ddarperir, fel rhan o gynlluniau canmlwyddiant yr amgueddfa, fethu â chyflawni ei amcanion bwriadedig, oni bai bod y materion a nodwyd yn cael eu harchwilio a'u mynd i'r afael â nhw yn iawn. Weinidog, beth yw eich ymateb chi i'r pryderon hyn? Ac yn dilyn ymlaen o'ch atebion cynharach, pa fath o drafodaethau ydych chi wedi eu cael gydag Amgueddfa Cymru i sicrhau hyder y cyhoedd o ran llywodraethu a rheoli ein casgliadau cenedlaethol?",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=1092"
+        },
+        {
+          "id": "contribution-778837",
+          "item_id": "item-16316-261014-2",
+          "item_title_en": "1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport",
+          "lang": "cy",
+          "t_start": 1224,
+          "text_english": "The culture and arts sector in Wales is at a crucial point, and the future now looks very vulnerable indeed. In the meantime, national museums across the globe are transforming into more interactive spaces, which are driven by technology, to engage with new audiences. For example, the Smithsonian has used podcasting successfully to bring history and culture to audiences beyond their physical sites. The Louvre has partnered with Snapchat to develop innovative interpretation equipment for six of its sections. And the V&A East museum has held a late-night programme, bringing together DJ residencies, temporary bars and access to exhibitions after hours. \n\nSo, Minister, what support is the Welsh Government providing to assist museums and other cultural organisations in Wales to modernise, so that they are relevant, accessible and competitive in an age that is increasingly digital and experience led? And what else can the Welsh Government do to help museums to attract new audiences, and to attract younger audiences too?",
+          "text_original": "Mae sector diwylliant a chelfyddydau Cymru mewn cyfnod hollbwysig, ac mae’r dyfodol ar hyn o bryd yn edrych yn fregus iawn. Yn y cyfamser, mae amgueddfeydd cenedlaethol ledled y byd yn trawsnewid yn ofodau mwy rhyngweithiol, sy’n cael eu gyrru gan dechnoleg i ymgysylltu â chynulleidfaoedd newydd. Er enghraifft, mae’r Smithsonian wedi defnyddio podlediadau yn llwyddiannus i ddod â hanes a diwylliant i gynulleidfaoedd y tu hwnt i’w safleoedd ffisegol nhw. Mae’r Louvre wedi partneru â Snapchat i ddefnyddio offer dehongli arloesol ar gyfer chwech o’i hadrannau. Ac mae amgueddfa dwyrain V&A wedi cynnal rhaglen hwyrnos, sy’n dod â phreswylfeydd DJ, bariau dros dro, a mynediad i arddangosfeydd ar ôl oriau ynghyd.\n\nFelly, Weinidog, pa gefnogaeth mae Llywodraeth Cymru yn ei darparu i helpu amgueddfeydd a sefydliadau diwylliannol yng Nghymru i foderneiddio, fel eu bod yn berthnasol, yn hygyrch ac yn gystadleuol mewn oes sy’n gynyddol ddigidol ac sy’n cael ei arwain gan brofiad? A beth arall y gall Llywodraeth Cymru ei wneud i helpu amgueddfeydd i ddenu cynulleidfaoedd newydd, a denu cynulleidfaoedd iau hefyd?",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=1224"
+        }
+      ],
+      "date": "2026-10-14",
+      "record_page_url": "https://record.senedd.wales/Plenary/16316"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-778487",
+          "item_id": "item-16315-261013-2",
+          "item_title_en": "2. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 3873,
+          "text_english": "Trefnydd, I'd be grateful if we could have a statement from the Welsh Government on its overview of local authorities across Wales. A special investigation by the Cambrian News in my constituency has unearthed a number of troubling concerns regarding Ceredigion County Council and its purchase of Llettytwppa Farm, including questions over governance and oversight, allegations of conflict of interest, and the use of significant sums of public money for a project that reportedly has attracted only a small number of students.\n\nNow, I believe that, given the serious nature of the concerns, it's vital that there is a statement from the Welsh Government outlining what oversight mechanisms are available to ensure proper governance and accountability of local authorities in Wales, and to confirm whether the Welsh Government believes any further investigation is warranted in this particular case. The people of my constituency need assurances that public funds are being spent appropriately by the local authority and that decisions are being taken transparently and appropriately. So, I'd be grateful if a statement could be issued by the Welsh Government on this important issue as soon as possible.",
+          "text_original": "Trefnydd, I'd be grateful if we could have a statement from the Welsh Government on its overview of local authorities across Wales. A special investigation by the Cambrian News in my constituency has unearthed a number of troubling concerns regarding Ceredigion County Council and its purchase of Llettytwppa Farm, including questions over governance and oversight, allegations of conflict of interest, and the use of significant sums of public money for a project that reportedly has attracted only a small number of students.\n\nNow, I believe that, given the serious nature of the concerns, it's vital that there is a statement from the Welsh Government outlining what oversight mechanisms are available to ensure proper governance and accountability of local authorities in Wales, and to confirm whether the Welsh Government believes any further investigation is warranted in this particular case. The people of my constituency need assurances that public funds are being spent appropriately by the local authority and that decisions are being taken transparently and appropriately. So, I'd be grateful if a statement could be issued by the Welsh Government on this important issue as soon as possible.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=3873"
+        },
+        {
+          "id": "contribution-778571",
+          "item_id": "item-16315-261013-4",
+          "item_title_en": "4. Statement by the Cabinet Minister for Rural Resilience and Sustainability: Winter preparedness: Be flood ready",
+          "lang": "en",
+          "t_start": 10368,
+          "text_english": "Cabinet Minister, as your statement acknowledges, flooding is a problem for a number of communities in Ceredigion Penfro, and I'm pleased that your visit to Milford Haven showed how important that matter is. As I'm sure you're aware, flooding at Gumfreston in south Pembrokeshire has caused road closures, disruption and lengthy diversions for local communities, businesses and visitors. This was the subject of a Senedd petition calling for a long-term solution, which attracted more than 3,400 signatures. It was led by Councillor Rhys Jordan, who continues to press for the long-term improvements that local residents have been asking for. I understand that Natural Resources Wales is undertaking further appraisal work on flood mitigation options for the River Ritec catchment, but this has been an issue for the local community for some time and they want to see some more progress, as you would expect. I appreciate that you might not be able to give me specific details today, but I would be grateful if you could look at this particular issue and commit to bringing together Natural Resources Wales, Pembrokeshire County Council and Welsh Government officials once the appraisal work is complete so that a clear timetable for progress can be agreed and the necessary funding arrangements put in place so that we can finally move forward with a solution as soon as possible.",
+          "text_original": "Cabinet Minister, as your statement acknowledges, flooding is a problem for a number of communities in Ceredigion Penfro, and I'm pleased that your visit to Milford Haven showed how important that matter is. As I'm sure you're aware, flooding at Gumfreston in south Pembrokeshire has caused road closures, disruption and lengthy diversions for local communities, businesses and visitors. This was the subject of a Senedd petition calling for a long-term solution, which attracted more than 3,400 signatures. It was led by Councillor Rhys Jordan, who continues to press for the long-term improvements that local residents have been asking for. I understand that Natural Resources Wales is undertaking further appraisal work on flood mitigation options for the River Ritec catchment, but this has been an issue for the local community for some time and they want to see some more progress, as you would expect. I appreciate that you might not be able to give me specific details today, but I would be grateful if you could look at this particular issue and commit to bringing together Natural Resources Wales, Pembrokeshire County Council and Welsh Government officials once the appraisal work is complete so that a clear timetable for progress can be agreed and the necessary funding arrangements put in place so that we can finally move forward with a solution as soon as possible.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=10368"
+        }
+      ],
+      "date": "2026-10-13",
+      "record_page_url": "https://record.senedd.wales/Plenary/16315"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776865",
+          "item_id": "item-16314-261007-8",
+          "item_title_en": "7. Reform UK Debate: Regional rugby",
+          "lang": "en",
+          "t_start": 11859,
+          "text_english": "Diolch, Ddirprwy Lywydd. The proposal by the Welsh Rugby Union to reduce the number of professional men's teams from four to three would represent one of the most significant changes to the professional game, and, if this proposal is implemented, it would fundamentally reshape the sport in Wales for a generation.\n\nNow, in my view, given the implications of any decision to reduce the number of teams, there is one principle that must come first, and that is transparency. And I'm going to say this as clearly as I can: the Welsh Rugby Union must publish in full the business case underpinning these proposals. If the WRU is asking the rugby community, supporters and the wider public to accept such a huge restructuring of the professional game, then I believe that we have a right to see exactly how it has come to that decision. The WRU must publish the financial evidence that supports a reduction from four teams to three. We have to understand the metrics used to determine the WRU's position. What assessments have been made of geography, the club's impact on culture and our language, the women's game, grass-roots development, transport connectivity, international success? The list goes on. The WRU cannot reach a decision behind closed doors and then present it as a fait accompli. The future of Welsh rugby is simply too important for us not to scrutinise this proposal.\n\nNow, let me be clear, I acknowledge that professional rugby across the world faces significant financial pressures. Wales is not alone in that sense, and we have seen clubs collapse, budgets squeezed, and governing bodies are having to make difficult choices. And I don't believe that any serious observer of the game would claim that the finances of the game are in perfect health. But acknowledging those challenges does not mean accepting the WRU's proposed solution without scrutiny. In my view, the fundamental question remains: why can Wales no longer afford four professional sides? We have to look at countries operating in a similar rugby market, and we have to ask what lessons can we learn from others and adopt here in Wales.\n\nAnd that brings me to the issue of accountability. I believe that we should also be willing to ask difficult questions about the governing body itself. What if the WRU is, at least in part, part of the problem? What if some of the challenges facing Welsh rugby stem not only from the performance of the elite team and the clubs, but from decisions made at the centre by the governing body?\n\nWe have to ask ourselves what assessment has been made of the WRU's own governance arrangements, spending priorities and strategic decisions over recent years. Dirprwy Lywydd, in my view, accountability cannot flow in only one direction. If the rugby community is being asked to accept such a huge change, and if one area is being asked to lose part of their sporting and cultural identity, then the governing body must be prepared to subject itself to the same level of scrutiny.\n\nOf course, most people would agree that rugby should remain independent of Government. Ministers should not be selecting teams, determining sport structures, or directing the sport's day-to-day affairs, but independence does not mean an absence of accountability. We also have to remember that, in this whole process, the WRU has a conflict of interest as the owner of one of the four regional teams. That is why transparency matters, that is why accountability matters and that is why publishing the business case matters. Now, few would dispute that Welsh rugby needs reform, but I believe that reform must be achieved with transparency, evidence and accountability; not imposed through speculation, uncertainty and closed decision making. And, so, maybe it's time for some tough questions to be asked of the WRU in this regard.\n\nAnd so, in closing, Dirprwy Lywydd, I want to put on record the Welsh Conservatives' support for a four-team model. And in all probability, the reason that the WRU has not published its business case for reducing the number of professional men's teams from four to three is because the business case isn't strong enough. Cutting one of the teams will take the game away from a huge part of the rugby community, have a detrimental impact on the grass-roots game, which, in turn, harms our competitiveness in the future.\n\nRugby belongs to us all. Many people across Wales have memories of playing the game, whether in school or for a club. It's part of our national character and we must find a way forward that safeguards the professional game for future generations, so we will be supporting this motion this afternoon.",
+          "text_original": "Diolch, Ddirprwy Lywydd. The proposal by the Welsh Rugby Union to reduce the number of professional men's teams from four to three would represent one of the most significant changes to the professional game, and, if this proposal is implemented, it would fundamentally reshape the sport in Wales for a generation.\n\nNow, in my view, given the implications of any decision to reduce the number of teams, there is one principle that must come first, and that is transparency. And I'm going to say this as clearly as I can: the Welsh Rugby Union must publish in full the business case underpinning these proposals. If the WRU is asking the rugby community, supporters and the wider public to accept such a huge restructuring of the professional game, then I believe that we have a right to see exactly how it has come to that decision. The WRU must publish the financial evidence that supports a reduction from four teams to three. We have to understand the metrics used to determine the WRU's position. What assessments have been made of geography, the club's impact on culture and our language, the women's game, grass-roots development, transport connectivity, international success? The list goes on. The WRU cannot reach a decision behind closed doors and then present it as a fait accompli. The future of Welsh rugby is simply too important for us not to scrutinise this proposal.\n\nNow, let me be clear, I acknowledge that professional rugby across the world faces significant financial pressures. Wales is not alone in that sense, and we have seen clubs collapse, budgets squeezed, and governing bodies are having to make difficult choices. And I don't believe that any serious observer of the game would claim that the finances of the game are in perfect health. But acknowledging those challenges does not mean accepting the WRU's proposed solution without scrutiny. In my view, the fundamental question remains: why can Wales no longer afford four professional sides? We have to look at countries operating in a similar rugby market, and we have to ask what lessons can we learn from others and adopt here in Wales.\n\nAnd that brings me to the issue of accountability. I believe that we should also be willing to ask difficult questions about the governing body itself. What if the WRU is, at least in part, part of the problem? What if some of the challenges facing Welsh rugby stem not only from the performance of the elite team and the clubs, but from decisions made at the centre by the governing body?\n\nWe have to ask ourselves what assessment has been made of the WRU's own governance arrangements, spending priorities and strategic decisions over recent years. Dirprwy Lywydd, in my view, accountability cannot flow in only one direction. If the rugby community is being asked to accept such a huge change, and if one area is being asked to lose part of their sporting and cultural identity, then the governing body must be prepared to subject itself to the same level of scrutiny.\n\nOf course, most people would agree that rugby should remain independent of Government. Ministers should not be selecting teams, determining sport structures, or directing the sport's day-to-day affairs, but independence does not mean an absence of accountability. We also have to remember that, in this whole process, the WRU has a conflict of interest as the owner of one of the four regional teams. That is why transparency matters, that is why accountability matters and that is why publishing the business case matters. Now, few would dispute that Welsh rugby needs reform, but I believe that reform must be achieved with transparency, evidence and accountability; not imposed through speculation, uncertainty and closed decision making. And, so, maybe it's time for some tough questions to be asked of the WRU in this regard.\n\nAnd so, in closing, Dirprwy Lywydd, I want to put on record the Welsh Conservatives' support for a four-team model. And in all probability, the reason that the WRU has not published its business case for reducing the number of professional men's teams from four to three is because the business case isn't strong enough. Cutting one of the teams will take the game away from a huge part of the rugby community, have a detrimental impact on the grass-roots game, which, in turn, harms our competitiveness in the future.\n\nRugby belongs to us all. Many people across Wales have memories of playing the game, whether in school or for a club. It's part of our national character and we must find a way forward that safeguards the professional game for future generations, so we will be supporting this motion this afternoon.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=11859"
+        }
+      ],
+      "date": "2026-10-07",
+      "record_page_url": "https://record.senedd.wales/Plenary/16314"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-775897",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 2611,
+          "text_english": "First Minister, as you said, professional sport plays an important role in supporting local economies by creating jobs and generating investment in our communities. One good example is the expansion of the Novira Cymru Premier football league to 16 teams, with new branding, improved broadcasting and a stronger media presence, which has raised the profile and visibility of the league, which is indeed very welcome.\n\nNow, this season, Haverfordwest County Association Football Club has adopted a hybrid model, combining full-time professional players with part-time players. The aim is to provide a pathway for local talent into senior football, while also further improving the club's competitiveness, building on its recent qualification for European competition, which has happened twice in recent years. So, in light of the economic impact that clubs can have on their communities, what further steps can the Welsh Government take to promote the Novira Cymru Premier football league and the clubs that actually compete in it, particularly in developing home-grown talent, strengthening their commercial profile and helping more Welsh clubs compete successfully on the European stage?",
+          "text_original": "First Minister, as you said, professional sport plays an important role in supporting local economies by creating jobs and generating investment in our communities. One good example is the expansion of the Novira Cymru Premier football league to 16 teams, with new branding, improved broadcasting and a stronger media presence, which has raised the profile and visibility of the league, which is indeed very welcome.\n\nNow, this season, Haverfordwest County Association Football Club has adopted a hybrid model, combining full-time professional players with part-time players. The aim is to provide a pathway for local talent into senior football, while also further improving the club's competitiveness, building on its recent qualification for European competition, which has happened twice in recent years. So, in light of the economic impact that clubs can have on their communities, what further steps can the Welsh Government take to promote the Novira Cymru Premier football league and the clubs that actually compete in it, particularly in developing home-grown talent, strengthening their commercial profile and helping more Welsh clubs compete successfully on the European stage?",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=2611"
+        },
+        {
+          "id": "contribution-776067",
+          "item_id": "item-16313-261006-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 6449,
+          "text_english": "Trefnydd, I'd like to request a statement from the Cabinet Minister for Enterprise, Connectivity and Energy on the announcement that Milford Haven's Impala terminal is to cease its commercial operations at the end of this year. We must fully understand the implications of this announcement, including the scale of any job losses and the impact on the local economy. We also need further clarity on how the Welsh Government intends to support both the company and its workforce as this situation develops. These are highly skilled and valuable jobs, and every effort must be made to retain this expertise within the region and to safeguard future employment opportunities. In my view, losing such skills would be a significant blow to the local economy and, indeed, to the wider energy sector. Therefore, I'd be grateful if the Welsh Government could provide an urgent statement outlining its engagement with the company to date, the discussions it has held regarding the future of the terminal and the support that may be available to both the workforce and the operator, going forward.",
+          "text_original": "Trefnydd, I'd like to request a statement from the Cabinet Minister for Enterprise, Connectivity and Energy on the announcement that Milford Haven's Impala terminal is to cease its commercial operations at the end of this year. We must fully understand the implications of this announcement, including the scale of any job losses and the impact on the local economy. We also need further clarity on how the Welsh Government intends to support both the company and its workforce as this situation develops. These are highly skilled and valuable jobs, and every effort must be made to retain this expertise within the region and to safeguard future employment opportunities. In my view, losing such skills would be a significant blow to the local economy and, indeed, to the wider energy sector. Therefore, I'd be grateful if the Welsh Government could provide an urgent statement outlining its engagement with the company to date, the discussions it has held regarding the future of the terminal and the support that may be available to both the workforce and the operator, going forward.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=6449"
+        }
+      ],
+      "date": "2026-10-06",
+      "record_page_url": "https://record.senedd.wales/Plenary/16313"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-773900",
+          "item_id": "item-16265-260930-8",
+          "item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+          "lang": "en",
+          "t_start": 16604,
+          "text_english": "It gives me great pleasure to take part in this afternoon's debate and to highlight the contribution being made by the defence sector in west Wales. Now, our motion recognises the importance of the defence sector, particularly during this time of geopolitical uncertainty. In Ceredigion Penfro, and contrary to the previous speaker, we are proud of our military heritage, proud of the men and women who serve our country, and proud of the role our communities continue to play in supporting our armed forces and the wider defence industry.\n\nThe Ministry of Defence maintains a substantial operational and testing presence in west Wales, and this, of course, includes the MOD Aberporth range, located near Cardigan, which provides a vast and secure safety area for the testing and evaluation of air-launched weapons and uncrewed aerial systems, ensuring that these are safe, effective and fit for operational use. As I understand it, the range employs around 200 skilled staff and makes a significant contribution to the local economy. The facility supports a wider supply chain of local businesses, contractors and service providers, which, of course, helps to sustain jobs and investment across the region. These are important roles that provide career opportunities and help retain skilled workers in west Wales. MOD Aberporth has established itself as a centre of excellence in aerospace and defence innovation, particularly in the rapidly developing field of uncrewed and autonomous systems. And I believe this supports innovation, research and technological advancement, which, in turn, strengthens our national defence.\n\nOf course, the presence of the defence sector in west Wales is not limited to Aberporth. Cawdor barracks in Brawdy has long been an important part of the region's military landscape and also makes a significant contribution to both our national security and, indeed, to the local economy. The barracks have provided employment opportunities for military personnel, civilian staff and local contractors, and the service families are a cherished part of the local community. There has been some discussion around the future of the barracks, with proposals to develop it as the UK's host site for the deep space advanced radar capability programme, known as DARC. This would be the UK's first dedicated military space tracking radar system and it would help the UK contribute towards space security by providing greater levels of UK-sourced data for the National Space Operations Centre.\n\nI appreciate there are strong-held views for and against the DARC programme, but in my view, Cawdor barracks has an opportunity to be at the forefront of this very important technology. It would provide jobs for up to 100 UK military and civilian personnel onsite and it would also deliver further supply chain opportunities for the local area. For example, there will be significant opportunities during the construction phase. And so, if the DARC programme does proceed at the Cawdor barracks, I believe it would continue Pembrokeshire's proud tradition of supporting our military and protecting our nation.\n\nThe final sub-point in our motion calls on the Welsh Government to work with the UK Government to explore opportunities to strengthen investment in the defence sector here in Wales. I also want to make a brief point about Milford Haven, and the announcement last year that it was identified by the UK Government as one of 13 potential sites for new munitions and energetics factories. We are now waiting for further details from the UK Government on the next steps in that selection process, and whether the Milford Haven site will ultimately be chosen. But the fact that it has been shortlisted as a potential site reiterates the area's strategic importance.\n\nAt a time when strengthening the resilience of our defence supply chains is becoming increasingly important, it is encouraging to see west Wales being recognised for the role it can play in bolstering our defence. Of course, it would be remiss of me not to also highlight the importance of the Castlemartin training area and firing range, which is regularly used for live firing and tactical battle group-level exercises that are an essential part of ensuring our soldiers are prepared for all combat eventualities.\n\nMy constituency has a strong military history. Pembroke Dock's naval dockyard was one of the most important shipbuilding sites in Britain during the nineteenth and early twentieth centuries. Angle airfield was a fighter station belonging to No. 10 Group Fighter Command, and a succession of squadrons passed through Angle, flying Supermarine Spitfires, Westland Whirlwinds and Hawker Hurricanes. St David's, Britain's smallest city, was a submarine listening post in world war one and a radar station in world war two. That's just a few examples, but there are many, many more. We in west Wales are proud of our contribution to our defence sector and to our armed forces, and we will continue to make an important contribution in the future. So, I urge Members to support our motion.",
+          "text_original": "It gives me great pleasure to take part in this afternoon's debate and to highlight the contribution being made by the defence sector in west Wales. Now, our motion recognises the importance of the defence sector, particularly during this time of geopolitical uncertainty. In Ceredigion Penfro, and contrary to the previous speaker, we are proud of our military heritage, proud of the men and women who serve our country, and proud of the role our communities continue to play in supporting our armed forces and the wider defence industry.\n\nThe Ministry of Defence maintains a substantial operational and testing presence in west Wales, and this, of course, includes the MOD Aberporth range, located near Cardigan, which provides a vast and secure safety area for the testing and evaluation of air-launched weapons and uncrewed aerial systems, ensuring that these are safe, effective and fit for operational use. As I understand it, the range employs around 200 skilled staff and makes a significant contribution to the local economy. The facility supports a wider supply chain of local businesses, contractors and service providers, which, of course, helps to sustain jobs and investment across the region. These are important roles that provide career opportunities and help retain skilled workers in west Wales. MOD Aberporth has established itself as a centre of excellence in aerospace and defence innovation, particularly in the rapidly developing field of uncrewed and autonomous systems. And I believe this supports innovation, research and technological advancement, which, in turn, strengthens our national defence.\n\nOf course, the presence of the defence sector in west Wales is not limited to Aberporth. Cawdor barracks in Brawdy has long been an important part of the region's military landscape and also makes a significant contribution to both our national security and, indeed, to the local economy. The barracks have provided employment opportunities for military personnel, civilian staff and local contractors, and the service families are a cherished part of the local community. There has been some discussion around the future of the barracks, with proposals to develop it as the UK's host site for the deep space advanced radar capability programme, known as DARC. This would be the UK's first dedicated military space tracking radar system and it would help the UK contribute towards space security by providing greater levels of UK-sourced data for the National Space Operations Centre.\n\nI appreciate there are strong-held views for and against the DARC programme, but in my view, Cawdor barracks has an opportunity to be at the forefront of this very important technology. It would provide jobs for up to 100 UK military and civilian personnel onsite and it would also deliver further supply chain opportunities for the local area. For example, there will be significant opportunities during the construction phase. And so, if the DARC programme does proceed at the Cawdor barracks, I believe it would continue Pembrokeshire's proud tradition of supporting our military and protecting our nation.\n\nThe final sub-point in our motion calls on the Welsh Government to work with the UK Government to explore opportunities to strengthen investment in the defence sector here in Wales. I also want to make a brief point about Milford Haven, and the announcement last year that it was identified by the UK Government as one of 13 potential sites for new munitions and energetics factories. We are now waiting for further details from the UK Government on the next steps in that selection process, and whether the Milford Haven site will ultimately be chosen. But the fact that it has been shortlisted as a potential site reiterates the area's strategic importance.\n\nAt a time when strengthening the resilience of our defence supply chains is becoming increasingly important, it is encouraging to see west Wales being recognised for the role it can play in bolstering our defence. Of course, it would be remiss of me not to also highlight the importance of the Castlemartin training area and firing range, which is regularly used for live firing and tactical battle group-level exercises that are an essential part of ensuring our soldiers are prepared for all combat eventualities.\n\nMy constituency has a strong military history. Pembroke Dock's naval dockyard was one of the most important shipbuilding sites in Britain during the nineteenth and early twentieth centuries. Angle airfield was a fighter station belonging to No. 10 Group Fighter Command, and a succession of squadrons passed through Angle, flying Supermarine Spitfires, Westland Whirlwinds and Hawker Hurricanes. St David's, Britain's smallest city, was a submarine listening post in world war one and a radar station in world war two. That's just a few examples, but there are many, many more. We in west Wales are proud of our contribution to our defence sector and to our armed forces, and we will continue to make an important contribution in the future. So, I urge Members to support our motion.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=16604"
+        },
+        {
+          "id": "contribution-773883",
+          "item_id": "item-16265-260930-10",
+          "item_title_en": "9. Short Debate: The importance of local services—Protecting the future of Withybush hospital",
+          "lang": "en",
+          "t_start": 20733,
+          "text_english": "I'm grateful to the Member for allowing me a minute of her time so that I can take part in this very important debate.\n\nProtecting services at Withybush Hospital and ensuring it has the resources needed to serve the people of Pembrokeshire has been one of my foremost priorities since I was first elected to this place in 2007. I know that long-standing Members will be aware that I've challenged proposals that centralised or downgraded services at Withybush Hospital, and I've tabled questions, led debates, attended public meetings, supported local campaigns, presented petitions and worked alongside residents to make their voices heard here at the Senedd.\n\nAnd in my view, the people of Pembrokeshire deserve access to safe, high-quality healthcare close to home. They should not have to live with the constant fear that more vital services will be stripped away from their local hospital. Whilst Hywel Dda University Health Board is responsible for service delivery, Welsh Governments cannot continue to stand on the sidelines. They have the powers to intervene, and for too long they have chosen not to use them. This Government does not have to be a continuity Government of the last Government. It can and it must do better.\n\nAnd so, I echo some of the points that the Member has already made in this debate about the importance of protecting Withybush Hospital, and I urge this Government to work with us and work with local residents to protect the future of Withybush Hospital. The people of Pembrokeshire deserve nothing less.",
+          "text_original": "I'm grateful to the Member for allowing me a minute of her time so that I can take part in this very important debate.\n\nProtecting services at Withybush Hospital and ensuring it has the resources needed to serve the people of Pembrokeshire has been one of my foremost priorities since I was first elected to this place in 2007. I know that long-standing Members will be aware that I've challenged proposals that centralised or downgraded services at Withybush Hospital, and I've tabled questions, led debates, attended public meetings, supported local campaigns, presented petitions and worked alongside residents to make their voices heard here at the Senedd.\n\nAnd in my view, the people of Pembrokeshire deserve access to safe, high-quality healthcare close to home. They should not have to live with the constant fear that more vital services will be stripped away from their local hospital. Whilst Hywel Dda University Health Board is responsible for service delivery, Welsh Governments cannot continue to stand on the sidelines. They have the powers to intervene, and for too long they have chosen not to use them. This Government does not have to be a continuity Government of the last Government. It can and it must do better.\n\nAnd so, I echo some of the points that the Member has already made in this debate about the importance of protecting Withybush Hospital, and I urge this Government to work with us and work with local residents to protect the future of Withybush Hospital. The people of Pembrokeshire deserve nothing less.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=20733"
+        }
+      ],
+      "date": "2026-09-30",
+      "record_page_url": "https://record.senedd.wales/Plenary/16265"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-772867",
+          "item_id": "item-16264-260929-3",
+          "item_title_en": "2. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 2230,
+          "text_english": "First Minister, Haverfordwest's former Masonic hall has been recently brought back into use following years of closure, and will again be a hub for live music, entertainment and creative talent, showcasing the vital role that grass-roots music venues play in supporting young artists, strengthening communities and boosting local economies. I'm sure you'll agree with me that this project has a great opportunity to strengthen Pembrokeshire's live music scene and create new opportunities for the next generation of local performers. So, First Minister, given the challenges that many towns face with vacant properties and declining town centres, what steps is the Welsh Government taking to incentivise projects like this that bring old buildings back into use, especially if they are brought back as independent and grass-roots music venues?",
+          "text_original": "First Minister, Haverfordwest's former Masonic hall has been recently brought back into use following years of closure, and will again be a hub for live music, entertainment and creative talent, showcasing the vital role that grass-roots music venues play in supporting young artists, strengthening communities and boosting local economies. I'm sure you'll agree with me that this project has a great opportunity to strengthen Pembrokeshire's live music scene and create new opportunities for the next generation of local performers. So, First Minister, given the challenges that many towns face with vacant properties and declining town centres, what steps is the Welsh Government taking to incentivise projects like this that bring old buildings back into use, especially if they are brought back as independent and grass-roots music venues?",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=2230"
+        },
+        {
+          "id": "contribution-772931",
+          "item_id": "item-16264-260929-4",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 4004,
+          "text_english": "Trefnydd, I'd like to request a statement from the Welsh Government regarding the impact of rising energy and fuel costs on Welsh households and businesses. According to RAC Fuel Watch, the average price of diesel has now reached around £2 per litre, and the average price of petrol is around £1.74 per litre. In rural constituencies like Ceredigion Penfro, the increase in fuel prices has a particularly big knock-on effect, as many people have little choice but to rely on their vehicles to access work, healthcare and essential services. These increases are placing significant pressure on families and businesses at a time when many are already struggling with the rising cost of living, and it also has serious consequences for businesses, hauliers and farmers, by squeezing what are already very tight margins.\n\nI appreciate that the Welsh Government is not responsible for fuel duty, but it does have some responsibility around energy policy. So, Trefnydd, given the impact of rising fuel and energy costs on Welsh households and businesses, I'd be grateful if we could have a statement from the Welsh Government outlining what representations have so far been made to the UK Government ahead of the autumn budget regarding fuel duty and energy costs, and what support is available in Wales to help those who are struggling as a result of these increases.",
+          "text_original": "Trefnydd, I'd like to request a statement from the Welsh Government regarding the impact of rising energy and fuel costs on Welsh households and businesses. According to RAC Fuel Watch, the average price of diesel has now reached around £2 per litre, and the average price of petrol is around £1.74 per litre. In rural constituencies like Ceredigion Penfro, the increase in fuel prices has a particularly big knock-on effect, as many people have little choice but to rely on their vehicles to access work, healthcare and essential services. These increases are placing significant pressure on families and businesses at a time when many are already struggling with the rising cost of living, and it also has serious consequences for businesses, hauliers and farmers, by squeezing what are already very tight margins.\n\nI appreciate that the Welsh Government is not responsible for fuel duty, but it does have some responsibility around energy policy. So, Trefnydd, given the impact of rising fuel and energy costs on Welsh households and businesses, I'd be grateful if we could have a statement from the Welsh Government outlining what representations have so far been made to the UK Government ahead of the autumn budget regarding fuel duty and energy costs, and what support is available in Wales to help those who are struggling as a result of these increases.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=4004"
+        }
+      ],
+      "date": "2026-09-29",
+      "record_page_url": "https://record.senedd.wales/Plenary/16264"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771428",
+          "item_id": "item-16263-260923-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and Welsh Language",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "2. What are the Welsh Government's priorities for schools in Pembrokeshire for the next 12 months? OQ64510",
+          "text_original": "2. Beth yw blaenoriaethau Llywodraeth Cymru ar gyfer ysgolion yn Sir Benfro dros y 12 mis nesaf? OQ64510",
+          "tv_url": "http://www.senedd.tv/en/16263"
+        },
+        {
+          "id": "contribution-771435",
+          "item_id": "item-16263-260923-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and Welsh Language",
+          "lang": "en",
+          "t_start": 3558,
+          "text_english": "Thank you for that response, Cabinet Minister. There are some serious concerns regarding the future of faith education in our schools in Pembrokeshire, following a number of controversial decisions that have been taken by Pembrokeshire County Council in recent months. As you may be aware, the council decided in May to remove the voluntary controlled status of Ysgol Cilgerran Church in Wales school. This was followed in June by a decision to close Manorbier Church in Wales VC School, while proposals are also being considered to discontinue Tenby Church in Wales VC Primary School.\n\nThese decisions have raised some serious concerns amongst parents, governors, church representatives and local communities about the long-term future of faith-based education in Pembrokeshire. So, Cabinet Minister, do you agree with me that no faith school should be lost or lose its status against the will of its school community? And can you tell us what action the Welsh Government is willing to take to support schools that wish to retain their faith status in Pembrokeshire and, indeed, across the whole of Wales?",
+          "text_original": "Thank you for that response, Cabinet Minister. There are some serious concerns regarding the future of faith education in our schools in Pembrokeshire, following a number of controversial decisions that have been taken by Pembrokeshire County Council in recent months. As you may be aware, the council decided in May to remove the voluntary controlled status of Ysgol Cilgerran Church in Wales school. This was followed in June by a decision to close Manorbier Church in Wales VC School, while proposals are also being considered to discontinue Tenby Church in Wales VC Primary School.\n\nThese decisions have raised some serious concerns amongst parents, governors, church representatives and local communities about the long-term future of faith-based education in Pembrokeshire. So, Cabinet Minister, do you agree with me that no faith school should be lost or lose its status against the will of its school community? And can you tell us what action the Welsh Government is willing to take to support schools that wish to retain their faith status in Pembrokeshire and, indeed, across the whole of Wales?",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=3558"
+        }
+      ],
+      "date": "2026-09-23",
+      "record_page_url": "https://record.senedd.wales/Plenary/16263"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-770735",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "2. What are the Welsh Government's healthcare priorities for Ceredigion Penfro for the next twelve months? OQ64479",
+          "text_original": "2. Beth yw blaenoriaethau gofal iechyd Llywodraeth Cymru ar gyfer Ceredigion Penfro ar gyfer y deuddeg mis nesaf? OQ64479",
+          "tv_url": "http://www.senedd.tv/en/16262"
+        },
+        {
+          "id": "contribution-770740",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 487,
+          "text_english": "First Minister, I believe that the Welsh Government's healthcare priorities for Ceredigion Penfro must be to protect essential health services at its hospitals so that patients do not have to travel further afield for treatment. Now, over the years, my constituents have seen health services centralised and moved further away by the local health board, despite clear public opposition to these changes. And there has been little, if any, intervention or challenge from a Welsh Government over the last 27 years. Now, following the change of Government in May, there was a sense of hope for my constituents that their views would be heard and the health board stopped, and, so far, that has not been the case. So, First Minister, what threshold must be crossed before the Welsh Government is prepared to intervene and prevent Hywel Dda University Health Board from further downgrading services in west Wales? And what message do you have for the people of Ceredigion Penfro who voted for a Government they believed would stand up for local communities and ensure that no further services are removed from their hospitals?",
+          "text_original": "First Minister, I believe that the Welsh Government's healthcare priorities for Ceredigion Penfro must be to protect essential health services at its hospitals so that patients do not have to travel further afield for treatment. Now, over the years, my constituents have seen health services centralised and moved further away by the local health board, despite clear public opposition to these changes. And there has been little, if any, intervention or challenge from a Welsh Government over the last 27 years. Now, following the change of Government in May, there was a sense of hope for my constituents that their views would be heard and the health board stopped, and, so far, that has not been the case. So, First Minister, what threshold must be crossed before the Welsh Government is prepared to intervene and prevent Hywel Dda University Health Board from further downgrading services in west Wales? And what message do you have for the people of Ceredigion Penfro who voted for a Government they believed would stand up for local communities and ensure that no further services are removed from their hospitals?",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=487"
+        },
+        {
+          "id": "contribution-770938",
+          "item_id": "item-16262-260922-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 6852,
+          "text_english": "Trefnydd, continuing on the theme of trains, I'd like to request a statement from the Deputy Minister for Transport on the delivery of rail services in west Wales. I'm regularly contacted by constituents from across Ceredigion Penfro who express concerns about the frequency, reliability and overall availability of rail services in the region. They want to see more regular and dependable train services operating across all rail lines in west Wales throughout the week, because for too long west Wales has not received the level of attention it deserves when it comes to rail connectivity and service delivery, and I believe there should be a review of rail provision in the region to assess whether current services are meeting the needs of local communities, and indeed to identify where improvements are required. Therefore, I'd be grateful if the Welsh Government could provide a statement outlining what steps it intends to take to improve the delivery, frequency and reliability of rail services in west Wales so that we can understand how it plans to address the long-standing concerns of passengers in Ceredigion Penfro.",
+          "text_original": "Trefnydd, continuing on the theme of trains, I'd like to request a statement from the Deputy Minister for Transport on the delivery of rail services in west Wales. I'm regularly contacted by constituents from across Ceredigion Penfro who express concerns about the frequency, reliability and overall availability of rail services in the region. They want to see more regular and dependable train services operating across all rail lines in west Wales throughout the week, because for too long west Wales has not received the level of attention it deserves when it comes to rail connectivity and service delivery, and I believe there should be a review of rail provision in the region to assess whether current services are meeting the needs of local communities, and indeed to identify where improvements are required. Therefore, I'd be grateful if the Welsh Government could provide a statement outlining what steps it intends to take to improve the delivery, frequency and reliability of rail services in west Wales so that we can understand how it plans to address the long-standing concerns of passengers in Ceredigion Penfro.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=6852"
+        }
+      ],
+      "date": "2026-09-22",
+      "record_page_url": "https://record.senedd.wales/Plenary/16262"
+    },
     {
       "contributions": [
         {

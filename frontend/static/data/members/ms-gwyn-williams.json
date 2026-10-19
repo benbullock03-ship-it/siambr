@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,98 @@
   "canonical_name": "Gwyn Williams",
   "constituency_name_cy": "Gŵyr Abertawe",
   "constituency_name_en": "Gŵyr Abertawe",
-  "contribution_count": 26,
+  "contribution_count": 32,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778707",
+          "item_id": "item-16315-261013-8",
+          "item_title_en": "8. Legislative Consent Motion: The Armed Forces Bill",
+          "lang": "en",
+          "t_start": 17784,
+          "text_english": "I welcome this legislative consent memorandum for the Armed Forces Bill. My son, Emyr, serves in the 1st Regiment Royal Horse Artillery, so I value the opportunity to speak on this matter today. This Bill recognises a range of items, from the issue of defence housing and property, the armed forces covenant, as well as protecting victims of service offences. These issues directly impact thousands of Welsh armed forces personnel who serve.\n\nThis LCM seeks consent on defence housing and other property, which makes provisions for a 10-year plan to build new homes across a third of the Ministry of Defence estate. I welcome this, as veteran homelessness is a serious issue not just in Wales, but across the United Kingdom as a whole. I strongly believe that armed forces personnel and veterans must be provided with clear signposting and support on issues such as housing, in order to make a transition back to civilian life when that time eventually comes.\n\nThe armed forces covenant aims to provide further support to current armed forces personnel and veterans. I would hope that my son Emyr, as well as all other military personnel, are supported and that they receive access to essential services and are treated fairly.\n\nRobust reforms are also needed to modernise the investigation, charging and disciplining procedures for victims of service offences. A protection towards armed forces personnel is seen here, with improvements of support for protecting the victims of the most serious offences from further harm. For these reasons, I am in support of granting consent to this LCM. We owe it to our troops and our veterans. Diolch yn fawr.",
+          "text_original": "I welcome this legislative consent memorandum for the Armed Forces Bill. My son, Emyr, serves in the 1st Regiment Royal Horse Artillery, so I value the opportunity to speak on this matter today. This Bill recognises a range of items, from the issue of defence housing and property, the armed forces covenant, as well as protecting victims of service offences. These issues directly impact thousands of Welsh armed forces personnel who serve.\n\nThis LCM seeks consent on defence housing and other property, which makes provisions for a 10-year plan to build new homes across a third of the Ministry of Defence estate. I welcome this, as veteran homelessness is a serious issue not just in Wales, but across the United Kingdom as a whole. I strongly believe that armed forces personnel and veterans must be provided with clear signposting and support on issues such as housing, in order to make a transition back to civilian life when that time eventually comes.\n\nThe armed forces covenant aims to provide further support to current armed forces personnel and veterans. I would hope that my son Emyr, as well as all other military personnel, are supported and that they receive access to essential services and are treated fairly.\n\nRobust reforms are also needed to modernise the investigation, charging and disciplining procedures for victims of service offences. A protection towards armed forces personnel is seen here, with improvements of support for protecting the victims of the most serious offences from further harm. For these reasons, I am in support of granting consent to this LCM. We owe it to our troops and our veterans. Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=17784"
+        }
+      ],
+      "date": "2026-10-13",
+      "record_page_url": "https://record.senedd.wales/Plenary/16315"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776031",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "cy",
+          "t_start": 5375,
+          "text_english": "Thank you, Cabinet Minister. From childcare to business rates and support with the cost of living, this Government is already tackling the issues affecting people across Wales. I'm pleased to see us collaborating across different portfolios and reducing the work carried out in Government silos, which is something that has been needed for many years.\n\nNow, as noted after the first 100 days, the Government is investing £100 million in tackling waiting lists in the NHS. It's vital for people across Wales, and, of course, in Gŵyr Abertawe, that the Government succeeds in tackling this huge problem, which has faced Wales for far too long. How will the Government ensure that these investments will provide the most effective, and, more importantly, continuous benefit, while delivering the programme for government? Thank you.",
+          "text_original": "Diolch, Weinidog Cabinet. O ofal plant i gyfraddau busnes a chymorth efo costau byw, mae'r Llywodraeth yn mynd i'r afael â'r problemau sy'n effeithio ar bobl hyd a lled Cymru. Dwi'n falch o'n gweld ni'n cydweithio ar draws gwahanol bortffolios a lleihau'r gweithio sy'n cymryd lle mewn seilos llywodraethol—rhywbeth dŷn ni wedi'i eisiau ers blynyddoedd maith.\n\nNawr, fel y nodwyd ar ôl y 100 diwrnod, mae'r Llywodraeth yn buddsoddi £100 miliwn i daclo rhestrau aros y GIG. Mae'n hynod o bwysig i bobl ar draws Cymru, ac, wrth gwrs, yng Ngŵyr Abertawe, fod y Llywodraeth yn llwyddo i fynd i'r afael â'r broblem fawr hon, sydd wedi wynebu Cymru ers llawer rhy hir. Sut bydd y Llywodraeth yn sicrhau bod buddsoddiadau fel hyn yn darparu'r budd mwyaf effeithiol, ac, yn fwy pwysig, parhaol, wrth gyflwyno'r rhaglen lywodraethu? Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=5375"
+        }
+      ],
+      "date": "2026-10-06",
+      "record_page_url": "https://record.senedd.wales/Plenary/16313"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-773675",
+          "item_id": "item-16265-260930-3",
+          "item_title_en": "3. Topical Questions",
+          "lang": "en",
+          "t_start": 6441,
+          "text_english": "Thanks to Huw for bringing this important issue up, and for Kiera for mentioning Gŵyr Abertawe. Thank you, both. Admiral's announcement that they were cutting 500 jobs has been devastating for our own communities in Gŵyr Abertawe, as Kiera mentioned as well, and we've had many e-mails about this. In fact, one came just in the time that we've been sitting here in Plenary. It's an important issue for the people of Swansea, because almost 2,000 people are employed by Admiral in the Swansea area. Admiral, of course, being Wales's only FTSE 100 company, recorded a £958 million profit last year, and it is my view, and the view of my fellow MSs, that these lay-offs are completely optional. This is causing concern, as we can imagine, because the economic situation of our own constituency is fragile, to say the most favourable thing, really.\n\nSo, can the Minister, please, after his engagement with the company, update both us from Plaid Cymru, but also people from other parties as well, on the situation, so that we can properly communicate with our constituents, because they are very, very concerned, and it has a disproportionate hit on the economy of Gŵyr Abertawe? Diolch yn fawr.",
+          "text_original": "Thanks to Huw for bringing this important issue up, and for Kiera for mentioning Gŵyr Abertawe. Thank you, both. Admiral's announcement that they were cutting 500 jobs has been devastating for our own communities in Gŵyr Abertawe, as Kiera mentioned as well, and we've had many e-mails about this. In fact, one came just in the time that we've been sitting here in Plenary. It's an important issue for the people of Swansea, because almost 2,000 people are employed by Admiral in the Swansea area. Admiral, of course, being Wales's only FTSE 100 company, recorded a £958 million profit last year, and it is my view, and the view of my fellow MSs, that these lay-offs are completely optional. This is causing concern, as we can imagine, because the economic situation of our own constituency is fragile, to say the most favourable thing, really.\n\nSo, can the Minister, please, after his engagement with the company, update both us from Plaid Cymru, but also people from other parties as well, on the situation, so that we can properly communicate with our constituents, because they are very, very concerned, and it has a disproportionate hit on the economy of Gŵyr Abertawe? Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=6441"
+        }
+      ],
+      "date": "2026-09-30",
+      "record_page_url": "https://record.senedd.wales/Plenary/16265"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-772976",
+          "item_id": "item-16264-260929-5",
+          "item_title_en": "4. Statement by the Cabinet Minister for Health and Care: Review of the Escalation and Intervention Framework",
+          "lang": "cy",
+          "t_start": 7151,
+          "text_english": "I welcome the publication of the new accountability and support framework, in particular its emphasis on early identification and purposeful intervention. As Benjamin Hodge Mckenna said, the current framework isn't working. Preventing and making it easier to tackle challenges before they become crises is an approach that I agree with, and I think that everyone in the Chamber would agree with that too. I'm pleased that it's being used in the area of health and our NHS, but also more broadly, as a general guiding principle. \n\nI hope that the new framework will strengthen accountability and improve services, but given such regional variation in services and performance—something I myself regularly talk about—how will you ensure that the framework is applied consistently across all health boards in Wales, where there is so much variation at present? Thank you.",
+          "text_original": "Croesawaf gyhoeddiad y fframwaith cyfrifoldeb a chefnogaeth genedlaethol newydd, yn enwedig y pwyslais ar ganfod ymyrraeth gynnar ac ymyrraeth bwrpasol. Fel dywedodd Benjamin Hodge Mckenna, dyw'r fframwaith presennol ddim yn gweithio. Mae atal a'i gwneud hi'n haws i fynd i'r afael â heriau cyn iddynt ddod yn argyfwng yn agwedd rwy'n cytuno â hi, a dwi'n meddwl y bydd pawb yn y Siambr yn cytuno gyda hwnna hefyd. Dwi'n falch ei fod e'n cael ei ddefnyddio ym maes iechyd a'r gwasanaeth iechyd, ond hefyd yn fwy eang, fel egwyddor arweiniol cyffredinol. \n\nGobeithiaf y bydd y fframwaith newydd yn cryfhau cyfrifoldeb ac yn gwella gwasanaethau, ond o ystyried y gwahaniaethau mawr yn rhanbarthol mewn gwasanaethau a pherfformiad—rhywbeth dwi fy hun yn siarad yn aml amdano—sut byddwch chi'n sicrhau bod y fframwaith yn cael ei gymhwyso'n gyson ar draws pob bwrdd iechyd yng Nghymru, lle mae cymaint o amrywiaeth? Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=7151"
+        }
+      ],
+      "date": "2026-09-29",
+      "record_page_url": "https://record.senedd.wales/Plenary/16264"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771567",
+          "item_id": "item-16263-260923-3",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "10. Will the Commission consider alternative routes linking Tŷ Hywel to the Siambr to help alleviate bottlenecks during Plenary? OQ64548",
+          "text_original": "10. A wnaiff y Comisiwn ystyried llwybrau amgen sy'n cysylltu Tŷ Hywel â'r Siambr i helpu i leihau tagfeydd yn ystod y Cyfarfod Llawn? OQ64548",
+          "tv_url": "http://www.senedd.tv/en/16263"
+        },
+        {
+          "id": "contribution-771580",
+          "item_id": "item-16263-260923-3",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 7705,
+          "text_english": "Diolch yn fawr. I would humbly suggest, as a new Member, as many of the people here are—. The level of the canteen, which is marked M, and the first floor and the stairwell on the other side, as you said in your answer, can only be connected via a lift. It does seem to be, at busy periods, a bottleneck of people. I have lost count of the number of long-serving staff, including a very nice lady called Sam, who works in the tea room here—. She has said that she has lost count of the number of times that she has suggested a flight of steps connecting that level with the stairwell on the other side. And there is some space to the side. So, would the Commission agree that this is a bottleneck and that a simple addition of a flight of steps would ease congestion? Would you look into it further so that I can report back to Sam in the tea room?",
+          "text_original": "Diolch yn fawr. I would humbly suggest, as a new Member, as many of the people here are—. The level of the canteen, which is marked M, and the first floor and the stairwell on the other side, as you said in your answer, can only be connected via a lift. It does seem to be, at busy periods, a bottleneck of people. I have lost count of the number of long-serving staff, including a very nice lady called Sam, who works in the tea room here—. She has said that she has lost count of the number of times that she has suggested a flight of steps connecting that level with the stairwell on the other side. And there is some space to the side. So, would the Commission agree that this is a bottleneck and that a simple addition of a flight of steps would ease congestion? Would you look into it further so that I can report back to Sam in the tea room?",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=7705"
+        }
+      ],
+      "date": "2026-09-23",
+      "record_page_url": "https://record.senedd.wales/Plenary/16263"
+    },
     {
       "contributions": [
         {

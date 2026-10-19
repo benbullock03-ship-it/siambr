@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,2176 @@
   "canonical_name": "Huw Irranca-Davies",
   "constituency_name_cy": "Afan Ogwr Rhondda",
   "constituency_name_en": "Afan Ogwr Rhondda",
-  "contribution_count": 499,
+  "contribution_count": 711,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-779006",
+          "item_id": "item-16316-261014-5",
+          "item_title_en": "4. 90-second Statements",
+          "lang": "cy",
+          "t_start": 6239,
+          "text_english": "Thank you very much, everyone.",
+          "text_original": "Diolch yn fawr iawn, bawb.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=6239"
+        },
+        {
+          "id": "contribution-779011",
+          "item_id": "item-16316-261014-6",
+          "item_title_en": "5. Welsh Labour Debate: Palliative and end-of-life care",
+          "lang": "cy",
+          "t_start": 6241,
+          "text_english": "The Welsh Labour debate now on palliative and end-of-life care. I call on Ken Skates to move the motion.",
+          "text_original": "Dadl Llafur Cymru yn awr, gofal lliniarol ar ddiwedd oes. Galwaf ar Ken Skates i wneud y cynnig.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=6241"
+        },
+        {
+          "id": "contribution-779023",
+          "item_id": "item-16316-261014-6",
+          "item_title_en": "5. Welsh Labour Debate: Palliative and end-of-life care",
+          "lang": "en",
+          "t_start": 7342,
+          "text_english": "You need to conclude now, please.",
+          "text_original": "You need to conclude now, please.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=7342"
+        },
+        {
+          "id": "contribution-779037",
+          "item_id": "item-16316-261014-6",
+          "item_title_en": "5. Welsh Labour Debate: Palliative and end-of-life care",
+          "lang": "en",
+          "t_start": 8922,
+          "text_english": "Diolch yn fawr iawn. We have another couple of speakers. This debate has got a lot of speakers down for it. I may run slightly over, if you will allow me, but if I could ask the next couple of speakers just to be mindful that we will be running over. Rebeca Phillips.",
+          "text_original": "Diolch yn fawr iawn. We have another couple of speakers. This debate has got a lot of speakers down for it. I may run slightly over, if you will allow me, but if I could ask the next couple of speakers just to be mindful that we will be running over. Rebeca Phillips.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=8922"
+        },
+        {
+          "id": "contribution-779042",
+          "item_id": "item-16316-261014-6",
+          "item_title_en": "5. Welsh Labour Debate: Palliative and end-of-life care",
+          "lang": "cy",
+          "t_start": 9315,
+          "text_english": "I call on Cabinet Minister for Health and Care, Mabon ap Gwynfor.",
+          "text_original": "Galwaf ar y Gweinidog Cabinet dros Iechyd a Gofal, Mabon ap Gwynfor.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=9315"
+        },
+        {
+          "id": "contribution-779051",
+          "item_id": "item-16316-261014-6",
+          "item_title_en": "5. Welsh Labour Debate: Palliative and end-of-life care",
+          "lang": "cy",
+          "t_start": 9867,
+          "text_english": "I call on Ken Skates to reply to the debate.",
+          "text_original": "Galwaf ar Ken Skates i ymateb i'r ddadl.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=9867"
+        },
+        {
+          "id": "contribution-779049",
+          "item_id": "item-16316-261014-6",
+          "item_title_en": "5. Welsh Labour Debate: Palliative and end-of-life care",
+          "lang": "cy",
+          "t_start": 10163,
+          "text_english": "The proposal is to agree the motion without amendment. Does any Member object? There are no objections. The motion is therefore agreed in accordance with Standing Order 12.36. Thank you.",
+          "text_original": "Y cwestiwn yw: a ddylid derbyn y cynnig heb ei ddiwygio? A oes unrhyw Aelod yn gwrthwynebu? Nac oes. Felly, derbynnir y cynnig yn unol â Rheol Sefydlog 12.36. Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=10163"
+        },
+        {
+          "id": "contribution-779142",
+          "item_id": "item-16316-261014-8",
+          "item_title_en": "7. Voting Time",
+          "lang": "cy",
+          "t_start": 13687,
+          "text_english": "That brings us to item 7, voting time. Unless five Members wish for the bell to be rung, I will proceed directly to voting time. Okay. I call for a vote on the motion tabled in the name of Llŷr Powell. If the proposal is not agreed, we will vote on the amendment tabled to the motion. Open the vote. Close the vote. The result of the vote is as follows: in favour 35, no abstentions, 51 against. The motion is therefore not agreed.",
+          "text_original": "Rydyn ni'n cyrraedd eitem 7, y cyfnod pleidleisio. Oni bai bod pump Aelod yn dymuno imi ganu'r gloch, symudaf yn syth i'r cyfnod pleidleisio. Iawn. Galwaf am bleidlais ar y cynnig a gyflwynwyd yn enw Llŷr Powell. Os gwrthodir y cynnig, byddwn yn pleidleisio ar y gwelliant a gyflwynwyd i'r cynnig. Agorwch y bleidlais. Caewch y bleidlais. Dyma ganlyniad y bleidlais: o blaid 35, neb yn ymatal, yn erbyn 51. Mae'r cynnig wedi ei wrthod.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=13687"
+        },
+        {
+          "id": "contribution-779121",
+          "item_id": "item-16316-261014-8",
+          "item_title_en": "7. Voting Time",
+          "lang": "cy",
+          "t_start": 13835,
+          "text_english": "I now call for a vote on amendment 1, tabled in the name of Heledd Fychan. Open the vote. Close the vote. The result of the vote is as follows: in favour 51, no abstentions, 35 against. Amendment 1 is therefore agreed.",
+          "text_original": "Galwaf am bleidlais ar welliant 1 nawr, a gyflwynwyd yn enw Heledd Fychan. Agorwch y bleidlais. Caewch y bleidlais. Dyma ganlyniad y bleidlais: o blaid 51, neb yn ymatal, yn erbyn 35. Mae gwelliant 1 wedi ei dderbyn.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=13835"
+        },
+        {
+          "id": "contribution-779152",
+          "item_id": "item-16316-261014-8",
+          "item_title_en": "7. Voting Time",
+          "lang": "cy",
+          "t_start": 13913,
+          "text_english": "I now call for a vote on the motion as amended.",
+          "text_original": "Galwaf nawr am bleidlais ar y cynnig wedi ei ddiwygio.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=13913"
+        },
+        {
+          "id": "contribution-779126",
+          "item_id": "item-16316-261014-8",
+          "item_title_en": "7. Voting Time",
+          "lang": "cy",
+          "t_start": 13918,
+          "text_english": "Open the vote. Close the vote. The result of the vote is as follows: in favour 51, no abstentions, 35 against. The motion as amended is agreed. Thank you very much.",
+          "text_original": "Agorwch y bleidlais. Caewch y bleidlais. Dyma ganlyniad y bleidlais: o blaid 51, neb yn ymatal, yn erbyn 35. Mae'r cynnig wedi ei ddiwygio wedi ei dderbyn. Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=13918"
+        },
+        {
+          "id": "contribution-779129",
+          "item_id": "item-16316-261014-8",
+          "item_title_en": "7. Voting Time",
+          "lang": "en",
+          "t_start": 13970,
+          "text_english": "Could I ask Members who are leaving the Chamber to do so quickly and silently, please? Quickly and silently, please.",
+          "text_original": "Could I ask Members who are leaving the Chamber to do so quickly and silently, please? Quickly and silently, please.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=13970"
+        },
+        {
+          "id": "contribution-779133",
+          "item_id": "item-16316-261014-9",
+          "item_title_en": "8. Short Debate: Green across the aisle: Making environmental stewardship a common cause",
+          "lang": "cy",
+          "t_start": 14003,
+          "text_english": "We'll move now to item 8, the short debate. I call on David Mills to speak to the topic that he has chosen.",
+          "text_original": "Symudwn nawr at eitem 8, y ddadl fer. Galwaf ar David Mills i siarad am y pwnc a ddewiswyd ganddo.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=14003"
+        },
+        {
+          "id": "contribution-779135",
+          "item_id": "item-16316-261014-9",
+          "item_title_en": "8. Short Debate: Green across the aisle: Making environmental stewardship a common cause",
+          "lang": "en",
+          "t_start": 14016,
+          "text_english": "Yes.",
+          "text_original": "Yes.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=14016"
+        },
+        {
+          "id": "contribution-779147",
+          "item_id": "item-16316-261014-9",
+          "item_title_en": "8. Short Debate: Green across the aisle: Making environmental stewardship a common cause",
+          "lang": "en",
+          "t_start": 14933,
+          "text_english": "Minister, a challenge.",
+          "text_original": "Minister, a challenge.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=14933"
+        },
+        {
+          "id": "contribution-779148",
+          "item_id": "item-16316-261014-9",
+          "item_title_en": "8. Short Debate: Green across the aisle: Making environmental stewardship a common cause",
+          "lang": "cy",
+          "t_start": 14934,
+          "text_english": "I call on the Cabinet Minister for Rural Resilience and Sustainability to reply to the debate—Llyr Gruffydd.",
+          "text_original": "Galwaf ar y Gweinidog Cabinet dros Wydnwch Gwledig a Chynaliadwyedd i ymateb i'r ddadl—Llyr Gruffydd.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=14934"
+        },
+        {
+          "id": "contribution-779163",
+          "item_id": "item-16316-261014-9",
+          "item_title_en": "8. Short Debate: Green across the aisle: Making environmental stewardship a common cause",
+          "lang": "cy",
+          "t_start": 15916,
+          "text_english": "I thank the Cabinet Minister and I thank Members too. That brings today's proceedings to a close.",
+          "text_original": "Diolch i'r Gweinidog Cabinet, a diolch i'r Aelodau hefyd. Daw hynny â thrafodion heddiw i ben.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=15916"
+        }
+      ],
+      "date": "2026-10-14",
+      "record_page_url": "https://record.senedd.wales/Plenary/16316"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-778347",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 11,
+          "text_english": "Prynhawn da, bawb—good afternoon, everybody.",
+          "text_original": "Prynhawn da, bawb—good afternoon, everybody.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=11"
+        },
+        {
+          "id": "contribution-778352",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 14,
+          "text_english": "We will move immediately now to item 1, questions to the First Minister. Question 1, Alun Cox.",
+          "text_original": "Symudwn nawr yn syth at eitem 1, cwestiynau i'r Prif Weinidog. Cwestiwn 1, Alun Cox.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=14"
+        },
+        {
+          "id": "contribution-778390",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 726,
+          "text_english": "I now call the party leaders to question the First Minister. First of all, the leader of Reform UK, Helen Jenner.",
+          "text_original": "Galwaf yn awr ar arweinwyr y pleidiau i holi'r Prif Weinidog. Yn gyntaf, arweinydd Reform UK, Helen Jenner.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=726"
+        },
+        {
+          "id": "contribution-778388",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 1136,
+          "text_english": "Leader of Welsh Labour now—Ken Skates.",
+          "text_original": "Arweinydd Llafur Cymru nawr—Ken Skates.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=1136"
+        },
+        {
+          "id": "contribution-778378",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 1361,
+          "text_english": "Leader of the Welsh Conservatives, Darren Millar.",
+          "text_original": "Arweinydd y Ceidwadwyr Cymreig, Darren Millar.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=1361"
+        },
+        {
+          "id": "contribution-778371",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 1569,
+          "text_english": "A question, please, Darren.",
+          "text_original": "Cwestiwn, Darren.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=1569"
+        },
+        {
+          "id": "contribution-778422",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 2895,
+          "text_english": "Question, please, Peter.",
+          "text_original": "Cwestiwn, plis, Peter.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=2895"
+        },
+        {
+          "id": "contribution-778450",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 3559,
+          "text_english": "Finally, First Minister, question 10, Anthony Slaughter.",
+          "text_original": "Yn olaf, Brif Weinidog, cwestiwn 10, Anthony Slaughter.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=3559"
+        },
+        {
+          "id": "contribution-778506",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 3692,
+          "text_english": "Thank you, First Minister.",
+          "text_original": "Diolch, Brif Weinidog.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=3692"
+        },
+        {
+          "id": "contribution-778451",
+          "item_id": "item-16315-261013-2",
+          "item_title_en": "2. Business Statement and Announcement",
+          "lang": "cy",
+          "t_start": 3694,
+          "text_english": "Item 2 now, the business statement and announcement. And I call on the Trefnydd, Heledd Fychan.",
+          "text_original": "Eitem 2 nawr, y datganiad a chyhoeddiad busnes. Galwaf ar y Trefnydd, Heledd Fychan.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=3694"
+        },
+        {
+          "id": "contribution-778488",
+          "item_id": "item-16315-261013-2",
+          "item_title_en": "2. Business Statement and Announcement",
+          "lang": "cy",
+          "t_start": 5291,
+          "text_english": "Finally, Trefnydd, Janet Finch-Saunders.",
+          "text_original": "Yn olaf, Drefnydd, Janet Finch-Saunders.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=5291"
+        },
+        {
+          "id": "contribution-778563",
+          "item_id": "item-16315-261013-4",
+          "item_title_en": "4. Statement by the Cabinet Minister for Rural Resilience and Sustainability: Winter preparedness: Be flood ready",
+          "lang": "cy",
+          "t_start": 10706,
+          "text_english": "Thank you, Cabinet Minister.",
+          "text_original": "Diolch, Weinidog Cabinet.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=10706"
+        },
+        {
+          "id": "contribution-778565",
+          "item_id": "item-16315-261013-5",
+          "item_title_en": "5. Statement by the Cabinet Minister for Health and Care: Update on winter preparedness",
+          "lang": "cy",
+          "t_start": 10709,
+          "text_english": "We'll move on now to item 5, a statement by the Cabinet Minister for Health and Care, an update on winter preparedness. I call on the Cabinet Minister for Health and Care, Mabon ap Gwynfor.",
+          "text_original": "Symudwn at eitem 5 nawr, datganiad gan y Gweinidog Cabinet dros Iechyd a Gofal, diweddariad ar barodrwydd ar gyfer y gaeaf. Galwaf ar y Gweinidog Cabinet dros Iechyd a Gofal, Mabon ap Gwynfor.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=10709"
+        },
+        {
+          "id": "contribution-778596",
+          "item_id": "item-16315-261013-5",
+          "item_title_en": "5. Statement by the Cabinet Minister for Health and Care: Update on winter preparedness",
+          "lang": "cy",
+          "t_start": 12691,
+          "text_english": "We'll move now to one-minute contributions and questions. I have a number of Members who wish to speak.",
+          "text_original": "Symudwn nawr at gyfraniadau a chwestiynau un funud. Mae gennyf lawer o Aelodau sydd am siarad.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=12691"
+        },
+        {
+          "id": "contribution-778598",
+          "item_id": "item-16315-261013-5",
+          "item_title_en": "5. Statement by the Cabinet Minister for Health and Care: Update on winter preparedness",
+          "lang": "en",
+          "t_start": 12698,
+          "text_english": "Let's do our best. If we keep it really tight, let's see how many people we can get in.",
+          "text_original": "Let's do our best. If we keep it really tight, let's see how many people we can get in.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=12698"
+        },
+        {
+          "id": "contribution-778599",
+          "item_id": "item-16315-261013-5",
+          "item_title_en": "5. Statement by the Cabinet Minister for Health and Care: Update on winter preparedness",
+          "lang": "cy",
+          "t_start": 12703,
+          "text_english": "We start with Elyn Stephens.",
+          "text_original": "Rydym ni'n dechrau gyda Elyn Stephens.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=12703"
+        },
+        {
+          "id": "contribution-778612",
+          "item_id": "item-16315-261013-5",
+          "item_title_en": "5. Statement by the Cabinet Minister for Health and Care: Update on winter preparedness",
+          "lang": "en",
+          "t_start": 12915,
+          "text_english": "Question, please.",
+          "text_original": "Question, please.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=12915"
+        },
+        {
+          "id": "contribution-778608",
+          "item_id": "item-16315-261013-5",
+          "item_title_en": "5. Statement by the Cabinet Minister for Health and Care: Update on winter preparedness",
+          "lang": "cy",
+          "t_start": 13389,
+          "text_english": "Finally, James Evans.",
+          "text_original": "Yn olaf, James Evans.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=13389"
+        },
+        {
+          "id": "contribution-778607",
+          "item_id": "item-16315-261013-5",
+          "item_title_en": "5. Statement by the Cabinet Minister for Health and Care: Update on winter preparedness",
+          "lang": "cy",
+          "t_start": 13544,
+          "text_english": "Thank you, Cabinet Minister.",
+          "text_original": "Diolch, Weinidog Cabinet.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=13544"
+        },
+        {
+          "id": "contribution-778606",
+          "item_id": "item-16315-261013-6",
+          "item_title_en": "6. Statement by the Deputy Minister for Transport: Climate Adaptation and Resilience in Wales's Transport Network",
+          "lang": "cy",
+          "t_start": 13546,
+          "text_english": "A statement now from the Deputy Minister for Transport, climate adaptation and resilience in Wales's transport network. I call on the Deputy Minister for Transport, Mark Hooper.",
+          "text_original": "Datganiad nawr gan y Dirprwy Weinidog dros Drafnidiaeth, addasu i'r hinsawdd a gwydnwch yn rhwydwaith trafnidiaeth Cymru. Galwaf ar y Dirprwy Weinidog dros Drafnidiaeth, Mark Hooper.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=13546"
+        },
+        {
+          "id": "contribution-778682",
+          "item_id": "item-16315-261013-6",
+          "item_title_en": "6. Statement by the Deputy Minister for Transport: Climate Adaptation and Resilience in Wales's Transport Network",
+          "lang": "en",
+          "t_start": 15213,
+          "text_english": "Janet Finch-Saunders.",
+          "text_original": "Janet Finch-Saunders.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=15213"
+        },
+        {
+          "id": "contribution-778627",
+          "item_id": "item-16315-261013-6",
+          "item_title_en": "6. Statement by the Deputy Minister for Transport: Climate Adaptation and Resilience in Wales's Transport Network",
+          "lang": "cy",
+          "t_start": 15532,
+          "text_english": "Deputy Minister.",
+          "text_original": "Ddirprwy Weinidog.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=15532"
+        },
+        {
+          "id": "contribution-778666",
+          "item_id": "item-16315-261013-6",
+          "item_title_en": "6. Statement by the Deputy Minister for Transport: Climate Adaptation and Resilience in Wales's Transport Network",
+          "lang": "cy",
+          "t_start": 15740,
+          "text_english": "One-minute contributions now.",
+          "text_original": "Cyfraniadau un munud nawr.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=15740"
+        },
+        {
+          "id": "contribution-778667",
+          "item_id": "item-16315-261013-6",
+          "item_title_en": "6. Statement by the Deputy Minister for Transport: Climate Adaptation and Resilience in Wales's Transport Network",
+          "lang": "en",
+          "t_start": 15743,
+          "text_english": "I think I can get everybody in, if we keep the questions tight and the answers even tighter, Minister. With your help, we can do this. Letitia Gonzalez.",
+          "text_original": "I think I can get everybody in, if we keep the questions tight and the answers even tighter, Minister. With your help, we can do this. Letitia Gonzalez.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=15743"
+        },
+        {
+          "id": "contribution-778671",
+          "item_id": "item-16315-261013-6",
+          "item_title_en": "6. Statement by the Deputy Minister for Transport: Climate Adaptation and Resilience in Wales's Transport Network",
+          "lang": "cy",
+          "t_start": 15923,
+          "text_english": "Deputy Minister.",
+          "text_original": "Ddirprwy Weinidog.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=15923"
+        },
+        {
+          "id": "contribution-778691",
+          "item_id": "item-16315-261013-6",
+          "item_title_en": "6. Statement by the Deputy Minister for Transport: Climate Adaptation and Resilience in Wales's Transport Network",
+          "lang": "cy",
+          "t_start": 16085,
+          "text_english": "Finally, Anna Nicholl.",
+          "text_original": "Yn olaf, Anna Nicholl.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=16085"
+        }
+      ],
+      "date": "2026-10-13",
+      "record_page_url": "https://record.senedd.wales/Plenary/16315"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776703",
+          "item_id": "item-16314-261007-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Health and Care",
+          "lang": "cy",
+          "t_start": 5121,
+          "text_english": "Thank you, Cabinet Minister.",
+          "text_original": "Diolch, Weinidog Cabinet.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=5121"
+        },
+        {
+          "id": "contribution-776705",
+          "item_id": "item-16314-261007-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
+          "lang": "cy",
+          "t_start": 5123,
+          "text_english": "We'll move now to item 2, questions to the Cabinet Minister for Local Government, Housing and Planning. Question 1, John Davies.",
+          "text_original": "Symudwn nawr at eitem 2, cwestiynau i'r Gweinidog Cabinet dros Lywodraeth Lleol, Tai a Chynllunio. Cwestiwn 1, John Davies.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=5123"
+        },
+        {
+          "id": "contribution-776715",
+          "item_id": "item-16314-261007-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
+          "lang": "en",
+          "t_start": 5905,
+          "text_english": "Jason O'Connell.",
+          "text_original": "Jason O'Connell.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=5905"
+        },
+        {
+          "id": "contribution-776717",
+          "item_id": "item-16314-261007-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
+          "lang": "en",
+          "t_start": 5915,
+          "text_english": "Okay, we'll move along, then.",
+          "text_original": "Okay, we'll move along, then.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=5915"
+        },
+        {
+          "id": "contribution-776718",
+          "item_id": "item-16314-261007-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
+          "lang": "cy",
+          "t_start": 5917,
+          "text_english": "I now call on the party spokespeople to question the Cabinet Minister. First, Reform UK spokesperson, Francesca O'Brien.",
+          "text_original": "Galwaf nawr ar lafarwyr y pleidiau i holi'r Gweinidog Cabinet. Yn gyntaf, llefarydd Reform UK, Francesca O'Brien.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=5917"
+        },
+        {
+          "id": "contribution-776732",
+          "item_id": "item-16314-261007-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
+          "lang": "cy",
+          "t_start": 6231,
+          "text_english": "Welsh Labour spokesperson, Jayne Bryant.",
+          "text_original": "Llefarydd Llafur Cymru, Jayne Bryant.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=6231"
+        },
+        {
+          "id": "contribution-776736",
+          "item_id": "item-16314-261007-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
+          "lang": "cy",
+          "t_start": 6556,
+          "text_english": "The Welsh Conservatives' spokesperson, Peter Fox.",
+          "text_original": "Llefarydd y Ceidwadwyr Cymreig, Peter Fox.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=6556"
+        },
+        {
+          "id": "contribution-776737",
+          "item_id": "item-16314-261007-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
+          "lang": "en",
+          "t_start": 6906,
+          "text_english": "Thank you. We'll move ahead now, but, before we do, can I just point out we're over two thirds of the way through the allocated time for this and yet we're only now moving to a spokesperson's question? So, if the Minister could help with short answers on this.",
+          "text_original": "Thank you. We'll move ahead now, but, before we do, can I just point out we're over two thirds of the way through the allocated time for this and yet we're only now moving to a spokesperson's question? So, if the Minister could help with short answers on this.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=6906"
+        },
+        {
+          "id": "contribution-776741",
+          "item_id": "item-16314-261007-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
+          "lang": "cy",
+          "t_start": 6919,
+          "text_english": "Question 3, Marc Jones.",
+          "text_original": "Cwestiwn 3, Marc Jones.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=6919"
+        },
+        {
+          "id": "contribution-776752",
+          "item_id": "item-16314-261007-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
+          "lang": "cy",
+          "t_start": 7879,
+          "text_english": "Cabinet Minister.",
+          "text_original": "Gweinidog Cabinet.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=7879"
+        },
+        {
+          "id": "contribution-776777",
+          "item_id": "item-16314-261007-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
+          "lang": "cy",
+          "t_start": 8221,
+          "text_english": "Thank you, Cabinet Minister.",
+          "text_original": "Diolch, Weinidog Cabinet.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=8221"
+        },
+        {
+          "id": "contribution-776779",
+          "item_id": "item-16314-261007-3",
+          "item_title_en": "3. Topical Questions",
+          "lang": "cy",
+          "t_start": 8223,
+          "text_english": "We'll move now to item 3, the topical questions. No topical questions have been accepted today.",
+          "text_original": "Symudwn yn awr at eitem 3, cwestiynau amserol. Ni dderbyniwyd unrhyw gwestiynau amserol heddiw.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=8223"
+        },
+        {
+          "id": "contribution-776784",
+          "item_id": "item-16314-261007-4",
+          "item_title_en": "4. 90-second Statements",
+          "lang": "cy",
+          "t_start": 8230,
+          "text_english": "Item 4 is next, the 90-second statements. And the first of those is from Elwyn Vaughan.",
+          "text_original": "Eitem 4 nesaf, datganiadau 90 eiliad. Yn gyntaf, Elwyn Vaughan.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=8230"
+        },
+        {
+          "id": "contribution-776795",
+          "item_id": "item-16314-261007-4",
+          "item_title_en": "4. 90-second Statements",
+          "lang": "cy",
+          "t_start": 8583,
+          "text_english": "Thank you, all.",
+          "text_original": "Diolch, bawb.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=8583"
+        },
+        {
+          "id": "contribution-778067",
+          "item_id": "item-16314-261007-4",
+          "item_title_en": "4. 90-second Statements",
+          "lang": "en",
+          "t_start": 8585,
+          "text_english": "We move now to the motions to elect Members to committees. In accordance with Standing Orders 12.24 and 12.40, unless there are any objections, I propose that the motions to elect Members to committees are grouped for debate and for voting. Does any Member object? I see there are no objections.",
+          "text_original": "We move now to the motions to elect Members to committees. In accordance with Standing Orders 12.24 and 12.40, unless there are any objections, I propose that the motions to elect Members to committees are grouped for debate and for voting. Does any Member object? I see there are no objections.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=8585"
+        },
+        {
+          "id": "contribution-776797",
+          "item_id": "item-16314-261007-5",
+          "item_title_en": "Motions to elect Members to committees",
+          "lang": "en",
+          "t_start": 8605,
+          "text_english": "I call then on a member of the Business Committee to move the motions formally.",
+          "text_original": "I call then on a member of the Business Committee to move the motions formally.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=8605"
+        },
+        {
+          "id": "contribution-776811",
+          "item_id": "item-16314-261007-5",
+          "item_title_en": "Motions to elect Members to committees",
+          "lang": "en",
+          "t_start": 8612,
+          "text_english": "Thank you, Llŷr. The proposal is to agree the motions. Does any Member object? The motions are therefore agreed in accordance with Standing Order 12.36.",
+          "text_original": "Thank you, Llŷr. The proposal is to agree the motions. Does any Member object? The motions are therefore agreed in accordance with Standing Order 12.36.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=8612"
+        },
+        {
+          "id": "contribution-776813",
+          "item_id": "item-16314-261007-6",
+          "item_title_en": "5. Motion to delegate authority to make the arrangements for recruiting a new Commissioner for Standards to the Standards of Conduct Committee",
+          "lang": "cy",
+          "t_start": 8642,
+          "text_english": "We will now move to item 5, the motion to delegate authority to make the arrangements for recruiting a new commissioner for standards to the Standards of Conduct Committee. I call on Elyn Stephens to formally move the motion on behalf of the Standards of Conduct Committee.",
+          "text_original": "Symudwn at eitem 5 nawr, cynnig i ddirprwyo awdurdod ar gyfer gwneud y trefniadau i recriwtio comisiynydd safonau newydd i'r Pwyllgor Safonau Ymddygiad. Galwaf ar Elyn Stephens i wneud y cynnig yn ffurfiol ar ran y Pwyllgor Safonau Ymddygiad.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=8642"
+        },
+        {
+          "id": "contribution-776821",
+          "item_id": "item-16314-261007-6",
+          "item_title_en": "5. Motion to delegate authority to make the arrangements for recruiting a new Commissioner for Standards to the Standards of Conduct Committee",
+          "lang": "cy",
+          "t_start": 8671,
+          "text_english": "Thank you very much. The proposal is to agree the motion. Does any Member object? There are no objections and therefore the motion is agreed in accordance with Standing Order 12.36.",
+          "text_original": "Diolch yn fawr. Y cwestiwn: a ddylid derbyn y cynnig? A oes unrhyw Aelod yn gwrthwynebu? Nac oes. Felly, derbynnir y cynnig yn unol â Rheol Sefydlog 12.36.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=8671"
+        },
+        {
+          "id": "contribution-776824",
+          "item_id": "item-16314-261007-7",
+          "item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+          "lang": "cy",
+          "t_start": 8691,
+          "text_english": "That brings us to item 6, Member debate under Standing Order 11.21(iv): family drug and alcohol courts. I call on Tom Montgomery to move the motion.",
+          "text_original": "Symudwn nawr at eitem 6, dadl Aelodau o dan Reol Sefydlog 11.21(iv): llysoedd teulu cyffuriau ac alcohol. Galwaf ar Tom Montgomery i wneud y cynnig.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=8691"
+        },
+        {
+          "id": "contribution-776926",
+          "item_id": "item-16314-261007-8",
+          "item_title_en": "7. Reform UK Debate: Regional rugby",
+          "lang": "en",
+          "t_start": 14181,
+          "text_english": "Sorry, the Member—[Interruption.] Yes.",
+          "text_original": "Sorry, the Member—[Interruption.] Yes.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=14181"
+        },
+        {
+          "id": "contribution-776928",
+          "item_id": "item-16314-261007-8",
+          "item_title_en": "7. Reform UK Debate: Regional rugby",
+          "lang": "en",
+          "t_start": 14192,
+          "text_english": "If we pause just for a moment. The Member is entitled to take interventions if the Member wants, and he has taken some interventions. He's also entitled to continue with his contribution. Llŷr.",
+          "text_original": "If we pause just for a moment. The Member is entitled to take interventions if the Member wants, and he has taken some interventions. He's also entitled to continue with his contribution. Llŷr.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=14192"
+        },
+        {
+          "id": "contribution-776932",
+          "item_id": "item-16314-261007-8",
+          "item_title_en": "7. Reform UK Debate: Regional rugby",
+          "lang": "cy",
+          "t_start": 14278,
+          "text_english": "The proposal is to agree the motion without amendment. Does any Member object? [Objection.] There are objections. I will therefore defer voting under this item until voting time.",
+          "text_original": "Y cwestiwn yw: a ddylid derbyn y cynnig heb ei ddiwygio? A oes unrhyw Aelod yn gwrthwynebu? [Gwrthwynebiad.] Oes, mae gwrthwynebiad. Gohiriaf y bleidlais o dan yr eitem hon tan y cyfnod pleidleisio.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=14278"
+        },
+        {
+          "id": "contribution-776946",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "cy",
+          "t_start": 14294,
+          "text_english": "We will now move to item 8, the Reform UK debate: access to houses in multiple occupation and social housing for foreign nationals. I call on Francesca O'Brien to move the motion.",
+          "text_original": "Symudwn nawr at eitem 8, dadl Reform UK: mynediad at dai amlfeddiannaeth a thai cymdeithasol i wladolion tramor. Galwaf ar Francesca O'Brien i wneud y cynnig.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=14294"
+        },
+        {
+          "id": "contribution-776937",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "cy",
+          "t_start": 14902,
+          "text_english": "I have selected the amendments to the motion. If amendment 1 is agreed, amendment 2 will be deselected. I call on the Cabinet Minister for Local Government, Housing and Planning to move formally amendment 1, tabled in the names of Heledd Fychan and Lynne Neagle.",
+          "text_original": "Rwyf wedi dethol y gwelliannau i'r cynnig. Os derbynnir gwelliant 1, caiff gwelliant 2 ei ddad-ddethol. Galwaf ar y Gweinidog Cabinet dros Lywodraeth Leol, Tai a Chynllunio i gynnig yn ffurfiol welliant 1, a gyflwynwyd yn enwau Heledd Fychan a Lynne Neagle.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=14902"
+        },
+        {
+          "id": "contribution-776951",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "cy",
+          "t_start": 14923,
+          "text_english": "Thank you. I call now on Peter Fox to move amendment 2, tabled in the name of Paul Davies.",
+          "text_original": "Diolch yn fawr iawn. Galwaf nawr ar Peter Fox i gynnig gwelliant 2, a gyflwynwyd yn enw Paul Davies.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=14923"
+        },
+        {
+          "id": "contribution-776941",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "en",
+          "t_start": 15945,
+          "text_english": "Diolch. We have many speakers on this debate. If every Member speaks for the full five minutes, we won't be able to call everybody. I'm just letting you know now, but it's in your hands. We could get to everybody if you speak slightly shorter. John Clark.",
+          "text_original": "Diolch. We have many speakers on this debate. If every Member speaks for the full five minutes, we won't be able to call everybody. I'm just letting you know now, but it's in your hands. We could get to everybody if you speak slightly shorter. John Clark.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=15945"
+        },
+        {
+          "id": "contribution-776980",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "en",
+          "t_start": 16199,
+          "text_english": "The point is made.",
+          "text_original": "The point is made.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=16199"
+        },
+        {
+          "id": "contribution-776967",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "en",
+          "t_start": 17113,
+          "text_english": "Unfortunately, I will not be able to call all Members in this debate within the time allocated for it. Before I call on the Cabinet Minister to respond, I understand that we may have a point of order.",
+          "text_original": "Unfortunately, I will not be able to call all Members in this debate within the time allocated for it. Before I call on the Cabinet Minister to respond, I understand that we may have a point of order.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=17113"
+        },
+        {
+          "id": "contribution-776965",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "en",
+          "t_start": 17192,
+          "text_english": "Before the Member chooses whether to respond, first of all, thanks for flagging the point of order. You rightly identify this as a factual correction that you were putting forward. As such, this is not a matter for me. But I will give the Member the opportunity to clarify the remarks if she wishes to do so.",
+          "text_original": "Before the Member chooses whether to respond, first of all, thanks for flagging the point of order. You rightly identify this as a factual correction that you were putting forward. As such, this is not a matter for me. But I will give the Member the opportunity to clarify the remarks if she wishes to do so.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=17192"
+        },
+        {
+          "id": "contribution-776969",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "en",
+          "t_start": 17223,
+          "text_english": "Diolch yn fawr iawn. Thank you.",
+          "text_original": "Diolch yn fawr iawn. Thank you.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=17223"
+        },
+        {
+          "id": "contribution-776971",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "cy",
+          "t_start": 17226,
+          "text_english": "I now call on the Cabinet Minister for Local Government, Housing and Planning, Siân Gwenllian.",
+          "text_original": "Galwaf nawr ar y Gweinidog Cabinet dros Lywodraeth Leol, Tai a Chynllunio, Siân Gwenllian.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=17226"
+        },
+        {
+          "id": "contribution-777015",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "cy",
+          "t_start": 17674,
+          "text_english": "I now call on Tom Montgomery to reply to the debate.",
+          "text_original": "Galwaf yn awr ar Tom Montgomery i ymateb i'r ddadl.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=17674"
+        },
+        {
+          "id": "contribution-776992",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "cy",
+          "t_start": 18060,
+          "text_english": "The proposal is to agree the motion without amendment. Does any Member object? [Objection.] There are objections. I will therefore defer voting under this item until voting time.   Thank you.",
+          "text_original": "Y cwestiwn yw: a ddylid derbyn y cynnig heb ei ddiwygio? A oes unrhyw Aelod yn gwrthwynebu? [Gwrthwynebiad.] Oes. Gohiriaf y bleidlais o dan yr eitem hon tan y cyfnod pleidleisio. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=18060"
+        }
+      ],
+      "date": "2026-10-07",
+      "record_page_url": "https://record.senedd.wales/Plenary/16314"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-775816",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 3,
+          "text_english": "Prynhawn da. Good afternoon, everybody.",
+          "text_original": "Prynhawn da. Good afternoon, everybody.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=3"
+        },
+        {
+          "id": "contribution-775819",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 10,
+          "text_english": "We will move immediately to item 1, questions to the First Minister. The first question is from Andrew Griffin.",
+          "text_original": "Symudwn yn syth ymlaen at eitem 1, cwestiynau i'r Prif Weinidog. Cwestiwn 1, Andrew Griffin.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=10"
+        },
+        {
+          "id": "contribution-775824",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 384,
+          "text_english": "A question, please, Jane.",
+          "text_original": "Cwestiwn, plis, Jane.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=384"
+        },
+        {
+          "id": "contribution-775842",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 931,
+          "text_english": "I now call on the party leaders to question the First Minister. First, the leader of Reform UK, Helen Jenner.",
+          "text_original": "Galwaf yn awr ar arweinwyr y pleidiau i holi'r Prif Weinidog. Yn gyntaf, arweinydd Reform UK, Helen Jenner.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=931"
+        },
+        {
+          "id": "contribution-775871",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 1385,
+          "text_english": "Leader of Welsh Labour, Ken Skates.",
+          "text_original": "Arweinydd Llafur Cymru, Ken Skates.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=1385"
+        },
+        {
+          "id": "contribution-775888",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 1598,
+          "text_english": "Leader of the Welsh Conservatives, Darren Millar.",
+          "text_original": "Arweinydd y Ceidwadwyr Cymreig, Darren Millar.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=1598"
+        },
+        {
+          "id": "contribution-775918",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 3584,
+          "text_english": "Thank you, First Minister.",
+          "text_original": "Diolch, Brif Weinidog.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=3584"
+        },
+        {
+          "id": "contribution-775919",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "cy",
+          "t_start": 3587,
+          "text_english": "We'll move now to questions to the Cabinet Minister for Government Effectiveness and the Constitution. The first question is from Donna Cushing.",
+          "text_original": "Symudwn nawr at gwestiynau i'r Gweinidog Cabinet dros Effeithiolrwydd Llywodraeth a'r Cyfansoddiad. Cwestiwn 1, Donna Cushing.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=3587"
+        },
+        {
+          "id": "contribution-775948",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "cy",
+          "t_start": 3867,
+          "text_english": "I now call on the party spokespeople to question the Cabinet Minister. First, the Reform UK spokesperson, Iain McIntosh.",
+          "text_original": "Galwaf yn awr ar lefarwyr y pleidiau i holi'r Gweinidog Cabinet. Yn gyntaf, Llefarydd Reform UK, Iain McIntosh.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=3867"
+        },
+        {
+          "id": "contribution-775943",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "cy",
+          "t_start": 4206,
+          "text_english": "The Welsh Labour spokesperson, Huw Thomas.",
+          "text_original": "Llefarydd Llafur Cymru, Huw Thomas.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=4206"
+        },
+        {
+          "id": "contribution-775982",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "cy",
+          "t_start": 4447,
+          "text_english": "The Welsh Conservatives' spokesperson, Sam Rowlands.",
+          "text_original": "Llefarydd y Ceidwadwyr Cymreig, Sam Rowlands.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=4447"
+        },
+        {
+          "id": "contribution-776154",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "cy",
+          "t_start": 4949,
+          "text_english": "A question, please. [Inaudible.]",
+          "text_original": "Cwestiwn, plis. [Anghlywadwy.]",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=4949"
+        },
+        {
+          "id": "contribution-775964",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "en",
+          "t_start": 5143,
+          "text_english": "Claire Johnson-Wood.",
+          "text_original": "Claire Johnson-Wood.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=5143"
+        },
+        {
+          "id": "contribution-775975",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "cy",
+          "t_start": 5150,
+          "text_english": "Thank you very much. Questions 5 and 9 are grouped. Question 5, Andrew R.T. Davies.",
+          "text_original": "Diolch yn fawr iawn. Mae cwestiynau 5 a 9 wedi'u grwpio. Cwestiwn 5, Andrew R.T. Davies.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=5150"
+        },
+        {
+          "id": "contribution-776010",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "cy",
+          "t_start": 5500,
+          "text_english": "Thank you. Before moving on to the next question—",
+          "text_original": "Diolch. Cyn symud ymlaen i'r cwestiwn nesaf—",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=5500"
+        },
+        {
+          "id": "contribution-776012",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "en",
+          "t_start": 5502,
+          "text_english": "—can I just remind Members of the conventions, protocols, guidelines and otherwise in this Chamber of not accusing or coming close to accusing other Members of lying or misleading? There are points of debate, but we have ways of debating this within the Chamber. It's not aimed at anybody in particular. In the generality, please, abide by that.",
+          "text_original": "—can I just remind Members of the conventions, protocols, guidelines and otherwise in this Chamber of not accusing or coming close to accusing other Members of lying or misleading? There are points of debate, but we have ways of debating this within the Chamber. It's not aimed at anybody in particular. In the generality, please, abide by that.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=5502"
+        },
+        {
+          "id": "contribution-776025",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "cy",
+          "t_start": 5524,
+          "text_english": "Question 6. Elfed Williams.",
+          "text_original": "Cwestiwn 6. Elfed Williams.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=5524"
+        },
+        {
+          "id": "contribution-776051",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "cy",
+          "t_start": 5650,
+          "text_english": "Cabinet Minister.",
+          "text_original": "Gweinidog Cabinet.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=5650"
+        },
+        {
+          "id": "contribution-776075",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "cy",
+          "t_start": 5966,
+          "text_english": "Question 9 was grouped with question 5. Question 10 [OQ64637] is withdrawn. So, question 11, Steven Rodaway.",
+          "text_original": "Mae cwestiwn 9 wedi ei grwpio gyda cwestiwn 5. Cwestiwn 10 [OQ64637] tynnwyd yn ôl. Felly, cwestiwn 11, Steven Rodaway.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=5966"
+        },
+        {
+          "id": "contribution-776194",
+          "item_id": "item-16313-261006-5",
+          "item_title_en": "5. Statement by the Deputy Minister for Social Care, Mental Health and Women’s Health: Stronger Safeguarding for a Safer Wales",
+          "lang": "cy",
+          "t_start": 13441,
+          "text_english": "Thank you, Deputy Minister.",
+          "text_original": "Diolch, Ddirprwy Weinidog.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=13441"
+        },
+        {
+          "id": "contribution-776198",
+          "item_id": "item-16313-261006-6",
+          "item_title_en": "6. Debate: Fiscal Reform",
+          "lang": "cy",
+          "t_start": 13444,
+          "text_english": "We will move now to item 6: debate on fiscal reform. I call on the Cabinet Minister for Finance to move the motion tabled in the names of Heledd Fychan and Lynne Neagle—Elin Jones.",
+          "text_original": "Symudwn nawr at eitem 6: dadl diwygio cyllidol. Galwaf ar y Gweinidog Cabinet dros Gyllid i wneud y cynnig a gyflwynwyd yn enwau Heledd Fychan a Lynne Neagle—Elin Jones.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=13444"
+        },
+        {
+          "id": "contribution-776214",
+          "item_id": "item-16313-261006-6",
+          "item_title_en": "6. Debate: Fiscal Reform",
+          "lang": "en",
+          "t_start": 14775,
+          "text_english": "If you can conclude now, please—can you conclude?",
+          "text_original": "If you can conclude now, please—can you conclude?",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=14775"
+        },
+        {
+          "id": "contribution-776216",
+          "item_id": "item-16313-261006-6",
+          "item_title_en": "6. Debate: Fiscal Reform",
+          "lang": "en",
+          "t_start": 15347,
+          "text_english": "[Inaudible.]—please.",
+          "text_original": "[Inaudible.]—please.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=15347"
+        },
+        {
+          "id": "contribution-776219",
+          "item_id": "item-16313-261006-6",
+          "item_title_en": "6. Debate: Fiscal Reform",
+          "lang": "en",
+          "t_start": 15363,
+          "text_english": "I'd ask you to conclude here now, if you could.",
+          "text_original": "I'd ask you to conclude here now, if you could.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=15363"
+        },
+        {
+          "id": "contribution-776221",
+          "item_id": "item-16313-261006-6",
+          "item_title_en": "6. Debate: Fiscal Reform",
+          "lang": "en",
+          "t_start": 15379,
+          "text_english": "Sam Rowlands.",
+          "text_original": "Sam Rowlands.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=15379"
+        },
+        {
+          "id": "contribution-776237",
+          "item_id": "item-16313-261006-6",
+          "item_title_en": "6. Debate: Fiscal Reform",
+          "lang": "cy",
+          "t_start": 16668,
+          "text_english": "I call on the Cabinet Minister now to reply to the debate.",
+          "text_original": "Galwaf yn awr ar y Gweinidog Cabinet i ymateb i'r ddadl.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=16668"
+        },
+        {
+          "id": "contribution-776224",
+          "item_id": "item-16313-261006-6",
+          "item_title_en": "6. Debate: Fiscal Reform",
+          "lang": "cy",
+          "t_start": 16911,
+          "text_english": "The proposal is to agree the motion. Does any Member object? [Objection.] There is objection. I will therefore defer voting under this item until voting time.",
+          "text_original": "Ac yn awr y cwestiwn yw: a ddylid derbyn y cynnig? A oes unrhyw Aelod yn gwrthwynebu? [Gwrthwynebiad.] Oes. Gohiriaf y bleidlais o dan yr eitem hon tan y cyfnod pleidleisio.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=16911"
+        },
+        {
+          "id": "contribution-776226",
+          "item_id": "item-16313-261006-6",
+          "item_title_en": "6. Debate: Fiscal Reform",
+          "lang": "cy",
+          "t_start": 16928,
+          "text_english": "And that brings us to voting time, and, unless five Members wish for the bell to be rung, I will proceed directly to voting time.",
+          "text_original": "Rydym ni wedi cyrraedd y cyfnod pleidleisio. Oni bai bod pum Aelod yn dymuno i mi ganu'r gloch, symudaf yn syth i'r cyfnod pleidleisio.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=16928"
+        },
+        {
+          "id": "contribution-776228",
+          "item_id": "item-16313-261006-7",
+          "item_title_en": "7. Voting Time",
+          "lang": "cy",
+          "t_start": 16950,
+          "text_english": "I call for a vote on the motion tabled in the names of Heledd Fychan and Lynne Neagle. Open the vote. Close the vote. The result of the vote is as follows: in favour 59, no abstentions, and 31 against. The motion is therefore agreed. Thank you.",
+          "text_original": "Galwaf am bleidlais ar y cynnig a gyflwynwyd yn enwau Heledd Fychan a Lynne Neagle. Agorwch y bleidlais. Cau'r bleidlais. Dyma ganlyniad y bleidlais: o blaid 59, neb yn ymatal, yn erbyn 31. Mae'r cynnig wedi ei dderbyn. Diolch yn fawr iawn.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=16950"
+        },
+        {
+          "id": "contribution-776230",
+          "item_id": "item-16313-261006-7",
+          "item_title_en": "7. Voting Time",
+          "lang": "cy",
+          "t_start": 17017,
+          "text_english": "And that brings today's proceedings to a close.",
+          "text_original": "A daw hynny â thrafodion heddiw i ben.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=17017"
+        }
+      ],
+      "date": "2026-10-06",
+      "record_page_url": "https://record.senedd.wales/Plenary/16313"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-773690",
+          "item_id": "item-16265-260930-3",
+          "item_title_en": "3. Topical Questions",
+          "lang": "cy",
+          "t_start": 6598,
+          "text_english": "The second topical question today is from Sera Evans.",
+          "text_original": "Yr ail gwestiwn amserol heddiw gan Sera Evans.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=6598"
+        },
+        {
+          "id": "contribution-773686",
+          "item_id": "item-16265-260930-3",
+          "item_title_en": "3. Topical Questions",
+          "lang": "cy",
+          "t_start": 7083,
+          "text_english": "Finally, Janet Finch-Saunders.",
+          "text_original": "Yn olaf, Janet Finch-Saunders.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=7083"
+        },
+        {
+          "id": "contribution-773748",
+          "item_id": "item-16265-260930-6",
+          "item_title_en": "5. Member Debate under Standing Order 11.21(iv): Contaminated land",
+          "lang": "cy",
+          "t_start": 11752,
+          "text_english": "Thank you very much. The proposal is to agree the motion. Does any Member object? No, there is no objection. The motion is therefore agreed in accordance with Standing Order 12.36. Thank you very much.",
+          "text_original": "Diolch yn fawr. Y cwestiwn yw: a ddylid derbyn y cynnig? A oes unrhyw Aelod yn gwrthwynebu? Nac oes, does dim gwrthwynebiad. Felly, derbynnir y cynnig yn unol â Rheol Sefydlog 12.36. Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=11752"
+        },
+        {
+          "id": "contribution-773852",
+          "item_id": "item-16265-260930-8",
+          "item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+          "lang": "cy",
+          "t_start": 15706,
+          "text_english": "We'll move now to item 7, the Welsh Conservatives debate on the defence sector. I call on Darren Millar to move the motion.",
+          "text_original": "Symudwn ymlaen nawr at eitem 7, dadl y Ceidwadwyr Cymreig, y sector amddiffyn. Galwaf ar Darren Millar i wneud y cynnig.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=15706"
+        },
+        {
+          "id": "contribution-773841",
+          "item_id": "item-16265-260930-8",
+          "item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+          "lang": "cy",
+          "t_start": 16289,
+          "text_english": "I have selected the amendment to the motion. I call on the Cabinet Minister for Enterprise, Connectivity and Energy to move formally amendment 1, tabled in the name of Heledd Fychan.",
+          "text_original": "Rwyf wedi dethol y gwelliant i'r cynnig. Galwaf ar y Gweinidog Cabinet dros Fenter, Cysylltedd ac Ynni i gynnig yn ffurfiol welliant 1 yn enw Heledd Fychan.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=16289"
+        },
+        {
+          "id": "contribution-773848",
+          "item_id": "item-16265-260930-8",
+          "item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+          "lang": "en",
+          "t_start": 16301,
+          "text_english": "Diolch yn fawr. Sarah Rees.",
+          "text_original": "Diolch yn fawr. Sarah Rees.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=16301"
+        },
+        {
+          "id": "contribution-773863",
+          "item_id": "item-16265-260930-8",
+          "item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+          "lang": "en",
+          "t_start": 18064,
+          "text_english": "Steven, could you conclude now, please?",
+          "text_original": "Steven, could you conclude now, please?",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=18064"
+        },
+        {
+          "id": "contribution-773879",
+          "item_id": "item-16265-260930-8",
+          "item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+          "lang": "en",
+          "t_start": 18395,
+          "text_english": "Would you conclude now, Janet, please?",
+          "text_original": "Would you conclude now, Janet, please?",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=18395"
+        },
+        {
+          "id": "contribution-773891",
+          "item_id": "item-16265-260930-8",
+          "item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+          "lang": "cy",
+          "t_start": 18647,
+          "text_english": "I now call on the Cabinet Minister for Enterprise, Connectivity and Energy, Adam Price.",
+          "text_original": "Galwaf nawr ar y Gweinidog Cabinet dros Fenter, Cysylltedd ac Ynni, Adam Price.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=18647"
+        },
+        {
+          "id": "contribution-773916",
+          "item_id": "item-16265-260930-8",
+          "item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+          "lang": "cy",
+          "t_start": 19191,
+          "text_english": "I call now on Sam Rowlands to reply to the debate.",
+          "text_original": "Galwaf yn awr ar Sam Rowlands i ymateb i'r ddadl.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=19191"
+        },
+        {
+          "id": "contribution-773869",
+          "item_id": "item-16265-260930-8",
+          "item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+          "lang": "cy",
+          "t_start": 19479,
+          "text_english": "The proposal is to agree the motion without amendment. Does any Member object? [Objection.] Yes, there's objection, so I will defer voting under this item until voting time.",
+          "text_original": "Y cwestiwn yw: a ddylid derbyn y cynnig heb ei ddiwygio? A oes unrhyw Aelod yn gwrthwynebu? [Gwrthwynebiad.] Oes. Gohiriaf y bleidlais o dan yr eitem hon tan y cyfnod pleidleisio.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=19479"
+        },
+        {
+          "id": "contribution-773872",
+          "item_id": "item-16265-260930-9",
+          "item_title_en": "8. Voting Time",
+          "lang": "cy",
+          "t_start": 19494,
+          "text_english": "That brings us to item 8, voting time. Unless five Members wish for the bell to be rung, I will proceed directly to voting time.\n\nI call first for a vote on the motion tabled in the name of Llŷr Powell on the Reform UK debate on the default 20 mph speed limit. If the motion is not agreed, we will vote on the amendment tabled to the motion. Open the vote. Close the vote. The result of the vote is: in favour 37, no abstentions, 51 against. The motion is not agreed.",
+          "text_original": "Rŷn ni'n cyrraedd eitem 8, y cyfnod pleidleisio. Oni bai bod pum Aelod yn dymuno i mi ganu'r gloch, symudaf yn syth i'r cyfnod pleidleisio. \n\nGalwaf yn gyntaf am bleidlais ar y cynnig a gyflwynwyd yn Llŷr Powell, dadl Reform UK, terfyn cyflymder diofyn 20 mya. Os gwrthodir y cynnig, byddwn yn pleidleisio ar y gwelliant a gyflwynwyd i'r cynnig. Agorwch y bleidlais. Caewch y bleidlais. Dyma ganlyniad y bleidlais: o blaid 37, neb yn ymatal, yn erbyn 51. Mae'r cynnig wedi ei wrthod.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=19494"
+        },
+        {
+          "id": "contribution-773942",
+          "item_id": "item-16265-260930-9",
+          "item_title_en": "8. Voting Time",
+          "lang": "cy",
+          "t_start": 19605,
+          "text_english": "I therefore call for a vote on amendment 1, tabled in the name of Heledd Fychan. Open the vote. Close the vote. The result of the vote is: in favour 52, no abstentions, 36 against. Amendment 1 is agreed.",
+          "text_original": "Felly, galwaf am bleidlais ar welliant 1, a gyflwynwyd yn enw Heledd Fychan. Agorwch y bleidlais. Caewch y bleidlais. Dyma ganlyniad y bleidlais: o blaid 52, neb yn ymatal, yn erbyn 36. Mae gwelliant 1 wedi ei dderbyn.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=19605"
+        },
+        {
+          "id": "contribution-773958",
+          "item_id": "item-16265-260930-9",
+          "item_title_en": "8. Voting Time",
+          "lang": "cy",
+          "t_start": 19662,
+          "text_english": "I now call for a vote on the motion as amended.",
+          "text_original": "Galwaf nawr am bleidlais ar y cynnig wedi ei ddiwygio.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=19662"
+        },
+        {
+          "id": "contribution-773985",
+          "item_id": "item-16265-260930-9",
+          "item_title_en": "8. Voting Time",
+          "lang": "cy",
+          "t_start": 19667,
+          "text_english": "Open the vote. Close the vote. The result of the vote is: in favour 52, no abstentions, 36 against. The motion as amended is agreed.",
+          "text_original": "Agorwch y bleidlais. Caewch y bleidlais. Dyma ganlyniad y bleidlais: o blaid 52, neb yn ymatal, yn erbyn 36. Mae'r cynnig wedi ei ddiwygio wedi ei dderbyn.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=19667"
+        },
+        {
+          "id": "contribution-773972",
+          "item_id": "item-16265-260930-9",
+          "item_title_en": "8. Voting Time",
+          "lang": "cy",
+          "t_start": 19712,
+          "text_english": "Now I call for a vote on the motion for the Welsh Conservatives' debate on the defence sector, the motion tabled in the name of Paul Davies. If the motion is not agreed, we will vote on the amendment tabled to the motion. Open the vote. Close the vote. The motion is agreed.",
+          "text_original": "Nesaf, galwaf am bleidlais ar gynnig dadl y Ceidwadwyr Cymreig ar y sector amddiffyn, y cynnig a gyflwynwyd yn enw Paul Davies. Os gwrthodir y cynnig, byddwn yn pleidleisio ar y gwelliant a gyflwynwyd i'r cynnig. Agorwch y bleidlais. Caewch y bleidlais. Mae'r cynnig wedi ei dderbyn.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=19712"
+        },
+        {
+          "id": "contribution-773976",
+          "item_id": "item-16265-260930-9",
+          "item_title_en": "8. Voting Time",
+          "lang": "en",
+          "t_start": 19787,
+          "text_english": "Could I ask Members who are leaving the Chamber to move quietly, please, and swiftly? We are waiting to commence the short debate, so if Members could move swiftly out of the Chamber if they're not staying.",
+          "text_original": "Could I ask Members who are leaving the Chamber to move quietly, please, and swiftly? We are waiting to commence the short debate, so if Members could move swiftly out of the Chamber if they're not staying.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=19787"
+        },
+        {
+          "id": "contribution-773914",
+          "item_id": "item-16265-260930-10",
+          "item_title_en": "9. Short Debate: The importance of local services—Protecting the future of Withybush hospital",
+          "lang": "cy",
+          "t_start": 19828,
+          "text_english": "We move on now to the short debate. Claire Archibald.",
+          "text_original": "Symudwn nawr at eitem 9, dadl fer. Claire Archibald.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=19828"
+        },
+        {
+          "id": "contribution-773955",
+          "item_id": "item-16265-260930-10",
+          "item_title_en": "9. Short Debate: The importance of local services—Protecting the future of Withybush hospital",
+          "lang": "en",
+          "t_start": 20515,
+          "text_english": "Now then, one-minute contributions or shorter. Paul Marr.",
+          "text_original": "Now then, one-minute contributions or shorter. Paul Marr.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=20515"
+        },
+        {
+          "id": "contribution-773881",
+          "item_id": "item-16265-260930-10",
+          "item_title_en": "9. Short Debate: The importance of local services—Protecting the future of Withybush hospital",
+          "lang": "cy",
+          "t_start": 20731,
+          "text_english": "Finally, Paul Davies.",
+          "text_original": "Yn olaf, Paul Davies.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=20731"
+        },
+        {
+          "id": "contribution-773943",
+          "item_id": "item-16265-260930-10",
+          "item_title_en": "9. Short Debate: The importance of local services—Protecting the future of Withybush hospital",
+          "lang": "cy",
+          "t_start": 20830,
+          "text_english": "I call on the Cabinet Minister for Health and Care to reply to the debate—Mabon ap Gwynfor.",
+          "text_original": "Galwaf ar y Gweinidog Cabinet dros Iechyd a Gofal i ymateb i'r ddadl—Mabon ap Gwynfor.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=20830"
+        },
+        {
+          "id": "contribution-773894",
+          "item_id": "item-16265-260930-10",
+          "item_title_en": "9. Short Debate: The importance of local services—Protecting the future of Withybush hospital",
+          "lang": "cy",
+          "t_start": 21563,
+          "text_english": "Thank you, Cabinet Minister, and thank you, Members. That brings today's proceedings to a close. Thank you very much.",
+          "text_original": "Diolch, Weinidog Cabinet. Diolch, Aelodau, hefyd. Daw hynny â thrafodion heddiw i ben. Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=21563"
+        }
+      ],
+      "date": "2026-09-30",
+      "record_page_url": "https://record.senedd.wales/Plenary/16265"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-772794",
+          "item_id": "item-16264-260929-1",
+          "item_title_en": "Statement by the Llywydd",
+          "lang": "cy",
+          "t_start": 3,
+          "text_english": "Good afternoon, everybody.",
+          "text_original": "Prynhawn da, bawb.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=3"
+        },
+        {
+          "id": "contribution-772796",
+          "item_id": "item-16264-260929-1",
+          "item_title_en": "Statement by the Llywydd",
+          "lang": "en",
+          "t_start": 6,
+          "text_english": "We'll get under way. Before we move ahead with today's agenda, I wish to communicate my ruling in response to the point of order raised by Heledd Fychan MS at the end of the meeting on 23 September 2026. I have had an opportunity to review the Record of Proceedings. My ruling is that the contribution made by Joe Martin MS to the short debate on 23 September breached Standing Order 13.9(v), as it constituted\n\n'disorderly, discriminatory or offensive language or language which detracts from the dignity of the Senedd'.\n\nI want to make it clear that Members of the Senedd are entitled to hold and express strong and differing views. I will defend the rights of all Members to express their perspectives and to challenge that of other Members. It is the nature of parliamentary debate that Members will frequently disagree, and often in a robust manner. However, contributions must comply with the Standing Orders and the required standards of conduct in a parliamentary setting. And they must be grounded in respect for others at all times. This ruling concerns the language used and the manner in which the contribution was expressed, rather than the right to debate the subject matter.\n\nI have written to Joe Martin concerning my ruling, and to require that he ensures that the language used meets the requirements of order and respect in future. That is my ruling.",
+          "text_original": "We'll get under way. Before we move ahead with today's agenda, I wish to communicate my ruling in response to the point of order raised by Heledd Fychan MS at the end of the meeting on 23 September 2026. I have had an opportunity to review the Record of Proceedings. My ruling is that the contribution made by Joe Martin MS to the short debate on 23 September breached Standing Order 13.9(v), as it constituted\n\n'disorderly, discriminatory or offensive language or language which detracts from the dignity of the Senedd'.\n\nI want to make it clear that Members of the Senedd are entitled to hold and express strong and differing views. I will defend the rights of all Members to express their perspectives and to challenge that of other Members. It is the nature of parliamentary debate that Members will frequently disagree, and often in a robust manner. However, contributions must comply with the Standing Orders and the required standards of conduct in a parliamentary setting. And they must be grounded in respect for others at all times. This ruling concerns the language used and the manner in which the contribution was expressed, rather than the right to debate the subject matter.\n\nI have written to Joe Martin concerning my ruling, and to require that he ensures that the language used meets the requirements of order and respect in future. That is my ruling.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=6"
+        },
+        {
+          "id": "contribution-772788",
+          "item_id": "item-16264-260929-2",
+          "item_title_en": "1. Nominations for a Committee Chair",
+          "lang": "en",
+          "t_start": 105,
+          "text_english": "Can we now move to item 1, please? We have nominations for a committee Chair. I now invite nominations under Standing Order 17.2F for the Chair of the Legislation Committee, which has been allocated to the Reform group, agreed in accordance with Standing Order 17.2A. Only a Member from the political group that has been allocated that committee may be nominated as Chair, and only a Member of the same political group may make the nomination. If a Member objects to a nomination, or there are two or more nominations, a secret ballot will be held. I invite nominations.",
+          "text_original": "Can we now move to item 1, please? We have nominations for a committee Chair. I now invite nominations under Standing Order 17.2F for the Chair of the Legislation Committee, which has been allocated to the Reform group, agreed in accordance with Standing Order 17.2A. Only a Member from the political group that has been allocated that committee may be nominated as Chair, and only a Member of the same political group may make the nomination. If a Member objects to a nomination, or there are two or more nominations, a secret ballot will be held. I invite nominations.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=105"
+        },
+        {
+          "id": "contribution-772803",
+          "item_id": "item-16264-260929-2",
+          "item_title_en": "1. Nominations for a Committee Chair",
+          "lang": "en",
+          "t_start": 148,
+          "text_english": "Thank you. Cai Parry-Jones is nominated. Do we have a seconder?",
+          "text_original": "Thank you. Cai Parry-Jones is nominated. Do we have a seconder?",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=148"
+        },
+        {
+          "id": "contribution-772805",
+          "item_id": "item-16264-260929-2",
+          "item_title_en": "1. Nominations for a Committee Chair",
+          "lang": "en",
+          "t_start": 154,
+          "text_english": "Thank you very much. We have a mover and a seconder. Are there any further nominations?",
+          "text_original": "Thank you very much. We have a mover and a seconder. Are there any further nominations?",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=154"
+        },
+        {
+          "id": "contribution-772809",
+          "item_id": "item-16264-260929-2",
+          "item_title_en": "1. Nominations for a Committee Chair",
+          "lang": "en",
+          "t_start": 161,
+          "text_english": "Cristiana Emsley is nominated. Do we have a seconder?",
+          "text_original": "Cristiana Emsley is nominated. Do we have a seconder?",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=161"
+        },
+        {
+          "id": "contribution-772812",
+          "item_id": "item-16264-260929-2",
+          "item_title_en": "1. Nominations for a Committee Chair",
+          "lang": "en",
+          "t_start": 166,
+          "text_english": "We have a seconder. Are there any further nominations? The election of the Chair for this committee will now duly take place by secret ballot. So, the secret ballot will be held in briefing room 13 in the Senedd, and electronically. Members will be e-mailed when the voting opens, and voting will close after two hours. The clerk will be responsible for supervising the voting and for counting the votes. Following the secret ballot, I will announce the result at the end of Plenary today.",
+          "text_original": "We have a seconder. Are there any further nominations? The election of the Chair for this committee will now duly take place by secret ballot. So, the secret ballot will be held in briefing room 13 in the Senedd, and electronically. Members will be e-mailed when the voting opens, and voting will close after two hours. The clerk will be responsible for supervising the voting and for counting the votes. Following the secret ballot, I will announce the result at the end of Plenary today.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=166"
+        },
+        {
+          "id": "contribution-772818",
+          "item_id": "item-16264-260929-3",
+          "item_title_en": "2. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 208,
+          "text_english": "We will move now to item 2, questions to the First Minister. And the first question is from Cristiana Emsley.",
+          "text_original": "Symudwn ymlaen nawr at eitem 2, cwestiynau i'r Prif Weinidog. Cwestiwn 1, Cristiana Emsley.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=208"
+        },
+        {
+          "id": "contribution-772843",
+          "item_id": "item-16264-260929-3",
+          "item_title_en": "2. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 893,
+          "text_english": "I now call on the party leaders to question the First Minister. First of all, leader of Reform UK, Helen Jenner.",
+          "text_original": "Galwaf yn awr ar arweinwyr y pleidiau i holi'r Prif Weinidog. Yn gyntaf, arweinydd Reform UK, Helen Jenner.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=893"
+        },
+        {
+          "id": "contribution-772830",
+          "item_id": "item-16264-260929-3",
+          "item_title_en": "2. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 1262,
+          "text_english": "Leader of Welsh Labour, Ken Skates.",
+          "text_original": "Arweinydd Llafur Cymru, Ken Skates.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=1262"
+        },
+        {
+          "id": "contribution-772826",
+          "item_id": "item-16264-260929-3",
+          "item_title_en": "2. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 1512,
+          "text_english": "Leader of the Welsh Conservatives, Darren Millar.",
+          "text_original": "Arweinydd y Ceidwadwyr Cymreig, Darren Millar.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=1512"
+        },
+        {
+          "id": "contribution-772884",
+          "item_id": "item-16264-260929-3",
+          "item_title_en": "2. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 3186,
+          "text_english": "Question 7 [OQ64608] is withdrawn. Question 8, Niamh Salkeld.",
+          "text_original": "Cwestiwn 7 [OQ64608], tynnwyd yn ôl. Cwestiwn 8, Niamh Salkeld.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=3186"
+        },
+        {
+          "id": "contribution-772907",
+          "item_id": "item-16264-260929-3",
+          "item_title_en": "2. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 3907,
+          "text_english": "Thank you, First Minister.",
+          "text_original": "Diolch, Brif Weinidog.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=3907"
+        },
+        {
+          "id": "contribution-772910",
+          "item_id": "item-16264-260929-4",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "cy",
+          "t_start": 3910,
+          "text_english": "We move on now to item 3, the business statement and announcement. I call on the Trefnydd, Heledd Fychan.",
+          "text_original": "Symudwn nawr at eitem 3, datganiad a chyhoeddiad busnes. Galwaf ar y Trefnydd, Heledd Fychan.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=3910"
+        },
+        {
+          "id": "contribution-772949",
+          "item_id": "item-16264-260929-4",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 4424,
+          "text_english": "Shav—",
+          "text_original": "Shav—",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=4424"
+        },
+        {
+          "id": "contribution-772956",
+          "item_id": "item-16264-260929-4",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 4440,
+          "text_english": "Trefnydd.",
+          "text_original": "Trefnydd.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=4440"
+        },
+        {
+          "id": "contribution-772972",
+          "item_id": "item-16264-260929-4",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "cy",
+          "t_start": 5353,
+          "text_english": "Finally, Trefnydd, David Hughes.",
+          "text_original": "Yn olaf, Drefnydd, David Hughes.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=5353"
+        },
+        {
+          "id": "contribution-772935",
+          "item_id": "item-16264-260929-4",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 5434,
+          "text_english": "Thank you.",
+          "text_original": "Thank you.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=5434"
+        },
+        {
+          "id": "contribution-772943",
+          "item_id": "item-16264-260929-4",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "cy",
+          "t_start": 5524,
+          "text_english": "Thank you, Trefnydd.",
+          "text_original": "Diolch, Drefnydd.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=5524"
+        },
+        {
+          "id": "contribution-772947",
+          "item_id": "item-16264-260929-5",
+          "item_title_en": "4. Statement by the Cabinet Minister for Health and Care: Review of the Escalation and Intervention Framework",
+          "lang": "cy",
+          "t_start": 5525,
+          "text_english": "We'll move now to item 4: a statement by the Cabinet Minister for Health and Care, a review of the escalation and intervention framework. I call on the Cabinet Minister, Mabon ap Gwynfor.",
+          "text_original": "Symudwn nawr at eitem 4: datganiad gan y Gweinidog Cabinet dros Iechyd a Gofal, adolygiad o'r fframwaith uwchgyfeirio ac ymyrryd. Galwaf ar y Gweinidog Cabinet, Mabon ap Gwynfor.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=5525"
+        },
+        {
+          "id": "contribution-773000",
+          "item_id": "item-16264-260929-5",
+          "item_title_en": "4. Statement by the Cabinet Minister for Health and Care: Review of the Escalation and Intervention Framework",
+          "lang": "cy",
+          "t_start": 7696,
+          "text_english": "Finally, Cabinet Minister, Anna Nicholl.",
+          "text_original": "Yn olaf, Weinidog Cabinet, Anna Nicholl.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=7696"
+        }
+      ],
+      "date": "2026-09-29",
+      "record_page_url": "https://record.senedd.wales/Plenary/16264"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771505",
+          "item_id": "item-16263-260923-3",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "cy",
+          "t_start": 6303,
+          "text_english": "Thank you for the question.",
+          "text_original": "Diolch am y cwestiwn.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=6303"
+        },
+        {
+          "id": "contribution-771501",
+          "item_id": "item-16263-260923-3",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 6305,
+          "text_english": "The Senedd Commission is committed to ensuring that we are inclusive to everyone who works on or visits the estate. We have facilities available for those who need to express milk following the birth of their child. The quiet rooms can be used for expressing milk, and fridges are available to store the milk. These can be found on the ground floor in Tŷ Hywel in B block, opposite the committee rooms, and one in the Senedd on the Neuadd level. In addition, people can access the first aid rooms, where privacy, seating or couch facilities are provided. All these facilities are lockable and can be marked as occupied. For Commission staff, managers and HR support return-to-work planning after maternity leave in a number of ways, including a new and expectant parent risk assessment, covering practical arrangements such as quiet rooms, hygiene facilities and secure refrigerated storage.",
+          "text_original": "The Senedd Commission is committed to ensuring that we are inclusive to everyone who works on or visits the estate. We have facilities available for those who need to express milk following the birth of their child. The quiet rooms can be used for expressing milk, and fridges are available to store the milk. These can be found on the ground floor in Tŷ Hywel in B block, opposite the committee rooms, and one in the Senedd on the Neuadd level. In addition, people can access the first aid rooms, where privacy, seating or couch facilities are provided. All these facilities are lockable and can be marked as occupied. For Commission staff, managers and HR support return-to-work planning after maternity leave in a number of ways, including a new and expectant parent risk assessment, covering practical arrangements such as quiet rooms, hygiene facilities and secure refrigerated storage.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=6305"
+        },
+        {
+          "id": "contribution-771533",
+          "item_id": "item-16263-260923-3",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 6419,
+          "text_english": "I really welcome that feedback from your own experience, and thank you for sharing that with us. I'm more than happy to take that back to officials and to facilitate, if necessary, discussion with my officials so that they can look at that. One of the opportunities as to what we can do now to improve that—and we do want to be, very much, that best practice in terms of the workplace—the other thing going forward is how we respond to the family friendly and inclusive parliament review, which had recommendations specifically with regard to family friendly support, breastfeeding and so on. So, if you're happy, I'll facilitate those discussions and we can look at how we can improve it now.",
+          "text_original": "I really welcome that feedback from your own experience, and thank you for sharing that with us. I'm more than happy to take that back to officials and to facilitate, if necessary, discussion with my officials so that they can look at that. One of the opportunities as to what we can do now to improve that—and we do want to be, very much, that best practice in terms of the workplace—the other thing going forward is how we respond to the family friendly and inclusive parliament review, which had recommendations specifically with regard to family friendly support, breastfeeding and so on. So, if you're happy, I'll facilitate those discussions and we can look at how we can improve it now.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=6419"
+        },
+        {
+          "id": "contribution-771551",
+          "item_id": "item-16263-260923-3",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 6471,
+          "text_english": "Diolch, Joe. Bay 32 is the Commission’s project to secure fit-for-purpose accommodation beyond the expiry of the Tŷ Hywel lease, which happens in 2032. A competitive procurement concluded that the best value option is a major refurbishment and renewal of Tŷ Hywel, with the potential for Commission ownership. Equitix is the preferred bidder and its proposal includes more than £50 million of landlord investment—landlord investment—in the building. This is planned to include increasing the amount of useable space in Tŷ Hywel by 25 per cent. The project is now in detailed design during a pre-development phase with capped costs to the Commission. Because the building must remain operational during major works, temporary accommodation will be needed for Members, staff and for services. So, the Commission will consider options for managing any relocation, before considering the full business case later this year. The works are currently expected to begin from early summer 2027 and last for up to three years.",
+          "text_original": "Diolch, Joe. Bay 32 is the Commission’s project to secure fit-for-purpose accommodation beyond the expiry of the Tŷ Hywel lease, which happens in 2032. A competitive procurement concluded that the best value option is a major refurbishment and renewal of Tŷ Hywel, with the potential for Commission ownership. Equitix is the preferred bidder and its proposal includes more than £50 million of landlord investment—landlord investment—in the building. This is planned to include increasing the amount of useable space in Tŷ Hywel by 25 per cent. The project is now in detailed design during a pre-development phase with capped costs to the Commission. Because the building must remain operational during major works, temporary accommodation will be needed for Members, staff and for services. So, the Commission will consider options for managing any relocation, before considering the full business case later this year. The works are currently expected to begin from early summer 2027 and last for up to three years.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=6471"
+        },
+        {
+          "id": "contribution-771590",
+          "item_id": "item-16263-260923-3",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 6551,
+          "text_english": "I'm pleased to reiterate what I said in my opening remarks. First of all, the project is now in a capped cost pre-development phase. It's pegged. There's a clear understanding and expectation from all of the Commissioners who were involved in taking this forward, and an understanding from the potential project delivery partners as well. The other thing, reiterating but expanding a little bit on what I said earlier, is that we ran a competitive process. So, the Commission had a real choice of options of how to do this very important work for all of us and the constituents who come here to meet us as well. So, we tested the markets and secured what we believe is a very strong proposal for the long-term future of Tŷ Hywel. But one other thing I would say to you, Joe, and to other Members, is that we're keen that the project continues to be shaped by Member feedback, in providing those spaces that allow you and others to carry out your parliamentary roles. So, no decision has been taken yet to proceed, of course, with construction; the full business case is yet to be brought forward. We look forward to engaging with Members, and also with political groups as well, on the proposals as they're developed.",
+          "text_original": "I'm pleased to reiterate what I said in my opening remarks. First of all, the project is now in a capped cost pre-development phase. It's pegged. There's a clear understanding and expectation from all of the Commissioners who were involved in taking this forward, and an understanding from the potential project delivery partners as well. The other thing, reiterating but expanding a little bit on what I said earlier, is that we ran a competitive process. So, the Commission had a real choice of options of how to do this very important work for all of us and the constituents who come here to meet us as well. So, we tested the markets and secured what we believe is a very strong proposal for the long-term future of Tŷ Hywel. But one other thing I would say to you, Joe, and to other Members, is that we're keen that the project continues to be shaped by Member feedback, in providing those spaces that allow you and others to carry out your parliamentary roles. So, no decision has been taken yet to proceed, of course, with construction; the full business case is yet to be brought forward. We look forward to engaging with Members, and also with political groups as well, on the proposals as they're developed.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=6551"
+        },
+        {
+          "id": "contribution-771531",
+          "item_id": "item-16263-260923-3",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 6639,
+          "text_english": "So, the cost of what is known as the 'decant strategy', and the different options on that that Commissioners are currently considering, is within the cost we've already described. So, we're not looking at an escalating cost; we're looking at managing it within the budgets we've already put for it. And, as I say, this pre-development phase, we've got capped costs for this. So, I hope that's an assurance to the Member. And, I have to say, there's very robust challenge from the Commissioners, all of them, in terms of keeping this within the cost envelope that we've anticipated.\n\nIdeally, going forward, we'll have a good building that is refurbished and fit for now and for years to come, that enhances the experience for Members and for people who visit here, and we can also do that in a very cost-effective way. Because at the moment—Members shouldn't be under any misapprehension as to what we are facing—if we don't proceed with this, the status quo option includes forking out for repairs to the existing building, into the millions of pounds. So, what we're trying to do is avoid that eventuality.",
+          "text_original": "So, the cost of what is known as the 'decant strategy', and the different options on that that Commissioners are currently considering, is within the cost we've already described. So, we're not looking at an escalating cost; we're looking at managing it within the budgets we've already put for it. And, as I say, this pre-development phase, we've got capped costs for this. So, I hope that's an assurance to the Member. And, I have to say, there's very robust challenge from the Commissioners, all of them, in terms of keeping this within the cost envelope that we've anticipated.\n\nIdeally, going forward, we'll have a good building that is refurbished and fit for now and for years to come, that enhances the experience for Members and for people who visit here, and we can also do that in a very cost-effective way. Because at the moment—Members shouldn't be under any misapprehension as to what we are facing—if we don't proceed with this, the status quo option includes forking out for repairs to the existing building, into the millions of pounds. So, what we're trying to do is avoid that eventuality.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=6639"
+        },
+        {
+          "id": "contribution-771523",
+          "item_id": "item-16263-260923-3",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 6932,
+          "text_english": "Diolch, Francesca. The Commission takes the welfare of Members and their staff very seriously, and we provide practical, accessible support across well-being, employment, health and safety, dignity and respect, safeguarding, and, of course, security. This includes confidential employee assistance and occupational health services, tailored HR guidance and training, and security advice and measures. The Hwb brings information and face-to-face support together in one place, with a weekly virtual drop-in for support staff, whatever their location.\n\nThe Commission's phased learning framework treats personal resilience, well-being and maintaining a healthy work-life balance as continuing development needs rather than one-off induction topics. Training is repeated, reinforced and extended through the Senedd term, with provision adapted to Member and support staff learning needs and delivery preferences. \n\nAnd just finally, the Members' security team provides support to Members on a wide range of personal safety and security matters, including advice and guidance, the implementation of security measures at homes and offices, practical support and advice relating to social media security, and the reporting and management of security-related incidents.",
+          "text_original": "Diolch, Francesca. The Commission takes the welfare of Members and their staff very seriously, and we provide practical, accessible support across well-being, employment, health and safety, dignity and respect, safeguarding, and, of course, security. This includes confidential employee assistance and occupational health services, tailored HR guidance and training, and security advice and measures. The Hwb brings information and face-to-face support together in one place, with a weekly virtual drop-in for support staff, whatever their location.\n\nThe Commission's phased learning framework treats personal resilience, well-being and maintaining a healthy work-life balance as continuing development needs rather than one-off induction topics. Training is repeated, reinforced and extended through the Senedd term, with provision adapted to Member and support staff learning needs and delivery preferences. \n\nAnd just finally, the Members' security team provides support to Members on a wide range of personal safety and security matters, including advice and guidance, the implementation of security measures at homes and offices, practical support and advice relating to social media security, and the reporting and management of security-related incidents.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=6932"
+        },
+        {
+          "id": "contribution-771532",
+          "item_id": "item-16263-260923-3",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 7083,
+          "text_english": "Thank you for that. It's helpful with that supplementary. The Commissioners, of course, keep constantly under review the access and the privileged access to different parts of not just the Senedd building, but also here within Tŷ Hywel as well. There are different levels of pass holders, and there's an expectation as well that there's an accompaniment of visitors into certain areas by pass holders—just to remind colleagues as well. But we do keep this under review, and we do keep a refresh on it. So, I take on board the individual example that you're saying. Perhaps we can discuss it further in terms of what area that was, what precise location that was.\n\nBut we do also want the building to be able to be accessible to people who want to ask us questions as elected representatives and for constituency members who visit us, and for legitimate lobbyists who come here from health organisations, et cetera, et cetera. So, point taken. I'm happy to discuss the individual location that you mentioned and, of course, Commissioners will always keep this under review.",
+          "text_original": "Thank you for that. It's helpful with that supplementary. The Commissioners, of course, keep constantly under review the access and the privileged access to different parts of not just the Senedd building, but also here within Tŷ Hywel as well. There are different levels of pass holders, and there's an expectation as well that there's an accompaniment of visitors into certain areas by pass holders—just to remind colleagues as well. But we do keep this under review, and we do keep a refresh on it. So, I take on board the individual example that you're saying. Perhaps we can discuss it further in terms of what area that was, what precise location that was.\n\nBut we do also want the building to be able to be accessible to people who want to ask us questions as elected representatives and for constituency members who visit us, and for legitimate lobbyists who come here from health organisations, et cetera, et cetera. So, point taken. I'm happy to discuss the individual location that you mentioned and, of course, Commissioners will always keep this under review.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=7083"
+        },
+        {
+          "id": "contribution-771559",
+          "item_id": "item-16263-260923-3",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 7197,
+          "text_english": "Diolch yn fawr iawn. I would refer Members very strongly not just to the Hwb, but to the security team presence as well, for all the advice and assistance they can give. Of course, there is an interaction that we have, not just as individual Members, but through our security people, including the observation and monitoring. It's not monitoring in a NASA style, but keeping an eye on what's happening online. There is engagement as well with police across Wales. This is an issue that affects all Members, because it can be quite a hostile environment out there. But I would strongly say to Members and their staff that if they have individual instances, they should bring them to the attention of our security people, because they want to hear about it and we need to be notified of it.",
+          "text_original": "Diolch yn fawr iawn. I would refer Members very strongly not just to the Hwb, but to the security team presence as well, for all the advice and assistance they can give. Of course, there is an interaction that we have, not just as individual Members, but through our security people, including the observation and monitoring. It's not monitoring in a NASA style, but keeping an eye on what's happening online. There is engagement as well with police across Wales. This is an issue that affects all Members, because it can be quite a hostile environment out there. But I would strongly say to Members and their staff that if they have individual instances, they should bring them to the attention of our security people, because they want to hear about it and we need to be notified of it.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=7197"
+        },
+        {
+          "id": "contribution-771585",
+          "item_id": "item-16263-260923-3",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 7270,
+          "text_english": "Diolch, Jane. Responsibility for safeguarding arrangements within Members' offices rests with the individual Members, as Members of the Senedd are individually elected and they're not Commission employees. Members need to have their own safeguarding policy appropriate to their role as office holders and employers, as they are responsible for their activities. The statutory disclosure and barring framework is reserved to the UK level.",
+          "text_original": "Diolch, Jane. Responsibility for safeguarding arrangements within Members' offices rests with the individual Members, as Members of the Senedd are individually elected and they're not Commission employees. Members need to have their own safeguarding policy appropriate to their role as office holders and employers, as they are responsible for their activities. The statutory disclosure and barring framework is reserved to the UK level.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=7270"
+        },
+        {
+          "id": "contribution-771616",
+          "item_id": "item-16263-260923-3",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 7379,
+          "text_english": "Thank you. There are a couple of points for consideration here. First of all, the statutory disclosure and barring framework is reserved to UK level, so broadening eligibility for things such as enhanced checks would require action by the UK Government. I'm aware that political parties operate, on a voluntary basis, their own approach to candidates, and it differs from party to party. We watch with interest the different proposals that are emerging currently at a UK level from some individual MPs. Some of them are looking at a statutory basis for changing this, and some at a non-statutory basis. The basic test, as you mentioned, in terms of DBS, as opposed to the enhanced test, has some limitations with it in terms of what it provides. My understanding is that DBS checks are legally designed as a tool for employers or for licensing bodies to assess the suitability of an applicant for a specific workplace role. MSs, of course, not unlike MPs, are not employees, but independent constitutional office holders chosen directly by voters. But it is an interesting area, and we're watching the discussions going on in Westminster at the moment. But the responsibility rests with UK statute.",
+          "text_original": "Thank you. There are a couple of points for consideration here. First of all, the statutory disclosure and barring framework is reserved to UK level, so broadening eligibility for things such as enhanced checks would require action by the UK Government. I'm aware that political parties operate, on a voluntary basis, their own approach to candidates, and it differs from party to party. We watch with interest the different proposals that are emerging currently at a UK level from some individual MPs. Some of them are looking at a statutory basis for changing this, and some at a non-statutory basis. The basic test, as you mentioned, in terms of DBS, as opposed to the enhanced test, has some limitations with it in terms of what it provides. My understanding is that DBS checks are legally designed as a tool for employers or for licensing bodies to assess the suitability of an applicant for a specific workplace role. MSs, of course, not unlike MPs, are not employees, but independent constitutional office holders chosen directly by voters. But it is an interesting area, and we're watching the discussions going on in Westminster at the moment. But the responsibility rests with UK statute.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=7379"
+        },
+        {
+          "id": "contribution-771620",
+          "item_id": "item-16263-260923-3",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 7483,
+          "text_english": "Members and staff are able to access all major news outlets using the Senedd IT network on laptops and other Senedd Commission-issued devices. With regard to the internal broadcasting network, this matter is subject to ongoing discussion by Commissioners, and I’m sure Commissioners will gladly report back to their respective groups in due course. All major newspapers are delivered to the Senedd's library and can be accessed by Members and staff.",
+          "text_original": "Members and staff are able to access all major news outlets using the Senedd IT network on laptops and other Senedd Commission-issued devices. With regard to the internal broadcasting network, this matter is subject to ongoing discussion by Commissioners, and I’m sure Commissioners will gladly report back to their respective groups in due course. All major newspapers are delivered to the Senedd's library and can be accessed by Members and staff.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=7483"
+        },
+        {
+          "id": "contribution-771557",
+          "item_id": "item-16263-260923-3",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 7591,
+          "text_english": "Catherine, you are right indeed, we have been here before. At the last Senedd Commission questions, there was quite a lengthy discussion on this. I can't really add much to my opening response. Perhaps it's worth highlighting for the record that press freedom is a principle that we all share. It remains central to the integrity and openness of the democratic institutions here in Wales. This principle, by the way, is reflected, as I mentioned in my opening remarks, in our policy on press passes to the estate as well. It is also reflected in the fact that all the major news outlets can be accessed on the Senedd IT network—on laptops and other Senedd Commission devices—and in the access to all major newspapers in the Senedd library. But as I said earlier, the matter is subject to ongoing discussions by Commissioners, and out of respect to them and those discussions, it's difficult for me to add to my earlier remarks.",
+          "text_original": "Catherine, you are right indeed, we have been here before. At the last Senedd Commission questions, there was quite a lengthy discussion on this. I can't really add much to my opening response. Perhaps it's worth highlighting for the record that press freedom is a principle that we all share. It remains central to the integrity and openness of the democratic institutions here in Wales. This principle, by the way, is reflected, as I mentioned in my opening remarks, in our policy on press passes to the estate as well. It is also reflected in the fact that all the major news outlets can be accessed on the Senedd IT network—on laptops and other Senedd Commission devices—and in the access to all major newspapers in the Senedd library. But as I said earlier, the matter is subject to ongoing discussions by Commissioners, and out of respect to them and those discussions, it's difficult for me to add to my earlier remarks.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=7591"
+        },
+        {
+          "id": "contribution-771568",
+          "item_id": "item-16263-260923-3",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 7657,
+          "text_english": "Diolch, Gwyn. Ease of access to the existing routes from Tŷ Hywel to the Senedd building, and significant improvements to how the buildings connect for Members and other users, is actively being looked at in detail as part of the Bay 32 project. The Commission is not, however, currently considering any further alternative physical bridges, for example, to the Senedd building from Tŷ Hywel. There are two link bridges that provide access from Tŷ Hywel to the Senedd building—one via the first floor staff restaurant and one on the second floor. Access from the first floor link bridge is via lifts only. The second floor link bridge directly joins the Senedd building, with no lift required. Direct access is also available at ground floor level via the Senedd building courtyards.",
+          "text_original": "Diolch, Gwyn. Ease of access to the existing routes from Tŷ Hywel to the Senedd building, and significant improvements to how the buildings connect for Members and other users, is actively being looked at in detail as part of the Bay 32 project. The Commission is not, however, currently considering any further alternative physical bridges, for example, to the Senedd building from Tŷ Hywel. There are two link bridges that provide access from Tŷ Hywel to the Senedd building—one via the first floor staff restaurant and one on the second floor. Access from the first floor link bridge is via lifts only. The second floor link bridge directly joins the Senedd building, with no lift required. Direct access is also available at ground floor level via the Senedd building courtyards.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=7657"
+        },
+        {
+          "id": "contribution-771582",
+          "item_id": "item-16263-260923-3",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 7760,
+          "text_english": "Now we're put right on the spot, because if Sam is keeping an eye on this, my goodness. As I mentioned, the proposals we're looking at for developing and enhancing the facilities here include those routes from one part of the building to the other—from Tŷ Hywel to the Senedd. So, it's under consideration by the Commissioners in the plans going forward. It won't be immediate—I can't promise that. Meanwhile, we're all going to have to work hard to avoid that last-minute bottleneck where we're all jammed in with Sam, with very important services and goods being taken across at the same time that we're rushing down for the bell. Diolch.",
+          "text_original": "Now we're put right on the spot, because if Sam is keeping an eye on this, my goodness. As I mentioned, the proposals we're looking at for developing and enhancing the facilities here include those routes from one part of the building to the other—from Tŷ Hywel to the Senedd. So, it's under consideration by the Commissioners in the plans going forward. It won't be immediate—I can't promise that. Meanwhile, we're all going to have to work hard to avoid that last-minute bottleneck where we're all jammed in with Sam, with very important services and goods being taken across at the same time that we're rushing down for the bell. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=7760"
+        },
+        {
+          "id": "contribution-771572",
+          "item_id": "item-16263-260923-5",
+          "item_title_en": "5. 90-second Statements",
+          "lang": "cy",
+          "t_start": 8131,
+          "text_english": "Thank you very much.",
+          "text_original": "Diolch yn fawr iawn.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=8131"
+        },
+        {
+          "id": "contribution-771587",
+          "item_id": "item-16263-260923-6",
+          "item_title_en": "6. Welsh Labour Debate: Further education",
+          "lang": "cy",
+          "t_start": 8133,
+          "text_english": "We'll move on now to item 6, the Welsh Labour debate on further education. I call on Lynne Neagle to move the motion.",
+          "text_original": "Symudwn nawr at eitem 6, dadl Llafur Cymru ar addysg bellach. Galwaf ar Lynne Neagle i wneud y cynnig.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=8133"
+        },
+        {
+          "id": "contribution-771607",
+          "item_id": "item-16263-260923-6",
+          "item_title_en": "6. Welsh Labour Debate: Further education",
+          "lang": "cy",
+          "t_start": 8579,
+          "text_english": "Thank you. I have selected the amendments to the motion. I call now on the Deputy Minister for Skills and Tertiary Education to move formally amendment 1, tabled in the name of Heledd Fychan.",
+          "text_original": "Diolch. Rwyf wedi dethol y gwelliannau i'r cynnig. Galwaf nawr ar y Dirprwy Weinidog dros Sgiliau ac Addysg Drydyddol i gynnig yn ffurfiol welliant 1 a gyflwynwyd yn enw Heledd Fychan.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=8579"
+        },
+        {
+          "id": "contribution-771611",
+          "item_id": "item-16263-260923-6",
+          "item_title_en": "6. Welsh Labour Debate: Further education",
+          "lang": "cy",
+          "t_start": 8594,
+          "text_english": "Thank you very much. I call on Sam Rowlands to move amendment 2, tabled in the name of Paul Davies.",
+          "text_original": "Diolch yn fawr. Galwaf ar Sam Rowlands i gynnig gwelliant 2 a gyflwynwyd yn enw Paul Davies.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=8594"
+        },
+        {
+          "id": "contribution-771628",
+          "item_id": "item-16263-260923-6",
+          "item_title_en": "6. Welsh Labour Debate: Further education",
+          "lang": "cy",
+          "t_start": 10505,
+          "text_english": "Thank you. I call now on the Deputy Minister for Skills and Tertiary Education, Cefin Campbell.",
+          "text_original": "Diolch. Galwaf yn awr ar y Dirprwy Weinidog dros Sgiliau ac Addysg Drydyddol, Cefin Campbell.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=10505"
+        },
+        {
+          "id": "contribution-771655",
+          "item_id": "item-16263-260923-6",
+          "item_title_en": "6. Welsh Labour Debate: Further education",
+          "lang": "cy",
+          "t_start": 11045,
+          "text_english": "I call on Lynne Neagle to reply to the debate.",
+          "text_original": "Galwaf ar Lynne Neagle i ymateb i'r ddadl.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=11045"
+        },
+        {
+          "id": "contribution-771644",
+          "item_id": "item-16263-260923-6",
+          "item_title_en": "6. Welsh Labour Debate: Further education",
+          "lang": "cy",
+          "t_start": 11537,
+          "text_english": "The proposal is to agree the motion without amendment. Does any Member object? [Objection.] I will therefore defer voting under this item until voting time.",
+          "text_original": "Y cwestiwn yw: a ddylid derbyn y cynnig heb ei ddiwygio? A oes unrhyw Aelod yn gwrthwynebu? [Gwrthwynebiad.] Gohiriaf y bleidlais o dan yr eitem hon tan y cyfnod pleidleisio.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=11537"
+        },
+        {
+          "id": "contribution-771650",
+          "item_id": "item-16263-260923-7",
+          "item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+          "lang": "cy",
+          "t_start": 11560,
+          "text_english": "We'll move now to item 7, the Reform UK debate, Wales and the United Kingdom. I call on Adrian Mason to move the motion.",
+          "text_original": "Symudwn at eitem 7, dadl Reform UK, Cymru a'r Deyrnas Unedig. Galwaf ar Adrian Mason i wneud y cynnig.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=11560"
+        },
+        {
+          "id": "contribution-771659",
+          "item_id": "item-16263-260923-7",
+          "item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+          "lang": "en",
+          "t_start": 12103,
+          "text_english": "Just to reassure you, you haven't gone over; you've got 15 minutes in total, so don't worry.",
+          "text_original": "Just to reassure you, you haven't gone over; you've got 15 minutes in total, so don't worry.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=12103"
+        },
+        {
+          "id": "contribution-771660",
+          "item_id": "item-16263-260923-7",
+          "item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+          "lang": "cy",
+          "t_start": 12110,
+          "text_english": "I now call on the Cabinet Minister for Government Effectiveness and the Constitution to formally move amendment 1, tabled in the name of Heledd Fychan.",
+          "text_original": "Galwaf nawr ar y Gweinidog Cabinet dros Effeithiolrwydd Llywodraeth a'r Cyfansoddiad i gynnig yn ffurfiol gwelliant 1 a gyflwynwyd yn enw Heledd Fychan.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=12110"
+        },
+        {
+          "id": "contribution-771665",
+          "item_id": "item-16263-260923-7",
+          "item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+          "lang": "cy",
+          "t_start": 12122,
+          "text_english": "Thank you very much. I now call on Huw Thomas to move amendment 2, tabled in the name of Lynne Neagle.",
+          "text_original": "Diolch yn fawr iawn. Galwaf ar Huw Thomas i gynnig gwelliant 2 a gyflwynwyd yn enw Lynne Neagle.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=12122"
+        },
+        {
+          "id": "contribution-771677",
+          "item_id": "item-16263-260923-7",
+          "item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+          "lang": "en",
+          "t_start": 12474,
+          "text_english": "Could you wind up now, Huw, please?",
+          "text_original": "Could you wind up now, Huw, please?",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=12474"
+        },
+        {
+          "id": "contribution-771680",
+          "item_id": "item-16263-260923-7",
+          "item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+          "lang": "cy",
+          "t_start": 12487,
+          "text_english": "Our next speaker is Carrie Harper.",
+          "text_original": "Y siaradwr nesaf—Carrie Harper.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=12487"
+        },
+        {
+          "id": "contribution-771685",
+          "item_id": "item-16263-260923-7",
+          "item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+          "lang": "en",
+          "t_start": 13421,
+          "text_english": "Colleagues, Members, we have a long list of speakers here. It's already been a lively debate, with interventions as well. It may be that we can't get them all in; it's in your hands. Elfed Williams.",
+          "text_original": "Colleagues, Members, we have a long list of speakers here. It's already been a lively debate, with interventions as well. It may be that we can't get them all in; it's in your hands. Elfed Williams.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=13421"
+        },
+        {
+          "id": "contribution-771728",
+          "item_id": "item-16263-260923-7",
+          "item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+          "lang": "en",
+          "t_start": 14330,
+          "text_english": "Thank you, Mike. We have two speakers, and this might push us just over time. So, I'm going to ask the two speakers if they can keep within the limit and, if they can keep it shorter, that'd be even better. So, if we can go, first of all, to Iain McIntosh.",
+          "text_original": "Thank you, Mike. We have two speakers, and this might push us just over time. So, I'm going to ask the two speakers if they can keep within the limit and, if they can keep it shorter, that'd be even better. So, if we can go, first of all, to Iain McIntosh.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=14330"
+        },
+        {
+          "id": "contribution-771698",
+          "item_id": "item-16263-260923-7",
+          "item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+          "lang": "en",
+          "t_start": 14664,
+          "text_english": "My thanks to the Member who has courteously withdrawn her name. It is noticed on the credit side of the ledger.",
+          "text_original": "My thanks to the Member who has courteously withdrawn her name. It is noticed on the credit side of the ledger.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=14664"
+        },
+        {
+          "id": "contribution-771700",
+          "item_id": "item-16263-260923-7",
+          "item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+          "lang": "cy",
+          "t_start": 14672,
+          "text_english": "Thank you very much. We will therefore move immediately to the Cabinet Minister. I call on the Cabinet Minister for Government Effectiveness and the Constitution, Dafydd Trystan Davies.",
+          "text_original": "Diolch yn fawr iawn. Symudwn yn syth i'r Gweinidog Cabinet nawr. Galwaf ar y Gweinidog Cabinet dros Effeithiolrwydd Llywodraeth a'r Cyfansoddiad, Dafydd Trystan Davies.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=14672"
+        },
+        {
+          "id": "contribution-771710",
+          "item_id": "item-16263-260923-7",
+          "item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+          "lang": "cy",
+          "t_start": 15125,
+          "text_english": "I call on James Evans to reply to the debate.",
+          "text_original": "Galwaf ar James Evans i ymateb i'r ddadl.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=15125"
+        },
+        {
+          "id": "contribution-771731",
+          "item_id": "item-16263-260923-7",
+          "item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+          "lang": "cy",
+          "t_start": 15550,
+          "text_english": "The proposal is to agree the motion without amendment. Does any Member object? [Objection.] There are objections. I will therefore defer voting under this item until voting time.",
+          "text_original": "Y cwestiwn yw: a ddylid derbyn y cynnig heb ei ddiwygio? A oes unrhyw Aelod yn gwrthwynebu? [Gwrthwynebiad.] Gwrthwynebu. Gohiriaf y bleidlais o dan yr eitem hon tan y cyfnod pleidleisio.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=15550"
+        },
+        {
+          "id": "contribution-771733",
+          "item_id": "item-16263-260923-7",
+          "item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+          "lang": "cy",
+          "t_start": 15567,
+          "text_english": "That brings us to voting time. Unless five Members wish for the bell to be rung, I will proceed directly to voting time.",
+          "text_original": "Rydyn ni'n cyrraedd y cyfnod pleidleisio. Oni bai fod pum Aelod yn dymuno i mi ganu'r gloch, symudaf yn syth i'r cyfnod pleidleisio.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=15567"
+        },
+        {
+          "id": "contribution-771735",
+          "item_id": "item-16263-260923-8",
+          "item_title_en": "8. Voting Time",
+          "lang": "cy",
+          "t_start": 15584,
+          "text_english": "The first vote this afternoon is on item 6, the Welsh Labour debate on further education. I call for a vote on the motion tabled in the name of Lynne Neagle. If the proposal is not agreed, we will vote on the amendments tabled to the motion. Open the vote. The result of the vote is as follows: in favour 46—. Okay, sorry. Close the vote. The result of the vote is as follows: in favour 46, one abstention and 43 against. The motion is therefore agreed.",
+          "text_original": "Yn gyntaf, pleidleisiwn ar eitem 6, dadl Llafur Cymru ar addysg bellach. Galwaf am bleidlais ar y cynnig a gyflwynwyd yn enw Lynne Neagle. Os gwrthodir y cynnig, byddwn ni'n pleidleisio ar y gwelliannau a gyflwynwyd i'r cynnig. Agorwch y bleidlais. Canlyniad y bleidlais: o blaid 46—. Ocê, sori. Caewch y bleidlais. Dyma ganlyniad y bleidlais. O blaid 46, un person yn ymatal ac yn erbyn 43. Mae'r cynnig wedi'i dderbyn.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=15584"
+        },
+        {
+          "id": "contribution-771715",
+          "item_id": "item-16263-260923-8",
+          "item_title_en": "8. Voting Time",
+          "lang": "cy",
+          "t_start": 15676,
+          "text_english": "We'll move on immediately now to item 7, the Reform UK debate, Wales and the United Kingdom. I call for a vote on the motion tabled in the name of Llŷr Powell. If the proposal is not agreed, we will vote on the amendments tabled to the motion. Open the vote. Close the vote. The result of the vote is as follows—. Oh. [Laughter.] In favour 45, no abstentions and 45 against. As required under Standing Order 6.20, I exercise my casting vote to vote against the motion. The final result is: in favour 45, no abstentions and 46 against. The motion is not agreed.",
+          "text_original": "Awn yn syth ymlaen at y ddadl nesaf, at eitem 7, dadl Reform UK, Cymru a'r Deyrnas Unedig. Galwaf am bleidlais ar y cynnig a gyflwynwyd yn enw Llŷr Powell. Os gwrthodir y cynnig, byddwn ni'n pleidleisio ar y gwelliannau a gyflwynwyd i'r cynnig. Agorwch y bleidlais. Caewch y bleidlais. Dyma ganlyniad y bleidlais—. O. [Chwerthin.] O blaid 45, neb yn ymatal, yn erbyn 45. Fel sy'n ofynnol o dan Reol Sefydlog 6.20, rwy'n arfer fy mhleidlais fwrw i bleidleisio yn erbyn y cynnig. Dyma ganlyniad y bleidlais nawr: o blaid 45, neb yn ymatal, yn erbyn 46. Mae'r cynnig wedi'i wrthod.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=15676"
+        },
+        {
+          "id": "contribution-771725",
+          "item_id": "item-16263-260923-8",
+          "item_title_en": "8. Voting Time",
+          "lang": "cy",
+          "t_start": 15787,
+          "text_english": "We will move now to amendment 1. I call for a vote on amendment 1, tabled in the name of Heledd Fychan. Open the vote. Close the vote. The result of the vote is as follows: in favour 53, no abstentions, 37 against. Amendment 1 is agreed.",
+          "text_original": "Rŷn ni'n symud at welliant 1 nawr. Galwaf am bleidlais ar welliant 1 a gyflwynwyd yn enw Heledd Fychan. Agorwch y bleidlais. Caewch y bleidlais. Dyma ganlyniad y bleidlais: o blaid 53, neb yn ymatal, yn erbyn 37. Mae gwelliant 1 wedi'i dderbyn.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=15787"
+        },
+        {
+          "id": "contribution-771727",
+          "item_id": "item-16263-260923-8",
+          "item_title_en": "8. Voting Time",
+          "lang": "cy",
+          "t_start": 15848,
+          "text_english": "We will move now to amendment 2. I call for a vote on amendment 2, tabled in the name of Lynne Neagle. Open the vote. Close the vote. The result of the vote is: in favour eight, no abstentions, 82 against. Amendment 2 is therefore not agreed.",
+          "text_original": "Nesaf fe awn ni at welliant 2. Galwaf am bleidlais ar welliant 2 a gyflwynwyd yn enw Lynne Neagle. Agorwch y bleidlais. Caewch y bleidlais. Dyma ganlyniad y bleidlais: o blaid wyth, neb yn ymatal, yn erbyn 82. Mae gwelliant 2 wedi'i wrthod.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=15848"
+        },
+        {
+          "id": "contribution-771707",
+          "item_id": "item-16263-260923-8",
+          "item_title_en": "8. Voting Time",
+          "lang": "cy",
+          "t_start": 15940,
+          "text_english": "I now call for a vote on the motion as amended.",
+          "text_original": "Galwaf yn awr am y bleidlais ar y cynnig wedi'i ddiwygio.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=15940"
+        },
+        {
+          "id": "contribution-771713",
+          "item_id": "item-16263-260923-8",
+          "item_title_en": "8. Voting Time",
+          "lang": "cy",
+          "t_start": 15946,
+          "text_english": "Open the vote. Close the vote. The result of the vote is as follows: in favour 45, eight abstentions and 37 against. Therefore, the motion as amended is agreed. Thank you, all.",
+          "text_original": "Agorwch y bleidlais. Caewch y bleidlais. Dyma ganlyniad y bleidlais: o blaid 45, wyth yn ymatal, yn erbyn 37. Mae'r cynnig wedi'i ddiwygio wedi'i dderbyn. Diolch, bawb.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=15946"
+        },
+        {
+          "id": "contribution-771718",
+          "item_id": "item-16263-260923-8",
+          "item_title_en": "8. Voting Time",
+          "lang": "en",
+          "t_start": 15995,
+          "text_english": "Could I ask Members who are leaving the Chamber to do so swiftly and quietly, please? Quietly, without discussion, please. Diolch yn fawr iawn.",
+          "text_original": "Could I ask Members who are leaving the Chamber to do so swiftly and quietly, please? Quietly, without discussion, please. Diolch yn fawr iawn.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=15995"
+        },
+        {
+          "id": "contribution-771720",
+          "item_id": "item-16263-260923-9",
+          "item_title_en": "9. Short Debate: The unacceptable pause in scheduled treatment for trans patients",
+          "lang": "cy",
+          "t_start": 16024,
+          "text_english": "We'll now move to item 9, the short debate. Anthony Slaughter.",
+          "text_original": "Symudwn at eitem 9, y ddadl fer. Anthony Slaughter.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=16024"
+        },
+        {
+          "id": "contribution-771893",
+          "item_id": "item-16263-260923-9",
+          "item_title_en": "9. Short Debate: The unacceptable pause in scheduled treatment for trans patients",
+          "lang": "en",
+          "t_start": 16672,
+          "text_english": "Diolch yn fawr. Members are going to have to help each other. It's 15 minutes maximum for the contributions here in the opening remarks. Sarah Rees.",
+          "text_original": "Diolch yn fawr. Members are going to have to help each other. It's 15 minutes maximum for the contributions here in the opening remarks. Sarah Rees.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=16672"
+        },
+        {
+          "id": "contribution-771923",
+          "item_id": "item-16263-260923-9",
+          "item_title_en": "9. Short Debate: The unacceptable pause in scheduled treatment for trans patients",
+          "lang": "en",
+          "t_start": 16965,
+          "text_english": "We're over time, but I'm going to give very short contributions here to the final two speakers so that everybody is called. Cristiana Emsley.",
+          "text_original": "We're over time, but I'm going to give very short contributions here to the final two speakers so that everybody is called. Cristiana Emsley.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=16965"
+        },
+        {
+          "id": "contribution-771927",
+          "item_id": "item-16263-260923-9",
+          "item_title_en": "9. Short Debate: The unacceptable pause in scheduled treatment for trans patients",
+          "lang": "cy",
+          "t_start": 17066,
+          "text_english": "I call on the Cabinet Minister for Health and Care to reply to the debate—Mabon ap Gwynfor.",
+          "text_original": "Galwaf ar y Gweinidog Cabinet dros Iechyd a Gofal i ymateb i'r ddadl—Mabon ap Gwynfor.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=17066"
+        },
+        {
+          "id": "contribution-771830",
+          "item_id": "item-16263-260923-9",
+          "item_title_en": "9. Short Debate: The unacceptable pause in scheduled treatment for trans patients",
+          "lang": "cy",
+          "t_start": 17644,
+          "text_english": "Thank you, Cabinet Minister.",
+          "text_original": "Diolch, Weinidog Cabinet.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=17644"
+        },
+        {
+          "id": "contribution-771841",
+          "item_id": "item-16263-260923-9",
+          "item_title_en": "9. Short Debate: The unacceptable pause in scheduled treatment for trans patients",
+          "lang": "en",
+          "t_start": 17691,
+          "text_english": "Thank you for raising that point of order and giving me notice that you were going to do so. I think there is merit within the point of order and I'm happy to review the Record of Proceedings. I will, indeed, return to the matter if I consider that a ruling is necessary. There are clear guidelines and Standing Orders in terms of language within the Chamber. So, I will happily take this away and review the Record of Proceedings. Thank you for raising it. Diolch yn fawr iawn.",
+          "text_original": "Thank you for raising that point of order and giving me notice that you were going to do so. I think there is merit within the point of order and I'm happy to review the Record of Proceedings. I will, indeed, return to the matter if I consider that a ruling is necessary. There are clear guidelines and Standing Orders in terms of language within the Chamber. So, I will happily take this away and review the Record of Proceedings. Thank you for raising it. Diolch yn fawr iawn.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=17691"
+        },
+        {
+          "id": "contribution-771868",
+          "item_id": "item-16263-260923-9",
+          "item_title_en": "9. Short Debate: The unacceptable pause in scheduled treatment for trans patients",
+          "lang": "cy",
+          "t_start": 17721,
+          "text_english": "That brings today's proceedings to a close. Thank you.",
+          "text_original": "Daw hynny â thrafodion heddiw i ben. Diolch, bawb.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=17721"
+        }
+      ],
+      "date": "2026-09-23",
+      "record_page_url": "https://record.senedd.wales/Plenary/16263"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-770703",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 3,
+          "text_english": "Good afternoon, all. Let's make a start. We will begin with questions to the First Minister. The first question this afternoon is from Andrew R.T. Davies.",
+          "text_original": "Prynhawn da, bawb. Gadewch i ni ddechrau. Rydyn ni'n dechrau gyda chwestiynau i'r Prif Weinidog. Cwestiwn 1, Andrew R.T. Davies.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=3"
+        },
+        {
+          "id": "contribution-770732",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 844,
+          "text_english": "I now call on the party leaders to question the First Minister. First, the leader of Reform UK, Helen Jenner.",
+          "text_original": "Galwaf yn awr ar arweinwyr y pleidiau i holi'r Prif Weinidog. Yn gyntaf, arweinydd Reform UK, Helen Jenner.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=844"
+        },
+        {
+          "id": "contribution-770754",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 1429,
+          "text_english": "The leader of the Welsh Conservatives, Darren Millar.",
+          "text_original": "Arweinydd y Ceidwadwyr Cymreig, Darren Millar.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=1429"
+        },
+        {
+          "id": "contribution-770753",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 2444,
+          "text_english": "Diolch. Alun, you extended the question a little bit from what was on the order paper, just to be aware, because this isn't an Afan Ogwr Rhondda-specific question. So, can I bring in now Claire Johnson-Wood, to explain why?",
+          "text_original": "Diolch. Alun, you extended the question a little bit from what was on the order paper, just to be aware, because this isn't an Afan Ogwr Rhondda-specific question. So, can I bring in now Claire Johnson-Wood, to explain why?",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=2444"
+        },
+        {
+          "id": "contribution-770763",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 2545,
+          "text_english": "Next—. I do apologise. Peter Fox.",
+          "text_original": "Nesaf—. Mae'n ddrwg gen i. Peter Fox.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=2545"
+        },
+        {
+          "id": "contribution-770820",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 3555,
+          "text_english": "And finally, First Minister, question 10, Cai Parry-Jones.",
+          "text_original": "Ac yn olaf, Brif Weinidog, cwestiwn 10, Cai Parry-Jones.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=3555"
+        },
+        {
+          "id": "contribution-770804",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 3659,
+          "text_english": "Thank you very much, First Minister. I'm speaking very slowly now—",
+          "text_original": "Diolch yn fawr iawn, Brif Weinidog. Rydw i'n siarad nawr yn araf iawn—",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=3659"
+        },
+        {
+          "id": "contribution-770805",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 3667,
+          "text_english": "—as we wait in high expectation for the Counsel General to appear on the benches. If Members will just bear with us for a moment, as soon as we are ready, we will commence.",
+          "text_original": "—as we wait in high expectation for the Counsel General to appear on the benches. If Members will just bear with us for a moment, as soon as we are ready, we will commence.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=3667"
+        },
+        {
+          "id": "contribution-771038",
+          "item_id": "item-16262-260922-4",
+          "item_title_en": "4. Statement by the First Minister: 'New Ambition for Wales: Programme for Government 2026-2030'",
+          "lang": "cy",
+          "t_start": 12030,
+          "text_english": "Thank you, First Minister.",
+          "text_original": "Diolch, Brif Weinidog.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=12030"
+        },
+        {
+          "id": "contribution-771040",
+          "item_id": "item-16262-260922-5",
+          "item_title_en": "5. Statement by the Cabinet Minister for Enterprise, Connectivity and Energy: Welsh Defence Ethical Framework",
+          "lang": "cy",
+          "t_start": 12033,
+          "text_english": "We move on now to item 5, a statement by the Cabinet Minister for Enterprise, Connectivity and Energy. I call on the Cabinet Minister for Enterprise, Connectivity and Energy, Adam Price.",
+          "text_original": "Symudwn ymlaen nawr at eitem 5, datganiad gan y Gweinidog Cabinet dros Fenter, Cysylltedd ac Ynni. Galwaf ar y Gweinidog Cabinet dros Fenter, Cysylltedd ac Ynni, Adam Price.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=12033"
+        },
+        {
+          "id": "contribution-771033",
+          "item_id": "item-16262-260922-5",
+          "item_title_en": "5. Statement by the Cabinet Minister for Enterprise, Connectivity and Energy: Welsh Defence Ethical Framework",
+          "lang": "cy",
+          "t_start": 12997,
+          "text_english": "Vikki Howells—. I'm sorry.",
+          "text_original": "Vikki Howells—. Mae'n ddrwg gen i.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=12997"
+        },
+        {
+          "id": "contribution-771034",
+          "item_id": "item-16262-260922-5",
+          "item_title_en": "5. Statement by the Cabinet Minister for Enterprise, Connectivity and Energy: Welsh Defence Ethical Framework",
+          "lang": "en",
+          "t_start": 13001,
+          "text_english": "I'm sorry. Shav Taj.",
+          "text_original": "I'm sorry. Shav Taj.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=13001"
+        },
+        {
+          "id": "contribution-771060",
+          "item_id": "item-16262-260922-5",
+          "item_title_en": "5. Statement by the Cabinet Minister for Enterprise, Connectivity and Energy: Welsh Defence Ethical Framework",
+          "lang": "cy",
+          "t_start": 14186,
+          "text_english": "Finally, Art Wright.",
+          "text_original": "Yn olaf, Art Wright.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=14186"
+        }
+      ],
+      "date": "2026-09-22",
+      "record_page_url": "https://record.senedd.wales/Plenary/16262"
+    },
     {
       "contributions": [
         {

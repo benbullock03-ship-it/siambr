@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,118 @@
   "canonical_name": "Steve Bayliss",
   "constituency_name_cy": "Afan Ogwr Rhondda",
   "constituency_name_en": "Afan Ogwr Rhondda",
-  "contribution_count": 6,
+  "contribution_count": 14,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778895",
+          "item_id": "item-16316-261014-2",
+          "item_title_en": "1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport",
+          "lang": "en",
+          "t_start": 2048,
+          "text_english": "Diolch, Deputy Llywydd. Cabinet Minister, accessible sport means good facilities close to home, with affordable, fair access to every club, school and girls' team. I welcome your expansion support for artificial pitches. In May 2024, the then Cabinet Secretary told this Chamber that the Rhondda third generation facility was a Welsh Rugby Union priority, with Coleg y Cymoedd identified as a potential solution. She urged partners to work towards applying in the following financial year. More than two years on, our community needs a clear route forward. Will you confirm whether an application has been submitted for that proposal, and whether this year's funding could support a modern fourth generation all-weather rugby pitch that meets the required standards for training and competitive matches while the Sport Wales audit proceeds? Diolch.",
+          "text_original": "Diolch, Deputy Llywydd. Cabinet Minister, accessible sport means good facilities close to home, with affordable, fair access to every club, school and girls' team. I welcome your expansion support for artificial pitches. In May 2024, the then Cabinet Secretary told this Chamber that the Rhondda third generation facility was a Welsh Rugby Union priority, with Coleg y Cymoedd identified as a potential solution. She urged partners to work towards applying in the following financial year. More than two years on, our community needs a clear route forward. Will you confirm whether an application has been submitted for that proposal, and whether this year's funding could support a modern fourth generation all-weather rugby pitch that meets the required standards for training and competitive matches while the Sport Wales audit proceeds? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=2048"
+        }
+      ],
+      "date": "2026-10-14",
+      "record_page_url": "https://record.senedd.wales/Plenary/16316"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-778402",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "4. What action is the Welsh Government taking to resolve the health visitor pay and grading dispute at Cwm Taf Morgannwg University Health Board? OQ64682 [R]",
+          "text_original": "4. Pa gamau mae Llywodraeth Cymru yn eu cymryd i ddatrys yr anghydfod o ran tâl ymwelwyr iechyd a graddio ym Mwrdd Iechyd Prifysgol Cwm Taf Morgannwg? OQ64682 [R]",
+          "tv_url": "http://www.senedd.tv/en/16315"
+        },
+        {
+          "id": "contribution-778404",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 2081,
+          "text_english": "First Minister, I accept the health visitor dispute began before you took office, but it has continued under your Government, affecting vulnerable children and families in my constituency. In March, Heledd Fychan, who now sits in your Cabinet, asked the previous First Minister to intervene. Luke Fletcher reminded the Government that it was, in his words,\n\n'setting the policy and funding the services.'\n\nThen, on 17 April, you signed a letter calling for band 6 health visitors to be upgraded to band 7. Yet your Cabinet Minister for health continues to describe this as a local employment dispute between Unite and the health board, with no fixed timetable for resolution. First Minister, you now set the policy, you fund the services, and you signed the call for band 7. So, I ask you plainly: will your Government provide the funding necessary to deliver band 7 for these health visitors? 'Yes' or 'no'?",
+          "text_original": "First Minister, I accept the health visitor dispute began before you took office, but it has continued under your Government, affecting vulnerable children and families in my constituency. In March, Heledd Fychan, who now sits in your Cabinet, asked the previous First Minister to intervene. Luke Fletcher reminded the Government that it was, in his words,\n\n'setting the policy and funding the services.'\n\nThen, on 17 April, you signed a letter calling for band 6 health visitors to be upgraded to band 7. Yet your Cabinet Minister for health continues to describe this as a local employment dispute between Unite and the health board, with no fixed timetable for resolution. First Minister, you now set the policy, you fund the services, and you signed the call for band 7. So, I ask you plainly: will your Government provide the funding necessary to deliver band 7 for these health visitors? 'Yes' or 'no'?",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=2081"
+        }
+      ],
+      "date": "2026-10-13",
+      "record_page_url": "https://record.senedd.wales/Plenary/16315"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776653",
+          "item_id": "item-16314-261007-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Health and Care",
+          "lang": "en",
+          "t_start": 4346,
+          "text_english": "I'd like to declare an interest, as my partner works within the NHS.\n\nCabinet Minister, in Afan Ogwr Rhondda, around 27,000 people are living with cardiovascular disease, and it causes more than one in four deaths—around 630 people every year. More than 36,000 people are living with diagnosed high blood pressure, one of the biggest risk factors for heart attacks and strokes. Your programme for government commits to strengthening cardiovascular care and reducing regional variation. My constituency is served by both Cwm Taf Morgannwg University Health Board and Swansea Bay University Health Board, so reducing regional variation matters directly here. We do not need another plan for its own sake; we need action that reduces preventable heart attacks, strokes and premature deaths. So, by 31 March 2027, will you set both health boards a published, measurable target to increase the proportion of patients with high blood pressure whose condition is under control—yes or no? Thank you.",
+          "text_original": "I'd like to declare an interest, as my partner works within the NHS.\n\nCabinet Minister, in Afan Ogwr Rhondda, around 27,000 people are living with cardiovascular disease, and it causes more than one in four deaths—around 630 people every year. More than 36,000 people are living with diagnosed high blood pressure, one of the biggest risk factors for heart attacks and strokes. Your programme for government commits to strengthening cardiovascular care and reducing regional variation. My constituency is served by both Cwm Taf Morgannwg University Health Board and Swansea Bay University Health Board, so reducing regional variation matters directly here. We do not need another plan for its own sake; we need action that reduces preventable heart attacks, strokes and premature deaths. So, by 31 March 2027, will you set both health boards a published, measurable target to increase the proportion of patients with high blood pressure whose condition is under control—yes or no? Thank you.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=4346"
+        },
+        {
+          "id": "contribution-776885",
+          "item_id": "item-16314-261007-8",
+          "item_title_en": "7. Reform UK Debate: Regional rugby",
+          "lang": "en",
+          "t_start": 12790,
+          "text_english": "This debate is not about nostalgia, and it is not about politicians trying to run the Welsh Rugby Union. It is about whether Wales should lose a quarter of its men's professional game before anyone has shown that it must. The union has already fixed the destination: three teams from 2028. Cardiff and the Dragons have been offered the capital and east licences, and the Ospreys and Scarlets are left competing for one licence in the west. Yet, by the Welsh Rugby Union's own timetable, the process is set, the licensing framework does not begin until December. So, how can the destination already be decided when the framework has not yet been determined? We know one region must go before. We know the test that it will be judged by. That is the wrong way round.\n\nI accept the financial argument must be taken seriously. The union says there is no realistic prospect of the game generating enough revenue to fund four professional teams competitively beyond 2028. We should not dismiss that because we dislike the conclusion, but the assertion is not a demonstration. So, publish the evidence, the business case for the three against four and the impact on the community that loses its team.\n\nBecause Afan Ogwr Rhondda is not excepted. Aberavon are playing their hundred and fiftieth season this year, with Ospreys-allocated players in their squad. That is what a player pathway looks like in practice. And once it is dismantled, rebuilding it is far harder than removing it. My constituency and yours, Cabinet Minister, knows what losing a region feels like. In 2004, the Celtic Warriors, the region built on Bridgend and Pontypridd, were wound up after a single season. The Welsh Government cannot simply reply that the union is independent—of course it is—but independence is not immunity from scrutiny.\n\nIn 2021, £13.5 million of Welsh Government survival funding went into rugby; £2.7 million went to the union, and the rest was divided equally between the four regions, the Ospreys and Scarlets included. And Sport Wales put £434,945 into the Welsh Rugby Union in 2025-26. On 16 September, the Cabinet Minister told this Chamber that it's important to ensure that any decisions are transparent, evidence based and take full account of the wider impact on Welsh rugby. Those are her tests. But you cannot take full account of the impact nobody has measured. As my colleague Steven Rodaway told this Chamber, the day before, the Minister's answer to his written question confirmed that the Welsh Government had undertaken no assessment of the economic or community impact. \n\nThe amendment tabled by the Cabinet Minister would delete the call to protect four regions. It says that\n\n'decisions of this significance must be informed...by a full assessment of their wider social, community and economic consequences.'\n\nI welcome that recognition, but if the Government does not assess them, who will? And will the assessment happen before the decision or after it?\n\nSo, my question to the Cabinet Minister is this: she has told the Chamber that there are always discussions between the Government and the union. Will she use those discussions to ask the union, before the licensing process begins in December, to publish the business case for three teams against four and its assessment on the impact on community clubs and player pathways, and will she publish the reply? There is a difference between asking for another round of engagement and standing up for the future of four regions. People in my constituency are not asking Ministers to run rugby. They are asking them to stand up for the communities rugby depends on. That's why I support the motion as tabled. Diolch yn fawr.",
+          "text_original": "This debate is not about nostalgia, and it is not about politicians trying to run the Welsh Rugby Union. It is about whether Wales should lose a quarter of its men's professional game before anyone has shown that it must. The union has already fixed the destination: three teams from 2028. Cardiff and the Dragons have been offered the capital and east licences, and the Ospreys and Scarlets are left competing for one licence in the west. Yet, by the Welsh Rugby Union's own timetable, the process is set, the licensing framework does not begin until December. So, how can the destination already be decided when the framework has not yet been determined? We know one region must go before. We know the test that it will be judged by. That is the wrong way round.\n\nI accept the financial argument must be taken seriously. The union says there is no realistic prospect of the game generating enough revenue to fund four professional teams competitively beyond 2028. We should not dismiss that because we dislike the conclusion, but the assertion is not a demonstration. So, publish the evidence, the business case for the three against four and the impact on the community that loses its team.\n\nBecause Afan Ogwr Rhondda is not excepted. Aberavon are playing their hundred and fiftieth season this year, with Ospreys-allocated players in their squad. That is what a player pathway looks like in practice. And once it is dismantled, rebuilding it is far harder than removing it. My constituency and yours, Cabinet Minister, knows what losing a region feels like. In 2004, the Celtic Warriors, the region built on Bridgend and Pontypridd, were wound up after a single season. The Welsh Government cannot simply reply that the union is independent—of course it is—but independence is not immunity from scrutiny.\n\nIn 2021, £13.5 million of Welsh Government survival funding went into rugby; £2.7 million went to the union, and the rest was divided equally between the four regions, the Ospreys and Scarlets included. And Sport Wales put £434,945 into the Welsh Rugby Union in 2025-26. On 16 September, the Cabinet Minister told this Chamber that it's important to ensure that any decisions are transparent, evidence based and take full account of the wider impact on Welsh rugby. Those are her tests. But you cannot take full account of the impact nobody has measured. As my colleague Steven Rodaway told this Chamber, the day before, the Minister's answer to his written question confirmed that the Welsh Government had undertaken no assessment of the economic or community impact. \n\nThe amendment tabled by the Cabinet Minister would delete the call to protect four regions. It says that\n\n'decisions of this significance must be informed...by a full assessment of their wider social, community and economic consequences.'\n\nI welcome that recognition, but if the Government does not assess them, who will? And will the assessment happen before the decision or after it?\n\nSo, my question to the Cabinet Minister is this: she has told the Chamber that there are always discussions between the Government and the union. Will she use those discussions to ask the union, before the licensing process begins in December, to publish the business case for three teams against four and its assessment on the impact on community clubs and player pathways, and will she publish the reply? There is a difference between asking for another round of engagement and standing up for the future of four regions. People in my constituency are not asking Ministers to run rugby. They are asking them to stand up for the communities rugby depends on. That's why I support the motion as tabled. Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=12790"
+        },
+        {
+          "id": "contribution-777107",
+          "item_id": "item-16314-261007-11",
+          "item_title_en": "10. Short Debate: The importance of port infrastructure and maritime traffic to the Welsh economy",
+          "lang": "en",
+          "t_start": 19519,
+          "text_english": "Diolch, Deputy Llywydd. And thank you to Ben for giving me a minute to contribute. Wales's ports are not simply gateways for freight, they are strategic economic assets, and nowhere is more at stake than Port Talbot. The UK Government is backing the development of a floating offshore wind port there, and the Celtic Freeport projects up to 11,500 jobs. But the port alone won't deliver; it needs roads, rail, grid and skills. The free port's own five-year plan names grid connections as a blocker, and for the first five years prioritises laying the foundations for future skills interventions. So, will the Welsh Government publish every year how many of these jobs go to Welsh workers, and how much of the spending reaches Welsh businesses, so our ports become engines of prosperity rather than gateways through which the economic value passes? Thank you.",
+          "text_original": "Diolch, Deputy Llywydd. And thank you to Ben for giving me a minute to contribute. Wales's ports are not simply gateways for freight, they are strategic economic assets, and nowhere is more at stake than Port Talbot. The UK Government is backing the development of a floating offshore wind port there, and the Celtic Freeport projects up to 11,500 jobs. But the port alone won't deliver; it needs roads, rail, grid and skills. The free port's own five-year plan names grid connections as a blocker, and for the first five years prioritises laying the foundations for future skills interventions. So, will the Welsh Government publish every year how many of these jobs go to Welsh workers, and how much of the spending reaches Welsh businesses, so our ports become engines of prosperity rather than gateways through which the economic value passes? Thank you.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=19519"
+        }
+      ],
+      "date": "2026-10-07",
+      "record_page_url": "https://record.senedd.wales/Plenary/16314"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-772868",
+          "item_id": "item-16264-260929-3",
+          "item_title_en": "2. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 2584,
+          "text_english": "This month, the Cabinet Minister said lower bills would come eventually. I want the claim put into pounds and pence for Afan Ogwr Rhondda. The previous Labour Government approved £430,000 for Community Energy Wales and YnNi Teg in 2025-26. CEW is co-led by your party's former leader, Leanne Wood. Ministerial advice calls it sponsorship to act as a voice for the sector and build its capacity.\n\nAudit Wales told me it had done no audit work referring to CEW since 2022—fair enough; that's the Government's job. Yet, in December last year, officials told me that, beyond a foundational economy evaluation, there were no further evaluation reports. So, will the First Minister publish what these organisations have achieved against their grant targets and this year's funding, and tell my constituents how many households will pay less under his strategy, by how much a year, and from when? Diolch.",
+          "text_original": "This month, the Cabinet Minister said lower bills would come eventually. I want the claim put into pounds and pence for Afan Ogwr Rhondda. The previous Labour Government approved £430,000 for Community Energy Wales and YnNi Teg in 2025-26. CEW is co-led by your party's former leader, Leanne Wood. Ministerial advice calls it sponsorship to act as a voice for the sector and build its capacity.\n\nAudit Wales told me it had done no audit work referring to CEW since 2022—fair enough; that's the Government's job. Yet, in December last year, officials told me that, beyond a foundational economy evaluation, there were no further evaluation reports. So, will the First Minister publish what these organisations have achieved against their grant targets and this year's funding, and tell my constituents how many households will pay less under his strategy, by how much a year, and from when? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=2584"
+        }
+      ],
+      "date": "2026-09-29",
+      "record_page_url": "https://record.senedd.wales/Plenary/16264"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-770749",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 1938,
+          "text_english": "First Minister, I recognise that £85 million has been invested in flood risk management this year, but Rhondda Cynon Taf's investigation into storm Dennis has found that Blaenllechau was flooded from the steep hillside above it, that felling on Welsh Government-owned Natural Resources Wales-managed woodland may have contributed to surface water run-off, and that modelling suggested three of the four culvert networks lacked adequate capacity. This August, a major wildfire burned around 150 hectares of Llanwonno mountain, above Blaenllechau and Ferndale. So, before the winter rain arrives, will you ensure that Natural Resources Wales and RCT carry out a co-ordinated inspection of that hillside, its drainage and culverts, with the Mining Remediation Authority checking any relevant higher category coal tips within or below that affected area, and report the findings and any remedial work required to the Senedd by the end of October? Diolch.",
+          "text_original": "First Minister, I recognise that £85 million has been invested in flood risk management this year, but Rhondda Cynon Taf's investigation into storm Dennis has found that Blaenllechau was flooded from the steep hillside above it, that felling on Welsh Government-owned Natural Resources Wales-managed woodland may have contributed to surface water run-off, and that modelling suggested three of the four culvert networks lacked adequate capacity. This August, a major wildfire burned around 150 hectares of Llanwonno mountain, above Blaenllechau and Ferndale. So, before the winter rain arrives, will you ensure that Natural Resources Wales and RCT carry out a co-ordinated inspection of that hillside, its drainage and culverts, with the Mining Remediation Authority checking any relevant higher category coal tips within or below that affected area, and report the findings and any remedial work required to the Senedd by the end of October? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=1938"
+        }
+      ],
+      "date": "2026-09-22",
+      "record_page_url": "https://record.senedd.wales/Plenary/16262"
+    },
     {
       "contributions": [
         {

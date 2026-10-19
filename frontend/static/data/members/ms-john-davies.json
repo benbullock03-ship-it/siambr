@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,94 @@
   "canonical_name": "John Davies",
   "constituency_name_cy": "Gŵyr Abertawe",
   "constituency_name_en": "Gŵyr Abertawe",
-  "contribution_count": 9,
+  "contribution_count": 17,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-776690",
+          "item_id": "item-16314-261007-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Health and Care",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "8. How is the Welsh Government ensuring the security of NHS digital infrastructure and data? OQ64658",
+          "text_original": "8. Sut mae Llywodraeth Cymru yn sicrhau diogelwch seilwaith digidol a data y GIG? OQ64658",
+          "tv_url": "http://www.senedd.tv/en/16314"
+        },
+        {
+          "id": "contribution-776695",
+          "item_id": "item-16314-261007-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Health and Care",
+          "lang": "en",
+          "t_start": 4975,
+          "text_english": "Thank you. Cabinet Minister, Wales's NHS is totally dependent on Microsoft's cloud-based services, and so are the rest of our Government's departments. Put simply, this means that the operations of our NHS could be switched off with the flick of a switch, causing chaos. In today's uncertain world, the need for resilient digital systems and infrastructure is greater than ever. \n\nThe European Commission recently adopted the technological sovereignty package, a set of strategic measures to reduce dependency on non-European tech suppliers and to invest in open-source software, strengthening digital autonomy, sovereignty and ownership. Several states and regional administrations across Europe are already moving to open-source and locally hosted solutions. Can the Cabinet Minister make a statement on how the Welsh Government will improve our NHS digital resilience and on safeguarding controls of Welsh systems data, ensuring that our NHS cannot ever be held to ransom and to maintain the ownership of all the systems data in Wales where it belongs?",
+          "text_original": "Thank you. Cabinet Minister, Wales's NHS is totally dependent on Microsoft's cloud-based services, and so are the rest of our Government's departments. Put simply, this means that the operations of our NHS could be switched off with the flick of a switch, causing chaos. In today's uncertain world, the need for resilient digital systems and infrastructure is greater than ever. \n\nThe European Commission recently adopted the technological sovereignty package, a set of strategic measures to reduce dependency on non-European tech suppliers and to invest in open-source software, strengthening digital autonomy, sovereignty and ownership. Several states and regional administrations across Europe are already moving to open-source and locally hosted solutions. Can the Cabinet Minister make a statement on how the Welsh Government will improve our NHS digital resilience and on safeguarding controls of Welsh systems data, ensuring that our NHS cannot ever be held to ransom and to maintain the ownership of all the systems data in Wales where it belongs?",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=4975"
+        },
+        {
+          "id": "contribution-776709",
+          "item_id": "item-16314-261007-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "1. What assessment has the Cabinet Minister made of the adequacy of accountability mechanisms for housing developers? OQ64667",
+          "text_original": "1. Pa asesiad y mae'r Gweinidog Cabinet wedi'i wneud o ddigonolrwydd mecanweithiau atebolrwydd ar gyfer datblygwyr tai? OQ64667",
+          "tv_url": "http://www.senedd.tv/en/16314"
+        },
+        {
+          "id": "contribution-776700",
+          "item_id": "item-16314-261007-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
+          "lang": "en",
+          "t_start": 5191,
+          "text_english": "Thank you. Cabinet Minister, I was delighted to hear your announcement two weeks ago, including the launch of the Wales interim measures alarm grant and your commitment to holding negligent developers to account. Two weeks ago, I met with Swansea Point Owners and Residents Association, an incredibly inspiring Swansea residents association, who are fighting tooth and nail to get justice for those living in fire-unsafe buildings. Holding negligent developers to account is a tough battle. We expect them to delay, defend and deny at every opportunity possible. What makes this tougher again is, from my understanding, an inadequate fire safety legal landscape that we've inherited from the previous Labour Government—one full of loopholes, exceptions and edge cases, making it easier for developers to evade justice. Cabinet Minister, would you please state how you're going to make sure that developers do not evade accountability and that the victims of fire-unsafe buildings get the justice they deserve as soon as possible?",
+          "text_original": "Thank you. Cabinet Minister, I was delighted to hear your announcement two weeks ago, including the launch of the Wales interim measures alarm grant and your commitment to holding negligent developers to account. Two weeks ago, I met with Swansea Point Owners and Residents Association, an incredibly inspiring Swansea residents association, who are fighting tooth and nail to get justice for those living in fire-unsafe buildings. Holding negligent developers to account is a tough battle. We expect them to delay, defend and deny at every opportunity possible. What makes this tougher again is, from my understanding, an inadequate fire safety legal landscape that we've inherited from the previous Labour Government—one full of loopholes, exceptions and edge cases, making it easier for developers to evade justice. Cabinet Minister, would you please state how you're going to make sure that developers do not evade accountability and that the victims of fire-unsafe buildings get the justice they deserve as soon as possible?",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=5191"
+        },
+        {
+          "id": "contribution-776873",
+          "item_id": "item-16314-261007-8",
+          "item_title_en": "7. Reform UK Debate: Regional rugby",
+          "lang": "en",
+          "t_start": 11514,
+          "text_english": "The Welsh Rugby Union tells us that the Scarlets or the Ospreys must go because Welsh rugby is not financially sustainable. I, from Gŵyr Abertawe, want to ask the question to the WRU, 'Why?' Why is Welsh rugby so financially unsustainable? Given the massive implications of axing a region, the answer to this question should be public knowledge. Instead, their finances and decisions are in a total black box. There is no good reason to believe that a professional Welsh rugby body, if managed correctly, would not be financially sustainable—of course it can be successful. But if the Welsh Rugby Union want us to believe rugby in Wales is not sustainable, they must ensure that we have full—full—transparency.\n\nI would like to thank the Member for bringing the matter to debate and the words that were said a few moments ago. No rugby region deserves to be axed. However, we must face the fact, the reality, that the WRU is an independent body, independent from the Welsh Government, and is responsible for its own governance.\n\nA motion calling for the Government to ensure that all four regions are retained is not much more than a political points-scoring exercise as it stands. However, it doesn't help the regions at the moment whatsoever as it stands like that. What we must do is unite across parties, demanding meaningful accountability and transparency from the WRU. This is what will protect the legacy of Welsh rugby in Wales. I thank the Cabinet Minister for Culture and Sport for engaging with the WRU so far, stressing the huge concerns held by players, coaches, staff, volunteers and fans about the implications of axing a region. The WRU need to understand that the game belongs to the people and not the board.\n\nThe financial sustainability of sport ultimately comes down to two things—how it's managed and how it's marketed. Both responsibilities currently lie with the WRU. The WRU's deliberate financial and decision-making secrecy makes judging them on their own merits impossible. But what we can do is compare them to other rugby nations, Ireland for example. In 2024-25, Ireland's rugby union reported around £86 million of revenue; the WRU somewhere in the region of £106 million. With less money and a bigger population, you'd expect Ireland's international team to lag behind, but obviously it's completely, totally, the opposite. Ireland's men rank third in the world, and the women fifth. Neither of Wales's two teams, men and women, could crack the top 10, meaning that the Welsh Rugby Union's Ymlaen Cymru strategy for both teams to be in the top five is completely and totally disconnected with reality. Ireland are far outperforming Wales despite having around £20 million per year less to spend. So, what gives? Why is that happening? If the issue is purely financial sustainability, we must ask why Ireland doesn't have the same issues as us here in Wales. Wales, therefore—. Axing one of the four regions is not the only answer; it cannot be the only answer. It's the lack of transparency from the Welsh Rugby Union that makes it impossible for us to give an answer, leaving us to rely on the word that comes from the board.\n\nIf the Welsh Rugby Union want us to believe that rugby is unprofitable, then show us the numbers, show us the reasons, show us the rationale that they base this on—it's as simple as that. If there's nothing to hide, why are they hiding? People across Wales, the rugby world, feel completely and totally in the dark. The fans feel alienated. The Welsh Rugby Union are meant to be the stewards of the grass roots. The Welsh Rugby Union have become nothing but a bloated corporate body managing the game's slow decline.",
+          "text_original": "The Welsh Rugby Union tells us that the Scarlets or the Ospreys must go because Welsh rugby is not financially sustainable. I, from Gŵyr Abertawe, want to ask the question to the WRU, 'Why?' Why is Welsh rugby so financially unsustainable? Given the massive implications of axing a region, the answer to this question should be public knowledge. Instead, their finances and decisions are in a total black box. There is no good reason to believe that a professional Welsh rugby body, if managed correctly, would not be financially sustainable—of course it can be successful. But if the Welsh Rugby Union want us to believe rugby in Wales is not sustainable, they must ensure that we have full—full—transparency.\n\nI would like to thank the Member for bringing the matter to debate and the words that were said a few moments ago. No rugby region deserves to be axed. However, we must face the fact, the reality, that the WRU is an independent body, independent from the Welsh Government, and is responsible for its own governance.\n\nA motion calling for the Government to ensure that all four regions are retained is not much more than a political points-scoring exercise as it stands. However, it doesn't help the regions at the moment whatsoever as it stands like that. What we must do is unite across parties, demanding meaningful accountability and transparency from the WRU. This is what will protect the legacy of Welsh rugby in Wales. I thank the Cabinet Minister for Culture and Sport for engaging with the WRU so far, stressing the huge concerns held by players, coaches, staff, volunteers and fans about the implications of axing a region. The WRU need to understand that the game belongs to the people and not the board.\n\nThe financial sustainability of sport ultimately comes down to two things—how it's managed and how it's marketed. Both responsibilities currently lie with the WRU. The WRU's deliberate financial and decision-making secrecy makes judging them on their own merits impossible. But what we can do is compare them to other rugby nations, Ireland for example. In 2024-25, Ireland's rugby union reported around £86 million of revenue; the WRU somewhere in the region of £106 million. With less money and a bigger population, you'd expect Ireland's international team to lag behind, but obviously it's completely, totally, the opposite. Ireland's men rank third in the world, and the women fifth. Neither of Wales's two teams, men and women, could crack the top 10, meaning that the Welsh Rugby Union's Ymlaen Cymru strategy for both teams to be in the top five is completely and totally disconnected with reality. Ireland are far outperforming Wales despite having around £20 million per year less to spend. So, what gives? Why is that happening? If the issue is purely financial sustainability, we must ask why Ireland doesn't have the same issues as us here in Wales. Wales, therefore—. Axing one of the four regions is not the only answer; it cannot be the only answer. It's the lack of transparency from the Welsh Rugby Union that makes it impossible for us to give an answer, leaving us to rely on the word that comes from the board.\n\nIf the Welsh Rugby Union want us to believe that rugby is unprofitable, then show us the numbers, show us the reasons, show us the rationale that they base this on—it's as simple as that. If there's nothing to hide, why are they hiding? People across Wales, the rugby world, feel completely and totally in the dark. The fans feel alienated. The Welsh Rugby Union are meant to be the stewards of the grass roots. The Welsh Rugby Union have become nothing but a bloated corporate body managing the game's slow decline.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=11514"
+        },
+        {
+          "id": "contribution-776862",
+          "item_id": "item-16314-261007-8",
+          "item_title_en": "7. Reform UK Debate: Regional rugby",
+          "lang": "en",
+          "t_start": 11823,
+          "text_english": "They are cutting costs instead of continuing the game's legacy. If we are to save the game, we need to act as one in this Chamber today. It has to be cross-party. This debate is about money, yes, decisions, yes, but it's also health and happiness.",
+          "text_original": "They are cutting costs instead of continuing the game's legacy. If we are to save the game, we need to act as one in this Chamber today. It has to be cross-party. This debate is about money, yes, decisions, yes, but it's also health and happiness.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=11823"
+        },
+        {
+          "id": "contribution-776876",
+          "item_id": "item-16314-261007-8",
+          "item_title_en": "7. Reform UK Debate: Regional rugby",
+          "lang": "en",
+          "t_start": 11838,
+          "text_english": "It's so much more. Rugby defines us; it's in our blood, it's in our soul, it's in our DNA.",
+          "text_original": "It's so much more. Rugby defines us; it's in our blood, it's in our soul, it's in our DNA.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=11838"
+        },
+        {
+          "id": "contribution-776864",
+          "item_id": "item-16314-261007-8",
+          "item_title_en": "7. Reform UK Debate: Regional rugby",
+          "lang": "en",
+          "t_start": 11844,
+          "text_english": "The Welsh Rugby Union are at risk of destroying all this. The only ones who can change it are us here today in the Chamber. So, I hope all of us realise that that's what we need to do.",
+          "text_original": "The Welsh Rugby Union are at risk of destroying all this. The only ones who can change it are us here today in the Chamber. So, I hope all of us realise that that's what we need to do.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=11844"
+        }
+      ],
+      "date": "2026-10-07",
+      "record_page_url": "https://record.senedd.wales/Plenary/16314"
+    },
     {
       "contributions": [
         {

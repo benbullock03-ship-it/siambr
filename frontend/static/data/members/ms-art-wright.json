@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,128 @@
   "canonical_name": "Art Wright",
   "constituency_name_cy": "Casnewydd Islwyn",
   "constituency_name_en": "Casnewydd Islwyn",
-  "contribution_count": 17,
+  "contribution_count": 26,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-776642",
+          "item_id": "item-16314-261007-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Health and Care",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "3. What action is the Cabinet Minister taking to mark Baby Loss Awareness Week? OQ64635",
+          "text_original": "3. Pa gamau y mae'r Gweinidog Cabinet yn eu cymryd i nodi Wythnos Ymwybyddiaeth Colli Babanod? OQ64635",
+          "tv_url": "http://www.senedd.tv/en/16314"
+        },
+        {
+          "id": "contribution-776650",
+          "item_id": "item-16314-261007-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Health and Care",
+          "lang": "en",
+          "t_start": 3700,
+          "text_english": "Cabinet Minister, one in two of us, or someone we know, has experienced pregnancy or baby loss. During Baby Loss Awareness Week, from 9 October to 15 October, we remember babies' lives, including those lost before 24 weeks. From April 2027, these parents will be entitled to two weeks of unpaid leave, yet some families still face choosing between time to grieve and paying the bills. These are the words from a bereaved parent: 'Many of us share our experiences as bereaved families because we want things to be better for others. We often know where things were missed and how care could be improved, but many of us struggle to be heard. We're told our experience matters, but it can be hard to find a way to share it with those who can make a difference. Our experiences and those of our babies are an important part of the understanding of what needs to change for other families.'\n\nFollowing 'The path to safer beginnings in Wales' report, will the Minister commit to ensuring bereaved parents' voices are included in the work of the national oversight board, and will she urge employers to go beyond legal minimums in these traumatic circumstances?",
+          "text_original": "Cabinet Minister, one in two of us, or someone we know, has experienced pregnancy or baby loss. During Baby Loss Awareness Week, from 9 October to 15 October, we remember babies' lives, including those lost before 24 weeks. From April 2027, these parents will be entitled to two weeks of unpaid leave, yet some families still face choosing between time to grieve and paying the bills. These are the words from a bereaved parent: 'Many of us share our experiences as bereaved families because we want things to be better for others. We often know where things were missed and how care could be improved, but many of us struggle to be heard. We're told our experience matters, but it can be hard to find a way to share it with those who can make a difference. Our experiences and those of our babies are an important part of the understanding of what needs to change for other families.'\n\nFollowing 'The path to safer beginnings in Wales' report, will the Minister commit to ensuring bereaved parents' voices are included in the work of the national oversight board, and will she urge employers to go beyond legal minimums in these traumatic circumstances?",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=3700"
+        },
+        {
+          "id": "contribution-776838",
+          "item_id": "item-16314-261007-7",
+          "item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+          "lang": "en",
+          "t_start": 10080,
+          "text_english": "I rise today in support of this motion, because, at its heart, this debate is about one thing and one thing only: children. Quite rightly, we have heard a great deal about court processes, social services, addiction, public spending. But behind every statistic is a child whose future may be shaped by the decisions we make in this Chamber today. When a child enters care, it's often because adults around them are struggling with complex problems: substance misuse, poor mental health, trauma, domestic instability. None of those challenges should ever be minimised. But neither should we forget that, wherever it is safe and possible, most children want the same thing: they want love, they want stability, and they want the chance to remain connected to their family.\n\nThe reality is that children who enter care often face significant disadvantages later in life. We know care-experienced young people are less likely to attend university, to attain the qualification level that they could have, and are more likely to experience homelessness, and even more likely to experience mental health difficulties as they grow up. Those outcomes are not inevitable, but they are deeply concerning and should compel all of us to ask a simple question: is there a better way of helping families overcome the issues that bring them into the court system in the first place, and if there is, why would we not pursue it?\n\nWhat strikes me about family drug and alcohol courts is that they do not lower the standards or compromise children's safety; they do the exact opposite. They recognise the best way to protect children, and it's often to address the root causes that place families in crisis and not simply manage the consequences. The evidence presented today shows that, when parents receive intensive support to overcome addiction and address traumas, and child benefit too, more parents successfully stop misusing drugs and alcohol, more families achieve stability, and more children are able to remain safely or return safely to their parents and family. That matters, because every child who can safely remain within a loving family environment is given something that no institution or service can ever truly replace—a sense of belonging, a sense of identity, a sense of permanence.\n\nThe Welsh pilot demonstrated that the proportion of children in the care of one or both of their parents more than doubled during FDAC proceedings. Evidence from England shows substantially more children being united with their families compared to conventional proceedings. Those outcomes are not just policy successes, they are life-changing opportunities for children. Children who may stay in the same school, maintain friendships, remain connected to brothers and sisters, preserve relationships with grandparents and wider family networks, and avoid the additional trauma that can accompany family separation.\n\nOf course, there will always be cases where children cannot safely remain at home. In those circumstances, protecting the child must remain our overriding priority. But where recovery is achievable, where parents are willing to engage, and where evidence demonstrates better outcomes, we should ensure those opportunities exist.\n\nWhat concerns me is that Wales once had a pilot programme, yet today we have nothing—no family drug and alcohol court operating in our nation at all. Meanwhile, England has continued on the journey and expanded the model. That leaves Welsh children with fewer opportunities to benefit from an approach that has repeatedly shown promise. We often speak in this Chamber about early intervention, about prevention, about breaking cycles that pass from one generation to the next. Family drug and alcohol courts embody those principles more perfectly than anything I've ever seen. They are not simply about responding to addiction, they're about giving children the best possible chance of a stable future, they're about preventing trauma rather than merely dealing with the consequence itself, and they are about recognising that helping a parent recover can transform a child's entire life trajectory.\n\nMembers, every child deserves safety, every child deserves stability and every child deserves the opportunity to grow up in a nurturing family environment where that can be achieved safely. That is why I support this motion, and that is why I urge my colleagues across the Chamber to support the expansion of family drug and alcohol courts in Wales. Diolch.",
+          "text_original": "I rise today in support of this motion, because, at its heart, this debate is about one thing and one thing only: children. Quite rightly, we have heard a great deal about court processes, social services, addiction, public spending. But behind every statistic is a child whose future may be shaped by the decisions we make in this Chamber today. When a child enters care, it's often because adults around them are struggling with complex problems: substance misuse, poor mental health, trauma, domestic instability. None of those challenges should ever be minimised. But neither should we forget that, wherever it is safe and possible, most children want the same thing: they want love, they want stability, and they want the chance to remain connected to their family.\n\nThe reality is that children who enter care often face significant disadvantages later in life. We know care-experienced young people are less likely to attend university, to attain the qualification level that they could have, and are more likely to experience homelessness, and even more likely to experience mental health difficulties as they grow up. Those outcomes are not inevitable, but they are deeply concerning and should compel all of us to ask a simple question: is there a better way of helping families overcome the issues that bring them into the court system in the first place, and if there is, why would we not pursue it?\n\nWhat strikes me about family drug and alcohol courts is that they do not lower the standards or compromise children's safety; they do the exact opposite. They recognise the best way to protect children, and it's often to address the root causes that place families in crisis and not simply manage the consequences. The evidence presented today shows that, when parents receive intensive support to overcome addiction and address traumas, and child benefit too, more parents successfully stop misusing drugs and alcohol, more families achieve stability, and more children are able to remain safely or return safely to their parents and family. That matters, because every child who can safely remain within a loving family environment is given something that no institution or service can ever truly replace—a sense of belonging, a sense of identity, a sense of permanence.\n\nThe Welsh pilot demonstrated that the proportion of children in the care of one or both of their parents more than doubled during FDAC proceedings. Evidence from England shows substantially more children being united with their families compared to conventional proceedings. Those outcomes are not just policy successes, they are life-changing opportunities for children. Children who may stay in the same school, maintain friendships, remain connected to brothers and sisters, preserve relationships with grandparents and wider family networks, and avoid the additional trauma that can accompany family separation.\n\nOf course, there will always be cases where children cannot safely remain at home. In those circumstances, protecting the child must remain our overriding priority. But where recovery is achievable, where parents are willing to engage, and where evidence demonstrates better outcomes, we should ensure those opportunities exist.\n\nWhat concerns me is that Wales once had a pilot programme, yet today we have nothing—no family drug and alcohol court operating in our nation at all. Meanwhile, England has continued on the journey and expanded the model. That leaves Welsh children with fewer opportunities to benefit from an approach that has repeatedly shown promise. We often speak in this Chamber about early intervention, about prevention, about breaking cycles that pass from one generation to the next. Family drug and alcohol courts embody those principles more perfectly than anything I've ever seen. They are not simply about responding to addiction, they're about giving children the best possible chance of a stable future, they're about preventing trauma rather than merely dealing with the consequence itself, and they are about recognising that helping a parent recover can transform a child's entire life trajectory.\n\nMembers, every child deserves safety, every child deserves stability and every child deserves the opportunity to grow up in a nurturing family environment where that can be achieved safely. That is why I support this motion, and that is why I urge my colleagues across the Chamber to support the expansion of family drug and alcohol courts in Wales. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=10080"
+        }
+      ],
+      "date": "2026-10-07",
+      "record_page_url": "https://record.senedd.wales/Plenary/16314"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776127",
+          "item_id": "item-16313-261006-4",
+          "item_title_en": "4. Statement by the Deputy Minister for Transport: Strategic Priorities for the Menai Strait Crossings and M4 around Newport",
+          "lang": "en",
+          "t_start": 10509,
+          "text_english": "Deputy Minister, much of what I'm going to say some people have already asked, so I'll try to skirt around the edges. These words aren't mine, but those of my residents within Newport. They're deeply concerned by reports that your Government is considering closing M4 junctions around our city. Local commuters have warned that this would mean turning local roads and school routes into highway relief tracks, forcing motorway traffic off the M4 into residential streets, where families live and children travel to and from every day. The lack of an overall system basis taking into account flows from junction 23 to junction 28 is short-sighted. We seem to fixate on junction 25 onwards, but it starts before then. It will lead to continued use of the well-known runs to divert around any issues that happen on the M4, whether Brynglas or accident related.\n\nThere are also serious concerns for Newport's economy. Small and medium-sized businesses are already operating in challenging conditions, and restricting motorway access risks making it harder for customers, employees and suppliers to reach their destinations. Will the Minister rule out closure of M4 junctions if the public's voice says that they oppose it and commit to solutions that reduce congestion without putting children, communities and the local economy at greater risk?",
+          "text_original": "Deputy Minister, much of what I'm going to say some people have already asked, so I'll try to skirt around the edges. These words aren't mine, but those of my residents within Newport. They're deeply concerned by reports that your Government is considering closing M4 junctions around our city. Local commuters have warned that this would mean turning local roads and school routes into highway relief tracks, forcing motorway traffic off the M4 into residential streets, where families live and children travel to and from every day. The lack of an overall system basis taking into account flows from junction 23 to junction 28 is short-sighted. We seem to fixate on junction 25 onwards, but it starts before then. It will lead to continued use of the well-known runs to divert around any issues that happen on the M4, whether Brynglas or accident related.\n\nThere are also serious concerns for Newport's economy. Small and medium-sized businesses are already operating in challenging conditions, and restricting motorway access risks making it harder for customers, employees and suppliers to reach their destinations. Will the Minister rule out closure of M4 junctions if the public's voice says that they oppose it and commit to solutions that reduce congestion without putting children, communities and the local economy at greater risk?",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=10509"
+        }
+      ],
+      "date": "2026-10-06",
+      "record_page_url": "https://record.senedd.wales/Plenary/16313"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-773576",
+          "item_id": "item-16265-260930-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Rural Resilience and Sustainability",
+          "lang": "en",
+          "t_start": 3241,
+          "text_english": "We are very similar in the questioning, Lyn, so I'll try and skirt around some of the other parts of it.\n\nCabinet Minister, it's not just community green spaces at risk in Casnewydd, but also agricultural land. Currently, plans see 578 acres of farmland given over to solar development at the Candwr and Craig y Perthi sites. Residents have raised serious concerns about flood risk, traffic, landscape damage and impact on wildlife, including the important lapwing habitat on the Gwent levels, particularly around Bishton, which is their only site. What cumulative assessment has the Government made of the impact that these developments will have on food production, biodiversity and local flood risk? And does the Cabinet Minister believe that removing hundreds of acres of agricultural land is compatible with the Government's stated commitment to food security?",
+          "text_original": "We are very similar in the questioning, Lyn, so I'll try and skirt around some of the other parts of it.\n\nCabinet Minister, it's not just community green spaces at risk in Casnewydd, but also agricultural land. Currently, plans see 578 acres of farmland given over to solar development at the Candwr and Craig y Perthi sites. Residents have raised serious concerns about flood risk, traffic, landscape damage and impact on wildlife, including the important lapwing habitat on the Gwent levels, particularly around Bishton, which is their only site. What cumulative assessment has the Government made of the impact that these developments will have on food production, biodiversity and local flood risk? And does the Cabinet Minister believe that removing hundreds of acres of agricultural land is compatible with the Government's stated commitment to food security?",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=3241"
+        },
+        {
+          "id": "contribution-773756",
+          "item_id": "item-16265-260930-6",
+          "item_title_en": "5. Member Debate under Standing Order 11.21(iv): Contaminated land",
+          "lang": "en",
+          "t_start": 10787,
+          "text_english": "Good afternoon, all. My only contribution is to state that also in Casnewydd Islwyn, we have three of these sites. Monsanto itself, very famously, is the site within Newport that was creating much of this, but we also have Glebelands and the Severn river estuary. The Severn river estuary was, essentially, used as a point to just pump out tonnes and tonnes of toxic waste, which would have found its way all the way down the Bristol channel and out into the ocean—shameful, at best. But Glebelands, Glebelands is a site that's very close to where I live; I have a lot of friends that live around that site too. Lots of them played there as children, and now, as my colleague in front stated earlier, they are coming through with very rare forms of cancer.\n\nIt's really good that we've got consensus across the house, especially how much support is there. But one area I haven't heard yet that I think is quite critical for us to think of as well, is that, when we do start to look at where there are areas of blame and we can actually hold these people to account, these poor people that have suffered need compensation too. Diolch.",
+          "text_original": "Good afternoon, all. My only contribution is to state that also in Casnewydd Islwyn, we have three of these sites. Monsanto itself, very famously, is the site within Newport that was creating much of this, but we also have Glebelands and the Severn river estuary. The Severn river estuary was, essentially, used as a point to just pump out tonnes and tonnes of toxic waste, which would have found its way all the way down the Bristol channel and out into the ocean—shameful, at best. But Glebelands, Glebelands is a site that's very close to where I live; I have a lot of friends that live around that site too. Lots of them played there as children, and now, as my colleague in front stated earlier, they are coming through with very rare forms of cancer.\n\nIt's really good that we've got consensus across the house, especially how much support is there. But one area I haven't heard yet that I think is quite critical for us to think of as well, is that, when we do start to look at where there are areas of blame and we can actually hold these people to account, these poor people that have suffered need compensation too. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=10787"
+        }
+      ],
+      "date": "2026-09-30",
+      "record_page_url": "https://record.senedd.wales/Plenary/16265"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-772873",
+          "item_id": "item-16264-260929-3",
+          "item_title_en": "2. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "9. Will the First Minister make representations to the UK Government supporting the Welsh Guards' campaign seeking the truth over the RFA Sir Galahad incident on 8 June 1982? OQ64576",
+          "text_original": "9. A wnaiff y Prif Weinidog sylwadau i Lywodraeth y DU yn cefnogi ymgyrch y Gwarchodlu Cymreig i geisio'r gwir am ddigwyddiad RFA Syr Galahad ar 8 Fehefin 1982? OQ64576",
+          "tv_url": "http://www.senedd.tv/en/16264"
+        },
+        {
+          "id": "contribution-772870",
+          "item_id": "item-16264-260929-3",
+          "item_title_en": "2. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 3391,
+          "text_english": "Thank you for your answer, First Minister. I would like to follow that keenly. As a veteran myself, we need to know when we deploy that our people and our Government have our backs.\n\nOver the past few months, many veterans have been stating to me that the messaging coming out from the Governments at both ends of the M4 is very confusing. Both seem to state that they care, but when put under the microscope, a different tale begins to emerge. Over recent weeks in this Chamber, we've seen you calling Sinn Féin your sister party—the political arm of the IRA who were responsible for 24 soldiers' deaths linked to Welsh regiments, including the Welsh Guards, and numerous casualties in Northern Ireland. Next, we see the ethical framework that might risk vital equipment getting into the hands of those fighting on our behalf.\n\nNumerous cases are being reported to MSs across this Chamber, and I have a couple, on the ongoing assistance for veterans who, despite councils signing up to the armed forces covenant, are being left wanting: a veteran who has had to sleep with their own mother, in the same bed, for eight years, for lack of getting a house; a recovering alcoholic placed above a pub; homeless veterans having to prove that they've rough-slept for three to four days before assistance will even begin. Does the First Minister agree with me that this is simply not good enough, and a betrayal of those who have fought for our safety?",
+          "text_original": "Thank you for your answer, First Minister. I would like to follow that keenly. As a veteran myself, we need to know when we deploy that our people and our Government have our backs.\n\nOver the past few months, many veterans have been stating to me that the messaging coming out from the Governments at both ends of the M4 is very confusing. Both seem to state that they care, but when put under the microscope, a different tale begins to emerge. Over recent weeks in this Chamber, we've seen you calling Sinn Féin your sister party—the political arm of the IRA who were responsible for 24 soldiers' deaths linked to Welsh regiments, including the Welsh Guards, and numerous casualties in Northern Ireland. Next, we see the ethical framework that might risk vital equipment getting into the hands of those fighting on our behalf.\n\nNumerous cases are being reported to MSs across this Chamber, and I have a couple, on the ongoing assistance for veterans who, despite councils signing up to the armed forces covenant, are being left wanting: a veteran who has had to sleep with their own mother, in the same bed, for eight years, for lack of getting a house; a recovering alcoholic placed above a pub; homeless veterans having to prove that they've rough-slept for three to four days before assistance will even begin. Does the First Minister agree with me that this is simply not good enough, and a betrayal of those who have fought for our safety?",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=3391"
+        }
+      ],
+      "date": "2026-09-29",
+      "record_page_url": "https://record.senedd.wales/Plenary/16264"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771062",
+          "item_id": "item-16262-260922-5",
+          "item_title_en": "5. Statement by the Cabinet Minister for Enterprise, Connectivity and Energy: Welsh Defence Ethical Framework",
+          "lang": "en",
+          "t_start": 14190,
+          "text_english": "Diolch, Lywydd. I must, firstly, declare an interest as a former Ministry of Defence supply chain specialist. Many Welsh defence companies operate several tiers down complex and dual-use supply chains and may have little control over or even knowledge of the eventual end use of the components they produce. I'm happy that you spoke about Ireland earlier. They've already been through something, and Invest NI has already recognised that neither it nor its client companies can fully track the final destination of goods once they enter into complex global supply chains. While military and dual-use exports are already subject to UK export control regimes, this new framework will add additional uncertainty and compliance costs to Welsh companies. How will the Minister ensure that Welsh companies are not expected to undertake due diligence that they cannot practically perform or duplicate functions already being carried out by the UK export control authorities?",
+          "text_original": "Diolch, Lywydd. I must, firstly, declare an interest as a former Ministry of Defence supply chain specialist. Many Welsh defence companies operate several tiers down complex and dual-use supply chains and may have little control over or even knowledge of the eventual end use of the components they produce. I'm happy that you spoke about Ireland earlier. They've already been through something, and Invest NI has already recognised that neither it nor its client companies can fully track the final destination of goods once they enter into complex global supply chains. While military and dual-use exports are already subject to UK export control regimes, this new framework will add additional uncertainty and compliance costs to Welsh companies. How will the Minister ensure that Welsh companies are not expected to undertake due diligence that they cannot practically perform or duplicate functions already being carried out by the UK export control authorities?",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=14190"
+        }
+      ],
+      "date": "2026-09-22",
+      "record_page_url": "https://record.senedd.wales/Plenary/16262"
+    },
     {
       "contributions": [
         {

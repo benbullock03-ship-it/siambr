@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,202 @@
   "canonical_name": "Helen Jenner",
   "constituency_name_cy": "Bangor Conwy Môn",
   "constituency_name_en": "Bangor Conwy Môn",
-  "contribution_count": 28,
+  "contribution_count": 45,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778392",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 734,
+          "text_english": "Diolch, Lywydd. First Minister, I want to raise a deeply disturbing case from our capital city. In March this year, 29-year-old Mohammed Abbas arrived in Britain on a small boat from France. By June, he was in custody facing criminal charges. In July, he was convicted of offences including assaulting a police officer and sentenced to 300 hours of community service. He was subsequently placed in Home Office-funded accommodation in Cardiff. Just two days later, at 2 o'clock in the morning, he entered a family home and committed sexual offences in the presence of two young girls, both under the age of 16. He has since pleaded guilty to four further offences and is awaiting sentencing. Those two young girls should have been safe in their own home. First Minister, what discussions have you had with the Home Office about this case? What assurances have you sought about the safeguarding of communities hosting asylum accommodation? And will you now commission an urgent review of the arrangements between Welsh public services and the Home Office to ensure that a case like this is never repeated?",
+          "text_original": "Diolch, Lywydd. First Minister, I want to raise a deeply disturbing case from our capital city. In March this year, 29-year-old Mohammed Abbas arrived in Britain on a small boat from France. By June, he was in custody facing criminal charges. In July, he was convicted of offences including assaulting a police officer and sentenced to 300 hours of community service. He was subsequently placed in Home Office-funded accommodation in Cardiff. Just two days later, at 2 o'clock in the morning, he entered a family home and committed sexual offences in the presence of two young girls, both under the age of 16. He has since pleaded guilty to four further offences and is awaiting sentencing. Those two young girls should have been safe in their own home. First Minister, what discussions have you had with the Home Office about this case? What assurances have you sought about the safeguarding of communities hosting asylum accommodation? And will you now commission an urgent review of the arrangements between Welsh public services and the Home Office to ensure that a case like this is never repeated?",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=734"
+        },
+        {
+          "id": "contribution-778411",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 868,
+          "text_english": "The point is that we absolutely accept we already have criminals home grown in the country, but why would we risk importing more? People that we don't know—we know nothing about them. The fact is, whether this is an isolated case or not, two girls have suffered because of a serious failure in safeguarding.\n\nFirst Minister, last week your Deputy Minister for Transport announced yet another 18-month study into congestion on the M4 around Newport, alongside proposals that could see motorway junctions closed. Let's not forget it was the Labour Government who scrapped the relief road, wasting well over £100 million of taxpayers' money in the process. Closing motorway junctions doesn't make the traffic disappear; it simply moves the problem elsewhere, and restricts emergency services trying to carry out their duties. First Minister, Newport needs a long-term solution that improves capacity, not measures that redistribute congestion into residential communities. So, I'll ask you a straightforward question and I expect a straightforward answer: does your Government intend to press ahead with building an M4 relief road around Newport during this Senedd term—yes or no?",
+          "text_original": "The point is that we absolutely accept we already have criminals home grown in the country, but why would we risk importing more? People that we don't know—we know nothing about them. The fact is, whether this is an isolated case or not, two girls have suffered because of a serious failure in safeguarding.\n\nFirst Minister, last week your Deputy Minister for Transport announced yet another 18-month study into congestion on the M4 around Newport, alongside proposals that could see motorway junctions closed. Let's not forget it was the Labour Government who scrapped the relief road, wasting well over £100 million of taxpayers' money in the process. Closing motorway junctions doesn't make the traffic disappear; it simply moves the problem elsewhere, and restricts emergency services trying to carry out their duties. First Minister, Newport needs a long-term solution that improves capacity, not measures that redistribute congestion into residential communities. So, I'll ask you a straightforward question and I expect a straightforward answer: does your Government intend to press ahead with building an M4 relief road around Newport during this Senedd term—yes or no?",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=868"
+        },
+        {
+          "id": "contribution-778374",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 986,
+          "text_english": "Well, it's a 'no', and it's a shame to see that you're determined to continue Mark Drakeford's war on motorists. Nothing changes, does it? The cosy Cardiff consensus continues. Speaking of which, First Minister, throughout the Senedd election, you promised Wales you would deliver change, but we've learned this morning that you've done a deal with Labour to push through your failed supplementary budget. When Labour were in power, it was your party that was propping them up, voting through their budgets as they destroyed our public services. Now you're in power, it's Labour who are nodding along as your Government sends millions of pounds abroad while our NHS suffers. When you said you'd deliver change, people expected you to change more than just the seating plan in the Chamber. And I know a few things about seating plans. So, First Minister, how much longer will the people of Wales have to wait for a Government prepared to deliver real change?",
+          "text_original": "Well, it's a 'no', and it's a shame to see that you're determined to continue Mark Drakeford's war on motorists. Nothing changes, does it? The cosy Cardiff consensus continues. Speaking of which, First Minister, throughout the Senedd election, you promised Wales you would deliver change, but we've learned this morning that you've done a deal with Labour to push through your failed supplementary budget. When Labour were in power, it was your party that was propping them up, voting through their budgets as they destroyed our public services. Now you're in power, it's Labour who are nodding along as your Government sends millions of pounds abroad while our NHS suffers. When you said you'd deliver change, people expected you to change more than just the seating plan in the Chamber. And I know a few things about seating plans. So, First Minister, how much longer will the people of Wales have to wait for a Government prepared to deliver real change?",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=986"
+        }
+      ],
+      "date": "2026-10-13",
+      "record_page_url": "https://record.senedd.wales/Plenary/16315"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-775843",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 941,
+          "text_english": "Diolch, Lywydd. Before I begin, may I congratulate Welshman Elfyn Evans on becoming world rally champion after a nail-biting finale in Sardinia on Sunday? What a proud moment for Wales and what a wonderful sight to see y ddraig goch flying on the world stage.\n\nFirst Minister, I want to pay tribute to our Jewish community in Wales and across the United Kingdom, particularly in light of the 7 October anniversary tomorrow. Jewish people do not feel safe in this country and, for that, the establishment should feel deeply ashamed. There is a sickening antisemitism problem among left-wing parties. We've seen it in Labour, we've seen it in Plaid, and just last weekend, the Green Party of England and Wales formally adopted a policy saying Zionism is racism. The Greens officially do not want the state of Israel to exist, and Plaid Cymru has shamefully stood shoulder to shoulder with the Greens and their anti-Israel rhetoric. First Minister, during the election campaign, you claimed you had the most in common with the Greens, but in light of them formally adopting this divisive direction, I would ask: do you believe that supporting the existence of a Jewish state is in itself racist—'yes' or 'no'?",
+          "text_original": "Diolch, Lywydd. Before I begin, may I congratulate Welshman Elfyn Evans on becoming world rally champion after a nail-biting finale in Sardinia on Sunday? What a proud moment for Wales and what a wonderful sight to see y ddraig goch flying on the world stage.\n\nFirst Minister, I want to pay tribute to our Jewish community in Wales and across the United Kingdom, particularly in light of the 7 October anniversary tomorrow. Jewish people do not feel safe in this country and, for that, the establishment should feel deeply ashamed. There is a sickening antisemitism problem among left-wing parties. We've seen it in Labour, we've seen it in Plaid, and just last weekend, the Green Party of England and Wales formally adopted a policy saying Zionism is racism. The Greens officially do not want the state of Israel to exist, and Plaid Cymru has shamefully stood shoulder to shoulder with the Greens and their anti-Israel rhetoric. First Minister, during the election campaign, you claimed you had the most in common with the Greens, but in light of them formally adopting this divisive direction, I would ask: do you believe that supporting the existence of a Jewish state is in itself racist—'yes' or 'no'?",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=941"
+        },
+        {
+          "id": "contribution-775853",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 1077,
+          "text_english": "So, that was what you chose to focus on in your response—",
+          "text_original": "So, that was what you chose to focus on in your response—",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=1077"
+        },
+        {
+          "id": "contribution-775855",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 1081,
+          "text_english": "Rather than condemning—. That was what you went for.",
+          "text_original": "Rather than condemning—. That was what you went for.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=1081"
+        },
+        {
+          "id": "contribution-775859",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 1084,
+          "text_english": "The prelude, not the actual question. First Minister, it's quite clear that, once again, your party is on the wrong side of history in failing to stand up for our vulnerable Jewish community.\n\nAnother example of Plaid being on the wrong side of history is Brexit. Wales voted decisively to leave the European Union, with almost twice as many people in Wales voting for Brexit than for Plaid Cymru in May. First Minister, at your conference last weekend, your party was making the case for rejoining the EU. Not only do you want to divide families by banging on about independence, you're now trying to reopen the Brexit debate. The so-called Party of Wales is clearly more keen on giving up Welsh sovereignty to Brussels than respecting the will of the people of Wales, who voted to leave the European Union.\n\nTake farming. Brexit gave the Senedd the power to design and implement farming policy in Wales for Wales. First Minister, if you don't trust yourself with the powers you have, rather than seek to hand them over to Brussels, why don't you hand them over to us? Because we're ready to take the reins.",
+          "text_original": "The prelude, not the actual question. First Minister, it's quite clear that, once again, your party is on the wrong side of history in failing to stand up for our vulnerable Jewish community.\n\nAnother example of Plaid being on the wrong side of history is Brexit. Wales voted decisively to leave the European Union, with almost twice as many people in Wales voting for Brexit than for Plaid Cymru in May. First Minister, at your conference last weekend, your party was making the case for rejoining the EU. Not only do you want to divide families by banging on about independence, you're now trying to reopen the Brexit debate. The so-called Party of Wales is clearly more keen on giving up Welsh sovereignty to Brussels than respecting the will of the people of Wales, who voted to leave the European Union.\n\nTake farming. Brexit gave the Senedd the power to design and implement farming policy in Wales for Wales. First Minister, if you don't trust yourself with the powers you have, rather than seek to hand them over to Brussels, why don't you hand them over to us? Because we're ready to take the reins.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=1084"
+        },
+        {
+          "id": "contribution-775844",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 1263,
+          "text_english": "First Minister, it's clear to anybody with an ounce of common sense that the reason anybody can say anything negative about the post-Brexit era is because the people who were in charge of seeing it through didn't make the most of the opportunities they were given. And I would like to quote. [Interruption.] I would like to quote. He talks about our relationship with Europe—the greatest Briton that ever lived, Winston Churchill, once said:\n\n'We are with Europe but not of it. We are linked, not combined. We are interested and associated, not absorbed.'\n\nFirst Minister, at your conference you spoke about a new deal for Wales. Well, the public aren't daft. What we're actually getting is a raw deal. You're giving Wales a raw deal by failing to grow our economy. Unemployment is up, and not a week goes by without a negative story of businesses in Wales shutting up shop and cutting jobs. And the education sector is in such a dire state that teaching unions are threatening industrial action against this Government. What have you done to turn the dire situation around? Nothing. Instead of making substantive cuts to business taxes and energy costs by scrapping net stupid zero, you're marching for separatism in Aberystwyth. Your programme for government was thin and without measurable targets. When are you going to ditch the dodgy ideology and start putting people first? Because so far, all you've done is make things worse.",
+          "text_original": "First Minister, it's clear to anybody with an ounce of common sense that the reason anybody can say anything negative about the post-Brexit era is because the people who were in charge of seeing it through didn't make the most of the opportunities they were given. And I would like to quote. [Interruption.] I would like to quote. He talks about our relationship with Europe—the greatest Briton that ever lived, Winston Churchill, once said:\n\n'We are with Europe but not of it. We are linked, not combined. We are interested and associated, not absorbed.'\n\nFirst Minister, at your conference you spoke about a new deal for Wales. Well, the public aren't daft. What we're actually getting is a raw deal. You're giving Wales a raw deal by failing to grow our economy. Unemployment is up, and not a week goes by without a negative story of businesses in Wales shutting up shop and cutting jobs. And the education sector is in such a dire state that teaching unions are threatening industrial action against this Government. What have you done to turn the dire situation around? Nothing. Instead of making substantive cuts to business taxes and energy costs by scrapping net stupid zero, you're marching for separatism in Aberystwyth. Your programme for government was thin and without measurable targets. When are you going to ditch the dodgy ideology and start putting people first? Because so far, all you've done is make things worse.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=1263"
+        }
+      ],
+      "date": "2026-10-06",
+      "record_page_url": "https://record.senedd.wales/Plenary/16313"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-772828",
+          "item_id": "item-16264-260929-3",
+          "item_title_en": "2. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 902,
+          "text_english": "Diolch, Lywydd. First Minister, following the serious incident involving an RAF Hawk aircraft on Ynys Môn last week, I'm sure you'll join me in paying tribute to the emergency services who responded so quickly, to the two air crew involved and to everybody at RAF Valley. First Minister, RAF Valley is one of the biggest employers on Ynys Môn, as you know, providing well over 1,000 jobs on the island. The humming of those jets flying overhead is the sound of freedom. In Wales, we are proud to play our part in the defence of the United Kingdom. This brings us greater national security and high-quality, high-skill jobs. I'm grateful to the brave veterans on these benches that I'm lucky to sit alongside as well. And I recognise the sacrifices made because both my brothers are currently serving in the armed forces. This weekend, you spoke at an independence rally in Aberystwyth. You've signed an agreement with separatists, and your programme for government seeks the power to hold a referendum. If you achieve your goal of ripping Wales out of the United Kingdom, what will happen to the people who work at RAF Valley, or any other military sites across Wales, for that matter? First Minister, who will defend our nation?",
+          "text_original": "Diolch, Lywydd. First Minister, following the serious incident involving an RAF Hawk aircraft on Ynys Môn last week, I'm sure you'll join me in paying tribute to the emergency services who responded so quickly, to the two air crew involved and to everybody at RAF Valley. First Minister, RAF Valley is one of the biggest employers on Ynys Môn, as you know, providing well over 1,000 jobs on the island. The humming of those jets flying overhead is the sound of freedom. In Wales, we are proud to play our part in the defence of the United Kingdom. This brings us greater national security and high-quality, high-skill jobs. I'm grateful to the brave veterans on these benches that I'm lucky to sit alongside as well. And I recognise the sacrifices made because both my brothers are currently serving in the armed forces. This weekend, you spoke at an independence rally in Aberystwyth. You've signed an agreement with separatists, and your programme for government seeks the power to hold a referendum. If you achieve your goal of ripping Wales out of the United Kingdom, what will happen to the people who work at RAF Valley, or any other military sites across Wales, for that matter? First Minister, who will defend our nation?",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=902"
+        },
+        {
+          "id": "contribution-772851",
+          "item_id": "item-16264-260929-3",
+          "item_title_en": "2. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 1042,
+          "text_english": "Reform will never be reckless when it comes to defending our nation, and we believe in a strong Wales in a strong United Kingdom. Speaking of large employers in Wales, First Minister, last week we learned that Legal & General, a firm that employs over 2,000 people here in Wales, is set to cut 1,000 jobs across their UK operations and also that Admiral, which has its headquarters here in Cardiff, our only FTSE 100 company, is cutting 500 jobs. Considering you've had more than one meeting with Andy Burnham, I'd be interested to know what representations you've made to him on behalf of large-scale employers here in Wales, because this Siambr assumes that your conversations have included more than just constitutional matters, like getting on with the day job: safeguarding Welsh jobs, lowering NHS waiting lists, improving our education standards and backing our family farms. The people of Wales will rightly question your priorities. When will you stop turning the dial on divisive constitutional politics and instead focus on the task at hand, which is what you've been elected to do by the people of Wales?",
+          "text_original": "Reform will never be reckless when it comes to defending our nation, and we believe in a strong Wales in a strong United Kingdom. Speaking of large employers in Wales, First Minister, last week we learned that Legal & General, a firm that employs over 2,000 people here in Wales, is set to cut 1,000 jobs across their UK operations and also that Admiral, which has its headquarters here in Cardiff, our only FTSE 100 company, is cutting 500 jobs. Considering you've had more than one meeting with Andy Burnham, I'd be interested to know what representations you've made to him on behalf of large-scale employers here in Wales, because this Siambr assumes that your conversations have included more than just constitutional matters, like getting on with the day job: safeguarding Welsh jobs, lowering NHS waiting lists, improving our education standards and backing our family farms. The people of Wales will rightly question your priorities. When will you stop turning the dial on divisive constitutional politics and instead focus on the task at hand, which is what you've been elected to do by the people of Wales?",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=1042"
+        },
+        {
+          "id": "contribution-772857",
+          "item_id": "item-16264-260929-3",
+          "item_title_en": "2. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 1144,
+          "text_english": "Nobody on our benches is talking Wales down. We believe in a strong Wales in a strong United Kingdom. We have to remember as well that recently, in a poll commissioned by YesCymru, two thirds of people who responded said they did not want an independent Wales. They don't want to be ripped out of the United Kingdom. You have to bear that in mind. It was a YesCymru poll.\n\nYou failed to pass your first budget, First Minister, and I'm sure you've learned that, in a minority Government, you have to work with parties around this Chamber to have a hope of passing your financial measures and staying in government. Instead of signing pacts with dangerous separatists, instead of preaching to the converted at independence rallies, you should be making calls to the leaders and finance spokespeople in this Chamber to bring consensus.\n\nWe have made it clear that we'll vote for a budget that puts the people of Wales first: no more money going overseas; no more cash for trees in Africa. Your priorities are frankly insulting. The so-called Party of Wales would rather spend the people of Wales’s taxes in Uganda than here at home on our nursing graduates who have been left without jobs and on Welsh pupils with additional learning needs. When will you put aside your personal pet projects and put the people of Wales first?",
+          "text_original": "Nobody on our benches is talking Wales down. We believe in a strong Wales in a strong United Kingdom. We have to remember as well that recently, in a poll commissioned by YesCymru, two thirds of people who responded said they did not want an independent Wales. They don't want to be ripped out of the United Kingdom. You have to bear that in mind. It was a YesCymru poll.\n\nYou failed to pass your first budget, First Minister, and I'm sure you've learned that, in a minority Government, you have to work with parties around this Chamber to have a hope of passing your financial measures and staying in government. Instead of signing pacts with dangerous separatists, instead of preaching to the converted at independence rallies, you should be making calls to the leaders and finance spokespeople in this Chamber to bring consensus.\n\nWe have made it clear that we'll vote for a budget that puts the people of Wales first: no more money going overseas; no more cash for trees in Africa. Your priorities are frankly insulting. The so-called Party of Wales would rather spend the people of Wales’s taxes in Uganda than here at home on our nursing graduates who have been left without jobs and on Welsh pupils with additional learning needs. When will you put aside your personal pet projects and put the people of Wales first?",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=1144"
+        }
+      ],
+      "date": "2026-09-29",
+      "record_page_url": "https://record.senedd.wales/Plenary/16264"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-770737",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 856,
+          "text_english": "Diolch, Lywydd. First Minister, you so often stand on your soapbox and arrogantly claim that you and your party are the ones fighting injustice and standing up for Wales. Yet, you and your party had the chance last week to tackle rape gangs and to stand up for Wales by backing our Reform motion to help bring closure for women and girls by uncovering the extent of rape gang activity in Wales. But, instead, you voted, shamefully, against it. How on earth can women and girls expect you to have their best interests and safety at heart?",
+          "text_original": "Diolch, Lywydd. First Minister, you so often stand on your soapbox and arrogantly claim that you and your party are the ones fighting injustice and standing up for Wales. Yet, you and your party had the chance last week to tackle rape gangs and to stand up for Wales by backing our Reform motion to help bring closure for women and girls by uncovering the extent of rape gang activity in Wales. But, instead, you voted, shamefully, against it. How on earth can women and girls expect you to have their best interests and safety at heart?",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=856"
+        },
+        {
+          "id": "contribution-770713",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 934,
+          "text_english": "You had the opportunity for a Wales focus there. Ironically, normally, we like to stand out, don't we, from the rest of the United Kingdom, but, in this case, you are happy to be absorbed into the UK inquiry. First Minister, the evidence suggests that rape gang activity may have been covered up by authorities to avoid racial tensions, and if we don't get to the bottom of what is among the most sickening organised criminal activities of our time, we cannot expect to prevent the risk of many more crimes of this nature. Last year, the Welsh Government said there was no current widespread issue with grooming gangs in Wales, and one of your current Ministers was accused by a grooming gang victim of downplaying her experience. Let's just have a look at the last 11 weeks alone: we've had two men imprisoned in Cardiff, five people convicted in Rhyl, and eight men across south Wales charged as part of Operation Oak, all relating to grooming gang-type activity. First Minister, can you really look me in the eye and say that you didn't let down victims last week by voting against wanting a grooming gang investigation in Wales?",
+          "text_original": "You had the opportunity for a Wales focus there. Ironically, normally, we like to stand out, don't we, from the rest of the United Kingdom, but, in this case, you are happy to be absorbed into the UK inquiry. First Minister, the evidence suggests that rape gang activity may have been covered up by authorities to avoid racial tensions, and if we don't get to the bottom of what is among the most sickening organised criminal activities of our time, we cannot expect to prevent the risk of many more crimes of this nature. Last year, the Welsh Government said there was no current widespread issue with grooming gangs in Wales, and one of your current Ministers was accused by a grooming gang victim of downplaying her experience. Let's just have a look at the last 11 weeks alone: we've had two men imprisoned in Cardiff, five people convicted in Rhyl, and eight men across south Wales charged as part of Operation Oak, all relating to grooming gang-type activity. First Minister, can you really look me in the eye and say that you didn't let down victims last week by voting against wanting a grooming gang investigation in Wales?",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=934"
+        },
+        {
+          "id": "contribution-770727",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 1045,
+          "text_english": "First Minister, making sure victims' voices are heard—that is not political point scoring.\n\nSpeaking of uncovering the truth, First Minister, I've got a couple of quotes to read to you today:\n\n'Reform would look at the nation of sanctuary and say Welsh people come first when prioritising council housing, and that is really, really important to me.'\n\nLet me read you my second quote:\n\n'Millions are being wasted on the tree-planting project, which is absolutely incredible, that we are sending money in Wales to Uganda.'\n\nFirst Minister, these were things said by a Senedd Member that now sits on your benches. Do you agree with these comments, 'yes' or 'no'?",
+          "text_original": "First Minister, making sure victims' voices are heard—that is not political point scoring.\n\nSpeaking of uncovering the truth, First Minister, I've got a couple of quotes to read to you today:\n\n'Reform would look at the nation of sanctuary and say Welsh people come first when prioritising council housing, and that is really, really important to me.'\n\nLet me read you my second quote:\n\n'Millions are being wasted on the tree-planting project, which is absolutely incredible, that we are sending money in Wales to Uganda.'\n\nFirst Minister, these were things said by a Senedd Member that now sits on your benches. Do you agree with these comments, 'yes' or 'no'?",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=1045"
+        },
+        {
+          "id": "contribution-770738",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 1136,
+          "text_english": "'Yes' or 'no'? Okay. Diolch yn fawr.",
+          "text_original": "'Yes' or 'no'? Okay. Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=1136"
+        },
+        {
+          "id": "contribution-770998",
+          "item_id": "item-16262-260922-4",
+          "item_title_en": "4. Statement by the First Minister: 'New Ambition for Wales: Programme for Government 2026-2030'",
+          "lang": "en",
+          "t_start": 8975,
+          "text_english": "Prif Weinidog, can I begin by thanking you for delivering your programme for government today? There's plenty in this programme that Reform can agree with. We want waiting lists down, we want standards in our schools to improve, we want better paid jobs, stronger businesses, and a health service that people can access when they need it. Where there is common ground, I will say so.\n\nReform went into the election supporting greater surgical and diagnostic capacity, stronger literacy and numeracy in schools, reform of the additional learning needs system, more vocational opportunities for young people and a stronger future for family farms up and down the country. But the real test of this programme is not how many promises are made today, it's whether we can come back to this Chamber in a year, two years and four years from now and measure whether anything has actually improved.",
+          "text_original": "Prif Weinidog, can I begin by thanking you for delivering your programme for government today? There's plenty in this programme that Reform can agree with. We want waiting lists down, we want standards in our schools to improve, we want better paid jobs, stronger businesses, and a health service that people can access when they need it. Where there is common ground, I will say so.\n\nReform went into the election supporting greater surgical and diagnostic capacity, stronger literacy and numeracy in schools, reform of the additional learning needs system, more vocational opportunities for young people and a stronger future for family farms up and down the country. But the real test of this programme is not how many promises are made today, it's whether we can come back to this Chamber in a year, two years and four years from now and measure whether anything has actually improved.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=8975"
+        },
+        {
+          "id": "contribution-770967",
+          "item_id": "item-16262-260922-4",
+          "item_title_en": "4. Statement by the First Minister: 'New Ambition for Wales: Programme for Government 2026-2030'",
+          "lang": "en",
+          "t_start": 9028,
+          "text_english": "Holding you to account is our responsibility as an effective opposition. Take the NHS. You're promising up to 10 surgical hubs, more diagnostic capacity, stronger clinical pathways and up to 100 more general practitioners. Those are ambitious commitments and people will expect this Government to deliver them. So, my first question is this: by the end of this Senedd term, how much lower should the overall waiting lists be, when will those surgical hubs be operating at full capacity and how many additional patients will they treat? Give us the baseline. Give us the target. Give us the date. Then, this Senedd can hold you to it. \n\nThe same applies to education. Your programme says that raising literacy and numeracy is one of the most urgent challenges facing our schools. I would agree. It also accepts the problems around persistent absence, behaviour and the pressure on the additional learning needs system. I welcome the fact that the Government recognises those problems, but recognition is the easy part. Schools cannot employ additional support with warm words, and local authorities cannot satisfy the growing demand for support with another review.\n\nSo, my second question is this: what improvement in attendance, literacy and numeracy should we expect to see by 2030, and what additional resource will actually reach the schools and councils to make the ALN system sustainable? Again, put the numbers against it. Parents and teachers need to know what success looks like. We on these opposition benches need to know what your idea of success looks like.\n\nThere is a much clearer political difference between us on the economy. This Government wants new agencies, commissions and programmes. Reform went into the election offering a different approach. We want lower taxes, better roads, stronger infrastructure and a Government that makes it easier for businesses to invest and grow here in Cymru. Your programme talks about productivity and good jobs. Fine. Productivity can be measured. Pay can be measured. Economic inactivity can be measured. Business creation can be measured. So, my third question is this: which economic measure does the First Minister want us to judge him by in 2030, and what target is he setting himself? Because if the answer is that Wales will be more prosperous, that is not enough. We need to know what progress looks like in hard figures.\n\nI will now move on to the areas on which Reform fundamentally disagrees. First Minister, your Government remains committed to a pathway to net zero by 2040. Reform does not support that devolved target. We put greater weight on affordability, energy security and nuclear power, including the economic opportunity through small modular reactors at Wylfa in north Wales, which did not feature at all in Plaid Cymru's election manifesto. In fact, there's not much talk of north Wales at all in your programme for government, which is extremely disappointing.\n\nOn farming, you intend to continue and refine the sustainable farming scheme. We campaigned for much more substantial reform, with food production taking precedence and bureaucracy taking a back seat, rather than form filling and farming by calendar, which risks driving livestock numbers down in Wales. Those are fair and genuine differences, and people can judge the outcomes for themselves.\n\nI also want to address the constitutional section of this programme, because it goes well beyond asking Westminster for a fair funding settlement. You are establishing a new national commission for Wales. You want justice and policing devolved, welfare devolved, further powers over energy, broadcasting, water and the Crown Estate. And Government is formally asking for the power to determine the timing, question and process of an independence referendum. Plaid Cymru is entitled to argue for those things. Reform is equally entitled to oppose them. I will never accept the notion that you have to support independence and constitutional chaos to prove you believe in Wales.\n\nFirst Minister, I'm interested in what works, not what fits an ideology. Being Welsh does not require supporting independence, and standing up for Wales does not require wanting to leave the United Kingdom. So, my fourth question is this: how much public money and civil service resource will be committed to this constitutional programme during this Senedd term, and what practical outcome will you use to show that the expenditure has improved people's day-to-day lives?\n\nYour own well-being statement says that the programme for government will be reviewed every year, and that progress will be reported annually. Good. And those reports must contain enough hard information for this Senedd and the public to judge whether you are delivering. By 2030, will people be waiting less time for treatment? Will children be attending school more regularly and achieving better results? Will wages and productivity be higher? Will businesses have confidence and invest in Wales? Will Welsh farmers be unshackled from burdensome red tape and incentivised to increase food production? I'm asking you to tell us what success looks like in numbers and time frames. Set the measures now, publish them every year, and then we will see whether this Government delivers what it has promised. Diolch yn fawr.",
+          "text_original": "Holding you to account is our responsibility as an effective opposition. Take the NHS. You're promising up to 10 surgical hubs, more diagnostic capacity, stronger clinical pathways and up to 100 more general practitioners. Those are ambitious commitments and people will expect this Government to deliver them. So, my first question is this: by the end of this Senedd term, how much lower should the overall waiting lists be, when will those surgical hubs be operating at full capacity and how many additional patients will they treat? Give us the baseline. Give us the target. Give us the date. Then, this Senedd can hold you to it. \n\nThe same applies to education. Your programme says that raising literacy and numeracy is one of the most urgent challenges facing our schools. I would agree. It also accepts the problems around persistent absence, behaviour and the pressure on the additional learning needs system. I welcome the fact that the Government recognises those problems, but recognition is the easy part. Schools cannot employ additional support with warm words, and local authorities cannot satisfy the growing demand for support with another review.\n\nSo, my second question is this: what improvement in attendance, literacy and numeracy should we expect to see by 2030, and what additional resource will actually reach the schools and councils to make the ALN system sustainable? Again, put the numbers against it. Parents and teachers need to know what success looks like. We on these opposition benches need to know what your idea of success looks like.\n\nThere is a much clearer political difference between us on the economy. This Government wants new agencies, commissions and programmes. Reform went into the election offering a different approach. We want lower taxes, better roads, stronger infrastructure and a Government that makes it easier for businesses to invest and grow here in Cymru. Your programme talks about productivity and good jobs. Fine. Productivity can be measured. Pay can be measured. Economic inactivity can be measured. Business creation can be measured. So, my third question is this: which economic measure does the First Minister want us to judge him by in 2030, and what target is he setting himself? Because if the answer is that Wales will be more prosperous, that is not enough. We need to know what progress looks like in hard figures.\n\nI will now move on to the areas on which Reform fundamentally disagrees. First Minister, your Government remains committed to a pathway to net zero by 2040. Reform does not support that devolved target. We put greater weight on affordability, energy security and nuclear power, including the economic opportunity through small modular reactors at Wylfa in north Wales, which did not feature at all in Plaid Cymru's election manifesto. In fact, there's not much talk of north Wales at all in your programme for government, which is extremely disappointing.\n\nOn farming, you intend to continue and refine the sustainable farming scheme. We campaigned for much more substantial reform, with food production taking precedence and bureaucracy taking a back seat, rather than form filling and farming by calendar, which risks driving livestock numbers down in Wales. Those are fair and genuine differences, and people can judge the outcomes for themselves.\n\nI also want to address the constitutional section of this programme, because it goes well beyond asking Westminster for a fair funding settlement. You are establishing a new national commission for Wales. You want justice and policing devolved, welfare devolved, further powers over energy, broadcasting, water and the Crown Estate. And Government is formally asking for the power to determine the timing, question and process of an independence referendum. Plaid Cymru is entitled to argue for those things. Reform is equally entitled to oppose them. I will never accept the notion that you have to support independence and constitutional chaos to prove you believe in Wales.\n\nFirst Minister, I'm interested in what works, not what fits an ideology. Being Welsh does not require supporting independence, and standing up for Wales does not require wanting to leave the United Kingdom. So, my fourth question is this: how much public money and civil service resource will be committed to this constitutional programme during this Senedd term, and what practical outcome will you use to show that the expenditure has improved people's day-to-day lives?\n\nYour own well-being statement says that the programme for government will be reviewed every year, and that progress will be reported annually. Good. And those reports must contain enough hard information for this Senedd and the public to judge whether you are delivering. By 2030, will people be waiting less time for treatment? Will children be attending school more regularly and achieving better results? Will wages and productivity be higher? Will businesses have confidence and invest in Wales? Will Welsh farmers be unshackled from burdensome red tape and incentivised to increase food production? I'm asking you to tell us what success looks like in numbers and time frames. Set the measures now, publish them every year, and then we will see whether this Government delivers what it has promised. Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=9028"
+        }
+      ],
+      "date": "2026-09-22",
+      "record_page_url": "https://record.senedd.wales/Plenary/16262"
+    },
     {
       "contributions": [
         {

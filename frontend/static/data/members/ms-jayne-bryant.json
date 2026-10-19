@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "abstain"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,164 @@
   "canonical_name": "Jayne Bryant",
   "constituency_name_cy": "Casnewydd Islwyn",
   "constituency_name_en": "Casnewydd Islwyn",
-  "contribution_count": 32,
+  "contribution_count": 44,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778894",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "en",
+          "t_start": 3070,
+          "text_english": "The key drivers of demand on local authority budgets include population, school numbers, social care and deprivation. Any changes to the weighting of these indicators in the local government funding formula will have a huge impact on the ability of councils with the greatest population density and deprivation to deliver essential services. Following the Welsh Government's recent deviation from the established funding formula, councils with the highest levels of deprivation do need clarity. They need to know whether any lasting changes to the formula will come with any significant extra funding or will the funding pot still be the same.",
+          "text_original": "The key drivers of demand on local authority budgets include population, school numbers, social care and deprivation. Any changes to the weighting of these indicators in the local government funding formula will have a huge impact on the ability of councils with the greatest population density and deprivation to deliver essential services. Following the Welsh Government's recent deviation from the established funding formula, councils with the highest levels of deprivation do need clarity. They need to know whether any lasting changes to the formula will come with any significant extra funding or will the funding pot still be the same.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=3070"
+        }
+      ],
+      "date": "2026-10-14",
+      "record_page_url": "https://record.senedd.wales/Plenary/16316"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776735",
+          "item_id": "item-16314-261007-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
+          "lang": "en",
+          "t_start": 6233,
+          "text_english": "Diolch, Lywydd. Launched by the Welsh Labour Government in 2022, and managed by individual councils, Leasing Scheme Wales allows councils to lease properties from private landlords. It helps councils move tenants out of temporary accommodation, and tenancy support is offered as part of the scheme. An independent evaluation found that empty properties accounted for over 60 per cent of the properties within the scheme, and the evaluation also found that the co-ordination and communications established by the previous Welsh Government were highly valued by councils, and, actually, all 22 local authorities in Wales had signed up to the scheme.\n\nHowever, councils and landlords are now facing uncertainty as it seems that the Plaid Cymru Welsh Government will not continue the scheme beyond March next year, with no new properties onboarded after December this year. So, Cabinet Minister, can you provide clarity on the future of this scheme to councils, landlords and tenants, and what will replace Leasing Scheme Wales?",
+          "text_original": "Diolch, Lywydd. Launched by the Welsh Labour Government in 2022, and managed by individual councils, Leasing Scheme Wales allows councils to lease properties from private landlords. It helps councils move tenants out of temporary accommodation, and tenancy support is offered as part of the scheme. An independent evaluation found that empty properties accounted for over 60 per cent of the properties within the scheme, and the evaluation also found that the co-ordination and communications established by the previous Welsh Government were highly valued by councils, and, actually, all 22 local authorities in Wales had signed up to the scheme.\n\nHowever, councils and landlords are now facing uncertainty as it seems that the Plaid Cymru Welsh Government will not continue the scheme beyond March next year, with no new properties onboarded after December this year. So, Cabinet Minister, can you provide clarity on the future of this scheme to councils, landlords and tenants, and what will replace Leasing Scheme Wales?",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=6233"
+        },
+        {
+          "id": "contribution-776712",
+          "item_id": "item-16314-261007-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
+          "lang": "en",
+          "t_start": 6361,
+          "text_english": "Diolch, Cabinet Minister. I'd recommend you do look at that scheme because, as I said, the feedback from many was how effective it had been, particularly for reluctant landlords.\n\nWhilst every town and city centre has its own unique identity, many are facing the similar challenge of changing footfall and empty properties. That's why the Welsh Labour Government's Transforming Towns programme boosted regeneration in town and city centres across Wales, with more than £300 million since 2020. Instead of confirming a continuation of this programme, Cabinet Minister, you've created a town-centre taskforce, and I've no doubt that the two co-chairs and 17 members announced last week have vast expertise. But I'd like to know what the Government expects of the taskforce and what it expects to deliver. How will the taskforce differ from previous reviews and recommendations, when will it report and how much will it cost to convene the town-centre taskforce?",
+          "text_original": "Diolch, Cabinet Minister. I'd recommend you do look at that scheme because, as I said, the feedback from many was how effective it had been, particularly for reluctant landlords.\n\nWhilst every town and city centre has its own unique identity, many are facing the similar challenge of changing footfall and empty properties. That's why the Welsh Labour Government's Transforming Towns programme boosted regeneration in town and city centres across Wales, with more than £300 million since 2020. Instead of confirming a continuation of this programme, Cabinet Minister, you've created a town-centre taskforce, and I've no doubt that the two co-chairs and 17 members announced last week have vast expertise. But I'd like to know what the Government expects of the taskforce and what it expects to deliver. How will the taskforce differ from previous reviews and recommendations, when will it report and how much will it cost to convene the town-centre taskforce?",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=6361"
+        },
+        {
+          "id": "contribution-776942",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "en",
+          "t_start": 15648,
+          "text_english": "Homes are the foundations of our entire lives, from health and well-being to education and jobs. This motion is divisive and misleading, and it's important to put the facts front and centre of this debate.\n\nI'll start with houses in multiple occupation. HMOs play a crucial role for university students, single individuals, people on low incomes, people who arrive to a new area, for whatever reason, or people who only want short-term housing as an option. The most recent Welsh Government data accounts for under 15,000 HMOs in Wales. A mixture of types of accommodation within communities is important, and the concentration of HMOs in certain areas is something that warrants further action. But that is a separate issue to the misleading motion that's being debated today.\n\nThe proposals put forward today to restrict the rights of people who live here legally would mean evicting workers, carers, colleagues and friends. That's the reality. If today's motion passes, this Senedd would be pitting neighbour against neighbour. It would not represent Wales and Welsh values. The evidence shows that the vast majority—94 per cent—of social housing tenants in Wales were born in the UK, and nearly 80 per cent were born in Wales. Out of almost 0.5 million residents living in social housing in Wales, 463,000 were born in the UK. Of those who are not British citizens, there are people with settled status, refugees who have been granted protection, people granted humanitarian protection, and people with a lawful immigration status, which gives them that entitlement. It's clear that social housing should continue to be allocated according to housing need and in line with legal obligations.\n\nWe know that there is pressure on local services, including housing, across communities in Wales—nobody is denying that. But the way of alleviating that pressure is to invest in public services, grow our economy, build more homes and deliver effectively across Government, not to rip up legal rights and deny people the services that they're entitled to.\n\nSocial housing in Wales is allocated based on housing need, and there are strict rules that determine eligibility. That means most people subject to immigration control aren't eligible for social housing. That is a fact, but one that some people in this Chamber refuse to recognise. There is significant disinformation and misinformation when it comes to social housing and the wider debate about immigration in Wales. It's important to emphasise that social housing allocations primarily work to serve the people of Wales. The reality is that local authorities across Wales apply tight controls around eligibility, and there's always a need to follow the correct process to ensure that housing needs are properly assessed.\n\nHousing associations also play an increasingly important role in supporting people and communities, helping residents sustain their tenancies, improve their well-being, and access opportunities that enable them to thrive. As a result, social landlords are balancing the need to build more homes, invest in existing homes, and deliver services that respond to wider social and economic challenges. This requires strong investment, long-term investment and a shared commitment to addressing Wales's housing needs. The biggest challenge facing the housing system in Wales isn't the eligibility criteria but the need to invest in more social homes.\n\nIn the last Senedd term, the Welsh Labour Government invested £2 billion to deliver more than 20,000 homes for rent in the social sector, and that was record levels of investment and record levels of delivery. I'd like to know how the current Government is going to maintain that momentum and increase the supply of social housing across Wales, reducing the social housing waiting list. The focus of the Welsh Government should be on building more homes, bringing empty properties back into use, and making sure councils and housing associations can develop plans to increase the supply of social housing. That is what this Senedd should focus on and scrutinise.\n\nFinally, Cabinet Minister, fear is being stoked in this Chamber today, so what is this Government doing to challenge the disinformation and misinformation around social housing eligibility? Diolch.",
+          "text_original": "Homes are the foundations of our entire lives, from health and well-being to education and jobs. This motion is divisive and misleading, and it's important to put the facts front and centre of this debate.\n\nI'll start with houses in multiple occupation. HMOs play a crucial role for university students, single individuals, people on low incomes, people who arrive to a new area, for whatever reason, or people who only want short-term housing as an option. The most recent Welsh Government data accounts for under 15,000 HMOs in Wales. A mixture of types of accommodation within communities is important, and the concentration of HMOs in certain areas is something that warrants further action. But that is a separate issue to the misleading motion that's being debated today.\n\nThe proposals put forward today to restrict the rights of people who live here legally would mean evicting workers, carers, colleagues and friends. That's the reality. If today's motion passes, this Senedd would be pitting neighbour against neighbour. It would not represent Wales and Welsh values. The evidence shows that the vast majority—94 per cent—of social housing tenants in Wales were born in the UK, and nearly 80 per cent were born in Wales. Out of almost 0.5 million residents living in social housing in Wales, 463,000 were born in the UK. Of those who are not British citizens, there are people with settled status, refugees who have been granted protection, people granted humanitarian protection, and people with a lawful immigration status, which gives them that entitlement. It's clear that social housing should continue to be allocated according to housing need and in line with legal obligations.\n\nWe know that there is pressure on local services, including housing, across communities in Wales—nobody is denying that. But the way of alleviating that pressure is to invest in public services, grow our economy, build more homes and deliver effectively across Government, not to rip up legal rights and deny people the services that they're entitled to.\n\nSocial housing in Wales is allocated based on housing need, and there are strict rules that determine eligibility. That means most people subject to immigration control aren't eligible for social housing. That is a fact, but one that some people in this Chamber refuse to recognise. There is significant disinformation and misinformation when it comes to social housing and the wider debate about immigration in Wales. It's important to emphasise that social housing allocations primarily work to serve the people of Wales. The reality is that local authorities across Wales apply tight controls around eligibility, and there's always a need to follow the correct process to ensure that housing needs are properly assessed.\n\nHousing associations also play an increasingly important role in supporting people and communities, helping residents sustain their tenancies, improve their well-being, and access opportunities that enable them to thrive. As a result, social landlords are balancing the need to build more homes, invest in existing homes, and deliver services that respond to wider social and economic challenges. This requires strong investment, long-term investment and a shared commitment to addressing Wales's housing needs. The biggest challenge facing the housing system in Wales isn't the eligibility criteria but the need to invest in more social homes.\n\nIn the last Senedd term, the Welsh Labour Government invested £2 billion to deliver more than 20,000 homes for rent in the social sector, and that was record levels of investment and record levels of delivery. I'd like to know how the current Government is going to maintain that momentum and increase the supply of social housing across Wales, reducing the social housing waiting list. The focus of the Welsh Government should be on building more homes, bringing empty properties back into use, and making sure councils and housing associations can develop plans to increase the supply of social housing. That is what this Senedd should focus on and scrutinise.\n\nFinally, Cabinet Minister, fear is being stoked in this Chamber today, so what is this Government doing to challenge the disinformation and misinformation around social housing eligibility? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=15648"
+        }
+      ],
+      "date": "2026-10-07",
+      "record_page_url": "https://record.senedd.wales/Plenary/16314"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776134",
+          "item_id": "item-16313-261006-4",
+          "item_title_en": "4. Statement by the Deputy Minister for Transport: Strategic Priorities for the Menai Strait Crossings and M4 around Newport",
+          "lang": "en",
+          "t_start": 10096,
+          "text_english": "This statement is telling us what we already know: that there is a problem on the M4 around Newport. It really is astounding that junction closures are even being considered as part of the solution by this Plaid Cymru Government. The people of Newport are not to blame for the congestion on the M4. The motorway runs through the city, and whenever there's an accident or a major event, traffic shifts onto local roads, grinding Newport to a halt.\n\nLocal people, including in surrounding areas like Risca, Blackwood and Cwmbran, need to have their voices heard, and people haven't been involved at this point. These people aren't just data points in a transport policy document; they are individuals, families and businesses whose lives will be impacted. They should be at the heart of this Government's approach to the M4. But local people's voices are clear: fully closing the junction at High Cross and the eastbound junctions at Malpas and Caerleon will bring more traffic and air pollution closer to homes, schools and businesses—",
+          "text_original": "This statement is telling us what we already know: that there is a problem on the M4 around Newport. It really is astounding that junction closures are even being considered as part of the solution by this Plaid Cymru Government. The people of Newport are not to blame for the congestion on the M4. The motorway runs through the city, and whenever there's an accident or a major event, traffic shifts onto local roads, grinding Newport to a halt.\n\nLocal people, including in surrounding areas like Risca, Blackwood and Cwmbran, need to have their voices heard, and people haven't been involved at this point. These people aren't just data points in a transport policy document; they are individuals, families and businesses whose lives will be impacted. They should be at the heart of this Government's approach to the M4. But local people's voices are clear: fully closing the junction at High Cross and the eastbound junctions at Malpas and Caerleon will bring more traffic and air pollution closer to homes, schools and businesses—",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=10096"
+        },
+        {
+          "id": "contribution-776142",
+          "item_id": "item-16313-261006-4",
+          "item_title_en": "4. Statement by the Deputy Minister for Transport: Strategic Priorities for the Menai Strait Crossings and M4 around Newport",
+          "lang": "en",
+          "t_start": 10164,
+          "text_english": "Deputy Minister, if you close these junctions, how do you expect the two remaining fully open junctions at Tredegar Park and the Coldra to cope?",
+          "text_original": "Deputy Minister, if you close these junctions, how do you expect the two remaining fully open junctions at Tredegar Park and the Coldra to cope?",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=10164"
+        }
+      ],
+      "date": "2026-10-06",
+      "record_page_url": "https://record.senedd.wales/Plenary/16313"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-773569",
+          "item_id": "item-16265-260930-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Rural Resilience and Sustainability",
+          "lang": "en",
+          "t_start": 3338,
+          "text_english": "Access to green spaces and nature is so important to our physical and mental well-being. The Road to Nature project in Newport is a great example of what can be done, and the incredible work of the Friends of the Road to Nature group, Newport City Council and the wider community has absolutely transformed what was a real criminal dumping ground for rubbish a few years ago, and that's now a haven for wildlife. Biodiversity is absolutely thriving there, and willow emerald damselflies were recorded for the first time in recent weeks, following the completion of a pond dipping area. This area is a real shining example of a community working together for nature restoration. So, will the Welsh Government commit to supporting and funding more projects like this in Casnewydd Islwyn, as well as other parts of Wales?",
+          "text_original": "Access to green spaces and nature is so important to our physical and mental well-being. The Road to Nature project in Newport is a great example of what can be done, and the incredible work of the Friends of the Road to Nature group, Newport City Council and the wider community has absolutely transformed what was a real criminal dumping ground for rubbish a few years ago, and that's now a haven for wildlife. Biodiversity is absolutely thriving there, and willow emerald damselflies were recorded for the first time in recent weeks, following the completion of a pond dipping area. This area is a real shining example of a community working together for nature restoration. So, will the Welsh Government commit to supporting and funding more projects like this in Casnewydd Islwyn, as well as other parts of Wales?",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=3338"
+        }
+      ],
+      "date": "2026-09-30",
+      "record_page_url": "https://record.senedd.wales/Plenary/16265"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-772800",
+          "item_id": "item-16264-260929-3",
+          "item_title_en": "2. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "2. Will the First Minister provide an update on the Welsh Government’s plans to review the local government funding formula? OQ64607",
+          "text_original": "2. A wnaiff y Prif Weinidog roi diweddariad ar gynlluniau Llywodraeth Cymru i adolygu fformiwla ariannu llywodraeth leol? OQ64607",
+          "tv_url": "http://www.senedd.tv/en/16264"
+        },
+        {
+          "id": "contribution-772806",
+          "item_id": "item-16264-260929-3",
+          "item_title_en": "2. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 466,
+          "text_english": "Diolch, Brif Weinidog. The local government settlement for the current financial year was finalised under the previous Welsh Labour Government, following extensive engagement with local authorities. This used an established formula of complex indicators, including population density, service demand and levels of poverty and deprivation, and work was going on to ensure that that was all updated. The local authorities who received the largest annual increase in funding based on that set formula were Newport, Swansea, Blaenau Gwent, Wrexham and Merthyr Tydfil. Following the recent cost-of-living funding announcement, local authorities are now grappling with the realisation that this Plaid Cymru Government does not believe levels of poverty and service demand should be the greatest determinants of Welsh Government funding to tackle poverty. First Minister, can you confirm which local authorities will not receive extra funding to tackle poverty?",
+          "text_original": "Diolch, Brif Weinidog. The local government settlement for the current financial year was finalised under the previous Welsh Labour Government, following extensive engagement with local authorities. This used an established formula of complex indicators, including population density, service demand and levels of poverty and deprivation, and work was going on to ensure that that was all updated. The local authorities who received the largest annual increase in funding based on that set formula were Newport, Swansea, Blaenau Gwent, Wrexham and Merthyr Tydfil. Following the recent cost-of-living funding announcement, local authorities are now grappling with the realisation that this Plaid Cymru Government does not believe levels of poverty and service demand should be the greatest determinants of Welsh Government funding to tackle poverty. First Minister, can you confirm which local authorities will not receive extra funding to tackle poverty?",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=466"
+        },
+        {
+          "id": "contribution-773033",
+          "item_id": "item-16264-260929-8",
+          "item_title_en": "7. Statement by the Deputy Minister for Social Care, Mental Health and Women's Health: Improving Family-centred Neonatal Care in Wales: Progress Towards the Bliss Baby Charter",
+          "lang": "en",
+          "t_start": 11725,
+          "text_english": "I'd like to thank the Deputy Minister for her statement today. I know that this is something that she cares very much about. The admission of a baby to a neonatal unit is unbearably difficult and a concerning time for any family. The specialist care provided in these units helps to ensure that babies have the best possible chance of survival and quality of life, yet parents often have to put their lives on hold during this time, impacting their income, well-being and other children in their family. The charity Bliss supports parents during this time and champions the rights of premature and sick babies. \n\nThe Bliss Wales programme was introduced with funding from the Welsh Labour Government in 2025, and I'm really glad to hear that the Deputy Minister acknowledges the important role that this has played in improving family-centred neonatal care across Wales. It's good to see that progress has been made towards the Bliss baby charter since 2025, and it's evident that funding for the whole Bliss Wales programme is now required beyond March next year.\n\nSo, Deputy Minister, you state today that funding has been secured to continue the programme through this financial year, but we know that that's only a matter of months. Parents and health professionals want to know whether the Plaid Cymru Government will fund the Bliss Wales programme after March next year. \n\nWhilst positive steps have been made with the Bliss baby charter, you've outlined today that the work is not complete, and my understanding is that neonatal units at the Grange and University Hospital of Wales are both at the pledge of improvement—that's the initial stage for the Bliss baby charter—and they need support to progress. Meanwhile, the other seven neonatal units, which you've mentioned, in Wales need to be able to take action to achieve the higher levels of accreditation. So, I'd be interested to know what is being doing to share that learning about the baby charter between those neonatal units to encourage the development of best practice.\n\nTackling health inequalities is an important aspect of this work to ensure parity in the care received by babies and families in every neonatal unit across Wales. One particular disparity faced by families has already been mentioned, and that's overnight accommodation. Parents, of course, should be able to stay with their babies at all times of day and night, but accommodation is not routinely provided. So, I'd like to know what the Welsh Government is doing to ensure that there is suitable overnight accommodation available for parents, wherever they live.\n\nI'd also like to mention the early conversations pilot. This is separate from the Bliss baby charter, but both are part of the Bliss Wales programme. Implementation of the early conversations pilot is under way at all three neonatal units in north Wales, with further units in the south joining the pilot for its second phase. Again, funding is required to ensure parity across Wales for babies and families.\n\nI'm glad to hear you refer to the 'The path to safer beginnings in Wales' report again in the Siambr today. That report was commissioned by the previous Welsh Labour Government, and the voices and experiences of women and families were at the centre of that assessment. So, Deputy Minister, can you give an indication of when the recommendations of the 'The path to safer beginnings in Wales' report will be fully implemented and when can we expect more clarity around delivery timelines and transparent reporting?\n\nYou'll also be aware, Deputy Minister, that the 'The path to safer beginnings in Wales' report highlighted the dedication and professionalism of the workforce in maternity services across Wales. And I know that you are also aware that the Royal College of Midwives is among those who have identified workforce capacity as the most pressing challenge currently facing maternity services in Wales. So, can the Deputy Minister provide reassurance that targeted investment in midwifery staffing, as well as improvements in workforce planning and retention, are a priority for this Government? It would also be good to know what discussions she has had with the Cabinet Minister for Health about the current situation facing midwifery graduates since the Senedd returned from recess. Babies in neonatal units require care from a multidisciplinary team of healthcare professionals. We also know that access to perinatal mental health and parent-infant services are vital. So, finally, will the Deputy Minister confirm today the delivery and full funding of the strategic perinatal workforce plan to ensure safe staffing levels across Wales? Diolch.",
+          "text_original": "I'd like to thank the Deputy Minister for her statement today. I know that this is something that she cares very much about. The admission of a baby to a neonatal unit is unbearably difficult and a concerning time for any family. The specialist care provided in these units helps to ensure that babies have the best possible chance of survival and quality of life, yet parents often have to put their lives on hold during this time, impacting their income, well-being and other children in their family. The charity Bliss supports parents during this time and champions the rights of premature and sick babies. \n\nThe Bliss Wales programme was introduced with funding from the Welsh Labour Government in 2025, and I'm really glad to hear that the Deputy Minister acknowledges the important role that this has played in improving family-centred neonatal care across Wales. It's good to see that progress has been made towards the Bliss baby charter since 2025, and it's evident that funding for the whole Bliss Wales programme is now required beyond March next year.\n\nSo, Deputy Minister, you state today that funding has been secured to continue the programme through this financial year, but we know that that's only a matter of months. Parents and health professionals want to know whether the Plaid Cymru Government will fund the Bliss Wales programme after March next year. \n\nWhilst positive steps have been made with the Bliss baby charter, you've outlined today that the work is not complete, and my understanding is that neonatal units at the Grange and University Hospital of Wales are both at the pledge of improvement—that's the initial stage for the Bliss baby charter—and they need support to progress. Meanwhile, the other seven neonatal units, which you've mentioned, in Wales need to be able to take action to achieve the higher levels of accreditation. So, I'd be interested to know what is being doing to share that learning about the baby charter between those neonatal units to encourage the development of best practice.\n\nTackling health inequalities is an important aspect of this work to ensure parity in the care received by babies and families in every neonatal unit across Wales. One particular disparity faced by families has already been mentioned, and that's overnight accommodation. Parents, of course, should be able to stay with their babies at all times of day and night, but accommodation is not routinely provided. So, I'd like to know what the Welsh Government is doing to ensure that there is suitable overnight accommodation available for parents, wherever they live.\n\nI'd also like to mention the early conversations pilot. This is separate from the Bliss baby charter, but both are part of the Bliss Wales programme. Implementation of the early conversations pilot is under way at all three neonatal units in north Wales, with further units in the south joining the pilot for its second phase. Again, funding is required to ensure parity across Wales for babies and families.\n\nI'm glad to hear you refer to the 'The path to safer beginnings in Wales' report again in the Siambr today. That report was commissioned by the previous Welsh Labour Government, and the voices and experiences of women and families were at the centre of that assessment. So, Deputy Minister, can you give an indication of when the recommendations of the 'The path to safer beginnings in Wales' report will be fully implemented and when can we expect more clarity around delivery timelines and transparent reporting?\n\nYou'll also be aware, Deputy Minister, that the 'The path to safer beginnings in Wales' report highlighted the dedication and professionalism of the workforce in maternity services across Wales. And I know that you are also aware that the Royal College of Midwives is among those who have identified workforce capacity as the most pressing challenge currently facing maternity services in Wales. So, can the Deputy Minister provide reassurance that targeted investment in midwifery staffing, as well as improvements in workforce planning and retention, are a priority for this Government? It would also be good to know what discussions she has had with the Cabinet Minister for Health about the current situation facing midwifery graduates since the Senedd returned from recess. Babies in neonatal units require care from a multidisciplinary team of healthcare professionals. We also know that access to perinatal mental health and parent-infant services are vital. So, finally, will the Deputy Minister confirm today the delivery and full funding of the strategic perinatal workforce plan to ensure safe staffing levels across Wales? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=11725"
+        }
+      ],
+      "date": "2026-09-29",
+      "record_page_url": "https://record.senedd.wales/Plenary/16264"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-770927",
+          "item_id": "item-16262-260922-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 6741,
+          "text_english": "Last week, I was glad to be joined by my Welsh Labour colleague Ken Skates at Llanwern steelworks in my constituency. Llanwern is strategically important to Wales and the whole of the UK, and it must not be lost in the wider debate on the steel industry. Steel making is in Newport's DNA, and it should have a proud future, but the workers that I spoke to last week were concerned about that future and that it's under threat from cheap galvanised steel imports. The Welsh Government must work with the UK Government to protect steel jobs in Wales and engage with the unions to support the workforce. So, Trefnydd, can we have a statement from the Welsh Government confirming that you will do everything in your power to ensure a sustainable future for the steel industry in Wales?",
+          "text_original": "Last week, I was glad to be joined by my Welsh Labour colleague Ken Skates at Llanwern steelworks in my constituency. Llanwern is strategically important to Wales and the whole of the UK, and it must not be lost in the wider debate on the steel industry. Steel making is in Newport's DNA, and it should have a proud future, but the workers that I spoke to last week were concerned about that future and that it's under threat from cheap galvanised steel imports. The Welsh Government must work with the UK Government to protect steel jobs in Wales and engage with the unions to support the workforce. So, Trefnydd, can we have a statement from the Welsh Government confirming that you will do everything in your power to ensure a sustainable future for the steel industry in Wales?",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=6741"
+        },
+        {
+          "id": "contribution-771096",
+          "item_id": "item-16262-260922-7",
+          "item_title_en": "7. Statement by the Cabinet Minister for Local Government, Housing and Planning: Building Safety Programme Update",
+          "lang": "en",
+          "t_start": 17493,
+          "text_english": "I thank the Minister for her statement today. As she said, the origins of this work are following the dreadful events of 14 June 2017, when 72 people lost their lives in the fire at Grenfell Tower. Following the tragedy, the Welsh Labour Government set out to deliver a new building safety programme for the benefit of residents of shared buildings across Wales, regardless of building height or tenure. Change on this scale is complex and time-consuming and resulted in one of the largest Bills ever to be considered by this Senedd. I was very glad to be able to take the landmark Building Safety (Wales) Bill through the Senedd, and I'm grateful to the current Minister, and others in this Chamber, for their collaborative approach, which ensured that a whole series of complex amendments were unanimously agreed at Stage 3. This, Deputy Llywydd, was a Senedd first and demonstrated a desire to get this right.\n\nThe legislation that we passed here in Wales is far broader in its scope and ambition than the equivalent legislation in England. Three key principles are fundamental to the Act. First is safety. While we can never eliminate all risks, we can significantly enhance safety by identifying risks and ensuring that these risks are properly managed. The second principle is accountability. The Act ends any confusion about who is answerable for managing building safety risks. It ensures that those responsible for buildings are held to account in law for their safety. The third principle is residents' voice. Residents' experiences and concerns must be heard and addressed.\n\nBut passing the primary legislation is only the first step. Our focus must now be on ensuring that the Act is fully implemented, so it transforms safety in multi-occupied residential buildings across Wales. We now need to ensure that the Bill is practical and deliverable, and this means ensuring that regulations are clear and achievable. The Act will be determined by secondary regulations and statutory guidance, and how housing associations, building safety authorities and fire safety authorities are appropriately resourced to deliver their enhanced responsibilities.\n\nSo, what proactive steps is the Welsh Government taking to address the specialist workforce shortages ahead of the implementation? I know that Community Housing Cymru has been sharing with the Government feedback from their members across Wales. It's important that the Government listens and shares additional information that will be brought forward by regulations, so that housing associations can effectively prepare. Given the financial impact of compliance, how will the Welsh Government ensure that funding mechanisms support compliance and do not force housing associations to trade off the maintenance of existing homes against the delivery of urgently needed new affordable housing?\n\nI'm very aware of the financial and well-being impact on people waiting for remediation. The Welsh Labour Government proactively supported residents by putting in place contracts with developers, and this Government must continue to do everything possible to remove barriers to progress.\n\nI do welcome the alarm grant announced today, but people need to know urgently if they're eligible, how much this will be and how they can access it. When in Government, I set up the developers forum, which met regularly, and it's really good to hear that the Minister is continuing that work. I look forward to further updates on the pace of remediation, something that all of us in this Siambr want to see.\n\nI'm really pleased that you're also continuing with the Members' briefing, the technical briefing, that I established. Those sessions, I think, are really important for Members to raise with your officials really local issues. That's something we can always get to grips with, and I hope officials can follow that progress as well. But I think it's really important for Members to understand the parts of the Welsh Government and the progress the Welsh Government is trying to make.\n\nBut much work remains to implement a new building safety regime across Wales. I said when the building safety Bill passed that I hoped the next Welsh Government would bring forward a remediation Bill to further support leaseholders. So, now, Cabinet Minister, that you're the Cabinet Minister, can you confirm whether your Government intends to bring forward a remediation Bill? Diolch.",
+          "text_original": "I thank the Minister for her statement today. As she said, the origins of this work are following the dreadful events of 14 June 2017, when 72 people lost their lives in the fire at Grenfell Tower. Following the tragedy, the Welsh Labour Government set out to deliver a new building safety programme for the benefit of residents of shared buildings across Wales, regardless of building height or tenure. Change on this scale is complex and time-consuming and resulted in one of the largest Bills ever to be considered by this Senedd. I was very glad to be able to take the landmark Building Safety (Wales) Bill through the Senedd, and I'm grateful to the current Minister, and others in this Chamber, for their collaborative approach, which ensured that a whole series of complex amendments were unanimously agreed at Stage 3. This, Deputy Llywydd, was a Senedd first and demonstrated a desire to get this right.\n\nThe legislation that we passed here in Wales is far broader in its scope and ambition than the equivalent legislation in England. Three key principles are fundamental to the Act. First is safety. While we can never eliminate all risks, we can significantly enhance safety by identifying risks and ensuring that these risks are properly managed. The second principle is accountability. The Act ends any confusion about who is answerable for managing building safety risks. It ensures that those responsible for buildings are held to account in law for their safety. The third principle is residents' voice. Residents' experiences and concerns must be heard and addressed.\n\nBut passing the primary legislation is only the first step. Our focus must now be on ensuring that the Act is fully implemented, so it transforms safety in multi-occupied residential buildings across Wales. We now need to ensure that the Bill is practical and deliverable, and this means ensuring that regulations are clear and achievable. The Act will be determined by secondary regulations and statutory guidance, and how housing associations, building safety authorities and fire safety authorities are appropriately resourced to deliver their enhanced responsibilities.\n\nSo, what proactive steps is the Welsh Government taking to address the specialist workforce shortages ahead of the implementation? I know that Community Housing Cymru has been sharing with the Government feedback from their members across Wales. It's important that the Government listens and shares additional information that will be brought forward by regulations, so that housing associations can effectively prepare. Given the financial impact of compliance, how will the Welsh Government ensure that funding mechanisms support compliance and do not force housing associations to trade off the maintenance of existing homes against the delivery of urgently needed new affordable housing?\n\nI'm very aware of the financial and well-being impact on people waiting for remediation. The Welsh Labour Government proactively supported residents by putting in place contracts with developers, and this Government must continue to do everything possible to remove barriers to progress.\n\nI do welcome the alarm grant announced today, but people need to know urgently if they're eligible, how much this will be and how they can access it. When in Government, I set up the developers forum, which met regularly, and it's really good to hear that the Minister is continuing that work. I look forward to further updates on the pace of remediation, something that all of us in this Siambr want to see.\n\nI'm really pleased that you're also continuing with the Members' briefing, the technical briefing, that I established. Those sessions, I think, are really important for Members to raise with your officials really local issues. That's something we can always get to grips with, and I hope officials can follow that progress as well. But I think it's really important for Members to understand the parts of the Welsh Government and the progress the Welsh Government is trying to make.\n\nBut much work remains to implement a new building safety regime across Wales. I said when the building safety Bill passed that I hoped the next Welsh Government would bring forward a remediation Bill to further support leaseholders. So, now, Cabinet Minister, that you're the Cabinet Minister, can you confirm whether your Government intends to bring forward a remediation Bill? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=17493"
+        }
+      ],
+      "date": "2026-09-22",
+      "record_page_url": "https://record.senedd.wales/Plenary/16262"
+    },
     {
       "contributions": [
         {

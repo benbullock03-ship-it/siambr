@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,128 @@
   "canonical_name": "Lis McLean",
   "constituency_name_cy": "Pontypridd Cynon Merthyr",
   "constituency_name_en": "Pontypridd Cynon Merthyr",
-  "contribution_count": 19,
+  "contribution_count": 28,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778582",
+          "item_id": "item-16315-261013-4",
+          "item_title_en": "4. Statement by the Cabinet Minister for Rural Resilience and Sustainability: Winter preparedness: Be flood ready",
+          "lang": "cy",
+          "t_start": 10477,
+          "text_english": "Thank you, Dirprwy Lywydd. I have to say that I do feel this is very encouraging, what we've heard from your statement. It's really good to hear that many of the things that have been put in place in the past are now bearing fruit, such as the national flood forum—that's fantastic. I truly do believe in the power of networks that work across Wales to help each other, so that's fantastic.\n\nI also took notice of what you said in terms of the kind of support we can provide to our communities due to the fact that they have to be vigilant of risk, register for warnings and alerts, be prepared, and receive practical support from NRW. I also feel very privileged to stand here today and to hear everyone speaking about this subject. We all feel very concerned about what's happening with our communities across Wales and across all of the parties, and that's fantastic to hear.\n\nWhat I want to ask is how can we give that confidence that our communities need that our Government, that we here, are doing everything we can do to ensure that adequate property-level resilience measures are available, and that they're safe.",
+          "text_original": "Diolch, Ddirprwy Lywydd. Mae'n rhaid i fi ddweud, dwi yn teimlo ei fod e'n galonogol iawn, eich datganiad heddiw. Roedd e rili yn dda clywed bod lot o'r pethau sydd wedi cael eu rhoi yn eu lle o'r blaen nawr yn digwydd, fel y fforwm llifogydd cenedlaethol—mae hwnna'n ffantastig. Dwi wir yn credu mewn grym rhwydweithiau sydd yn gweithio ar draws Cymru i helpu ein gilydd a phopeth, so mae hwnna'n ffantastig.\n\nRoeddwn i hefyd yn rili cymryd sylw o beth roeddech chi'n ei ddweud o ran pa fath o gymorth rydyn ni'n gallu ei roi i'n cymunedau ni o ganlyniad i'r ffaith bod yn rhaid iddyn nhw wylio am risg, cofrestru i gael rhybuddion, bod yn barod am unrhyw beth, a chael y cymorth ymarferol gan Cyfoeth Naturiol Cymru. Dwi hefyd yn teimlo'n rili freintiedig i sefyll fan hyn a chlywed pawb yn siarad amdano fe fel hyn. Rŷn ni i gyd yn poeni am beth sydd yn digwydd gyda'n cymunedau ni ar draws Cymru ac ar draws yr holl bleidiau hefyd. So, mae hwnna'n ffantastig.\n\nBeth dwi eisiau gofyn yw sut ydyn ni'n gallu rhoi'r hyder yna sydd ei angen ar ein cymunedau bod ein Llywodraeth ni, ein bod ni fan hyn, yn gwneud popeth rŷn ni'n gallu ei wneud i sicrhau bod mesurau gwydnwch ar lefel eiddo digonol ar gael iddynt, a'u bod nhw'n saff.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=10477"
+        }
+      ],
+      "date": "2026-10-13",
+      "record_page_url": "https://record.senedd.wales/Plenary/16315"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776902",
+          "item_id": "item-16314-261007-8",
+          "item_title_en": "7. Reform UK Debate: Regional rugby",
+          "lang": "en",
+          "t_start": 14064,
+          "text_english": "Could I make an intervention now?",
+          "text_original": "Could I make an intervention now?",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=14064"
+        },
+        {
+          "id": "contribution-776909",
+          "item_id": "item-16314-261007-8",
+          "item_title_en": "7. Reform UK Debate: Regional rugby",
+          "lang": "en",
+          "t_start": 14067,
+          "text_english": "It's all very well, and what you're saying is completely—. We understand that. Everybody agrees with a lot of what you're saying, and you know that. Most of the country would agree with it. But the fact is, we are not in a position to be able to tell them to do that. What you're asking for is not what's within our remit. This is not what we can do. But what the amendment is saying is exactly what we can do, and all those things are included in that amendment. That emotion that you're putting behind it is behind that amendment too.",
+          "text_original": "It's all very well, and what you're saying is completely—. We understand that. Everybody agrees with a lot of what you're saying, and you know that. Most of the country would agree with it. But the fact is, we are not in a position to be able to tell them to do that. What you're asking for is not what's within our remit. This is not what we can do. But what the amendment is saying is exactly what we can do, and all those things are included in that amendment. That emotion that you're putting behind it is behind that amendment too.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=14067"
+        },
+        {
+          "id": "contribution-776911",
+          "item_id": "item-16314-261007-8",
+          "item_title_en": "7. Reform UK Debate: Regional rugby",
+          "lang": "en",
+          "t_start": 14114,
+          "text_english": "[Inaudible.]—going to be an intervention, sorry. Actually, WRU have been scrutinised to a large extent. They're coming before the committee again. So, we are doing what's right for our country, for rugby in our country. What you're trying to do is point score here, to try and get some sort of feeling of, 'We love rugby. We are the only people—.' Well, actually, we all love rugby—",
+          "text_original": "[Inaudible.]—going to be an intervention, sorry. Actually, WRU have been scrutinised to a large extent. They're coming before the committee again. So, we are doing what's right for our country, for rugby in our country. What you're trying to do is point score here, to try and get some sort of feeling of, 'We love rugby. We are the only people—.' Well, actually, we all love rugby—",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=14114"
+        }
+      ],
+      "date": "2026-10-07",
+      "record_page_url": "https://record.senedd.wales/Plenary/16314"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776023",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "12. How is the Welsh Government ensuring the successful implementation of the Well‑being of Future Generations (Wales) Act 2015? OQ64623",
+          "text_original": "12. Sut mae Llywodraeth Cymru yn sicrhau bod Deddf Llesiant Cenedlaethau'r Dyfodol (Cymru) 2015 yn cael ei gweithredu'n llwyddiannus? OQ64623",
+          "tv_url": "http://www.senedd.tv/en/16313"
+        },
+        {
+          "id": "contribution-776026",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "cy",
+          "t_start": 6159,
+          "text_english": "Minister, culture has faced a decade of funding cuts. Funding cuts don't just affect the arts sector. They also have a direct impact on the well-being and vitality of Welsh communities and society. If we are serious about the well-being of future generations Act, we must ring-fence and protect preventative funding to support the arts. Culture contributes directly to the well-being of individuals and to the vitality of our communities throughout Wales. So, how will the Minister work across portfolios to ensure that culture is recognised as an integral part of preventative health across Government?",
+          "text_original": "Weinidog, mae diwylliant wedi wynebu degawd o doriadau cyllid. Nid yw toriadau i gyllid yn effeithio ar y sector celfyddydol yn unig. Maent hefyd yn cael effaith uniongyrchol ar lesiant a bywiogrwydd cymunedau a chymdeithas Cymru. Os ydym am fod o ddifrif ynghylch Deddf llesiant cenedlaethau'r dyfodol, rhaid neilltuo a diogelu cyllid ataliol i gefnogi'r celfyddydau. Mae diwylliant yn cyfrannu'n uniongyrchol at lesiant unigolion ac at fywiogrwydd ein cymunedau ledled Cymru. Felly, sut y bydd y Gweinidog yn gweithio ar draws portffolios i sicrhau bod diwylliant yn cael ei gydnabod fel rhan annatod o iechyd ataliol ar draws y Llywodraeth?",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=6159"
+        }
+      ],
+      "date": "2026-10-06",
+      "record_page_url": "https://record.senedd.wales/Plenary/16313"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771354",
+          "item_id": "item-16263-260923-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "cy",
+          "t_start": 258,
+          "text_english": "Parents and children across Rhondda Cynon Taf are concerned about the impact of the council's decisions, which is a Labour-led council, to make school transport as complex as possible for children who just want to know whether they're going to get to school safely. The impact of this decision is significant. It affects local people who can't get on the bus because it is full of school pupils on their way to school and pupil attendance has been gravely affected. More concerning still, children can't go to the school they want to go to, including Welsh-medium schools, because there are fewer buses available or because of changes to the terms of the Learner Travel (Wales) Measure 2008. Deputy Minister, will you make a statement today supporting parents in RCT who want to make the Labour-led council prioritise the safety of children?",
+          "text_original": "Mae rhieni a phlant ar draws Rhondda Cynon Taf yn pryderu am effeithiau penderfyniad y cyngor, sydd o dan arweiniad Llafur, i wneud cludiant ysgol mor gymhleth â phosib i blant sydd jest eisiau gofyn, 'A ydw i'n mynd i gyrraedd yr ysgol yn ddiogel?' Mae canlyniadau'r penderfyniad yma yn sylweddol. Mae'n effeithio ar bobl leol sydd ddim yn gallu mynd ar y bws oherwydd ei fod yn llawn disgyblion ar y ffordd i'r ysgol ac mae presenoldeb disgyblion yn yr ysgol wedi'i effeithio'n ddifrifol. Yn fwy pryderus byth, mae plant yn methu mynd i'r ysgol maen nhw eisiau, gan gynnwys ysgolion cyfrwng Cymraeg, oherwydd bod llai o fysiau ar gael neu oherwydd newidiadau i delerau'r Mesur Teithio gan Ddysgwyr (Cymru) 2008. Dirprwy Weinidog, a wnewch chi wneud datganiad heddiw yn cefnogi rhieni Rhondda Cynon Taf sydd am wneud i'r cyngor, sydd o dan arweiniad Llafur, flaenoriaethu diogelwch plant?",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=258"
+        },
+        {
+          "id": "contribution-771477",
+          "item_id": "item-16263-260923-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and Welsh Language",
+          "lang": "cy",
+          "t_start": 5489,
+          "text_english": "Welsh-medium education succeeds when every child learns in the way that's appropriate to them as individuals, of course. I have a grandson who's living with autism. He's in a Welsh-medium school and he's getting excellent support, I have to say—it's excellent and I'm very grateful for that. Unfortunately, not every family is in that same situation, because this isn't true across other areas in Wales. Having additional learning needs shouldn't mean that learners have to give up their right to Welsh-medium education. Every child and young person, whatever their needs, should be able to access the support and provision that they need through the medium of Welsh. So, will the Cabinet Minister provide an update on the Welsh Government's plans to ensure that additional learning needs provision through the medium of Welsh is just as accessible, inclusive and effective as the provision through the medium of English?",
+          "text_original": "Mae addysg Gymraeg yn llwyddo pan fydd pob plentyn yn dysgu yn y ffordd sydd yn addas iddyn nhw fel unigolion. Mae ŵyr gyda fi sydd yn byw gydag awtistiaeth. Mae mewn ysgol Gymraeg ac mae'n cael cefnogaeth ffantastig, mae'n rhaid imi ddweud—hollol wych—a dwi'n ddiolchgar iawn am hynny. Yn anffodus, dyw pob teulu ddim yn yr un sefyllfa, achos dyw hyn ddim yn wir mewn ardaloedd eraill yng Nghymru. Ni ddylai cael anghenion dysgu ychwanegol olygu bod yn rhaid i ddysgwyr roi'r gorau i'w hawl i gael addysg drwy'r Gymraeg. Dylai pob plentyn a pherson ifanc, beth bynnag fo'u hanghenion dysgu, allu cael mynediad at y cymorth a'r ddarpariaeth sydd eu hangen arnynt drwy gyfrwng y Gymraeg. Felly, a wnaiff Gweinidog y Cabinet roi'r wybodaeth ddiweddaraf am gynlluniau'r Llywodraeth i sicrhau bod darpariaeth anghenion dysgu ychwanegol drwy gyfrwng y Gymraeg yr un mor hygyrch, cynhwysfawr ac effeithiol â'r ddarpariaeth drwy gyfrwng y Saesneg?",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=5489"
+        }
+      ],
+      "date": "2026-09-23",
+      "record_page_url": "https://record.senedd.wales/Plenary/16263"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-770946",
+          "item_id": "item-16262-260922-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "cy",
+          "t_start": 7385,
+          "text_english": "Given the significant impact of storm Bert in November 2024, when the community centre in Aberfan and the leisure centre in Merthyr Tydfil opened their doors to support residents who had had to evacuate because of the destructive floods, many constituents across Pontypridd Cynon Merthyr are very concerned about the increasing risk of flooding over the coming winter. The Taff and Cynon rivers pose a serious threat to homes, businesses and community infrastructure. Given these concerns, I would like to ask for a statement from the Cabinet Minister for Rural Resilience and Sustainability outlining how the Welsh Government is strengthening Wales's preparedness for floods over the winter months. This should include details about current resilience planning, support at a community level, the readiness of infrastructure, and any additional measures being taken in order to safeguard areas that are at risk in our region. Given the scale of recent events, clarity and assurance for residents is crucial.",
+          "text_original": "Yn sgil effeithiau difrifol storm Bert ym mis Tachwedd 2024, pan agorodd canolfan gymunedol Aberfan a chanolfan hamdden Merthyr Tudful eu drysau i gefnogi trigolion a oedd wedi gorfod gwacáu yn ystod y llifogydd dinistriol, mae llawer o etholwyr ar draws Pontypridd Cynon Merthyr yn bryderus ynghylch risg gynyddol llifogydd dros y gaeaf sydd i ddod. Mae'r Afon Taf a'r Afon Cynon yn peri bygythiad sylweddol i gartrefi, busnesau ac isadeiledd cymunedol. O ystyried y pryderon hyn, hoffwn ofyn am ddatganiad gan y Gweinidog Cabinet dros Wydnwch Gwledig a Chynaliadwyedd yn amlinellu sut mae Llywodraeth Cymru yn cryfhau parodrwydd Cymru ar gyfer llifogydd dros gyfnod y gaeaf. Dylai hyn gynnwys manylion am gynllunio gwydnwch presennol, cefnogaeth ar lefel gymunedol, parodrwydd seilwaith, ac unrhyw fesurau ychwanegol sy'n cael eu cymryd i ddiogelu ardaloedd sydd mewn perygl yn ein rhanbarth. Gan ystyried maint y digwyddiadau diweddar, mae eglurder a sicrwydd i drigolion yn hanfodol.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=7385"
+        }
+      ],
+      "date": "2026-09-22",
+      "record_page_url": "https://record.senedd.wales/Plenary/16262"
+    },
     {
       "contributions": [
         {

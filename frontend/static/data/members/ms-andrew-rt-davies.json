@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,244 @@
   "canonical_name": "Andrew RT Davies",
   "constituency_name_cy": "Pen-y-bont Bro Morgannwg",
   "constituency_name_en": "Pen-y-bont Bro Morgannwg",
-  "contribution_count": 27,
+  "contribution_count": 47,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778415",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 2423,
+          "text_english": "Steve Bayliss highlighted the letter that you signed as leader of Plaid Cymru during the election campaign. There was a key ask in that letter, and it's stated quite simply: 'Honour agreed processes and upgrade all band 6 health visitors to band 7.' Do you still agree with that statement that you made back in April now that you're First Minister?",
+          "text_original": "Steve Bayliss highlighted the letter that you signed as leader of Plaid Cymru during the election campaign. There was a key ask in that letter, and it's stated quite simply: 'Honour agreed processes and upgrade all band 6 health visitors to band 7.' Do you still agree with that statement that you made back in April now that you're First Minister?",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=2423"
+        },
+        {
+          "id": "contribution-778542",
+          "item_id": "item-16315-261013-4",
+          "item_title_en": "4. Statement by the Cabinet Minister for Rural Resilience and Sustainability: Winter preparedness: Be flood ready",
+          "lang": "en",
+          "t_start": 9086,
+          "text_english": "Thank you, Minister, for your statement this afternoon. When I first got elected to this Chamber, I didn't think that one of the big things that I'd be dealing with right the way through the 19 years I've been a Member is flooding, to be honest with you, across the old South Wales Central region, from Merthyr Dyfan in Barry to Llantwit Major, to Pontypridd, to the Rhondda and the Cynon valley, as Vikki highlighted in her own constituency, and the devastating impact it has on households, but businesses as well, and the wider community, and the fear that it puts in people's minds that, when the next heavy rain comes, it could be them. That stench of sewage and foul water, as well as the personal items that sadly have to get discarded and left as rubbish on the side of the street, but are very personal and irreplaceable to the households who have lost them, is something that I, certainly as an elected Member, will never forget from the incidents that I've attended during my time as an elected Member.\n\nThat's why this statement is so important this afternoon about being prepared for the winter and what actions the new Government, in fairness, is taking and what assessments you, as a new Government, have taken of the previous Government's actions in this particular area. Because flood defences don't happen overnight. They are long-term projects that need to be planned, worked up and built. The first point I'd like to ask you, Minister, is this: you highlight £85 million is going into flood prevention measures, but what sort of scale are we talking about? What assessment have you made of the moneys that are needed to make a dent in the massive backlog of projects that are available to be built across Wales, to move more houses into flood-safe zones rather than remaining in flood-risk zones? Because £85 million, I accept, is a lot of money, but it is my understanding that a considerable amount more money is required for that, and we all know the difficulties that the finance Minister is finding in reconciling the figures that all departments are demanding at the moment.\n\nWe've also had the wildfires that struck in the summer, and many of the services that will be called on to deal with flooding incidents, should we see them in the winter, are the same organisations that have had their services called upon right the way through the summer. So, what assessment have you made as Minister of the resilience of those services to deal with the risk of floods going through the winter months, and, in particular, the working roles that they play working together, from the local authorities to the fire service to NRW, in making sure that they are in a position to respond accordingly? That is important as well from a Government point of view, because a lot of these responsibilities, such as the fire service, sit with the local government Minister, NRW sits with you, and then the finance Minister, who undoubtedly gets called for more resources on a financial footing, obviously has to make a call in that respect. How does the Government co-ordinate all that, so that there is a one-stop shop to make sure that you can respond in a timely manner, with financial help and also logistical help when it is required, and, in particular, the resilience of those services that have been called upon right the way through the summer and potentially could be called upon now in the winter to deal with many issues across Wales?\n\nI would also highlight the point that other Members have made, which is that only 27 per cent of houses are signed up to the NRW alerts. You touched on it in your statement that they've highlighted this fact and they've gone on a promotion campaign. The previous promotion campaigns clearly haven't worked if only 27 per cent—fewer than a third—of the houses that would benefit from that have signed up. What assessment have you made of the campaign that NRW are enacting across Wales to get more houses to sign up, so that those alerts can be received by the people who need them, and people can take the precautionary measures of moving valuable and personal items upstairs, and also take the building advice that's available out there about raising electrical fittings and sockets, so that they don't get damaged as badly if there is flooding, because that causes huge problems in the restoration work?\n\nAnd when it comes to insurance in particular, the scheme that is available for flood-risk properties is still available and should be available for the next 10 years, but that 10-year window will go very quickly. I notice in your manifesto that you did highlight how you would wish to lobby and work with the UK Government to make sure that there's a successor scheme in place. Well, if you're buying a house and you're in a flood-risk area, you haven't got a hope in hell of getting a mortgage unless you can get insurance. And if you're running a business, that insurance is critical to having confidence to invest in that business. So, could you highlight whether you have made any contact with the UK Government to support calls to make sure that that insurance scheme is available beyond the 10-year horizon that we can see at the moment? And, if you haven't done that, when will you be doing it?",
+          "text_original": "Thank you, Minister, for your statement this afternoon. When I first got elected to this Chamber, I didn't think that one of the big things that I'd be dealing with right the way through the 19 years I've been a Member is flooding, to be honest with you, across the old South Wales Central region, from Merthyr Dyfan in Barry to Llantwit Major, to Pontypridd, to the Rhondda and the Cynon valley, as Vikki highlighted in her own constituency, and the devastating impact it has on households, but businesses as well, and the wider community, and the fear that it puts in people's minds that, when the next heavy rain comes, it could be them. That stench of sewage and foul water, as well as the personal items that sadly have to get discarded and left as rubbish on the side of the street, but are very personal and irreplaceable to the households who have lost them, is something that I, certainly as an elected Member, will never forget from the incidents that I've attended during my time as an elected Member.\n\nThat's why this statement is so important this afternoon about being prepared for the winter and what actions the new Government, in fairness, is taking and what assessments you, as a new Government, have taken of the previous Government's actions in this particular area. Because flood defences don't happen overnight. They are long-term projects that need to be planned, worked up and built. The first point I'd like to ask you, Minister, is this: you highlight £85 million is going into flood prevention measures, but what sort of scale are we talking about? What assessment have you made of the moneys that are needed to make a dent in the massive backlog of projects that are available to be built across Wales, to move more houses into flood-safe zones rather than remaining in flood-risk zones? Because £85 million, I accept, is a lot of money, but it is my understanding that a considerable amount more money is required for that, and we all know the difficulties that the finance Minister is finding in reconciling the figures that all departments are demanding at the moment.\n\nWe've also had the wildfires that struck in the summer, and many of the services that will be called on to deal with flooding incidents, should we see them in the winter, are the same organisations that have had their services called upon right the way through the summer. So, what assessment have you made as Minister of the resilience of those services to deal with the risk of floods going through the winter months, and, in particular, the working roles that they play working together, from the local authorities to the fire service to NRW, in making sure that they are in a position to respond accordingly? That is important as well from a Government point of view, because a lot of these responsibilities, such as the fire service, sit with the local government Minister, NRW sits with you, and then the finance Minister, who undoubtedly gets called for more resources on a financial footing, obviously has to make a call in that respect. How does the Government co-ordinate all that, so that there is a one-stop shop to make sure that you can respond in a timely manner, with financial help and also logistical help when it is required, and, in particular, the resilience of those services that have been called upon right the way through the summer and potentially could be called upon now in the winter to deal with many issues across Wales?\n\nI would also highlight the point that other Members have made, which is that only 27 per cent of houses are signed up to the NRW alerts. You touched on it in your statement that they've highlighted this fact and they've gone on a promotion campaign. The previous promotion campaigns clearly haven't worked if only 27 per cent—fewer than a third—of the houses that would benefit from that have signed up. What assessment have you made of the campaign that NRW are enacting across Wales to get more houses to sign up, so that those alerts can be received by the people who need them, and people can take the precautionary measures of moving valuable and personal items upstairs, and also take the building advice that's available out there about raising electrical fittings and sockets, so that they don't get damaged as badly if there is flooding, because that causes huge problems in the restoration work?\n\nAnd when it comes to insurance in particular, the scheme that is available for flood-risk properties is still available and should be available for the next 10 years, but that 10-year window will go very quickly. I notice in your manifesto that you did highlight how you would wish to lobby and work with the UK Government to make sure that there's a successor scheme in place. Well, if you're buying a house and you're in a flood-risk area, you haven't got a hope in hell of getting a mortgage unless you can get insurance. And if you're running a business, that insurance is critical to having confidence to invest in that business. So, could you highlight whether you have made any contact with the UK Government to support calls to make sure that that insurance scheme is available beyond the 10-year horizon that we can see at the moment? And, if you haven't done that, when will you be doing it?",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=9086"
+        }
+      ],
+      "date": "2026-10-13",
+      "record_page_url": "https://record.senedd.wales/Plenary/16315"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776605",
+          "item_id": "item-16314-261007-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Health and Care",
+          "lang": "en",
+          "t_start": 2462,
+          "text_english": "Minister, the energy pressure that is affecting the whole economy is immense at the moment. The care and health sector are feeling those pressures more acutely than most, given the environment they work in, and especially in a rural setting, where fuel for hospital transport, for example, is a big component of delivering that service. In 2022, when we had the last energy spike, the then health Minister said that the health service and social care sector had just had an unexpected energy bill of £200 million plus because of the Ukrainian crisis. Are you seeing those sorts of figures feeding through because of the crisis in the gulf, given that they happened at virtually the same time of year, in the February of that year, and we're now in the autumn? And if that energy pressure is building, and costing that much money to the health and social care sector, are you making a request to the finance Minister to support health boards and social care providers to meet these energy costs, or will they be expected to use their budgets as allocated?",
+          "text_original": "Minister, the energy pressure that is affecting the whole economy is immense at the moment. The care and health sector are feeling those pressures more acutely than most, given the environment they work in, and especially in a rural setting, where fuel for hospital transport, for example, is a big component of delivering that service. In 2022, when we had the last energy spike, the then health Minister said that the health service and social care sector had just had an unexpected energy bill of £200 million plus because of the Ukrainian crisis. Are you seeing those sorts of figures feeding through because of the crisis in the gulf, given that they happened at virtually the same time of year, in the February of that year, and we're now in the autumn? And if that energy pressure is building, and costing that much money to the health and social care sector, are you making a request to the finance Minister to support health boards and social care providers to meet these energy costs, or will they be expected to use their budgets as allocated?",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=2462"
+        },
+        {
+          "id": "contribution-776740",
+          "item_id": "item-16314-261007-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
+          "lang": "en",
+          "t_start": 7360,
+          "text_english": "I refer Members to my declaration of interest. In the programme for government, Minister, there is a piece that talks of the Government looking at examining the permitted development rights and bringing into beneficial use redundant farm buildings for housing purposes. When councils are developing development plans, they require clear guidance from central Government so that those plans can be enacted and deliver the houses that many local communities are desperate to have. If that measure was introduced, that would have a big impact on freeing up redundant buildings for beneficial purposes and creating properties that people could live in in rural settings. It's already been enacted in many parts of the United Kingdom. When will the Welsh Government be giving that guidance to councils to bring forward those properties to be redeveloped out of redundant buildings that exist in the countryside?",
+          "text_original": "I refer Members to my declaration of interest. In the programme for government, Minister, there is a piece that talks of the Government looking at examining the permitted development rights and bringing into beneficial use redundant farm buildings for housing purposes. When councils are developing development plans, they require clear guidance from central Government so that those plans can be enacted and deliver the houses that many local communities are desperate to have. If that measure was introduced, that would have a big impact on freeing up redundant buildings for beneficial purposes and creating properties that people could live in in rural settings. It's already been enacted in many parts of the United Kingdom. When will the Welsh Government be giving that guidance to councils to bring forward those properties to be redeveloped out of redundant buildings that exist in the countryside?",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=7360"
+        },
+        {
+          "id": "contribution-776749",
+          "item_id": "item-16314-261007-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
+          "lang": "en",
+          "t_start": 7436,
+          "text_english": "Resilience.",
+          "text_original": "Resilience.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=7436"
+        }
+      ],
+      "date": "2026-10-07",
+      "record_page_url": "https://record.senedd.wales/Plenary/16314"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-775836",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 249,
+          "text_english": "You touched on the price of fuel, First Minister, and your desire to see the rural-proofing relief scheme activated again. Has your Government put any pressure on the UK Government to bring this forward in the budget that is going to come at the end of October? If you have, can you release that letter or whatever correspondence you've put in to support that? The Treasury model shows that anything between 20 per cent and 60 per cent is the sparsity premium that is put on the delivery of rural services, and help with the price of fuel will go a long way to relieving that pressure.",
+          "text_original": "You touched on the price of fuel, First Minister, and your desire to see the rural-proofing relief scheme activated again. Has your Government put any pressure on the UK Government to bring this forward in the budget that is going to come at the end of October? If you have, can you release that letter or whatever correspondence you've put in to support that? The Treasury model shows that anything between 20 per cent and 60 per cent is the sparsity premium that is put on the delivery of rural services, and help with the price of fuel will go a long way to relieving that pressure.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=249"
+        },
+        {
+          "id": "contribution-775980",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "5. How is the Cabinet Minister improving the delivery of the Government's policies? OQ64633",
+          "text_original": "5. Sut mae'r Gweinidog Cabinet yn gwella'r ffordd y mae polisïau'r Llywodraeth yn cael eu cyflawni? OQ64633",
+          "tv_url": "http://www.senedd.tv/en/16313"
+        },
+        {
+          "id": "contribution-775993",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "en",
+          "t_start": 5183,
+          "text_english": "Thank you, Minister. You highlighted there your priorities for delivery. During the election campaign, the now First Minister signed a letter that has been quoted many times in this Chamber regarding the health visitors' dispute in the Cwm Taf health board area. The key line in that letter was:\n\n'upgrade all Band 6 health visitors to Band 7'.\n\nThere's no ambiguity there. The First Minister put his name to that letter. How are you getting on in delivering that pledge, or wasn't it a pledge, and it was misleading in its kindest form and an outright lie in its cruellest form?",
+          "text_original": "Thank you, Minister. You highlighted there your priorities for delivery. During the election campaign, the now First Minister signed a letter that has been quoted many times in this Chamber regarding the health visitors' dispute in the Cwm Taf health board area. The key line in that letter was:\n\n'upgrade all Band 6 health visitors to Band 7'.\n\nThere's no ambiguity there. The First Minister put his name to that letter. How are you getting on in delivering that pledge, or wasn't it a pledge, and it was misleading in its kindest form and an outright lie in its cruellest form?",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=5183"
+        },
+        {
+          "id": "contribution-776000",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "en",
+          "t_start": 5227,
+          "text_english": "Well, have you delivered it?",
+          "text_original": "Well, have you delivered it?",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=5227"
+        },
+        {
+          "id": "contribution-776120",
+          "item_id": "item-16313-261006-4",
+          "item_title_en": "4. Statement by the Deputy Minister for Transport: Strategic Priorities for the Menai Strait Crossings and M4 around Newport",
+          "lang": "en",
+          "t_start": 10229,
+          "text_english": "Thank you for your statement, Deputy Minister, on the M4 relief road in particular. Can I ask two things? First, you talked about disruption while this work is ongoing. What level of disruption are motorists going to have to endure? Because at the moment the road is gridlocked most days and, at its worst, it can be gridlocked back to the Severn bridge, or to Cardiff Gate if you're travelling east. So, any potential disruption is going to have a devastating impact. And secondly, the really important thing here is capacity. The issue you've got here is that the modelling that was done for the inquiry into the black route showed an 18 per cent growth rate in traffic over 15 years. You've talked of a 10 per cent reduction. That's still an 8 per cent growth in traffic using the M4 as it's currently constructed, or as you've outlined today. The real issue here is not the failure of body politic, as you put it, to agree the solution; it's the Labour Party supported by your party's refusal to build the black route. Because if we had the black route, that capacity would be there and the economy of south Wales and the wider region would be doing so much better.",
+          "text_original": "Thank you for your statement, Deputy Minister, on the M4 relief road in particular. Can I ask two things? First, you talked about disruption while this work is ongoing. What level of disruption are motorists going to have to endure? Because at the moment the road is gridlocked most days and, at its worst, it can be gridlocked back to the Severn bridge, or to Cardiff Gate if you're travelling east. So, any potential disruption is going to have a devastating impact. And secondly, the really important thing here is capacity. The issue you've got here is that the modelling that was done for the inquiry into the black route showed an 18 per cent growth rate in traffic over 15 years. You've talked of a 10 per cent reduction. That's still an 8 per cent growth in traffic using the M4 as it's currently constructed, or as you've outlined today. The real issue here is not the failure of body politic, as you put it, to agree the solution; it's the Labour Party supported by your party's refusal to build the black route. Because if we had the black route, that capacity would be there and the economy of south Wales and the wider region would be doing so much better.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=10229"
+        }
+      ],
+      "date": "2026-10-06",
+      "record_page_url": "https://record.senedd.wales/Plenary/16313"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-773605",
+          "item_id": "item-16265-260930-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Rural Resilience and Sustainability",
+          "lang": "en",
+          "t_start": 4199,
+          "text_english": "Thank you, Deputy Presiding Officer. I like a fan next to me. [Laughter.]",
+          "text_original": "Thank you, Deputy Presiding Officer. I like a fan next to me. [Laughter.]",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=4199"
+        },
+        {
+          "id": "contribution-773601",
+          "item_id": "item-16265-260930-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Rural Resilience and Sustainability",
+          "lang": "en",
+          "t_start": 4208,
+          "text_english": "You announced at the Royal Welsh Show the national food strategy, which you have got a group working on at the moment, and I commend you for doing that, because it's something that has been missing. But it's really vital that both ends are joined up—the farm gate and the retailer selling to the consumer. Are you confident that you've got the mix right on that group? Because, when I look at the people on there, there doesn't seem to be a major retailer, who, at the end of the day, passes the bulk of the food on to the consumer. And I don't believe you've got a major processor on there either. And those are two key ingredients that are required to build a sustainable chain of supply here in Wales. I hope it'll be successful.\n\nAnd the other thing that is required is your ability to use legislation to drive improvements in public procurement and nutritional standards. You supported my colleague Peter Fox's Bill when it came to the floor of the Senedd. Will you commit today, as a Minister, that whatever the food strategy group recommends, and if it requires legislation to support those recommendations, you will pilot that through the Senedd as a Government Minister?",
+          "text_original": "You announced at the Royal Welsh Show the national food strategy, which you have got a group working on at the moment, and I commend you for doing that, because it's something that has been missing. But it's really vital that both ends are joined up—the farm gate and the retailer selling to the consumer. Are you confident that you've got the mix right on that group? Because, when I look at the people on there, there doesn't seem to be a major retailer, who, at the end of the day, passes the bulk of the food on to the consumer. And I don't believe you've got a major processor on there either. And those are two key ingredients that are required to build a sustainable chain of supply here in Wales. I hope it'll be successful.\n\nAnd the other thing that is required is your ability to use legislation to drive improvements in public procurement and nutritional standards. You supported my colleague Peter Fox's Bill when it came to the floor of the Senedd. Will you commit today, as a Minister, that whatever the food strategy group recommends, and if it requires legislation to support those recommendations, you will pilot that through the Senedd as a Government Minister?",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=4208"
+        },
+        {
+          "id": "contribution-773610",
+          "item_id": "item-16265-260930-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Rural Resilience and Sustainability",
+          "lang": "en",
+          "t_start": 4351,
+          "text_english": "I didn't hear you refer to the legislation, and I'd be grateful if you'd reply back to me on that, because, as I said, you did support the food Bill when it first came here. Sadly, the Government at the time rejected it. I think it's an important instrument to use to drive up nutritional standards and also local procurement.\n\nBut I'd also like to raise with you the point that I raised with you in committee the other day about the fertiliser tax that's coming in in January of this year. That could potentially be devastating to the ability to procure fertiliser to grow the crops for next year's harvest. And at a time when the uncertainty in the middle east is driving up fertiliser prices to double what they should be at this time of year for forward buying, it seems madness to me to actually introduce a fertiliser tax. Will you now lobby the Westminster Government—the point I made to you in committee—to hold that off for at least 12 months, as the National Farmers Union were asking, so that that situation, hopefully, in the middle east can get back to a sense of normality, so that that price pressure can come out of the system and farmers can purchase the fertiliser they need with confidence that there isn't this supertax being applied to it?",
+          "text_original": "I didn't hear you refer to the legislation, and I'd be grateful if you'd reply back to me on that, because, as I said, you did support the food Bill when it first came here. Sadly, the Government at the time rejected it. I think it's an important instrument to use to drive up nutritional standards and also local procurement.\n\nBut I'd also like to raise with you the point that I raised with you in committee the other day about the fertiliser tax that's coming in in January of this year. That could potentially be devastating to the ability to procure fertiliser to grow the crops for next year's harvest. And at a time when the uncertainty in the middle east is driving up fertiliser prices to double what they should be at this time of year for forward buying, it seems madness to me to actually introduce a fertiliser tax. Will you now lobby the Westminster Government—the point I made to you in committee—to hold that off for at least 12 months, as the National Farmers Union were asking, so that that situation, hopefully, in the middle east can get back to a sense of normality, so that that price pressure can come out of the system and farmers can purchase the fertiliser they need with confidence that there isn't this supertax being applied to it?",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=4351"
+        },
+        {
+          "id": "contribution-773692",
+          "item_id": "item-16265-260930-3",
+          "item_title_en": "3. Topical Questions",
+          "lang": "en",
+          "t_start": 7198,
+          "text_english": "Minister, the Veolia refinery in west Wales is classed by that company as a North American refinery for economic purposes. [Interruption.] Valero, sorry. If Trump brings forward his ban on diesel production coming over to the European market, and in particular the UK, have you had any conversations with Valero to understand what implications that would have for the refinery? Because that would have a devastating impact on the supply of diesel into the Welsh and UK market.",
+          "text_original": "Minister, the Veolia refinery in west Wales is classed by that company as a North American refinery for economic purposes. [Interruption.] Valero, sorry. If Trump brings forward his ban on diesel production coming over to the European market, and in particular the UK, have you had any conversations with Valero to understand what implications that would have for the refinery? Because that would have a devastating impact on the supply of diesel into the Welsh and UK market.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=7198"
+        },
+        {
+          "id": "contribution-773874",
+          "item_id": "item-16265-260930-8",
+          "item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+          "lang": "en",
+          "t_start": 17438,
+          "text_english": "Let's be absolutely clear about what we are talking about here today: we are talking about an industry that employs thousands of people across Wales, one that supports some of our most highly skilled jobs, and an industry that drives innovation, supports apprenticeships and contributes billions of pounds to our economy. And yet, at a time when the world is becoming increasingly volatile, we have a Welsh Government that is reluctant to engage in the opportunities that this sector presents. Some members of their own party have even been heard to say that we should move the arms industry out of Wales, because they do not want to have the guilt or the feeling of complicity in death.\n\nPlaid Cymru's approach risks weakening our defence industry at precisely the moment when we should be strengthening it. We cannot allow Wales and the United Kingdom to become vulnerable in a time of geopolitical instability. The Welsh Government's own figures tell us that the combined defence and aerospace sector directly employs around 16,000 people, with a turnover of £3.7 billion and approximately £1.5 billion in gross value added. And when we include security in space, these figures rise to around 18,500 people and £5 billion in turnover and £2 billion in GVA. These aren't insignificant figures. These numbers represent family apprenticeships, families paying their mortgages. They represent the very best of engineers, innovators, technicians and highly skilled workers who are contributing to Wales and the United Kingdom's safety.\n\nAnd we see that contribution in my own constituency of Bridgend and the Vale of Glamorgan. We have a proud tradition and history of contributing to Britain's defence sector and war effort. In the Vale, RAF St Athan played a major role during the second world war, training thousands of flight engineers, with more than 22,500 British Commonwealth and allied personnel passing through the site between 1941 and 1951. The area was also directly involved in the wartime scientific work, including radar research at St Athan, while Porthkerry Country Park in Barry was occupied by the British and American forces preparing for D-day. In Bridgend, the contribution was on an enormous industrial scale. The royal ordnance factory was one of the largest munition-filling factories in Britain during the second world war, and employed 40,000 people at its peak, making a major contribution to the production of ammunition and the war effort. That tradition of defence manufacturing continues today through businesses such as Spectrum Technologies in Bridgend, which designs and manufactures industrial laser systems for customers including the Ministry of Defence and the US Government Department of Defense. And as we heard from Darren a little earlier, IrvinGQ makes parachutes and ejector seats also in the constituency of Bridgend.\n\nFrom the factories and airfields of the second world war to the highly skilled defence manufacturing and aerospace businesses of today, Bridgend and the Vale have constantly played their part in keeping Britain safe. The defence sector provides skilled employment opportunities for our young people and supports a wider supply chain. That is why I welcome the work that is being done to develop the defence training college in Wales, because if we want young people to have opportunities, we need to give them the route into highly skilled careers. We know that there is a skills challenge across Wales, so we want to use the defence sector to address this skills challenge. Wales currently receives around 3 per cent of the UK Ministry of Defence expenditure. There is an opportunity to increase that, but we will not get that investment by turning our backs on the sector. And we certainly will not get it by allowing ideology to come before jobs, skills and economic interests of communities, such as my constituency in Bridgend and the Vale of Glamorgan. We should be ambitious for Wales. We should be saying to defence companies, 'Come to Wales, invest in Wales, employ Welsh workers, train Welsh apprenticeships and develop the technologies of tomorrow here in Wales', because supporting the defence sector means supporting our economy and building skills in the workforce across the whole of Wales, and we should be proud of that. And at a time when our allies are strengthening their defences and the threats facing the United Kingdom are becoming increasingly complex, Wales cannot afford to stand on the sidelines. We should be competing for that investment, we should be creating those jobs and we should be making sure that Wales plays its key role in keeping Britain safe. That is why I will be supporting today's motion and rejecting the Government amendment, and I urge all colleagues here this evening to do the same.",
+          "text_original": "Let's be absolutely clear about what we are talking about here today: we are talking about an industry that employs thousands of people across Wales, one that supports some of our most highly skilled jobs, and an industry that drives innovation, supports apprenticeships and contributes billions of pounds to our economy. And yet, at a time when the world is becoming increasingly volatile, we have a Welsh Government that is reluctant to engage in the opportunities that this sector presents. Some members of their own party have even been heard to say that we should move the arms industry out of Wales, because they do not want to have the guilt or the feeling of complicity in death.\n\nPlaid Cymru's approach risks weakening our defence industry at precisely the moment when we should be strengthening it. We cannot allow Wales and the United Kingdom to become vulnerable in a time of geopolitical instability. The Welsh Government's own figures tell us that the combined defence and aerospace sector directly employs around 16,000 people, with a turnover of £3.7 billion and approximately £1.5 billion in gross value added. And when we include security in space, these figures rise to around 18,500 people and £5 billion in turnover and £2 billion in GVA. These aren't insignificant figures. These numbers represent family apprenticeships, families paying their mortgages. They represent the very best of engineers, innovators, technicians and highly skilled workers who are contributing to Wales and the United Kingdom's safety.\n\nAnd we see that contribution in my own constituency of Bridgend and the Vale of Glamorgan. We have a proud tradition and history of contributing to Britain's defence sector and war effort. In the Vale, RAF St Athan played a major role during the second world war, training thousands of flight engineers, with more than 22,500 British Commonwealth and allied personnel passing through the site between 1941 and 1951. The area was also directly involved in the wartime scientific work, including radar research at St Athan, while Porthkerry Country Park in Barry was occupied by the British and American forces preparing for D-day. In Bridgend, the contribution was on an enormous industrial scale. The royal ordnance factory was one of the largest munition-filling factories in Britain during the second world war, and employed 40,000 people at its peak, making a major contribution to the production of ammunition and the war effort. That tradition of defence manufacturing continues today through businesses such as Spectrum Technologies in Bridgend, which designs and manufactures industrial laser systems for customers including the Ministry of Defence and the US Government Department of Defense. And as we heard from Darren a little earlier, IrvinGQ makes parachutes and ejector seats also in the constituency of Bridgend.\n\nFrom the factories and airfields of the second world war to the highly skilled defence manufacturing and aerospace businesses of today, Bridgend and the Vale have constantly played their part in keeping Britain safe. The defence sector provides skilled employment opportunities for our young people and supports a wider supply chain. That is why I welcome the work that is being done to develop the defence training college in Wales, because if we want young people to have opportunities, we need to give them the route into highly skilled careers. We know that there is a skills challenge across Wales, so we want to use the defence sector to address this skills challenge. Wales currently receives around 3 per cent of the UK Ministry of Defence expenditure. There is an opportunity to increase that, but we will not get that investment by turning our backs on the sector. And we certainly will not get it by allowing ideology to come before jobs, skills and economic interests of communities, such as my constituency in Bridgend and the Vale of Glamorgan. We should be ambitious for Wales. We should be saying to defence companies, 'Come to Wales, invest in Wales, employ Welsh workers, train Welsh apprenticeships and develop the technologies of tomorrow here in Wales', because supporting the defence sector means supporting our economy and building skills in the workforce across the whole of Wales, and we should be proud of that. And at a time when our allies are strengthening their defences and the threats facing the United Kingdom are becoming increasingly complex, Wales cannot afford to stand on the sidelines. We should be competing for that investment, we should be creating those jobs and we should be making sure that Wales plays its key role in keeping Britain safe. That is why I will be supporting today's motion and rejecting the Government amendment, and I urge all colleagues here this evening to do the same.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=17438"
+        }
+      ],
+      "date": "2026-09-30",
+      "record_page_url": "https://record.senedd.wales/Plenary/16265"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771495",
+          "item_id": "item-16263-260923-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and Welsh Language",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "5. What action is the Cabinet Minister taking to support school budgets in Pen-y-bont Bro Morgannwg? OQ64533",
+          "text_original": "5. Pa gamau y mae'r Gweinidog Cabinet yn eu cymryd i gefnogi cyllidebau ysgolion ym Mhen-y-bont Bro Morgannwg? OQ64533",
+          "tv_url": "http://www.senedd.tv/en/16263"
+        },
+        {
+          "id": "contribution-771498",
+          "item_id": "item-16263-260923-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and Welsh Language",
+          "lang": "en",
+          "t_start": 5665,
+          "text_english": "Minister, what are your asks of the finance Minister in supporting your portfolio? Many schools in Pen-y-bont Bro Morgannwg are in a deficit situation and are looking to you as a new Minister to secure additional funding in the current budget settlement round. So, could you identify, given your experience in the education sector, especially as a former representative of the National Association of Head Teachers, what your asks are of the finance Minister, so that headteachers can have confidence that they will see more resource in the new financial year?",
+          "text_original": "Minister, what are your asks of the finance Minister in supporting your portfolio? Many schools in Pen-y-bont Bro Morgannwg are in a deficit situation and are looking to you as a new Minister to secure additional funding in the current budget settlement round. So, could you identify, given your experience in the education sector, especially as a former representative of the National Association of Head Teachers, what your asks are of the finance Minister, so that headteachers can have confidence that they will see more resource in the new financial year?",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=5665"
+        }
+      ],
+      "date": "2026-09-23",
+      "record_page_url": "https://record.senedd.wales/Plenary/16263"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-770705",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "1. Will the First Minister provide an update on the Welsh Government's position on the Global Centre of Rail Excellence? OQ64526",
+          "text_original": "1. A wnaiff y Prif Weinidog roi diweddariad ar safbwynt Llywodraeth Cymru ar y Ganolfan Ragoriaeth Fyd-eang ar gyfer Rheilffyrdd? OQ64526",
+          "tv_url": "http://www.senedd.tv/en/16262"
+        },
+        {
+          "id": "contribution-770708",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 36,
+          "text_english": "Thank you for that update, First Minister. The Economy, Trade and Rural Affairs Committee in the last session visited the site and looked into the proposals that were presented to us. When this concept was first thought through, there was the potential for 1,000 jobs coming to the site, and the Government of the day was told that there was huge demand for this testing facility. Regrettably, to date, not £1 of private money has gone into it. It is a huge site. I saw a media report saying it's the size of Gibraltar. There's a lot of remediation work to go into it. The one thing we were told as a committee was that the incoming Government, whoever that Government would be, needed to make a quick decision about future investment. The site has burned through £70 million of public money to date. When will you be in the position to formulate what the Government is going to do, bearing in mind £70 million of public money has already gone in and £350 to £400 million is required to build this Global Centre of Rail Excellence?",
+          "text_original": "Thank you for that update, First Minister. The Economy, Trade and Rural Affairs Committee in the last session visited the site and looked into the proposals that were presented to us. When this concept was first thought through, there was the potential for 1,000 jobs coming to the site, and the Government of the day was told that there was huge demand for this testing facility. Regrettably, to date, not £1 of private money has gone into it. It is a huge site. I saw a media report saying it's the size of Gibraltar. There's a lot of remediation work to go into it. The one thing we were told as a committee was that the incoming Government, whoever that Government would be, needed to make a quick decision about future investment. The site has burned through £70 million of public money to date. When will you be in the position to formulate what the Government is going to do, bearing in mind £70 million of public money has already gone in and £350 to £400 million is required to build this Global Centre of Rail Excellence?",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=36"
+        },
+        {
+          "id": "contribution-771101",
+          "item_id": "item-16262-260922-6",
+          "item_title_en": "6. Statement by the Cabinet Minister for Rural Resilience and Sustainability: Update on the Deposit-return Scheme",
+          "lang": "en",
+          "t_start": 15664,
+          "text_english": "Thank you, Minister, for your statement this afternoon. We on these benches do not believe that glass should be included in this scheme. It has been a position we've taken for a long time and we just think it complicates the situation and adds confusion to it. One thing that has to be crystal clear about any recycling scheme is that people have to understand it and buy into it, and the more you can simplify it, surely the better that has to be.\n\nAs someone who used to come down the link road into Cardiff Bay and see the massive landfill site that is by Grangetown there, one can really appreciate the steps that have been taken in recent years to make recycling an integral part of what we now all do, and the industry that's been built up in recycling and reusing the products that we use in our everyday lives. That makes perfect sense, and it's something we should embrace. I commend the previous Government for what it did in getting the recycling rates up. But I fail to see why the Government wants to carry on penalising the hospitality sector and bringing glass within the orbit of this scheme that it's proposing. I know you touched on it in your response to the Labour spokesperson, but given that there was a 10-week delay in announcing the operator of the scheme, how are you going to catch up that 10 weeks, nearly three months, between now and next October, which is due to be the start date, to make sure that it does go live in October next year?\n\nThe other thing that is really important is providing clarity on how the interaction between DRS and EPR will work. An exemption from the EPR fees for glass containers in the scope of the DRS is an essential precursor to the inclusion of glass. Although the Welsh Government have committed to this, they are yet to determine how the exemption will work in practice. This is particularly challenging given the difficulty in tracking where the container will end up for sale at the point it is placed on the market, as well as the different ways the producer fees for DRS and EPR fees are calculated, by unit or by weight. So, can you offer some clarity on that point, please, Minister?\n\nAnd then there's resolving the regulatory uncertainty of the reuse. The reuse targets included within the regulations for the DRS are not currently compatible with the United Kingdom Internal Market Act 2020, given that the exemption of this was not granted. How are you going to overcome that particular aspect? Because you need to be compliant with the UK Act, otherwise you're going to be in the same position as Scotland found itself in. And maintaining accountability for post-transition periods. The transition period for glass, were it a 0 per cent deposit, is applied and there are no additional labelling requirements, which will end in 2031. At this point, a number of issues will come to the fore, including how the return of glass containers is managed within hospitality, the risk of fraud, of glass containers sold in other parts of the United Kingdom being redeemed here in Wales, the additional cost incurred by producers for other rolled-out glass return points, and how the aforementioned reuse targets will work in practice. So, some clarity on that. While you've got the four-year grace period, I think it's really important that we understand how this will be implemented after that four-year period.\n\nAnd there's the impact on hospitality, which is critical. We hear week in, week out people in this Chamber talking about the pressure in the hospitality sector in their own constituencies. We must ensure that pubs and bars and other hospitality venues are fully considered within the implementation plans, particularly given the cliff edge of 2031. The Welsh Government must address operational impact specific to hospitality businesses, which have not always been adequately reflected in the policy development to date. How are you taking the hospitality sector with you, Minister?",
+          "text_original": "Thank you, Minister, for your statement this afternoon. We on these benches do not believe that glass should be included in this scheme. It has been a position we've taken for a long time and we just think it complicates the situation and adds confusion to it. One thing that has to be crystal clear about any recycling scheme is that people have to understand it and buy into it, and the more you can simplify it, surely the better that has to be.\n\nAs someone who used to come down the link road into Cardiff Bay and see the massive landfill site that is by Grangetown there, one can really appreciate the steps that have been taken in recent years to make recycling an integral part of what we now all do, and the industry that's been built up in recycling and reusing the products that we use in our everyday lives. That makes perfect sense, and it's something we should embrace. I commend the previous Government for what it did in getting the recycling rates up. But I fail to see why the Government wants to carry on penalising the hospitality sector and bringing glass within the orbit of this scheme that it's proposing. I know you touched on it in your response to the Labour spokesperson, but given that there was a 10-week delay in announcing the operator of the scheme, how are you going to catch up that 10 weeks, nearly three months, between now and next October, which is due to be the start date, to make sure that it does go live in October next year?\n\nThe other thing that is really important is providing clarity on how the interaction between DRS and EPR will work. An exemption from the EPR fees for glass containers in the scope of the DRS is an essential precursor to the inclusion of glass. Although the Welsh Government have committed to this, they are yet to determine how the exemption will work in practice. This is particularly challenging given the difficulty in tracking where the container will end up for sale at the point it is placed on the market, as well as the different ways the producer fees for DRS and EPR fees are calculated, by unit or by weight. So, can you offer some clarity on that point, please, Minister?\n\nAnd then there's resolving the regulatory uncertainty of the reuse. The reuse targets included within the regulations for the DRS are not currently compatible with the United Kingdom Internal Market Act 2020, given that the exemption of this was not granted. How are you going to overcome that particular aspect? Because you need to be compliant with the UK Act, otherwise you're going to be in the same position as Scotland found itself in. And maintaining accountability for post-transition periods. The transition period for glass, were it a 0 per cent deposit, is applied and there are no additional labelling requirements, which will end in 2031. At this point, a number of issues will come to the fore, including how the return of glass containers is managed within hospitality, the risk of fraud, of glass containers sold in other parts of the United Kingdom being redeemed here in Wales, the additional cost incurred by producers for other rolled-out glass return points, and how the aforementioned reuse targets will work in practice. So, some clarity on that. While you've got the four-year grace period, I think it's really important that we understand how this will be implemented after that four-year period.\n\nAnd there's the impact on hospitality, which is critical. We hear week in, week out people in this Chamber talking about the pressure in the hospitality sector in their own constituencies. We must ensure that pubs and bars and other hospitality venues are fully considered within the implementation plans, particularly given the cliff edge of 2031. The Welsh Government must address operational impact specific to hospitality businesses, which have not always been adequately reflected in the policy development to date. How are you taking the hospitality sector with you, Minister?",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=15664"
+        }
+      ],
+      "date": "2026-09-22",
+      "record_page_url": "https://record.senedd.wales/Plenary/16262"
+    },
     {
       "contributions": [
         {

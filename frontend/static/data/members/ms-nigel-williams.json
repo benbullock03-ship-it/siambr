@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,118 @@
   "canonical_name": "Nigel Williams",
   "constituency_name_cy": "Fflint Wrecsam",
   "constituency_name_en": "Fflint Wrecsam",
-  "contribution_count": 14,
+  "contribution_count": 22,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778413",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "7. What action is the Welsh Government taking to ensure that patients in north-east Wales who rely on NHS services in England receive timely treatment, effective information sharing and clear accountability? OQ64687",
+          "text_original": "7. Pa gamau mae Llywodraeth Cymru yn eu cymryd i sicrhau bod cleifion yng ngogledd-ddwyrain Cymru sy'n dibynnu ar wasanaethau'r GIG yn Lloegr yn cael triniaeth amserol, y caiff gwybodaeth ei rhannu'n effeithiol, a bod atebolrwydd clir? OQ64687",
+          "tv_url": "http://www.senedd.tv/en/16315"
+        },
+        {
+          "id": "contribution-778419",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 3065,
+          "text_english": "Diolch, First Minister. In Fflint Wrecsam, cross-border healthcare is an everyday reality. The Health and Social Care Committee heard evidence a couple of weeks ago that patients can face different waiting time arrangements depending on which side of the border they are treated, that some are left chasing records, test results and appointments themselves, and that there are concerns Welsh patients could become invisible as the NHS in England restructures.\n\nSo, with more than 13,000 Welsh patients registered with English general practitioners and over 20,000 English patients registered with Welsh GPs, what concrete assurances can you give that cross-border patients will not face longer waits, poorer co-ordination or unclear accountability when things go wrong? And will your Government commit to publishing regular data on cross-border waiting times, complaints and patient outcomes so that patients don't fall through the gaps?",
+          "text_original": "Diolch, First Minister. In Fflint Wrecsam, cross-border healthcare is an everyday reality. The Health and Social Care Committee heard evidence a couple of weeks ago that patients can face different waiting time arrangements depending on which side of the border they are treated, that some are left chasing records, test results and appointments themselves, and that there are concerns Welsh patients could become invisible as the NHS in England restructures.\n\nSo, with more than 13,000 Welsh patients registered with English general practitioners and over 20,000 English patients registered with Welsh GPs, what concrete assurances can you give that cross-border patients will not face longer waits, poorer co-ordination or unclear accountability when things go wrong? And will your Government commit to publishing regular data on cross-border waiting times, complaints and patient outcomes so that patients don't fall through the gaps?",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=3065"
+        }
+      ],
+      "date": "2026-10-13",
+      "record_page_url": "https://record.senedd.wales/Plenary/16315"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776758",
+          "item_id": "item-16314-261007-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
+          "lang": "en",
+          "t_start": 7133,
+          "text_english": "Minister, if community engagement is to mean anything, residents in communities across Flint and Wrexham must see their local voices genuinely reflected on the ground. I want to take what Sarah Edwards, my colleague, said a little bit further. So, will the Minister ensure that locally prepared place plans and town plans are given full weight in the planning process and that area-wide infrastructure improvements, such as road networks, GP capacity and school places, are fully costed and funded before large-scale housing is approved? I just want to give an example of a place in my area where there is huge development, which is Oakenholt, where there are lots of houses being built, but the GP capacity is really under pressure because of that. It was something that my colleague Ben Hodge McKenna mentioned before. So, furthermore, does the Minister agree that, where vital local infrastructure cannot be guaranteed, local planning authorities should have the backing of the Welsh Government to refuse applications? Diolch, Lywydd.",
+          "text_original": "Minister, if community engagement is to mean anything, residents in communities across Flint and Wrexham must see their local voices genuinely reflected on the ground. I want to take what Sarah Edwards, my colleague, said a little bit further. So, will the Minister ensure that locally prepared place plans and town plans are given full weight in the planning process and that area-wide infrastructure improvements, such as road networks, GP capacity and school places, are fully costed and funded before large-scale housing is approved? I just want to give an example of a place in my area where there is huge development, which is Oakenholt, where there are lots of houses being built, but the GP capacity is really under pressure because of that. It was something that my colleague Ben Hodge McKenna mentioned before. So, furthermore, does the Minister agree that, where vital local infrastructure cannot be guaranteed, local planning authorities should have the backing of the Welsh Government to refuse applications? Diolch, Lywydd.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=7133"
+        }
+      ],
+      "date": "2026-10-07",
+      "record_page_url": "https://record.senedd.wales/Plenary/16314"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776165",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "9. What action is the Cabinet Minister taking to ensure that the Government is able to deliver its priorities for the people of Wales? OQ64613",
+          "text_original": "9. Pa gamau y mae'r Gweinidog Cabinet yn eu cymryd i sicrhau bod y Llywodraeth yn gallu cyflawni ei blaenoriaethau i bobl Cymru? OQ64613",
+          "tv_url": "http://www.senedd.tv/en/16313"
+        },
+        {
+          "id": "contribution-776006",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "en",
+          "t_start": 5257,
+          "text_english": "Cabinet Secretary, before entering this Senedd, I served our communities as a police officer, a teacher and I worked in the NHS. And I now see daily the immense pressures on hospitals, care homes, schools, businesses and front-line staff, especially in my constituency of Fflint Wrecsam. Our communities are closely linked, as you know, with Chester, Merseyside and the wider north-west, and people want practical improvements, not further constitutional distraction. Can you explain how this Government can claim to be effective if time and civil service capacity are spent pursuing constitutional ambitions while front-line public services remain under so much pressure in the area? Thank you.",
+          "text_original": "Cabinet Secretary, before entering this Senedd, I served our communities as a police officer, a teacher and I worked in the NHS. And I now see daily the immense pressures on hospitals, care homes, schools, businesses and front-line staff, especially in my constituency of Fflint Wrecsam. Our communities are closely linked, as you know, with Chester, Merseyside and the wider north-west, and people want practical improvements, not further constitutional distraction. Can you explain how this Government can claim to be effective if time and civil service capacity are spent pursuing constitutional ambitions while front-line public services remain under so much pressure in the area? Thank you.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=5257"
+        }
+      ],
+      "date": "2026-10-06",
+      "record_page_url": "https://record.senedd.wales/Plenary/16313"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-773733",
+          "item_id": "item-16265-260930-6",
+          "item_title_en": "5. Member Debate under Standing Order 11.21(iv): Contaminated land",
+          "lang": "en",
+          "t_start": 9974,
+          "text_english": "My thanks to Niamh for brining this motion forward. I speak in strong support of this motion, but, more importantly, to inject some practical, commonsense and local reality into a debate that goes straight to the heart of public health in Wales, and local accountability right across Wales too. I'd also like to thank Ken Skates for what he said about our area. As Ken knows, we live in one of the most heavily industrialised areas in north Wales, and it's got a huge historical legacy. I'll tell you about that in a moment.\n\nWhat's buried under our soil doesn't simply disappear. Historic industrial pollution poses severe, as we've mentioned already, long-term risks to human health, animal welfare and our waterways, and the families living along those waterways too. My constituency, and that of Ken Skates and other people here within this Senedd, of Fflint Wrecsam goes right along the Dee estuary, and the industrial legacy is not an abstract concept there. And actually, dare I say it, it's not some inane lines in some academic briefing either. It's something we walk along and we see every day.\n\nLet me tell you, I worked, years ago, as a beach guard, in a former life, as it were, a long time ago. I walked along the Dee estuary, along what's called the marsh there, from Flint castle all the way towards the steelworks. There was lots of industry along there. But one particular area used to be the site of Glanzstoff chemical works. Some people know about this. When I was a beach guard, I can remember walking there, and there were colours within the soil—there were pinks, oranges, awful alkalinity—which are there still to this day. So, if there's one thing I'd like to mention today, it's that that is a place they could look at, because you only have to take one dig with a shovel, and suddenly you've got bright colours. It looks fantastic, although it's covered in grass now, but underneath, it's a huge, awful legacy to the health of the people of the area. And worse still, it leaches straight into the river there, so that's awful.\n\nThe other thing I'd like to mention is if you cycle along the cycleway there—and Ken will probably tell you that, as well—at one stage there are pipes coming out of the ground where the old tip used to be. That's a real worry to those people in the area. So, I'd like to note this here today: make sure that people take that on board. And those are just two areas, to be honest. There's Courtaulds works that was there, there's the steelworks that was there. Lots of stuff has been dumped along that area. And places like this exist all over Wales.\n\nA failure of national oversight is exactly what has been highlighted recently in the press and before the Welsh Affairs Committee, following investigations, as we've mentioned here today, by the BBC's Buried series. Analysis shows that, across Wales, there are tens of thousands of potentially contaminated sites and hundreds of areas that are classed as high risk. Yet the vast majority remain untested—as people have said—unmapped, and unmanaged. Hopefully, I've managed to map a couple of those places today. We can't continue with a postcode lottery where local councils and hard-pressed taxpayers are left holding the financial baby for historic industrial liabilities. Crucially, whilst we address the past, we must also stop creating tomorrow's contaminated land today. That's really important. That's why practical modern waste management and infrastructure is vital.\n\nA couple of weeks ago, some of us visited the Enfinium Parc Adfer energy from waste facility on Deeside industrial park. Several people, I think, have been there, actually. There was a bit of historic apprehension to that facility because it was a bit concerning that it was regarded as an incinerator—'What would go into the skies?' We had no idea, really. But, having been there, the stewardship is absolutely fantastic, and stops, if you like, waste now being dumped into the environment, as we've seen in the past. I'd like to praise that company from here now. That's absolutely brilliant. That's what I would call practical environmentalism in action: dealing with unavoidable waste cleanly and domestically rather than burying liabilities or shipping waste overseas, which we've seen a lot of in recent times.\n\nTurning directly to the motion before us, I fully endorse the core principles as set out: acknowledging the severe risks to human and animal health, recognising that liabilities fall unfairly on local communities, admitting the glaring absence of a clear national picture, addressing community uncertainty, and enforcing the vital polluter-pays principle so that the commercial polluters are made to pay wherever possible. But obviously, historically, that's not possible either.\n\nI also acknowledge the work already undertaken by our local authorities and Natural Resources Wales under very difficult circumstances at times. Waste seems to be everywhere at times. Crucially, I support the calls to Government. Firstly, the Welsh Government must work with the UK Government to ensure polluters pay and introduce a dedicated ring-fenced funding mechanism to remediate historic sites where costs cannot be recovered from defunct operators.\n\nSecondly, and most importantly, we must establish a comprehensive national framework for the testing and assessment of potentially contaminated land, prioritising those sites that pose the greatest risk, such as the areas I've just mentioned now, especially when they're leaching into our waterways, and provide real, tangible support to our local authorities so that they can finally fulfil their statutory responsibilities. We cannot leave local councils, our communities, and our taxpayers, more importantly, facing the costs and health hazards of pollution they did not cause—",
+          "text_original": "My thanks to Niamh for brining this motion forward. I speak in strong support of this motion, but, more importantly, to inject some practical, commonsense and local reality into a debate that goes straight to the heart of public health in Wales, and local accountability right across Wales too. I'd also like to thank Ken Skates for what he said about our area. As Ken knows, we live in one of the most heavily industrialised areas in north Wales, and it's got a huge historical legacy. I'll tell you about that in a moment.\n\nWhat's buried under our soil doesn't simply disappear. Historic industrial pollution poses severe, as we've mentioned already, long-term risks to human health, animal welfare and our waterways, and the families living along those waterways too. My constituency, and that of Ken Skates and other people here within this Senedd, of Fflint Wrecsam goes right along the Dee estuary, and the industrial legacy is not an abstract concept there. And actually, dare I say it, it's not some inane lines in some academic briefing either. It's something we walk along and we see every day.\n\nLet me tell you, I worked, years ago, as a beach guard, in a former life, as it were, a long time ago. I walked along the Dee estuary, along what's called the marsh there, from Flint castle all the way towards the steelworks. There was lots of industry along there. But one particular area used to be the site of Glanzstoff chemical works. Some people know about this. When I was a beach guard, I can remember walking there, and there were colours within the soil—there were pinks, oranges, awful alkalinity—which are there still to this day. So, if there's one thing I'd like to mention today, it's that that is a place they could look at, because you only have to take one dig with a shovel, and suddenly you've got bright colours. It looks fantastic, although it's covered in grass now, but underneath, it's a huge, awful legacy to the health of the people of the area. And worse still, it leaches straight into the river there, so that's awful.\n\nThe other thing I'd like to mention is if you cycle along the cycleway there—and Ken will probably tell you that, as well—at one stage there are pipes coming out of the ground where the old tip used to be. That's a real worry to those people in the area. So, I'd like to note this here today: make sure that people take that on board. And those are just two areas, to be honest. There's Courtaulds works that was there, there's the steelworks that was there. Lots of stuff has been dumped along that area. And places like this exist all over Wales.\n\nA failure of national oversight is exactly what has been highlighted recently in the press and before the Welsh Affairs Committee, following investigations, as we've mentioned here today, by the BBC's Buried series. Analysis shows that, across Wales, there are tens of thousands of potentially contaminated sites and hundreds of areas that are classed as high risk. Yet the vast majority remain untested—as people have said—unmapped, and unmanaged. Hopefully, I've managed to map a couple of those places today. We can't continue with a postcode lottery where local councils and hard-pressed taxpayers are left holding the financial baby for historic industrial liabilities. Crucially, whilst we address the past, we must also stop creating tomorrow's contaminated land today. That's really important. That's why practical modern waste management and infrastructure is vital.\n\nA couple of weeks ago, some of us visited the Enfinium Parc Adfer energy from waste facility on Deeside industrial park. Several people, I think, have been there, actually. There was a bit of historic apprehension to that facility because it was a bit concerning that it was regarded as an incinerator—'What would go into the skies?' We had no idea, really. But, having been there, the stewardship is absolutely fantastic, and stops, if you like, waste now being dumped into the environment, as we've seen in the past. I'd like to praise that company from here now. That's absolutely brilliant. That's what I would call practical environmentalism in action: dealing with unavoidable waste cleanly and domestically rather than burying liabilities or shipping waste overseas, which we've seen a lot of in recent times.\n\nTurning directly to the motion before us, I fully endorse the core principles as set out: acknowledging the severe risks to human and animal health, recognising that liabilities fall unfairly on local communities, admitting the glaring absence of a clear national picture, addressing community uncertainty, and enforcing the vital polluter-pays principle so that the commercial polluters are made to pay wherever possible. But obviously, historically, that's not possible either.\n\nI also acknowledge the work already undertaken by our local authorities and Natural Resources Wales under very difficult circumstances at times. Waste seems to be everywhere at times. Crucially, I support the calls to Government. Firstly, the Welsh Government must work with the UK Government to ensure polluters pay and introduce a dedicated ring-fenced funding mechanism to remediate historic sites where costs cannot be recovered from defunct operators.\n\nSecondly, and most importantly, we must establish a comprehensive national framework for the testing and assessment of potentially contaminated land, prioritising those sites that pose the greatest risk, such as the areas I've just mentioned now, especially when they're leaching into our waterways, and provide real, tangible support to our local authorities so that they can finally fulfil their statutory responsibilities. We cannot leave local councils, our communities, and our taxpayers, more importantly, facing the costs and health hazards of pollution they did not cause—",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=9974"
+        },
+        {
+          "id": "contribution-773738",
+          "item_id": "item-16265-260930-6",
+          "item_title_en": "5. Member Debate under Standing Order 11.21(iv): Contaminated land",
+          "lang": "en",
+          "t_start": 10348,
+          "text_english": "Okay. Sorry. We need a clear national picture, systematic testing, dedicated funding and urgent action where the danger is greatest. Diolch yn fawr. Thank you very much.",
+          "text_original": "Okay. Sorry. We need a clear national picture, systematic testing, dedicated funding and urgent action where the danger is greatest. Diolch yn fawr. Thank you very much.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=10348"
+        }
+      ],
+      "date": "2026-09-30",
+      "record_page_url": "https://record.senedd.wales/Plenary/16265"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-772808",
+          "item_id": "item-16264-260929-2",
+          "item_title_en": "1. Nominations for a Committee Chair",
+          "lang": "en",
+          "t_start": 159,
+          "text_english": "Can I propose Cristiana Emsley?",
+          "text_original": "Can I propose Cristiana Emsley?",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=159"
+        }
+      ],
+      "date": "2026-09-29",
+      "record_page_url": "https://record.senedd.wales/Plenary/16264"
+    },
     {
       "contributions": [
         {

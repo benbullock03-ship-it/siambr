@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,86 @@
   "canonical_name": "Lindsay Whittle",
   "constituency_name_cy": "Blaenau Gwent Caerffili Rhymni",
   "constituency_name_en": "Blaenau Gwent Caerffili Rhymni",
-  "contribution_count": 14,
+  "contribution_count": 20,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-773538",
+          "item_id": "item-16265-260930-1",
+          "item_title_en": "1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "4. What assessment has the Cabinet Minister made of the impact of the closure of Caerphilly post office? OQ64598",
+          "text_original": "4. Pa asesiad y mae'r Gweinidog Cabinet wedi'i wneud o effaith cau swyddfa bost Caerffili? OQ64598",
+          "tv_url": "http://www.senedd.tv/en/16265"
+        },
+        {
+          "id": "contribution-773541",
+          "item_id": "item-16265-260930-1",
+          "item_title_en": "1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice",
+          "lang": "en",
+          "t_start": 2210,
+          "text_english": "Minister, can I thank you for your response? I, along with the leader of Caerphilly County Borough Council, have taken part in direct meetings with the Post Office to secure a suitable replacement in the town centre, but we are encountering a wall of excuses. The reason given by the Post Office as to why alternative sites are unsuitable do not stack up, because the excuse is that they are simply unsuitable—one site, across the road from the post office that had been there, to my knowledge, for at least 73 years, was because there is unsuitable parking. Minister, can I please ask you if you could commit to making direct representations to the Post Office executive to challenge these reasons for site rejections? We do need transparency on when the town centre will finally get its service back. I do feel that if the local Senedd Member—sorry, one of the local Senedd Members—and the leader of council can't get answers, I'm sure, they may listen to you, Minister. I know that I certainly would. [Laughter.]",
+          "text_original": "Minister, can I thank you for your response? I, along with the leader of Caerphilly County Borough Council, have taken part in direct meetings with the Post Office to secure a suitable replacement in the town centre, but we are encountering a wall of excuses. The reason given by the Post Office as to why alternative sites are unsuitable do not stack up, because the excuse is that they are simply unsuitable—one site, across the road from the post office that had been there, to my knowledge, for at least 73 years, was because there is unsuitable parking. Minister, can I please ask you if you could commit to making direct representations to the Post Office executive to challenge these reasons for site rejections? We do need transparency on when the town centre will finally get its service back. I do feel that if the local Senedd Member—sorry, one of the local Senedd Members—and the leader of council can't get answers, I'm sure, they may listen to you, Minister. I know that I certainly would. [Laughter.]",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=2210"
+        }
+      ],
+      "date": "2026-09-30",
+      "record_page_url": "https://record.senedd.wales/Plenary/16265"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771535",
+          "item_id": "item-16263-260923-3",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "3. What assessment has the Commission made of the impact of the ongoing backlog of payments from the Civil Service Pension Scheme on its current and former employees? OQ64546",
+          "text_original": "3. Pa asesiad y mae'r Comisiwn wedi'i wneud o effaith yr ôl-groniad parhaus o daliadau o Gynllun Pensiwn y Gwasanaeth Sifil ar ei gyflogeion presennol a chyn-gyflogeion? OQ64546",
+          "tv_url": "http://www.senedd.tv/en/16263"
+        },
+        {
+          "id": "contribution-771541",
+          "item_id": "item-16263-260923-3",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 6778,
+          "text_english": "Thank you, Commissioner. I have been contacted by three constituents—probably three of the five—regarding the unacceptable and worrying delays and backlogs they're dealing with from Capita, the managing company of the civil service pension scheme. Capita has issued a statement saying that they have everything in place to begin clearing the backlog. However, they will not provide a timeline for when every case will be cleared, nor will they provide a date for my constituents on their individual cases, and that is important. I've met people who have worked all their lives in the service of the public, and they now face serious financial hardship. They shouldn't have to go for financial loans at that time of life because their public pensions, of course, were outsourced to a private company unable, let's be honest, to manage those pensions. Has the Commission had any discussions with the Cabinet Office in Westminster or the civil service pension scheme regarding the retired former employees from the Senedd? And if not, can you please commit to doing this?",
+          "text_original": "Thank you, Commissioner. I have been contacted by three constituents—probably three of the five—regarding the unacceptable and worrying delays and backlogs they're dealing with from Capita, the managing company of the civil service pension scheme. Capita has issued a statement saying that they have everything in place to begin clearing the backlog. However, they will not provide a timeline for when every case will be cleared, nor will they provide a date for my constituents on their individual cases, and that is important. I've met people who have worked all their lives in the service of the public, and they now face serious financial hardship. They shouldn't have to go for financial loans at that time of life because their public pensions, of course, were outsourced to a private company unable, let's be honest, to manage those pensions. Has the Commission had any discussions with the Cabinet Office in Westminster or the civil service pension scheme regarding the retired former employees from the Senedd? And if not, can you please commit to doing this?",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=6778"
+        }
+      ],
+      "date": "2026-09-23",
+      "record_page_url": "https://record.senedd.wales/Plenary/16263"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-770807",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "9. How will the Welsh Government ensure that women can access opportunities in major growth sectors, including advanced manufacturing, clean energy, and information technology? OQ64494",
+          "text_original": "9. Sut y bydd Llywodraeth Cymru yn sicrhau bod menywod yn gallu cael mynediad at gyfleoedd mewn sectorau twf mawr, gan gynnwys gweithgynhyrchu uwch, ynni glân, a thechnoleg gwybodaeth? OQ64494",
+          "tv_url": "http://www.senedd.tv/en/16262"
+        },
+        {
+          "id": "contribution-770812",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 3469,
+          "text_english": "First Minister, thank you for that answer. I welcome the Welsh Government's focus on growth sectors and its commitment to fairness in the workplace. But to ensure, in the Valleys that I represent, that women directly benefit from these opportunities, could you expand any further on how you will agree to work alongside local authorities and industry partners to explore the targeted apprenticeship pathways for women in our former coalfield Valleys, please?",
+          "text_original": "First Minister, thank you for that answer. I welcome the Welsh Government's focus on growth sectors and its commitment to fairness in the workplace. But to ensure, in the Valleys that I represent, that women directly benefit from these opportunities, could you expand any further on how you will agree to work alongside local authorities and industry partners to explore the targeted apprenticeship pathways for women in our former coalfield Valleys, please?",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=3469"
+        }
+      ],
+      "date": "2026-09-22",
+      "record_page_url": "https://record.senedd.wales/Plenary/16262"
+    },
     {
       "contributions": [
         {

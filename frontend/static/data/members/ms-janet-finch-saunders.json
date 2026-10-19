@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,228 @@
   "canonical_name": "Janet Finch-Saunders",
   "constituency_name_cy": "Bangor Conwy Môn",
   "constituency_name_en": "Bangor Conwy Môn",
-  "contribution_count": 47,
+  "contribution_count": 66,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778489",
+          "item_id": "item-16315-261013-2",
+          "item_title_en": "2. Business Statement and Announcement",
+          "lang": "cy",
+          "t_start": 5294,
+          "text_english": "Thank you, Llywydd. I would like to request a statement from the Cabinet Minister for Health and Care on how they are working to eradicate scabies in Wales. Over the last month, we have seen two hospitals close wards due to the presence of Norwegian scabies. The number of cases of scabies in Wales has increased from 1,300 in 2018-19 to over 12,000 cases in 2023-24. This is deeply concerning and is causing patients significant discomfort and making people think twice before going to hospital. Urgent action needs to be taken to eradicate this horrific disease.",
+          "text_original": "Diolch, Lywydd. Hoffwn i ofyn am ddatganiad gan y Gweinidog Cabinet dros Iechyd a Gofal am sut maen nhw'n gweithio i ddileu sgabies yng Nghymru. Dros y mis diwethaf, rydyn ni wedi gweld dau ysbyty yn cau wardiau achos presenoldeb sgabies Norwyaidd. Mae nifer yr achosion o sgabies yng Nghymru wedi cynyddu o 1,300 yn 2018-19 i dros 12,000 o achosion yn 2023-24. Mae hyn yn bryderus iawn ac yn achosi anghysur sylweddol i gleifion ac yn gwneud i bobl feddwl ddwywaith cyn mynd i'r ysbyty. Mae angen cymryd camau brys i ddelio â'r clefyd erchyll hwn.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=5294"
+        },
+        {
+          "id": "contribution-778493",
+          "item_id": "item-16315-261013-2",
+          "item_title_en": "2. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 5390,
+          "text_english": "Bit of a long one that one, sorry.",
+          "text_original": "Bit of a long one that one, sorry.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=5390"
+        },
+        {
+          "id": "contribution-778632",
+          "item_id": "item-16315-261013-6",
+          "item_title_en": "6. Statement by the Deputy Minister for Transport: Climate Adaptation and Resilience in Wales's Transport Network",
+          "lang": "en",
+          "t_start": 15214,
+          "text_english": "Diolch, Lywydd.",
+          "text_original": "Diolch, Lywydd.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=15214"
+        },
+        {
+          "id": "contribution-778634",
+          "item_id": "item-16315-261013-6",
+          "item_title_en": "6. Statement by the Deputy Minister for Transport: Climate Adaptation and Resilience in Wales's Transport Network",
+          "lang": "en",
+          "t_start": 15218,
+          "text_english": "Thanks for your statement. [Laughter.] Now, as someone who uses the train service in particular—I'll mention buses in a minute—this summer in particular highlighted to me just how we always tend to think it's the winter, with the leaves and everything on the line and the bad weather, where disruptions come, but we've faced it all in terms of the transport network here. Extreme weather is becoming a more frequent occurrence, and nobody in this Chamber can deny that. \n\nWe're already seeing the consequences of inadequate planning across our transport system. Direct train services between Pontypridd and Cardiff Bay have been cancelled for a prolonged period, because more trains than usual are requiring repairs. And I think it's the 137s. Those trains are just—. In this day and age, I can't, for the life of me, imagine why we put a load of trains on a line whereby if the air conditioning in summer packs up, there are no windows, so, basically, it's very, very uncomfortable, and I would just say that the thinking behind that just baffles me.\n\nIn north Wales, we're also facing significant disruption, and I think Mair mentioned it earlier. I am dreading January to 6 February next year, with rail replacement buses being provided. Because, quite often, when I get on a train to come down here, I don't know whether it's going to be a four-hour journey or a five-hour journey. I've even had a seven-hour journey on more than one occasion down here. So, how you're going to make sure that, not just for us as Members, but anybody using the rail service and then having to rely on buses—. I think you're really going to have to make sure that it is a very easy flow-through for passengers.\n\nOf course, while essential engineering works are sometimes unavoidable, passengers require and deserve clear communication. My biggest bone of contention when I'm on a train is, sure enough, we have to get up and we have to change to another train, but the lack of information is just—it's unbelievable. You get told different stories by the conductor. I then have been known to contact Transport for Wales myself directly and you get told something completely different. And I remember a time when Tom Montgomery had to wait several hours—. I was lucky because somebody came to give me a lift, but I think he had about nine hours to get from north Wales down here.\n\nNow, these closures are going to place already enormous pressure on other transport services and cause considerable stress. Points have been made about people with disabilities, older passengers and those with limited transport alternatives. Disruption can create additional barriers to accessing essential services. These pressures are not confined to particular routes or specific times of the year; they do reflect wider challenges. Jason mentioned the reputation that Transport for Wales has, and I've done a survey today and I make no apology for, when responding, saying, 'Poor, poor, poor'. I'm sorry but the facts speak for themselves: 14,272 trains were cancelled in Wales throughout 2025; 880 cancellations were attributed to points failures. Another thing, Cabinet Minister, is that I'm told in letters by James Price, 'We don't have a points problem in Wales'; I'm sorry, but you do, because, quite often, signalling and points failures put lots of extra time onto our journeys. So, whatever needs to be done, sort the points and the signal failures out. Driver-related issues—this surprised me—were responsible for 843 cancellations. There must be other Members here who've got to a station only to be told, 'We're waiting for the driver; we haven't got a driver.' In this day and age, I can't understand why we end up in those situations. Severe flooding, of course, caused 250 cancellations. But it just demonstrates the scale of disruption that passengers experience and it does raise important questions about how effectively our transport network is being maintained and prepared for the future. Every cancellation represents more than a statistic. It can mean a missed medical appointment. I was sat with a young man who was deeply stressed because he had an interview to go to and, whilst he was there, he actually had the job turned down because he couldn't get to his appointment on time.\n\nYou don't need me, Minister—and I've run out of time anyway—to tell you all the problems that—. I could speak for an hour on this alone, but I'm not going to, I won't be allowed—",
+          "text_original": "Thanks for your statement. [Laughter.] Now, as someone who uses the train service in particular—I'll mention buses in a minute—this summer in particular highlighted to me just how we always tend to think it's the winter, with the leaves and everything on the line and the bad weather, where disruptions come, but we've faced it all in terms of the transport network here. Extreme weather is becoming a more frequent occurrence, and nobody in this Chamber can deny that. \n\nWe're already seeing the consequences of inadequate planning across our transport system. Direct train services between Pontypridd and Cardiff Bay have been cancelled for a prolonged period, because more trains than usual are requiring repairs. And I think it's the 137s. Those trains are just—. In this day and age, I can't, for the life of me, imagine why we put a load of trains on a line whereby if the air conditioning in summer packs up, there are no windows, so, basically, it's very, very uncomfortable, and I would just say that the thinking behind that just baffles me.\n\nIn north Wales, we're also facing significant disruption, and I think Mair mentioned it earlier. I am dreading January to 6 February next year, with rail replacement buses being provided. Because, quite often, when I get on a train to come down here, I don't know whether it's going to be a four-hour journey or a five-hour journey. I've even had a seven-hour journey on more than one occasion down here. So, how you're going to make sure that, not just for us as Members, but anybody using the rail service and then having to rely on buses—. I think you're really going to have to make sure that it is a very easy flow-through for passengers.\n\nOf course, while essential engineering works are sometimes unavoidable, passengers require and deserve clear communication. My biggest bone of contention when I'm on a train is, sure enough, we have to get up and we have to change to another train, but the lack of information is just—it's unbelievable. You get told different stories by the conductor. I then have been known to contact Transport for Wales myself directly and you get told something completely different. And I remember a time when Tom Montgomery had to wait several hours—. I was lucky because somebody came to give me a lift, but I think he had about nine hours to get from north Wales down here.\n\nNow, these closures are going to place already enormous pressure on other transport services and cause considerable stress. Points have been made about people with disabilities, older passengers and those with limited transport alternatives. Disruption can create additional barriers to accessing essential services. These pressures are not confined to particular routes or specific times of the year; they do reflect wider challenges. Jason mentioned the reputation that Transport for Wales has, and I've done a survey today and I make no apology for, when responding, saying, 'Poor, poor, poor'. I'm sorry but the facts speak for themselves: 14,272 trains were cancelled in Wales throughout 2025; 880 cancellations were attributed to points failures. Another thing, Cabinet Minister, is that I'm told in letters by James Price, 'We don't have a points problem in Wales'; I'm sorry, but you do, because, quite often, signalling and points failures put lots of extra time onto our journeys. So, whatever needs to be done, sort the points and the signal failures out. Driver-related issues—this surprised me—were responsible for 843 cancellations. There must be other Members here who've got to a station only to be told, 'We're waiting for the driver; we haven't got a driver.' In this day and age, I can't understand why we end up in those situations. Severe flooding, of course, caused 250 cancellations. But it just demonstrates the scale of disruption that passengers experience and it does raise important questions about how effectively our transport network is being maintained and prepared for the future. Every cancellation represents more than a statistic. It can mean a missed medical appointment. I was sat with a young man who was deeply stressed because he had an interview to go to and, whilst he was there, he actually had the job turned down because he couldn't get to his appointment on time.\n\nYou don't need me, Minister—and I've run out of time anyway—to tell you all the problems that—. I could speak for an hour on this alone, but I'm not going to, I won't be allowed—",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=15218"
+        },
+        {
+          "id": "contribution-778628",
+          "item_id": "item-16315-261013-6",
+          "item_title_en": "6. Statement by the Deputy Minister for Transport: Climate Adaptation and Resilience in Wales's Transport Network",
+          "lang": "en",
+          "t_start": 15535,
+          "text_english": "Yes, over to you.",
+          "text_original": "Yes, over to you.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=15535"
+        }
+      ],
+      "date": "2026-10-13",
+      "record_page_url": "https://record.senedd.wales/Plenary/16315"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-773606",
+          "item_id": "item-16265-260930-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Rural Resilience and Sustainability",
+          "lang": "en",
+          "t_start": 4199,
+          "text_english": "Yay. [Laughter.]",
+          "text_original": "Yay. [Laughter.]",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=4199"
+        },
+        {
+          "id": "contribution-773687",
+          "item_id": "item-16265-260930-3",
+          "item_title_en": "3. Topical Questions",
+          "lang": "en",
+          "t_start": 7085,
+          "text_english": "Minister, UK average petrol is now averaging around 173.5p per litre. In real terms now, I've seen it over £2 per litre—diesel that is—and north Wales is paying above the UK average. In terms of energy production, we have the Gwynt y Môr windfarm right off our coast, yet we have the highest fuel costs in north Wales. Minister, Wales is being hit from both directions: rising prices at the pump and an energy policy that leaves Britain increasingly dependent on imports. Higher fossil fuel prices are estimated to cost Welsh households, businesses and public services an additional £5.64 billion. In our rural communities, certainly in Bangor Conwy Môn, travelling by car is not a luxury but a necessity, particularly for our carers, farmers, healthcare workers and small businesses.\n\nThe previous UK Conservative Government froze fuel duty and cut it by 5p per litre. Conservatives then campaigned against its planned reversal, now that diesel is so extortionately high. At the same time, an industry taskforce reports that 25,000 UK oil and gas jobs have been lost since the general election, while UK energy import dependency stands at 43 per cent. Will you work with the UK Government to cut fuel duty, reverse its restrictions on new North sea oil and gas licences, protect skilled energy jobs, or will rural Wales once again be expected to pay more while Labour and Plaid Cymru prioritise ideology over the practical concerns? And I know that my colleague Andrew wishes to ask a question on the Veolia refinery.",
+          "text_original": "Minister, UK average petrol is now averaging around 173.5p per litre. In real terms now, I've seen it over £2 per litre—diesel that is—and north Wales is paying above the UK average. In terms of energy production, we have the Gwynt y Môr windfarm right off our coast, yet we have the highest fuel costs in north Wales. Minister, Wales is being hit from both directions: rising prices at the pump and an energy policy that leaves Britain increasingly dependent on imports. Higher fossil fuel prices are estimated to cost Welsh households, businesses and public services an additional £5.64 billion. In our rural communities, certainly in Bangor Conwy Môn, travelling by car is not a luxury but a necessity, particularly for our carers, farmers, healthcare workers and small businesses.\n\nThe previous UK Conservative Government froze fuel duty and cut it by 5p per litre. Conservatives then campaigned against its planned reversal, now that diesel is so extortionately high. At the same time, an industry taskforce reports that 25,000 UK oil and gas jobs have been lost since the general election, while UK energy import dependency stands at 43 per cent. Will you work with the UK Government to cut fuel duty, reverse its restrictions on new North sea oil and gas licences, protect skilled energy jobs, or will rural Wales once again be expected to pay more while Labour and Plaid Cymru prioritise ideology over the practical concerns? And I know that my colleague Andrew wishes to ask a question on the Veolia refinery.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=7085"
+        },
+        {
+          "id": "contribution-773730",
+          "item_id": "item-16265-260930-6",
+          "item_title_en": "5. Member Debate under Standing Order 11.21(iv): Contaminated land",
+          "lang": "en",
+          "t_start": 9421,
+          "text_english": "Thanks, Niamh, for bringing this debate forward. This subject of contaminated land and pollution in our water supply is unfortunately a frequent topic in this Senedd Chamber and has been over the past number of years. Now, we have a new Plaid Cymru Government, and certainly when I was on the committee with Llyr Gruffydd as our Chair in the environment committee, this was a very big issue for us as a committee. And it's nice to see Carolyn Thomas up there, a former colleague of ours here in the Senedd, who also used to speak up very passionately and very strongly about contaminated land. Thank you, Carolyn.\n\nI strongly believe that in incidents involving contamination, leaks or the illegal dumping of waste, the perpetrator should be held responsible and required to cover the cost of clearing and restoring the site. This is especially important in cases that involve repeat offenders, such as Dave Neal. My colleague Paul Davies, over the years, has represented so many constituents who were badly affected, so much so that they used to have to keep their windows closed, and yet for years it went on and on and on. Fines aren't enough. Many of these environmental polluters simply add them as a business cost because the fines—. They make more money doing what they do than the cost of a fine, and it's wrong.\n\nWe must take a stronger stance against illegal dumping that contaminates our land and threatens our natural environment. Failure to take stronger action against these criminals has even brought down a former First Minister here. Accepting funding from individuals involved in this activity was shameful. So, I reiterate my call for stronger action to be taken against these organisations and for a clear message to be sent out today that this behaviour cannot and will not be allowed to continue. You pollute our land in Wales and you will pay.\n\nIn a freedom of information request conducted by Friends of the Earth, it was found that potentially over 45,000 contaminated land sites exist in Wales, yet only 82 sites are designated as contaminated. So, data collection and investigations and inspections are key. Only six out of our 22 councils provide a full public register online. Fifteen councils have an inspection strategy, but only four have updated it in the last five years. I'm sorry, but you need to really get a grip of this. These figures are deeply concerning, especially as we all know that contaminated land can have a significant impact on our health, our environment and our water supplies. Today, there have been some shocking examples of illnesses that people have contracted—some terminal—and we cannot stand by any more. And I thank the people in the gallery for the work that you do. You're not elected; you're volunteers, you're activists against these environmental criminals.\n\nIt is vital that these sites and other potential sites of contaminated land are reviewed, monitored and registered. This will ensure that we have current and up-to-date figures, allowing contamination to be identified and contained as effectively as possible. It is essential that joint action is taken by the Welsh and UK Governments, and appropriate resources to identify, assess, monitor and register are key. We also need to ensure that responsibility does not simply fall on local authorities and taxpayers when pollution has been caused by those who have chosen to break the law. Where wrongdoing can be established, those responsible should face appropriate enforcement and be required to contribute towards the costs of remediation. And if you think that a fine is enough, it isn't. If you keep polluting, you should go to prison.\n\nThe public should not be left to carry the financial burden of dealing with pollution caused by illegal activity. There must also be greater transparency around contaminated land. Communities should be able to understand where these sites are located, what risks have been identified, what action is being taken and whether that action is satisfactory. Regular inspections and up-to-date public registers would help. We must ensure that lessons are learned from previous incidents. Where contamination occurs, the response should be timely, co-ordinated and proportionate, with clear responsibility for investigating the source.\n\nThis is not simply about dealing with contamination after it has occurred; it is about prevention, enforcement and accountability. If we really are serious about protecting our land, our water supplies, our environment and the health of our people, then we must ensure that contaminated land is dealt with. Those who illegally dump waste or cause contamination must understand that there are serious consequences.\n\nI'll just say this: I would like the First Minister now—. And I am not calling for any further devolution, but I've called for this numerous times before. Currently, any fines from environmental pollution go to the UK Treasury. That is morally wrong. That money should come to Wales. So, do your best, First Minister; you will have my support. That money should come to help to pay for the pollution. But let you now, as the new Plaid Government, work with us all, because we're all against allowing these criminals to pollute. Diolch yn fawr iawn.",
+          "text_original": "Thanks, Niamh, for bringing this debate forward. This subject of contaminated land and pollution in our water supply is unfortunately a frequent topic in this Senedd Chamber and has been over the past number of years. Now, we have a new Plaid Cymru Government, and certainly when I was on the committee with Llyr Gruffydd as our Chair in the environment committee, this was a very big issue for us as a committee. And it's nice to see Carolyn Thomas up there, a former colleague of ours here in the Senedd, who also used to speak up very passionately and very strongly about contaminated land. Thank you, Carolyn.\n\nI strongly believe that in incidents involving contamination, leaks or the illegal dumping of waste, the perpetrator should be held responsible and required to cover the cost of clearing and restoring the site. This is especially important in cases that involve repeat offenders, such as Dave Neal. My colleague Paul Davies, over the years, has represented so many constituents who were badly affected, so much so that they used to have to keep their windows closed, and yet for years it went on and on and on. Fines aren't enough. Many of these environmental polluters simply add them as a business cost because the fines—. They make more money doing what they do than the cost of a fine, and it's wrong.\n\nWe must take a stronger stance against illegal dumping that contaminates our land and threatens our natural environment. Failure to take stronger action against these criminals has even brought down a former First Minister here. Accepting funding from individuals involved in this activity was shameful. So, I reiterate my call for stronger action to be taken against these organisations and for a clear message to be sent out today that this behaviour cannot and will not be allowed to continue. You pollute our land in Wales and you will pay.\n\nIn a freedom of information request conducted by Friends of the Earth, it was found that potentially over 45,000 contaminated land sites exist in Wales, yet only 82 sites are designated as contaminated. So, data collection and investigations and inspections are key. Only six out of our 22 councils provide a full public register online. Fifteen councils have an inspection strategy, but only four have updated it in the last five years. I'm sorry, but you need to really get a grip of this. These figures are deeply concerning, especially as we all know that contaminated land can have a significant impact on our health, our environment and our water supplies. Today, there have been some shocking examples of illnesses that people have contracted—some terminal—and we cannot stand by any more. And I thank the people in the gallery for the work that you do. You're not elected; you're volunteers, you're activists against these environmental criminals.\n\nIt is vital that these sites and other potential sites of contaminated land are reviewed, monitored and registered. This will ensure that we have current and up-to-date figures, allowing contamination to be identified and contained as effectively as possible. It is essential that joint action is taken by the Welsh and UK Governments, and appropriate resources to identify, assess, monitor and register are key. We also need to ensure that responsibility does not simply fall on local authorities and taxpayers when pollution has been caused by those who have chosen to break the law. Where wrongdoing can be established, those responsible should face appropriate enforcement and be required to contribute towards the costs of remediation. And if you think that a fine is enough, it isn't. If you keep polluting, you should go to prison.\n\nThe public should not be left to carry the financial burden of dealing with pollution caused by illegal activity. There must also be greater transparency around contaminated land. Communities should be able to understand where these sites are located, what risks have been identified, what action is being taken and whether that action is satisfactory. Regular inspections and up-to-date public registers would help. We must ensure that lessons are learned from previous incidents. Where contamination occurs, the response should be timely, co-ordinated and proportionate, with clear responsibility for investigating the source.\n\nThis is not simply about dealing with contamination after it has occurred; it is about prevention, enforcement and accountability. If we really are serious about protecting our land, our water supplies, our environment and the health of our people, then we must ensure that contaminated land is dealt with. Those who illegally dump waste or cause contamination must understand that there are serious consequences.\n\nI'll just say this: I would like the First Minister now—. And I am not calling for any further devolution, but I've called for this numerous times before. Currently, any fines from environmental pollution go to the UK Treasury. That is morally wrong. That money should come to Wales. So, do your best, First Minister; you will have my support. That money should come to help to pay for the pollution. But let you now, as the new Plaid Government, work with us all, because we're all against allowing these criminals to pollute. Diolch yn fawr iawn.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=9421"
+        },
+        {
+          "id": "contribution-773865",
+          "item_id": "item-16265-260930-8",
+          "item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+          "lang": "en",
+          "t_start": 18082,
+          "text_english": "There's some irony here that only last week, when we were scrutinising and challenging your ethical defence framework, the aircraft went down at RAF Valley. I would hope that everybody on these benches is glad that those two pilots were able to eject and that they're well now after receiving treatment for minor injuries. I'm incredibly proud of that base. I'm also incredibly proud of the defence industry across Wales and the United Kingdom. And I'm incredibly proud of those who serve, and have served previously, in our armed forces—those who have lost their lives so that we have the freedom of speech here in this place. I've enjoyed so many excellent contributions today, bar one. I will leave it at that.\n\nIt should be noted that the ejection seats in that aircraft were made by Martin-Baker, a company based in Denham. The company's own data notes that these seats have saved almost 8,000 aircrew lives around the world, but it is shocking to note that this essential business has been subjected to vandalism and factory occupation by Palestine activists simply because the Israeli air force utilise their ejection seats. This type of behaviour should be firmly reprimanded and these essential companies should be protected.\n\nThis crash last week served rightly as a reminder to us all of the risks that each and every one of our brave servicemen and women take in protecting our country. And when I say 'our country', I mean the United Kingdom, to include Wales. Our vital defence sector uses a wide range of high-value skills that makes it naturally an ideal partner for schools, colleges and universities. It also employs over 18,500 people, has a turnover of more than £5 billion and contributes around £2 billion of gross value added to the Welsh economy. This industry contributes significantly to both our Welsh economy and our nation's safety. It provides highly skilled employment, supports supply chains across Wales and creates opportunities for collaboration between industry and education. Following the crash last week, when I got out of this Senedd, even though I had to go on somewhere, I made a point of contacting RAF Valley, sending them my best wishes and assuring them of our 100 per cent support.\n\nUnlike the Welsh Government, some within Plaid Cymru in particular want to move the arms industry out of Wales due to what they describe as a feeling of complicity in death. Other Plaid Members use the pretence of an ethical defence framework that will push back defence spending in Wales. This is absolute madness at a time—well, it's madness at any time, but particularly now—when we are under such global threat. This is also reflected in the ideological blacklist that's set out in the form of the ethical framework for Welsh Government engagement with the defence sector. There's one that already exists in the United Kingdom Government. The Conservatives understand the importance of this sector because of the global unrest and have instead set out a plan. We would increase defence spending to 3 per cent of GDP.\n\nIt is also important to remember that, in the last Senedd term, the Welsh defence growth deal memorandum of understanding was signed. This agreement allocated £50 million to Wales from £250 million of UK-wide investment in regional growth as part of growing investment in defence. Following this, the regional defence and security cluster was established. This helps Welsh businesses, universities and colleges access Ministry of Defence contracts, develop their supply chains and grow their share of defence spending. It also connects businesses with Wales's eight universities and further education colleges, making use of their research and their expertise in areas such as cyber security, optoelectronics and artificial intelligence. The UK Government has pledged to work collaboratively with the Welsh Government to establish a new defence technical college by September 2027. This will train the next generation of defence engineers and help support Britain's growing autonomous capabilities. There is a clear opportunity here for Wales, Cabinet Secretary. We have a strong—. We were in committee this morning—",
+          "text_original": "There's some irony here that only last week, when we were scrutinising and challenging your ethical defence framework, the aircraft went down at RAF Valley. I would hope that everybody on these benches is glad that those two pilots were able to eject and that they're well now after receiving treatment for minor injuries. I'm incredibly proud of that base. I'm also incredibly proud of the defence industry across Wales and the United Kingdom. And I'm incredibly proud of those who serve, and have served previously, in our armed forces—those who have lost their lives so that we have the freedom of speech here in this place. I've enjoyed so many excellent contributions today, bar one. I will leave it at that.\n\nIt should be noted that the ejection seats in that aircraft were made by Martin-Baker, a company based in Denham. The company's own data notes that these seats have saved almost 8,000 aircrew lives around the world, but it is shocking to note that this essential business has been subjected to vandalism and factory occupation by Palestine activists simply because the Israeli air force utilise their ejection seats. This type of behaviour should be firmly reprimanded and these essential companies should be protected.\n\nThis crash last week served rightly as a reminder to us all of the risks that each and every one of our brave servicemen and women take in protecting our country. And when I say 'our country', I mean the United Kingdom, to include Wales. Our vital defence sector uses a wide range of high-value skills that makes it naturally an ideal partner for schools, colleges and universities. It also employs over 18,500 people, has a turnover of more than £5 billion and contributes around £2 billion of gross value added to the Welsh economy. This industry contributes significantly to both our Welsh economy and our nation's safety. It provides highly skilled employment, supports supply chains across Wales and creates opportunities for collaboration between industry and education. Following the crash last week, when I got out of this Senedd, even though I had to go on somewhere, I made a point of contacting RAF Valley, sending them my best wishes and assuring them of our 100 per cent support.\n\nUnlike the Welsh Government, some within Plaid Cymru in particular want to move the arms industry out of Wales due to what they describe as a feeling of complicity in death. Other Plaid Members use the pretence of an ethical defence framework that will push back defence spending in Wales. This is absolute madness at a time—well, it's madness at any time, but particularly now—when we are under such global threat. This is also reflected in the ideological blacklist that's set out in the form of the ethical framework for Welsh Government engagement with the defence sector. There's one that already exists in the United Kingdom Government. The Conservatives understand the importance of this sector because of the global unrest and have instead set out a plan. We would increase defence spending to 3 per cent of GDP.\n\nIt is also important to remember that, in the last Senedd term, the Welsh defence growth deal memorandum of understanding was signed. This agreement allocated £50 million to Wales from £250 million of UK-wide investment in regional growth as part of growing investment in defence. Following this, the regional defence and security cluster was established. This helps Welsh businesses, universities and colleges access Ministry of Defence contracts, develop their supply chains and grow their share of defence spending. It also connects businesses with Wales's eight universities and further education colleges, making use of their research and their expertise in areas such as cyber security, optoelectronics and artificial intelligence. The UK Government has pledged to work collaboratively with the Welsh Government to establish a new defence technical college by September 2027. This will train the next generation of defence engineers and help support Britain's growing autonomous capabilities. There is a clear opportunity here for Wales, Cabinet Secretary. We have a strong—. We were in committee this morning—",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=18082"
+        },
+        {
+          "id": "contribution-773880",
+          "item_id": "item-16265-260930-8",
+          "item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+          "lang": "en",
+          "t_start": 18395,
+          "text_english": "Yes, I will. It's essential we have productivity in Wales. We are lagging behind because of the previous Welsh Labour Government, supported by you. The evidence is clear: the defence sector is a vital component. We need the Welsh Government to commit to ensuring this industry has the support and what it needs to thrive here in Wales. I hope that you have a change of heart and that you support this motion today. Diolch yn fawr iawn.",
+          "text_original": "Yes, I will. It's essential we have productivity in Wales. We are lagging behind because of the previous Welsh Labour Government, supported by you. The evidence is clear: the defence sector is a vital component. We need the Welsh Government to commit to ensuring this industry has the support and what it needs to thrive here in Wales. I hope that you have a change of heart and that you support this motion today. Diolch yn fawr iawn.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=18395"
+        }
+      ],
+      "date": "2026-09-30",
+      "record_page_url": "https://record.senedd.wales/Plenary/16265"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-772902",
+          "item_id": "item-16264-260929-3",
+          "item_title_en": "2. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 2870,
+          "text_english": "It's an excellent question, Carmelo. First Minister, the latest dedicated national data on construction and demolition waste is from 2019. It estimates that the sector generated 3.43 million tonnes of waste, of which 45 per cent was mixed waste, 38 per cent was soil, and 213,000 tonnes were sent to landfill. Without up-to-date information on the quantity, type and destination of this waste, how can you as First Minister, or your Government, credibly increase the use of high-quality washed recycled aggregates in construction projects across Wales, and measure whether your actions are succeeding? So, when will you be doing the next data collection on this? Thank you.",
+          "text_original": "It's an excellent question, Carmelo. First Minister, the latest dedicated national data on construction and demolition waste is from 2019. It estimates that the sector generated 3.43 million tonnes of waste, of which 45 per cent was mixed waste, 38 per cent was soil, and 213,000 tonnes were sent to landfill. Without up-to-date information on the quantity, type and destination of this waste, how can you as First Minister, or your Government, credibly increase the use of high-quality washed recycled aggregates in construction projects across Wales, and measure whether your actions are succeeding? So, when will you be doing the next data collection on this? Thank you.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=2870"
+        },
+        {
+          "id": "contribution-772898",
+          "item_id": "item-16264-260929-3",
+          "item_title_en": "2. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "10. What are the Welsh Government’s constitutional priorities for Wales? OQ64572",
+          "text_original": "10. Beth yw blaenoriaethau cyfansoddiadol Llywodraeth Cymru ar gyfer Cymru? OQ64572",
+          "tv_url": "http://www.senedd.tv/en/16264"
+        },
+        {
+          "id": "contribution-772901",
+          "item_id": "item-16264-260929-3",
+          "item_title_en": "2. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 3583,
+          "text_english": "Diolch. The latest YouGov polling, conducted between 7 and 13 September this year, found that just 20 per cent of people in Wales support Welsh independence—the lowest recorded level since 2023. Meanwhile, 72 per cent of people in Wales reported dissatisfaction with the NHS, 57 per cent of Welsh voters placed the economy among their three most important issues, and, furthermore, 20 per cent of pupils leave primary school functionally illiterate, whilst Wales remains at bottom of the UK Programme for International Student Assessment rankings. First Minister, it has been pointed out by our colleague here, Helen Jenner. It has been pointed out by many other Members. We represent those very people who put us here in this Senedd. With no parliamentary majority for it here in the Senedd—and I’d defy you to prove me otherwise—why is constitutional change taking priority for you, above fixing our NHS, fixing our economy and fixing our schools? It's a downright disgrace.",
+          "text_original": "Diolch. The latest YouGov polling, conducted between 7 and 13 September this year, found that just 20 per cent of people in Wales support Welsh independence—the lowest recorded level since 2023. Meanwhile, 72 per cent of people in Wales reported dissatisfaction with the NHS, 57 per cent of Welsh voters placed the economy among their three most important issues, and, furthermore, 20 per cent of pupils leave primary school functionally illiterate, whilst Wales remains at bottom of the UK Programme for International Student Assessment rankings. First Minister, it has been pointed out by our colleague here, Helen Jenner. It has been pointed out by many other Members. We represent those very people who put us here in this Senedd. With no parliamentary majority for it here in the Senedd—and I’d defy you to prove me otherwise—why is constitutional change taking priority for you, above fixing our NHS, fixing our economy and fixing our schools? It's a downright disgrace.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=3583"
+        },
+        {
+          "id": "contribution-773049",
+          "item_id": "item-16264-260929-8",
+          "item_title_en": "7. Statement by the Deputy Minister for Social Care, Mental Health and Women's Health: Improving Family-centred Neonatal Care in Wales: Progress Towards the Bliss Baby Charter",
+          "lang": "en",
+          "t_start": 12930,
+          "text_english": "I will declare an interest, as my family and I have been affected deeply by this very issue over the past seven days, and continue to be so. I'm sure Members would also agree with me how tragic it is that North Wales Police have been in touch with us as Members to say that a baby's body has been found on the shoreline near Bangor, in my constituency. There are calls for the mum to come forward. Please contact North Wales Police or the Betsi board. They will give you the support that you very much need at this moment in time.\n\nI'd like to thank you, Delyth, for bringing forward the update on the Bliss baby charter, and thank every single person that's involved in trying to improve neonatal care here in Wales. The core principles are around family-centred care and are known as the seven standards, with further standards being published as we go along—specialist services and staff, benchmarking, unit information and support for families. The Bliss baby charter is now a tool that helps to examine the procedures, practices and environment of a neonatal unit. Whilst this is good, there is still a long way to go. And I have to say it now, being as I've declared an interest: I want to put on record my deep thanks, and that of my family, to Alder Hey, and to Ysbyty Gwynedd, who recognised the emergency. We need that over-the-border continuation of fantastic neonatal care.",
+          "text_original": "I will declare an interest, as my family and I have been affected deeply by this very issue over the past seven days, and continue to be so. I'm sure Members would also agree with me how tragic it is that North Wales Police have been in touch with us as Members to say that a baby's body has been found on the shoreline near Bangor, in my constituency. There are calls for the mum to come forward. Please contact North Wales Police or the Betsi board. They will give you the support that you very much need at this moment in time.\n\nI'd like to thank you, Delyth, for bringing forward the update on the Bliss baby charter, and thank every single person that's involved in trying to improve neonatal care here in Wales. The core principles are around family-centred care and are known as the seven standards, with further standards being published as we go along—specialist services and staff, benchmarking, unit information and support for families. The Bliss baby charter is now a tool that helps to examine the procedures, practices and environment of a neonatal unit. Whilst this is good, there is still a long way to go. And I have to say it now, being as I've declared an interest: I want to put on record my deep thanks, and that of my family, to Alder Hey, and to Ysbyty Gwynedd, who recognised the emergency. We need that over-the-border continuation of fantastic neonatal care.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=12930"
+        },
+        {
+          "id": "contribution-773067",
+          "item_id": "item-16264-260929-8",
+          "item_title_en": "7. Statement by the Deputy Minister for Social Care, Mental Health and Women's Health: Improving Family-centred Neonatal Care in Wales: Progress Towards the Bliss Baby Charter",
+          "lang": "en",
+          "t_start": 13040,
+          "text_english": "The model is about no two births are the same. We need this individualised care process. And bear in mind that, sometimes, it isn't mum and baby, it can be a mum and twins or triplets. So, all I would ask you, Deputy Minister, is if you will commit to ensuring that you work, as far as I am concerned, with the Betsi Cadwaladr University Health Board—and the other health boards—to establish a comprehensive review of its maternity services and neonatal care, and ensure that there is absolute implementation of individualised care plans. Because no two births are the same and no two babies are the same. Diolch.",
+          "text_original": "The model is about no two births are the same. We need this individualised care process. And bear in mind that, sometimes, it isn't mum and baby, it can be a mum and twins or triplets. So, all I would ask you, Deputy Minister, is if you will commit to ensuring that you work, as far as I am concerned, with the Betsi Cadwaladr University Health Board—and the other health boards—to establish a comprehensive review of its maternity services and neonatal care, and ensure that there is absolute implementation of individualised care plans. Because no two births are the same and no two babies are the same. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=13040"
+        }
+      ],
+      "date": "2026-09-29",
+      "record_page_url": "https://record.senedd.wales/Plenary/16264"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771347",
+          "item_id": "item-16263-260923-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "en",
+          "t_start": 1528,
+          "text_english": "Diolch, Ddirprwy Lywydd. And pen-blwydd hapus, Cabinet Secretary. Minister, there is potentially a very expensive problem with the Global Centre of Rail Excellence. Now, my colleague Andrew R.T. Davies yesterday raised it, and I'm not sure that the answer that you gave yesterday actually addressed the very fundamental point of such an amount of wasted taxpayers' money. When the Welsh Government announced this scheme, the Global Centre of Rail Excellence—sounds good, doesn't it—it explicitly stated that Celtic Energy would gift all the land necessary for the project, yet the site was subsequently described as having been purchased by GCRE, and it was transferred before restoration of the former Nant Helen opencast mine had been completed. So, will you tell us today, plainly, was the land gifted or purchased? If it was purchased, how much did GCRE pay, and what restoration liabilities did the previous and now this current Welsh Government-owned company take on when it acquired the site? Most importantly, if the money available for restoration is not enough to finish the job, exactly who does pick up the bill, Celtic Energy or the Welsh taxpayer?",
+          "text_original": "Diolch, Ddirprwy Lywydd. And pen-blwydd hapus, Cabinet Secretary. Minister, there is potentially a very expensive problem with the Global Centre of Rail Excellence. Now, my colleague Andrew R.T. Davies yesterday raised it, and I'm not sure that the answer that you gave yesterday actually addressed the very fundamental point of such an amount of wasted taxpayers' money. When the Welsh Government announced this scheme, the Global Centre of Rail Excellence—sounds good, doesn't it—it explicitly stated that Celtic Energy would gift all the land necessary for the project, yet the site was subsequently described as having been purchased by GCRE, and it was transferred before restoration of the former Nant Helen opencast mine had been completed. So, will you tell us today, plainly, was the land gifted or purchased? If it was purchased, how much did GCRE pay, and what restoration liabilities did the previous and now this current Welsh Government-owned company take on when it acquired the site? Most importantly, if the money available for restoration is not enough to finish the job, exactly who does pick up the bill, Celtic Energy or the Welsh taxpayer?",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=1528"
+        },
+        {
+          "id": "contribution-771366",
+          "item_id": "item-16263-260923-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "en",
+          "t_start": 1693,
+          "text_english": "Diolch. I hope you can answer this one. Minister, the original plan was that £70 million of public money would help unlock around £330 million of private investment. For years, we were told there was serious private sector interest. GCRE talked about credible bidders and international interest, even from the middle east and America. And as recently as March last year, the First Minister at the time told this Senedd that GCRE was in detailed discussions with a potential funder, yet the private investment still hasn't materialised and the rail testing centre still hasn't been built.\n\nSo, what exactly went wrong? Was there ever an investor genuinely prepared to put up the money needed to build the project, and, if so, why did they walk away? Because, at this moment in time, it does look as though your Government has inherited a large hole in the ground, a project nobody is prepared to invest in, and, potentially, a very large bill for putting the site back as it was. How much more taxpayers' money are you prepared to put into this scheme? Diolch yn fawr.",
+          "text_original": "Diolch. I hope you can answer this one. Minister, the original plan was that £70 million of public money would help unlock around £330 million of private investment. For years, we were told there was serious private sector interest. GCRE talked about credible bidders and international interest, even from the middle east and America. And as recently as March last year, the First Minister at the time told this Senedd that GCRE was in detailed discussions with a potential funder, yet the private investment still hasn't materialised and the rail testing centre still hasn't been built.\n\nSo, what exactly went wrong? Was there ever an investor genuinely prepared to put up the money needed to build the project, and, if so, why did they walk away? Because, at this moment in time, it does look as though your Government has inherited a large hole in the ground, a project nobody is prepared to invest in, and, potentially, a very large bill for putting the site back as it was. How much more taxpayers' money are you prepared to put into this scheme? Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=1693"
+        }
+      ],
+      "date": "2026-09-23",
+      "record_page_url": "https://record.senedd.wales/Plenary/16263"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-770966",
+          "item_id": "item-16262-260922-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 7636,
+          "text_english": "I'd like to request two statements, one from the Cabinet Minister for Social Justice and Equality on how they are working with councils and the UK Government to prevent rogue builders and their ability to phoenix, which is starting up again after you've left people with incomplete builds and in lots of debt, and also on identity fraud, quishing and other scams that are taking place in north Wales, where it has emerged that there is a higher degree of scams now affecting our older constituents. I'm working with trading standards and the BBC, as north Wales does seem to be this key place where it's happening. The Federation of Master Builders Cymru have called on the Welsh Government to work alongside the UK Government to produce a mandatory licensing scheme for building companies. Will your Government support that?\n\nAnd a second one from the Cabinet Minister for Health and Care on the parking provision at Ysbyty Gwynedd—and Ysbyty Glan Clwyd is just as bad. Patients and visitors are continuously struggling to find appropriate parking, despite driving around continuously for almost an hour sometimes, and sometimes they will actually accept that they're going to get a fine because otherwise they would miss that appointment. This has been going on for too long now, so we need something from the health Minister to say that he's accepting that this isn't adequate. Please help.",
+          "text_original": "I'd like to request two statements, one from the Cabinet Minister for Social Justice and Equality on how they are working with councils and the UK Government to prevent rogue builders and their ability to phoenix, which is starting up again after you've left people with incomplete builds and in lots of debt, and also on identity fraud, quishing and other scams that are taking place in north Wales, where it has emerged that there is a higher degree of scams now affecting our older constituents. I'm working with trading standards and the BBC, as north Wales does seem to be this key place where it's happening. The Federation of Master Builders Cymru have called on the Welsh Government to work alongside the UK Government to produce a mandatory licensing scheme for building companies. Will your Government support that?\n\nAnd a second one from the Cabinet Minister for Health and Care on the parking provision at Ysbyty Gwynedd—and Ysbyty Glan Clwyd is just as bad. Patients and visitors are continuously struggling to find appropriate parking, despite driving around continuously for almost an hour sometimes, and sometimes they will actually accept that they're going to get a fine because otherwise they would miss that appointment. This has been going on for too long now, so we need something from the health Minister to say that he's accepting that this isn't adequate. Please help.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=7636"
+        },
+        {
+          "id": "contribution-771055",
+          "item_id": "item-16262-260922-5",
+          "item_title_en": "5. Statement by the Cabinet Minister for Enterprise, Connectivity and Energy: Welsh Defence Ethical Framework",
+          "lang": "en",
+          "t_start": 13414,
+          "text_english": "Thank you for the statement, but I have to say, I'm really disappointed. This is not an ethical defence framework. It is nothing more than an ideological blacklist that risks Welsh jobs, investment and national security. Defence and aerospace employ 16,000 people in Wales, they generate £3.7 billion in turnover and they contribute around £1.5 billion in gross value added. These are highly skilled, well-paid jobs supporting communities across Wales, and I thank each and every one of those working in our defence industry and, indeed, in our defence forces.\n\nYet, just when defence investment is increasing, this Plaid Government has ordered investment decisions involving the sector to now be put on hold. There has rarely been a more dangerous time to send such a hostile message. Russia is waging war in Europe, hostile states are targeting our infrastructure, NATO allies are strengthening their defences. It is almost, with making statements like this, that old saying, isn't it, 'Nero fiddles whilst Rome burns.'\n\nOur freedom and democracy exist, Wales exists, because brave men and women, previously and now, in our British armed forces are willing to put their lives on the line to defend them. But courage alone is not enough. They need aircraft, they need vehicles, communication systems, protective equipment and ammunition. And we need those jobs for Welsh people here in Wales. If Members support our armed forces, they must also support the people who design and manufacture the equipment that they have to go to war with and fight with, that keeps them safe. There is nothing grubby or unethical about that work. It is honourable, and it is vital to our security.\n\nWales should be competing for a greater share of rising UK defence spend and encouraging responsible defence companies to invest here. Instead, this Government—Plaid Cymru Government—is creating uncertainty as businesses decide where to place new contracts and jobs. Mind you, that attitude is unsurprising from a party that has refused to commit an independent Wales to full NATO membership. Your hypocrisy—not yours personally, but your group, your Government—is breathtaking. Defence workers are treated as morally suspect while an Opera Cymru production is advertised as a 'celebration' of nationhood, honouring as three giants the men responsible for a terrorist attack on an RAF bombing school less than three years before the second world war. One of those, of course, was Plaid's then leader, Saunders Lewis. Plaid subsequently adopted neutrality in the war against Nazi Germany. Lewis used explicitly antisemitic language, and wrote that Hitler had 'fulfilled his promise' to remove Jewish financial power from German economic life.\n\nInstead of subjecting the people who equip our armed forces to an 'ethical' test, Plaid Cymru should apply one to publicly supported arts organisations that celebrate or platform those who have committed or glorified violence against the British state, whether it is an opera hailing Saunders Lewis and his fellow arsonists as national heroes, or public funding connected with Green Man while the festival gave Kneecap a stage. And in its first week back, it is absolutely disgusting that this Plaid Cymru Government shared a platform with Sinn Féin leaders, despite that party's long association with the IRA's campaign of terrorism.\n\nSo, Minister, how many investment decisions have been suspended? How many jobs, do you believe, are at risk? I agree with you, Jason—not often, but today, on your comments today. Were employers and trade unions consulted? Will lawful Welsh firms be blacklisted simply because Plaid Cymru disapproves—and you do disapprove—of their industry?\n\nAn ethical defence policy distinguishes between aggressors and those who protect us from them. Wales should stand firmly with our armed forces, with the workers who equip them and with our NATO allies. We should also stand firmly with the ethical framework that the UK Government has in place. This framework should be withdrawn, and I will be more than happy to vote against this later today.",
+          "text_original": "Thank you for the statement, but I have to say, I'm really disappointed. This is not an ethical defence framework. It is nothing more than an ideological blacklist that risks Welsh jobs, investment and national security. Defence and aerospace employ 16,000 people in Wales, they generate £3.7 billion in turnover and they contribute around £1.5 billion in gross value added. These are highly skilled, well-paid jobs supporting communities across Wales, and I thank each and every one of those working in our defence industry and, indeed, in our defence forces.\n\nYet, just when defence investment is increasing, this Plaid Government has ordered investment decisions involving the sector to now be put on hold. There has rarely been a more dangerous time to send such a hostile message. Russia is waging war in Europe, hostile states are targeting our infrastructure, NATO allies are strengthening their defences. It is almost, with making statements like this, that old saying, isn't it, 'Nero fiddles whilst Rome burns.'\n\nOur freedom and democracy exist, Wales exists, because brave men and women, previously and now, in our British armed forces are willing to put their lives on the line to defend them. But courage alone is not enough. They need aircraft, they need vehicles, communication systems, protective equipment and ammunition. And we need those jobs for Welsh people here in Wales. If Members support our armed forces, they must also support the people who design and manufacture the equipment that they have to go to war with and fight with, that keeps them safe. There is nothing grubby or unethical about that work. It is honourable, and it is vital to our security.\n\nWales should be competing for a greater share of rising UK defence spend and encouraging responsible defence companies to invest here. Instead, this Government—Plaid Cymru Government—is creating uncertainty as businesses decide where to place new contracts and jobs. Mind you, that attitude is unsurprising from a party that has refused to commit an independent Wales to full NATO membership. Your hypocrisy—not yours personally, but your group, your Government—is breathtaking. Defence workers are treated as morally suspect while an Opera Cymru production is advertised as a 'celebration' of nationhood, honouring as three giants the men responsible for a terrorist attack on an RAF bombing school less than three years before the second world war. One of those, of course, was Plaid's then leader, Saunders Lewis. Plaid subsequently adopted neutrality in the war against Nazi Germany. Lewis used explicitly antisemitic language, and wrote that Hitler had 'fulfilled his promise' to remove Jewish financial power from German economic life.\n\nInstead of subjecting the people who equip our armed forces to an 'ethical' test, Plaid Cymru should apply one to publicly supported arts organisations that celebrate or platform those who have committed or glorified violence against the British state, whether it is an opera hailing Saunders Lewis and his fellow arsonists as national heroes, or public funding connected with Green Man while the festival gave Kneecap a stage. And in its first week back, it is absolutely disgusting that this Plaid Cymru Government shared a platform with Sinn Féin leaders, despite that party's long association with the IRA's campaign of terrorism.\n\nSo, Minister, how many investment decisions have been suspended? How many jobs, do you believe, are at risk? I agree with you, Jason—not often, but today, on your comments today. Were employers and trade unions consulted? Will lawful Welsh firms be blacklisted simply because Plaid Cymru disapproves—and you do disapprove—of their industry?\n\nAn ethical defence policy distinguishes between aggressors and those who protect us from them. Wales should stand firmly with our armed forces, with the workers who equip them and with our NATO allies. We should also stand firmly with the ethical framework that the UK Government has in place. This framework should be withdrawn, and I will be more than happy to vote against this later today.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=13414"
+        }
+      ],
+      "date": "2026-09-22",
+      "record_page_url": "https://record.senedd.wales/Plenary/16262"
+    },
     {
       "contributions": [
         {

@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "abstain"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,360 @@
   "canonical_name": "Elin Jones",
   "constituency_name_cy": "Ceredigion Penfro",
   "constituency_name_en": "Ceredigion Penfro",
-  "contribution_count": 108,
+  "contribution_count": 142,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778893",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "cy",
+          "t_start": 2747,
+          "text_english": "The Cabinet Minister for Local Government, Housing and Planning is proceeding with the local government funding formula review in partnership with local authorities. This includes joint technical work with local government and independent research through the Wales Centre for Public Policy. We're expecting a report during the summer of 2027 on this work.",
+          "text_original": "Mae'r Gweinidog Cabinet dros Lywodraeth Leol, Tai a Chynllunio yn bwrw ymlaen â'r adolygiad o fformiwla ariannu llywodraeth leol mewn partneriaeth â llywodraeth leol. Mae hyn yn cynnwys gwaith technegol ar y cyd gyda llywodraeth leol ac ymchwil annibynnol drwy Ganolfan Polisi Cyhoeddus Cymru. Mae disgwyl adroddiad yn ystod haf 2027 ar y gwaith yma.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=2747"
+        },
+        {
+          "id": "contribution-778902",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "cy",
+          "t_start": 2822,
+          "text_english": "Thank you for that supplementary question, and may I agree with the Member that county councils in Wales play a crucial role in delivering public services and play a crucial role in terms of how this Government will deliver its programme for government, and they play a key role, of course, in providing for and representing people at a local level? So, the funding of local government to allow them to deliver in that way is important in that regard.\n\nNow, there was a question on the discussions that I've been having with the Minister for local government in terms of appropriate funding for local authorities—yes, certainly, that is happening as part of the discussions around the preparation of the annual budget for Wales. Last week, I believe, I met, along with the Minister for local government, with local authorities in the WLGA finance sub-group as we discussed the annual budget, and changes and the discussion around the funding formula too. So, that ongoing relationship and discussion with local government is very important to this Government in order to deliver all of the work that our county councils are responsible for doing.",
+          "text_original": "Diolch am y cwestiwn pellach yna, ac a gaf i gytuno gyda'r Aelod fod cynghorau sir yng Nghymru yn chwarae rhan allweddol o ran delifro gwasanaethau cyhoeddus ac yn chwarae rôl hanfodol o ran sut bydd y Llywodraeth yma'n gwireddu ein rhaglen lywodraethu ni, ac yn chwarae rhan allweddol, wrth gwrs, yn darparu a chynrychioli'r bobl yn lleol? Ac felly mae ariannu llywodraeth leol, i'w galluogi nhw i fedru cyflawni yn y modd yma, yn bwysig yn hynny o beth.\n\nCwestiwn ynglŷn â'r drafodaeth dwi wedi ei chael gyda'r Gweinidog llywodraeth leol o ran ariannu priodol ar gyfer awdurdodau lleol—ie, yn sicr, mae hynny'n digwydd fel rhan o'r drafodaeth ynglŷn â pharatoi ar gyfer cyllideb flynyddol Cymru. Ac, wythnos ddiwethaf dwi'n meddwl oedd hi, fe wnes i gwrdd, ar y cyd â'r Gweinidog llywodraeth leol, gydag awdurdodau lleol yn finance sub-group yr WLGA wrth i ni drafod y gyllideb flynyddol, ie, a newidiadau a'r drafodaeth ynglŷn â'r fformiwla cyllido hefyd. Felly, mae'r berthynas a'r drafodaeth barhaus yna gyda llywodraeth leol yn bwysig iawn i'r Llywodraeth yma er mwyn cyflawni'r holl waith mae'n cynghorau sir ni yn gyfrifol am ei wneud.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=2822"
+        },
+        {
+          "id": "contribution-778914",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "en",
+          "t_start": 2960,
+          "text_english": "Well, the promotion of Wales overseas is an important aspect of the work that this Government wants to accomplish on behalf of businesses and communities in Wales. The First Minister was drinking a cup of coffee in a corridor as I passed him on the way down to the Chamber earlier, gallivanting nowhere at that point, hot coffee in his hand. Can I just say that, as I answered Rebeca earlier, local authorities provide a really key role in being able to deliver services—education, social services—in all our communities in Wales? They face tough, challenging budgetary situations, as we do as a national Government as well. Taking these decisions at a local level is important. We believe in the decentralisation of decision making in Wales, not setting arbitrary caps on local authorities in terms of the money that they have the ability to spend, as you will want to propose later on this afternoon. They have to take difficult decisions. I represent a constituency west of yours, also rural in nature. I've seen local schools at times have to be closed; I've seen campaigns to save local schools, and those local schools remain open today. These are complex decisions that local communities and their representatives have to take, and should not be trivialised in this place; they need to follow the processes, listen to the voices of those people involved, and take the right decisions. It's not for us to dictate the decisions that should be taken locally.",
+          "text_original": "Well, the promotion of Wales overseas is an important aspect of the work that this Government wants to accomplish on behalf of businesses and communities in Wales. The First Minister was drinking a cup of coffee in a corridor as I passed him on the way down to the Chamber earlier, gallivanting nowhere at that point, hot coffee in his hand. Can I just say that, as I answered Rebeca earlier, local authorities provide a really key role in being able to deliver services—education, social services—in all our communities in Wales? They face tough, challenging budgetary situations, as we do as a national Government as well. Taking these decisions at a local level is important. We believe in the decentralisation of decision making in Wales, not setting arbitrary caps on local authorities in terms of the money that they have the ability to spend, as you will want to propose later on this afternoon. They have to take difficult decisions. I represent a constituency west of yours, also rural in nature. I've seen local schools at times have to be closed; I've seen campaigns to save local schools, and those local schools remain open today. These are complex decisions that local communities and their representatives have to take, and should not be trivialised in this place; they need to follow the processes, listen to the voices of those people involved, and take the right decisions. It's not for us to dictate the decisions that should be taken locally.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=2960"
+        },
+        {
+          "id": "contribution-778899",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "en",
+          "t_start": 3114,
+          "text_english": "Thank you. You outline the challenges, of course, with the creation of a funding formula that works for all communities and all local authorities across Wales, as diverse as they are for us in Wales. The review that is now being undertaken, part of it in direct partnership and in collaboration with local government, the technical review, part of that is updating and recalibrating the formula while retaining its established needs-based methodology, and initial work that's currently ongoing is focused on some of the areas you've identified, and they are the main areas of local government delivery, and they are on education and personal social services.\n\nAs I said in my initial answer, then, this work is ongoing and it is in partnership with local authorities. The final report on this work will be next summer, and that will then decide how we move forward on these issues. I suspect we'll have many conversations around these issues both here, but, importantly, between ourselves as a Government and local government, which are the essential deliverers of so many aspects of our public services and need to be funded according to the need that they need to deliver in a variety of different circumstances.",
+          "text_original": "Thank you. You outline the challenges, of course, with the creation of a funding formula that works for all communities and all local authorities across Wales, as diverse as they are for us in Wales. The review that is now being undertaken, part of it in direct partnership and in collaboration with local government, the technical review, part of that is updating and recalibrating the formula while retaining its established needs-based methodology, and initial work that's currently ongoing is focused on some of the areas you've identified, and they are the main areas of local government delivery, and they are on education and personal social services.\n\nAs I said in my initial answer, then, this work is ongoing and it is in partnership with local authorities. The final report on this work will be next summer, and that will then decide how we move forward on these issues. I suspect we'll have many conversations around these issues both here, but, importantly, between ourselves as a Government and local government, which are the essential deliverers of so many aspects of our public services and need to be funded according to the need that they need to deliver in a variety of different circumstances.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=3114"
+        },
+        {
+          "id": "contribution-778912",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "cy",
+          "t_start": 3220,
+          "text_english": "I have written to the Chancellor and Financial Secretary to the Treasury to request a tax exemption for Cynnal. I've also raised the issue in a meeting with the Chief Secretary to the Treasury. In discussions with the Minister of State in the Department for Work and Pensions, the Deputy First Minister has also requested that the payment be disregarded for benefits calculation purposes. I also welcome the Prime Minister's positive comments to explore these matters further.",
+          "text_original": "Dwi wedi ysgrifennu at y Canghellor ac Ysgrifennydd Ariannol y Trysorlys i ofyn am esemptiad treth ar gyfer Cynnal. Dwi hefyd wedi codi'r mater mewn cyfarfod â Phrif Ysgrifennydd y Trysorlys. Mewn trafodaethau gyda'r Gweinidog Gwladol ar gyfer yr Adran Gwaith a Phensiynau, mae'r Dirprwy Brif Weinidog hefyd wedi gwneud cais i'r taliad gael ei ddiystyru at ddibenion cyfrifo budd-daliadau. Dwi'n croesawu hefyd, yn hyn o beth, sylwadau cadarnhaol Prif Weinidog newydd y Deyrnas Gyfunol o ran edrych ymhellach ar y materion yma.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=3220"
+        },
+        {
+          "id": "contribution-778901",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "en",
+          "t_start": 3315,
+          "text_english": "Thank you. You outline in your question the real, debilitating impact of poverty on children in our communities, and that's why this Government is seeking to introduce a child poverty payment, direct payment, in the form of our Cynnal scheme. It will be very difficult for us as a Government to introduce that pilot if we are not given those exemptions to benefits by the UK Government, so we are pursuing vigorously a decision by the UK Government to exempt the Cynnal payment from any impact on benefits or taxes. So, we will be pursuing those. And I'm hoping, even in my letter to the UK Government, that this could be something the UK Government provides clarity on in the budget in April. And just to say, in terms of the full devolution of welfare—or progress on the devolution of welfare—then that is certainly something that the First Minister is pursuing as part of the need to see greater devolution. We've seen how the part devolution of welfare for Scotland has enabled a child poverty payment to be made in Scotland, and we are prevented from doing so at this point by some of the restrictions around our devolution settlement. So, we need to change that in order to help us with the work that we want to tackle in terms of child poverty.",
+          "text_original": "Thank you. You outline in your question the real, debilitating impact of poverty on children in our communities, and that's why this Government is seeking to introduce a child poverty payment, direct payment, in the form of our Cynnal scheme. It will be very difficult for us as a Government to introduce that pilot if we are not given those exemptions to benefits by the UK Government, so we are pursuing vigorously a decision by the UK Government to exempt the Cynnal payment from any impact on benefits or taxes. So, we will be pursuing those. And I'm hoping, even in my letter to the UK Government, that this could be something the UK Government provides clarity on in the budget in April. And just to say, in terms of the full devolution of welfare—or progress on the devolution of welfare—then that is certainly something that the First Minister is pursuing as part of the need to see greater devolution. We've seen how the part devolution of welfare for Scotland has enabled a child poverty payment to be made in Scotland, and we are prevented from doing so at this point by some of the restrictions around our devolution settlement. So, we need to change that in order to help us with the work that we want to tackle in terms of child poverty.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=3315"
+        },
+        {
+          "id": "contribution-778916",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "en",
+          "t_start": 3484,
+          "text_english": "The Cynnal payment is no longer just a manifesto commitment, it is a pledge of the Government elected by the people of Wales in May. We've moved on from a manifesto, so keep up. The programme for government, of course, wants to implement and, across our work as a Government, tackle child poverty, for the clear reasons outlined by Becca in her earlier question. So, we need to be progressing this. We think that there are very straightforward measures that the UK Government could take to enable us to introduce this payment. Designing the Cynnal payment pilot, as it will be, continues as part of the work of this Government now, and, as I've already outlined, we'll be continuing discussions with the UK Government to enable us to bring it into action.",
+          "text_original": "The Cynnal payment is no longer just a manifesto commitment, it is a pledge of the Government elected by the people of Wales in May. We've moved on from a manifesto, so keep up. The programme for government, of course, wants to implement and, across our work as a Government, tackle child poverty, for the clear reasons outlined by Becca in her earlier question. So, we need to be progressing this. We think that there are very straightforward measures that the UK Government could take to enable us to introduce this payment. Designing the Cynnal payment pilot, as it will be, continues as part of the work of this Government now, and, as I've already outlined, we'll be continuing discussions with the UK Government to enable us to bring it into action.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=3484"
+        },
+        {
+          "id": "contribution-778927",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "en",
+          "t_start": 3610,
+          "text_english": "I'm not aware of anything that those companies that have regrettably announced job losses have said that it is in any way as a result of the 30 per cent reduction in the business rates available to the leisure and hospitality industries in Wales. They are large companies and they will want to see a workforce that works for them in Wales, that are living in vibrant communities, vibrant city centres here in Cardiff. As part of providing for ensuring that we have the ability for smaller businesses to continue trading in our city centres and in our high streets, then this Government took the decision to reduce those business rates on the hospitality and leisure sectors. So, I hope that you will be supporting that, and any information that you believe I need to provide in order to facilitate your support for the reduction of business rates for our pubs and clubs, then I'd be happy to supply that for you.",
+          "text_original": "I'm not aware of anything that those companies that have regrettably announced job losses have said that it is in any way as a result of the 30 per cent reduction in the business rates available to the leisure and hospitality industries in Wales. They are large companies and they will want to see a workforce that works for them in Wales, that are living in vibrant communities, vibrant city centres here in Cardiff. As part of providing for ensuring that we have the ability for smaller businesses to continue trading in our city centres and in our high streets, then this Government took the decision to reduce those business rates on the hospitality and leisure sectors. So, I hope that you will be supporting that, and any information that you believe I need to provide in order to facilitate your support for the reduction of business rates for our pubs and clubs, then I'd be happy to supply that for you.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=3610"
+        },
+        {
+          "id": "contribution-778946",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "en",
+          "t_start": 3752,
+          "text_english": "This is most definitely not groundhog day for the Menai bridge. I would have said that last week was very much a first day of a big announcement by this Government on the future of a third Menai crossing. In Government, in this Senedd, when you have been here a longer time, you will know that large infrastructure projects take a long time to deliver. Therefore, if you don't start today and start the planning and fund the planning, as this Government is doing for the Menai bridge, then you will not get to that day when there is a third Menai bridge. So, you have to start and then you continue that work. This Government has started the process of designing the work that's needed to improve the resilience of the two bridges in place today and tackle the need for a third Menai crossing. We're committed to doing that work, to funding that work in its development phases, and, hopefully, both you and I will be here long enough to see that third Menai bridge built.",
+          "text_original": "This is most definitely not groundhog day for the Menai bridge. I would have said that last week was very much a first day of a big announcement by this Government on the future of a third Menai crossing. In Government, in this Senedd, when you have been here a longer time, you will know that large infrastructure projects take a long time to deliver. Therefore, if you don't start today and start the planning and fund the planning, as this Government is doing for the Menai bridge, then you will not get to that day when there is a third Menai bridge. So, you have to start and then you continue that work. This Government has started the process of designing the work that's needed to improve the resilience of the two bridges in place today and tackle the need for a third Menai crossing. We're committed to doing that work, to funding that work in its development phases, and, hopefully, both you and I will be here long enough to see that third Menai bridge built.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=3752"
+        },
+        {
+          "id": "contribution-778954",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "en",
+          "t_start": 3880,
+          "text_english": "When you've been here 27 years and you've only managed to vote wrong twice, then maybe I can come back to you and see what your record will be like in 27 years. Look, you can trivialise these spokespeople questions if you want to. There are really important questions that could be asked at this point, and you've asked whether it's Dafydd Trystan or myself that turned up to a meeting with you. I am the Minister for finance. There are others in this Government who will also be negotiating with people across this Senedd, both on funding and on legislation. We do not work as a silo in this Government; we work as a team. I don't know how you work within Reform—I'd love an insight into that. But, as a Government, we are committed to working with you and with all parties here to secure Senedd support for a budget that enables public services to be delivered in Wales.\n\nIt is easy to sit on a Reform bench, or even a Tory bench, and always vote 'no'. The difficult bit of this work, you will find, is to find—[Interruption.] I apologise for dragging another political party into this. I shouldn't have done that, and I was trivialising at that point. You will find, in the work of forging co-operation and ensuring the need to pass budgets and pass legislation in this place—because ultimately that is why we are voted to this place by the people of Wales—that you need to talk across political parties and within political parties, and that's what I'll continue to do.",
+          "text_original": "When you've been here 27 years and you've only managed to vote wrong twice, then maybe I can come back to you and see what your record will be like in 27 years. Look, you can trivialise these spokespeople questions if you want to. There are really important questions that could be asked at this point, and you've asked whether it's Dafydd Trystan or myself that turned up to a meeting with you. I am the Minister for finance. There are others in this Government who will also be negotiating with people across this Senedd, both on funding and on legislation. We do not work as a silo in this Government; we work as a team. I don't know how you work within Reform—I'd love an insight into that. But, as a Government, we are committed to working with you and with all parties here to secure Senedd support for a budget that enables public services to be delivered in Wales.\n\nIt is easy to sit on a Reform bench, or even a Tory bench, and always vote 'no'. The difficult bit of this work, you will find, is to find—[Interruption.] I apologise for dragging another political party into this. I shouldn't have done that, and I was trivialising at that point. You will find, in the work of forging co-operation and ensuring the need to pass budgets and pass legislation in this place—because ultimately that is why we are voted to this place by the people of Wales—that you need to talk across political parties and within political parties, and that's what I'll continue to do.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=3880"
+        },
+        {
+          "id": "contribution-778945",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "cy",
+          "t_start": 4091,
+          "text_english": "Shwmae. Shwmae to the whole Chamber this afternoon. It was important that we came to an agreement and that there will, hopefully, now be a majority in this Chamber to allow that expenditure on additional learning needs, which needs that £60 million that will be voted on in the next few weeks, so that that important funding reaches our schools and colleges in order to ensure that the pressure our schools are currently under is alleviated somewhat. I know that you believe that more funding is required, and some follow-up to that funding in future, and that's something that this Chamber as a whole will need to discuss as we bring forward the budget for next year.",
+          "text_original": "Shwmae. Shwmae i'r Siambr gyfan y prynhawn yma. Mi oedd yn bwysig ein bod ni'n dod i gytundeb a bod yna fwyafrif, gobeithio, yn mynd i fod yn y Siambr yma nawr i ganiatáu'r gwariant ar gyfer anghenion dysgu ychwanegol, sydd angen y £60 miliwn yna a fydd yn cael ei bleidleisio arno yn yr wythnosau nesaf yma, fel bod yr arian pwysig yna yn cyrraedd ein hysgolion ni a'n colegau ni er mwyn sicrhau bod y pwysau y mae ein hysgolion ni oddi tano nawr yn cael ei leddfu rhyw gymaint. Dwi'n gwybod eich bod chi'n credu bod angen mwy o arian yn hynny o beth, a dilyniant i'r arian hynny, ac mae hwnna'n rhywbeth bydd y Siambr yma yn ei chyfanrwydd angen ei drafod wrth inni gyflwyno'r gyllideb ar gyfer y flwyddyn nesaf.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=4091"
+        },
+        {
+          "id": "contribution-778952",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "en",
+          "t_start": 4151,
+          "text_english": "In reference to the particular challenges within the NHS and in financial control within the NHS, this is an issue that I am continuing to have conversations on with the health department and the health Minister. We do need to ensure that we get to a situation where we are confident at the start of a financial year that the NHS is able to live within the means of the budget that it's been allocated for that year. There is considerable inflation within the NHS—in public services in general, but particularly in the NHS—and that is once again because it's in the wider economy and that is a challenge to our NHS budget management. These are issues that we continue to need to grapple with and they have very real life consequences for people out there who receive services from the NHS.",
+          "text_original": "In reference to the particular challenges within the NHS and in financial control within the NHS, this is an issue that I am continuing to have conversations on with the health department and the health Minister. We do need to ensure that we get to a situation where we are confident at the start of a financial year that the NHS is able to live within the means of the budget that it's been allocated for that year. There is considerable inflation within the NHS—in public services in general, but particularly in the NHS—and that is once again because it's in the wider economy and that is a challenge to our NHS budget management. These are issues that we continue to need to grapple with and they have very real life consequences for people out there who receive services from the NHS.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=4151"
+        },
+        {
+          "id": "contribution-778934",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "en",
+          "t_start": 4285,
+          "text_english": "On the current position, in terms of the NHS position within the financial year, I'm happy to write to you further on the exact position as we are in month 6 or 7 of the financial year.\n\nIt is our commitment as a Government to ensure that there is fair pay for fair work and we are looking to embed that across our work as a Government, whether that is in the wages available to people who undertake contracts for the Welsh public sector, but also in terms of the question that you pose in particular there, the grants available to businesses. So, I'll need to take that particular part of the question away and write to you to confirm on that one what the intention of the economy Minister is on that particular aspect of the question.",
+          "text_original": "On the current position, in terms of the NHS position within the financial year, I'm happy to write to you further on the exact position as we are in month 6 or 7 of the financial year.\n\nIt is our commitment as a Government to ensure that there is fair pay for fair work and we are looking to embed that across our work as a Government, whether that is in the wages available to people who undertake contracts for the Welsh public sector, but also in terms of the question that you pose in particular there, the grants available to businesses. So, I'll need to take that particular part of the question away and write to you to confirm on that one what the intention of the economy Minister is on that particular aspect of the question.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=4285"
+        },
+        {
+          "id": "contribution-778940",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "en",
+          "t_start": 4389,
+          "text_english": "Interesting for me, this analysis of who works with who, because if we think about the supplementary budget and if we think of how that supplementary budget will progress its way through the Senedd, then it may well be that it's supported by one or two political parties here. It may be that it's allowed through by another political party, but it may be voted against by another cosy consensus between Reform and the Tories here. Alliances work in different ways in this place. I'm always keen to look to see how we create new alliances. I'm always keen to work with political parties across this Chamber. You know, I love it when the whole Chamber works together as one, but that doesn't seem to be the pattern of the day these days.\n\nSo, this Government has a programme for government for the next four years. It is a programme of change. A budget will be announced in the next few weeks that will enable that programme to move up a gear. We are a Government of change. That programme is the first programme for government that is not a Labour programme for government. That is change in itself and it will do different things.",
+          "text_original": "Interesting for me, this analysis of who works with who, because if we think about the supplementary budget and if we think of how that supplementary budget will progress its way through the Senedd, then it may well be that it's supported by one or two political parties here. It may be that it's allowed through by another political party, but it may be voted against by another cosy consensus between Reform and the Tories here. Alliances work in different ways in this place. I'm always keen to look to see how we create new alliances. I'm always keen to work with political parties across this Chamber. You know, I love it when the whole Chamber works together as one, but that doesn't seem to be the pattern of the day these days.\n\nSo, this Government has a programme for government for the next four years. It is a programme of change. A budget will be announced in the next few weeks that will enable that programme to move up a gear. We are a Government of change. That programme is the first programme for government that is not a Labour programme for government. That is change in itself and it will do different things.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=4389"
+        },
+        {
+          "id": "contribution-778988",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "en",
+          "t_start": 4554,
+          "text_english": "Well, that supplementary budget is, of course, much more than just the £60 million of additional funding for additional learning needs. That in itself is important and is an addition to the budget that was discussed here in the summer, and that's an important contribution that will now go directly to schools and colleges in Wales. It won't go as a result of you voting against the supplementary budget, or Reform possibly voting against the supplementary budget. It'll go because Plaid Cymru will vote for that supplementary budget, and Labour will allow that supplementary budget to pass. It is because of our actions that it will go, not your actions. So, that is a contribution that will make a difference to young people in Wales, and just continually voting against delivers nothing.",
+          "text_original": "Well, that supplementary budget is, of course, much more than just the £60 million of additional funding for additional learning needs. That in itself is important and is an addition to the budget that was discussed here in the summer, and that's an important contribution that will now go directly to schools and colleges in Wales. It won't go as a result of you voting against the supplementary budget, or Reform possibly voting against the supplementary budget. It'll go because Plaid Cymru will vote for that supplementary budget, and Labour will allow that supplementary budget to pass. It is because of our actions that it will go, not your actions. So, that is a contribution that will make a difference to young people in Wales, and just continually voting against delivers nothing.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=4554"
+        },
+        {
+          "id": "contribution-779001",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "cy",
+          "t_start": 4631,
+          "text_english": "Land transaction tax has made a significant contribution to the Welsh budget since its introduction in 2018. It's provided over £2.5 billion for vital public services and infrastructure in Wales.",
+          "text_original": "Mae'r dreth trafodiadau tir wedi gwneud cyfraniad sylweddol i gyllideb Cymru ers ei chyflwyno yn 2018. Mae wedi sicrhau cyllid gwerth dros £2.5 biliwn ar gyfer gwasanaethau cyhoeddus a seilwaith hanfodol yng Nghymru.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=4631"
+        },
+        {
+          "id": "contribution-779013",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "en",
+          "t_start": 4730,
+          "text_english": "The important piece of this jigsaw that you didn't mention there was that the land transaction tax in Wales has a much higher starting threshold than in England. So, the starting threshold in Wales is £225,000. There are around 55 per cent and more of transactions below the £225,000 threshold in Wales, and they pay no land tax at all—55 per cent of all transactions pay no land transaction tax on a primary residence. The starting threshold in England is £125,000. Every house that is worth more than £125,000, and between £125,000 and £225,000, pays land transaction tax or stamp duty in England. They don't in Wales. In Scotland, it's £145,000. So, in telling the story of land transaction tax, tell it all and then the full picture provides the balanced approach that this Government believes can continue. Although, I am willing to consider whether there is a need to think about first-time buyer relief.  It's something that I'm interested, possibly, in looking at in this context, but very much the majority of first-time buyers are in that context of being under the threshold of £225,000. In fact, that £225,000 threshold is higher than the average house price in Wales of £215,000.",
+          "text_original": "The important piece of this jigsaw that you didn't mention there was that the land transaction tax in Wales has a much higher starting threshold than in England. So, the starting threshold in Wales is £225,000. There are around 55 per cent and more of transactions below the £225,000 threshold in Wales, and they pay no land tax at all—55 per cent of all transactions pay no land transaction tax on a primary residence. The starting threshold in England is £125,000. Every house that is worth more than £125,000, and between £125,000 and £225,000, pays land transaction tax or stamp duty in England. They don't in Wales. In Scotland, it's £145,000. So, in telling the story of land transaction tax, tell it all and then the full picture provides the balanced approach that this Government believes can continue. Although, I am willing to consider whether there is a need to think about first-time buyer relief.  It's something that I'm interested, possibly, in looking at in this context, but very much the majority of first-time buyers are in that context of being under the threshold of £225,000. In fact, that £225,000 threshold is higher than the average house price in Wales of £215,000.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=4730"
+        },
+        {
+          "id": "contribution-778959",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "en",
+          "t_start": 4895,
+          "text_english": "Thank you for that point. As you know, the Government is interested in being able to bring more empty properties back into active use, especially into residential use. And on the point that you made there about the difficulties that some property developers may be finding in renovating and bringing vacant residential properties back into use because they are caught in the land transaction tax matter, and whether there is a way of providing land transaction relief or refund to incentivise property developers bringing properties back, it's an interesting area that I'm perfectly willing to look at as we look at how we use the land transaction tax to enable bringing empty properties back. I certainly wouldn't want it to be an active disincentive, so I will certainly look at how we can see whether there are ways of doing it in a way that enables bringing empty properties back into use.",
+          "text_original": "Thank you for that point. As you know, the Government is interested in being able to bring more empty properties back into active use, especially into residential use. And on the point that you made there about the difficulties that some property developers may be finding in renovating and bringing vacant residential properties back into use because they are caught in the land transaction tax matter, and whether there is a way of providing land transaction relief or refund to incentivise property developers bringing properties back, it's an interesting area that I'm perfectly willing to look at as we look at how we use the land transaction tax to enable bringing empty properties back. I certainly wouldn't want it to be an active disincentive, so I will certainly look at how we can see whether there are ways of doing it in a way that enables bringing empty properties back into use.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=4895"
+        },
+        {
+          "id": "contribution-778985",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "cy",
+          "t_start": 4972,
+          "text_english": "As part of the budget process, I have regular discussions with all Cabinet Ministers. Decisions on further education funding, like all budget decisions, are considered within wider Cabinet discussions on priorities.",
+          "text_original": "Fel rhan o broses y gyllideb, dwi’n cynnal trafodaethau rheolaidd â holl Weinidogion y Cabinet. Mae penderfyniadau ar gyllid addysg bellach, fel pob penderfyniad cyllidebol, yn cael eu hystyried yn ystod trafodaethau ehangach y Cabinet ar flaenoriaethau.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=4972"
+        },
+        {
+          "id": "contribution-778997",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "en",
+          "t_start": 5051,
+          "text_english": "I certainly recognise that additional learning needs is a challenge in terms of funding and provision for colleges, post-16 education, as well as our schools. A lot of the focus of the discussion seems to be on schools, but it is a very real challenge for post-16 education as well. That's why I am pleased that, as part of that deal to secure progress on the supplementary budget, and the £60 million allocation for additional learning needs, £2.5 million of that is to go directly to colleges. But another important aspect of that agreement of the £60 million package is that there is an allocation of funding also for the planning for a long-term sustainable model of funding for education and additional needs, so that, over time, we can get to a place where our local authorities, schools and colleges can plan provision to meet the need and the ability to provide education comprehensively for all. We need to get to a better place than we are currently, and that's why we're committed to working with partners across this Chamber on how we can develop and place this on a sustainable footing into the future.",
+          "text_original": "I certainly recognise that additional learning needs is a challenge in terms of funding and provision for colleges, post-16 education, as well as our schools. A lot of the focus of the discussion seems to be on schools, but it is a very real challenge for post-16 education as well. That's why I am pleased that, as part of that deal to secure progress on the supplementary budget, and the £60 million allocation for additional learning needs, £2.5 million of that is to go directly to colleges. But another important aspect of that agreement of the £60 million package is that there is an allocation of funding also for the planning for a long-term sustainable model of funding for education and additional needs, so that, over time, we can get to a place where our local authorities, schools and colleges can plan provision to meet the need and the ability to provide education comprehensively for all. We need to get to a better place than we are currently, and that's why we're committed to working with partners across this Chamber on how we can develop and place this on a sustainable footing into the future.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=5051"
+        },
+        {
+          "id": "contribution-778949",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "cy",
+          "t_start": 5148,
+          "text_english": "This Government is committed to tackling gender inequality and ensuring that equality is properly considered at every stage of budget decision making. Our primary focus as a Government is on the outcomes we achieve, and we must carefully consider which tools and mechanisms help us to make a real difference in people’s lives.",
+          "text_original": "Mae’r Llywodraeth hon wedi ymrwymo i fynd i’r afael ag anghydraddoldeb o ran rhywedd a sicrhau bod cydraddoldeb yn cael ei ystyried yn drylwyr ym mhob cam o’r broses o wneud penderfyniadau ar y gyllideb. Ein prif ffocws fel Llywodraeth yw'r canlyniadau rŷn ni’n eu cyflawni, a rhaid inni ystyried yn ofalus ba adnoddau a mecanweithiau sy’n ein helpu ni i wneud gwahaniaeth go iawn i fywydau pobl.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=5148"
+        },
+        {
+          "id": "contribution-778957",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "en",
+          "t_start": 5233,
+          "text_english": "I'm not sure if I'd pass the cook test, but I'll try and pass the budget test. There's a range of tools and approaches that can help us understand the impacts of spending decisions before we take them, and gender budgeting is certainly one of those tools. But there are constraints in terms of our capacity to embed this approach, especially in the context of this year's first budget.\n\nThe previous Government undertook gender budgeting pilots that you'll know about, I'm sure, and they provided useful learning. In particular, they highlighted the importance of considering gender early in policy development, rather than adding it later. So, I want to take that learning and consider where it can help us to make better decisions and deliver better outcomes. And if we think of that particularly in the context of where we are developing new programmes—we've spoken of Cynnal, free school swimming and our childcare offer—so that we are using gender budgeting in the context of new policy initiatives, as was highlighted by the gender budgeting pilots—. And, obviously, you've done previous work on gender budgeting, and I'd be happy to discuss this further with you in detail in how we move to embed that across Government as we move through our budgeting processes.",
+          "text_original": "I'm not sure if I'd pass the cook test, but I'll try and pass the budget test. There's a range of tools and approaches that can help us understand the impacts of spending decisions before we take them, and gender budgeting is certainly one of those tools. But there are constraints in terms of our capacity to embed this approach, especially in the context of this year's first budget.\n\nThe previous Government undertook gender budgeting pilots that you'll know about, I'm sure, and they provided useful learning. In particular, they highlighted the importance of considering gender early in policy development, rather than adding it later. So, I want to take that learning and consider where it can help us to make better decisions and deliver better outcomes. And if we think of that particularly in the context of where we are developing new programmes—we've spoken of Cynnal, free school swimming and our childcare offer—so that we are using gender budgeting in the context of new policy initiatives, as was highlighted by the gender budgeting pilots—. And, obviously, you've done previous work on gender budgeting, and I'd be happy to discuss this further with you in detail in how we move to embed that across Government as we move through our budgeting processes.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=5233"
+        },
+        {
+          "id": "contribution-778970",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "cy",
+          "t_start": 5328,
+          "text_english": "Taxes fund public services that benefit everyone. Fair and proportionate tax policies will support people and businesses in Carmarthenshire. Our changes to rebalance non-domestic rates will benefit communities by supporting vibrant high streets and town centres. The council tax reduction scheme directly supports over 15,000 households in Carmarthenshire.",
+          "text_original": "Mae trethi yn ariannu gwasanaethau cyhoeddus sydd o fudd i bawb. Bydd polisïau treth teg a chymesur yn cefnogi pobl a busnesau yn sir Gaerfyrddin. Bydd ein newidiadau i ailgydbwyso trethi busnes o fudd i gymunedau drwy gefnogi'r stryd fawr a chanol trefi ffyniannus. Mae cynllun gostyngiadau'r dreth gyngor yn cefnogi dros 15,000 o aelwydydd yn sir Gaerfyrddin yn uniongyrchol.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=5328"
+        },
+        {
+          "id": "contribution-778965",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "en",
+          "t_start": 5421,
+          "text_english": "This is a spoiler alert, but we will be voting against your motion later on. We don't agree that capping local authorities' council tax is a way of enabling local authorities to take the decisions they need to take locally as elected members. The main determinant of council tax is probably still the financial settlement that this Government and this Senedd will pass in February of next year to local authorities. So, us deciding across the Senedd what the scope of that settlement for local authorities will be will be part of the work that we undertake over the next few months.\n\nI already know, and I'm already planning at this point, that our settlement as a Welsh Government will be 0.7 per cent down in real terms for next year. It is a very challenging settlement, unless there are changes from the UK Chancellor at the end of October in his budget. So, that is the crucial determinant of council tax: what is the size of the public sector funding available to local authorities.\n\nI'm hoping, hearing what you say, that you want to see good local settlements for local authorities, and that you will work constructively with us to enable that to happen, just as Plaid Cymru enabled a good settlement to pass by working with the previous Welsh Government so that local government and the NHS were provided the best possible settlement as part of the budget deal of the last Senedd.",
+          "text_original": "This is a spoiler alert, but we will be voting against your motion later on. We don't agree that capping local authorities' council tax is a way of enabling local authorities to take the decisions they need to take locally as elected members. The main determinant of council tax is probably still the financial settlement that this Government and this Senedd will pass in February of next year to local authorities. So, us deciding across the Senedd what the scope of that settlement for local authorities will be will be part of the work that we undertake over the next few months.\n\nI already know, and I'm already planning at this point, that our settlement as a Welsh Government will be 0.7 per cent down in real terms for next year. It is a very challenging settlement, unless there are changes from the UK Chancellor at the end of October in his budget. So, that is the crucial determinant of council tax: what is the size of the public sector funding available to local authorities.\n\nI'm hoping, hearing what you say, that you want to see good local settlements for local authorities, and that you will work constructively with us to enable that to happen, just as Plaid Cymru enabled a good settlement to pass by working with the previous Welsh Government so that local government and the NHS were provided the best possible settlement as part of the budget deal of the last Senedd.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=5421"
+        },
+        {
+          "id": "contribution-778979",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "cy",
+          "t_start": 5550,
+          "text_english": "Climate resilience is an important element of this Government’s work to protect communities and improve outcomes. The draft budget for 2027-28 will support programme for government priorities on climate and nature, including Net Zero Wales, alongside wider Government measures to help Wales adapt to a changing climate.",
+          "text_original": "Mae gwydnwch rhag newid hinsawdd yn elfen bwysig o waith y Llywodraeth yma i amddiffyn cymunedau a gwella canlyniadau. Mi fydd y gyllideb ddrafft ar gyfer 2027-28 yn cefnogi blaenoriaethau’r rhaglen lywodraethu sydd yn ymwneud â'r hinsawdd a natur. Mae hyn yn cynnwys Cymru Sero Net, ochr yn ochr â mesurau ehangach y Llywodraeth i helpu Cymru i addasu i hinsawdd sy'n newid.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=5550"
+        },
+        {
+          "id": "contribution-778994",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "en",
+          "t_start": 5642,
+          "text_english": "Your question highlights probably the very real concerns that we all as elected Members in the Senedd have as to how we face the extreme weather challenges that will face us this winter, as have faced us in the summer past. You know that this Government takes its response and its planning for future events of this nature seriously. The First Minister has convened a summit on climate resilience to happen next week, I think, to bring stakeholders together to continue the discussion on how we prepare and make ourselves more resilient for extreme weather scenarios, because happen they will.\n\nOn the issue around how we budget for that, in my initial answer I told you of how we are looking to embed climate change mitigation measures across our budget. You've asked for a specific identification of an extreme weather resilience fund, if I've understood you correctly, across and in each budget allocation and portfolio. That is something that I will certainly think further on and discuss with you and with others in this Chamber. These are ever-changing but very present issues that we need to address as a Government, but also as a Senedd, in how we plan our budgets into the future and how we plan our work.",
+          "text_original": "Your question highlights probably the very real concerns that we all as elected Members in the Senedd have as to how we face the extreme weather challenges that will face us this winter, as have faced us in the summer past. You know that this Government takes its response and its planning for future events of this nature seriously. The First Minister has convened a summit on climate resilience to happen next week, I think, to bring stakeholders together to continue the discussion on how we prepare and make ourselves more resilient for extreme weather scenarios, because happen they will.\n\nOn the issue around how we budget for that, in my initial answer I told you of how we are looking to embed climate change mitigation measures across our budget. You've asked for a specific identification of an extreme weather resilience fund, if I've understood you correctly, across and in each budget allocation and portfolio. That is something that I will certainly think further on and discuss with you and with others in this Chamber. These are ever-changing but very present issues that we need to address as a Government, but also as a Senedd, in how we plan our budgets into the future and how we plan our work.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=5642"
+        }
+      ],
+      "date": "2026-10-14",
+      "record_page_url": "https://record.senedd.wales/Plenary/16316"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776205",
+          "item_id": "item-16313-261006-6",
+          "item_title_en": "6. Debate: Fiscal Reform",
+          "lang": "cy",
+          "t_start": 13458,
+          "text_english": "Llywydd, I move the motion before the Senedd this afternoon, and this debate is about one simple principle: ensuring that Wales has the funding, the fiscal flexibility and the investment required to deliver for communities across the country, for every postcode. I am pleased that this motion has been jointly tabled with Welsh Labour, which reflects a shared commitment to securing a fair funding settlement for Wales and builds on the work of the previous Government in this area. These issues affect communities across Wales, and I hope that there can be broad consensus across the Senedd this afternoon on the importance of these issues.",
+          "text_original": "Lywydd, dwi'n cyflwyno'r cynnig gerbron y Senedd y prynhawn yma, ac mae'r ddadl hon yn ymwneud ag un egwyddor syml: sicrhau bod gan Gymru'r cyllid, yr hyblygrwydd cyllidol a'r buddsoddiad sydd eu hangen i ddelifro ar gyfer cymunedau ledled y wlad, i bob postcode. Rwy'n falch bod y cynnig hwn wedi'i gyflwyno ar y cyd â Llafur Cymru, sy'n adlewyrchu ymrwymiad cyffredin i sicrhau setliad cyllido teg i Gymru ac yn adeiladu ar waith y Llywodraeth flaenorol yn y maes hwn. Mae'r materion hyn yn effeithio ar gymunedau ledled Cymru, ac rwy'n gobeithio gall fod consensws eang ar draws y Senedd y prynhawn yma ar bwysigrwydd y materion yma.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=13458"
+        },
+        {
+          "id": "contribution-776187",
+          "item_id": "item-16313-261006-6",
+          "item_title_en": "6. Debate: Fiscal Reform",
+          "lang": "cy",
+          "t_start": 13502,
+          "text_english": "The motion calls on the Welsh and UK Governments to work together in three key areas: enhancing Wales's fiscal flexibilities, to review the operation of the Barnett formula and to reaffirm support for the UK Government's commitment to invest £14 billion in rail infrastructure across Wales. These are practical, achievable steps that can help to strengthen our economy, support public services and improve people's lives. They are not asks for special treatment. They are asks for a collaborative approach to lead to better outcomes for Wales.\n\nFiscal flexibilities, therefore. The First Minister has been clear that the Welsh Government faces an exceptionally challenging financial outlook, with next year's budget expected to be lower in real terms than this year's. While demands on our public services, our infrastructure and economy continue to grow, the funding available to us is not keeping pace. Current forecasts point to a real-terms reduction in our resource budget of 0.7 per cent in 2027-28, while our capital budget is expected to be around 9 per cent lower in real terms by the end of the spending review period in 2030.\n\nThat challenge may become even greater once the implications of recent announcements by the UK Government on defence spending become clearer. In these circumstances, it's more important than ever that Wales has fair funding and the fiscal powers and flexibility needed to meet emerging challenges, invest in our priorities and deliver for communities across Wales. Ensuring that Wales has the tools to manage its own finances effectively is essential if decisions about Wales are to reflect Wales's needs and priorities.\n\nIn-year announcements from the UK Government, changing spending profiles and unforeseen economic circumstances can all have substantial impacts on our budget planning. But under current arrangements, the Welsh Government only has limited access to its own reserve and more restricted fiscal flexibilities than other parts of the UK. The Welsh Government has had to seek temporary waivers to Wales reserve restrictions in three of the last four years. That is not an effective way to manage public finances. We should not have to ask the UK Government each year for flexibilities that are already available elsewhere in the UK. I'm therefore seeking to place these temporary arrangements, which we have had to rely on repeatedly, on a permanent footing, providing greater certainty and supporting effective budget planning.\n\nRemoving restrictions on the Wales reserve is a practical first step. It would allow Wales to make better use of resources that already belong to Wales and bring our arrangements closer to those available in Scotland. Without full access to the Wales reserve, I will only be able to draw down £200 million, which is well under 1 per cent of the Wales budget, to assist with known and emerging pressures. This includes the impacts of funding announcements by the UK Government in year, such as the expected cuts in our capital settlement because of increased defence spending.\n\nOf course, these issues extend beyond the operation of the Wales reserve alone. The case for greater flexibility highlights a broader question about whether Wales's fiscal arrangements remain fit for purpose. That's why I have proposed a review of the Wales fiscal framework. A decade has passed since the fiscal framework was agreed in 2016. Wales has changed. The economic environment has changed. The constitutional landscape has changed. It's reasonable to ask whether the current arrangements remain fit for purpose and whether they provide Wales with the resilience and flexibility required to meet future challenges.\n\nAs part of that review, I will be looking to address a variety of issues, including the operation and flexibility of the Wales reserve and the adequacy of Wales's borrowing powers—and remember that local authorities have greater flexibilities than the Welsh Government has. We also need to look at the effectiveness of current funding arrangements in reflecting relative need and the case for further tax devolution. The Welsh Government plans to seek further income tax devolution and the devolution of air passenger duty. We will also be separately seeking competence for a new vacant land tax.\n\nThese issues go beyond the motion before the Senedd today, but I can also give you this commitment today: I will not agree, as finance Minister, a revised fiscal framework unless it is a good deal for Wales, and the opinion of the Senedd on this will be an important consideration as the review proceeds.",
+          "text_original": "Mae'r cynnig yn galw ar Lywodraethau Cymru a'r Deyrnas Gyfunol i weithio gyda'n gilydd mewn tri maes allweddol: i wella hyblygrwydd cyllidol Cymru, i adolygu gweithrediad fformiwla Barnett ac i ailddatgan cefnogaeth i ymrwymiad Llywodraeth y Deyrnas Gyfunol i fuddsoddi £14 biliwn mewn seilwaith rheilffyrdd ledled Cymru. Mae'r rhain yn gamau ymarferol, cyraeddadwy a all helpu i gryfhau ein heconomi, cefnogi gwasanaethau cyhoeddus a gwella bywydau pobl. Nid ydynt yn geisiadau am driniaeth arbennig. Maent yn geisiadau am ddull cydweithredol a fydd yn arwain at ganlyniadau gwell i Gymru.\n\nHyblygrwydd cyllidol, felly. Mae'r Prif Weinidog wedi bod yn glir bod Llywodraeth Cymru yn wynebu rhagolygon ariannol eithriadol o heriol, gyda disgwyl i gyllideb y flwyddyn nesaf fod yn is mewn termau real nag eleni. Tra bo'r galw ar ein gwasanaethau cyhoeddus, ein seilwaith a'n heconomi yn parhau i gynyddu, nid yw'r cyllid sydd ar gael inni yn cadw cam â hyn. Mae'r rhagolygon cyfredol yn dangos gostyngiad termau real yn ein cyllideb adnodd o 0.7 y cant yn ystod 2027-28, tra bod disgwyl i'r gyllideb gyfalaf fod tua 9 y cant yn is mewn termau real erbyn diwedd cyfnod yr adolygiad gwariant yn 2030.\n\nGallai'r her hon ddod yn fwy fyth unwaith y bydd goblygiadau cyhoeddiadau diweddar Llywodraeth y Deyrnas Gyfunol ar wariant amddiffyn yn gliriach i ni. Yn yr amgylchiadau hyn, mae'n bwysicach nag erioed bod gan Gymru gyllid teg, y pwerau cyllidol a'r hyblygrwydd sydd eu hangen i gwrdd â heriau, buddsoddi yn ein blaenoriaethau a chyflawni ar gyfer cymunedau. Mae sicrhau bod gan Gymru'r offer i reoli ei chyllid ei hun yn effeithiol yn hanfodol er mwyn i benderfyniadau am Gymru adlewyrchu anghenion a blaenoriaethau Cymru. \n\nGall cyhoeddiadau yn ystod y flwyddyn gan Lywodraeth y Deyrnas Gyfunol, newidiadau i broffiliau gwariant ac amgylchiadau economaidd annisgwyl oll gael effaith sylweddol ar ein gwaith o gynllunio'r gyllideb. Ond o dan y trefniadau presennol, dim ond mynediad cyfyngedig i'n cronfa wrth gefn sydd gan Lywodraeth Cymru a hyblygrwydd cyllidol mwy cyfyngedig na rhannau eraill o'r Deyrnas Gyfunol. Bu'n rhaid i Lywodraeth Cymru ofyn am hepgoriadau dros dro i gyfyngiadau'r cronfa wrth gefn mewn tair o'r pedair blynedd ddiwethaf. Nid yw hynny'n ffordd effeithiol o reoli cyllid cyhoeddus. Ni ddylem orfod gofyn i Lywodraeth y Deyrnas Gyfunol bob blwyddyn am yr hyblygrwydd sydd eisoes ar gael mewn rhannau eraill o'r Deyrnas Unedig. Felly, rwy'n ceisio rhoi'r trefniadau dros dro hyn, y bu'n rhaid dibynnu arnynt dro ar ôl tro, ar sail barhaol, gan ddarparu mwy o sicrwydd a chefnogi gwaith effeithiol o gynllunio'r gyllideb.\n\nMae dileu'r cyfyngiadau ar gronfa wrth gefn Cymru yn gam cyntaf ymarferol. Byddai hynny'n caniatáu i Gymru wneud gwell defnydd o adnoddau sydd eisoes yn perthyn i Gymru ac yn dod â'n trefniadau yn nes at y rhai sydd ar gael yn yr Alban. Heb fynediad llawn at gronfa wrth gefn, dim ond £200 miliwn y byddaf i'n gallu ei thynnu i lawr, sef ymhell o dan 1 y cant o gyllideb Cymru, er mwyn helpu i ymdrin â phwysau y gwyddom amdanynt eisoes a phwysau sy'n dod i'r amlwg. Mae hyn yn cynnwys effeithiau cyhoeddiadau ariannu Llywodraeth y Deyrnas Gyfunol o fewn blwyddyn, megis y toriadau disgwyliedig i'n setliad cyfalaf o ganlyniad i gynnydd mewn gwariant ar amddiffyn.\n\nWrth gwrs, mae'r materion yn ymestyn y tu hwnt i weithrediad cronfa wrth gefn Cymru yn unig. Mae'r achos dros fwy o hyblygrwydd yn tynnu sylw at gwestiwn ehangach ynghylch a yw trefniadau cyllidol Cymru yn parhau i fod yn addas. Dyna pam yr wyf yn cynnig adolygiad o fframwaith cyllidol Cymru. Mae degawd wedi mynd heibio ers i'r fframwaith cyllidol gael ei gytuno yn 2016. Mae Cymru wedi newid. Mae'r amgylchedd economaidd wedi newid. Mae'r dirwedd gyfansoddiadol wedi newid. Mae'n rhesymol gofyn a yw'r trefniadau presennol yn parhau i fod yn addas i'r diben ac a ydynt yn rhoi'r gwytnwch a'r hyblygrwydd sydd eu hangen i Gymru i gwrdd â heriau yn y dyfodol. \n\nFel rhan o'r adolygiad, byddaf eisiau mynd i'r afael ag amrywiaeth o faterion, gan gynnwys gweithrediad a hyblygrwydd cronfa wrth gefn Cymru a digonolrwydd pwerau benthyca Cymru—a chofiwch fod gan awdurdodau lleol fwy o hyblygrwydd cyllidol nag sydd gan Lywodraeth Cymru. Hefyd mae angen edrych ar effeithiolrwydd y trefniadau cyllido presennol o ran adlewyrchu angen cymharol a'r achos dros ddatganoli treth pellach. Mae Llywodraeth Cymru yn bwriadu ceisio datganoli pwerau pellach dros dreth incwm, ynghyd â datganoli'r doll teithwyr awyr. Byddwn hefyd yn ceisio cymhwysedd deddfwriaethol ar wahân ar gyfer treth newydd ar dir gwag.\n\nMae'r materion hyn yn mynd y tu hwnt i'r cynnig sydd gerbron y Senedd heddiw, ond gallaf roi'r ymrwymiad hwn ichi heddiw: ni fyddaf yn cytuno, fel Gweinidog cyllid, i fframwaith cyllidol diwygiedig oni bai ei fod yn gynnig da i Gymru, a bydd barn y Senedd yma ar hynny yn ystyriaeth bwysig wrth i’r adolygiad fynd yn ei flaen.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=13502"
+        },
+        {
+          "id": "contribution-776181",
+          "item_id": "item-16313-261006-6",
+          "item_title_en": "6. Debate: Fiscal Reform",
+          "lang": "en",
+          "t_start": 13829,
+          "text_english": "I want to be clear: recent UK Government funding settlements have provided additional resources for Wales, and we recognise that. Next year’s settlement, however, is negative in real terms. However, any increased funding does not automatically mean fair funding, nor does it necessarily provide sufficient resources to meet growing demands or address where there has been historical underinvestment by the UK Government.\n\nThe pressures facing public services remain significant. The NHS continues to face increasing demand, local authorities and other public services continue to face substantial financial pressures, while persistent inflation continues to erode the real-terms value of public spending. These pressures reinforce the need to consider whether current funding arrangements adequately reflect Wales's needs.\n\nMy priority is to improve the operation of the Barnett formula while also exploring, over the medium term, whether a more needs-based approach could better support communities across Wales. All systems can be improved. I do not underestimate the challenge. The Treasury's instinct will often be to resist changes to established funding arrangements or the transfer of additional fiscal powers. However, we must move beyond viewing these issues as a zero-sum game, and we must believe that the spirit of the new Prime Minister to support more devolution from Whitehall will reach even the darkest corners of the UK Treasury in the coming weeks and months.\n\nI also realise that there will be a variety of views across this Chamber on the need for reforming or replacing the Barnett formula. In the interest of building consensus, that is why this motion concentrates only on its operation. This is about ensuring that the system commands confidence, operates transparently and enables funding decisions to be clearly understood by governments and citizens alike.\n\nAs an illustration, we have limited visibility over how comparability percentages are determined and how changes at fiscal events are assessed by the Treasury. These decisions directly affect our funding. There should be a structured and timely process through which we can challenge or seek clarification.\n\nWe have already secured an action through the Finance: Interministerial Standing Committee to make practical improvements to the operation of the Barnett formula, increase transparency around funding decisions and remove constraints that limit our ability to invest in and improve Welsh public services. This work was started in the interministerial group by my predecessor, and new Ministers in our meeting in September agreed that this work must deliver tangible progress before we meet again in the new year. \n\nFinally for this opening introduction, Llywydd, the third part of the motion. For decades, Wales has experienced significant underinvestment in rail infrastructure. That is why we welcomed the UK Government's recommitment to invest £14 billion in Welsh rail infrastructure through the joint UK-Wales rail board vision, ‘Today, Tomorrow, Together’. I would also like to acknowledge the amount of work undertaken by the previous Welsh Government in its development.\n\nHowever, commitments alone do not improve connectivity. What matters now is delivery. At present, only £302 million has been allocated for the enhancement of non-devolved rail infrastructure in Wales during the current spending review period. That represents little more than 1 per cent of Network Rail spending in England and Wales over the same period.\n\nThe consequences of this long-term underinvestment extend beyond the rail network itself. Insufficient rail capacity and connectivity have limited travel choices for many communities, contributing to greater reliance on road transport, increased congestion on key routes such as the M4, as we heard earlier this afternoon, and higher transport-related emissions. Strengthening rail infrastructure is, therefore, not simply about improving train services; it is about creating a more resilient, sustainable and integrated transport network for Wales as a whole.\n\nDelivering the £14 billion commitment is an important step towards addressing decades of underinvestment in Wales's rail infrastructure and the legitimate concerns felt across Wales that we did not benefit from HS2 consequentials, despite the scale of rail investment elsewhere in the UK. Not receiving a consequential for HS2 has meant that we have not been able to choose to use that additional funding that would have come into our budget to invest in our own priorities for rail, roads or wider transport infrastructure.\n\nWe now need agreement on a delivery programme and a clear timeline for the £14 billion rail investment commitment. The UK Government must substantially increase current levels of investment to deliver the Burns and other stations, including in north Wales, that were committed to at the UK spending review in 2025. Doing so would improve connectivity, support economic growth and enable the development of future projects for the next spending review period, while beginning to address the historic underfunding of rail in Wales. We therefore want to see an additional £1 billion of the £14 billion commitment invested during the current spending review period, up to 2029-30. \n\nBetter connectivity links people to jobs, businesses to markets and communities to opportunities. Every part of Wales deserves the benefits that modern transport infrastructure can bring. If we can build consensus on what Wales needs, we'll be in a stronger position to secure the investment, powers and funding arrangements necessary to ensure that Wales's interests and needs are fully reflected in the UK autumn budget and future UK Government decisions.\n\nI look forward, this afternoon, to hearing the views of Members across the Chamber. I hope that there will be clarity on what unites us on fiscal reform. We will always be stronger in making our case for Wales when we speak with one voice. Diolch yn fawr.",
+          "text_original": "I want to be clear: recent UK Government funding settlements have provided additional resources for Wales, and we recognise that. Next year’s settlement, however, is negative in real terms. However, any increased funding does not automatically mean fair funding, nor does it necessarily provide sufficient resources to meet growing demands or address where there has been historical underinvestment by the UK Government.\n\nThe pressures facing public services remain significant. The NHS continues to face increasing demand, local authorities and other public services continue to face substantial financial pressures, while persistent inflation continues to erode the real-terms value of public spending. These pressures reinforce the need to consider whether current funding arrangements adequately reflect Wales's needs.\n\nMy priority is to improve the operation of the Barnett formula while also exploring, over the medium term, whether a more needs-based approach could better support communities across Wales. All systems can be improved. I do not underestimate the challenge. The Treasury's instinct will often be to resist changes to established funding arrangements or the transfer of additional fiscal powers. However, we must move beyond viewing these issues as a zero-sum game, and we must believe that the spirit of the new Prime Minister to support more devolution from Whitehall will reach even the darkest corners of the UK Treasury in the coming weeks and months.\n\nI also realise that there will be a variety of views across this Chamber on the need for reforming or replacing the Barnett formula. In the interest of building consensus, that is why this motion concentrates only on its operation. This is about ensuring that the system commands confidence, operates transparently and enables funding decisions to be clearly understood by governments and citizens alike.\n\nAs an illustration, we have limited visibility over how comparability percentages are determined and how changes at fiscal events are assessed by the Treasury. These decisions directly affect our funding. There should be a structured and timely process through which we can challenge or seek clarification.\n\nWe have already secured an action through the Finance: Interministerial Standing Committee to make practical improvements to the operation of the Barnett formula, increase transparency around funding decisions and remove constraints that limit our ability to invest in and improve Welsh public services. This work was started in the interministerial group by my predecessor, and new Ministers in our meeting in September agreed that this work must deliver tangible progress before we meet again in the new year. \n\nFinally for this opening introduction, Llywydd, the third part of the motion. For decades, Wales has experienced significant underinvestment in rail infrastructure. That is why we welcomed the UK Government's recommitment to invest £14 billion in Welsh rail infrastructure through the joint UK-Wales rail board vision, ‘Today, Tomorrow, Together’. I would also like to acknowledge the amount of work undertaken by the previous Welsh Government in its development.\n\nHowever, commitments alone do not improve connectivity. What matters now is delivery. At present, only £302 million has been allocated for the enhancement of non-devolved rail infrastructure in Wales during the current spending review period. That represents little more than 1 per cent of Network Rail spending in England and Wales over the same period.\n\nThe consequences of this long-term underinvestment extend beyond the rail network itself. Insufficient rail capacity and connectivity have limited travel choices for many communities, contributing to greater reliance on road transport, increased congestion on key routes such as the M4, as we heard earlier this afternoon, and higher transport-related emissions. Strengthening rail infrastructure is, therefore, not simply about improving train services; it is about creating a more resilient, sustainable and integrated transport network for Wales as a whole.\n\nDelivering the £14 billion commitment is an important step towards addressing decades of underinvestment in Wales's rail infrastructure and the legitimate concerns felt across Wales that we did not benefit from HS2 consequentials, despite the scale of rail investment elsewhere in the UK. Not receiving a consequential for HS2 has meant that we have not been able to choose to use that additional funding that would have come into our budget to invest in our own priorities for rail, roads or wider transport infrastructure.\n\nWe now need agreement on a delivery programme and a clear timeline for the £14 billion rail investment commitment. The UK Government must substantially increase current levels of investment to deliver the Burns and other stations, including in north Wales, that were committed to at the UK spending review in 2025. Doing so would improve connectivity, support economic growth and enable the development of future projects for the next spending review period, while beginning to address the historic underfunding of rail in Wales. We therefore want to see an additional £1 billion of the £14 billion commitment invested during the current spending review period, up to 2029-30. \n\nBetter connectivity links people to jobs, businesses to markets and communities to opportunities. Every part of Wales deserves the benefits that modern transport infrastructure can bring. If we can build consensus on what Wales needs, we'll be in a stronger position to secure the investment, powers and funding arrangements necessary to ensure that Wales's interests and needs are fully reflected in the UK autumn budget and future UK Government decisions.\n\nI look forward, this afternoon, to hearing the views of Members across the Chamber. I hope that there will be clarity on what unites us on fiscal reform. We will always be stronger in making our case for Wales when we speak with one voice. Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=13829"
+        },
+        {
+          "id": "contribution-776238",
+          "item_id": "item-16313-261006-6",
+          "item_title_en": "6. Debate: Fiscal Reform",
+          "lang": "en",
+          "t_start": 16672,
+          "text_english": "Diolch, Lywydd. To Reform, and to Cai Parry-Jones, may I start by saying that this Senedd most definitely should be discussing how we are funded? You tabled a debate last week on blankets of the past. I tabled one this week on the financing of Wales. Reform, you may be counting views and shares on social media. I'm counting the money made available and used in Wales. So, this motion is clear: it supports flexible access to reserves to enable better financial planning and control by Government, and that will definitely benefit the people of Wales.\n\nSecondly, it supports better operation and transparency on the decisions that finance Wales via Barnett. These decisions should not be hidden behind a Treasury curtain. And it calls for rail investment in Wales to finally be realised, and those Burns stations, so often mentioned in this Senedd, to be built.",
+          "text_original": "Diolch, Lywydd. To Reform, and to Cai Parry-Jones, may I start by saying that this Senedd most definitely should be discussing how we are funded? You tabled a debate last week on blankets of the past. I tabled one this week on the financing of Wales. Reform, you may be counting views and shares on social media. I'm counting the money made available and used in Wales. So, this motion is clear: it supports flexible access to reserves to enable better financial planning and control by Government, and that will definitely benefit the people of Wales.\n\nSecondly, it supports better operation and transparency on the decisions that finance Wales via Barnett. These decisions should not be hidden behind a Treasury curtain. And it calls for rail investment in Wales to finally be realised, and those Burns stations, so often mentioned in this Senedd, to be built.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=16672"
+        },
+        {
+          "id": "contribution-776239",
+          "item_id": "item-16313-261006-6",
+          "item_title_en": "6. Debate: Fiscal Reform",
+          "lang": "cy",
+          "t_start": 16733,
+          "text_english": "So, I'd like to thank Labour for jointly tabling the motion and also for their contribution outlining the commitment that you have to further reform of the fiscal framework in Wales. Sera Evans also outlined the need for flexibility in that access to our reserves, which is so important to us.",
+          "text_original": "Felly, diolch i Lafur am gyd-gyflwyno’r cynnig a'r galwadau yma, a hefyd, yn y cyfraniad, am amlinellu'r ymrwymiad sydd gyda chi i ddiwygiad pellach ar gyllido Cymru. Fe amlinellodd Sera Evans hefyd yr angen am hyblygrwydd i'r mynediad yna ar gyfer ein cronfeydd wrth gefn ni, sydd mor bwysig i ni.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=16733"
+        },
+        {
+          "id": "contribution-776240",
+          "item_id": "item-16313-261006-6",
+          "item_title_en": "6. Debate: Fiscal Reform",
+          "lang": "en",
+          "t_start": 16760,
+          "text_english": "Paul Marr, we share the same constituents, and I can tell you that they are interested in Wales getting its fair share of funding, and especially on rail investment in Pembrokeshire and into Aberystwyth. That's not ideology; that's better rail services.",
+          "text_original": "Paul Marr, we share the same constituents, and I can tell you that they are interested in Wales getting its fair share of funding, and especially on rail investment in Pembrokeshire and into Aberystwyth. That's not ideology; that's better rail services.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=16760"
+        },
+        {
+          "id": "contribution-776243",
+          "item_id": "item-16313-261006-6",
+          "item_title_en": "6. Debate: Fiscal Reform",
+          "lang": "en",
+          "t_start": 16780,
+          "text_english": "Yes.",
+          "text_original": "Yes.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=16780"
+        },
+        {
+          "id": "contribution-776245",
+          "item_id": "item-16313-261006-6",
+          "item_title_en": "6. Debate: Fiscal Reform",
+          "lang": "en",
+          "t_start": 16794,
+          "text_english": "This motion today is not about the fiscal review; it's about the operation of Barnett. It is different to the call—.  It was seeking to create a consensus, a commonsense consensus, across this Chamber that you've decided that you don't sign up to.\n\nIt was good to hear the commonsense approach by the Conservatives, speaking of appropriate powers for appropriate use, and that's what good politics means. [Interruption.] Look at the detail of what's in front of you. Others have suggested and said quite clearly that we need to not lay on our laurels and remain just on what this motion today is seeking to create for the Senedd, but to be bolder—Jane Dodds's words; Carrie Harper also made that call.\n\nI would say also, Mike Hedges, I will use that line when I next speak to the UK Treasury, when you reminded us all that school governing bodies and local authorities have more fiscal powers and borrowing powers than this Senedd itself has, on access to reserves in particular. You said the UK Treasury should not be micromanaging the finances of Wales, and that's a very important thing for us to get them to understand.\n\nSo, we've created a consensus here today. It doesn't include Reform. I won't lose any sleep over that. But if I can finish by just saying that these proposals in this motion are rooted in partnership, fairness and a shared cross-party ambition to improve outcomes for the people of Wales. And if that wasn't worth an hour of this Senedd's time, then I don't know what could be.",
+          "text_original": "This motion today is not about the fiscal review; it's about the operation of Barnett. It is different to the call—.  It was seeking to create a consensus, a commonsense consensus, across this Chamber that you've decided that you don't sign up to.\n\nIt was good to hear the commonsense approach by the Conservatives, speaking of appropriate powers for appropriate use, and that's what good politics means. [Interruption.] Look at the detail of what's in front of you. Others have suggested and said quite clearly that we need to not lay on our laurels and remain just on what this motion today is seeking to create for the Senedd, but to be bolder—Jane Dodds's words; Carrie Harper also made that call.\n\nI would say also, Mike Hedges, I will use that line when I next speak to the UK Treasury, when you reminded us all that school governing bodies and local authorities have more fiscal powers and borrowing powers than this Senedd itself has, on access to reserves in particular. You said the UK Treasury should not be micromanaging the finances of Wales, and that's a very important thing for us to get them to understand.\n\nSo, we've created a consensus here today. It doesn't include Reform. I won't lose any sleep over that. But if I can finish by just saying that these proposals in this motion are rooted in partnership, fairness and a shared cross-party ambition to improve outcomes for the people of Wales. And if that wasn't worth an hour of this Senedd's time, then I don't know what could be.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=16794"
+        }
+      ],
+      "date": "2026-10-06",
+      "record_page_url": "https://record.senedd.wales/Plenary/16313"
+    },
     {
       "contributions": [
         {

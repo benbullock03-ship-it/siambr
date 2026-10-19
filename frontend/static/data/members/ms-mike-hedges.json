@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "abstain"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,184 @@
   "canonical_name": "Mike Hedges",
   "constituency_name_cy": "Gŵyr Abertawe",
   "constituency_name_en": "Gŵyr Abertawe",
-  "contribution_count": 51,
+  "contribution_count": 65,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778860",
+          "item_id": "item-16316-261014-2",
+          "item_title_en": "1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport",
+          "lang": "en",
+          "t_start": 880,
+          "text_english": "Thank you, Deputy Presiding Officer. I want to raise a question on esports, which, as most people I think know, is short for electronic sports, which refers to organised competitive video gaming where individuals or teams compete in specific games for prizes, ranking or prestige. Esports have developed from a casual hobby into a structured global industry with leagues, governing bodies, teams, sponsors and dedicated venues. In Wales, the industry is growing rapidly. From my days of being a college lecturer, it was very popular. Esports Wales runs multiple official tournaments throughout the Welsh esports league, and the student esports championships. These events include seasonal leagues, open tournaments and school and college competitions, with structured formats and prize money. Will the Minister dedicate some of the money given to support the creative industries to esports as part of a comprehensive esports strategy?",
+          "text_original": "Thank you, Deputy Presiding Officer. I want to raise a question on esports, which, as most people I think know, is short for electronic sports, which refers to organised competitive video gaming where individuals or teams compete in specific games for prizes, ranking or prestige. Esports have developed from a casual hobby into a structured global industry with leagues, governing bodies, teams, sponsors and dedicated venues. In Wales, the industry is growing rapidly. From my days of being a college lecturer, it was very popular. Esports Wales runs multiple official tournaments throughout the Welsh esports league, and the student esports championships. These events include seasonal leagues, open tournaments and school and college competitions, with structured formats and prize money. Will the Minister dedicate some of the money given to support the creative industries to esports as part of a comprehensive esports strategy?",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=880"
+        },
+        {
+          "id": "contribution-778844",
+          "item_id": "item-16316-261014-2",
+          "item_title_en": "1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport",
+          "lang": "en",
+          "t_start": 982,
+          "text_english": "Thank you very much for that answer. As you may remember, in November 2024, the then Minister for Culture, Skills and Social Partnership, Jack Sargeant, took part in a landmark event in the Senedd to promote Wales's thriving esports industry and the Government's commitment to providing the safest and most engaging environment for young gamers. At the event, the Minister said that esports\n\n'is a priority sector for the Welsh Government and I’m keen do all I can to support its growth and gain an international reputation for Wales as a centre for this rapidly growing industry.'\n\nEsports Wales have garnered significant success in recent years, with notable achievements, such as winning a gold medal in the Rocket League open competition at the Commonwealth Esports Championships. The team also secured a silver medal in the eFootball women's competition and a bronze in the eFootball open competition. I was very pleased, in the event we had here, to see Peter Fox in action playing esports. Are esports a priority for this Government, and have they a date for another esports event at the Senedd?",
+          "text_original": "Thank you very much for that answer. As you may remember, in November 2024, the then Minister for Culture, Skills and Social Partnership, Jack Sargeant, took part in a landmark event in the Senedd to promote Wales's thriving esports industry and the Government's commitment to providing the safest and most engaging environment for young gamers. At the event, the Minister said that esports\n\n'is a priority sector for the Welsh Government and I’m keen do all I can to support its growth and gain an international reputation for Wales as a centre for this rapidly growing industry.'\n\nEsports Wales have garnered significant success in recent years, with notable achievements, such as winning a gold medal in the Rocket League open competition at the Commonwealth Esports Championships. The team also secured a silver medal in the eFootball women's competition and a bronze in the eFootball open competition. I was very pleased, in the event we had here, to see Peter Fox in action playing esports. Are esports a priority for this Government, and have they a date for another esports event at the Senedd?",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=982"
+        },
+        {
+          "id": "contribution-779025",
+          "item_id": "item-16316-261014-6",
+          "item_title_en": "5. Welsh Labour Debate: Palliative and end-of-life care",
+          "lang": "en",
+          "t_start": 7353,
+          "text_english": "I have visited Tŷ Olwen Hospice both as a relative and also as a Senedd representative of the area in which Tŷ Olwen is based. The issue that got me considering palliative care in detail, and hospices, was the assisted dying debate. The lack of adequate palliative care and end-of-life care and that it needs to be improved became immediately apparent. Palliative care offers physical, emotional and practical support to people with a terminal illness; it can be offered at any point after a terminal diagnosis. It was not only those suffering from motor neurone disease and other degenerative diseases who wished for the end-of-life option, but others with conditions who, with good palliative care, could have had a rewarding life.\n\nFirst published in 2022, under a Labour Government, the palliative care quality statement set out high-level Welsh Government policy intentions for children's, young people's and adults' palliative and end-of-life care. The statement described what good-quality palliative and end-of-life care should look like. It listed six quality attributes: safe, timely, effective, person-centred, efficient, equitable.\n\nPalliative care and end-of-life care is a critical part of our health and social care system. When it is got right, it can have a profound impact on people living with terminal illnesses and those close to them. Gaps in provision and a system under severe pressure mean that too many people are left without the care and support they need. Demand for palliative care and end-of-life care is growing. Marie Curie estimate that, by 2040, 37,000 people will need palliative and end-of-life care each year. With a system that cannot cope now, unless the Government treats this as a matter of urgency, there is very little chance of meeting future need. Clear leadership from the Welsh Government is needed to address the palliative and end-of-life care system.\n\nI support Marie Curie's list of actions for the Government: ensure palliative and end-of-life care services are responsive to people's needs: high-quality care must be available in the right place at the right time in all parts of Wales; the Government must sustainably fund palliative and end-of-life services to meet the needs of all people living with a terminal illness across Wales; develop a palliative and end-of-life workforce that meets the growing need for care; ensure that all health and social care professionals have at least a foundation knowledge of palliative and end-of-life care; tell people living with terminal illnesses that a diagnosis could lead to death, tell them in language they can understand, and ensure people who are deaf, for example, have sign language interpreters available; patients need to be supported to have a conversation about their care preferences and have advance care plans in action; those who are terminally ill and those close to them, such as family, carers and friends, need 24-hour access to care, support and reassurance; ensure that people living with terminal illnesses are discharged from hospital swiftly when they are deemed able to return home; and appropriate support must be in place at the point of discharge, including support to die in their preferred place. This will, as well as benefiting terminally ill patients, free up beds in hospital and end the continual movement of those who are terminally ill into and out of hospital.\n\nWe cannot allow a postcode lottery for end-of-life care. Wherever you live in Wales, you need the same level of provision. With palliative care, there is a major role carried out by unpaid carers. The needs of unpaid carers have to be assessed and reviewed so that their needs can be met and the support they need can be provided. The difference that high-quality palliative care and end-of-life care can make for people living with a terminal illness, and those close to them, cannot be understated.\n\nToo many in Wales cannot access the care they need. What we need is for health boards and trusts to periodically assess palliative and end-of-life care for their local population, then use that to inform service planning and delivery—these assessments to be made publicly available. Health boards must publish a local delivery plan for palliative care. These must set out how they will meet the population need and achieve the ambitions set out in the Welsh Government quality statement. All regional partnership boards must include palliative and end-of-life care leads to provide expert advice and guidance on meeting the needs of people with terminal illness and those close to them.\n\nCan I just raise three matters from personal experience? A patient with cancer of the oesophagus who could not swallow was going to literally be left to starve to death until I intervened, and they had six months of a rewarding life by being PEG fed; a terminally ill patient without palliative care who just went in and out of hospital with no palliative-care support; a terminally ill patient left in a nursing home with no palliative support. All this needs funding. There is a need to establish a sustainable funding solution to establish a sustainable palliative care and end-of-life care system that can meet the growing need for care. There doesn't need to be a magic money tree—use unallocated resources, do what matters, instead of things such as a shadow broadcasting and communications authority for Wales. Palliative care and end-of-life care matter to me—do they matter to the Welsh Government?",
+          "text_original": "I have visited Tŷ Olwen Hospice both as a relative and also as a Senedd representative of the area in which Tŷ Olwen is based. The issue that got me considering palliative care in detail, and hospices, was the assisted dying debate. The lack of adequate palliative care and end-of-life care and that it needs to be improved became immediately apparent. Palliative care offers physical, emotional and practical support to people with a terminal illness; it can be offered at any point after a terminal diagnosis. It was not only those suffering from motor neurone disease and other degenerative diseases who wished for the end-of-life option, but others with conditions who, with good palliative care, could have had a rewarding life.\n\nFirst published in 2022, under a Labour Government, the palliative care quality statement set out high-level Welsh Government policy intentions for children's, young people's and adults' palliative and end-of-life care. The statement described what good-quality palliative and end-of-life care should look like. It listed six quality attributes: safe, timely, effective, person-centred, efficient, equitable.\n\nPalliative care and end-of-life care is a critical part of our health and social care system. When it is got right, it can have a profound impact on people living with terminal illnesses and those close to them. Gaps in provision and a system under severe pressure mean that too many people are left without the care and support they need. Demand for palliative care and end-of-life care is growing. Marie Curie estimate that, by 2040, 37,000 people will need palliative and end-of-life care each year. With a system that cannot cope now, unless the Government treats this as a matter of urgency, there is very little chance of meeting future need. Clear leadership from the Welsh Government is needed to address the palliative and end-of-life care system.\n\nI support Marie Curie's list of actions for the Government: ensure palliative and end-of-life care services are responsive to people's needs: high-quality care must be available in the right place at the right time in all parts of Wales; the Government must sustainably fund palliative and end-of-life services to meet the needs of all people living with a terminal illness across Wales; develop a palliative and end-of-life workforce that meets the growing need for care; ensure that all health and social care professionals have at least a foundation knowledge of palliative and end-of-life care; tell people living with terminal illnesses that a diagnosis could lead to death, tell them in language they can understand, and ensure people who are deaf, for example, have sign language interpreters available; patients need to be supported to have a conversation about their care preferences and have advance care plans in action; those who are terminally ill and those close to them, such as family, carers and friends, need 24-hour access to care, support and reassurance; ensure that people living with terminal illnesses are discharged from hospital swiftly when they are deemed able to return home; and appropriate support must be in place at the point of discharge, including support to die in their preferred place. This will, as well as benefiting terminally ill patients, free up beds in hospital and end the continual movement of those who are terminally ill into and out of hospital.\n\nWe cannot allow a postcode lottery for end-of-life care. Wherever you live in Wales, you need the same level of provision. With palliative care, there is a major role carried out by unpaid carers. The needs of unpaid carers have to be assessed and reviewed so that their needs can be met and the support they need can be provided. The difference that high-quality palliative care and end-of-life care can make for people living with a terminal illness, and those close to them, cannot be understated.\n\nToo many in Wales cannot access the care they need. What we need is for health boards and trusts to periodically assess palliative and end-of-life care for their local population, then use that to inform service planning and delivery—these assessments to be made publicly available. Health boards must publish a local delivery plan for palliative care. These must set out how they will meet the population need and achieve the ambitions set out in the Welsh Government quality statement. All regional partnership boards must include palliative and end-of-life care leads to provide expert advice and guidance on meeting the needs of people with terminal illness and those close to them.\n\nCan I just raise three matters from personal experience? A patient with cancer of the oesophagus who could not swallow was going to literally be left to starve to death until I intervened, and they had six months of a rewarding life by being PEG fed; a terminally ill patient without palliative care who just went in and out of hospital with no palliative-care support; a terminally ill patient left in a nursing home with no palliative support. All this needs funding. There is a need to establish a sustainable funding solution to establish a sustainable palliative care and end-of-life care system that can meet the growing need for care. There doesn't need to be a magic money tree—use unallocated resources, do what matters, instead of things such as a shadow broadcasting and communications authority for Wales. Palliative care and end-of-life care matter to me—do they matter to the Welsh Government?",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=7353"
+        }
+      ],
+      "date": "2026-10-14",
+      "record_page_url": "https://record.senedd.wales/Plenary/16316"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-778555",
+          "item_id": "item-16315-261013-4",
+          "item_title_en": "4. Statement by the Cabinet Minister for Rural Resilience and Sustainability: Winter preparedness: Be flood ready",
+          "lang": "en",
+          "t_start": 9857,
+          "text_english": "We've just had the warmest summer of the rest of our lives. According to public documents, we have had more flooding in the first 25 years of the twenty-first century than the whole of the twentieth century. Whilst flooding is not as annually predictable as heat, we'll have more flooding in the next five years than the last five years. You can believe that climate change is not happening, it does not stop it happening or stop the repercussions of it. Will the Government consider taking the following action? Plant trees on higher ground to reduce floods at source; introduce beavers into rivers to create ponds and wetlands that slow down river flow; promote the use of planted areas, rain gardens and permeable paving to allow water to drain away. We're not going to stop the water coming down, but at least we can do something with it.",
+          "text_original": "We've just had the warmest summer of the rest of our lives. According to public documents, we have had more flooding in the first 25 years of the twenty-first century than the whole of the twentieth century. Whilst flooding is not as annually predictable as heat, we'll have more flooding in the next five years than the last five years. You can believe that climate change is not happening, it does not stop it happening or stop the repercussions of it. Will the Government consider taking the following action? Plant trees on higher ground to reduce floods at source; introduce beavers into rivers to create ponds and wetlands that slow down river flow; promote the use of planted areas, rain gardens and permeable paving to allow water to drain away. We're not going to stop the water coming down, but at least we can do something with it.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=9857"
+        }
+      ],
+      "date": "2026-10-13",
+      "record_page_url": "https://record.senedd.wales/Plenary/16315"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-775879",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 2506,
+          "text_english": "I'm a Swansea City Association Football Club supporter and I remember the effect that playing in the premiership, winning the league cup and qualifying in Europe had on the image of Swansea. I drove down Mumbles Road one Saturday morning and a huge crowd of Chelsea supporters were walking towards the city centre. They had stayed in Swansea overnight, paid for accommodation, food and drink, helping our economy. The Ospreys, when they have European games against French and English opponents, also generate a substantial number of overnight supporters, with the same effect. Does the First Minister agree with me that the success of professional sport is beneficial for our economy, and that Swansea needs Swansea City back in the premiership and a successful Ospreys team? [Laughter.]",
+          "text_original": "I'm a Swansea City Association Football Club supporter and I remember the effect that playing in the premiership, winning the league cup and qualifying in Europe had on the image of Swansea. I drove down Mumbles Road one Saturday morning and a huge crowd of Chelsea supporters were walking towards the city centre. They had stayed in Swansea overnight, paid for accommodation, food and drink, helping our economy. The Ospreys, when they have European games against French and English opponents, also generate a substantial number of overnight supporters, with the same effect. Does the First Minister agree with me that the success of professional sport is beneficial for our economy, and that Swansea needs Swansea City back in the premiership and a successful Ospreys team? [Laughter.]",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=2506"
+        },
+        {
+          "id": "contribution-776044",
+          "item_id": "item-16313-261006-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 6674,
+          "text_english": "I'm requesting a Government statement on its tourism strategy. A strategy is not saying that tourism is important to the Welsh economy and that we want it. Which tourism sectors does the Welsh Government think are important? How are they going to target groups? How will they distinguish between day tourists and overnight tourists? I would prioritise active tourism, such as hiking, cycling and golf. The question is can we share golf tourism with Ireland. Has anybody asked? I would also prioritise cultural tourism to eisteddfods and historical buildings, including chapels and churches. But we do need a strategy.",
+          "text_original": "I'm requesting a Government statement on its tourism strategy. A strategy is not saying that tourism is important to the Welsh economy and that we want it. Which tourism sectors does the Welsh Government think are important? How are they going to target groups? How will they distinguish between day tourists and overnight tourists? I would prioritise active tourism, such as hiking, cycling and golf. The question is can we share golf tourism with Ireland. Has anybody asked? I would also prioritise cultural tourism to eisteddfods and historical buildings, including chapels and churches. But we do need a strategy.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=6674"
+        },
+        {
+          "id": "contribution-776247",
+          "item_id": "item-16313-261006-6",
+          "item_title_en": "6. Debate: Fiscal Reform",
+          "lang": "en",
+          "t_start": 15943,
+          "text_english": "Every local authority in Britain can move money into and out of reserves. This includes town and community councils and it actually includes school governing bodies, who can also move money into and out of reserves. No controls, no rules. It's their money, they can spend it or save it. Why is the Welsh Government treated differently? Once money is allocated to Wales or is raised in Wales, the Treasury has no legitimate interest in that money. This is the way they treat Westminster committees and how they treat different spending areas in Westminster. It is not the way to treat a Government.\n\nMoney is sometimes allocated late in the year, sometimes very late in the year. Money has been claimed back. There is an expectation it could have been carried forward, but that's only an expectation. The rules are really unfair. If not always able to carry it forward, money was claimed back. I did suggest at the time that we should not rely on the Treasury being fair—I don't think anybody's ever thought the Treasury was fair—and that we should actually take the money and spend it. We could give it to local authorities or give it to housing associations without any problem at all. But this is not a way to run a national budget. It does not cost the Treasury any money. Once it's here, it's here, and I don't see why they want to get involved in micromanaging Wales. It has to end. And once the money is allocated, then why does the Treasury want to get involved? It is not their money, they should be leaving us alone.\n\nOn funding, despite what has been said and believed, Wales does well out of the current system. We receive substantially more than we pay in. Estimates suggest that we collect about 70 per cent to 75 per cent of the per capita income in Wales. We spend about 110 per cent, including central Government expenditure, here in Wales. This is what being part of a larger country means—money is provided to those who need it most.\n\nWhat should a funding system look like? Characteristics of a funding system for subnational Governments that were originally proposed by the Calman commission include: stability and predictability; simplicity and transparency; autonomy; efficiency; equity, so that resources are allocated in a way that takes account of relative need; and accountability, so that the link between decisions made and the tax paid by voters is clear. Any additional tax take within a region should impact on the budget available.\n\nThe Barnett formula evolved from the Goschen formula, which was designed specifically to preserve Scotland's public expenditure advantage over England. The formula was thus never designed with Wales in mind. Applied rigorously, the formula should have led to convergence in levels of spending per head across the UK. The formula has, however, preserved the spending advantage for Wales over England. There have been periodic adjustments to the operation of the formula since 1980, mainly through relative population changes. These adjustments have increased relative spending levels in Wales. The main advantage of the formula is its simplicity and objectivity as a basis for making spending allocations. There has been notable success in securing formula bypass since devolution. For example, Objective 1 match funding and funding for city deals. Northern Ireland has done substantially better in receiving money in excess of the Barnett formula. Remember, the Barnett formula calculates the minimum to be provided. Anything over and above that is allowed to be provided by the Government if they so desire.\n\nWe also have the Barnett floor. It was set following the Holtham commission investigation into the needs of Wales. At the 2015 spending review, the UK Conservative Government—see, Sam, I do mention the Conservatives—implemented a funding floor in Wales. This provided a guarantee that the Welsh Government block grant funding per head would not fall below 115 per cent of equivalent spending per head in England. Currently in Wales we get about 120 per cent of the equivalent funding per head in England. With the result of the Holtham review that Wales needs 115 per cent of the equivalent funding per head in England in devolved areas, if we get 120 per cent, we're doing well.\n\nCurrently, the total budget is £27.5 billion—£22.8 billion in revenue and £3.6 billion in capital. So, if Wales gets its 115 per cent, which is what Holtham said, then we get about £1 billion more than we should be getting, or than would be calculated. So, this idea that Wales is treated very badly by everybody might play well in certain circles, but it doesn't actually play with reality. This needs recalculating. I suggest academics, jointly appointed by the Welsh Government and the Treasury, at five-yearly intervals, should recalculate Wales's need. But remember, there's a danger that Wales will get less.\n\nI support additional funding for rail. I have stations in my constituency that we need to be opening and reopening. Would money better be spent on transport in general? We need work doing on bus and rail interchanges. We need to ensure adequate parking near the new stations. What we do not need are rail lines to fulfil the wishes of the few passengers who want to use them.",
+          "text_original": "Every local authority in Britain can move money into and out of reserves. This includes town and community councils and it actually includes school governing bodies, who can also move money into and out of reserves. No controls, no rules. It's their money, they can spend it or save it. Why is the Welsh Government treated differently? Once money is allocated to Wales or is raised in Wales, the Treasury has no legitimate interest in that money. This is the way they treat Westminster committees and how they treat different spending areas in Westminster. It is not the way to treat a Government.\n\nMoney is sometimes allocated late in the year, sometimes very late in the year. Money has been claimed back. There is an expectation it could have been carried forward, but that's only an expectation. The rules are really unfair. If not always able to carry it forward, money was claimed back. I did suggest at the time that we should not rely on the Treasury being fair—I don't think anybody's ever thought the Treasury was fair—and that we should actually take the money and spend it. We could give it to local authorities or give it to housing associations without any problem at all. But this is not a way to run a national budget. It does not cost the Treasury any money. Once it's here, it's here, and I don't see why they want to get involved in micromanaging Wales. It has to end. And once the money is allocated, then why does the Treasury want to get involved? It is not their money, they should be leaving us alone.\n\nOn funding, despite what has been said and believed, Wales does well out of the current system. We receive substantially more than we pay in. Estimates suggest that we collect about 70 per cent to 75 per cent of the per capita income in Wales. We spend about 110 per cent, including central Government expenditure, here in Wales. This is what being part of a larger country means—money is provided to those who need it most.\n\nWhat should a funding system look like? Characteristics of a funding system for subnational Governments that were originally proposed by the Calman commission include: stability and predictability; simplicity and transparency; autonomy; efficiency; equity, so that resources are allocated in a way that takes account of relative need; and accountability, so that the link between decisions made and the tax paid by voters is clear. Any additional tax take within a region should impact on the budget available.\n\nThe Barnett formula evolved from the Goschen formula, which was designed specifically to preserve Scotland's public expenditure advantage over England. The formula was thus never designed with Wales in mind. Applied rigorously, the formula should have led to convergence in levels of spending per head across the UK. The formula has, however, preserved the spending advantage for Wales over England. There have been periodic adjustments to the operation of the formula since 1980, mainly through relative population changes. These adjustments have increased relative spending levels in Wales. The main advantage of the formula is its simplicity and objectivity as a basis for making spending allocations. There has been notable success in securing formula bypass since devolution. For example, Objective 1 match funding and funding for city deals. Northern Ireland has done substantially better in receiving money in excess of the Barnett formula. Remember, the Barnett formula calculates the minimum to be provided. Anything over and above that is allowed to be provided by the Government if they so desire.\n\nWe also have the Barnett floor. It was set following the Holtham commission investigation into the needs of Wales. At the 2015 spending review, the UK Conservative Government—see, Sam, I do mention the Conservatives—implemented a funding floor in Wales. This provided a guarantee that the Welsh Government block grant funding per head would not fall below 115 per cent of equivalent spending per head in England. Currently in Wales we get about 120 per cent of the equivalent funding per head in England. With the result of the Holtham review that Wales needs 115 per cent of the equivalent funding per head in England in devolved areas, if we get 120 per cent, we're doing well.\n\nCurrently, the total budget is £27.5 billion—£22.8 billion in revenue and £3.6 billion in capital. So, if Wales gets its 115 per cent, which is what Holtham said, then we get about £1 billion more than we should be getting, or than would be calculated. So, this idea that Wales is treated very badly by everybody might play well in certain circles, but it doesn't actually play with reality. This needs recalculating. I suggest academics, jointly appointed by the Welsh Government and the Treasury, at five-yearly intervals, should recalculate Wales's need. But remember, there's a danger that Wales will get less.\n\nI support additional funding for rail. I have stations in my constituency that we need to be opening and reopening. Would money better be spent on transport in general? We need work doing on bus and rail interchanges. We need to ensure adequate parking near the new stations. What we do not need are rail lines to fulfil the wishes of the few passengers who want to use them.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=15943"
+        }
+      ],
+      "date": "2026-10-06",
+      "record_page_url": "https://record.senedd.wales/Plenary/16313"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-773488",
+          "item_id": "item-16265-260930-1",
+          "item_title_en": "1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "2. How will the Welsh Government ensure that Flying Start and the new 20-hour childcare offer will together be flexible enough to support families' working lives? OQ64565",
+          "text_original": "2. Sut y bydd Llywodraeth Cymru yn sicrhau y bydd Dechrau'n Deg a'r cynnig gofal plant newydd 20 awr, gyda'i gilydd, yn ddigon hyblyg i gefnogi bywydau gwaith teuluoedd? OQ64565",
+          "tv_url": "http://www.senedd.tv/en/16265"
+        },
+        {
+          "id": "contribution-773490",
+          "item_id": "item-16265-260930-1",
+          "item_title_en": "1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice",
+          "lang": "cy",
+          "t_start": 412,
+          "text_english": "Thank you for that response.",
+          "text_original": "Diolch am eich ateb.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=412"
+        },
+        {
+          "id": "contribution-773491",
+          "item_id": "item-16265-260930-1",
+          "item_title_en": "1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice",
+          "lang": "en",
+          "t_start": 415,
+          "text_english": "Flying Start is a brilliant initiative, despite its flaws. Too many children start nursery with a developmental age of two, while some of the more advanced start with a developmental age approaching four. Some start not toilet trained and with very limited communication and social skills. Flying Start gives an opportunity to narrow that gap and helps build self-esteem so that children start school not as self-defined failures. There have been problems based on the lower super-output areas, where some of the wealthiest in Swansea were in Flying Start areas and some of the poorest were not. Using the Welsh index of multiple deprivation does not work in heterogeneous areas. House prices are a much better indicator. Will the Minister commit to continuing the Flying Start provision and improving on it?",
+          "text_original": "Flying Start is a brilliant initiative, despite its flaws. Too many children start nursery with a developmental age of two, while some of the more advanced start with a developmental age approaching four. Some start not toilet trained and with very limited communication and social skills. Flying Start gives an opportunity to narrow that gap and helps build self-esteem so that children start school not as self-defined failures. There have been problems based on the lower super-output areas, where some of the wealthiest in Swansea were in Flying Start areas and some of the poorest were not. Using the Welsh index of multiple deprivation does not work in heterogeneous areas. House prices are a much better indicator. Will the Minister commit to continuing the Flying Start provision and improving on it?",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=415"
+        }
+      ],
+      "date": "2026-09-30",
+      "record_page_url": "https://record.senedd.wales/Plenary/16265"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771630",
+          "item_id": "item-16263-260923-6",
+          "item_title_en": "6. Welsh Labour Debate: Further education",
+          "lang": "en",
+          "t_start": 10069,
+          "text_english": "We know there is a crisis of young people not being in education, employment or training, and the long-term scarring impact this has on their future health, earnings and life chances. If they're not in education between 16 and 18, the chance of them joining education after 18 or reaching employment reduces, and reduces rapidly.\n\nAs a former FE college lecturer and college governor, I welcome the increased participation of young people in further education colleges across Wales. It's very welcome, the rising demand for vocational and technical education. We need plumbers, we need hairdressers, we need electricians, we need decorators. We know we need those. In Britain, there were 981,000 young people aged 16 to 24 not in employment, education or training between April and June, according to the Office for National Statistics. But what shifts have happened there? We've got a lost generation of young people, and they're going to be lost forever unless urgent action is taken. And that really does fall on the Welsh Government to start taking some of this action.\n\nWhat's happened over time has been the composition of this inactive group. The proportion who are inactive due to sickness or disability has more than doubled since 2005. I find it difficult to believe that almost a third of people who were NEETs in 2025 had health problems to such an extent that they were unable to engage in either education, training or employment. Other reasons are people having health and caring responsibilities and those who do not want or need employment. Those who do not want or need employment rose sharply during the same period, to reach 23 per cent of NEETs in 2025. I find it alarming that there will be some, the wealthy—probably sat on the benches opposite us—who actually have no need to work. But there's an awful lot of people who, if they're not in employment, are getting by on benefits.\n\nAt the same time, the share of young people inactive due to caring reasons has dropped, which is good news, but, again, the unpaid carers who we all meet fairly regularly keep on telling us about the problems. Those aged 16 and 17 who are likely to have been inactive for other reasons over the past few years, what happens then? They don't want to go to school. Lots of people don't want to carry on in school, school isn't for them, but that's not the end of education, that's not the end of training and that doesn't mean that they can never work. We have the Welsh Government's young person's guarantee scheme and that scheme is greatly welcomed.\n\nColleges and private training providers are the only option when direct movement into employment is not available. Private training providers, many of whom do an excellent job, lack capacity to train large numbers of young people. Evidence consistently shows that remaining in education post 16 is critical to young people's long-term life outcomes. It's also a point at which young people face a major decision of continuing in academic education or pursuing vocational education—a choice that can be difficult for those with limited guidance or family support. A lot of this comes down to what type of jobs you know, and most young people, what jobs do they know? They know teachers because they see them every day, they know what their families do, they know what their neighbours do, but there's a whole range of jobs that they know nothing about. A former Member of this Senedd who became a barrister did so because he went on training days with a barrister in Swansea. Now, that's something that is incredibly good, but we can't leave the future of young people to that sort of chance, can we?\n\nMany young people want to go to college, and I recognise the financial pressures on colleges, if only because they keep on telling me. But no 16 to 18-year-old should be unable to attend a college because not enough places are funded. For colleges that provide training that is not funded by the Welsh Government, the amount is limited by financial pressure. There is a need for the Welsh Government to fund all the places that are needed. If we don't want NEETs, let's not be the people who create the NEETs by not providing training places for young people. And if young people who cannot get a job or get on a college course become NEET, it's not their fault, it's ours, or should I say, the Welsh Government's. The Government needs to fund further education colleges so that everyone who wants to go to college can go. This is why I support this motion today. It's important that every young person gets the opportunity they deserve.",
+          "text_original": "We know there is a crisis of young people not being in education, employment or training, and the long-term scarring impact this has on their future health, earnings and life chances. If they're not in education between 16 and 18, the chance of them joining education after 18 or reaching employment reduces, and reduces rapidly.\n\nAs a former FE college lecturer and college governor, I welcome the increased participation of young people in further education colleges across Wales. It's very welcome, the rising demand for vocational and technical education. We need plumbers, we need hairdressers, we need electricians, we need decorators. We know we need those. In Britain, there were 981,000 young people aged 16 to 24 not in employment, education or training between April and June, according to the Office for National Statistics. But what shifts have happened there? We've got a lost generation of young people, and they're going to be lost forever unless urgent action is taken. And that really does fall on the Welsh Government to start taking some of this action.\n\nWhat's happened over time has been the composition of this inactive group. The proportion who are inactive due to sickness or disability has more than doubled since 2005. I find it difficult to believe that almost a third of people who were NEETs in 2025 had health problems to such an extent that they were unable to engage in either education, training or employment. Other reasons are people having health and caring responsibilities and those who do not want or need employment. Those who do not want or need employment rose sharply during the same period, to reach 23 per cent of NEETs in 2025. I find it alarming that there will be some, the wealthy—probably sat on the benches opposite us—who actually have no need to work. But there's an awful lot of people who, if they're not in employment, are getting by on benefits.\n\nAt the same time, the share of young people inactive due to caring reasons has dropped, which is good news, but, again, the unpaid carers who we all meet fairly regularly keep on telling us about the problems. Those aged 16 and 17 who are likely to have been inactive for other reasons over the past few years, what happens then? They don't want to go to school. Lots of people don't want to carry on in school, school isn't for them, but that's not the end of education, that's not the end of training and that doesn't mean that they can never work. We have the Welsh Government's young person's guarantee scheme and that scheme is greatly welcomed.\n\nColleges and private training providers are the only option when direct movement into employment is not available. Private training providers, many of whom do an excellent job, lack capacity to train large numbers of young people. Evidence consistently shows that remaining in education post 16 is critical to young people's long-term life outcomes. It's also a point at which young people face a major decision of continuing in academic education or pursuing vocational education—a choice that can be difficult for those with limited guidance or family support. A lot of this comes down to what type of jobs you know, and most young people, what jobs do they know? They know teachers because they see them every day, they know what their families do, they know what their neighbours do, but there's a whole range of jobs that they know nothing about. A former Member of this Senedd who became a barrister did so because he went on training days with a barrister in Swansea. Now, that's something that is incredibly good, but we can't leave the future of young people to that sort of chance, can we?\n\nMany young people want to go to college, and I recognise the financial pressures on colleges, if only because they keep on telling me. But no 16 to 18-year-old should be unable to attend a college because not enough places are funded. For colleges that provide training that is not funded by the Welsh Government, the amount is limited by financial pressure. There is a need for the Welsh Government to fund all the places that are needed. If we don't want NEETs, let's not be the people who create the NEETs by not providing training places for young people. And if young people who cannot get a job or get on a college course become NEET, it's not their fault, it's ours, or should I say, the Welsh Government's. The Government needs to fund further education colleges so that everyone who wants to go to college can go. This is why I support this motion today. It's important that every young person gets the opportunity they deserve.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=10069"
+        },
+        {
+          "id": "contribution-771639",
+          "item_id": "item-16263-260923-6",
+          "item_title_en": "6. Welsh Labour Debate: Further education",
+          "lang": "en",
+          "t_start": 10783,
+          "text_english": "What we do know is that many of those NEETs are NEETs because they can't get on to an education course in a college. Will you fund all the courses for all those young people who want to go on and stop them being NEETs and get them into education?",
+          "text_original": "What we do know is that many of those NEETs are NEETs because they can't get on to an education course in a college. Will you fund all the courses for all those young people who want to go on and stop them being NEETs and get them into education?",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=10783"
+        },
+        {
+          "id": "contribution-771729",
+          "item_id": "item-16263-260923-7",
+          "item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+          "lang": "en",
+          "t_start": 14019,
+          "text_english": "Of course, if Wales was an independent country, it would be the one hundred and thirty seventh largest country in world, sandwiched in size between Mongolia and Uruguay. We also know that countries around the world have a GVA—a measure of the value of goods and services produced in the economy—that is lower than that of Wales: Haiti. So why, having identified that Wales is neither too small nor too poor to be independent, do I oppose independence? The primary reason is straightforward, and it rests on both Wales's tax receipts and its GVA. An independent Wales would, based upon published data, be poorer than we are now, with a combination of higher taxes and poorer public services. \n\nPlaid Cymru's policy is one of salami-slicing to independence, summed up by 'Devolve, devolve and devolve until there's nothing left to devolve.' Adam Price, when leader of Plaid Cymru, said,\n\n'Plaid Cymru has a simple answer to the challenge posed by Westminster, and that is independence.'\n\nPlease ignore that Wales is financially a net beneficiary of the union. We know that because David Phillips of the Institute for Fiscal Studies has estimated that Wales is a net beneficiary of the union by between £12 billion and £15 billion a year. If Wales keeps its revenue and funds its own public spending and then makes a population-based contribution for UK-wide situations, at least understand there would be a large fiscal deficit for Wales. Also according to David Phillips of the IFS, the most recent estimates from the ONS suggest that, for public expenditure, Wales is about 10 per cent higher than across the UK as a whole. This is despite raising substantially less money. We know that, in devolved areas, Wales gets 20 per cent more than England. We know the commission chaired by Gerry Holtham said Wales needs 15 per cent more than England. That is the Barnett floor. Funding cannot fall below that level. The finance Cabinet Minister confirmed that the Holtham committee figure was correct. So, when Wales looks at fair funding, Plaid Cymru, it means we want £1 billion less.\n\nWe also know small countries don't have the economic strength to weather financial storms. For example, in Iceland, between 2008 and 2010, a catastrophic financial crash occurred. This involved the default of all three of the country's major privately owned commercial banks in late 2008, following problems in refinancing their short-term debt and a run on deposits. Relative to the size of its economy, Iceland's systematic banking collapse was the largest of any country in economic history. The crisis led to a severe recession and the mass migration of younger people. That's what happens when you play games. It's not those of us who are of retirement age or near retirement age or settled, it's the young people who are forced to leave because there's no employment for them.\n\nI believe in devolution, but not in Welsh independence. We've had seven devolution settlements for Wales, and we're no closer to a long-term settlement than we were before the first. In the UK, we've seen different devolution settlements for Wales, Scotland and Northern Ireland, as well as different responsibilities devolved to London and some of the larger city regions of England. There are obvious areas that need to be held centrally within a devolved structure, such as defence, foreign affairs, national security, currency, interest rates, overseas aid, immigration, driver and car licensing, central bank and national insurance numbers. If they are not held centrally, that's called independence. Is there any of those that Plaid Cymru do not want devolved on their journey to independence? If those areas are devolved, well that is independence.\n\nNow, should taxation change and there be UK taxes to pay for centrally funded items with all other taxes devolved and collected locally? That's what happens in America for state and national taxes. How will financial support from the wealthier to the poorer regions be organised and maintained? We do not know the direction of devolution.\n\nNot everything needs to be devolved to Wales, Scotland, Northern Ireland or the English city region at the same time. What we should have is a list of items that are available to be devolved, with each Parliament and mayoral area needing at least two thirds of its Members voting in favour for that area to be devolved. This is what happened with policing in Northern Ireland. It was devolved because two thirds of the Northern Ireland Assembly voted for it. This approach avoids big-bang devolution, where control of everything is passed on one day, while still allowing the matter to be devolved as the Parliaments are ready for them and funding is agreed. The advantage of this is that it sets an end point to the devolution journey, outside of creating new countries, and allows each to move at a pace it is comfortable with, with a common end point.\n\nAsymmetric devolution hasn't worked in Britain. It didn't work in Spain. Other countries, like Germany and USA, have the same powers devolved. Each US state has the same powers and responsibility, no matter its size. It's the same with each German Land. But devolution in Wales does not have to end in Cardiff. Devolution in Wales is possible to be devolved to the four regions of Wales and to councils. Which powers would be better devolved to local authorities also needs to be discussed and decided.\n\nThe twentieth century is almost a one-way journey of items being taken off local authorities and then dealt with centrally. And I think, really, we want to do what is best for Wales, not what is best for our political views.",
+          "text_original": "Of course, if Wales was an independent country, it would be the one hundred and thirty seventh largest country in world, sandwiched in size between Mongolia and Uruguay. We also know that countries around the world have a GVA—a measure of the value of goods and services produced in the economy—that is lower than that of Wales: Haiti. So why, having identified that Wales is neither too small nor too poor to be independent, do I oppose independence? The primary reason is straightforward, and it rests on both Wales's tax receipts and its GVA. An independent Wales would, based upon published data, be poorer than we are now, with a combination of higher taxes and poorer public services. \n\nPlaid Cymru's policy is one of salami-slicing to independence, summed up by 'Devolve, devolve and devolve until there's nothing left to devolve.' Adam Price, when leader of Plaid Cymru, said,\n\n'Plaid Cymru has a simple answer to the challenge posed by Westminster, and that is independence.'\n\nPlease ignore that Wales is financially a net beneficiary of the union. We know that because David Phillips of the Institute for Fiscal Studies has estimated that Wales is a net beneficiary of the union by between £12 billion and £15 billion a year. If Wales keeps its revenue and funds its own public spending and then makes a population-based contribution for UK-wide situations, at least understand there would be a large fiscal deficit for Wales. Also according to David Phillips of the IFS, the most recent estimates from the ONS suggest that, for public expenditure, Wales is about 10 per cent higher than across the UK as a whole. This is despite raising substantially less money. We know that, in devolved areas, Wales gets 20 per cent more than England. We know the commission chaired by Gerry Holtham said Wales needs 15 per cent more than England. That is the Barnett floor. Funding cannot fall below that level. The finance Cabinet Minister confirmed that the Holtham committee figure was correct. So, when Wales looks at fair funding, Plaid Cymru, it means we want £1 billion less.\n\nWe also know small countries don't have the economic strength to weather financial storms. For example, in Iceland, between 2008 and 2010, a catastrophic financial crash occurred. This involved the default of all three of the country's major privately owned commercial banks in late 2008, following problems in refinancing their short-term debt and a run on deposits. Relative to the size of its economy, Iceland's systematic banking collapse was the largest of any country in economic history. The crisis led to a severe recession and the mass migration of younger people. That's what happens when you play games. It's not those of us who are of retirement age or near retirement age or settled, it's the young people who are forced to leave because there's no employment for them.\n\nI believe in devolution, but not in Welsh independence. We've had seven devolution settlements for Wales, and we're no closer to a long-term settlement than we were before the first. In the UK, we've seen different devolution settlements for Wales, Scotland and Northern Ireland, as well as different responsibilities devolved to London and some of the larger city regions of England. There are obvious areas that need to be held centrally within a devolved structure, such as defence, foreign affairs, national security, currency, interest rates, overseas aid, immigration, driver and car licensing, central bank and national insurance numbers. If they are not held centrally, that's called independence. Is there any of those that Plaid Cymru do not want devolved on their journey to independence? If those areas are devolved, well that is independence.\n\nNow, should taxation change and there be UK taxes to pay for centrally funded items with all other taxes devolved and collected locally? That's what happens in America for state and national taxes. How will financial support from the wealthier to the poorer regions be organised and maintained? We do not know the direction of devolution.\n\nNot everything needs to be devolved to Wales, Scotland, Northern Ireland or the English city region at the same time. What we should have is a list of items that are available to be devolved, with each Parliament and mayoral area needing at least two thirds of its Members voting in favour for that area to be devolved. This is what happened with policing in Northern Ireland. It was devolved because two thirds of the Northern Ireland Assembly voted for it. This approach avoids big-bang devolution, where control of everything is passed on one day, while still allowing the matter to be devolved as the Parliaments are ready for them and funding is agreed. The advantage of this is that it sets an end point to the devolution journey, outside of creating new countries, and allows each to move at a pace it is comfortable with, with a common end point.\n\nAsymmetric devolution hasn't worked in Britain. It didn't work in Spain. Other countries, like Germany and USA, have the same powers devolved. Each US state has the same powers and responsibility, no matter its size. It's the same with each German Land. But devolution in Wales does not have to end in Cardiff. Devolution in Wales is possible to be devolved to the four regions of Wales and to councils. Which powers would be better devolved to local authorities also needs to be discussed and decided.\n\nThe twentieth century is almost a one-way journey of items being taken off local authorities and then dealt with centrally. And I think, really, we want to do what is best for Wales, not what is best for our political views.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=14019"
+        }
+      ],
+      "date": "2026-09-23",
+      "record_page_url": "https://record.senedd.wales/Plenary/16263"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771100",
+          "item_id": "item-16262-260922-7",
+          "item_title_en": "7. Statement by the Cabinet Minister for Local Government, Housing and Planning: Building Safety Programme Update",
+          "lang": "en",
+          "t_start": 18949,
+          "text_english": "Thank you, Deputy Presiding Officer. I welcome the update on the building safety programme and the steps the Government is taking to protect leaseholders and ensure that the homes covered by the programme are safe, and those living in them are treated with the fairness and dignity they deserve. This has been a long time coming. My constituents have waited a very long time for this to be resolved. It's created hardship and worry for my constituents. The commitment to provide financial support to leaseholders facing the cost of interim alarm systems required to support the simultaneous evacuation policy is a positive step, but it's an acknowledgement that, despite all the agreements, we have not reached the stage where work is going to be done everywhere in the near future. My constituents living in fear of being another Grenfell want the obligations under the contract to be met, and the Welsh Government needs to get legally enforceable agreements with guaranteed completion dates so that my constituents can sleep safely at night.",
+          "text_original": "Thank you, Deputy Presiding Officer. I welcome the update on the building safety programme and the steps the Government is taking to protect leaseholders and ensure that the homes covered by the programme are safe, and those living in them are treated with the fairness and dignity they deserve. This has been a long time coming. My constituents have waited a very long time for this to be resolved. It's created hardship and worry for my constituents. The commitment to provide financial support to leaseholders facing the cost of interim alarm systems required to support the simultaneous evacuation policy is a positive step, but it's an acknowledgement that, despite all the agreements, we have not reached the stage where work is going to be done everywhere in the near future. My constituents living in fear of being another Grenfell want the obligations under the contract to be met, and the Welsh Government needs to get legally enforceable agreements with guaranteed completion dates so that my constituents can sleep safely at night.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=18949"
+        }
+      ],
+      "date": "2026-09-22",
+      "record_page_url": "https://record.senedd.wales/Plenary/16262"
+    },
     {
       "contributions": [
         {

@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,40 @@
   "canonical_name": "Joshua Kim",
   "constituency_name_cy": "Blaenau Gwent Caerffili Rhymni",
   "constituency_name_en": "Blaenau Gwent Caerffili Rhymni",
-  "contribution_count": 9,
+  "contribution_count": 11,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-772919",
+          "item_id": "item-16264-260929-4",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 4935,
+          "text_english": "Trefnydd, a recent Care Inspectorate Wales national thematic review found that high turnover among children's social workers can disrupt children's journeys through the care system and cause delays, while practitioners also raised concerns about high case loads. Could the Trefnydd therefore arrange for the Deputy Minister for Social Care, Mental Health and Women's Health to make a statement on workforce stability in children's services, including social worker turnover, case loads and what action is being taken to improve continuity for vulnerable children and families, please?",
+          "text_original": "Trefnydd, a recent Care Inspectorate Wales national thematic review found that high turnover among children's social workers can disrupt children's journeys through the care system and cause delays, while practitioners also raised concerns about high case loads. Could the Trefnydd therefore arrange for the Deputy Minister for Social Care, Mental Health and Women's Health to make a statement on workforce stability in children's services, including social worker turnover, case loads and what action is being taken to improve continuity for vulnerable children and families, please?",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=4935"
+        }
+      ],
+      "date": "2026-09-29",
+      "record_page_url": "https://record.senedd.wales/Plenary/16264"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771625",
+          "item_id": "item-16263-260923-6",
+          "item_title_en": "6. Welsh Labour Debate: Further education",
+          "lang": "en",
+          "t_start": 9828,
+          "text_english": "I'll be speaking in favour of the motion. There are two issues at the heart of this motion: the number of young people not in education, employment or training, whom I shall refer to as NEETs, and whether our further education colleges have the capacity to meet current demand.\n\nStarting with NEETs, the motion is right to refer to long-term scarring. A Scottish longitudinal study found that young people who are NEET at 16 to 19 were 2.8 times as likely to be unemployed or economically inactive 10 years later. At the societal level, with an ageing population, we need our young people to be productive as older generations leave the workforce. Also, we should develop the skills and potential of young people already living here, rather than relying on recruiting workers from overseas to support an ageing population.\n\nBefore moving on from NEETs, I want briefly to address AI. On GCSE results day this year, a young constituent e-mailed me because she was concerned about the impact of artificial intelligence on jobs. Young people are well aware of AI, and I would be misleading the Chamber if I said young people have nothing to worry about, because the Open University’s 2026 business barometer found that 19 per cent of employers surveyed had reduced early career recruitment, and, among those employers, 42 per cent attributed that reduction to the wider adoption of AI doing more entry-level tasks. Our young people are therefore now competing with both human and non-human intelligences for jobs. That makes the role of further education colleges in providing young people with skills and routes into productive work as important as ever.\n\nTurning to FE colleges, I want to focus in the second part of my speech on Coleg y Cymoedd, which serves communities across my constituency of Blaenau Gwent Caerffili Rhymni, and I thank principal Jonathan Morgan for providing the following figures. Coleg y Cymoedd has provisionally enrolled 5,534 full-time learners this year, compared with 4,888 last year—an increase of more than 13 per cent in a single year. Yet it is funded for only around 4,596 learners, leaving a gap of more than 900 places, which the college estimates equates to a funding pressure of around £3 million. The consequences of supporting substantially more learners than are funded include increased class sizes and greater pressure on teaching staff, potentially compromising the quality of the learning experience.\n\nOn top of this, the number of learners with additional learning needs or individual development plans at Coleg y Cymoedd has risen from 309 to 454 in a single year—an increase of 47 per cent. It is absolutely to be welcomed that more young people with additional learning needs are accessing further education, but that increased participation requires additional funding. Without it, greater pressure is placed on specialist support teams, well-being provision and teaching staff. Yet funding has not kept pace—far from it. The Welsh FE sector received £21.5 million of increased participation funding in 2025-26. The equivalent allocation available in 2026-27 is £6.25 million. Coleg y Cymoedd's view is that restoring the previous level would provide an immediate means of addressing current demand pressures. These figures highlight the need to fund increased participation.\n\nI agree with the case for increased participation funding set out in this motion, but funding must also come with scrutiny. As the Welsh Government considers future FE funding, it should look not only at how many places are required, but also at what those places are delivering. Are learners completing their courses? Are they gaining qualifications employers value? And are we training people in the skills Wales actually needs? Because further education should be a bridge into skilled work and genuine opportunity. For these reasons, while funding must come with rigorous scrutiny and proof of outcomes, I support the motion. More of our young people should have the opportunity to progress in life, both for their own sake and for the sake of society as a whole.",
+          "text_original": "I'll be speaking in favour of the motion. There are two issues at the heart of this motion: the number of young people not in education, employment or training, whom I shall refer to as NEETs, and whether our further education colleges have the capacity to meet current demand.\n\nStarting with NEETs, the motion is right to refer to long-term scarring. A Scottish longitudinal study found that young people who are NEET at 16 to 19 were 2.8 times as likely to be unemployed or economically inactive 10 years later. At the societal level, with an ageing population, we need our young people to be productive as older generations leave the workforce. Also, we should develop the skills and potential of young people already living here, rather than relying on recruiting workers from overseas to support an ageing population.\n\nBefore moving on from NEETs, I want briefly to address AI. On GCSE results day this year, a young constituent e-mailed me because she was concerned about the impact of artificial intelligence on jobs. Young people are well aware of AI, and I would be misleading the Chamber if I said young people have nothing to worry about, because the Open University’s 2026 business barometer found that 19 per cent of employers surveyed had reduced early career recruitment, and, among those employers, 42 per cent attributed that reduction to the wider adoption of AI doing more entry-level tasks. Our young people are therefore now competing with both human and non-human intelligences for jobs. That makes the role of further education colleges in providing young people with skills and routes into productive work as important as ever.\n\nTurning to FE colleges, I want to focus in the second part of my speech on Coleg y Cymoedd, which serves communities across my constituency of Blaenau Gwent Caerffili Rhymni, and I thank principal Jonathan Morgan for providing the following figures. Coleg y Cymoedd has provisionally enrolled 5,534 full-time learners this year, compared with 4,888 last year—an increase of more than 13 per cent in a single year. Yet it is funded for only around 4,596 learners, leaving a gap of more than 900 places, which the college estimates equates to a funding pressure of around £3 million. The consequences of supporting substantially more learners than are funded include increased class sizes and greater pressure on teaching staff, potentially compromising the quality of the learning experience.\n\nOn top of this, the number of learners with additional learning needs or individual development plans at Coleg y Cymoedd has risen from 309 to 454 in a single year—an increase of 47 per cent. It is absolutely to be welcomed that more young people with additional learning needs are accessing further education, but that increased participation requires additional funding. Without it, greater pressure is placed on specialist support teams, well-being provision and teaching staff. Yet funding has not kept pace—far from it. The Welsh FE sector received £21.5 million of increased participation funding in 2025-26. The equivalent allocation available in 2026-27 is £6.25 million. Coleg y Cymoedd's view is that restoring the previous level would provide an immediate means of addressing current demand pressures. These figures highlight the need to fund increased participation.\n\nI agree with the case for increased participation funding set out in this motion, but funding must also come with scrutiny. As the Welsh Government considers future FE funding, it should look not only at how many places are required, but also at what those places are delivering. Are learners completing their courses? Are they gaining qualifications employers value? And are we training people in the skills Wales actually needs? Because further education should be a bridge into skilled work and genuine opportunity. For these reasons, while funding must come with rigorous scrutiny and proof of outcomes, I support the motion. More of our young people should have the opportunity to progress in life, both for their own sake and for the sake of society as a whole.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=9828"
+        }
+      ],
+      "date": "2026-09-23",
+      "record_page_url": "https://record.senedd.wales/Plenary/16263"
+    },
     {
       "contributions": [
         {

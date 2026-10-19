@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "abstain"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,250 @@
   "canonical_name": "Ken Skates",
   "constituency_name_cy": "Fflint Wrecsam",
   "constituency_name_en": "Fflint Wrecsam",
-  "contribution_count": 40,
+  "contribution_count": 60,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-779020",
+          "item_id": "item-16316-261014-6",
+          "item_title_en": "5. Welsh Labour Debate: Palliative and end-of-life care",
+          "lang": "en",
+          "t_start": 6249,
+          "text_english": "Diolch, Lywydd. I move the motion in the name of Lynne Neagle, and I am pleased to open today's debate on behalf of Welsh Labour.\n\nOur intention for today's debate is to reach consensus on an issue that is so important to so many families across Wales. Whatever the political differences across this Chamber, we all want the best possible quality of life for children and adults with terminal illness. That's why Welsh Labour has tabled this motion: to champion the dedication and commitment of NHS and hospice workers who deliver dignity every day; to put on record our appreciation for the compassionate care they provide and the difference they make to people's lives; and to shine a light on the significant financial difficulties faced by hospices and the wider need for a sustainable solution to the funding of palliative and end-of-life care across Wales.\n\nI'm pleased that other parties have chosen not to amend our motion today. The Senedd, passing this motion unanimously, would send a powerful message to our brilliant NHS staff and hospice workers, and it would challenge Ministers constructively to engage with this issue and to deliver on the commitment set out in the programme for government to address key challenges facing the sector.",
+          "text_original": "Diolch, Lywydd. I move the motion in the name of Lynne Neagle, and I am pleased to open today's debate on behalf of Welsh Labour.\n\nOur intention for today's debate is to reach consensus on an issue that is so important to so many families across Wales. Whatever the political differences across this Chamber, we all want the best possible quality of life for children and adults with terminal illness. That's why Welsh Labour has tabled this motion: to champion the dedication and commitment of NHS and hospice workers who deliver dignity every day; to put on record our appreciation for the compassionate care they provide and the difference they make to people's lives; and to shine a light on the significant financial difficulties faced by hospices and the wider need for a sustainable solution to the funding of palliative and end-of-life care across Wales.\n\nI'm pleased that other parties have chosen not to amend our motion today. The Senedd, passing this motion unanimously, would send a powerful message to our brilliant NHS staff and hospice workers, and it would challenge Ministers constructively to engage with this issue and to deliver on the commitment set out in the programme for government to address key challenges facing the sector.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=6249"
+        },
+        {
+          "id": "contribution-778975",
+          "item_id": "item-16316-261014-6",
+          "item_title_en": "5. Welsh Labour Debate: Palliative and end-of-life care",
+          "lang": "en",
+          "t_start": 6325,
+          "text_english": "Llywydd, last week I visited Tŷ Gobaith hospice just outside Conwy, and I heard first-hand about those challenges. Tŷ Gobaith provides high-quality, locally sensitive palliative and end-of-life care for children and young people. It's one of only two hospices providing specialist care for children in Wales, the other being Tŷ Hafan in Penarth. The staff at both do an incredible job. They help families create precious memories, they give children experiences and moments to cherish, and they allow parents the time and the space to enjoy being together as a family.\n\nBehind those precious moments is specialist nursing and clinical care, support for children with complex life-limiting and life-threatening conditions and vital respite care for parents. Children's hospices support the whole family, often over many years, as well as providing care at the end of life and through bereavement. Right across Wales, dedicated hospice and NHS staff provide that personalised care every day. They manage people's pain, provide comfort and dignity, and support families through some of the most difficult times in their lives.\n\nBut alongside the exceptional care that I saw at Tŷ Gobaith, I also heard about the financial pressures they face, which I know are faced by hospices across Wales. Hospice UK and Hospices Cymru say that Wales's 15 charitable hospices care for over 20,000 children and adults affected by terminal illness. Hospice staff in Wales make around 77,000 visits to people in their own homes every year, helping people to remain in familiar surroundings and taking pressure off local hospitals. But the financial challenges are becoming increasingly difficult to manage across the sector.\n\nEvery hospice in Wales is forecasting a deficit budget for this financial year, forcing many to make difficult choices about their future, whether that's delaying recruitment, being unable to introduce new services, or even reducing services. On top of these pressures, Marie Curie estimate that the number of people in Wales needing palliative care will rise by 21 per cent by 2050, and their research also suggests that almost one in three adults in Wales have unmet palliative care needs, meaning around 10,000 people whose symptoms are not being managed and who lack the support they need. That's an increase of over 7,000 people needing care every year alongside significant unmet demand.\n\nIn Government, Welsh Labour recognised these concerns, increasing annual hospice funding and providing extra cost-of-living support to help protect vital services. We also delivered on our commitment to review hospice funding, which began with the development of new commissioning frameworks in partnership with the NHS and hospice sector. But as financial pressures intensify and demand still rises, there is a need for greater certainty and stability to protect services and help drive improvements. As Hospice UK and Hospices Cymru have argued, hospice funding needs to be stabilised in the short term and put on a sustainable footing in the long term. We need to consider how we can work towards meeting 30 per cent of agreed care costs in the hospice sector during this Senedd term.\n\nIn addition to a plan to stabilise the wider sector, there is a need to expand the offer for children and their families, with earlier access to support, better co-ordination between services and dependable respite and bereavement care wherever people live. And we need to ensure that our NHS and hospices have the workforce they need to meet growing demand, with the right staff in the right place.\n\nWe need to build on the Government's manifesto commitment to develop a new sustainable funding model, and to this end, Labour offers to work with the Government to address the key challenges facing palliative and end-of-life care as per the programme for government. That is what our motion is calling for. It's asking Ministers constructively to come forward with a long-term plan that stabilises and secures high-quality services and to ensure that our NHS and hospices have the skilled workforce they need to meet growing demand for palliative and end-of-life care.\n\nThese challenges require action now, as well as a clear plan for the future. Llywydd, we all recognise the extraordinary contribution that dedicated NHS and hospice staff make every day, delivering dignified and compassionate care to children and adults with terminal illness. We owe it to those staff and to the tens of thousands of families who depend on their care to ensure these services are protected for the future. It's vital that Ministers get this right and that we support Ministers in getting this right, and I hope Members will unanimously support this motion today. Diolch.",
+          "text_original": "Llywydd, last week I visited Tŷ Gobaith hospice just outside Conwy, and I heard first-hand about those challenges. Tŷ Gobaith provides high-quality, locally sensitive palliative and end-of-life care for children and young people. It's one of only two hospices providing specialist care for children in Wales, the other being Tŷ Hafan in Penarth. The staff at both do an incredible job. They help families create precious memories, they give children experiences and moments to cherish, and they allow parents the time and the space to enjoy being together as a family.\n\nBehind those precious moments is specialist nursing and clinical care, support for children with complex life-limiting and life-threatening conditions and vital respite care for parents. Children's hospices support the whole family, often over many years, as well as providing care at the end of life and through bereavement. Right across Wales, dedicated hospice and NHS staff provide that personalised care every day. They manage people's pain, provide comfort and dignity, and support families through some of the most difficult times in their lives.\n\nBut alongside the exceptional care that I saw at Tŷ Gobaith, I also heard about the financial pressures they face, which I know are faced by hospices across Wales. Hospice UK and Hospices Cymru say that Wales's 15 charitable hospices care for over 20,000 children and adults affected by terminal illness. Hospice staff in Wales make around 77,000 visits to people in their own homes every year, helping people to remain in familiar surroundings and taking pressure off local hospitals. But the financial challenges are becoming increasingly difficult to manage across the sector.\n\nEvery hospice in Wales is forecasting a deficit budget for this financial year, forcing many to make difficult choices about their future, whether that's delaying recruitment, being unable to introduce new services, or even reducing services. On top of these pressures, Marie Curie estimate that the number of people in Wales needing palliative care will rise by 21 per cent by 2050, and their research also suggests that almost one in three adults in Wales have unmet palliative care needs, meaning around 10,000 people whose symptoms are not being managed and who lack the support they need. That's an increase of over 7,000 people needing care every year alongside significant unmet demand.\n\nIn Government, Welsh Labour recognised these concerns, increasing annual hospice funding and providing extra cost-of-living support to help protect vital services. We also delivered on our commitment to review hospice funding, which began with the development of new commissioning frameworks in partnership with the NHS and hospice sector. But as financial pressures intensify and demand still rises, there is a need for greater certainty and stability to protect services and help drive improvements. As Hospice UK and Hospices Cymru have argued, hospice funding needs to be stabilised in the short term and put on a sustainable footing in the long term. We need to consider how we can work towards meeting 30 per cent of agreed care costs in the hospice sector during this Senedd term.\n\nIn addition to a plan to stabilise the wider sector, there is a need to expand the offer for children and their families, with earlier access to support, better co-ordination between services and dependable respite and bereavement care wherever people live. And we need to ensure that our NHS and hospices have the workforce they need to meet growing demand, with the right staff in the right place.\n\nWe need to build on the Government's manifesto commitment to develop a new sustainable funding model, and to this end, Labour offers to work with the Government to address the key challenges facing palliative and end-of-life care as per the programme for government. That is what our motion is calling for. It's asking Ministers constructively to come forward with a long-term plan that stabilises and secures high-quality services and to ensure that our NHS and hospices have the skilled workforce they need to meet growing demand for palliative and end-of-life care.\n\nThese challenges require action now, as well as a clear plan for the future. Llywydd, we all recognise the extraordinary contribution that dedicated NHS and hospice staff make every day, delivering dignified and compassionate care to children and adults with terminal illness. We owe it to those staff and to the tens of thousands of families who depend on their care to ensure these services are protected for the future. It's vital that Ministers get this right and that we support Ministers in getting this right, and I hope Members will unanimously support this motion today. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=6325"
+        },
+        {
+          "id": "contribution-779060",
+          "item_id": "item-16316-261014-6",
+          "item_title_en": "5. Welsh Labour Debate: Palliative and end-of-life care",
+          "lang": "en",
+          "t_start": 9870,
+          "text_english": "Diolch, Lywydd. Today we do have a cosy consensus. It's one that crosses all parties, and it concerns such a vital area of care that's needed at the end of life and when facing terminal illness. There have been many incredibly valuable contributions, which I have, I'm afraid, too little time available to do justice to. We began with Elfed Williams, who shared his very personal experience of the care provided by hospices and their remarkable staff. He reflected, I think, what many subsequently talked about: just how important it is to give our thanks to the people who make end-of-life experiences and terminal illness manageable.\n\nBenjamin Hodge Mckenna reiterated the pressures facing hospices, outlining the future needs of people with palliative and end-of-life care requirements. Natasha Asghar so rightly identified the compassion and the dignity needed by and provided to children and adults in need of palliative and end-of-life care. St David's hospice in Newport is indeed a remarkable place, and Natasha highlighted workforce issues, including staff well-being. Mike Hedges has long championed the work of hospices and NHS staff, who care for people with terminal illness, and he outlined why high-quality care must be available to people in all parts of Wales. Tŷ Gobaith covers a vast area, and I was told on my visit about the particular challenges of people in remote and rural areas. Mike, along with Rebeca Phillips, rightly called for care not to be subject to a postcode lottery and to ensure equal access for all.\n\nBecca Martin shared what she was told by Mel and presented what I thought was a powerful case, with real emotional depth, for greater support for carers to receive vital respite care. Bereavement support, as Becca outlined, continues through and beyond bereavement, often for many months, potentially even years. Cristiana Emsley also shared a deeply personal experience, reminding us of the need and unmet need across our society. This time last year, Marie Curie nurses provided exceptional end-of-life care for my mum, and she was able to come home to die in dignity and familiar surroundings. I think all of us will know of, or eventually need ourselves, the care of angels at the end of our lives.\n\nSam Rowlands rightly praised Mark Isherwood for his work in this area, and also Jayne Bryant for her work. And Sam, as chair of the all-party group, I'm sure there's nothing that I can say about this subject that you don't already know, but you were absolutely right to say that certainty of funding is the central ask of hospices. And today I think we heard cross-party support for this to be delivered.\n\nShav Taj identified how important communication is in finding appropriate care, and Shav was absolutely right to call for fair work, respect, care and support for the workforce. Paul Rock gave us an insight into the operation of hospice sports bars and the way that innovation and person-centred care can enhance palliative and end-of-life experiences. And James Evans shared with us his experience of visiting the phenomenal hospice Tŷ Hafan. He also reiterated the need for funding certainty and fairness of access.\n\nMinister, I believe you gave us assurance, the assurance that we were looking for in this motion, that work will continue and intensify in an area of care so important across political lines and across the communities that we all serve. I'm sure that Members right across this Chamber are keen to help in that work and will scrutinise its progress.\n\nNow, in Government, we increased annual hospice funding and provided extra cost-of-living support to help protect vital services. But unmet and increasing need requires a concerted effort backed by all parties. I fear there will be very few and precious opportunities like this in the coming three and a half years to have consensus and to rally behind an area of delivery that is so important to all. But it is essential that we act collectively and respectfully on such important matters. Care in death is just as important as care at birth. I thank the Minister and all Members who have contributed to this debate, and I hope that we will achieve complete consensus at the vote.",
+          "text_original": "Diolch, Lywydd. Today we do have a cosy consensus. It's one that crosses all parties, and it concerns such a vital area of care that's needed at the end of life and when facing terminal illness. There have been many incredibly valuable contributions, which I have, I'm afraid, too little time available to do justice to. We began with Elfed Williams, who shared his very personal experience of the care provided by hospices and their remarkable staff. He reflected, I think, what many subsequently talked about: just how important it is to give our thanks to the people who make end-of-life experiences and terminal illness manageable.\n\nBenjamin Hodge Mckenna reiterated the pressures facing hospices, outlining the future needs of people with palliative and end-of-life care requirements. Natasha Asghar so rightly identified the compassion and the dignity needed by and provided to children and adults in need of palliative and end-of-life care. St David's hospice in Newport is indeed a remarkable place, and Natasha highlighted workforce issues, including staff well-being. Mike Hedges has long championed the work of hospices and NHS staff, who care for people with terminal illness, and he outlined why high-quality care must be available to people in all parts of Wales. Tŷ Gobaith covers a vast area, and I was told on my visit about the particular challenges of people in remote and rural areas. Mike, along with Rebeca Phillips, rightly called for care not to be subject to a postcode lottery and to ensure equal access for all.\n\nBecca Martin shared what she was told by Mel and presented what I thought was a powerful case, with real emotional depth, for greater support for carers to receive vital respite care. Bereavement support, as Becca outlined, continues through and beyond bereavement, often for many months, potentially even years. Cristiana Emsley also shared a deeply personal experience, reminding us of the need and unmet need across our society. This time last year, Marie Curie nurses provided exceptional end-of-life care for my mum, and she was able to come home to die in dignity and familiar surroundings. I think all of us will know of, or eventually need ourselves, the care of angels at the end of our lives.\n\nSam Rowlands rightly praised Mark Isherwood for his work in this area, and also Jayne Bryant for her work. And Sam, as chair of the all-party group, I'm sure there's nothing that I can say about this subject that you don't already know, but you were absolutely right to say that certainty of funding is the central ask of hospices. And today I think we heard cross-party support for this to be delivered.\n\nShav Taj identified how important communication is in finding appropriate care, and Shav was absolutely right to call for fair work, respect, care and support for the workforce. Paul Rock gave us an insight into the operation of hospice sports bars and the way that innovation and person-centred care can enhance palliative and end-of-life experiences. And James Evans shared with us his experience of visiting the phenomenal hospice Tŷ Hafan. He also reiterated the need for funding certainty and fairness of access.\n\nMinister, I believe you gave us assurance, the assurance that we were looking for in this motion, that work will continue and intensify in an area of care so important across political lines and across the communities that we all serve. I'm sure that Members right across this Chamber are keen to help in that work and will scrutinise its progress.\n\nNow, in Government, we increased annual hospice funding and provided extra cost-of-living support to help protect vital services. But unmet and increasing need requires a concerted effort backed by all parties. I fear there will be very few and precious opportunities like this in the coming three and a half years to have consensus and to rally behind an area of delivery that is so important to all. But it is essential that we act collectively and respectfully on such important matters. Care in death is just as important as care at birth. I thank the Minister and all Members who have contributed to this debate, and I hope that we will achieve complete consensus at the vote.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=9870"
+        }
+      ],
+      "date": "2026-10-14",
+      "record_page_url": "https://record.senedd.wales/Plenary/16316"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-778389",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 1138,
+          "text_english": "Diolch, Llywydd. First Minister, some here will doubtless work tirelessly to destroy and sabotage devolution, but Welsh Labour firmly believes in making it work for the people of Wales, and we're proud to have fought for and secured an extra £60 million for children with additional learning needs for this financial year. That's a 50 per cent increase on two weeks ago, and it's £60 million more than at the start of the summer. But, of course, this is only the first step. We believe that more funding should be made available for ALN, and we've made it clear that not a penny of this £60 million should come from elsewhere within the education budget, and we've argued successfully that there needs to be a long-term sustainability plan for further education in Wales. First Minister, will you confirm these commitments today? And also, will you commit to getting the extra £60 million that Welsh Labour has fought for to schools and to children as soon as possible?",
+          "text_original": "Diolch, Llywydd. First Minister, some here will doubtless work tirelessly to destroy and sabotage devolution, but Welsh Labour firmly believes in making it work for the people of Wales, and we're proud to have fought for and secured an extra £60 million for children with additional learning needs for this financial year. That's a 50 per cent increase on two weeks ago, and it's £60 million more than at the start of the summer. But, of course, this is only the first step. We believe that more funding should be made available for ALN, and we've made it clear that not a penny of this £60 million should come from elsewhere within the education budget, and we've argued successfully that there needs to be a long-term sustainability plan for further education in Wales. First Minister, will you confirm these commitments today? And also, will you commit to getting the extra £60 million that Welsh Labour has fought for to schools and to children as soon as possible?",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=1138"
+        },
+        {
+          "id": "contribution-778367",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 1248,
+          "text_english": "Absolutely, First Minister, and Welsh Labour will never fold. We will stand firm in our positions, unlike parties—[Interruption.]—unlike parties that have no principles, that have no values, that have no direction, but have plenty of different leaders, it seems. First Minister, of course, ALN-related provision and home-to-school transport are costing more and more each year. It's now reached around £200 million for the taxpayer—money that is coming from education budgets. Now, it may come as a surprise to the vocal crew on the other side of this Chamber, but their leader at a UK level, when he went to Kent, said that spending on home-to-school transport was ridiculous. Actually, he used more profound terms. He said that the way that he would cut it is to stop providing it, to make parents drive or walk their children to school. Is that the policy of Reform here, First Minister, do you think?\n\nAnd, First Minister, would you agree to a more sensible approach, a more intelligent approach, one that was started by the Welsh Labour Government, where we composed an expert panel, a cross-party, cross-departmental group, to look at how we can reduce costs for home-to-school transport whilst improving the amount of home-to-school transport that can be provided to young people?",
+          "text_original": "Absolutely, First Minister, and Welsh Labour will never fold. We will stand firm in our positions, unlike parties—[Interruption.]—unlike parties that have no principles, that have no values, that have no direction, but have plenty of different leaders, it seems. First Minister, of course, ALN-related provision and home-to-school transport are costing more and more each year. It's now reached around £200 million for the taxpayer—money that is coming from education budgets. Now, it may come as a surprise to the vocal crew on the other side of this Chamber, but their leader at a UK level, when he went to Kent, said that spending on home-to-school transport was ridiculous. Actually, he used more profound terms. He said that the way that he would cut it is to stop providing it, to make parents drive or walk their children to school. Is that the policy of Reform here, First Minister, do you think?\n\nAnd, First Minister, would you agree to a more sensible approach, a more intelligent approach, one that was started by the Welsh Labour Government, where we composed an expert panel, a cross-party, cross-departmental group, to look at how we can reduce costs for home-to-school transport whilst improving the amount of home-to-school transport that can be provided to young people?",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=1248"
+        },
+        {
+          "id": "contribution-778587",
+          "item_id": "item-16315-261013-5",
+          "item_title_en": "5. Statement by the Cabinet Minister for Health and Care: Update on winter preparedness",
+          "lang": "en",
+          "t_start": 11855,
+          "text_english": "Can I thank you, Cabinet Minister, for your statement today? I am pleased that this is one of three statements on winter preparedness that Ministers are delivering today, and that recognises that planning for the winter months needs to be a cross-cutting approach.\n\nIn Government, of course, Welsh Labour began preparations for the winter months as early as possible, with preparations for last winter beginning in March 2025, with a winter summit for 2025-26. I am concerned that the actions taken by this Welsh Government mean the NHS isn't going into the winter in the robust shape that it needs to be. We still haven't heard from Ministers when two-year waits will be eliminated, just that it will be within a year, and that uncertainty certainly doesn't help the NHS or patients. After 10 months of waiting lists falling under the last Welsh Labour Government, they are now rising again under this Government. Ministers, of course, have been in dispute with health visitors in Cwm Taf, and now there's concern and uncertainty around the future of endometriosis services in Wales. All of this adds to the perception that the grip on health services is not firm enough as we go into the winter.\n\nMinister, on the whole, this statement was light on detail and even lighter on financial commitments—more of a commentary than a detailed action plan for the winter. As you know, the extra £2 million that you referenced is a drop in the ocean for health budgets. Can you put a figure on the total actual resource that you are putting into winter pressures this year? Further to the questions that have been raised about stress testing of regional assessments, can you just outline what problems have so far been identified through that process and whether the problems that have been identified are now being addressed?\n\nWe know that, when hospitals come under pressure, the pressure on GP practices intensifies as well. The Royal College of General Practitioners have said that winter pressures for general practices are all too often overshadowed by the focus on acute hospital settings. So, what are you doing, Cabinet Minister, to ensure that GPs are properly supported going into the winter and what specific arrangements are you putting in place? Could you also give an update on how many more GPs have been recruited on your watch, given that we are now almost six months into the four-year term, during which the people of Wales are being promised 100 new and additional GPs?\n\nNow, the programme for government also set out Ministers' intentions for greater use of evidence and data in the Welsh health service. So, can I ask you whether any targets have been put in place for winter preparedness, particularly around the uptake of vaccinations? I was very pleased that you called out dangerous misinformation about vaccinations. Could you just outline what additional effort is being made to provide facts on vaccinations to people who may be anxious about them? And more broadly, what is the Government doing to monitor and increase the take-up of vaccinations, especially for high-risk groups?\n\nNow, in June, you said that the Government would be bringing forward proposals for a new communications approach that helps people get the right support and takes pressure off front-line services. Minister, I'd be very grateful if you could give an update on that new approach and whether it would be introduced in time for winter, and what key differences you anticipate it will make. Diolch.",
+          "text_original": "Can I thank you, Cabinet Minister, for your statement today? I am pleased that this is one of three statements on winter preparedness that Ministers are delivering today, and that recognises that planning for the winter months needs to be a cross-cutting approach.\n\nIn Government, of course, Welsh Labour began preparations for the winter months as early as possible, with preparations for last winter beginning in March 2025, with a winter summit for 2025-26. I am concerned that the actions taken by this Welsh Government mean the NHS isn't going into the winter in the robust shape that it needs to be. We still haven't heard from Ministers when two-year waits will be eliminated, just that it will be within a year, and that uncertainty certainly doesn't help the NHS or patients. After 10 months of waiting lists falling under the last Welsh Labour Government, they are now rising again under this Government. Ministers, of course, have been in dispute with health visitors in Cwm Taf, and now there's concern and uncertainty around the future of endometriosis services in Wales. All of this adds to the perception that the grip on health services is not firm enough as we go into the winter.\n\nMinister, on the whole, this statement was light on detail and even lighter on financial commitments—more of a commentary than a detailed action plan for the winter. As you know, the extra £2 million that you referenced is a drop in the ocean for health budgets. Can you put a figure on the total actual resource that you are putting into winter pressures this year? Further to the questions that have been raised about stress testing of regional assessments, can you just outline what problems have so far been identified through that process and whether the problems that have been identified are now being addressed?\n\nWe know that, when hospitals come under pressure, the pressure on GP practices intensifies as well. The Royal College of General Practitioners have said that winter pressures for general practices are all too often overshadowed by the focus on acute hospital settings. So, what are you doing, Cabinet Minister, to ensure that GPs are properly supported going into the winter and what specific arrangements are you putting in place? Could you also give an update on how many more GPs have been recruited on your watch, given that we are now almost six months into the four-year term, during which the people of Wales are being promised 100 new and additional GPs?\n\nNow, the programme for government also set out Ministers' intentions for greater use of evidence and data in the Welsh health service. So, can I ask you whether any targets have been put in place for winter preparedness, particularly around the uptake of vaccinations? I was very pleased that you called out dangerous misinformation about vaccinations. Could you just outline what additional effort is being made to provide facts on vaccinations to people who may be anxious about them? And more broadly, what is the Government doing to monitor and increase the take-up of vaccinations, especially for high-risk groups?\n\nNow, in June, you said that the Government would be bringing forward proposals for a new communications approach that helps people get the right support and takes pressure off front-line services. Minister, I'd be very grateful if you could give an update on that new approach and whether it would be introduced in time for winter, and what key differences you anticipate it will make. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=11855"
+        }
+      ],
+      "date": "2026-10-13",
+      "record_page_url": "https://record.senedd.wales/Plenary/16315"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776634",
+          "item_id": "item-16314-261007-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Health and Care",
+          "lang": "en",
+          "t_start": 3288,
+          "text_english": "Diolch, Ddirprwy Lywydd. Minister, are there any Welsh Government whistleblowing investigations currently taking place or recently concluded relating to personnel in NHS Wales?",
+          "text_original": "Diolch, Ddirprwy Lywydd. Minister, are there any Welsh Government whistleblowing investigations currently taking place or recently concluded relating to personnel in NHS Wales?",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=3288"
+        },
+        {
+          "id": "contribution-776638",
+          "item_id": "item-16314-261007-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Health and Care",
+          "lang": "en",
+          "t_start": 3311,
+          "text_english": "Thank you, Minister. Over many, many years, we've been told that it's for health boards to hire and fire senior executives, yet chief executives of health boards are not accountable to their own health boards for the proper stewardship of public money or for delivering against performance requirements. Instead, accountability is to the chief executive of NHS Wales. It's also the CEO of NHS Wales who confers accountable officer status on all Welsh LHBs, and can remove it as well. That obviously leads to an awkward split in terms of accountability and responsibilities, and it no doubt creates tensions. Would you agree that it's time to devolve the responsibilities centralised in NHS Wales to local health boards, so that local control and accountability can flourish?",
+          "text_original": "Thank you, Minister. Over many, many years, we've been told that it's for health boards to hire and fire senior executives, yet chief executives of health boards are not accountable to their own health boards for the proper stewardship of public money or for delivering against performance requirements. Instead, accountability is to the chief executive of NHS Wales. It's also the CEO of NHS Wales who confers accountable officer status on all Welsh LHBs, and can remove it as well. That obviously leads to an awkward split in terms of accountability and responsibilities, and it no doubt creates tensions. Would you agree that it's time to devolve the responsibilities centralised in NHS Wales to local health boards, so that local control and accountability can flourish?",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=3311"
+        },
+        {
+          "id": "contribution-776923",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "en",
+          "t_start": 14793,
+          "text_english": "So, forgive me if I'm wrong, but it appears that you're saying that, if you're not Welsh or English, you shouldn't be entitled to social housing. Would that extend to Gurkhas in the UK?",
+          "text_original": "So, forgive me if I'm wrong, but it appears that you're saying that, if you're not Welsh or English, you shouldn't be entitled to social housing. Would that extend to Gurkhas in the UK?",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=14793"
+        },
+        {
+          "id": "contribution-776925",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "en",
+          "t_start": 14804,
+          "text_english": "And would it extend to Suella Braverman?",
+          "text_original": "And would it extend to Suella Braverman?",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=14804"
+        }
+      ],
+      "date": "2026-10-07",
+      "record_page_url": "https://record.senedd.wales/Plenary/16314"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-775872",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 1389,
+          "text_english": "Diolch, Lywydd. First Minister, Robin Hood took from the rich and gave to the poor, but I fear your Government is about to do the opposite. I'm afraid that cuts are being promised, Flying Start has been put on notice and £10 weekly payments for the poorest haven't happened, yet you're pressing ahead with free childcare for millionaires, just like the Tories wish to do. Can you tell us how much people earning more than £100,000 a year will benefit from through your childcare policy?",
+          "text_original": "Diolch, Lywydd. First Minister, Robin Hood took from the rich and gave to the poor, but I fear your Government is about to do the opposite. I'm afraid that cuts are being promised, Flying Start has been put on notice and £10 weekly payments for the poorest haven't happened, yet you're pressing ahead with free childcare for millionaires, just like the Tories wish to do. Can you tell us how much people earning more than £100,000 a year will benefit from through your childcare policy?",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=1389"
+        },
+        {
+          "id": "contribution-775881",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 1456,
+          "text_english": "Well, the First Minister knows full well that we would never ever do that, and it's simply a deflection from the truth. Because I can reveal what the cost to the taxpayer would be in giving millionaires and the highest earners free childcare: it would amount to about £15 million per year. For every person earning over £100,000 a year, they would benefit from Plaid Cymru's Government to the tune of £5,650 per child per year. As I say, that amount will total £15 million per year, paid for through cuts elsewhere. It's not fair, it's not progressive, and it's certainly not left wing. You're standing up for millionaires, you're not standing up for Wales. And indeed, you're standing beside the Tories in wanting the same policy. So, who stole this policy from whom? Did you steal it from the Tories, or did Kemi Badenoch steal it from yourself? And why won't you use £15 million a year instead to support those who are facing the toughest of times in the cost-of-living crisis, not the richest?",
+          "text_original": "Well, the First Minister knows full well that we would never ever do that, and it's simply a deflection from the truth. Because I can reveal what the cost to the taxpayer would be in giving millionaires and the highest earners free childcare: it would amount to about £15 million per year. For every person earning over £100,000 a year, they would benefit from Plaid Cymru's Government to the tune of £5,650 per child per year. As I say, that amount will total £15 million per year, paid for through cuts elsewhere. It's not fair, it's not progressive, and it's certainly not left wing. You're standing up for millionaires, you're not standing up for Wales. And indeed, you're standing beside the Tories in wanting the same policy. So, who stole this policy from whom? Did you steal it from the Tories, or did Kemi Badenoch steal it from yourself? And why won't you use £15 million a year instead to support those who are facing the toughest of times in the cost-of-living crisis, not the richest?",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=1456"
+        }
+      ],
+      "date": "2026-10-06",
+      "record_page_url": "https://record.senedd.wales/Plenary/16313"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-773720",
+          "item_id": "item-16265-260930-6",
+          "item_title_en": "5. Member Debate under Standing Order 11.21(iv): Contaminated land",
+          "lang": "en",
+          "t_start": 9222,
+          "text_english": "Can I welcome this debate and thank those who have already spoken? There have been some powerful contributions so far. It is obviously the subject of enormous cause for concern across Wales, including in and near my constituency, and indeed in my home village of Ruabon. I support the motion, obviously. I must say, though, that I would have liked to have seen greater reference to the role of the Welsh Government in addressing land contamination in Wales and in terms of protecting public health. There is historic precedent for the Welsh Government to intervene with money. I'll come to that in a moment, though.\n\nFirst, my thanks must go to Michael Sheen and his production team for highlighting this issue, and also to Steve Witherden MP and his wife, Councillor Katie Witherden. These are activists who are featured in Michael Sheen's documentary, and Steve, in particular, has been very vocal in Parliament on the subject. He's raised the need for Natural Resources Wales to undertake urgent tests. Furthermore, Public Health Wales must undertake a programme of blood testing in affected areas without delay. It is the Welsh Government that must lead on this matter and get to grips with it, not shirk responsibility.\n\nTurning to those who pay, I don't think that anybody in this Chamber would disagree that the polluter should pay. Absolutely, those responsible should be held to account and should pay for what they have done. But this is often not possible, sadly. And here comes the historic precedent. Back in 2015, contaminated land issues hit the headlines in north Wales, in Coedpoeth, in my constituency, and also in Blanefield up in Scotland. In both cases, the polluters sadly no longer existed, and so in the case of Scotland, it was the UK Government and Stirling Council who paid. The Scottish Government did not contribute. In contrast, here in Wales, to remediate the land in Coedpoeth, it was the Welsh Government that paid. The UK Government did not contribute. And then in this decade, it was the Welsh Government that pledged £100 million for coal-tip remediation, with an additional £143 million from the UK Labour Government.\n\nWhat these recent major cases requiring Government help demonstrate above all is that all levels of government—all levels of government—need to act fast and need to act together in partnership. That's why there is a need for a consistent approach and, indeed, a framework, as the motion calls for. So, I support the motion, but I would urge the Government here in Wales to have a more responsible role within that framework and to do as we did in Government to help solve the problem, not to pass the problem to councils or to Westminster. Councils, citizens, communities cannot afford the cost of remediation, nor can they afford to wait any longer for action. So, I call on the Government here to stand up for the people of Wales by taking urgent action where it can, now.",
+          "text_original": "Can I welcome this debate and thank those who have already spoken? There have been some powerful contributions so far. It is obviously the subject of enormous cause for concern across Wales, including in and near my constituency, and indeed in my home village of Ruabon. I support the motion, obviously. I must say, though, that I would have liked to have seen greater reference to the role of the Welsh Government in addressing land contamination in Wales and in terms of protecting public health. There is historic precedent for the Welsh Government to intervene with money. I'll come to that in a moment, though.\n\nFirst, my thanks must go to Michael Sheen and his production team for highlighting this issue, and also to Steve Witherden MP and his wife, Councillor Katie Witherden. These are activists who are featured in Michael Sheen's documentary, and Steve, in particular, has been very vocal in Parliament on the subject. He's raised the need for Natural Resources Wales to undertake urgent tests. Furthermore, Public Health Wales must undertake a programme of blood testing in affected areas without delay. It is the Welsh Government that must lead on this matter and get to grips with it, not shirk responsibility.\n\nTurning to those who pay, I don't think that anybody in this Chamber would disagree that the polluter should pay. Absolutely, those responsible should be held to account and should pay for what they have done. But this is often not possible, sadly. And here comes the historic precedent. Back in 2015, contaminated land issues hit the headlines in north Wales, in Coedpoeth, in my constituency, and also in Blanefield up in Scotland. In both cases, the polluters sadly no longer existed, and so in the case of Scotland, it was the UK Government and Stirling Council who paid. The Scottish Government did not contribute. In contrast, here in Wales, to remediate the land in Coedpoeth, it was the Welsh Government that paid. The UK Government did not contribute. And then in this decade, it was the Welsh Government that pledged £100 million for coal-tip remediation, with an additional £143 million from the UK Labour Government.\n\nWhat these recent major cases requiring Government help demonstrate above all is that all levels of government—all levels of government—need to act fast and need to act together in partnership. That's why there is a need for a consistent approach and, indeed, a framework, as the motion calls for. So, I support the motion, but I would urge the Government here in Wales to have a more responsible role within that framework and to do as we did in Government to help solve the problem, not to pass the problem to councils or to Westminster. Councils, citizens, communities cannot afford the cost of remediation, nor can they afford to wait any longer for action. So, I call on the Government here to stand up for the people of Wales by taking urgent action where it can, now.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=9222"
+        },
+        {
+          "id": "contribution-773904",
+          "item_id": "item-16265-260930-8",
+          "item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+          "lang": "en",
+          "t_start": 17207,
+          "text_english": "I very much welcome this debate today. I support the motion and also support many of the points raised in the amendment. Indeed, I particularly welcome the reference to the importance of respecting human rights, of upholding international law and international solidarity. I would also say that national solidarity is just as, if not more, important. A divided nation is a weak and vulnerable nation, and we must demonstrate unity to our enemies as much as we possibly can.\n\nNow, Llywydd, the defence sector is interwoven with many other sectors in Wales, including aerospace, automotive, AI, glass, electronics, fabrics and advanced materials. So, investing in defence provides investment across the economy, and, crucially, in jobs that require the highest levels of skills and provide the best opportunities for career progression, especially for young people leaving universities and college. In my constituency, the defence sector is particularly important, as many Members will be aware. Fflint Wrecsam is home to a huge number of businesses, producing items that are then used by our armed forces and our allies. It represents a huge, huge proportion of employment across the constituency. So, without defence businesses, we would be so much poorer, not just so much weaker. Defence is just that—a means of protecting against aggression, against attack, against harm, and, crucially, against invasion. But we must never, never use our defence capabilities for aggressive intent, nor should we allow those who use what our defence sector produces and provides, whether it be intelligence, weapons, vehicles or kit.\n\nNow, to the point in the motion referring to geopolitical instability, I would refer Members to NATO's assessment of global security at present: we are not living in war, but we are not living in peace either. We are living in the most vulnerable time since the cold war, with Russia in particular growing its military might. It's doing so not for the purpose of defence, as we can see in Ukraine; they are doing it for more nefarious purposes. I do believe that a strategy here is definitely needed. It's needed in order to take maximum advantage of the UK Government's increasing investment in defence, and I believe that the Scottish National Party in Government are looking at creating their defence strategy as well. I welcome and also agree with what Paul Davies had to say on the DARC programme. I do believe that this is essential for our defence and for jobs.\n\nWe also, whether we like it or not, invest in our intelligence services, our armed forces, and their families. I was with veterans at Caffinaafi in Connah's Quay just last Friday. It's a brilliant hub—I'd recommend it to all Members. It's a brilliant hub for veterans, for service leavers, reservists, cadets, serving personnel and, of course, their families. I spoke with a number of the veterans there. They didn't go into the forces and their loved ones didn't support them in the forces in the hope of war, or in the anticipation of invading another country. They took the action they did to defend people here, in our communities and around the world, for a better, safer, freer tomorrow.",
+          "text_original": "I very much welcome this debate today. I support the motion and also support many of the points raised in the amendment. Indeed, I particularly welcome the reference to the importance of respecting human rights, of upholding international law and international solidarity. I would also say that national solidarity is just as, if not more, important. A divided nation is a weak and vulnerable nation, and we must demonstrate unity to our enemies as much as we possibly can.\n\nNow, Llywydd, the defence sector is interwoven with many other sectors in Wales, including aerospace, automotive, AI, glass, electronics, fabrics and advanced materials. So, investing in defence provides investment across the economy, and, crucially, in jobs that require the highest levels of skills and provide the best opportunities for career progression, especially for young people leaving universities and college. In my constituency, the defence sector is particularly important, as many Members will be aware. Fflint Wrecsam is home to a huge number of businesses, producing items that are then used by our armed forces and our allies. It represents a huge, huge proportion of employment across the constituency. So, without defence businesses, we would be so much poorer, not just so much weaker. Defence is just that—a means of protecting against aggression, against attack, against harm, and, crucially, against invasion. But we must never, never use our defence capabilities for aggressive intent, nor should we allow those who use what our defence sector produces and provides, whether it be intelligence, weapons, vehicles or kit.\n\nNow, to the point in the motion referring to geopolitical instability, I would refer Members to NATO's assessment of global security at present: we are not living in war, but we are not living in peace either. We are living in the most vulnerable time since the cold war, with Russia in particular growing its military might. It's doing so not for the purpose of defence, as we can see in Ukraine; they are doing it for more nefarious purposes. I do believe that a strategy here is definitely needed. It's needed in order to take maximum advantage of the UK Government's increasing investment in defence, and I believe that the Scottish National Party in Government are looking at creating their defence strategy as well. I welcome and also agree with what Paul Davies had to say on the DARC programme. I do believe that this is essential for our defence and for jobs.\n\nWe also, whether we like it or not, invest in our intelligence services, our armed forces, and their families. I was with veterans at Caffinaafi in Connah's Quay just last Friday. It's a brilliant hub—I'd recommend it to all Members. It's a brilliant hub for veterans, for service leavers, reservists, cadets, serving personnel and, of course, their families. I spoke with a number of the veterans there. They didn't go into the forces and their loved ones didn't support them in the forces in the hope of war, or in the anticipation of invading another country. They took the action they did to defend people here, in our communities and around the world, for a better, safer, freer tomorrow.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=17207"
+        }
+      ],
+      "date": "2026-09-30",
+      "record_page_url": "https://record.senedd.wales/Plenary/16265"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-772832",
+          "item_id": "item-16264-260929-3",
+          "item_title_en": "2. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 1264,
+          "text_english": "Dioch, Lywydd. First Minister, there is mounting uncertainty over the future of Flying Start, amplified this week when councils across Wales were told different things about its future. Can you confirm whether today's Flying Start programme has a future under Plaid Cymru, or will your party do to it what the Tories did to Sure Start in England?",
+          "text_original": "Dioch, Lywydd. First Minister, there is mounting uncertainty over the future of Flying Start, amplified this week when councils across Wales were told different things about its future. Can you confirm whether today's Flying Start programme has a future under Plaid Cymru, or will your party do to it what the Tories did to Sure Start in England?",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=1264"
+        },
+        {
+          "id": "contribution-772841",
+          "item_id": "item-16264-260929-3",
+          "item_title_en": "2. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 1373,
+          "text_english": "First Minister, it's still not enough. We've heard your concerns over many weeks about public finance, which begs the question why you'd squander public money on rebranding Flying Start if the only threat is to its name.\n\nBut I'd like to turn to national security. Welsh Government Ministers have to rely on the intelligence of others, and that's because there is no significant intelligence-gathering capability here in Wales. And yet we are obviously, given the news that we've seen this week, being watched very carefully and targeted by Russian and other intelligence agencies, as well as many others who seek to break us. In the interest of national security and in the interest of standing up for the people of Wales, could I ask whether you and indeed the leaders of other groups in this Chamber would agree to receive a comprehensive briefing from intelligence chiefs in the UK defence forces over the specific scale and breadth of threats facing Wales and its people?",
+          "text_original": "First Minister, it's still not enough. We've heard your concerns over many weeks about public finance, which begs the question why you'd squander public money on rebranding Flying Start if the only threat is to its name.\n\nBut I'd like to turn to national security. Welsh Government Ministers have to rely on the intelligence of others, and that's because there is no significant intelligence-gathering capability here in Wales. And yet we are obviously, given the news that we've seen this week, being watched very carefully and targeted by Russian and other intelligence agencies, as well as many others who seek to break us. In the interest of national security and in the interest of standing up for the people of Wales, could I ask whether you and indeed the leaders of other groups in this Chamber would agree to receive a comprehensive briefing from intelligence chiefs in the UK defence forces over the specific scale and breadth of threats facing Wales and its people?",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=1373"
+        },
+        {
+          "id": "contribution-772974",
+          "item_id": "item-16264-260929-5",
+          "item_title_en": "4. Statement by the Cabinet Minister for Health and Care: Review of the Escalation and Intervention Framework",
+          "lang": "en",
+          "t_start": 6512,
+          "text_english": "Minister, thanks for the update today on the review of the escalation and intervention framework. One thing that remains unclear to me is around the difference in outcome. What is the difference that you hope to achieve or would expect, and what will the new framework do that couldn't already be done? Furthermore, what exactly are the enhanced mechanisms for earlier identification of risk, and what does earlier deployment of support look like in reality?\n\nTurning to the brilliant workforce within the NHS, what additional staffing and resources will be made available, and will there need to be further expertise and funding to go alongside the new framework? If so, who will provide those resources? Will it come from health board budgets, or will it come via the Welsh Government through Welsh Government budgets? Where health boards fail to improve under this new framework, what happens next and who will be held accountable ultimately?\n\nPatients want to know that when they go into a hospital they're getting the best possible care, and that they're being treated as quickly as possible. How does this framework help with that? What measurable improvements, for example, will there be in safety, access and quality that patients should expect, and how long until they see those?\n\nFinally, waiting lists are still a major problem. They've been going up month after month recently. So when will we see improvements and how will this statement today, and the new framework, help in driving down waiting lists? Diolch.",
+          "text_original": "Minister, thanks for the update today on the review of the escalation and intervention framework. One thing that remains unclear to me is around the difference in outcome. What is the difference that you hope to achieve or would expect, and what will the new framework do that couldn't already be done? Furthermore, what exactly are the enhanced mechanisms for earlier identification of risk, and what does earlier deployment of support look like in reality?\n\nTurning to the brilliant workforce within the NHS, what additional staffing and resources will be made available, and will there need to be further expertise and funding to go alongside the new framework? If so, who will provide those resources? Will it come from health board budgets, or will it come via the Welsh Government through Welsh Government budgets? Where health boards fail to improve under this new framework, what happens next and who will be held accountable ultimately?\n\nPatients want to know that when they go into a hospital they're getting the best possible care, and that they're being treated as quickly as possible. How does this framework help with that? What measurable improvements, for example, will there be in safety, access and quality that patients should expect, and how long until they see those?\n\nFinally, waiting lists are still a major problem. They've been going up month after month recently. So when will we see improvements and how will this statement today, and the new framework, help in driving down waiting lists? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=6512"
+        }
+      ],
+      "date": "2026-09-29",
+      "record_page_url": "https://record.senedd.wales/Plenary/16264"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-770739",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 1142,
+          "text_english": "First Minister, today we remember the deaths of hundreds of people in the Gresford mining disaster. It was a horrific disaster that devastated the community, and I'm sure you, First Minister, will also remember those who died. More than 260 bodies were recovered, but 253 remain entombed. Unfortunately, it wasn't just men that died; boys died in that disaster as well. It clearly was one of Wales's darkest days.\n\nResearch by Wrexham.com shows that, whilst the Plaid Government was questioning the need and rationale for an extra £100 million to be spent on additional learning needs, it was at the very same time asking councils how much more they'd be spending on additional learning needs this year. Now, the data was published just before the supplementary budget vote on your own website. And that figure, in total, for all councils and all schools in Wales was an extra £96.3 million—almost exactly the £100 million that Welsh Labour was saying was required to stabilise the system across Wales, and for which you received a major UK Labour Government windfall. Now, does this revelation, uncovered as I say by Wrexham.com, demonstrate that disadvantaged children risk coming second to this Plaid Cymru Government, behind free childcare for millionaires?",
+          "text_original": "First Minister, today we remember the deaths of hundreds of people in the Gresford mining disaster. It was a horrific disaster that devastated the community, and I'm sure you, First Minister, will also remember those who died. More than 260 bodies were recovered, but 253 remain entombed. Unfortunately, it wasn't just men that died; boys died in that disaster as well. It clearly was one of Wales's darkest days.\n\nResearch by Wrexham.com shows that, whilst the Plaid Government was questioning the need and rationale for an extra £100 million to be spent on additional learning needs, it was at the very same time asking councils how much more they'd be spending on additional learning needs this year. Now, the data was published just before the supplementary budget vote on your own website. And that figure, in total, for all councils and all schools in Wales was an extra £96.3 million—almost exactly the £100 million that Welsh Labour was saying was required to stabilise the system across Wales, and for which you received a major UK Labour Government windfall. Now, does this revelation, uncovered as I say by Wrexham.com, demonstrate that disadvantaged children risk coming second to this Plaid Cymru Government, behind free childcare for millionaires?",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=1142"
+        },
+        {
+          "id": "contribution-770747",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 1297,
+          "text_english": "First Minister, the £9 million that you refer to was before the UK Government budget. Once the UK Government budget had taken place and confirmation that more than £300 million was made available, the then education Minister, Lynne Neagle, was planning to spend an extra £100 million on additional learning needs, had we been re-elected.\n\nNow, I can provide clear, irrefutable evidence of how disadvantaged and disabled children will pay the price for your uncosted pledges. Clwb Cwtsh, which is the only provider of school holiday play for children with complex needs in north Wales, has just been told by the Plaid Government that funding for its services will end. The previous Labour Government here funded that provision, which is, as I say, for children with complex needs. I'm afraid, unless your Government makes a u-turn on this, changes its mind and provides the funding to Clwb Cwtsh, it will be lost. So, can I urge you to reconsider the decision to end funding for this provision? Otherwise, I'm afraid disabled children will be paying the price for free childcare for millionaires.",
+          "text_original": "First Minister, the £9 million that you refer to was before the UK Government budget. Once the UK Government budget had taken place and confirmation that more than £300 million was made available, the then education Minister, Lynne Neagle, was planning to spend an extra £100 million on additional learning needs, had we been re-elected.\n\nNow, I can provide clear, irrefutable evidence of how disadvantaged and disabled children will pay the price for your uncosted pledges. Clwb Cwtsh, which is the only provider of school holiday play for children with complex needs in north Wales, has just been told by the Plaid Government that funding for its services will end. The previous Labour Government here funded that provision, which is, as I say, for children with complex needs. I'm afraid, unless your Government makes a u-turn on this, changes its mind and provides the funding to Clwb Cwtsh, it will be lost. So, can I urge you to reconsider the decision to end funding for this provision? Otherwise, I'm afraid disabled children will be paying the price for free childcare for millionaires.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=1297"
+        },
+        {
+          "id": "contribution-770996",
+          "item_id": "item-16262-260922-4",
+          "item_title_en": "4. Statement by the First Minister: 'New Ambition for Wales: Programme for Government 2026-2030'",
+          "lang": "en",
+          "t_start": 9526,
+          "text_english": "First Minister, can I also thank you for your statement today and congratulate you on publishing your programme for government? This, of course, is the first non-Welsh Labour-led programme for government this Senedd has seen, and we aim to respond to it in a dignified manner, putting the people that we serve and represent first, and of course working in common cause where and when we can. I look forward to working constructively on legislation in particular.\n\nNow, governing, as I believe you recognise, is hard, and we do not intend to make your task unnecessarily harder, but we do represent in our party a great Welsh tradition with deep bonds of solidarity across Britain on the basis that we achieve more together than we can achieve alone. And our role in this Chamber is to stand up for the most vulnerable and to be a voice for those who don't have inherited wealth and privilege, but who graft and work for a better tomorrow. We were therefore disappointed that one of the first things this Plaid Cymru Government did was to water down its offer on free school meals. Plaid Cymru promised in its first 100 days document to commit to expanding free school meals to all secondary school pupils in households claiming universal benefit from September of this year. But by June, of course, just weeks after the election, you stated that this year it would only be available to parents of children in years 7 and 8. No date, indeed, has been given for extending this to years 9, 10 and 11.\n\nNow, Bevan said that socialism is the language of priorities, and one of your first decisions was that you decided that keeping an election promise to some of our poorest children was not a priority. When over £300 million of ALN consequentials came to Wales, again you decided that the most vulnerable children were not a priority and not a penny was allocated to them. Welsh Labour had published plans in Government and in our manifesto for a negotiating body for school support staff, and despite the Senedd voting in favour of it, your Government has refused to commit to supporting school support staff on this.\n\nNow, First Minister, you told traditional Labour voters in your election campaign that you were a safe pair of hands for progressive voters, and yet your group is now welcoming right-wing Reformers. And in your first decisions on education and opportunity for everyone, you've prioritised expanding Welsh Labour's childcare offer to millionaires. First Minister, can I ask you today to commit that your policies in this programme for government will not result in the removal or reduction in support aimed at working class or vulnerable children, such as Flying Start?\n\nTurning to healthcare, under this Plaid Cymru Government, both overall waiting lists and two-year waiting lists are rising again, having fallen for 10 months in a row under Welsh Labour. Before the election, you promised that, within months, the number of people waiting for more than two years would be zero. Can you confirm that the priorities that you set out in this programme for government will not see you renege on another promise—a promise, not just an ambition, that we will see two-year waits reduced to zero within months? And can you confirm how many months that will be?\n\nWeeks before the election—in an attempt, obviously, to get Wales's trade union movement on side—you also wrote to Cwm Taf health visitors supporting their call to upgrade all band 6 health visitors to band 7. Ministers, again, have reneged on this promise, and health visitors rightly feel betrayed. So, can I ask you, First Minister, will you now make good on your promise to these workers and to Unite the Union?\n\nOthers who will feel ignored and betrayed by this programme for government are the people of north Wales, as Helen Jenner has already identified, specifically those in Flintshire and Wrexham, because as Wrexham.com have observed, for north-east Wales, a notable feature is absence. It's as though parts of Wales are already being left behind. Standing up for Wales means uniting the people of Wales, not seeking a course of action that will divide Wales, divide the nation, divide our families and divide our communities, as Brexit did. Standing up for Wales means taking action to improve Wales, not producing a plethora of plans.\n\nIt's not too late, though. It's not too late. I ask you, finally, First Minister, to work with us in the spirit that you campaigned, in the spirit not only of constructive politics, but also progressive politics, because when the people of Wales are prioritised, I can assure you that you will find in us a willing and constructive partner.",
+          "text_original": "First Minister, can I also thank you for your statement today and congratulate you on publishing your programme for government? This, of course, is the first non-Welsh Labour-led programme for government this Senedd has seen, and we aim to respond to it in a dignified manner, putting the people that we serve and represent first, and of course working in common cause where and when we can. I look forward to working constructively on legislation in particular.\n\nNow, governing, as I believe you recognise, is hard, and we do not intend to make your task unnecessarily harder, but we do represent in our party a great Welsh tradition with deep bonds of solidarity across Britain on the basis that we achieve more together than we can achieve alone. And our role in this Chamber is to stand up for the most vulnerable and to be a voice for those who don't have inherited wealth and privilege, but who graft and work for a better tomorrow. We were therefore disappointed that one of the first things this Plaid Cymru Government did was to water down its offer on free school meals. Plaid Cymru promised in its first 100 days document to commit to expanding free school meals to all secondary school pupils in households claiming universal benefit from September of this year. But by June, of course, just weeks after the election, you stated that this year it would only be available to parents of children in years 7 and 8. No date, indeed, has been given for extending this to years 9, 10 and 11.\n\nNow, Bevan said that socialism is the language of priorities, and one of your first decisions was that you decided that keeping an election promise to some of our poorest children was not a priority. When over £300 million of ALN consequentials came to Wales, again you decided that the most vulnerable children were not a priority and not a penny was allocated to them. Welsh Labour had published plans in Government and in our manifesto for a negotiating body for school support staff, and despite the Senedd voting in favour of it, your Government has refused to commit to supporting school support staff on this.\n\nNow, First Minister, you told traditional Labour voters in your election campaign that you were a safe pair of hands for progressive voters, and yet your group is now welcoming right-wing Reformers. And in your first decisions on education and opportunity for everyone, you've prioritised expanding Welsh Labour's childcare offer to millionaires. First Minister, can I ask you today to commit that your policies in this programme for government will not result in the removal or reduction in support aimed at working class or vulnerable children, such as Flying Start?\n\nTurning to healthcare, under this Plaid Cymru Government, both overall waiting lists and two-year waiting lists are rising again, having fallen for 10 months in a row under Welsh Labour. Before the election, you promised that, within months, the number of people waiting for more than two years would be zero. Can you confirm that the priorities that you set out in this programme for government will not see you renege on another promise—a promise, not just an ambition, that we will see two-year waits reduced to zero within months? And can you confirm how many months that will be?\n\nWeeks before the election—in an attempt, obviously, to get Wales's trade union movement on side—you also wrote to Cwm Taf health visitors supporting their call to upgrade all band 6 health visitors to band 7. Ministers, again, have reneged on this promise, and health visitors rightly feel betrayed. So, can I ask you, First Minister, will you now make good on your promise to these workers and to Unite the Union?\n\nOthers who will feel ignored and betrayed by this programme for government are the people of north Wales, as Helen Jenner has already identified, specifically those in Flintshire and Wrexham, because as Wrexham.com have observed, for north-east Wales, a notable feature is absence. It's as though parts of Wales are already being left behind. Standing up for Wales means uniting the people of Wales, not seeking a course of action that will divide Wales, divide the nation, divide our families and divide our communities, as Brexit did. Standing up for Wales means taking action to improve Wales, not producing a plethora of plans.\n\nIt's not too late, though. It's not too late. I ask you, finally, First Minister, to work with us in the spirit that you campaigned, in the spirit not only of constructive politics, but also progressive politics, because when the people of Wales are prioritised, I can assure you that you will find in us a willing and constructive partner.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=9526"
+        }
+      ],
+      "date": "2026-09-22",
+      "record_page_url": "https://record.senedd.wales/Plenary/16262"
+    },
     {
       "contributions": [
         {

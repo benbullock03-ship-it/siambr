@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,122 @@
   "canonical_name": "Rebeca Phillips",
   "constituency_name_cy": "Brycheiniog Tawe Nedd",
   "constituency_name_en": "Brycheiniog Tawe Nedd",
-  "contribution_count": 17,
+  "contribution_count": 26,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778892",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "1. Will the Cabinet Minister provide an update on the review of the local government funding formula? OQ64711",
+          "text_original": "1. A wnaiff y Gweinidog Cabinet ddarparu diweddariad ar adolygiad o'r fformiwla ariannu llywodraeth leol? OQ64711",
+          "tv_url": "http://www.senedd.tv/en/16316"
+        },
+        {
+          "id": "contribution-778898",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "cy",
+          "t_start": 2771,
+          "text_english": "Thank you very much. As a former county councillor of 14 years, I welcome this Government's commitment to renewing the relationship between the Welsh Government and local authorities by ensuring that they are full partners in the design and the delivery of public services. Local authorities do excellent work across our communities, and we will rely on them to deliver many of this Government's priorities. It is therefore essential that the funding formula reflects the true cost of service delivery in different parts of Wales. Could the Minister therefore provide information on the discussions she has had with the Minister for Local Government, Housing and Planning and with the Welsh Local Government Association regarding this matter? Thank you.",
+          "text_original": "Diolch yn fawr. Fel cyn-gynghorydd sir o 14 o flynyddoedd, croesawaf ymrwymiad y Llywodraeth hon i adnewyddu'r berthynas rhwng Llywodraeth Cymru ac awdurdodau lleol drwy sicrhau eu bod nhw'n bartneriaid llawn yn nyluniad a darpariaeth gwasanaethau cyhoeddus. Mae awdurdodau lleol yn gwneud gwaith rhagorol ar draws ein cymunedau, a byddwn yn dibynnu arnynt i gyflawni llawer o flaenoriaethau'r Llywodraeth hon. Mae'n hanfodol felly fod y fformiwla ariannu yn adlewyrchu cost go iawn darparu gwasanaethau mewn gwahanol rannau o Gymru. A allai'r Gweinidog felly ddarparu gwybodaeth am ba drafodaethau mae hi wedi'u cael gyda'r Gweinidog Llywodraeth Leol, Tai a Chynllunio a Chymdeithas Llywodraeth Leol Cymru ynglŷn â'r mater yma? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=2771"
+        },
+        {
+          "id": "contribution-778972",
+          "item_id": "item-16316-261014-5",
+          "item_title_en": "4. 90-second Statements",
+          "lang": "cy",
+          "t_start": 5756,
+          "text_english": "Thank you very much. Shwmae. Tomorrow is Diwrnod Shwmae Su'mae, a day to start every conversation in Welsh, regardless of your proficiency level. It's wonderful to see so many of you in the Chamber wearing the badges and stickers. The first Diwrnod Shwmae Su'mae was celebrated back in 2013, and Mentrau Iaith Cymru now co-ordinates the campaign. I would like to thank the mentrau iaith for their ongoing work in promoting the Welsh language across Wales.\n\nThe aim of the event is to show that Welsh belongs to everyone and to encourage people to start conversations in Welsh, which will lead to greater use of the language throughout the year. Celebrating the diverse range of people who use Welsh is the main theme of this year's event, and there will be events arranged across our communities with opportunities for socialising in Welsh. So, tomorrow, whether you're in the Senedd, in the shop, at school, or even speaking to the King, do make a point of starting every conversation with 'shwmae' and encourage others to do the same.",
+          "text_original": "Diolch yn fawr. Shwmae. Mae yfory yn Ddiwrnod Shwmae Su'mae, sef diwrnod i ddechrau pob sgwrs yn y Gymraeg, dim ots beth yw'ch lefel. Mae'n hyfryd gweld nifer ohonoch chi ar draws y Siambr yn gwisgo bathodynnau heddiw. Dathlwyd y diwrnod shwmae gyntaf yn ôl yn 2013, a Mentrau Iaith Cymru sy'n cydlynu'r ymgyrch bellach. Hoffwn ddiolch i'r mentrau iaith am eu gwaith parhaol o hyrwyddo'r iaith Gymraeg ar draws Cymru.\n\nNod y diwrnod yw dangos bod y Gymraeg yn perthyn i bawb ac annog pawb i ddechrau sgyrsiau yn Gymraeg, a fyddai'n arwain at ddefnydd mwy o'r Gymraeg drwy gydol y flwyddyn. Dathlu pobl amrywiol sy'n defnyddio'r Gymraeg yw prif thema'r diwrnod eleni, a bydd digwyddiadau ar draws ein cymunedau ar gael i gymdeithasu drwy'r Gymraeg. Felly, yfory, p'un ai yn y Senedd, yn y siop, yn yr ysgol neu efallai hyd yn oed yn siarad gyda'r Brenin, ewch ati i ddechrau pob sgwrs gan ddweud 'shwmae', ac annog eraill i wneud yr un peth.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=5756"
+        },
+        {
+          "id": "contribution-779038",
+          "item_id": "item-16316-261014-6",
+          "item_title_en": "5. Welsh Labour Debate: Palliative and end-of-life care",
+          "lang": "en",
+          "t_start": 8939,
+          "text_english": "Diolch, Llywydd, and I'd like to thank everyone for sharing their personal stories today. How we care for people in the final chapters of their lives is the ultimate measure of our compassion, our values and our society. Palliative and end-of-life care is not a secondary branch of medicine; it is a fundamental pillar in a truly integrated health and social care system.\n\nIn Neath Port Talbot, Marie Curie estimates that 1,550 people would have benefited from palliative and end-of-life care in 2023. In 10 years, they estimate that demand for palliative care in Neath Port Talbot will increase to 1,705 people per year, and what we must remember is that behind every figure, there is a person, there is a family.\n\nEarly identification of needs through health boards is vital to inform the planning and delivery of services. I was pleased to see in the Plaid Cymru manifesto commitments to ensure that every regional partnership board includes a palliative and end-of-life care need, because dignity in death should never depend on your postcode.\n\nAnd we turn to the staff of our hospices across Wales. The support these individuals provide to families could never be measured—the care, experience and compassion enabling people to stay in their homes and communities wherever possible. But an ageing population with increasingly complex conditions means that pressures on our front-line staff will only intensify. If we do not build a resilient community care network, our emergency services will bear the brunt. People who wish to spend their final days in the comfort of their own homes surrounded by their loved ones will continue to be trapped in hospital beds because the community support simply isn't there. I'm glad to see the consensus across the Chamber today to work together to ensure that every individual in Wales can face the end of their life with dignity, comfort and peace.",
+          "text_original": "Diolch, Llywydd, and I'd like to thank everyone for sharing their personal stories today. How we care for people in the final chapters of their lives is the ultimate measure of our compassion, our values and our society. Palliative and end-of-life care is not a secondary branch of medicine; it is a fundamental pillar in a truly integrated health and social care system.\n\nIn Neath Port Talbot, Marie Curie estimates that 1,550 people would have benefited from palliative and end-of-life care in 2023. In 10 years, they estimate that demand for palliative care in Neath Port Talbot will increase to 1,705 people per year, and what we must remember is that behind every figure, there is a person, there is a family.\n\nEarly identification of needs through health boards is vital to inform the planning and delivery of services. I was pleased to see in the Plaid Cymru manifesto commitments to ensure that every regional partnership board includes a palliative and end-of-life care need, because dignity in death should never depend on your postcode.\n\nAnd we turn to the staff of our hospices across Wales. The support these individuals provide to families could never be measured—the care, experience and compassion enabling people to stay in their homes and communities wherever possible. But an ageing population with increasingly complex conditions means that pressures on our front-line staff will only intensify. If we do not build a resilient community care network, our emergency services will bear the brunt. People who wish to spend their final days in the comfort of their own homes surrounded by their loved ones will continue to be trapped in hospital beds because the community support simply isn't there. I'm glad to see the consensus across the Chamber today to work together to ensure that every individual in Wales can face the end of their life with dignity, comfort and peace.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=8939"
+        }
+      ],
+      "date": "2026-10-14",
+      "record_page_url": "https://record.senedd.wales/Plenary/16316"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-778623",
+          "item_id": "item-16315-261013-5",
+          "item_title_en": "5. Statement by the Cabinet Minister for Health and Care: Update on winter preparedness",
+          "lang": "en",
+          "t_start": 13158,
+          "text_english": "Year after year, the previous Government failed to prepare sufficiently for the winter months. In May, the people of Wales put their faith in this Plaid Cymru Government to prioritise our NHS. And I welcome the statement today, which is breaking the cycle of waiting for winter to arrive before reaching it.\n\nMany of the priorities set out in the statement can only succeed through local implementation. Could the Cabinet Minister please provide more detail on how the Government will support those providing healthcare in our communities? They are often under-resourced and under immense pressure, but if we can get this right, it would reduce the pressure on A&E, keeping people in their communities and out of hospital, where there is a chance they would pick up further illness and infection. Diolch.",
+          "text_original": "Year after year, the previous Government failed to prepare sufficiently for the winter months. In May, the people of Wales put their faith in this Plaid Cymru Government to prioritise our NHS. And I welcome the statement today, which is breaking the cycle of waiting for winter to arrive before reaching it.\n\nMany of the priorities set out in the statement can only succeed through local implementation. Could the Cabinet Minister please provide more detail on how the Government will support those providing healthcare in our communities? They are often under-resourced and under immense pressure, but if we can get this right, it would reduce the pressure on A&E, keeping people in their communities and out of hospital, where there is a chance they would pick up further illness and infection. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=13158"
+        }
+      ],
+      "date": "2026-10-13",
+      "record_page_url": "https://record.senedd.wales/Plenary/16315"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-773496",
+          "item_id": "item-16265-260930-1",
+          "item_title_en": "1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice",
+          "lang": "cy",
+          "t_start": 246,
+          "text_english": "The Welsh Government has just announced a package of almost £5 million to support those experiencing poverty and to build financial resilience in the long term across our communities. How will the Government ensure that this funding reaches the most vulnerable, particularly in rural parts of our constituency of Brycheiniog Tawe Nedd? Thank you.",
+          "text_original": "Mae Llywodraeth Cymru newydd gyhoeddi pecyn o bron i £5 miliwn i gefnogi'r rhai sy'n dioddef tlodi ac i adeiladu gwydnwch ariannol hirdymor ar draws ein cymunedau. Sut fydd y Llywodraeth yn sicrhau bod y cyllid hwn yn cyrraedd y rhai mwyaf bregus, yn enwedig mewn rhannau gwledig o'n hetholaeth ni, Brycheiniog Tawe Nedd? Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=246"
+        },
+        {
+          "id": "contribution-773631",
+          "item_id": "item-16265-260930-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Rural Resilience and Sustainability",
+          "lang": "en",
+          "t_start": 4970,
+          "text_english": "I know that many Members were at the NFU reception last week, and hearing the union and farmers thank the Minister for a number of decisions this Welsh Government has taken so far to support them speaks volumes. For the first time, farmers feel heard. Plaid Cymru's manifesto commits to rural-proofing our communities, including those in my constituency of Brycheiniog Tawe Nedd. Could we have some information on the progress of the rural development strategy for Wales and how this will tackle poverty and create new economic and social opportunities for my constituents?",
+          "text_original": "I know that many Members were at the NFU reception last week, and hearing the union and farmers thank the Minister for a number of decisions this Welsh Government has taken so far to support them speaks volumes. For the first time, farmers feel heard. Plaid Cymru's manifesto commits to rural-proofing our communities, including those in my constituency of Brycheiniog Tawe Nedd. Could we have some information on the progress of the rural development strategy for Wales and how this will tackle poverty and create new economic and social opportunities for my constituents?",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=4970"
+        },
+        {
+          "id": "contribution-773709",
+          "item_id": "item-16265-260930-4",
+          "item_title_en": "4. 90-second Statements",
+          "lang": "en",
+          "t_start": 7695,
+          "text_english": "Yesterday marked World Heart Day, a day that brings together a global community to raise awareness of cardiovascular disease, one of the most significant health challenges we face. CVD is responsible for more than one in four deaths in Wales, and Public Health Wales projects a 46 per cent increase in heart failure by 2035. These figures are stark, and they remind us why continued action, investment and awareness are so essential. I want to extend my thanks to the British Heart Foundation for bringing the red bench to the Senedd steps yesterday. It served not only as a symbol of remembrance, but also as a powerful prompt for conversation about prevention, early diagnosis and support. I'm grateful to all Members who took the time to visit the bench and showed their commitment to improving heart health across our communities. I also want to place on record my appreciation for the many individuals, clinicians, researchers, volunteers and organisations across Wales who work tirelessly to prevent cardiovascular disease, improve care pathways and strengthen the data we rely on to deliver better outcomes. Their dedication ensures that no matter where people live in Wales they can access the support and treatment they need. Together, we can continue to raise awareness, promote healthier lifestyles, and push for the improvements that will save lives for generations to come.",
+          "text_original": "Yesterday marked World Heart Day, a day that brings together a global community to raise awareness of cardiovascular disease, one of the most significant health challenges we face. CVD is responsible for more than one in four deaths in Wales, and Public Health Wales projects a 46 per cent increase in heart failure by 2035. These figures are stark, and they remind us why continued action, investment and awareness are so essential. I want to extend my thanks to the British Heart Foundation for bringing the red bench to the Senedd steps yesterday. It served not only as a symbol of remembrance, but also as a powerful prompt for conversation about prevention, early diagnosis and support. I'm grateful to all Members who took the time to visit the bench and showed their commitment to improving heart health across our communities. I also want to place on record my appreciation for the many individuals, clinicians, researchers, volunteers and organisations across Wales who work tirelessly to prevent cardiovascular disease, improve care pathways and strengthen the data we rely on to deliver better outcomes. Their dedication ensures that no matter where people live in Wales they can access the support and treatment they need. Together, we can continue to raise awareness, promote healthier lifestyles, and push for the improvements that will save lives for generations to come.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=7695"
+        }
+      ],
+      "date": "2026-09-30",
+      "record_page_url": "https://record.senedd.wales/Plenary/16265"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-770720",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 253,
+          "text_english": "The Global Centre of Rail Excellence is seen as a promising development for many across my constituency, showing the potential of green travel, a path towards net zero, and supporting the development of stronger, greener and more affordable transport systems right across the world. What other opportunities are there alongside this project that will help people in my constituency? Diolch.",
+          "text_original": "The Global Centre of Rail Excellence is seen as a promising development for many across my constituency, showing the potential of green travel, a path towards net zero, and supporting the development of stronger, greener and more affordable transport systems right across the world. What other opportunities are there alongside this project that will help people in my constituency? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=253"
+        }
+      ],
+      "date": "2026-09-22",
+      "record_page_url": "https://record.senedd.wales/Plenary/16262"
+    },
     {
       "contributions": [
         {

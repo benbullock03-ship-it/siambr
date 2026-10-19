@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,112 @@
   "canonical_name": "Beca Brown",
   "constituency_name_cy": "Gwynedd Maldwyn",
   "constituency_name_en": "Gwynedd Maldwyn",
-  "contribution_count": 21,
+  "contribution_count": 29,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778971",
+          "item_id": "item-16316-261014-5",
+          "item_title_en": "4. 90-second Statements",
+          "lang": "cy",
+          "t_start": 6026,
+          "text_english": "Yesterday, the town of Porthmadog in my constituency marked the centenary of the death of one of its best-known sons, with a series of commemorative events. The name Eliseus Williams might not mean much to some, but I’m sure you will recognise his bardic name, Eifion Wyn.\n\nEifion Wyn was born at 28 New Street, Porthmadog, and although he spent time as a teacher at Snowdon Street school in the town, he is best known as one of the most popular poets of his time. He wrote in the wake of the Beirdd Newydd, a school of Welsh poets active in the final decades of the nineteenth century who emphasised that poetry should be lofty, serious, philosophical and profound.\n\nLooking back, many consider the work of those poets to be obscure and abstruse. But Eifion Wyn was a poet of the people. It was important to him that his poetry was understandable and accessible, and that’s why he was such a popular poet. To quote an expert in the field, his poetry appealed to the people.\n\nHis legacy endures today, of course, not only in the name of the local primary school, but in his words. One of the most famous Welsh hymns, ‘Efengyl tangnefedd’, written by Eifion Wyn, is a call for international peace—a subject that is painfully relevant today. Thanks to the event organisers for all of their work.",
+          "text_original": "Ddoe, roedd tref Porthmadog yn fy etholaeth i yn nodi canmlwyddiant marw un o’i meibion mwyaf adnabyddus, gyda chyfres o ddigwyddiadau. Mae’n bosibl na fyddai’r enw Eliseus Williams yn golygu llawer i rai, ond dwi’n siŵr y byddwch chi'n ei adnabod o o'i enw barddol, sef Eifion Wyn.\n\nGanwyd Eifion Wyn yn 28 New Street, Porthmadog, ac er iddo dreulio cyfnod fel athro yn ysgol Snowdon Street yn y dref, mae’n cael ei adnabod yn bennaf fel un o feirdd mwyaf poblogaidd ei oes. Roedd o’n ysgrifennu yn dilyn cyfnod y Beirdd Newydd, sef ysgol o feirdd Cymraeg yn negawdau olaf y bedwaredd ganrif ar bymtheg a oedd yn pwysleisio y dylai barddoniaeth fod yn aruchel, yn ddifrifol, yn athronyddol ac yn ddwys.\n\nO edrych yn ôl, mae nifer yn ystyried gwaith y beirdd hynny’n aneglur ac yn astrus. Ond bardd ei bobl oedd Eifion Wyn. Roedd yn bwysig ganddo fod ei farddoniaeth yn ddealladwy ac yn hygyrch, a dyna pam ei fod yn fardd mor boblogaidd. I ddyfynnu arbenigwr yn y maes, roedd o’n apelio at glust y werin bobl.\n\nMae ei waddol yn parhau heddiw, wrth gwrs, nid yn unig yn enw’r ysgol gynradd leol, ond yn ei eiriau. Mae un o emynau enwocaf y Cymry, o eiddo Eifion Wyn, ‘Efengyl tangnefedd’, yn alwad am heddwch rhyngwladol—pwnc sy’n boenus o berthnasol heddiw. Diolch i bawb a oedd yn trefnu'r digwyddiadau yma am eu gwaith.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=6026"
+        }
+      ],
+      "date": "2026-10-14",
+      "record_page_url": "https://record.senedd.wales/Plenary/16316"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776785",
+          "item_id": "item-16314-261007-4",
+          "item_title_en": "4. 90-second Statements",
+          "lang": "en",
+          "t_start": 8497,
+          "text_english": "Just over 18 weeks ago, Venus Lamey turned up at the Nova Prestatyn parkrun dressed as a chicken. Since then, she has run 16 different parkruns across north Wales, dressed in a variety of costumes, including a dinosaur, a unicorn and Winnie the Pooh. Several of these parkruns have been in my constituency, Pont y Bala, Dolgellau and Hafan Pwllheli, where I went to meet her and to hear her story of why she chooses to run in some very eye-catching costumes. Venus believes in shifting shame. She runs because it helps her and to raise money for the Rape and Sexual Abuse Support Centre North Wales, who support the victims of sexual violence. Venus says, 'Through the hundreds of conversations I've had, it's highlighted to me just how many people in north Wales have either been affected by sexual violence themselves or know someone who has.'\n\nVenus wants to shift the shame from the victims of sexual abuse to the perpetrators. Last week, she ran the Nova Prestatyn parkrun again, wearing a Teletubbies costume, but this time, she wasn't the only one in an embarrassing costume: 64 people dressed up for Venus's Shift the Shame campaign. Venus will run her final parkrun this Saturday on the prom at Abermaw—Barmouth. So, if you're in the area, do go and cheer her on. Diolch, Venus, for everything you do.",
+          "text_original": "Just over 18 weeks ago, Venus Lamey turned up at the Nova Prestatyn parkrun dressed as a chicken. Since then, she has run 16 different parkruns across north Wales, dressed in a variety of costumes, including a dinosaur, a unicorn and Winnie the Pooh. Several of these parkruns have been in my constituency, Pont y Bala, Dolgellau and Hafan Pwllheli, where I went to meet her and to hear her story of why she chooses to run in some very eye-catching costumes. Venus believes in shifting shame. She runs because it helps her and to raise money for the Rape and Sexual Abuse Support Centre North Wales, who support the victims of sexual violence. Venus says, 'Through the hundreds of conversations I've had, it's highlighted to me just how many people in north Wales have either been affected by sexual violence themselves or know someone who has.'\n\nVenus wants to shift the shame from the victims of sexual abuse to the perpetrators. Last week, she ran the Nova Prestatyn parkrun again, wearing a Teletubbies costume, but this time, she wasn't the only one in an embarrassing costume: 64 people dressed up for Venus's Shift the Shame campaign. Venus will run her final parkrun this Saturday on the prom at Abermaw—Barmouth. So, if you're in the area, do go and cheer her on. Diolch, Venus, for everything you do.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=8497"
+        }
+      ],
+      "date": "2026-10-07",
+      "record_page_url": "https://record.senedd.wales/Plenary/16314"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-775913",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "9. What action is the Welsh Government taking to support survivors of childhood abuse who experience further trauma when accessing historical social work, health or police records? OQ64653",
+          "text_original": "9. Pa gamau y mae Llywodraeth Cymru yn eu cymryd i gefnogi goroeswyr camdriniaeth yn ystod plentyndod sy'n profi trawma pellach wrth geisio cael mynediad at gofnodion gwaith cymdeithasol, iechyd neu'r heddlu hanesyddol? OQ64653",
+          "tv_url": "http://www.senedd.tv/en/16313"
+        },
+        {
+          "id": "contribution-775916",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 3455,
+          "text_english": "Thank you, First Minister. Victims and survivors tell us that, when they raise concerns about victim-blaming language or missed opportunities to protect them within historical social work, health or police records, they are often told that these attitudes were simply a product of the time and would not be acceptable today. However, for survivors living with post-traumatic stress disorder, physical ill health and the lifelong consequences of abuse, the impact is very much felt today. Many access these records in an attempt to piece together their life story and to better understand their experiences, only to find that the files leave them with more questions than answers. For professionals, these may be historical records, but for survivors, the trauma is not historical at all. What more can the Welsh Government do to ensure survivors are met with recognition, trauma-informed support and meaningful acknowledgement of the harm these records can still cause?",
+          "text_original": "Thank you, First Minister. Victims and survivors tell us that, when they raise concerns about victim-blaming language or missed opportunities to protect them within historical social work, health or police records, they are often told that these attitudes were simply a product of the time and would not be acceptable today. However, for survivors living with post-traumatic stress disorder, physical ill health and the lifelong consequences of abuse, the impact is very much felt today. Many access these records in an attempt to piece together their life story and to better understand their experiences, only to find that the files leave them with more questions than answers. For professionals, these may be historical records, but for survivors, the trauma is not historical at all. What more can the Welsh Government do to ensure survivors are met with recognition, trauma-informed support and meaningful acknowledgement of the harm these records can still cause?",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=3455"
+        },
+        {
+          "id": "contribution-776035",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "8. What is the Government's approach to ensuring co-operation across portfolios to deliver the Programme for Government? OQ64627",
+          "text_original": "8. Sut mae’r Llywodraeth yn mynd ati i sicrhau cydweithio traws-portffolio i gyflawni'r Rhaglen Lywodraethu? OQ64627",
+          "tv_url": "http://www.senedd.tv/en/16313"
+        },
+        {
+          "id": "contribution-776042",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "cy",
+          "t_start": 5842,
+          "text_english": "Thank you, Minister. I was delighted to lead a debate in this Chamber on the need to integrate the work of preventing ACEs, or adverse childhood experiences, and respond to them across public services. The experience of a child or a person of trauma doesn't respect departmental boundaries. Housing, health, education, social care and employment can all play their part in creating conditions where children and families recover from trauma and prosper. Will you therefore outline how the Government will help to ensure that trauma and adverse experiences during childhood, or ACEs, are covered across Government, rather than as an issue for individual departments?",
+          "text_original": "Diolch, Weinidog. Roeddwn i'n falch iawn o arwain dadl yn y Siambr hon am yr angen i integreiddio'r gwaith o atal ACEs, neu adverse childhood experiences, ac ymateb iddynt ar draws gwasanaethau cyhoeddus. Nid yw profiad plentyn neu berson o drawma yn parchu ffiniau adrannol. Gall tai, addysg, iechyd, gofal cymdeithasol a chyflogaeth oll chwarae rhan mewn creu amodau ble mae plant a theuluoedd yn adfer o drawma ac yn ffynnu. A wnewch chi felly amlinellu sut y bydd y Llywodraeth yn helpu i sicrhau bod trawma a phrofiadau niweidiol yn ystod plentyndod, ACEs, yn cael sylw ar draws y Llywodraeth, yn hytrach nag fel mater i adrannau unigol?",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=5842"
+        }
+      ],
+      "date": "2026-10-06",
+      "record_page_url": "https://record.senedd.wales/Plenary/16313"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771376",
+          "item_id": "item-16263-260923-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "3. What role will community energy projects play in Wales's transition to net zero? OQ64557",
+          "text_original": "3. Pa rôl fydd prosiectau ynni cymunedol yn ei chwarae yn nhrawsnewidiad Cymru i sero net? OQ64557",
+          "tv_url": "http://www.senedd.tv/en/16263"
+        },
+        {
+          "id": "contribution-771381",
+          "item_id": "item-16263-260923-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "cy",
+          "t_start": 1863,
+          "text_english": "Thank you very much. It's excellent to hear that you share my view that community energy has a crucial role to play as we move towards our ambition of a net-zero Wales. Of course, at the heart of our principles as we develop community energy projects is that they align with local need, and it's important to ensure that the planning process reflects that. A perfect example of an industrial development that is contrary to our principles in my constituency is the Menai data centre scheme on the former Ferodo site near Caernarfon. It's a project that will swallow great amounts of energy and water, will have a damaging impact on wildlife and will cause sound and light pollution locally. But, more than anything, the huge scale of the project means that it will be sure to destroy our local landscapes and views, while offering very few local benefits. So, how can you ensure that the energy supply for data centres doesn't have a negative impact on the local area?",
+          "text_original": "Diolch yn fawr iawn. Mae'n wych clywed eich bod chi o'r un farn â fi fod gan ynni cymunedol ran hollbwysig i'w chwarae wrth inni symud tuag at ein huchelgais o Gymru sero net. Wrth gwrs, wrth galon ein hegwyddorion wrth inni fynd ati i ddatblygu prosiectau ynni cymunedol yw eu bod nhw'n cyd-fynd â'r anghenion yn lleol, ac mae'n bwysig sicrhau bod y broses cynllunio yn adlewyrchu hynny. Enghraifft berffaith o ddatblygiad diwydiannol sydd yn mynd yn gwbl groes i'n hegwyddorion ni yn fy etholaeth i yw'r cynllun canolfan ddata Menai ar hen safle Ferodo yn ardal Caernarfon. Mae'n brosiect fydd yn llyncu llwythi o ynni a dŵr, yn cael effaith ddinistriol ar fywyd natur ac yn achosi llygredd sŵn a golau yn lleol. Ond, yn fwy na dim, mae graddfa anferthol y prosiect yn golygu y bydd yn siŵr o ddifetha ein tirwedd a'n golygfeydd yn lleol, gan gynnig ychydig iawn o fanteision yn lleol. Felly, sut y gallwch sicrhau nad yw cyflenwad ynni canolfannau data yn cael effaith negyddol ar yr ardal leol?",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=1863"
+        }
+      ],
+      "date": "2026-09-23",
+      "record_page_url": "https://record.senedd.wales/Plenary/16263"
+    },
     {
       "contributions": [
         {

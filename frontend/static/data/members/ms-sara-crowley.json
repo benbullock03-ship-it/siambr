@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,102 @@
   "canonical_name": "Sara Crowley",
   "constituency_name_cy": "Pontypridd Cynon Merthyr",
   "constituency_name_en": "Pontypridd Cynon Merthyr",
-  "contribution_count": 15,
+  "contribution_count": 22,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778429",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 2213,
+          "text_english": "Prif Weinidog, I think it's important to challenge the suggestion that nothing has been done on this issue. Plaid Cymru Members have repeatedly raised the dispute with the health board in the Senedd and through the Health and Social Care Committee. The health Minister has engaged with both sides and consistently called for a resolution. The Minister has also been clear that this is not a dispute he can simply impose a settlement on, and the frustration felt by the health visitors is shared across this Chamber. What this long-running dispute does raise, however, is wider concerns about governance and accountability. When concerns can persist for years despite scrutiny and repeated calls for resolution, we must ask whether the warning signs should have been identified much earlier. What lessons is the Government drawing more widely about strengthening leadership and accountability across NHS Wales to prevent disputes reaching this stage in future? Diolch.",
+          "text_original": "Prif Weinidog, I think it's important to challenge the suggestion that nothing has been done on this issue. Plaid Cymru Members have repeatedly raised the dispute with the health board in the Senedd and through the Health and Social Care Committee. The health Minister has engaged with both sides and consistently called for a resolution. The Minister has also been clear that this is not a dispute he can simply impose a settlement on, and the frustration felt by the health visitors is shared across this Chamber. What this long-running dispute does raise, however, is wider concerns about governance and accountability. When concerns can persist for years despite scrutiny and repeated calls for resolution, we must ask whether the warning signs should have been identified much earlier. What lessons is the Government drawing more widely about strengthening leadership and accountability across NHS Wales to prevent disputes reaching this stage in future? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=2213"
+        }
+      ],
+      "date": "2026-10-13",
+      "record_page_url": "https://record.senedd.wales/Plenary/16315"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776633",
+          "item_id": "item-16314-261007-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Health and Care",
+          "lang": "cy",
+          "t_start": 3993,
+          "text_english": "I'd like to put on record that I am sending my love to any parent or family member who have dealt with this. Last week, I attended the Babyloss and Beyond summit here in the Senedd, organised by Better Maternity Cymru. I'd like to recognise the campaigners, the charities and bereavement midwives who attended from my own constituency, including Danika from William's Embrace, Jade from the Mitchell Foundation and Ruth from Merthyr Sands. Many of them are bereaved parents themselves and use their personal experience and expertise to improve the care provided to other families.\n\nI welcome the Minister's commitment to improving maternity care and bereavement care, and our shared ambition to ensure that families receive the support they need. While listening to parents and professionals, it became clear how important it is to ensure that those who support families have the resources that they need to continue with this work. Bereavement midwives provide essential specialist care and ongoing support, but in cases where this work is the responsibility of one individual or two individuals sharing one job, capacity is limited.",
+          "text_original": "Dwi'n moyn rhoi ar y cofnod fy mod i'n estyn fy nghariad tuag at unrhyw riant neu deulu estynedig sydd wedi delio â hwn. Wythnos diwethaf, mynychais uwch-gynhadledd Colli Babi a Thu Hwnt yma yn y Senedd, a drefnwyd gan Better Maternity Cymru. Hoffwn gydnabod yr ymgyrchwyr, yr elusennau a'r bydwragedd profedigaeth a oedd yn bresennol o fy etholaeth fy hun, gan gynnwys Danika o William's Embrace, Jade o Sefydliad Mitchell a Ruth o Sands Merthyr. Mae llawer ohonynt yn rhieni mewn profedigaeth eu hunain ac yn defnyddio eu profiad personol a'u harbenigedd i wella'r gofal a ddarperir i deuluoedd eraill.\n\nRwy'n croesawu ymrwymiad y Gweinidog i wella gofal mamolaeth a gofal profedigaeth, a'n huchelgais ar y cyd i sicrhau bod teuluoedd yn cael y cymorth sydd ei angen arnynt. Wrth wrando ar rieni a gweithwyr proffesiynol, daeth yn amlwg pa mor bwysig yw sicrhau bod gan y rhai sy'n cefnogi teuluoedd yr adnoddau sydd eu hangen i barhau â'r gwaith hwn. Mae bydwragedd profedigaeth yn darparu gofal arbenigol hanfodol a chymorth parhaus, ond lle mae'r gwaith hwn yn gyfrifoldeb ar un unigolyn neu ddau unigolyn yn rhannu'r un swydd, mae capasiti yn gyfyngedig.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=3993"
+        },
+        {
+          "id": "contribution-776655",
+          "item_id": "item-16314-261007-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Health and Care",
+          "lang": "cy",
+          "t_start": 4074,
+          "text_english": "Of course. Can the Minister set out how the Government will ensure that all health boards provide consistent bereavement support of high quality, ensuring standard staffing levels and bereavement midwife capacity, so that families have a consistent experience of the same standard of care in all parts of Wales? Thank you very much. Sorry for going over time.",
+          "text_original": "Wrth gwrs. A all y Gweinidog nodi sut y bydd y Llywodraeth yn sicrhau bod pob bwrdd iechyd yn darparu cymorth profedigaeth cyson o ansawdd uchel, gan sicrhau lefelau staffio a chapasiti bydwragedd profedigaeth safonol, fel bod pob teulu yn cael profiad cyson o'r un safon ym mhob cwr o Gymru? Diolch yn fawr. Sori am fynd dros amser.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=4074"
+        },
+        {
+          "id": "contribution-776687",
+          "item_id": "item-16314-261007-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "2. What progress has the Welsh Government made on improving the energy efficiency of homes in Pontypridd Cynon Merthyr? OQ64660",
+          "text_original": "2. Pa gynnydd mae Llywodraeth Cymru wedi'i wneud o ran gwella effeithlonrwydd ynni cartrefi ym Mhontypridd Cynon Merthyr? OQ64660",
+          "tv_url": "http://www.senedd.tv/en/16314"
+        },
+        {
+          "id": "contribution-776693",
+          "item_id": "item-16314-261007-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
+          "lang": "cy",
+          "t_start": 5662,
+          "text_english": "Thank you, Cabinet Minister. I welcome the Welsh Government's commitment regarding warm homes and energy efficiency. We know that a warm, safe and affordable home is fundamental to a healthy and happy life, yet fuel poverty remains a significant challenge in communities throughout Pontypridd Cynon Merthyr. Rhondda Cynon Taf council has noted that around 65 per cent of homes are energy inefficient, which reflects the area's older housing stock, while fuel poverty continues to disproportionately affect low-income families, disabled people and older residents. How will the Welsh Government's plans benefit residents in Pontypridd Cynon Merthyr? And what action is being taken to ensure that work to improve energy efficiency will help to reduce bills, improve people's health and well-being and ensure a permanent reduction in fuel poverty? Thank you.",
+          "text_original": "Diolch, Weinidog Cabinet. Rwy'n croesawu ymrwymiad Llywodraeth Cymru ynghylch cartrefi cynnes ac effeithlonrwydd ynni. Gwyddom fod cartref cynnes, diogel a fforddiadwy yn sylfaenol i fywyd iach a hapus, ac eto mae tlodi tanwydd yn parhau i fod yn her sylweddol mewn cymunedau ledled Pontypridd Cynon Merthyr. Mae cyngor Rhondda Cynon Taf wedi nodi bod tua 65 y cant o gartrefi yn ynni aneffeithlon, sy'n adlewyrchu'r stoc dai hŷn yn yr ardal, tra bod tlodi tanwydd yn parhau i effeithio'n anghymesur ar deuluoedd incwm isel, pobl anabl a phreswylwyr hŷn. Sut y bydd cynlluniau Llywodraeth Cymru o fudd i aelwydydd ym Mhontypridd Cynon Merthyr yn benodol? A pha gamau sy'n cael eu cymryd i sicrhau y bydd y gwaith o wella effeithlonrwydd ynni yn helpu i ostwng biliau ynni, gwella iechyd a lles pobl a sicrhau gostyngiad parhaol mewn tlodi tanwydd? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=5662"
+        }
+      ],
+      "date": "2026-10-07",
+      "record_page_url": "https://record.senedd.wales/Plenary/16314"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-773043",
+          "item_id": "item-16264-260929-8",
+          "item_title_en": "7. Statement by the Deputy Minister for Social Care, Mental Health and Women's Health: Improving Family-centred Neonatal Care in Wales: Progress Towards the Bliss Baby Charter",
+          "lang": "en",
+          "t_start": 12761,
+          "text_english": "Diolch. Following on from psychological support, this question will be timely. Deputy Minister, I welcome the progress being made towards the Bliss baby charter, but family-centred neonatal care can only succeed if the specialist workforce is there to support families when they need it most.\n\nIn my constituency of Pontypridd Cynon Merthyr, the experience of Chloe and her son Theo illustrates why this is so important. After Theo was admitted to neonatal intensive care in Merthyr Tydfil shortly after birth, Chloe spoke about the fear, anxiety and trauma that followed, and how those feelings stayed with her long after Theo came home.\n\nShe has said that access to specialist psychological support could have helped her process that experience and lessen its lasting impact on her family. Bliss has found a 62 per cent shortfall in neonatal allied health professionals, psychology and pharmacy staffing across Wales, with the shortfall in psychology provision standing at 90 per cent, the second highest in the UK.\n\nGiven that Cwm Taf Morgannwg health board currently has no neonatal psychologist provision in either Merthyr or Bridgend, what specific action is the Welsh Government taking to address these workforce gaps? Will you, Deputy Minister, commit to ensuring that psychological support is a central and properly funded part of delivering the Bliss baby charter in Wales? Diolch o galon.",
+          "text_original": "Diolch. Following on from psychological support, this question will be timely. Deputy Minister, I welcome the progress being made towards the Bliss baby charter, but family-centred neonatal care can only succeed if the specialist workforce is there to support families when they need it most.\n\nIn my constituency of Pontypridd Cynon Merthyr, the experience of Chloe and her son Theo illustrates why this is so important. After Theo was admitted to neonatal intensive care in Merthyr Tydfil shortly after birth, Chloe spoke about the fear, anxiety and trauma that followed, and how those feelings stayed with her long after Theo came home.\n\nShe has said that access to specialist psychological support could have helped her process that experience and lessen its lasting impact on her family. Bliss has found a 62 per cent shortfall in neonatal allied health professionals, psychology and pharmacy staffing across Wales, with the shortfall in psychology provision standing at 90 per cent, the second highest in the UK.\n\nGiven that Cwm Taf Morgannwg health board currently has no neonatal psychologist provision in either Merthyr or Bridgend, what specific action is the Welsh Government taking to address these workforce gaps? Will you, Deputy Minister, commit to ensuring that psychological support is a central and properly funded part of delivering the Bliss baby charter in Wales? Diolch o galon.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=12761"
+        }
+      ],
+      "date": "2026-09-29",
+      "record_page_url": "https://record.senedd.wales/Plenary/16264"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771030",
+          "item_id": "item-16262-260922-4",
+          "item_title_en": "4. Statement by the First Minister: 'New Ambition for Wales: Programme for Government 2026-2030'",
+          "lang": "cy",
+          "t_start": 11852,
+          "text_english": "First Minister, I welcome the programme for government, and particularly the work to embed public health and preventative health across Government. One of the ongoing challenges is that the benefits of having a preventative health programme are often delivered years after the investment is initially made, whilst the pressure on acute services is direct and immediate. In considering that, how will the Welsh Government ensure that preventative health programmes, be that in physical activity, healthy eating, the early years, or tackling health inequality, are safeguarded and prioritised when budgets are under such pressure? And what measures will you put in place to show that preventative health is steering budgetary decisions across Government? Thank you.",
+          "text_original": "Brif Weinidog, rwy'n croesawu'r rhaglen lywodraethu, ac yn enwedig y gwaith i wreiddio iechyd cyhoeddus ac iechyd ataliol ar draws y Llywodraeth. Un o'r heriau parhaus yw bod manteision cael rhaglen iechyd ataliol yn aml yn cael eu gwireddu flynyddoedd ar ôl i'r buddsoddiad gael ei wneud, tra bod y pwysau ar wasanaethau acíwt yn rhai uniongyrchol ac ar unwaith. Wrth ystyried hynny, sut y bydd Llywodraeth Cymru yn sicrhau bod rhaglenni iechyd ataliol, boed hynny ym maes gweithgarwch corfforol, bwyd iach, y blynyddoedd cynnar, neu fynd i'r afael ag anghydraddoldebau iechyd, yn cael eu diogelu a'u blaenoriaethu pan fydd cyllidebau o dan gymaint o bwysau? A pha fesurau y byddwch chi'n eu defnyddio i ddangos bod iechyd ataliol yn llywio penderfyniadau cyllido ar draws y Llywodraeth? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=11852"
+        }
+      ],
+      "date": "2026-09-22",
+      "record_page_url": "https://record.senedd.wales/Plenary/16262"
+    },
     {
       "contributions": [
         {

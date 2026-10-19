@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,154 @@
   "canonical_name": "Stephen Senior",
   "constituency_name_cy": "Sir Fynwy Torfaen",
   "constituency_name_en": "Sir Fynwy Torfaen",
-  "contribution_count": 9,
+  "contribution_count": 20,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-779000",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "3. What assessment has the Welsh Government made of the impact of the land transaction tax since its introduction in 2018? OQ64688",
+          "text_original": "3. Pa asesiad mae Llywodraeth Cymru wedi'i wneud o effaith y dreth trafodiadau tir ers ei chyflwyno yn 2018? OQ64688",
+          "tv_url": "http://www.senedd.tv/en/16316"
+        },
+        {
+          "id": "contribution-779003",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "en",
+          "t_start": 4649,
+          "text_english": "I refer to my register of interests. I want to focus on two areas of concern, Minister. First is our first-time buyers. There is no first-time buyer relief in Wales. So, for example, if a first-time buyer buys a £300,000 house, they pay £4,500 more in tax than in England. The more expensive the house, the worse that gets. Secondly, Wales has now got a punishing tax for those who buy more expensive homes. For example, a £1 million home in Wales requires £62,000-worth of tax— about half as much again as in England. Now, some people might think that's good. But let me remind you all that Wales has a worryingly small tax base: 1.1 per cent of taxpayers in Wales pay additional tax, compared to 1.5 per cent in the west midlands and 1.9 per cent in the south-west. We should be worried about that. Minister, Wales is getting poorer and the decisions made in this place over 27 years, which you've just reminded us of, have contributed to that. This tax policy was introduced by Mr Mark Drakeford. It acts as an incentive for young people to buy houses in England, and it acts as a disincentive for those who are more wealthy to move to Wales. Your Government claims to want a transformation of the Welsh economy—",
+          "text_original": "I refer to my register of interests. I want to focus on two areas of concern, Minister. First is our first-time buyers. There is no first-time buyer relief in Wales. So, for example, if a first-time buyer buys a £300,000 house, they pay £4,500 more in tax than in England. The more expensive the house, the worse that gets. Secondly, Wales has now got a punishing tax for those who buy more expensive homes. For example, a £1 million home in Wales requires £62,000-worth of tax— about half as much again as in England. Now, some people might think that's good. But let me remind you all that Wales has a worryingly small tax base: 1.1 per cent of taxpayers in Wales pay additional tax, compared to 1.5 per cent in the west midlands and 1.9 per cent in the south-west. We should be worried about that. Minister, Wales is getting poorer and the decisions made in this place over 27 years, which you've just reminded us of, have contributed to that. This tax policy was introduced by Mr Mark Drakeford. It acts as an incentive for young people to buy houses in England, and it acts as a disincentive for those who are more wealthy to move to Wales. Your Government claims to want a transformation of the Welsh economy—",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=4649"
+        },
+        {
+          "id": "contribution-779008",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "en",
+          "t_start": 4722,
+          "text_english": "Will you consider changing this structure or, even better, set a target for its abolition?",
+          "text_original": "Will you consider changing this structure or, even better, set a target for its abolition?",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=4722"
+        }
+      ],
+      "date": "2026-10-14",
+      "record_page_url": "https://record.senedd.wales/Plenary/16316"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-778364",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 469,
+          "text_english": "First Minister, Wales presently has nearly 4,000 MW of installed capacity, all dependent on gas for firing. Given what's just been said, this document, produced by the National Grid, 'Community Energy Scenarios', reveals the truth of this community energy nonsense. At best—at best—it will mean we go from 47 MW to 281 MW by 2035. To be fair to you, you're not a Nimby First Minister, but what I would describe Plaid's nuclear policy as is 'only in Rhun's back yard', because that's effectively what we've got. First Minister, right across south Wales, we have a growing energy problem. Will you reconsider Plaid's energy policy so that we can look at a series of small modular reactors right across south Wales?",
+          "text_original": "First Minister, Wales presently has nearly 4,000 MW of installed capacity, all dependent on gas for firing. Given what's just been said, this document, produced by the National Grid, 'Community Energy Scenarios', reveals the truth of this community energy nonsense. At best—at best—it will mean we go from 47 MW to 281 MW by 2035. To be fair to you, you're not a Nimby First Minister, but what I would describe Plaid's nuclear policy as is 'only in Rhun's back yard', because that's effectively what we've got. First Minister, right across south Wales, we have a growing energy problem. Will you reconsider Plaid's energy policy so that we can look at a series of small modular reactors right across south Wales?",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=469"
+        }
+      ],
+      "date": "2026-10-13",
+      "record_page_url": "https://record.senedd.wales/Plenary/16315"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776609",
+          "item_id": "item-16314-261007-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Health and Care",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "2. How is the Welsh Government monitoring late cancellations by the Welsh Ambulance Services NHS Trust of non-emergency patient transport in Monmouthshire and Torfaen? OQ64614",
+          "text_original": "2. Sut y mae Llywodraeth Cymru yn monitro achosion lle mae Ymddiriedolaeth GIG Gwasanaethau Ambiwlans Cymru yn canslo cludiant cleifion nad yw’n gludiant brys ar fyr rybudd yn Sir Fynwy Torfaen? OQ64614",
+          "tv_url": "http://www.senedd.tv/en/16314"
+        },
+        {
+          "id": "contribution-776611",
+          "item_id": "item-16314-261007-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Health and Care",
+          "lang": "en",
+          "t_start": 2599,
+          "text_english": "Cabinet Minister, the Welsh ambulance service quite rightly complains that patients cancel non-emergency transport at the last minute, with it reported that 20,000 had been cancelled until July, and around 60,000 last year. However, it seems that no such monitoring happens when the service itself cancels transport. Indeed, a recent consultation on the proposed changes to the service contained this statement:\n\n'Demand for transport continues to increase, and journeys regularly have to be cancelled because demand exceeded available capacity.' \n\nIn other words, bookings are taken for seats that might not even exist. That's a failure of organisation and a real failure of the NHS. Very recently, a care home in my constituency was instructed that a resident would be collected earlier than planned, otherwise the transport would be cancelled. The home managed to comply, but it was stressful, and the patient arrived two hours early for her appointment and was out of the care home for over five hours. This is wholly unacceptable. Cabinet Minister, cancelled transport means wasted NHS appointment time and undue stress on patients and carers. Will you instruct your officials to establish the extent of the problem, the causes and the solutions?",
+          "text_original": "Cabinet Minister, the Welsh ambulance service quite rightly complains that patients cancel non-emergency transport at the last minute, with it reported that 20,000 had been cancelled until July, and around 60,000 last year. However, it seems that no such monitoring happens when the service itself cancels transport. Indeed, a recent consultation on the proposed changes to the service contained this statement:\n\n'Demand for transport continues to increase, and journeys regularly have to be cancelled because demand exceeded available capacity.' \n\nIn other words, bookings are taken for seats that might not even exist. That's a failure of organisation and a real failure of the NHS. Very recently, a care home in my constituency was instructed that a resident would be collected earlier than planned, otherwise the transport would be cancelled. The home managed to comply, but it was stressful, and the patient arrived two hours early for her appointment and was out of the care home for over five hours. This is wholly unacceptable. Cabinet Minister, cancelled transport means wasted NHS appointment time and undue stress on patients and carers. Will you instruct your officials to establish the extent of the problem, the causes and the solutions?",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=2599"
+        }
+      ],
+      "date": "2026-10-07",
+      "record_page_url": "https://record.senedd.wales/Plenary/16314"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-772941",
+          "item_id": "item-16264-260929-4",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 5157,
+          "text_english": "Business Manager, in July, Sam Rowlands expressed concern to you that protocols were being developed in local government that would restrict the freedom of elected members to communicate directly with Members of this Parliament. In recent weeks, there's been further evidence that councils are still pursuing this agenda. This is clearly unacceptable in any democracy. My apologies—if there's a statement that's already been made on this, I couldn't find it. But, otherwise, I'm requesting a statement from the Welsh Government on this matter.",
+          "text_original": "Business Manager, in July, Sam Rowlands expressed concern to you that protocols were being developed in local government that would restrict the freedom of elected members to communicate directly with Members of this Parliament. In recent weeks, there's been further evidence that councils are still pursuing this agenda. This is clearly unacceptable in any democracy. My apologies—if there's a statement that's already been made on this, I couldn't find it. But, otherwise, I'm requesting a statement from the Welsh Government on this matter.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=5157"
+        }
+      ],
+      "date": "2026-09-29",
+      "record_page_url": "https://record.senedd.wales/Plenary/16264"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771437",
+          "item_id": "item-16263-260923-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and Welsh Language",
+          "lang": "en",
+          "t_start": 3775,
+          "text_english": "Thank you, Deputy Presiding Officer. Cabinet Minister, let's just have a little look back over 20 years of the Programme for International Student Assessment in Wales. Back in 2006, Jane Hutt:\n\n'we can learn from the best and most effective practice'.\n\nWe move on to Leighton Andrews, who, to his credit, had a bit of a crack at this, quite forthright. He talked about 'systemic failure'. A few more years to Huw Lewis—'no quick fixes'. Kirsty Williams, who was in post for quite a while:\n\n'it will take time for Welsh education reforms to be reflected in PISA results'.\n\nWell, a Liberal did get one prediction correct there. Jeremy Miles:\n\n'a renewed national focus on reading, numeracy and science'. \n\nAnd then, obviously, a few years later, yourself:\n\n'not where we want them'.\n\nI should say, during that period, I actually was partly responsible for administering PISA in a couple of schools in Wales, so I know a little bit about it. It's a grim tale, Minister. It feels like groundhog day for the younger Members. Perhaps that's a film well worth watching. We feel stuck in a loop. My question is: why should we think that this Welsh Government's announcements will make any difference?",
+          "text_original": "Thank you, Deputy Presiding Officer. Cabinet Minister, let's just have a little look back over 20 years of the Programme for International Student Assessment in Wales. Back in 2006, Jane Hutt:\n\n'we can learn from the best and most effective practice'.\n\nWe move on to Leighton Andrews, who, to his credit, had a bit of a crack at this, quite forthright. He talked about 'systemic failure'. A few more years to Huw Lewis—'no quick fixes'. Kirsty Williams, who was in post for quite a while:\n\n'it will take time for Welsh education reforms to be reflected in PISA results'.\n\nWell, a Liberal did get one prediction correct there. Jeremy Miles:\n\n'a renewed national focus on reading, numeracy and science'. \n\nAnd then, obviously, a few years later, yourself:\n\n'not where we want them'.\n\nI should say, during that period, I actually was partly responsible for administering PISA in a couple of schools in Wales, so I know a little bit about it. It's a grim tale, Minister. It feels like groundhog day for the younger Members. Perhaps that's a film well worth watching. We feel stuck in a loop. My question is: why should we think that this Welsh Government's announcements will make any difference?",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=3775"
+        },
+        {
+          "id": "contribution-771426",
+          "item_id": "item-16263-260923-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and Welsh Language",
+          "lang": "en",
+          "t_start": 3940,
+          "text_english": "Thank you, Cabinet Secretary. I hear what you're saying, but there's nothing new in baseline assessment. Perhaps it'll be different from what we've had previously. [Interruption.] Yes. I mean, we can go back to 1998, and there was the literacy and numeracy framework, which never got adopted—didn't see its way through devolution.\n\nPutting that to one side, I'm going to talk about the Curriculum for Wales, because the Curriculum for Wales will be cited as having the potential to improve pupil outcomes. But last week, the Scottish Government announced its largest ever review of the curriculum up there in over 15 years, because of their poor PISA results. And unfortunately, for those who don't know, the Curriculum for Wales was largely based, not exclusively, but largely based on their Curriculum for Excellence in Scotland, as it was called. Its DNA runs right through our curriculum here. I describe it as the mashed potato of the curriculum—it's bland and of little nutritious value.\n\nMinister, since we've not yet seen the impact of the new curriculum on PISA results, and Scotland has, my fear is that matters are going to get worse, and potentially a lot worse. Will you follow the lead of Scotland and announce your own review of the Welsh school curriculum?",
+          "text_original": "Thank you, Cabinet Secretary. I hear what you're saying, but there's nothing new in baseline assessment. Perhaps it'll be different from what we've had previously. [Interruption.] Yes. I mean, we can go back to 1998, and there was the literacy and numeracy framework, which never got adopted—didn't see its way through devolution.\n\nPutting that to one side, I'm going to talk about the Curriculum for Wales, because the Curriculum for Wales will be cited as having the potential to improve pupil outcomes. But last week, the Scottish Government announced its largest ever review of the curriculum up there in over 15 years, because of their poor PISA results. And unfortunately, for those who don't know, the Curriculum for Wales was largely based, not exclusively, but largely based on their Curriculum for Excellence in Scotland, as it was called. Its DNA runs right through our curriculum here. I describe it as the mashed potato of the curriculum—it's bland and of little nutritious value.\n\nMinister, since we've not yet seen the impact of the new curriculum on PISA results, and Scotland has, my fear is that matters are going to get worse, and potentially a lot worse. Will you follow the lead of Scotland and announce your own review of the Welsh school curriculum?",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=3940"
+        },
+        {
+          "id": "contribution-771443",
+          "item_id": "item-16263-260923-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and Welsh Language",
+          "lang": "en",
+          "t_start": 4088,
+          "text_english": "Okay. Finally, you touched on qualifications at 16—I'm just going to touch on those at 18. There are those who believe that PISA results are stand-alone and don't contribute to anything in particular, because we've got GCSE and A-level results. Let's just look at A-level results, because you can't really compare them to England any longer, because both GCSEs and A-levels, whilst they're branded the same, have not got the same structure, and have not necessarily got the same gradings either.\n\nBut we do have comparative data for university entry, and I'm just going to focus on Cambridge University. This is not the complete picture, but when we look at some of the data published by Cambridge University, going back over a decade, a few things come to light. During the last three years, there were 325 applicants from Wales to Cambridge, and 21 per cent of those were ultimately successful. If we roll back a decade, we're at 260 applicants, so fewer applicants, but 30 per cent were successful. And I should point out the success rate for Scotland last year was just 12 per cent, and that's a real worry, because we've adopted that curriculum. It's the trend that matters—there are more applying, but fewer are successful.\n\nMy question to you, Minister, is: would you commission—because I've only had a snapshot there—some independent research to see whether fewer students from Wales are successful in their applications to the competitive universities and the competitive courses?",
+          "text_original": "Okay. Finally, you touched on qualifications at 16—I'm just going to touch on those at 18. There are those who believe that PISA results are stand-alone and don't contribute to anything in particular, because we've got GCSE and A-level results. Let's just look at A-level results, because you can't really compare them to England any longer, because both GCSEs and A-levels, whilst they're branded the same, have not got the same structure, and have not necessarily got the same gradings either.\n\nBut we do have comparative data for university entry, and I'm just going to focus on Cambridge University. This is not the complete picture, but when we look at some of the data published by Cambridge University, going back over a decade, a few things come to light. During the last three years, there were 325 applicants from Wales to Cambridge, and 21 per cent of those were ultimately successful. If we roll back a decade, we're at 260 applicants, so fewer applicants, but 30 per cent were successful. And I should point out the success rate for Scotland last year was just 12 per cent, and that's a real worry, because we've adopted that curriculum. It's the trend that matters—there are more applying, but fewer are successful.\n\nMy question to you, Minister, is: would you commission—because I've only had a snapshot there—some independent research to see whether fewer students from Wales are successful in their applications to the competitive universities and the competitive courses?",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=4088"
+        }
+      ],
+      "date": "2026-09-23",
+      "record_page_url": "https://record.senedd.wales/Plenary/16263"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771116",
+          "item_id": "item-16262-260922-6",
+          "item_title_en": "6. Statement by the Cabinet Minister for Rural Resilience and Sustainability: Update on the Deposit-return Scheme",
+          "lang": "en",
+          "t_start": 16270,
+          "text_english": "Thank you, Deputy Presiding Officer. Minister, this is a hospital pass that was put out by Boris Johnson's Conservative Government, passed to Labour, who embraced it in Westminster, then it came to Labour in Cardiff and now it's ended up on your desk. I think, deep down, you've already acknowledged that glass is the only real solid argument for it, and the rest of it is debatable. We don't actually need it in Wales in terms of plastic and metal recycling. It's complicated, it's going to cause problems for local authorities and it's going to be deeply, deeply unpopular. There are only 11 Plaid MSs in the Chamber at the moment, but I can guarantee you that, when this is implemented, if it is implemented—. It's two and a half years before the next election. I look over there and I see the depleted Labour ranks and I think of the effect of the 20 mph legislation. This will be Plaid Cymru's 20 mph. I would urge you, Minister, to have a good look at this. You have a point about reusing glass. You have a point on that. Maybe at some point in the future that will be viable, with energy costs being so high, but I would urge you please to look at it. And my question is—I suspect from what you've said, so I have to ask it: are you really convinced by this scheme?",
+          "text_original": "Thank you, Deputy Presiding Officer. Minister, this is a hospital pass that was put out by Boris Johnson's Conservative Government, passed to Labour, who embraced it in Westminster, then it came to Labour in Cardiff and now it's ended up on your desk. I think, deep down, you've already acknowledged that glass is the only real solid argument for it, and the rest of it is debatable. We don't actually need it in Wales in terms of plastic and metal recycling. It's complicated, it's going to cause problems for local authorities and it's going to be deeply, deeply unpopular. There are only 11 Plaid MSs in the Chamber at the moment, but I can guarantee you that, when this is implemented, if it is implemented—. It's two and a half years before the next election. I look over there and I see the depleted Labour ranks and I think of the effect of the 20 mph legislation. This will be Plaid Cymru's 20 mph. I would urge you, Minister, to have a good look at this. You have a point about reusing glass. You have a point on that. Maybe at some point in the future that will be viable, with energy costs being so high, but I would urge you please to look at it. And my question is—I suspect from what you've said, so I have to ask it: are you really convinced by this scheme?",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=16270"
+        }
+      ],
+      "date": "2026-09-22",
+      "record_page_url": "https://record.senedd.wales/Plenary/16262"
+    },
     {
       "contributions": [
         {

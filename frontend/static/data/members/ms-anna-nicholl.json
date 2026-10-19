@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,160 @@
   "canonical_name": "Anna Nicholl",
   "constituency_name_cy": "Ceredigion Penfro",
   "constituency_name_en": "Ceredigion Penfro",
-  "contribution_count": 26,
+  "contribution_count": 37,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-779143",
+          "item_id": "item-16316-261014-9",
+          "item_title_en": "8. Short Debate: Green across the aisle: Making environmental stewardship a common cause",
+          "lang": "en",
+          "t_start": 14774,
+          "text_english": "I'd like to thank David Mills for bringing forward this debate and giving me a slot to speak.\n\nEnvironmental stewardship should be common ground across this Chamber, not because the challenges are easy, but because they affect every community in Wales. As a member of the climate change committee, I'm acutely aware of the scale of those challenges. Nearly one in five assessed species in Wales is now threatened with extinction, and species abundance has fallen by around 20 per cent in a generation. In Ceredigion Penfro, those pressures are felt in the rivers, peatlands and coastal habitats that define our communities. We're fortunate to be home to the Dyfi UNESCO biosphere, Cardigan Bay and some of Wales's most important marine and terrestrial wildlife habitats. They're not only environmental assets, they're economic assets too.\n\nThis debate should not simply be about what we stand to lose; it should be about what we stand to gain. The transition to a low-carbon economy presents major opportunities for Wales—opportunities to create jobs, attract investment, strengthen energy security and support thriving rural economies. The same is true for nature recovery. Whether it is tackling agricultural pollution, restoring peatlands, improving river quality or supporting sustainable food production, there are solutions that can work for nature and for people. We need to move beyond denial, beyond blame and beyond the sense of hopelessness that too often creeps into these discussions. Instead, we need leadership, we need collaboration—and I agree that should extend to international collaboration—and we need the confidence to seize the opportunities that come from responding to the climate and nature emergencies together. Because, if Wales gets this right, environmental stewardship will not just protect what we value, it will help build a more resilient, prosperous and sustainable future for all our communities. Diolch.",
+          "text_original": "I'd like to thank David Mills for bringing forward this debate and giving me a slot to speak.\n\nEnvironmental stewardship should be common ground across this Chamber, not because the challenges are easy, but because they affect every community in Wales. As a member of the climate change committee, I'm acutely aware of the scale of those challenges. Nearly one in five assessed species in Wales is now threatened with extinction, and species abundance has fallen by around 20 per cent in a generation. In Ceredigion Penfro, those pressures are felt in the rivers, peatlands and coastal habitats that define our communities. We're fortunate to be home to the Dyfi UNESCO biosphere, Cardigan Bay and some of Wales's most important marine and terrestrial wildlife habitats. They're not only environmental assets, they're economic assets too.\n\nThis debate should not simply be about what we stand to lose; it should be about what we stand to gain. The transition to a low-carbon economy presents major opportunities for Wales—opportunities to create jobs, attract investment, strengthen energy security and support thriving rural economies. The same is true for nature recovery. Whether it is tackling agricultural pollution, restoring peatlands, improving river quality or supporting sustainable food production, there are solutions that can work for nature and for people. We need to move beyond denial, beyond blame and beyond the sense of hopelessness that too often creeps into these discussions. Instead, we need leadership, we need collaboration—and I agree that should extend to international collaboration—and we need the confidence to seize the opportunities that come from responding to the climate and nature emergencies together. Because, if Wales gets this right, environmental stewardship will not just protect what we value, it will help build a more resilient, prosperous and sustainable future for all our communities. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=14774"
+        }
+      ],
+      "date": "2026-10-14",
+      "record_page_url": "https://record.senedd.wales/Plenary/16316"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-778692",
+          "item_id": "item-16315-261013-6",
+          "item_title_en": "6. Statement by the Deputy Minister for Transport: Climate Adaptation and Resilience in Wales's Transport Network",
+          "lang": "en",
+          "t_start": 16089,
+          "text_english": "Diolch. Deputy Minister, thank you for your statement. Climate change is a current reality, and I was dismayed to hear earlier on in the week the irresponsible comments from the opposition ridiculing efforts to minimise the risks of flooding, heatwaves, storms and sea-level rises, despite the devastating impacts these are having on our communities, not least on transport. Wales needs strong leadership now that will stand up for our communities and protect them from these growing risks, and I welcome your statement.\n\nDeputy Minister, adapting our infrastructure is not just about big engineering projects. It involves difficult decisions that will have different impacts, costs and benefits for different communities. To ensure these decisions are fair and socially just, they need to involve communities. So, how will the Deputy Minister be ensuring that diverse communities are meaningfully involved in co-designing transport adaptations?",
+          "text_original": "Diolch. Deputy Minister, thank you for your statement. Climate change is a current reality, and I was dismayed to hear earlier on in the week the irresponsible comments from the opposition ridiculing efforts to minimise the risks of flooding, heatwaves, storms and sea-level rises, despite the devastating impacts these are having on our communities, not least on transport. Wales needs strong leadership now that will stand up for our communities and protect them from these growing risks, and I welcome your statement.\n\nDeputy Minister, adapting our infrastructure is not just about big engineering projects. It involves difficult decisions that will have different impacts, costs and benefits for different communities. To ensure these decisions are fair and socially just, they need to involve communities. So, how will the Deputy Minister be ensuring that diverse communities are meaningfully involved in co-designing transport adaptations?",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=16089"
+        }
+      ],
+      "date": "2026-10-13",
+      "record_page_url": "https://record.senedd.wales/Plenary/16315"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776595",
+          "item_id": "item-16314-261007-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Health and Care",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "1. What action is the Government taking to support integrated care in rural areas? OQ64669",
+          "text_original": "1. Pa gamau y mae'r Llywodraeth yn eu cymryd i gefnogi gofal integredig mewn ardaloedd gwledig? OQ64669",
+          "tv_url": "http://www.senedd.tv/en/16314"
+        },
+        {
+          "id": "contribution-776612",
+          "item_id": "item-16314-261007-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Health and Care",
+          "lang": "cy",
+          "t_start": 2207,
+          "text_english": "Thank you. Cabinet Minister. I have already raised how important integrated care centres are in providing care closer to home, but an integrated system cannot succeed without a sustainable primary care infrastructure. Too often, surgeries operate from old buildings that have not been designed for the services that we now expect. And my constituents get in touch with me not only because of the difficulties in getting a doctor's appointment, but as a result of surgeries closing completely. I have heard these concerns from constituents in St David's, Solva, Pembroke Dock and across Ceredigion Penfro. Given the Government's commitment to preventing and reducing pressure on hospitals, does the Cabinet Minister agree that investment in primary care should be seen as a core part of integrated care?",
+          "text_original": "Diolch. Weinidog Cabinet, dwi eisoes wedi codi pa mor bwysig yw canolfannau gofal integredig wrth ddarparu gofal yn agosach i gartref. Ond gall system integredig ddim llwyddo heb isadeiledd gofal sylfaenol cynaliadwy. Yn rhy aml, mae meddygfeydd yn gweithio o hen adeiladau sydd ddim wedi eu dylunio ar gyfer gwasanaethau rydym ni bellach yn ei disgwyl. Ac mae fy etholwyr yn cysylltu nid yn unig ynglŷn â'r anhawster o gael apwyntiad meddyg, ond am feddygfeydd yn cau i lawr yn gyfan gwbl. Dwi wedi clywed y gofidion yma gan etholwyr yn Nhyddewi, Cei Newydd, Solfach, Doc Penfro, ac ar draws Ceredigion Penfro. O ystyried ymrwymiad y Llywodraeth i atal a lleihau pwysau ar ysbytai, ydy'r Gweinidog Cabinet yn cytuno y dylid gweld buddsoddiad mewn gofal sylfaenol fel rhan greiddiol o ofal integredig?",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=2207"
+        }
+      ],
+      "date": "2026-10-07",
+      "record_page_url": "https://record.senedd.wales/Plenary/16314"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-773558",
+          "item_id": "item-16265-260930-1",
+          "item_title_en": "1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "5. What is the Cabinet Minister doing to tackle the unique rural challenges associated with child poverty in Ceredigion Penfro? OQ64603",
+          "text_original": "5. Beth mae'r Gweinidog Cabinet yn ei wneud i fynd i'r afael â'r heriau gwledig unigryw sy'n gysylltiedig â thlodi plant yng Ngheredigion Penfro? OQ64603",
+          "tv_url": "http://www.senedd.tv/en/16265"
+        },
+        {
+          "id": "contribution-773566",
+          "item_id": "item-16265-260930-1",
+          "item_title_en": "1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice",
+          "lang": "en",
+          "t_start": 2524,
+          "text_english": "Diolch, Cabinet Minister. A 2023 report by the Bevan Foundation found that Ceredigion ranks second in child poverty levels across Wales, with Pembrokeshire not far behind. Crisis has also highlighted that many families in my constituency face significant gaps between their incomes and essential living costs, leaving them at greater risk of poverty and financial hardship.\n\nWhilst child poverty exists across Wales, it's often less visible in rural and coastal constituencies. One example in my constituency is Aberporth, a beautiful and vibrant village that many Members might know as a holiday destination, but also where one in four children live in poverty. In these communities, community action can make a real difference to people's lives—for example, the incredible range of activities that are run from the renovated Aberporth village hall that provide not just practical support, but friendships and social support that are invaluable to people.\n\nSo, will the Cabinet Minister consider what more can be done to strengthen our community infrastructure as part of your efforts to address child poverty?",
+          "text_original": "Diolch, Cabinet Minister. A 2023 report by the Bevan Foundation found that Ceredigion ranks second in child poverty levels across Wales, with Pembrokeshire not far behind. Crisis has also highlighted that many families in my constituency face significant gaps between their incomes and essential living costs, leaving them at greater risk of poverty and financial hardship.\n\nWhilst child poverty exists across Wales, it's often less visible in rural and coastal constituencies. One example in my constituency is Aberporth, a beautiful and vibrant village that many Members might know as a holiday destination, but also where one in four children live in poverty. In these communities, community action can make a real difference to people's lives—for example, the incredible range of activities that are run from the renovated Aberporth village hall that provide not just practical support, but friendships and social support that are invaluable to people.\n\nSo, will the Cabinet Minister consider what more can be done to strengthen our community infrastructure as part of your efforts to address child poverty?",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=2524"
+        },
+        {
+          "id": "contribution-773967",
+          "item_id": "item-16265-260930-10",
+          "item_title_en": "9. Short Debate: The importance of local services—Protecting the future of Withybush hospital",
+          "lang": "en",
+          "t_start": 20660,
+          "text_english": "Thanks to Claire Archibald for tabling this important debate, and I agree with a great deal that's been said.\n\nSince being elected, I have heard again and again constituents' concerns about services being downgraded in Withybush and ever greater centralisation, particularly towards the outdated Glangwili Hospital. I'd like to thank the Save Withybush Campaign for raising these issues. A big concern for me is the low level of trust between Hywel Dda and communities. This has not helped when decisions are delayed. Residents in Pembrokeshire deserve state-of-the-art facilities in hospital and in primary care, but, under previous Governments, a new hospital was discussed for 20 years with no decision made. This cripples planning, and I hope this decision can finally be made with urgency. But to build trust and design better services, Hywel Dda needs to start genuinely involving communities and staff in co-designing solutions.\n\nAnd to close, I want to welcome the investments that are being made in Withybush, as Claire did, including the new £0.75 million children's out-patient facility, the Puffin centre, due to open in spring 2027. Diolch.",
+          "text_original": "Thanks to Claire Archibald for tabling this important debate, and I agree with a great deal that's been said.\n\nSince being elected, I have heard again and again constituents' concerns about services being downgraded in Withybush and ever greater centralisation, particularly towards the outdated Glangwili Hospital. I'd like to thank the Save Withybush Campaign for raising these issues. A big concern for me is the low level of trust between Hywel Dda and communities. This has not helped when decisions are delayed. Residents in Pembrokeshire deserve state-of-the-art facilities in hospital and in primary care, but, under previous Governments, a new hospital was discussed for 20 years with no decision made. This cripples planning, and I hope this decision can finally be made with urgency. But to build trust and design better services, Hywel Dda needs to start genuinely involving communities and staff in co-designing solutions.\n\nAnd to close, I want to welcome the investments that are being made in Withybush, as Claire did, including the new £0.75 million children's out-patient facility, the Puffin centre, due to open in spring 2027. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=20660"
+        }
+      ],
+      "date": "2026-09-30",
+      "record_page_url": "https://record.senedd.wales/Plenary/16265"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-773001",
+          "item_id": "item-16264-260929-5",
+          "item_title_en": "4. Statement by the Cabinet Minister for Health and Care: Review of the Escalation and Intervention Framework",
+          "lang": "en",
+          "t_start": 7702,
+          "text_english": "Thank you, Cabinet Minister. I welcome this new national accountability and support framework. In the past, we've seen organisations remain in escalation for years without it being clear that the intervention itself was delivering improvement. I'm particularly concerned about Hywel Dda health board, where finance, strategy and planning, and urgent and emergency care, have risen to level 4. Digital Health and Care Wales, which should be helping to transform services and deliver sustainable solutions, actually moved from level 1 in 2024 to whole-organisation level 4 intervention in April 2026. So whilst, Cabinet Minister, I welcome the emphasis on prevention, transparency and better outcomes, how will you ensure that this new framework creates the space needed for leadership and for investment for the long term so it does make meaningful, sustainable change for patients? Diolch.",
+          "text_original": "Thank you, Cabinet Minister. I welcome this new national accountability and support framework. In the past, we've seen organisations remain in escalation for years without it being clear that the intervention itself was delivering improvement. I'm particularly concerned about Hywel Dda health board, where finance, strategy and planning, and urgent and emergency care, have risen to level 4. Digital Health and Care Wales, which should be helping to transform services and deliver sustainable solutions, actually moved from level 1 in 2024 to whole-organisation level 4 intervention in April 2026. So whilst, Cabinet Minister, I welcome the emphasis on prevention, transparency and better outcomes, how will you ensure that this new framework creates the space needed for leadership and for investment for the long term so it does make meaningful, sustainable change for patients? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=7702"
+        }
+      ],
+      "date": "2026-09-29",
+      "record_page_url": "https://record.senedd.wales/Plenary/16264"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771405",
+          "item_id": "item-16263-260923-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "6. How will the Cabinet Minister ensure that the benefits of the Welsh Government's new national energy strategy are retained within local communities? OQ64542",
+          "text_original": "6. Sut y bydd y Gweinidog Cabinet yn sicrhau bod manteision strategaeth ynni genedlaethol newydd Llywodraeth Cymru yn cael eu cadw o fewn cymunedau lleol? OQ64542",
+          "tv_url": "http://www.senedd.tv/en/16263"
+        },
+        {
+          "id": "contribution-771412",
+          "item_id": "item-16263-260923-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "en",
+          "t_start": 2356,
+          "text_english": "Diolch. I welcome this Government's commitment to a renewable energy strategy that retains value in Welsh communities. The net-zero economy is already a significant and high-value component of the Welsh economy. There are particular opportunities in Ceredigion Penfro, with 1,600 jobs in the sector in Pembrokeshire alone already, and billions set to be invested in upcoming projects. This ranges from successful community-owned projects, such as Cwm Arian, to large-scale initiatives, like the Celtic Freeport.\n\nNet zero is now an integral part of Welsh industry, and we've got huge potential to develop this further. The transition to net zero is a major economic opportunity, but I also welcome what the Minister has said here, that there needs to be a proper, planned strategy as to how we do this, both spatially and to balance the benefits for our economy, our communities and the environment. So, could the Cabinet Minister describe, as more energy infrastructure is developed in our rural communities, how Government will now ensure genuine benefit through local ownership jobs and skills and lower energy bills?",
+          "text_original": "Diolch. I welcome this Government's commitment to a renewable energy strategy that retains value in Welsh communities. The net-zero economy is already a significant and high-value component of the Welsh economy. There are particular opportunities in Ceredigion Penfro, with 1,600 jobs in the sector in Pembrokeshire alone already, and billions set to be invested in upcoming projects. This ranges from successful community-owned projects, such as Cwm Arian, to large-scale initiatives, like the Celtic Freeport.\n\nNet zero is now an integral part of Welsh industry, and we've got huge potential to develop this further. The transition to net zero is a major economic opportunity, but I also welcome what the Minister has said here, that there needs to be a proper, planned strategy as to how we do this, both spatially and to balance the benefits for our economy, our communities and the environment. So, could the Cabinet Minister describe, as more energy infrastructure is developed in our rural communities, how Government will now ensure genuine benefit through local ownership jobs and skills and lower energy bills?",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=2356"
+        }
+      ],
+      "date": "2026-09-23",
+      "record_page_url": "https://record.senedd.wales/Plenary/16263"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-770719",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 723,
+          "text_english": "First Minister, I'd like to agree that protecting services at Bronglais and Withybush hospitals remains vital for communities across Ceredigion Penfro. However, in rural areas, we also need innovative ways of bringing healthcare closer to people's homes. Integrated care centres in Cardigan and Aberaeron show what can be achieved when we bring services together, and, again, bring them closer to people, taking the pressure off hospitals. Having recently visited GP services in Fishguard, I know that there is strong local support for a similar approach there. Indeed, my colleague Elin Jones has previously worked with local councillors to make the case for an integrated care centre for Fishguard. So, will the Welsh Government commit to working with Hywel Dda University Health Board and local communities to explore how towns such as Fishguard could benefit from integrated care facilities, ensuring rural communities are not left behind as healthcare services evolve?",
+          "text_original": "First Minister, I'd like to agree that protecting services at Bronglais and Withybush hospitals remains vital for communities across Ceredigion Penfro. However, in rural areas, we also need innovative ways of bringing healthcare closer to people's homes. Integrated care centres in Cardigan and Aberaeron show what can be achieved when we bring services together, and, again, bring them closer to people, taking the pressure off hospitals. Having recently visited GP services in Fishguard, I know that there is strong local support for a similar approach there. Indeed, my colleague Elin Jones has previously worked with local councillors to make the case for an integrated care centre for Fishguard. So, will the Welsh Government commit to working with Hywel Dda University Health Board and local communities to explore how towns such as Fishguard could benefit from integrated care facilities, ensuring rural communities are not left behind as healthcare services evolve?",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=723"
+        }
+      ],
+      "date": "2026-09-22",
+      "record_page_url": "https://record.senedd.wales/Plenary/16262"
+    },
     {
       "contributions": [
         {

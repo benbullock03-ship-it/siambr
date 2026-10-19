@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "abstain"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,126 @@
   "canonical_name": "Cai Parry-Jones",
   "constituency_name_cy": "Caerdydd Ffynnon Taf",
   "constituency_name_en": "Caerdydd Ffynnon Taf",
-  "contribution_count": 26,
+  "contribution_count": 36,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778926",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "en",
+          "t_start": 3552,
+          "text_english": "Thank you, Deputy Llywydd. Minister, on 15 September, your Government announced—fronted, I noticed, by the First Minister—that, to pay for rate cuts for smaller venues, it would raise the tax on Wales's largest business premises. Eight days later, Admiral, Wales's only FTSE 100 company, announced 500 job cuts, and Legal & General, which employs more than 2,000 people in Cardiff, announced 1,000 job cuts. Now, Admiral had already told the markets back in March that it had to find £100 million of savings. So, you knew some of our biggest employers were under pressure and you still decided to send them a bigger tax bill. Your impact assessment, released later, on 6 October, speculates about jobs that might be created in hospitality, but, crucially, it says nothing about the potential job losses for the businesses having to pay more. So, a simple question, Minister: will you publish a full assessment of the jobs impact of your tax rise before this Senedd is asked to vote on it—'yes' or 'no'?",
+          "text_original": "Thank you, Deputy Llywydd. Minister, on 15 September, your Government announced—fronted, I noticed, by the First Minister—that, to pay for rate cuts for smaller venues, it would raise the tax on Wales's largest business premises. Eight days later, Admiral, Wales's only FTSE 100 company, announced 500 job cuts, and Legal & General, which employs more than 2,000 people in Cardiff, announced 1,000 job cuts. Now, Admiral had already told the markets back in March that it had to find £100 million of savings. So, you knew some of our biggest employers were under pressure and you still decided to send them a bigger tax bill. Your impact assessment, released later, on 6 October, speculates about jobs that might be created in hospitality, but, crucially, it says nothing about the potential job losses for the businesses having to pay more. So, a simple question, Minister: will you publish a full assessment of the jobs impact of your tax rise before this Senedd is asked to vote on it—'yes' or 'no'?",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=3552"
+        },
+        {
+          "id": "contribution-778932",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "en",
+          "t_start": 3688,
+          "text_english": "Did the Minister answer the question?",
+          "text_original": "Did the Minister answer the question?",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=3688"
+        },
+        {
+          "id": "contribution-778938",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "en",
+          "t_start": 3690,
+          "text_english": "No. Last week, the Deputy Minister for Transport told us that work on a third Menai crossing starts now, which is warm words, but my colleagues were right to ask where the money is, because Wales has been here before. The M4 relief road, originally promised in 1991, millions spent on planning and then scrapped, partly over funding issues. And, yes, the third crossing, originally promised in 2018, £3 million spent on planning and then scrapped, partly over funding issues. The current estimate for this project today is £670 million, yet only £20 million to £25 million has been budgeted over the next five years for it, and that's just been for planning.\n\nWe can see where this is going, Minister: you'll kick the big spending can down the road while you're in the job, a future finance Minister will announce we don't have enough money and then quietly shelve it. A sad transportation groundhog day. So, Minister, will you prove me wrong and pledge where the money to build the bridge will come from in this Senedd term?",
+          "text_original": "No. Last week, the Deputy Minister for Transport told us that work on a third Menai crossing starts now, which is warm words, but my colleagues were right to ask where the money is, because Wales has been here before. The M4 relief road, originally promised in 1991, millions spent on planning and then scrapped, partly over funding issues. And, yes, the third crossing, originally promised in 2018, £3 million spent on planning and then scrapped, partly over funding issues. The current estimate for this project today is £670 million, yet only £20 million to £25 million has been budgeted over the next five years for it, and that's just been for planning.\n\nWe can see where this is going, Minister: you'll kick the big spending can down the road while you're in the job, a future finance Minister will announce we don't have enough money and then quietly shelve it. A sad transportation groundhog day. So, Minister, will you prove me wrong and pledge where the money to build the bridge will come from in this Senedd term?",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=3690"
+        },
+        {
+          "id": "contribution-778951",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "en",
+          "t_start": 3824,
+          "text_english": "Minister, you've spent five months in this job. Let's look at your record: you're responsible for the first Welsh Government budget ever to be defeated in the history of devolution; you've twice managed to vote against your own Government, by mistake; you've had to correct the record for getting financial figures wrong in the Chamber; and, just now, you've failed to explain where the money's going to come from for the third Menai crossing. That is why I wasn't surprised that, when your Government needed to negotiate with my party for the next supplementary budget, it didn't send you, it sent the Minister for Government effectiveness. I have a source saying the exact same thing happened with the Labour negotiations. The First Minister said he had learnt lessons over the summer. The lesson, it appears, is to sideline you. So, Minister, who is actually running the Welsh Government's finances? And given it clearly isn't you, is it not time to officially hand over the reins to someone more competent?",
+          "text_original": "Minister, you've spent five months in this job. Let's look at your record: you're responsible for the first Welsh Government budget ever to be defeated in the history of devolution; you've twice managed to vote against your own Government, by mistake; you've had to correct the record for getting financial figures wrong in the Chamber; and, just now, you've failed to explain where the money's going to come from for the third Menai crossing. That is why I wasn't surprised that, when your Government needed to negotiate with my party for the next supplementary budget, it didn't send you, it sent the Minister for Government effectiveness. I have a source saying the exact same thing happened with the Labour negotiations. The First Minister said he had learnt lessons over the summer. The lesson, it appears, is to sideline you. So, Minister, who is actually running the Welsh Government's finances? And given it clearly isn't you, is it not time to officially hand over the reins to someone more competent?",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=3824"
+        }
+      ],
+      "date": "2026-10-14",
+      "record_page_url": "https://record.senedd.wales/Plenary/16316"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-775903",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "6. What are the Welsh Government's plans for addressing poverty in this Senedd term? OQ64674",
+          "text_original": "6. Beth yw cynlluniau Llywodraeth Cymru ar gyfer mynd i'r afael â thlodi yn nhymor y Senedd hon? OQ64674",
+          "tv_url": "http://www.senedd.tv/en/16313"
+        },
+        {
+          "id": "contribution-775908",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 2939,
+          "text_english": "It's fascinating that your answer did not explicitly state whether you're talking about absolute poverty or relative poverty, and they are very different metrics. Absolute poverty focuses on the welfare of the poorest people in our society, something I want to see all Governments focus on. The other, relative poverty, is in reality a type of inequality, focused on the gap in wealth between people, and that can be a very dangerous metric. As Margaret Thatcher said, those who focus on inequality above absolute poverty would rather the poor were poorer so long as the rich were even less rich, reducing the gap. First Minister, do you accept there is an important difference in the two measures of poverty? To avoid confusion in future, will you and your Government, when referencing poverty, state clearly whether you're talking about absolute poverty or the socialist obsession that is inequality?",
+          "text_original": "It's fascinating that your answer did not explicitly state whether you're talking about absolute poverty or relative poverty, and they are very different metrics. Absolute poverty focuses on the welfare of the poorest people in our society, something I want to see all Governments focus on. The other, relative poverty, is in reality a type of inequality, focused on the gap in wealth between people, and that can be a very dangerous metric. As Margaret Thatcher said, those who focus on inequality above absolute poverty would rather the poor were poorer so long as the rich were even less rich, reducing the gap. First Minister, do you accept there is an important difference in the two measures of poverty? To avoid confusion in future, will you and your Government, when referencing poverty, state clearly whether you're talking about absolute poverty or the socialist obsession that is inequality?",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=2939"
+        },
+        {
+          "id": "contribution-776191",
+          "item_id": "item-16313-261006-6",
+          "item_title_en": "6. Debate: Fiscal Reform",
+          "lang": "en",
+          "t_start": 14227,
+          "text_english": "Before I get into the meat of this debate, I have to ask: what really is the point of tabling this motion today and taking up an hour of Welsh taxpayers' time? The motion was co-tabled by the Plaid Cymru Government and its little helpers, in a spectacular reversal of roles, Welsh Labour. So, unless there is some kind of revolt going to happen on the back benches, we already know what the outcome will be. And yet here we are, spending a full hour of our lives on it, when we could be doing something useful for our constituents.\n\nThis Chamber has already come under fire recently for how it spends its time. I saw a post on X, viewed more than 300,000 times, showing last week's Plenary and the row over the word 'blanket'. The caption of the post read:\n\n'Oh my god. This isn't a sketch. This is real. It happened at the Welsh Senedd. Madness'.\n\nWe as a Parliament have to be very careful that we are spending our time here wisely, that we are addressing the challenges that the Welsh public is facing, that we walk in their shoes, that we get it. I'm afraid I do not think that the public would put fiscal reform anywhere near the top of their agenda.\n\nNow to the contents of the motion itself. In it, the Welsh Government is asking the Senedd to call on the Welsh Government to work with the UK Government. You already do that, don't you? Working with the UK Government is a fundamental part of a devolved Government's responsibilities. Welsh Labour did it for 27 years when they were in power and your own Government has been doing it ever since. You do not need the Senedd to hold your hand while you speak to Andy Burnham.\n\nMy other issue on this motion is the utter vagueness of the wording. Part (a) states:\n\n'enhance the Welsh Government’s fiscal flexibilities'.\n\nWhich ones and to what extent? You say that that includes\n\n'removal of all restrictions on the Wales Reserve'.\n\nBut, of course, you're asking for much more than that. So, why not be honest and write exactly what it is you are calling for?\n\nReform's position is clear and unequivocal: prioritise doing better with the existing powers. Deliver better results with the money you have. The Welsh Government and civil service need to prove that they can deliver first-class public services efficiently. Reform welcomes your clear commitment to more transparency, as outlined by the Cabinet Minister for Government effectiveness, but so far, year after year, all we see is more economic decline and an NHS in Wales that is sinking financially.\n\nOn part (b),\n\n'review the operation of the Barnett Formula to strengthen fairness and transparency',\n\nI understand that your argument at first is about transparency and reporting, but this is politics. The wording is so general and so open to interpretation that if this motion is agreed, we may well hear a Plaid Government, down the line, suggest that the Senedd backed fundamental change to the Barnett formula and demand more funding on the back of it.\n\nSpecifics matter. Precise wording matters. If the Welsh Government knows which fiscal powers it wants, it should name them, cost them and explain the safeguards. If it cannot do that, then this motion is not a plan for reform, it is a request for political cover for the lack of ideas on the left.\n\nI hope the theme of this speech was clear: please, for the sake of the people of Wales, say in clear words what exactly you're asking for, and please remember that our time belongs to the people of Wales and they expect us to use it wisely. Diolch, Lywydd.",
+          "text_original": "Before I get into the meat of this debate, I have to ask: what really is the point of tabling this motion today and taking up an hour of Welsh taxpayers' time? The motion was co-tabled by the Plaid Cymru Government and its little helpers, in a spectacular reversal of roles, Welsh Labour. So, unless there is some kind of revolt going to happen on the back benches, we already know what the outcome will be. And yet here we are, spending a full hour of our lives on it, when we could be doing something useful for our constituents.\n\nThis Chamber has already come under fire recently for how it spends its time. I saw a post on X, viewed more than 300,000 times, showing last week's Plenary and the row over the word 'blanket'. The caption of the post read:\n\n'Oh my god. This isn't a sketch. This is real. It happened at the Welsh Senedd. Madness'.\n\nWe as a Parliament have to be very careful that we are spending our time here wisely, that we are addressing the challenges that the Welsh public is facing, that we walk in their shoes, that we get it. I'm afraid I do not think that the public would put fiscal reform anywhere near the top of their agenda.\n\nNow to the contents of the motion itself. In it, the Welsh Government is asking the Senedd to call on the Welsh Government to work with the UK Government. You already do that, don't you? Working with the UK Government is a fundamental part of a devolved Government's responsibilities. Welsh Labour did it for 27 years when they were in power and your own Government has been doing it ever since. You do not need the Senedd to hold your hand while you speak to Andy Burnham.\n\nMy other issue on this motion is the utter vagueness of the wording. Part (a) states:\n\n'enhance the Welsh Government’s fiscal flexibilities'.\n\nWhich ones and to what extent? You say that that includes\n\n'removal of all restrictions on the Wales Reserve'.\n\nBut, of course, you're asking for much more than that. So, why not be honest and write exactly what it is you are calling for?\n\nReform's position is clear and unequivocal: prioritise doing better with the existing powers. Deliver better results with the money you have. The Welsh Government and civil service need to prove that they can deliver first-class public services efficiently. Reform welcomes your clear commitment to more transparency, as outlined by the Cabinet Minister for Government effectiveness, but so far, year after year, all we see is more economic decline and an NHS in Wales that is sinking financially.\n\nOn part (b),\n\n'review the operation of the Barnett Formula to strengthen fairness and transparency',\n\nI understand that your argument at first is about transparency and reporting, but this is politics. The wording is so general and so open to interpretation that if this motion is agreed, we may well hear a Plaid Government, down the line, suggest that the Senedd backed fundamental change to the Barnett formula and demand more funding on the back of it.\n\nSpecifics matter. Precise wording matters. If the Welsh Government knows which fiscal powers it wants, it should name them, cost them and explain the safeguards. If it cannot do that, then this motion is not a plan for reform, it is a request for political cover for the lack of ideas on the left.\n\nI hope the theme of this speech was clear: please, for the sake of the people of Wales, say in clear words what exactly you're asking for, and please remember that our time belongs to the people of Wales and they expect us to use it wisely. Diolch, Lywydd.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=14227"
+        }
+      ],
+      "date": "2026-10-06",
+      "record_page_url": "https://record.senedd.wales/Plenary/16313"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-770823",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "10. Will the First Minister provide an update on the implementation of the Senedd Cymru (Member Accountability and Elections) Act 2026? OQ64560",
+          "text_original": "10. A wnaiff y Prif Weinidog roi'r wybodaeth ddiweddaraf am weithredu Deddf Senedd Cymru (Atebolrwydd Aelodau ac Etholiadau) 2026? OQ64560",
+          "tv_url": "http://www.senedd.tv/en/16262"
+        },
+        {
+          "id": "contribution-770827",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 3582,
+          "text_english": "Diolch, Brif Weinidog. Part of this Act places a duty on your Government to bring in rules banning false or misleading statements of fact, made before or during an election, to affect who is elected. It also lets your Government set out what does and does not count as a statement of fact. If it is, in fact, true that a candidate misrepresents their own beliefs to win votes, and that becomes clear after polling day, will your Government treat that as a false statement of fact?",
+          "text_original": "Diolch, Brif Weinidog. Part of this Act places a duty on your Government to bring in rules banning false or misleading statements of fact, made before or during an election, to affect who is elected. It also lets your Government set out what does and does not count as a statement of fact. If it is, in fact, true that a candidate misrepresents their own beliefs to win votes, and that becomes clear after polling day, will your Government treat that as a false statement of fact?",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=3582"
+        },
+        {
+          "id": "contribution-770952",
+          "item_id": "item-16262-260922-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 7841,
+          "text_english": "Trefnydd, I would like to call for a Welsh Government statement from the Minister for Finance regarding the Welsh rates of income tax during the Senedd term, in particular whether she has made any request to any civil servant on assessing the impact of an increase in taxes and what impact that would have on her finances.",
+          "text_original": "Trefnydd, I would like to call for a Welsh Government statement from the Minister for Finance regarding the Welsh rates of income tax during the Senedd term, in particular whether she has made any request to any civil servant on assessing the impact of an increase in taxes and what impact that would have on her finances.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=7841"
+        }
+      ],
+      "date": "2026-09-22",
+      "record_page_url": "https://record.senedd.wales/Plenary/16262"
+    },
     {
       "contributions": [
         {

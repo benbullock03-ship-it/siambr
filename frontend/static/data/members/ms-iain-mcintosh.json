@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,194 @@
   "canonical_name": "Iain McIntosh",
   "constituency_name_cy": "Brycheiniog Tawe Nedd",
   "constituency_name_en": "Brycheiniog Tawe Nedd",
-  "contribution_count": 13,
+  "contribution_count": 28,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778936",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "en",
+          "t_start": 3689,
+          "text_english": "I don't think so.",
+          "text_original": "I don't think so.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=3689"
+        }
+      ],
+      "date": "2026-10-14",
+      "record_page_url": "https://record.senedd.wales/Plenary/16316"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-778384",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "3. What measurable improvements in the efficiency and effectiveness of the Welsh Government does the First Minister expect to deliver during this Senedd? OQ64721",
+          "text_original": "3. Pa welliannau mesuradwy o ran effeithlonrwydd ac effeithiolrwydd Llywodraeth Cymru y mae'r Prif Weinidog yn disgwyl eu cyflawni yn ystod y Senedd hon? OQ64721",
+          "tv_url": "http://www.senedd.tv/en/16315"
+        },
+        {
+          "id": "contribution-778386",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 1680,
+          "text_english": "First Minister, taxpayers don't measure Government efficiency by how many strategies, reviews or initiatives you announce; they measure it by what actually improves and what it costs them.\n\nYour Government has promised measurable outcomes, progress milestones, plans for plans, greater productivity and so on, so will you actually put the numbers against those promises? Will you publish clear targets showing how much taxpayers' money you intend to save, and which areas of Government will become more efficient and by when? And when programmes or public bodies repeatedly fail to deliver value for money, will you actually reform, merge or scrap them? Because Government efficiency cannot just mean spending more money more efficiently; sometimes, it actually means having to spend less.",
+          "text_original": "First Minister, taxpayers don't measure Government efficiency by how many strategies, reviews or initiatives you announce; they measure it by what actually improves and what it costs them.\n\nYour Government has promised measurable outcomes, progress milestones, plans for plans, greater productivity and so on, so will you actually put the numbers against those promises? Will you publish clear targets showing how much taxpayers' money you intend to save, and which areas of Government will become more efficient and by when? And when programmes or public bodies repeatedly fail to deliver value for money, will you actually reform, merge or scrap them? Because Government efficiency cannot just mean spending more money more efficiently; sometimes, it actually means having to spend less.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=1680"
+        },
+        {
+          "id": "contribution-778528",
+          "item_id": "item-16315-261013-3",
+          "item_title_en": "3. Statement by the Cabinet Minister for Government Effectiveness and the Constitution: The next steps for the Glyndŵr National Park (Designation) Order",
+          "lang": "en",
+          "t_start": 7264,
+          "text_english": "Cabinet Minister, I really do welcome the decision, actually—although it's only provisional so far—not to proceed with yet another publicly funded authority. Now, you've also acknowledged that existing organisations and bodies can already deliver the same objectives that a national park would do if it was to be introduced, and I'll come to that at the end. But, surely, the evidence in front of us now raises a bigger question, and that is: why was this proposal allowed to progress this far in the first place? \n\nIf this does ever proceed, obviously, as was alluded to earlier, it's going to cost £11.6 million just to establish it, plus further ongoing costs, despite objections from every single one of the other affected local authorities. So, I'd like to know, really: how much taxpayers' money has already been spent pursuing this proposal? Also, will you now commit to rejecting it permanently, please, rather than leaving the door open to yet another expensive layer of bureaucracy that local communities neither need nor want?\n\nNow, finally, as I've alluded to just now, you've confirmed that the work of all local authorities can be carried out without them—",
+          "text_original": "Cabinet Minister, I really do welcome the decision, actually—although it's only provisional so far—not to proceed with yet another publicly funded authority. Now, you've also acknowledged that existing organisations and bodies can already deliver the same objectives that a national park would do if it was to be introduced, and I'll come to that at the end. But, surely, the evidence in front of us now raises a bigger question, and that is: why was this proposal allowed to progress this far in the first place? \n\nIf this does ever proceed, obviously, as was alluded to earlier, it's going to cost £11.6 million just to establish it, plus further ongoing costs, despite objections from every single one of the other affected local authorities. So, I'd like to know, really: how much taxpayers' money has already been spent pursuing this proposal? Also, will you now commit to rejecting it permanently, please, rather than leaving the door open to yet another expensive layer of bureaucracy that local communities neither need nor want?\n\nNow, finally, as I've alluded to just now, you've confirmed that the work of all local authorities can be carried out without them—",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=7264"
+        },
+        {
+          "id": "contribution-778531",
+          "item_id": "item-16315-261013-3",
+          "item_title_en": "3. Statement by the Cabinet Minister for Government Effectiveness and the Constitution: The next steps for the Glyndŵr National Park (Designation) Order",
+          "lang": "en",
+          "t_start": 7335,
+          "text_english": "So, I'd just like to sort of echo the comment that was made over there, but go further than that, and that is to confirm that, if we don't need these other national park authorities, we should get rid of them all in the first place. Thank you.",
+          "text_original": "So, I'd just like to sort of echo the comment that was made over there, but go further than that, and that is to confirm that, if we don't need these other national park authorities, we should get rid of them all in the first place. Thank you.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=7335"
+        }
+      ],
+      "date": "2026-10-13",
+      "record_page_url": "https://record.senedd.wales/Plenary/16315"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-775951",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "en",
+          "t_start": 3875,
+          "text_english": "Diolch, Lywydd. Before I address the Minister, I just wanted to correct the record on something the First Minister said earlier, when he suggested that all Reform Members want to take down the Welsh flag. I can't call that a lie, but I would like to say it's deliberately misleading, because we don't want to do that. I would like to suggest that he perhaps concentrates on his own Members, some of whom seem intent on merging the Welsh flag with the Palestinian flag. I'll leave that there. Thank you. [Interruption.]\n\nTo address the Minister: Cabinet Minister, how much taxpayers' money has the Welsh Government committed to pursuing Welsh independence, including establishing the new national commission and seeking powers to hold an independence referendum? Even a recent poll commissioned by the pro-independence organisation Yes Cymru found that only 32 per cent of likely voters would consider supporting independence. So, there is clearly no blanket support for independence across Wales at all. At a time when the NHS, our schools, councils and front-line services are under enormous financial pressure, do you really believe that this is an appropriate use of taxpayers' money, and will you please publish the full projected cost of pursuing this agenda over the course of this Senedd term?",
+          "text_original": "Diolch, Lywydd. Before I address the Minister, I just wanted to correct the record on something the First Minister said earlier, when he suggested that all Reform Members want to take down the Welsh flag. I can't call that a lie, but I would like to say it's deliberately misleading, because we don't want to do that. I would like to suggest that he perhaps concentrates on his own Members, some of whom seem intent on merging the Welsh flag with the Palestinian flag. I'll leave that there. Thank you. [Interruption.]\n\nTo address the Minister: Cabinet Minister, how much taxpayers' money has the Welsh Government committed to pursuing Welsh independence, including establishing the new national commission and seeking powers to hold an independence referendum? Even a recent poll commissioned by the pro-independence organisation Yes Cymru found that only 32 per cent of likely voters would consider supporting independence. So, there is clearly no blanket support for independence across Wales at all. At a time when the NHS, our schools, councils and front-line services are under enormous financial pressure, do you really believe that this is an appropriate use of taxpayers' money, and will you please publish the full projected cost of pursuing this agenda over the course of this Senedd term?",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=3875"
+        },
+        {
+          "id": "contribution-775946",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "en",
+          "t_start": 4003,
+          "text_english": "Diolch, Lywydd. You answered a question I didn't put to you, but, anyway, I'll try again with a different one. Mine was about devolution, but anyway—sorry, about independence. \n\nCabinet Minister, how are Wales's taxpayers actually supposed to know whether the Welsh Government is delivering value for their money? Billions of pounds are spent every year across numerous programmes, projects and initiatives, but spending money is not the same as delivering results. So, will you publish clear performance data showing what every Welsh Government programme is supposed to achieve, how much it costs, whether it is on time, and, crucially, whether it is actually working? Now, when a programme repeatedly fails to deliver results or value for money, will you reform it or scrap it altogether, rather than continuing to pour taxpayers' money into something that simply isn't working?",
+          "text_original": "Diolch, Lywydd. You answered a question I didn't put to you, but, anyway, I'll try again with a different one. Mine was about devolution, but anyway—sorry, about independence. \n\nCabinet Minister, how are Wales's taxpayers actually supposed to know whether the Welsh Government is delivering value for their money? Billions of pounds are spent every year across numerous programmes, projects and initiatives, but spending money is not the same as delivering results. So, will you publish clear performance data showing what every Welsh Government programme is supposed to achieve, how much it costs, whether it is on time, and, crucially, whether it is actually working? Now, when a programme repeatedly fails to deliver results or value for money, will you reform it or scrap it altogether, rather than continuing to pour taxpayers' money into something that simply isn't working?",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=4003"
+        },
+        {
+          "id": "contribution-775956",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "en",
+          "t_start": 4098,
+          "text_english": "Okay. Thank you for that one. Cabinet Minister, I would also like to know why does the Welsh Government keep creating more bureaucracy instead of reducing it. Since 2018, 16 new devolved public bodies have now been created, whilst only five have been replaced or abolished, but now your Government wants to actually create even more. Now, every new body means more boards, more senior executives, more administration and, unfortunately, more cost to the taxpayer. So, when are you actually going to start reducing the machinery of Government? Will you identify which arm's-length bodies duplicate work that is already being done elsewhere, publish what each one costs, and commit to merging or abolishing those that are simply not necessary? Government efficiency shouldn't mean managing even more bureaucracy; it really should mean having the courage to get rid of it if isn't working.",
+          "text_original": "Okay. Thank you for that one. Cabinet Minister, I would also like to know why does the Welsh Government keep creating more bureaucracy instead of reducing it. Since 2018, 16 new devolved public bodies have now been created, whilst only five have been replaced or abolished, but now your Government wants to actually create even more. Now, every new body means more boards, more senior executives, more administration and, unfortunately, more cost to the taxpayer. So, when are you actually going to start reducing the machinery of Government? Will you identify which arm's-length bodies duplicate work that is already being done elsewhere, publish what each one costs, and commit to merging or abolishing those that are simply not necessary? Government efficiency shouldn't mean managing even more bureaucracy; it really should mean having the courage to get rid of it if isn't working.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=4098"
+        },
+        {
+          "id": "contribution-776242",
+          "item_id": "item-16313-261006-6",
+          "item_title_en": "6. Debate: Fiscal Reform",
+          "lang": "en",
+          "t_start": 16779,
+          "text_english": "Will you take a small intervention?",
+          "text_original": "Will you take a small intervention?",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=16779"
+        },
+        {
+          "id": "contribution-776244",
+          "item_id": "item-16313-261006-6",
+          "item_title_en": "6. Debate: Fiscal Reform",
+          "lang": "en",
+          "t_start": 16781,
+          "text_english": "I'd just like to request, well, ask, really: do you appreciate that, if another funding review was to take place, it could actually result in Wales getting less funding? And if that was to happen, would you then accept that?",
+          "text_original": "I'd just like to request, well, ask, really: do you appreciate that, if another funding review was to take place, it could actually result in Wales getting less funding? And if that was to happen, would you then accept that?",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=16781"
+        }
+      ],
+      "date": "2026-10-06",
+      "record_page_url": "https://record.senedd.wales/Plenary/16313"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-773638",
+          "item_id": "item-16265-260930-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Rural Resilience and Sustainability",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "4. What action is the Welsh Government taking to protect family farms in Brycheiniog Tawe Nedd from the growing financial and environmental pressures facing agriculture? OQ64577",
+          "text_original": "4. Pa gamau y mae Llywodraeth Cymru yn eu cymryd i ddiogelu ffermydd teuluol ym Mrycheiniog Tawe Nedd rhag y pwysau ariannol ac amgylcheddol cynyddol sy'n wynebu amaethyddiaeth? OQ64577",
+          "tv_url": "http://www.senedd.tv/en/16265"
+        },
+        {
+          "id": "contribution-773619",
+          "item_id": "item-16265-260930-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Rural Resilience and Sustainability",
+          "lang": "en",
+          "t_start": 4809,
+          "text_english": "Thank you. Resilience means very little if our family farms cannot survive. Farmers across Brycheiniog Tawe Nedd have endured an incredibly difficult year, as I'm sure you're fully aware, through droughts, wildfires, rising costs and the continued threat of bovine TB, whilst also being expected to adapt to the new sustainable farming scheme. These aren't simply businesses; they produce our food, manage our countryside, support thousands of jobs and keep our rural communities alive. Yet too often farmers tell me they feel these policies have been done to them, rather than being developed with them. Will you guarantee that food production and the survival of the Welsh family farm will be at the heart of your decisions? And also, will you ensure that environmental ambitions work alongside productive farming rather than adding further costs and regulation to the very people we depend upon to feed us and look after our countryside?",
+          "text_original": "Thank you. Resilience means very little if our family farms cannot survive. Farmers across Brycheiniog Tawe Nedd have endured an incredibly difficult year, as I'm sure you're fully aware, through droughts, wildfires, rising costs and the continued threat of bovine TB, whilst also being expected to adapt to the new sustainable farming scheme. These aren't simply businesses; they produce our food, manage our countryside, support thousands of jobs and keep our rural communities alive. Yet too often farmers tell me they feel these policies have been done to them, rather than being developed with them. Will you guarantee that food production and the survival of the Welsh family farm will be at the heart of your decisions? And also, will you ensure that environmental ambitions work alongside productive farming rather than adding further costs and regulation to the very people we depend upon to feed us and look after our countryside?",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=4809"
+        }
+      ],
+      "date": "2026-09-30",
+      "record_page_url": "https://record.senedd.wales/Plenary/16265"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-772930",
+          "item_id": "item-16264-260929-4",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 4244,
+          "text_english": "I'd like to call for a statement from the Welsh Government on the Global Centre of Rail Excellence, please. Around £70 million of public money has reportedly already gone into the GCRE, including £50 million from the Welsh Government, yet the main rail facility has still not been built. Private investment has not materialised as anticipated, and the future of the project is now under review. I understand the Public Accounts and Public Administration Committee is now asking the Permanent Secretary how that investment has been used and what further funding may be required, and about the Welsh Government's commitment to support the company's liabilities until September 2027. As shadow Minister for Government efficiency, I believe taxpayers deserve answers too. Will the Government therefore make a statement setting out exactly what public money has been spent and what it has delivered; what financial controls, reviews and value for money assessments were undertaken; what timescales and funding assumptions changed; and what further exposure taxpayers may face? Before another penny is committed, the Senedd deserves a clear account of the money already spent and the decisions behind it.",
+          "text_original": "I'd like to call for a statement from the Welsh Government on the Global Centre of Rail Excellence, please. Around £70 million of public money has reportedly already gone into the GCRE, including £50 million from the Welsh Government, yet the main rail facility has still not been built. Private investment has not materialised as anticipated, and the future of the project is now under review. I understand the Public Accounts and Public Administration Committee is now asking the Permanent Secretary how that investment has been used and what further funding may be required, and about the Welsh Government's commitment to support the company's liabilities until September 2027. As shadow Minister for Government efficiency, I believe taxpayers deserve answers too. Will the Government therefore make a statement setting out exactly what public money has been spent and what it has delivered; what financial controls, reviews and value for money assessments were undertaken; what timescales and funding assumptions changed; and what further exposure taxpayers may face? Before another penny is committed, the Senedd deserves a clear account of the money already spent and the decisions behind it.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=4244"
+        }
+      ],
+      "date": "2026-09-29",
+      "record_page_url": "https://record.senedd.wales/Plenary/16264"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771407",
+          "item_id": "item-16263-260923-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "en",
+          "t_start": 2018,
+          "text_english": "Cabinet Minister, there's a world of difference between genuine community energy and simply expecting rural communities to host enormous commercial energy developments. Across Wales, communities are being asked to accept industrial-scale windfarms, pylons and other infrastructure, while too often the electricity profits and the economic benefits flow elsewhere. So, if your Government wants at least 1.5 GW of renewable energy capacity to be locally owned by 2035, will you guarantee that community energy really means community ownership, community consent and tangible benefits for the people who live there, including lower energy costs, rather than simply imposing ever more large-scale development on rural Wales and calling a community benefit fund compensation? Diolch.",
+          "text_original": "Cabinet Minister, there's a world of difference between genuine community energy and simply expecting rural communities to host enormous commercial energy developments. Across Wales, communities are being asked to accept industrial-scale windfarms, pylons and other infrastructure, while too often the electricity profits and the economic benefits flow elsewhere. So, if your Government wants at least 1.5 GW of renewable energy capacity to be locally owned by 2035, will you guarantee that community energy really means community ownership, community consent and tangible benefits for the people who live there, including lower energy costs, rather than simply imposing ever more large-scale development on rural Wales and calling a community benefit fund compensation? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=2018"
+        },
+        {
+          "id": "contribution-771730",
+          "item_id": "item-16263-260923-7",
+          "item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+          "lang": "en",
+          "t_start": 14345,
+          "text_english": "Diolch, Llywydd. Just before I speak, I just wanted to echo what somebody else has said, and I really do think the First Minister should be in the Chamber for what I think is one of the most important debates that we'll have, together with some other Cabinet Members who are missing too.\n\nSo, when we debate Wales's place in the United Kingdom, we should do so with our eyes wide open about what separation would actually involve, because this isn't just about flags, slogans or constitutional theory. It is also about people's jobs, pensions, taxes and public services.\n\nSo, let's start with the numbers. Some of these have been mentioned already, but I want to go through them again with a little bit more detail. UK public sector debt now stands at almost £3 trillion, okay? There is no agreed formula determining how much of that debt Wales would inherit if it became independent, because that would still have to be negotiated. But just to understand the scale involved, if debt were divided according to population, Wales's share would be around £136 billion. That's approximately £43,000 for every man, woman and child here in Wales, and that's before we even consider Wales's annual finances.\n\nThe latest official figures show public expenditure attributed to Wales at around £20,000 per person, whilst revenue raised is only around £13,000. That gap of more than £7,000 per person equates to another figure that was mooted earlier, which is almost £23 billion every single year. Those figures don't tell us exactly what the finances of an independent Wales would look like, and nobody can honestly claim they do, but they do demonstrate the scale of the questions that would have to be answered. Who pays for the NHS? Who pays pensions? What taxes would have to rise? What spending would have to fall? And also, what currency would be used? Nobody seems to know. Who services that debt? And what happens to the fiscal transfers that currently operate across the United Kingdom? Those aren't scare stories; they're legitimate questions involving billions of pounds of taxpayers' money.\n\nBut our United Kingdom is about far more than just a balance sheet. Look at the history, some of which has been mentioned earlier, represented by families throughout Wales. Our fathers, grandfathers and great-grandfathers served alongside men and women from England, Scotland and Northern Ireland through two world wars. Welsh regiments fought with extraordinary courage, Welsh communities endured loss and sacrifice, and families waved loved ones goodbye, never knowing whether they would return. They served as part of the armed forces of the United Kingdom, and that shared history matters.\n\nIt doesn't dictate what constitutional decisions future generations must make—those decisions belong to us—but neither should we casually dismiss the bonds forged through generations of shared sacrifice, shared endeavour and shared achievements. Those bonds continue today. People cross the Wales and England border every day to work, trade, study, receive healthcare and visit their families. Businesses operate across it, supply chains cross it, families cross it. We share armed forces, we share economic institutions, we share risks. When one part of the United Kingdom needs support, resources can move between its nations and regions.\n\nWales can proudly and distinctively remain Welsh, whilst remaining part of something bigger too. Our language, our culture, our communities and our national identity do not depend upon erecting a new international border. When independence is proposed, the debate must go beyond the emotional appeal of greater sovereignty. Those advocating fundamental constitutional change need credible answers about debt, the fiscal deficit, pensions, currency, trade, defence and the funding of public services. The numbers involved are simply too large and the consequences too important for anything less. I believe every single one of us in this Chamber has a responsibility to understand the history and the legacy of the United Kingdom that generations before us helped us to build, defend and pass on.\n\nWe should think very carefully before taking divisive and potentially irreversible steps without confronting all of the consequences for those who come after us. For my part, I am proud to be Welsh, I am proud to be British, and I will continue to make the case for protecting our place within the United Kingdom, not only because of the history we share, but because of the future we still have the opportunity to build together. Diolch.",
+          "text_original": "Diolch, Llywydd. Just before I speak, I just wanted to echo what somebody else has said, and I really do think the First Minister should be in the Chamber for what I think is one of the most important debates that we'll have, together with some other Cabinet Members who are missing too.\n\nSo, when we debate Wales's place in the United Kingdom, we should do so with our eyes wide open about what separation would actually involve, because this isn't just about flags, slogans or constitutional theory. It is also about people's jobs, pensions, taxes and public services.\n\nSo, let's start with the numbers. Some of these have been mentioned already, but I want to go through them again with a little bit more detail. UK public sector debt now stands at almost £3 trillion, okay? There is no agreed formula determining how much of that debt Wales would inherit if it became independent, because that would still have to be negotiated. But just to understand the scale involved, if debt were divided according to population, Wales's share would be around £136 billion. That's approximately £43,000 for every man, woman and child here in Wales, and that's before we even consider Wales's annual finances.\n\nThe latest official figures show public expenditure attributed to Wales at around £20,000 per person, whilst revenue raised is only around £13,000. That gap of more than £7,000 per person equates to another figure that was mooted earlier, which is almost £23 billion every single year. Those figures don't tell us exactly what the finances of an independent Wales would look like, and nobody can honestly claim they do, but they do demonstrate the scale of the questions that would have to be answered. Who pays for the NHS? Who pays pensions? What taxes would have to rise? What spending would have to fall? And also, what currency would be used? Nobody seems to know. Who services that debt? And what happens to the fiscal transfers that currently operate across the United Kingdom? Those aren't scare stories; they're legitimate questions involving billions of pounds of taxpayers' money.\n\nBut our United Kingdom is about far more than just a balance sheet. Look at the history, some of which has been mentioned earlier, represented by families throughout Wales. Our fathers, grandfathers and great-grandfathers served alongside men and women from England, Scotland and Northern Ireland through two world wars. Welsh regiments fought with extraordinary courage, Welsh communities endured loss and sacrifice, and families waved loved ones goodbye, never knowing whether they would return. They served as part of the armed forces of the United Kingdom, and that shared history matters.\n\nIt doesn't dictate what constitutional decisions future generations must make—those decisions belong to us—but neither should we casually dismiss the bonds forged through generations of shared sacrifice, shared endeavour and shared achievements. Those bonds continue today. People cross the Wales and England border every day to work, trade, study, receive healthcare and visit their families. Businesses operate across it, supply chains cross it, families cross it. We share armed forces, we share economic institutions, we share risks. When one part of the United Kingdom needs support, resources can move between its nations and regions.\n\nWales can proudly and distinctively remain Welsh, whilst remaining part of something bigger too. Our language, our culture, our communities and our national identity do not depend upon erecting a new international border. When independence is proposed, the debate must go beyond the emotional appeal of greater sovereignty. Those advocating fundamental constitutional change need credible answers about debt, the fiscal deficit, pensions, currency, trade, defence and the funding of public services. The numbers involved are simply too large and the consequences too important for anything less. I believe every single one of us in this Chamber has a responsibility to understand the history and the legacy of the United Kingdom that generations before us helped us to build, defend and pass on.\n\nWe should think very carefully before taking divisive and potentially irreversible steps without confronting all of the consequences for those who come after us. For my part, I am proud to be Welsh, I am proud to be British, and I will continue to make the case for protecting our place within the United Kingdom, not only because of the history we share, but because of the future we still have the opportunity to build together. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=14345"
+        }
+      ],
+      "date": "2026-09-23",
+      "record_page_url": "https://record.senedd.wales/Plenary/16263"
+    },
     {
       "contributions": [
         {

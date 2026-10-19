@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,60 @@
   "canonical_name": "Sarah Cooper-Lesadd",
   "constituency_name_cy": "Pen-y-bont Bro Morgannwg",
   "constituency_name_en": "Pen-y-bont Bro Morgannwg",
-  "contribution_count": 23,
+  "contribution_count": 27,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778885",
+          "item_id": "item-16316-261014-2",
+          "item_title_en": "1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "6. Will the Cabinet Minister provide an update on the new national school swimming and water safety programme? OQ64701",
+          "text_original": "6. A wnaiff y Gweinidog Cabinet roi diweddariad ar y rhaglen genedlaethol newydd nofio a diogelwch dŵr i ysgolion? OQ64701",
+          "tv_url": "http://www.senedd.tv/en/16316"
+        },
+        {
+          "id": "contribution-778897",
+          "item_id": "item-16316-261014-2",
+          "item_title_en": "1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport",
+          "lang": "en",
+          "t_start": 2288,
+          "text_english": "Learning to swim is one of the best gifts you can give a child. I have had the privilege of swimming in the Hampstead Heath ponds, the Serpentine, Lake Bled, off the Isle of Skye and a good deal of the west coast, and one day I'm going to do a swimathon again. It is a skill that you can keep for life, takes you to places you would never dream of and takes you around the world. But not every child has the benefit of that kind of start. Swim Wales found that only 42 per cent of children in years 3 to 6 could swim 25m unaided, which is a serious figure for a country with our coastline, and it's also a safety issue. So, I welcome this programme, but could the Cabinet Minister please outline how it will get to grips with teaching children in areas where there is little provision or where the pools have closed down, as free lessons are not much use if there's no place to have them?",
+          "text_original": "Learning to swim is one of the best gifts you can give a child. I have had the privilege of swimming in the Hampstead Heath ponds, the Serpentine, Lake Bled, off the Isle of Skye and a good deal of the west coast, and one day I'm going to do a swimathon again. It is a skill that you can keep for life, takes you to places you would never dream of and takes you around the world. But not every child has the benefit of that kind of start. Swim Wales found that only 42 per cent of children in years 3 to 6 could swim 25m unaided, which is a serious figure for a country with our coastline, and it's also a safety issue. So, I welcome this programme, but could the Cabinet Minister please outline how it will get to grips with teaching children in areas where there is little provision or where the pools have closed down, as free lessons are not much use if there's no place to have them?",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=2288"
+        }
+      ],
+      "date": "2026-10-14",
+      "record_page_url": "https://record.senedd.wales/Plenary/16316"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776820",
+          "item_id": "item-16314-261007-7",
+          "item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+          "lang": "en",
+          "t_start": 9264,
+          "text_english": "I was three weeks old when I came into care in Newport. I was seven when I was adopted. So, when the Senedd talks about children whose parents cannot look after them, I am not talking about a policy area, I'm talking about the thing that decided my life before I could speak. That does not make me an expert on anybody else's family, but I think a great deal about the moment before a child is taken into care, because nearly everything we do for children, like me, happens afterwards, when the hardest thing has happened.\n\nIn December 2021, Wales opened a court designed for exactly that moment, a family drug and alcohol court sitting in Cardiff, serving families from Cardiff and the Vale, with three judges trained for it. It cost £450,000. In November 2023, it closed, but not because it failed. Researchers at Cardiff University looked at it and found that it worked here, that parents were getting better, that children's lives were changing. They said that Wales should keep it and build on it. The judge who sat in it wrote down his regret in the judgment. He could see what it meant for the families still in front of him. It closed because the money ran out.\n\nLet me tell you about what that court actually did. A judge who heard your case properly, rather than whoever happened to be sitting that day. A team of people around you who were there to help, not to judge. Parents were given a chance to get clean while the case was still running, instead of being watched and measured and found wanting. And when it worked, a child stayed at home. They were not moved, not placed, not separated from their brothers and their sisters—at home with a mother who had been given the help that she so desperately needed. Everywhere else, these cases take about a year. Think about what a year is to a three-year-old. It is a sixth of everything they have ever known spent waiting to be told where they are going to live.\n\nLet's be clear about what I'm not saying. I'm not saying that every family can be saved. Some children are inevitably safer away from their parents, and the courts are right when they say so. I'm one of those children. But care should be the last thing we try, not the first thing that happens. A child who stays safely at home keeps their family, their school and their peer group, their brothers and their sisters. A child who goes into care loses all three, and we become their parent instead.\n\nThe Senedd agreed unanimously across four parties that we do take corporate parenting seriously—that when the state steps into a parent's place, it accepts the parental responsibility. I believe that, but a good parent does not wait until a child has already lost their family before deciding to help. If we mean what we said about corporate parenting, it cannot begin at the moment a child comes into care; it has to begin before.\n\nThe question is not whether this works. England has many of these teams, but Wales has none. The question is why Wales could not keep it. Wales paid for this court; Wales paid for a court in a justice system it does not control. The courts belong to Westminster—the judges, the rules, the whole structure. But what belong to us are the social workers, the health services, the drug and alcohol teams—the people who made the court work, funded from here.\n\nWales could pay for a pilot; what Wales could not do was put it on a statutory footing, because that at the moment is not ours to build. Wales could fund the team year after year and still never make the court itself a permanent part of the justice system. When the money ran out, there was nothing underneath it—it wasn't on a statutory footing. So, this is what happened—not a decision anyone took, not a judgment that this was wrong for Wales, just a court that existed on borrowed time and stopped existing.\n\nThe Commission on Justice in Wales spent four years looking at this. It said in 2019 that these courts should be established in Wales. It also said that justice and policing should be devolved, because a system split down the middle serves nobody, least of all the people caught in the middle of it. I think they were right, and I do not know of a clearer example than this one. Wales paid for this court. It worked, it closed, and Wales never had the power to make it permanent in law. It was never able to be put on a statutory footing—there's no clearer example than this.",
+          "text_original": "I was three weeks old when I came into care in Newport. I was seven when I was adopted. So, when the Senedd talks about children whose parents cannot look after them, I am not talking about a policy area, I'm talking about the thing that decided my life before I could speak. That does not make me an expert on anybody else's family, but I think a great deal about the moment before a child is taken into care, because nearly everything we do for children, like me, happens afterwards, when the hardest thing has happened.\n\nIn December 2021, Wales opened a court designed for exactly that moment, a family drug and alcohol court sitting in Cardiff, serving families from Cardiff and the Vale, with three judges trained for it. It cost £450,000. In November 2023, it closed, but not because it failed. Researchers at Cardiff University looked at it and found that it worked here, that parents were getting better, that children's lives were changing. They said that Wales should keep it and build on it. The judge who sat in it wrote down his regret in the judgment. He could see what it meant for the families still in front of him. It closed because the money ran out.\n\nLet me tell you about what that court actually did. A judge who heard your case properly, rather than whoever happened to be sitting that day. A team of people around you who were there to help, not to judge. Parents were given a chance to get clean while the case was still running, instead of being watched and measured and found wanting. And when it worked, a child stayed at home. They were not moved, not placed, not separated from their brothers and their sisters—at home with a mother who had been given the help that she so desperately needed. Everywhere else, these cases take about a year. Think about what a year is to a three-year-old. It is a sixth of everything they have ever known spent waiting to be told where they are going to live.\n\nLet's be clear about what I'm not saying. I'm not saying that every family can be saved. Some children are inevitably safer away from their parents, and the courts are right when they say so. I'm one of those children. But care should be the last thing we try, not the first thing that happens. A child who stays safely at home keeps their family, their school and their peer group, their brothers and their sisters. A child who goes into care loses all three, and we become their parent instead.\n\nThe Senedd agreed unanimously across four parties that we do take corporate parenting seriously—that when the state steps into a parent's place, it accepts the parental responsibility. I believe that, but a good parent does not wait until a child has already lost their family before deciding to help. If we mean what we said about corporate parenting, it cannot begin at the moment a child comes into care; it has to begin before.\n\nThe question is not whether this works. England has many of these teams, but Wales has none. The question is why Wales could not keep it. Wales paid for this court; Wales paid for a court in a justice system it does not control. The courts belong to Westminster—the judges, the rules, the whole structure. But what belong to us are the social workers, the health services, the drug and alcohol teams—the people who made the court work, funded from here.\n\nWales could pay for a pilot; what Wales could not do was put it on a statutory footing, because that at the moment is not ours to build. Wales could fund the team year after year and still never make the court itself a permanent part of the justice system. When the money ran out, there was nothing underneath it—it wasn't on a statutory footing. So, this is what happened—not a decision anyone took, not a judgment that this was wrong for Wales, just a court that existed on borrowed time and stopped existing.\n\nThe Commission on Justice in Wales spent four years looking at this. It said in 2019 that these courts should be established in Wales. It also said that justice and policing should be devolved, because a system split down the middle serves nobody, least of all the people caught in the middle of it. I think they were right, and I do not know of a clearer example than this one. Wales paid for this court. It worked, it closed, and Wales never had the power to make it permanent in law. It was never able to be put on a statutory footing—there's no clearer example than this.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=9264"
+        },
+        {
+          "id": "contribution-777014",
+          "item_id": "item-16314-261007-11",
+          "item_title_en": "10. Short Debate: The importance of port infrastructure and maritime traffic to the Welsh economy",
+          "lang": "en",
+          "t_start": 18796,
+          "text_english": "I have visited both the Port of Barry and the Port of Tyne, and the contrast is instructive. No two ports in the UK are the same. Some are privately owned and some by trusts. It is easy to assume one company runs most of them. That's not how it works. The Port of Tyne is the largest trust port in the UK. No shareholders and no owners. Everything it earns is reinvested in the port and the river. In 2024, it added £680 million to the north-east economy.\n\nBarry is a different kind of port, but no less important. No containers, no ferries, no passengers. Liquid bulks for the chemical industry, steel, scrap and aggregates. But that specialism is why it matters now. ABP and px Group are developing a clean growth hub here. Over 100 acres for battery materials, rare earth processing, carbon capture and hydrogen. The Tyne shows where that leads. It is the operation base for Dogger Bank, the world's largest offshore windfarm, with over 400 long-term roles. Barry is ready to make the same turn. Wales exported coal from that dock to the whole world. We should be no less ambitious about where we build there next.",
+          "text_original": "I have visited both the Port of Barry and the Port of Tyne, and the contrast is instructive. No two ports in the UK are the same. Some are privately owned and some by trusts. It is easy to assume one company runs most of them. That's not how it works. The Port of Tyne is the largest trust port in the UK. No shareholders and no owners. Everything it earns is reinvested in the port and the river. In 2024, it added £680 million to the north-east economy.\n\nBarry is a different kind of port, but no less important. No containers, no ferries, no passengers. Liquid bulks for the chemical industry, steel, scrap and aggregates. But that specialism is why it matters now. ABP and px Group are developing a clean growth hub here. Over 100 acres for battery materials, rare earth processing, carbon capture and hydrogen. The Tyne shows where that leads. It is the operation base for Dogger Bank, the world's largest offshore windfarm, with over 400 long-term roles. Barry is ready to make the same turn. Wales exported coal from that dock to the whole world. We should be no less ambitious about where we build there next.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=18796"
+        }
+      ],
+      "date": "2026-10-07",
+      "record_page_url": "https://record.senedd.wales/Plenary/16314"
+    },
     {
       "contributions": [
         {

@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,224 @@
   "canonical_name": "Laura Anne Jones",
   "constituency_name_cy": "Sir Fynwy Torfaen",
   "constituency_name_en": "Sir Fynwy Torfaen",
-  "contribution_count": 29,
+  "contribution_count": 47,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778480",
+          "item_id": "item-16315-261013-2",
+          "item_title_en": "2. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 5197,
+          "text_english": "Good afternoon, Trefnydd. Since questioning the First Minister on NHS dental care last week, I have had countless constituents and people across Wales get in contact. One said that they have waited unsuccessfully since 2019 to get back on an NHS list, now facing £800-plus for root canal treatment. Another says they finally secured NHS care, only to be restricted to emergency treatment due to the new dental contract. Another says their practice has gone private, demanding £264 a year just for membership fees. This is the reality of your fundamentally flawed dental contract. A new dental school is welcome, of course it is, but it is the contract that needs reworking, and this Government needs to listen, as I said last week, to practising dentists to make the contract fit for purpose. A lack of NHS dental care is now a national emergency, and I believe this requires an urgent statement on the floor of this Senedd or a debate to address this. Diolch.",
+          "text_original": "Good afternoon, Trefnydd. Since questioning the First Minister on NHS dental care last week, I have had countless constituents and people across Wales get in contact. One said that they have waited unsuccessfully since 2019 to get back on an NHS list, now facing £800-plus for root canal treatment. Another says they finally secured NHS care, only to be restricted to emergency treatment due to the new dental contract. Another says their practice has gone private, demanding £264 a year just for membership fees. This is the reality of your fundamentally flawed dental contract. A new dental school is welcome, of course it is, but it is the contract that needs reworking, and this Government needs to listen, as I said last week, to practising dentists to make the contract fit for purpose. A lack of NHS dental care is now a national emergency, and I believe this requires an urgent statement on the floor of this Senedd or a debate to address this. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=5197"
+        },
+        {
+          "id": "contribution-778539",
+          "item_id": "item-16315-261013-4",
+          "item_title_en": "4. Statement by the Cabinet Minister for Rural Resilience and Sustainability: Winter preparedness: Be flood ready",
+          "lang": "en",
+          "t_start": 8333,
+          "text_english": "Thank you for your statement, Minister. Natural Resources Wales has warned of a higher risk of flooding this year than last year, with one in seven homes and businesses in Wales at risk. People are being told to prepare, but what your Government has outlined today just doesn't cut it, sadly, and fails to reassure those affected by flooding year on year. We already know where the flooding will be. Communities are already doing everything they can to prepare, but I do agree that there does need to be greater awareness of tools that are available to alert to flood warnings. But, across the border, the Government has set out £4.2 billion for flood defences and also set out what emergency resources they will provide, including 260 mobile pumps, 250 km of temporary barriers and so on. Welsh communities deserve that level of clarity. So, my first question is: where is the detail in the statement, Minister?\n\nAt the end of the day, it'll be no surprise to anyone here that there will be a lot of rain in Wales this winter. Call it what you like: El Niño, the end of the world, whatever, but what we do know is that there will be weather that will cause floods this year. What we're trying to establish in Wales is how prepared are we for storms like this, like the devastating storm Claudia. Why is it that communities such as Skenfrith that have been severely flooded four times in six years still don't qualify for urgent funding, when there's a clear need for it? Why is it that our precious rural villages across Wales have to build, for example, an extra 20 to 200 houses to satisfy the Government's criteria to get the urgent help that they need and deserve? I've stood in my wellies with residents time and time again, year after year, who've had their businesses or family homes destroyed over and over again. Why is it that they lose out?\n\nReform will protect rural Wales and ensure that communities like Skenfrith won't be expected to shoulder the burden of repeated flooding in areas where successive Governments have failed to invest in proper flood defences. And to that end, Minister, can you make your position clear now on how funding will be allocated for flood defences, please?\n\nMinister, do you know what's missing from this statement? And I'm genuinely shocked that it's missing from the statement. There's no mention of flood risks that now have been created from the recent wildfires. Trenches were built, landscape was disrupted on the mountains, and now, that, potentially, will channel water downhill towards urban areas, affecting homes and businesses, for example, in Blaenavon. Yet, in Blaenavon, the commoners there have not seen a penny from Welsh Government to reduce the flood risk—no funding, no practical guidance. So, you say in your statement that\n\n'natural flood management can only succeed through strong partnership working with farmers and landowners',\n\nbut where is that partnership now? Where is the financial help here? Farmers do need your help on this now, and I urge you to be proactive, Minister, on this now, and not follow in the footsteps of past Governments that have been more reactive. Diolch.",
+          "text_original": "Thank you for your statement, Minister. Natural Resources Wales has warned of a higher risk of flooding this year than last year, with one in seven homes and businesses in Wales at risk. People are being told to prepare, but what your Government has outlined today just doesn't cut it, sadly, and fails to reassure those affected by flooding year on year. We already know where the flooding will be. Communities are already doing everything they can to prepare, but I do agree that there does need to be greater awareness of tools that are available to alert to flood warnings. But, across the border, the Government has set out £4.2 billion for flood defences and also set out what emergency resources they will provide, including 260 mobile pumps, 250 km of temporary barriers and so on. Welsh communities deserve that level of clarity. So, my first question is: where is the detail in the statement, Minister?\n\nAt the end of the day, it'll be no surprise to anyone here that there will be a lot of rain in Wales this winter. Call it what you like: El Niño, the end of the world, whatever, but what we do know is that there will be weather that will cause floods this year. What we're trying to establish in Wales is how prepared are we for storms like this, like the devastating storm Claudia. Why is it that communities such as Skenfrith that have been severely flooded four times in six years still don't qualify for urgent funding, when there's a clear need for it? Why is it that our precious rural villages across Wales have to build, for example, an extra 20 to 200 houses to satisfy the Government's criteria to get the urgent help that they need and deserve? I've stood in my wellies with residents time and time again, year after year, who've had their businesses or family homes destroyed over and over again. Why is it that they lose out?\n\nReform will protect rural Wales and ensure that communities like Skenfrith won't be expected to shoulder the burden of repeated flooding in areas where successive Governments have failed to invest in proper flood defences. And to that end, Minister, can you make your position clear now on how funding will be allocated for flood defences, please?\n\nMinister, do you know what's missing from this statement? And I'm genuinely shocked that it's missing from the statement. There's no mention of flood risks that now have been created from the recent wildfires. Trenches were built, landscape was disrupted on the mountains, and now, that, potentially, will channel water downhill towards urban areas, affecting homes and businesses, for example, in Blaenavon. Yet, in Blaenavon, the commoners there have not seen a penny from Welsh Government to reduce the flood risk—no funding, no practical guidance. So, you say in your statement that\n\n'natural flood management can only succeed through strong partnership working with farmers and landowners',\n\nbut where is that partnership now? Where is the financial help here? Farmers do need your help on this now, and I urge you to be proactive, Minister, on this now, and not follow in the footsteps of past Governments that have been more reactive. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=8333"
+        }
+      ],
+      "date": "2026-10-13",
+      "record_page_url": "https://record.senedd.wales/Plenary/16315"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776792",
+          "item_id": "item-16314-261007-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "6. How does the Welsh Government ensure infrastructure keeps pace with housing growth? OQ64672",
+          "text_original": "6. Sut mae Llywodraeth Cymru yn sicrhau bod seilwaith yn cadw i fyny â thwf tai? OQ64672",
+          "tv_url": "http://www.senedd.tv/en/16314"
+        },
+        {
+          "id": "contribution-776794",
+          "item_id": "item-16314-261007-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
+          "lang": "en",
+          "t_start": 7810,
+          "text_english": "Diolch. Minister, most communities in my constituency are already stretched to the limit. It's already hard to get a GP appointment, seeing an NHS dentist is almost impossible, and schools already have too many children in the classroom without the right support, yet more homes are being approved without the infrastructure there to support them.\n\nWe all want to see more housing as soon as possible, as has been said today, but there has to be some common sense attached to it. I know this has been brought up quite a number of times today in this Senedd, and I want to just reiterate points made by the Member for Carmarthenshire and the Member for Fflint Wrecsam, because my constituency shares those same pressures, and that's why I welcome the consultation that is open right now. But how do you envisage better infrastructure planning around new housing developments? And, as you develop the new national development framework following the consultation, will you work with local authorities to look to reform planning policy to ensure that any large housing developments are only approved where there is the necessary infrastructure already in place, or there is clear funding commitment to deliver it alongside the housing? As you've said today, that should be happening, but as you know and I know and this Chamber knows—",
+          "text_original": "Diolch. Minister, most communities in my constituency are already stretched to the limit. It's already hard to get a GP appointment, seeing an NHS dentist is almost impossible, and schools already have too many children in the classroom without the right support, yet more homes are being approved without the infrastructure there to support them.\n\nWe all want to see more housing as soon as possible, as has been said today, but there has to be some common sense attached to it. I know this has been brought up quite a number of times today in this Senedd, and I want to just reiterate points made by the Member for Carmarthenshire and the Member for Fflint Wrecsam, because my constituency shares those same pressures, and that's why I welcome the consultation that is open right now. But how do you envisage better infrastructure planning around new housing developments? And, as you develop the new national development framework following the consultation, will you work with local authorities to look to reform planning policy to ensure that any large housing developments are only approved where there is the necessary infrastructure already in place, or there is clear funding commitment to deliver it alongside the housing? As you've said today, that should be happening, but as you know and I know and this Chamber knows—",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=7810"
+        },
+        {
+          "id": "contribution-776753",
+          "item_id": "item-16314-261007-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
+          "lang": "en",
+          "t_start": 7879,
+          "text_english": "—it's not. Diolch.",
+          "text_original": "—it's not. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=7879"
+        }
+      ],
+      "date": "2026-10-07",
+      "record_page_url": "https://record.senedd.wales/Plenary/16314"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-775886",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "5. What progress has the First Minister made on improving timely access to NHS care? OQ64675",
+          "text_original": "5. Pa gynnydd y mae'r Prif Weinidog wedi'i wneud o ran gwella mynediad amserol at ofal y GIG? OQ64675",
+          "tv_url": "http://www.senedd.tv/en/16313"
+        },
+        {
+          "id": "contribution-775889",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 2764,
+          "text_english": "First Minister, I'm sure you'll agree with me that when it comes to dentistry, it's important to drill into the data. Recent data shows that only 40 per cent of people were treated under an NHS dentist, a 40 per cent drop since 2020. It is very difficult for anybody now to access NHS dental treatment. Your own health Minister admitted in a committee recently that he faces a 60-mile round trip to see his dentist. When the flawed new dental contract came into force on 1 April, five practices in my area of Monmouthshire Torfaen stopped providing NHS care. Access to NHS dentists is absolutely vital, otherwise Wales will face more dental problems further down the road. What are you going to do about it, First Minister? Will you finally involve practising dentists to try and help solve this problem? The lack of accessibility to NHS dentists is now out of control.",
+          "text_original": "First Minister, I'm sure you'll agree with me that when it comes to dentistry, it's important to drill into the data. Recent data shows that only 40 per cent of people were treated under an NHS dentist, a 40 per cent drop since 2020. It is very difficult for anybody now to access NHS dental treatment. Your own health Minister admitted in a committee recently that he faces a 60-mile round trip to see his dentist. When the flawed new dental contract came into force on 1 April, five practices in my area of Monmouthshire Torfaen stopped providing NHS care. Access to NHS dentists is absolutely vital, otherwise Wales will face more dental problems further down the road. What are you going to do about it, First Minister? Will you finally involve practising dentists to try and help solve this problem? The lack of accessibility to NHS dentists is now out of control.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=2764"
+        },
+        {
+          "id": "contribution-776069",
+          "item_id": "item-16313-261006-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 6885,
+          "text_english": "Trefnydd, in a free society, we show our faces. It's how we recognise each other, it's how we trust each other, it's how we talk to each other. A nurse needs to see their patient, a teacher needs to see their parent at the school gate. For public safety, it's important. Reform's position is clear: we would ban the burqa and every other full face covering in public. Trefnydd, could we please have a statement setting out the Welsh Government's position on this? I know this matter falls outside the Senedd's powers, but if the Welsh Government will be making representations to the UK Government on Wales's behalf, it would be beneficial for this entire Senedd to understand your position on this. Also, feel free to sign our petition on this. Diolch.",
+          "text_original": "Trefnydd, in a free society, we show our faces. It's how we recognise each other, it's how we trust each other, it's how we talk to each other. A nurse needs to see their patient, a teacher needs to see their parent at the school gate. For public safety, it's important. Reform's position is clear: we would ban the burqa and every other full face covering in public. Trefnydd, could we please have a statement setting out the Welsh Government's position on this? I know this matter falls outside the Senedd's powers, but if the Welsh Government will be making representations to the UK Government on Wales's behalf, it would be beneficial for this entire Senedd to understand your position on this. Also, feel free to sign our petition on this. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=6885"
+        },
+        {
+          "id": "contribution-776105",
+          "item_id": "item-16313-261006-4",
+          "item_title_en": "4. Statement by the Deputy Minister for Transport: Strategic Priorities for the Menai Strait Crossings and M4 around Newport",
+          "lang": "en",
+          "t_start": 8761,
+          "text_english": "Yes, sure.",
+          "text_original": "Yes, sure.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=8761"
+        },
+        {
+          "id": "contribution-776107",
+          "item_id": "item-16313-261006-4",
+          "item_title_en": "4. Statement by the Deputy Minister for Transport: Strategic Priorities for the Menai Strait Crossings and M4 around Newport",
+          "lang": "en",
+          "t_start": 8763,
+          "text_english": "Cars are not a luxury.",
+          "text_original": "Cars are not a luxury.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=8763"
+        },
+        {
+          "id": "contribution-776111",
+          "item_id": "item-16313-261006-4",
+          "item_title_en": "4. Statement by the Deputy Minister for Transport: Strategic Priorities for the Menai Strait Crossings and M4 around Newport",
+          "lang": "en",
+          "t_start": 8767,
+          "text_english": "Cars are not a luxury for most people, Minister—they're a necessity.",
+          "text_original": "Cars are not a luxury for most people, Minister—they're a necessity.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=8767"
+        }
+      ],
+      "date": "2026-10-06",
+      "record_page_url": "https://record.senedd.wales/Plenary/16313"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-773593",
+          "item_id": "item-16265-260930-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Rural Resilience and Sustainability",
+          "lang": "en",
+          "t_start": 3598,
+          "text_english": "Diolch, Deputy Presiding Officer. Firstly, Minister, I want to say 'diolch' to you too for your recent announcements, finally injecting some common sense into Labour's ridiculously rigid nitrate vulnerable zones rules. It's of course welcome and long overdue, as are advance payments for the basic payment scheme and the sustainable farming scheme after such a difficult summer.\n\nBut bringing forward that money does not give farmers a penny more overall, and it does not address the downward trajectory of the basic payment scheme. Lawfully, we are all, of course, aware that you have to bring down BPS payments, but it is in your power, Minister, as to how much. Many are struggling on the 60 per cent of the BPS original 2025 value. Now dropping it to just 40 per cent would literally signal the end of most family farms in Wales. As I am, you must be aware that the majority of the 51 per cent remaining on the BPS are those small family farms that you claim to want to protect. Pushing ahead with this cut, with SFS remaining wholly unsuitable, inflexible and unworkable, is playing literally Russian roulette with their livelihoods. Minister, you need to make the SFS workable, and fast, and you need to put protections in place to help those that remain on the BPS. So, would you consider dropping the BPS by just 1 per cent, as opposed to the further 20 per cent, unless of course you do want to be the Minister responsible for the genuine end of family farms across Wales?",
+          "text_original": "Diolch, Deputy Presiding Officer. Firstly, Minister, I want to say 'diolch' to you too for your recent announcements, finally injecting some common sense into Labour's ridiculously rigid nitrate vulnerable zones rules. It's of course welcome and long overdue, as are advance payments for the basic payment scheme and the sustainable farming scheme after such a difficult summer.\n\nBut bringing forward that money does not give farmers a penny more overall, and it does not address the downward trajectory of the basic payment scheme. Lawfully, we are all, of course, aware that you have to bring down BPS payments, but it is in your power, Minister, as to how much. Many are struggling on the 60 per cent of the BPS original 2025 value. Now dropping it to just 40 per cent would literally signal the end of most family farms in Wales. As I am, you must be aware that the majority of the 51 per cent remaining on the BPS are those small family farms that you claim to want to protect. Pushing ahead with this cut, with SFS remaining wholly unsuitable, inflexible and unworkable, is playing literally Russian roulette with their livelihoods. Minister, you need to make the SFS workable, and fast, and you need to put protections in place to help those that remain on the BPS. So, would you consider dropping the BPS by just 1 per cent, as opposed to the further 20 per cent, unless of course you do want to be the Minister responsible for the genuine end of family farms across Wales?",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=3598"
+        },
+        {
+          "id": "contribution-773585",
+          "item_id": "item-16265-260930-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Rural Resilience and Sustainability",
+          "lang": "en",
+          "t_start": 3724,
+          "text_english": "I hope you're more than considering it because it's absolutely completely unworkable, and you know that as well as I do. Not only is dropping the BPS funding by 1 per cent the right thing to do, but by not doing that and pushing ahead with this 20 per cent cut, you're putting our Welsh heritage, our Welsh culture and Welsh language at risk, as well as our national security. You said all the right things in opposition, Minister, didn't you? But now you seem to be struggling to say them and do them as the Minister. I know you've agreed with me in the past that the BPS trajectory needs to be a much more gradual, tapering trajectory—your words, not mine. Now you're in Government as the Minister able to do this, you're backtracking. You said in black and white in this Chamber that you thought that it should be a more just transition—again, your words. So, tell me: will you do it?",
+          "text_original": "I hope you're more than considering it because it's absolutely completely unworkable, and you know that as well as I do. Not only is dropping the BPS funding by 1 per cent the right thing to do, but by not doing that and pushing ahead with this 20 per cent cut, you're putting our Welsh heritage, our Welsh culture and Welsh language at risk, as well as our national security. You said all the right things in opposition, Minister, didn't you? But now you seem to be struggling to say them and do them as the Minister. I know you've agreed with me in the past that the BPS trajectory needs to be a much more gradual, tapering trajectory—your words, not mine. Now you're in Government as the Minister able to do this, you're backtracking. You said in black and white in this Chamber that you thought that it should be a more just transition—again, your words. So, tell me: will you do it?",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=3724"
+        },
+        {
+          "id": "contribution-773595",
+          "item_id": "item-16265-260930-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Rural Resilience and Sustainability",
+          "lang": "en",
+          "t_start": 3840,
+          "text_english": "Well, you're putting family farms in Wales at risk, Minister, by saying that. I hope that you do recognise that, currently, on the SFS, people cannot get on it whether they want to or not.\n\nI'd like to bring back to what Sarah Edwards, one of my colleagues, has just asked you in the Chamber. I, too, am aware of the extremely worrying circumstance that Green GEN Cymru surveyors appear to be arriving unannounced on farms to survey land, with huge machinery, and, not only that, they are not even adhering to their own biosecurity measures, with no checks in place to ensure that they are. This is genuinely concerning. This is not about whether you agree with windfarms or not, Minister. Most of these farms have had bovine TB or are at high risk of it. This is not a theoretical concern either; the High Court has already found Green GEN lacking in terms of their biosecurity measures. Without the right measures in place here, there is a real risk of disease like TB being spread farm to farm, and I'm not even mentioning the other environmental concerns that the people of the Towy valley have. Don't you agree with me, Minister, that we cannot have a situation where rural communities in west Wales have to spend hundreds of thousands of pounds to ask a court to help them to merely protect their own farms? Farmers need protection in place. They need support on this, Minister. Green GEN Cymru and contracted surveyors need to adhere to the rules to protect our farms. Will you work with the Cabinet Minister for Enterprise, Connectivity and Energy to ensure this happens, please, and perhaps even visit the Towy valley to meet with the communities there that are so concerned? Diolch.",
+          "text_original": "Well, you're putting family farms in Wales at risk, Minister, by saying that. I hope that you do recognise that, currently, on the SFS, people cannot get on it whether they want to or not.\n\nI'd like to bring back to what Sarah Edwards, one of my colleagues, has just asked you in the Chamber. I, too, am aware of the extremely worrying circumstance that Green GEN Cymru surveyors appear to be arriving unannounced on farms to survey land, with huge machinery, and, not only that, they are not even adhering to their own biosecurity measures, with no checks in place to ensure that they are. This is genuinely concerning. This is not about whether you agree with windfarms or not, Minister. Most of these farms have had bovine TB or are at high risk of it. This is not a theoretical concern either; the High Court has already found Green GEN lacking in terms of their biosecurity measures. Without the right measures in place here, there is a real risk of disease like TB being spread farm to farm, and I'm not even mentioning the other environmental concerns that the people of the Towy valley have. Don't you agree with me, Minister, that we cannot have a situation where rural communities in west Wales have to spend hundreds of thousands of pounds to ask a court to help them to merely protect their own farms? Farmers need protection in place. They need support on this, Minister. Green GEN Cymru and contracted surveyors need to adhere to the rules to protect our farms. Will you work with the Cabinet Minister for Enterprise, Connectivity and Energy to ensure this happens, please, and perhaps even visit the Towy valley to meet with the communities there that are so concerned? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=3840"
+        },
+        {
+          "id": "contribution-773699",
+          "item_id": "item-16265-260930-4",
+          "item_title_en": "4. 90-second Statements",
+          "lang": "en",
+          "t_start": 7395,
+          "text_english": "Diolch, Ddirprwy Lywydd. A wonderful old school friend of mine and a constituent, Matthew Cox, was diagnosed in 2025 with motor neurone disease, a cruel terminal illness that progressively takes away the ability to move, speak, swallow and breathe. Faced with that devastating diagnosis, Matt has chosen to turn that negative into a positive and devote his energy to helping others with MND now and in the future. Matt's warmth and generosity has always been extraordinary; now, so has his determination.\n\nHe has chosen to complete a number of marathons to help reach his goal of £100,000—which you can follow on his Instagram, @matthewjamescox—driven by his want to give money to the charities that have supported him after his diagnosis, that have helped him when he's felt so lost. This included the MND Connect helpline, which was literally, I believe, a lifeline for him and many others facing this cruel disease. He completed the London, Leeds, Welsh and, recently, the Great North Run marathons, where he doubled the distance he walked every time, which is an incredible accomplishment.\n\nMy plea to this Government, and to this whole Senedd, is to help ensure that support is there for every family facing this devastating disease. Matt, you're giving others hope, and I'm proud to call you my friend.",
+          "text_original": "Diolch, Ddirprwy Lywydd. A wonderful old school friend of mine and a constituent, Matthew Cox, was diagnosed in 2025 with motor neurone disease, a cruel terminal illness that progressively takes away the ability to move, speak, swallow and breathe. Faced with that devastating diagnosis, Matt has chosen to turn that negative into a positive and devote his energy to helping others with MND now and in the future. Matt's warmth and generosity has always been extraordinary; now, so has his determination.\n\nHe has chosen to complete a number of marathons to help reach his goal of £100,000—which you can follow on his Instagram, @matthewjamescox—driven by his want to give money to the charities that have supported him after his diagnosis, that have helped him when he's felt so lost. This included the MND Connect helpline, which was literally, I believe, a lifeline for him and many others facing this cruel disease. He completed the London, Leeds, Welsh and, recently, the Great North Run marathons, where he doubled the distance he walked every time, which is an incredible accomplishment.\n\nMy plea to this Government, and to this whole Senedd, is to help ensure that support is there for every family facing this devastating disease. Matt, you're giving others hope, and I'm proud to call you my friend.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=7395"
+        }
+      ],
+      "date": "2026-09-30",
+      "record_page_url": "https://record.senedd.wales/Plenary/16265"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-772802",
+          "item_id": "item-16264-260929-2",
+          "item_title_en": "1. Nominations for a Committee Chair",
+          "lang": "en",
+          "t_start": 146,
+          "text_english": "Can I propose Cai Parry-Jones?",
+          "text_original": "Can I propose Cai Parry-Jones?",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=146"
+        },
+        {
+          "id": "contribution-772946",
+          "item_id": "item-16264-260929-4",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 4636,
+          "text_english": "Trefnydd, I would like to request a statement on the shameful neglect of some of Wales's most treasured historic sites, including our Roman remains in Caerwent, known to the Romans as Venta Silurum. These remains are hugely impressive, and the Roman city there is one of the most significant structures in Wales and Europe, dating back nearly 2,000 years. That makes their condition even more disgraceful, that what should be a source of national pride is now being swallowed by weeds—nearly 2,000 years of history left to deteriorate under successive Governments' watches here. As you know, Trefnydd, these sites are vital to our history, education and tourism in Monmouthshire and across Wales. Bizarrely, I asked for an urgent meeting with Cadw about their condition, and was told to ask you first for permission for a meeting. I'm not sure if that's normal. Trefnydd, can I request a statement from you on the upkeep of historic sites in Wales? And can I cheekily use this opportunity to invite you there yourself to see the disgraceful condition that they're in? Diolch.",
+          "text_original": "Trefnydd, I would like to request a statement on the shameful neglect of some of Wales's most treasured historic sites, including our Roman remains in Caerwent, known to the Romans as Venta Silurum. These remains are hugely impressive, and the Roman city there is one of the most significant structures in Wales and Europe, dating back nearly 2,000 years. That makes their condition even more disgraceful, that what should be a source of national pride is now being swallowed by weeds—nearly 2,000 years of history left to deteriorate under successive Governments' watches here. As you know, Trefnydd, these sites are vital to our history, education and tourism in Monmouthshire and across Wales. Bizarrely, I asked for an urgent meeting with Cadw about their condition, and was told to ask you first for permission for a meeting. I'm not sure if that's normal. Trefnydd, can I request a statement from you on the upkeep of historic sites in Wales? And can I cheekily use this opportunity to invite you there yourself to see the disgraceful condition that they're in? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=4636"
+        }
+      ],
+      "date": "2026-09-29",
+      "record_page_url": "https://record.senedd.wales/Plenary/16264"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-770945",
+          "item_id": "item-16262-260922-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 7141,
+          "text_english": "To be fair, you, like me, Trefnydd, have been an advocate for ensuring children and young people get to school safely and happy, and I'm sure that you'll agree with me that the first priority of governments at every level should be to protect children's and young people's well-being and not leave them anxious and worried. This policy of getting as many pupils as possible onto public buses rather than school buses is majorly flawed. It may work in urban areas, but it certainly doesn't work in rural areas, where routes like the Usk to Monmouth are long and winding, with national speed limit roads. Children packed in like sardines, standing for 40 minutes, is just not acceptable, and I'm sure you'll agree with that. But, sadly, this was the case in Monmouthshire on the first day of term, with multiple parents and pupils contacting me, with issues—similar issues, actually—flagged all over Monmouthshire and Torfaen. How can we possibly be in a situation where children have to have their own seat and even wear a seat belt for school trips, but this is acceptable?\n\nCost-cutting exercises by councils—and we all know they're strapped for cash—should never come at the expense of children's safety and well-being. Trefnydd, on that note, I would like to request an urgent statement from the Cabinet Minister responsible as to when this policy will be reviewed to ensure all children and young people get to school safely, on time and ready to learn. Diolch.",
+          "text_original": "To be fair, you, like me, Trefnydd, have been an advocate for ensuring children and young people get to school safely and happy, and I'm sure that you'll agree with me that the first priority of governments at every level should be to protect children's and young people's well-being and not leave them anxious and worried. This policy of getting as many pupils as possible onto public buses rather than school buses is majorly flawed. It may work in urban areas, but it certainly doesn't work in rural areas, where routes like the Usk to Monmouth are long and winding, with national speed limit roads. Children packed in like sardines, standing for 40 minutes, is just not acceptable, and I'm sure you'll agree with that. But, sadly, this was the case in Monmouthshire on the first day of term, with multiple parents and pupils contacting me, with issues—similar issues, actually—flagged all over Monmouthshire and Torfaen. How can we possibly be in a situation where children have to have their own seat and even wear a seat belt for school trips, but this is acceptable?\n\nCost-cutting exercises by councils—and we all know they're strapped for cash—should never come at the expense of children's safety and well-being. Trefnydd, on that note, I would like to request an urgent statement from the Cabinet Minister responsible as to when this policy will be reviewed to ensure all children and young people get to school safely, on time and ready to learn. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=7141"
+        }
+      ],
+      "date": "2026-09-22",
+      "record_page_url": "https://record.senedd.wales/Plenary/16262"
+    },
     {
       "contributions": [
         {

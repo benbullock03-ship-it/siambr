@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "abstain"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,178 @@
   "canonical_name": "Anthony Slaughter",
   "constituency_name_cy": "Caerdydd Penarth",
   "constituency_name_en": "Caerdydd Penarth",
-  "contribution_count": 10,
+  "contribution_count": 24,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778978",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "8. How will the Welsh Government's draft budget for 2027-28 ensure adequate investment in climate resilience? OQ64696",
+          "text_original": "8. Sut y bydd cyllideb ddrafft Llywodraeth Cymru ar gyfer 2027-28 yn sicrhau buddsoddiad digonol o ran gwydnwch hinsawdd? OQ64696",
+          "tv_url": "http://www.senedd.tv/en/16316"
+        },
+        {
+          "id": "contribution-778987",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "en",
+          "t_start": 5576,
+          "text_english": "Diolch. I'm calling on the Welsh Government to create a new extreme weather resilience fund to invest in nature-based interventions to help mitigate the risks from extreme weather. Floods, droughts and wildfires are increasingly prevalent due to climate change, and nature-based solutions are some of the best available defences to protect our communities. If the climate emergency is a genuinely cross-government priority, funding needs to sit in every departmental budget to ensure that no area slips through the cracks.\n\nEvidence from WWF Cymru and others suggests that for relatively small amounts of money within each portfolio, we could see significant cross-cutting benefits, provided that all Welsh Ministers are prepared to show leadership. Can the Minister confirm the amount of money in this year's budget for climate resilience, and will you commit to reviewing existing departmental budgets to find opportunities for nature-based solutions to be ready for the next extreme weather event? Diolch.",
+          "text_original": "Diolch. I'm calling on the Welsh Government to create a new extreme weather resilience fund to invest in nature-based interventions to help mitigate the risks from extreme weather. Floods, droughts and wildfires are increasingly prevalent due to climate change, and nature-based solutions are some of the best available defences to protect our communities. If the climate emergency is a genuinely cross-government priority, funding needs to sit in every departmental budget to ensure that no area slips through the cracks.\n\nEvidence from WWF Cymru and others suggests that for relatively small amounts of money within each portfolio, we could see significant cross-cutting benefits, provided that all Welsh Ministers are prepared to show leadership. Can the Minister confirm the amount of money in this year's budget for climate resilience, and will you commit to reviewing existing departmental budgets to find opportunities for nature-based solutions to be ready for the next extreme weather event? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=5576"
+        }
+      ],
+      "date": "2026-10-14",
+      "record_page_url": "https://record.senedd.wales/Plenary/16316"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-778453",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "10. What plans does the Welsh Government have to deliver its commitments to ensure that everyone has a safe and affordable home? OQ64698",
+          "text_original": "10. Pa gynlluniau sydd gan Lywodraeth Cymru i gyflawni ei hymrwymiadau i sicrhau bod gan bawb gartref diogel a fforddiadwy? OQ64698",
+          "tv_url": "http://www.senedd.tv/en/16315"
+        },
+        {
+          "id": "contribution-778457",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 3600,
+          "text_english": "Diolch, Brif Weinidog. There are currently over 10,000 people in temporary accommodation across Wales, including over 2,000 children. I welcome that the Government has set out its ambition to deliver 20,000 new social homes by the end of this Senedd. However, the latest data from Shelter Cymru suggests that there at least 94,000 households currently on a waiting list for a social home.\n\nWill the First Minister commit to publishing a new housing strategy as soon as possible, including the Government's plans for ending homelessness? What steps will you be taking to ensure that everyone in Wales is supported to access a safe and affordable home?",
+          "text_original": "Diolch, Brif Weinidog. There are currently over 10,000 people in temporary accommodation across Wales, including over 2,000 children. I welcome that the Government has set out its ambition to deliver 20,000 new social homes by the end of this Senedd. However, the latest data from Shelter Cymru suggests that there at least 94,000 households currently on a waiting list for a social home.\n\nWill the First Minister commit to publishing a new housing strategy as soon as possible, including the Government's plans for ending homelessness? What steps will you be taking to ensure that everyone in Wales is supported to access a safe and affordable home?",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=3600"
+        }
+      ],
+      "date": "2026-10-13",
+      "record_page_url": "https://record.senedd.wales/Plenary/16315"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776755",
+          "item_id": "item-16314-261007-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "4. What progress has the Welsh Government made on its plans to protect renters' rights? OQ64622",
+          "text_original": "4. Pa gynnydd y mae Llywodraeth Cymru wedi'i wneud o ran ei chynlluniau i amddiffyn hawliau rhentwyr? OQ64622",
+          "tv_url": "http://www.senedd.tv/en/16314"
+        },
+        {
+          "id": "contribution-776760",
+          "item_id": "item-16314-261007-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
+          "lang": "en",
+          "t_start": 7481,
+          "text_english": "Diolch, Minister. Strengthening the rights and protection for renters is, as you know, fundamental for ending the housing emergency in Wales. The Government's response so far does not meet the scale of the challenge. We are approaching another winter where people will be living in cold, freezing, damp, inadequate homes, and this is already a crisis. Families in Wales are spending over a third of their income on rent in the private sector, and they are still subject to the risk of a no-fault eviction, something that has been outlawed in England and Scotland but not in Wales. People across Wales need reassurance that you will stand up for their rights and protect them from unscrupulous landlords. Will you commit to ending no-fault evictions at the earliest possible opportunity, and will you now commit to an immediate freezing of rents in the private rental sector to give people much needed breathing space in the cost-of-living crisis? Diolch.",
+          "text_original": "Diolch, Minister. Strengthening the rights and protection for renters is, as you know, fundamental for ending the housing emergency in Wales. The Government's response so far does not meet the scale of the challenge. We are approaching another winter where people will be living in cold, freezing, damp, inadequate homes, and this is already a crisis. Families in Wales are spending over a third of their income on rent in the private sector, and they are still subject to the risk of a no-fault eviction, something that has been outlawed in England and Scotland but not in Wales. People across Wales need reassurance that you will stand up for their rights and protect them from unscrupulous landlords. Will you commit to ending no-fault evictions at the earliest possible opportunity, and will you now commit to an immediate freezing of rents in the private rental sector to give people much needed breathing space in the cost-of-living crisis? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=7481"
+        },
+        {
+          "id": "contribution-776958",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "en",
+          "t_start": 16334,
+          "text_english": "I will try and be brief because I fear that just like this isn't the first time we've ended our day having this sort of debate, it won't be the last time that we have to stand up at the end of the day and rebut this ugly, divisive and hateful rhetoric. I am ashamed that we have to keep having this discussion. Going back to something that was said earlier today by the Minister: everyone has the right to a safe and adequate home. Everyone. Without it, how can you begin to build a life? How can you begin to participate and contribute to society? How can you begin to choose to call Wales your home as so many of us have? I repeat: the right to safe and adequate housing for everyone is a key test for this Senedd.\n\nAs I say, it's disappointing to see yet again more divisive rhetoric from the usual suspects in this Siambr, who are using—[Interruption.]—I can shout louder than you, believe me—what is a basic human right to stoke fear in our communities and cause division. Shame on you. When we say HMOs, the image that might come to mind may not be particularly pretty. But this image of what can be some of the worst quality, unsafe, overcrowded homes is now being used by Reform once again to scaremonger people about perceived dangers in their communities.\n\nThe situation in some HMOs isn't ideal. That doesn't take anything away from the fact that everyone deserves a place to live—a safe, secure and warm place to live. Due to the lack of social homes that so many of our colleagues have mentioned, people are stuck in the cheapest, inadequate private housing options. And Reform are disgracefully arguing again that we need to look after our own—what do the words even mean—while ignoring the fundamental problem that there are not enough good-quality, affordable homes for everyone who needs one. And I would like to pay credit again to the housing Minister for making that point so clearly earlier on today.\n\nForeign nationals or not, everyone needs somewhere to live. It is their human right. We need more social housing that meets the needs of everyone in our communities. Scarcity must not be used to pit communities against one another.\n\nThis motion is nonsensical, hateful and inflammatory. And words have real consequences. I have said this time and time again in this Siambr, but, sadly, it bears repeating. [Interruption.] No. Divisive rhetoric, such as we've heard today, only stands to cause division in our communities. And this fearmongering is the sort of thing that leads people to feel even more unsafe in their homes and communities than they already do. People across Wales see this for what it is. They see you for what you're saying.\n\nI represent the most diverse constituency in Wales, and its diversity makes Cardiff what it is today. People from around the world have chosen to make Cardiff their home, and the people of Cardiff will not allow you to divide our communities. People, time and time again, have stood up to this divisive rhetoric and shown solidarity with their neighbours.\n\nReform are not interested in community cohesion. Reform are not interested in finding housing solutions. Reform are only interested in dividing our communities to distract from the fact that you have no answers to the problems facing the people of Wales. Diolch.",
+          "text_original": "I will try and be brief because I fear that just like this isn't the first time we've ended our day having this sort of debate, it won't be the last time that we have to stand up at the end of the day and rebut this ugly, divisive and hateful rhetoric. I am ashamed that we have to keep having this discussion. Going back to something that was said earlier today by the Minister: everyone has the right to a safe and adequate home. Everyone. Without it, how can you begin to build a life? How can you begin to participate and contribute to society? How can you begin to choose to call Wales your home as so many of us have? I repeat: the right to safe and adequate housing for everyone is a key test for this Senedd.\n\nAs I say, it's disappointing to see yet again more divisive rhetoric from the usual suspects in this Siambr, who are using—[Interruption.]—I can shout louder than you, believe me—what is a basic human right to stoke fear in our communities and cause division. Shame on you. When we say HMOs, the image that might come to mind may not be particularly pretty. But this image of what can be some of the worst quality, unsafe, overcrowded homes is now being used by Reform once again to scaremonger people about perceived dangers in their communities.\n\nThe situation in some HMOs isn't ideal. That doesn't take anything away from the fact that everyone deserves a place to live—a safe, secure and warm place to live. Due to the lack of social homes that so many of our colleagues have mentioned, people are stuck in the cheapest, inadequate private housing options. And Reform are disgracefully arguing again that we need to look after our own—what do the words even mean—while ignoring the fundamental problem that there are not enough good-quality, affordable homes for everyone who needs one. And I would like to pay credit again to the housing Minister for making that point so clearly earlier on today.\n\nForeign nationals or not, everyone needs somewhere to live. It is their human right. We need more social housing that meets the needs of everyone in our communities. Scarcity must not be used to pit communities against one another.\n\nThis motion is nonsensical, hateful and inflammatory. And words have real consequences. I have said this time and time again in this Siambr, but, sadly, it bears repeating. [Interruption.] No. Divisive rhetoric, such as we've heard today, only stands to cause division in our communities. And this fearmongering is the sort of thing that leads people to feel even more unsafe in their homes and communities than they already do. People across Wales see this for what it is. They see you for what you're saying.\n\nI represent the most diverse constituency in Wales, and its diversity makes Cardiff what it is today. People from around the world have chosen to make Cardiff their home, and the people of Cardiff will not allow you to divide our communities. People, time and time again, have stood up to this divisive rhetoric and shown solidarity with their neighbours.\n\nReform are not interested in community cohesion. Reform are not interested in finding housing solutions. Reform are only interested in dividing our communities to distract from the fact that you have no answers to the problems facing the people of Wales. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=16334"
+        }
+      ],
+      "date": "2026-10-07",
+      "record_page_url": "https://record.senedd.wales/Plenary/16314"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771474",
+          "item_id": "item-16263-260923-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and Welsh Language",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "3. What is the Welsh Government doing to ensure that young people in Caerdydd Penarth have equal access to Welsh-medium high school education? OQ64509",
+          "text_original": "3. Beth mae Llywodraeth Cymru yn ei wneud i sicrhau bod gan bobl ifanc yng Nghaerdydd Penarth fynediad cyfartal at addysg ysgol uwchradd cyfrwng Cymraeg? OQ64509",
+          "tv_url": "http://www.senedd.tv/en/16263"
+        },
+        {
+          "id": "contribution-771479",
+          "item_id": "item-16263-260923-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and Welsh Language",
+          "lang": "en",
+          "t_start": 4744,
+          "text_english": "Thank you. Diolch. I know a family in Butetown whose daughter must leave the house by 7.30 a.m. every morning to get to Glantaf high school in time for registration—just one of many young people and their families whose decision to continue Welsh-language education wasn't and isn't straightforward. Travelling through an already broken transport system from one side of the city to another is not sustainable. It is expensive and difficult for parents, and stressful for vulnerable 11-year-olds starting high school. Many who want to stay for after-school clubs can't due to the lack of safe transport options home. The lack of access to Welsh-medium education for Grangetown, Butetown and the surrounding areas disproportionately impacts those on the doorstep of this very Siambr. I stand with the campaigners who call this a social injustice. It is structural discrimination against the most multicultural communities in our city. The public sector has a duty under the Equality Act 2010 to address the imbalance, irrespective of any discussions as to the viability of Callaghan Square—",
+          "text_original": "Thank you. Diolch. I know a family in Butetown whose daughter must leave the house by 7.30 a.m. every morning to get to Glantaf high school in time for registration—just one of many young people and their families whose decision to continue Welsh-language education wasn't and isn't straightforward. Travelling through an already broken transport system from one side of the city to another is not sustainable. It is expensive and difficult for parents, and stressful for vulnerable 11-year-olds starting high school. Many who want to stay for after-school clubs can't due to the lack of safe transport options home. The lack of access to Welsh-medium education for Grangetown, Butetown and the surrounding areas disproportionately impacts those on the doorstep of this very Siambr. I stand with the campaigners who call this a social injustice. It is structural discrimination against the most multicultural communities in our city. The public sector has a duty under the Equality Act 2010 to address the imbalance, irrespective of any discussions as to the viability of Callaghan Square—",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=4744"
+        },
+        {
+          "id": "contribution-771457",
+          "item_id": "item-16263-260923-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and Welsh Language",
+          "lang": "en",
+          "t_start": 4823,
+          "text_english": "—as a potential site. I'm aware, Minister, that you have previously expressed support for a fourth Welsh-medium secondary school in the city. While acknowledging Cardiff Council's ongoing role, what assurances can the Minister give to local families in south Cardiff of the Welsh Government's commitment to securing a Welsh-medium secondary school in de Caerdydd? Diolch.",
+          "text_original": "—as a potential site. I'm aware, Minister, that you have previously expressed support for a fourth Welsh-medium secondary school in the city. While acknowledging Cardiff Council's ongoing role, what assurances can the Minister give to local families in south Cardiff of the Welsh Government's commitment to securing a Welsh-medium secondary school in de Caerdydd? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=4823"
+        },
+        {
+          "id": "contribution-771724",
+          "item_id": "item-16263-260923-9",
+          "item_title_en": "9. Short Debate: The unacceptable pause in scheduled treatment for trans patients",
+          "lang": "en",
+          "t_start": 16032,
+          "text_english": "Diolch, Lywydd. The following Members will be speaking after my opening remarks: Sarah Rees, Natasha Asghar, Matthew Jones, Cristiana Emsley, Huw Thomas and Joe Martin.\n\nOver the past few weeks, my e-mails, like others, have been flooded with messages from people, distraught and disorientated. People who had surgeries cancelled at the eleventh hour with no explanation or option to reschedule. Patients, friends and family members desperate for answers as to why this had happened, what went wrong and how they could move forward.\n\nOn Friday, 28 August, three and a half weeks ago, hundreds of patients had their surgeries and surgical assessments suddenly paused while a clinical review was undertaken into Welsh gender services referrals. Many of these patients found out that their surgery would not be taking place while they were already in hospital. These are people who had spent years preparing, both physically and mentally, for this life-affirming surgery, which is recognised by medical organisations, professionals and NHS providers as being clinically effective at improving health outcomes and quality of life. They had jumped through every hoop asked of them, had arranged and rearranged their lives around this day. I listened to people who explained that they were left feeling abandoned, alone and confused, having had the rug pulled from under them at the very last second by the system that is supposed to care for them.\n\nNow, I wasn't planning on sharing this. However, when listening to the stories from my constituents and others, in my own way, I was able to relate to that agonising wait in the days leading up to planned surgery. Over recess, I underwent scheduled and serious surgery. Many of you might have noticed that I was somewhat absent over the summer, and the reason for that was I was preparing for surgery, in hospital and then in recovery. Over the summer, I experienced the reality of what prepping for surgery entailed, the physical and mental stress—something so many here will be able to relate to. When I walked onto that silent ward at 5.00 a.m., the wave of emotion I felt is difficult to put into words—the silence of the sleeping ward, the uncertainty, the fear.",
+          "text_original": "Diolch, Lywydd. The following Members will be speaking after my opening remarks: Sarah Rees, Natasha Asghar, Matthew Jones, Cristiana Emsley, Huw Thomas and Joe Martin.\n\nOver the past few weeks, my e-mails, like others, have been flooded with messages from people, distraught and disorientated. People who had surgeries cancelled at the eleventh hour with no explanation or option to reschedule. Patients, friends and family members desperate for answers as to why this had happened, what went wrong and how they could move forward.\n\nOn Friday, 28 August, three and a half weeks ago, hundreds of patients had their surgeries and surgical assessments suddenly paused while a clinical review was undertaken into Welsh gender services referrals. Many of these patients found out that their surgery would not be taking place while they were already in hospital. These are people who had spent years preparing, both physically and mentally, for this life-affirming surgery, which is recognised by medical organisations, professionals and NHS providers as being clinically effective at improving health outcomes and quality of life. They had jumped through every hoop asked of them, had arranged and rearranged their lives around this day. I listened to people who explained that they were left feeling abandoned, alone and confused, having had the rug pulled from under them at the very last second by the system that is supposed to care for them.\n\nNow, I wasn't planning on sharing this. However, when listening to the stories from my constituents and others, in my own way, I was able to relate to that agonising wait in the days leading up to planned surgery. Over recess, I underwent scheduled and serious surgery. Many of you might have noticed that I was somewhat absent over the summer, and the reason for that was I was preparing for surgery, in hospital and then in recovery. Over the summer, I experienced the reality of what prepping for surgery entailed, the physical and mental stress—something so many here will be able to relate to. When I walked onto that silent ward at 5.00 a.m., the wave of emotion I felt is difficult to put into words—the silence of the sleeping ward, the uncertainty, the fear.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=16032"
+        },
+        {
+          "id": "contribution-771709",
+          "item_id": "item-16263-260923-9",
+          "item_title_en": "9. Short Debate: The unacceptable pause in scheduled treatment for trans patients",
+          "lang": "en",
+          "t_start": 16202,
+          "text_english": "But what does provide solace in those scary moments? It's the knowledge that you are in the place where everyone is working around the clock to treat you, to care for you, to listen to you. You trust the system around you. Now, for some, that trust has been broken. To think that, today, right here in Wales, we have a system that, for a certain group of people, is felt to be actively working in opposition to their well-being is a terrifying thought, one that, had it been something that I had had to consider alongside everything else, would've made my personal experience exponentially so much more traumatic. To think that the right to access health and care for some people in this country is now up for debate is unthinkable. It is not how this system was designed to run.\n\nNow, my personal story is not what's important here. What is important is that the voices and experiences of the trans community are amplified and understood. One of the key principles on which our NHS is based is equal access to healthcare for all, regardless of age, gender or background. Another is that it has a patient-centred approach, putting individuals at the heart of their operations, providing a service that is reflective of their needs and their preferences.\n\nGender-affirming surgery has been available on the NHS since the 1960s, with thousands of surgeries performed each year. This is not experimental treatment and this should not be considered a controversial area of medicine. It is a well-established and highly studied area of medicine that the NHS has a legal and statutory duty to provide. The decision to pause these surgeries was ill-thought-out and callous. But it also demonstrates a failure of governance within NHS Wales Joint Commissioning Committee and sadly, a breakdown in communication with the Welsh Government. For patients to be told, just hours away from surgery, vulnerable but prepared, that their operation would not be going ahead, with no explanation, no indication of a rescheduled date and with no communication in the days following demonstrates a failure of the duty of care that patients are entitled to during one of the most significant events of their lives—a decision made seemingly without evidence of imminent or direct risk to patients and with no clear safety justification. How have we found ourselves in a situation where some of the supposed core values of the NHS appear to be less applicable to some patients than others? Why is the Welsh Gender Service being punished for being more efficient and effective than its English and Scottish counterparts?\n\nThe Welsh Greens are shouting loudly about this, because there's a dangerous precedent that this decision sets for human rights. This is not an ideological debate; everyone in Wales is entitled to NHS healthcare. Gender-affirming healthcare saves lives. We know, based on conversations with key stakeholders in the community, that, in June, the Welsh Gender Service was not aware of any concerns. But just two months later, the drastic escalation was made by the NWJCC to suspend all referrals and surgeries. NHS Wales's very own oversight and escalation framework, section 28, is designed to identify and address emerging issues before they have a material impact. This raises legitimate questions about how this situation rapidly evolved without any oversight or involvement from the Welsh Government. The Welsh Government should never have been surprised by this issue, nor should the NWJCC have been baffled by the discrepancy in referral numbers.\n\nPatients who had their surgeries paused had been referred in 2020, meaning that they'd waited six years just to get to this point, with months of mental and physical preparation for surgery. Now, trans people in this country disproportionately experience poorer mental health, and the impact of this uncertainty and of cancellations have only caused further harm and distrust. Key stakeholder groups and community members have been calling on Welsh Government Ministers to use their powers under the NHS (Wales) Act 2006 to overturn this pause and resume surgery. This was clearly a disproportionate and drastic decision given the lack of evidence of harm or malpractice. So, my question is: what powers do the Welsh Government have to intervene?\n\nThe trans community are constantly left fearing that they are an afterthought, that their health and well-being are always under attack, that their right to safety and security in Wales is not a given. What this community needs now more than ever is decisive action—proof that their Government will stand up for them and take the lead, not tiptoe around the edges. The trans community should not be left waiting yet again whilst having to justify their right to healthcare and justify their very existence. Again, this is not up for debate.\n\nWhen I walked into the Heath this summer with a clear timeline for surgery and recovery, there was not a doubt in my mind that I would be operated on, no doubt that I would be receiving aftercare and that my treatment plan would be thoroughly communicated. To think that there are some patients in Wales for whom that is now not their reality is horrifying. This decision has lost the trust of a vulnerable and consistently targeted group of people. Is this really the future we see in Wales, where healthcare becomes selective? The Welsh Government needs to act now, and I call on the Minister to answer the unanswered questions from community stakeholders. What is the exact nature of the so-called concerns cited by the NWJCC? How do these reflect a clear and immediate risk to patients to the extent that it required overnight cancellation of all planned surgeries?\n\nSecond, will the Welsh Government review the failure of governance that led to both patients and the Government being blindsided and put in place robust measures in consultation with the affected stakeholders to hold the NWJCC to account? Will the Welsh Government apologise to the trans community for the clear failure of communication that has left them in this unbearable limbo? Healthcare in Wales must be based on evidence, fairness and dignity, not on uncertainty, fear or political pressure. Diolch.",
+          "text_original": "But what does provide solace in those scary moments? It's the knowledge that you are in the place where everyone is working around the clock to treat you, to care for you, to listen to you. You trust the system around you. Now, for some, that trust has been broken. To think that, today, right here in Wales, we have a system that, for a certain group of people, is felt to be actively working in opposition to their well-being is a terrifying thought, one that, had it been something that I had had to consider alongside everything else, would've made my personal experience exponentially so much more traumatic. To think that the right to access health and care for some people in this country is now up for debate is unthinkable. It is not how this system was designed to run.\n\nNow, my personal story is not what's important here. What is important is that the voices and experiences of the trans community are amplified and understood. One of the key principles on which our NHS is based is equal access to healthcare for all, regardless of age, gender or background. Another is that it has a patient-centred approach, putting individuals at the heart of their operations, providing a service that is reflective of their needs and their preferences.\n\nGender-affirming surgery has been available on the NHS since the 1960s, with thousands of surgeries performed each year. This is not experimental treatment and this should not be considered a controversial area of medicine. It is a well-established and highly studied area of medicine that the NHS has a legal and statutory duty to provide. The decision to pause these surgeries was ill-thought-out and callous. But it also demonstrates a failure of governance within NHS Wales Joint Commissioning Committee and sadly, a breakdown in communication with the Welsh Government. For patients to be told, just hours away from surgery, vulnerable but prepared, that their operation would not be going ahead, with no explanation, no indication of a rescheduled date and with no communication in the days following demonstrates a failure of the duty of care that patients are entitled to during one of the most significant events of their lives—a decision made seemingly without evidence of imminent or direct risk to patients and with no clear safety justification. How have we found ourselves in a situation where some of the supposed core values of the NHS appear to be less applicable to some patients than others? Why is the Welsh Gender Service being punished for being more efficient and effective than its English and Scottish counterparts?\n\nThe Welsh Greens are shouting loudly about this, because there's a dangerous precedent that this decision sets for human rights. This is not an ideological debate; everyone in Wales is entitled to NHS healthcare. Gender-affirming healthcare saves lives. We know, based on conversations with key stakeholders in the community, that, in June, the Welsh Gender Service was not aware of any concerns. But just two months later, the drastic escalation was made by the NWJCC to suspend all referrals and surgeries. NHS Wales's very own oversight and escalation framework, section 28, is designed to identify and address emerging issues before they have a material impact. This raises legitimate questions about how this situation rapidly evolved without any oversight or involvement from the Welsh Government. The Welsh Government should never have been surprised by this issue, nor should the NWJCC have been baffled by the discrepancy in referral numbers.\n\nPatients who had their surgeries paused had been referred in 2020, meaning that they'd waited six years just to get to this point, with months of mental and physical preparation for surgery. Now, trans people in this country disproportionately experience poorer mental health, and the impact of this uncertainty and of cancellations have only caused further harm and distrust. Key stakeholder groups and community members have been calling on Welsh Government Ministers to use their powers under the NHS (Wales) Act 2006 to overturn this pause and resume surgery. This was clearly a disproportionate and drastic decision given the lack of evidence of harm or malpractice. So, my question is: what powers do the Welsh Government have to intervene?\n\nThe trans community are constantly left fearing that they are an afterthought, that their health and well-being are always under attack, that their right to safety and security in Wales is not a given. What this community needs now more than ever is decisive action—proof that their Government will stand up for them and take the lead, not tiptoe around the edges. The trans community should not be left waiting yet again whilst having to justify their right to healthcare and justify their very existence. Again, this is not up for debate.\n\nWhen I walked into the Heath this summer with a clear timeline for surgery and recovery, there was not a doubt in my mind that I would be operated on, no doubt that I would be receiving aftercare and that my treatment plan would be thoroughly communicated. To think that there are some patients in Wales for whom that is now not their reality is horrifying. This decision has lost the trust of a vulnerable and consistently targeted group of people. Is this really the future we see in Wales, where healthcare becomes selective? The Welsh Government needs to act now, and I call on the Minister to answer the unanswered questions from community stakeholders. What is the exact nature of the so-called concerns cited by the NWJCC? How do these reflect a clear and immediate risk to patients to the extent that it required overnight cancellation of all planned surgeries?\n\nSecond, will the Welsh Government review the failure of governance that led to both patients and the Government being blindsided and put in place robust measures in consultation with the affected stakeholders to hold the NWJCC to account? Will the Welsh Government apologise to the trans community for the clear failure of communication that has left them in this unbearable limbo? Healthcare in Wales must be based on evidence, fairness and dignity, not on uncertainty, fear or political pressure. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=16202"
+        }
+      ],
+      "date": "2026-09-23",
+      "record_page_url": "https://record.senedd.wales/Plenary/16263"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-770743",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "3. What is the Welsh Government doing to prepare for adverse and extreme weather events this winter? OQ64508",
+          "text_original": "3. Beth mae Llywodraeth Cymru yn ei wneud i baratoi ar gyfer digwyddiadau tywydd garw ac eithafol y gaeaf hwn? OQ64508",
+          "tv_url": "http://www.senedd.tv/en/16262"
+        },
+        {
+          "id": "contribution-770746",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 1752,
+          "text_english": "Thank you. Last week, First Minister, you issued a statement saying that you will convene a resilience summit focusing on wildfires—very much welcomed. Yet, we must be ready for all of the escalating risks of a changing climate. This includes extreme cold, winter flooding and severe storms this coming winter. The Met Office has warned of a heightened risk on the horizon due to an unprecedented El Niño event this year, only highlighted in shocking headlines yesterday, recording the record breaking of 150 years of records. Weaknesses in our infrastructure and our resilience, such as recently witnessed in Gwaelod-y-garth, will only become more apparent in the coming months.\n\nWales is dangerously unprepared for the predicted onslaught of extreme weather conditions. Climate response must be integrated as our first line of defence. Welsh Government allocated in its supplementary budget just £1 million for emergency preparedness. Establishing a climate shock fund would be a vital step forward in demonstrating that the Welsh Government is serious about protecting communities this winter, with or without UK Government support. What discussions has the First Minister had with the UK Government on funding these emergency measures? Diolch.",
+          "text_original": "Thank you. Last week, First Minister, you issued a statement saying that you will convene a resilience summit focusing on wildfires—very much welcomed. Yet, we must be ready for all of the escalating risks of a changing climate. This includes extreme cold, winter flooding and severe storms this coming winter. The Met Office has warned of a heightened risk on the horizon due to an unprecedented El Niño event this year, only highlighted in shocking headlines yesterday, recording the record breaking of 150 years of records. Weaknesses in our infrastructure and our resilience, such as recently witnessed in Gwaelod-y-garth, will only become more apparent in the coming months.\n\nWales is dangerously unprepared for the predicted onslaught of extreme weather conditions. Climate response must be integrated as our first line of defence. Welsh Government allocated in its supplementary budget just £1 million for emergency preparedness. Establishing a climate shock fund would be a vital step forward in demonstrating that the Welsh Government is serious about protecting communities this winter, with or without UK Government support. What discussions has the First Minister had with the UK Government on funding these emergency measures? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=1752"
+        }
+      ],
+      "date": "2026-09-22",
+      "record_page_url": "https://record.senedd.wales/Plenary/16262"
+    },
     {
       "contributions": [
         {

@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,200 @@
   "canonical_name": "Sarah Rees",
   "constituency_name_cy": "Pen-y-bont Bro Morgannwg",
   "constituency_name_en": "Pen-y-bont Bro Morgannwg",
-  "contribution_count": 25,
+  "contribution_count": 40,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778948",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "6. How will the Cabinet Minister ensure that gender budgeting becomes an integral part of budget development, decision making and scrutiny during this Senedd? OQ64710",
+          "text_original": "6. Sut fydd y Gweinidog Cabinet yn sicrhau bod cyllidebu rhywedd yn dod yn rhan annatod o ddatblygu, gwneud penderfyniadau a chraffu ar y gyllideb yn ystod y Senedd hon? OQ64710",
+          "tv_url": "http://www.senedd.tv/en/16316"
+        },
+        {
+          "id": "contribution-778950",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "en",
+          "t_start": 5172,
+          "text_english": "Diolch. I welcome that this Government is working towards its manifesto commitment to embed gender budgeting in Wales. International best practice places that responsibility for this with the Treasury—in that case, you, Minister—because budget decisions shape people's everyday lives. Gender budgeting can seem complex, so I'll attempt an everyday analogy: a good cook does not wait until the guests have eaten to find out whether their recipe worked. Tasting, or testing, happens beforehand, and Government should be no different. Gender budgeting is about assessing the impact of spending decisions before they are made, rather than discovering too late that they've deepened existing inequalities. The case in Wales is stark. Women are three times more likely than men to work part time, three and a half times more likely to be economically inactive, because of caring responsibilities, and face a gender pay gap of 11.8 per cent. So, Minister, what leadership will you show to embed gender budgeting across Government?",
+          "text_original": "Diolch. I welcome that this Government is working towards its manifesto commitment to embed gender budgeting in Wales. International best practice places that responsibility for this with the Treasury—in that case, you, Minister—because budget decisions shape people's everyday lives. Gender budgeting can seem complex, so I'll attempt an everyday analogy: a good cook does not wait until the guests have eaten to find out whether their recipe worked. Tasting, or testing, happens beforehand, and Government should be no different. Gender budgeting is about assessing the impact of spending decisions before they are made, rather than discovering too late that they've deepened existing inequalities. The case in Wales is stark. Women are three times more likely than men to work part time, three and a half times more likely to be economically inactive, because of caring responsibilities, and face a gender pay gap of 11.8 per cent. So, Minister, what leadership will you show to embed gender budgeting across Government?",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=5172"
+        }
+      ],
+      "date": "2026-10-14",
+      "record_page_url": "https://record.senedd.wales/Plenary/16316"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-778356",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "2. What action is the Government taking to support the creation of community energy projects and ensure that the benefits of Wales’s natural resources are retained in Wales? OQ64708",
+          "text_original": "2. Pa gamau mae'r Llywodraeth yn eu cymryd i gefnogi'r gwaith o greu prosiectau ynni cymunedol a sicrhau bod manteision adnoddau naturiol Cymru yn cael eu cadw yng Nghymru? OQ64708",
+          "tv_url": "http://www.senedd.tv/en/16315"
+        },
+        {
+          "id": "contribution-778358",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 371,
+          "text_english": "First Minister, I'm proud to support a grass-roots campaign in Pen-y-bont Bro Morgannwg to stop the proposed small modular reactor nuclear project in the Llynfi valley by Last Energy. More extractive and harmful projects are not what our post-industrial communities deserve. It's no surprise why they have selected one of our most deprived communities to pilot this new nuclear technology. Campaigners across the constituency are calling out for renewable energy projects that they can directly benefit from, and that's why we're exploring alternative energy options within the constituency rather than accepting private organisations coming in to extract the profits from our communities. So, Prif Weinidog, will you reaffirm this Government's ambition to ensure that our communities benefit from energy projects?",
+          "text_original": "First Minister, I'm proud to support a grass-roots campaign in Pen-y-bont Bro Morgannwg to stop the proposed small modular reactor nuclear project in the Llynfi valley by Last Energy. More extractive and harmful projects are not what our post-industrial communities deserve. It's no surprise why they have selected one of our most deprived communities to pilot this new nuclear technology. Campaigners across the constituency are calling out for renewable energy projects that they can directly benefit from, and that's why we're exploring alternative energy options within the constituency rather than accepting private organisations coming in to extract the profits from our communities. So, Prif Weinidog, will you reaffirm this Government's ambition to ensure that our communities benefit from energy projects?",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=371"
+        }
+      ],
+      "date": "2026-10-13",
+      "record_page_url": "https://record.senedd.wales/Plenary/16315"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776684",
+          "item_id": "item-16314-261007-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Health and Care",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "5. What action is the Cabinet Minister taking to improve communication between NHS organisations and patients in Pen-y-bont Bro Morgannwg and more widely across Wales? OQ64657",
+          "text_original": "5. Pa gamau y mae'r Gweinidog Cabinet yn eu cymryd i wella cyfathrebu rhwng sefydliadau'r GIG a chleifion ym Mhen-y-bont Bro Morgannwg a ledled Cymru? OQ64657",
+          "tv_url": "http://www.senedd.tv/en/16314"
+        },
+        {
+          "id": "contribution-776697",
+          "item_id": "item-16314-261007-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Health and Care",
+          "lang": "en",
+          "t_start": 4515,
+          "text_english": "Diolch, Weinidog. Patients in Pen-y-bont Bro Morgannwg tell me that they are left chasing health boards for basic information about appointments, waiting lists and treatment plans, and are sometimes given conflicting information by different parts of the NHS. Poor communication isn't limited to patients and service providers. In a recent case that I dealt with, a cancer patient was referred by their health board, Cwm Taf Morgannwg, to Swansea bay to receive a biopsy. When concerns were raised about delays in receiving their results, neither health board took any accountability to provide the update.\n\nDoes the Cabinet Minister accept that this is not simply an inconvenience, but an unacceptable failure of patient care? What action can be taken to ensure that patients are kept properly informed throughout their treatment journey?",
+          "text_original": "Diolch, Weinidog. Patients in Pen-y-bont Bro Morgannwg tell me that they are left chasing health boards for basic information about appointments, waiting lists and treatment plans, and are sometimes given conflicting information by different parts of the NHS. Poor communication isn't limited to patients and service providers. In a recent case that I dealt with, a cancer patient was referred by their health board, Cwm Taf Morgannwg, to Swansea bay to receive a biopsy. When concerns were raised about delays in receiving their results, neither health board took any accountability to provide the update.\n\nDoes the Cabinet Minister accept that this is not simply an inconvenience, but an unacceptable failure of patient care? What action can be taken to ensure that patients are kept properly informed throughout their treatment journey?",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=4515"
+        },
+        {
+          "id": "contribution-776961",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "en",
+          "t_start": 16053,
+          "text_english": "Will you take an intervention?",
+          "text_original": "Will you take an intervention?",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=16053"
+        },
+        {
+          "id": "contribution-776963",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "en",
+          "t_start": 16076,
+          "text_english": "Thank you. So, would you agree that we shouldn't be placing that issue onto more vulnerable people, particularly people who are seeking asylum in the United Kingdom and end up in Wales? And so, we're just combating these two groups that are both in need of housing, when the issue itself is what needs to be resolved in supporting people who do actually deserve to have housing. We should have enough appropriate housing for everybody to live a safe life.",
+          "text_original": "Thank you. So, would you agree that we shouldn't be placing that issue onto more vulnerable people, particularly people who are seeking asylum in the United Kingdom and end up in Wales? And so, we're just combating these two groups that are both in need of housing, when the issue itself is what needs to be resolved in supporting people who do actually deserve to have housing. We should have enough appropriate housing for everybody to live a safe life.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=16076"
+        }
+      ],
+      "date": "2026-10-07",
+      "record_page_url": "https://record.senedd.wales/Plenary/16314"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-775834",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 621,
+          "text_english": "Prif Weinidog, as you've outlined, discussions about our international offices too often reduce them to a line in a budget, as if a desk abroad is simply a cost to be defended. But, as you said, an office is not just a desk, it's a doorway. The relationships we build with Governments and organisations overseas translate into direct benefits for the Welsh economy: trade routes opened, investment attracted, markets found for Welsh businesses, which no amount of domestic marketing can replicate. I don't know if that was an experience of the business owner, of the Member over there.\n\nSo, in an increasingly interconnected world, I believe that we must think global and act local, learning not only from our neighbours in Scotland and Ireland, but from all across the world. That's why programmes such as Taith's international learning exchanges are so important in forging those connections. So, may I ask if you agree with me, First Minister, that Welsh Government international offices should be measured not only in monetary value, but in the relationships they build—relationships that deliver real economic benefits for the people of Wales?",
+          "text_original": "Prif Weinidog, as you've outlined, discussions about our international offices too often reduce them to a line in a budget, as if a desk abroad is simply a cost to be defended. But, as you said, an office is not just a desk, it's a doorway. The relationships we build with Governments and organisations overseas translate into direct benefits for the Welsh economy: trade routes opened, investment attracted, markets found for Welsh businesses, which no amount of domestic marketing can replicate. I don't know if that was an experience of the business owner, of the Member over there.\n\nSo, in an increasingly interconnected world, I believe that we must think global and act local, learning not only from our neighbours in Scotland and Ireland, but from all across the world. That's why programmes such as Taith's international learning exchanges are so important in forging those connections. So, may I ask if you agree with me, First Minister, that Welsh Government international offices should be measured not only in monetary value, but in the relationships they build—relationships that deliver real economic benefits for the people of Wales?",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=621"
+        }
+      ],
+      "date": "2026-10-06",
+      "record_page_url": "https://record.senedd.wales/Plenary/16313"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-773499",
+          "item_id": "item-16265-260930-1",
+          "item_title_en": "1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice",
+          "lang": "en",
+          "t_start": 542,
+          "text_english": "It's encouraging that the Plaid Cymru Welsh Government is on track to deliver 12.5 hours of funded childcare per week across all 22 local authorities by the end of the financial year, a commitment that Welsh Labour promised but failed to deliver in its last five-year term in Government. Ashamedly, poverty has seeped throughout our nation. Whilst Flying Start was a good starting point, the Bevan Foundation warned that relying on this framework risks unequal access and lacks the flexibility that parents need. The phrase 'postcode lottery' has become synonymous with Flying Start. Tackling poverty and inequality requires decisive action. This is why people voted for Plaid Cymru. We have a vision for childcare that actually works for families and puts money back in their pockets, when the average weekly cost of a childcare place in Wales is £290 a week, £58 more a week than in England. Will the Cabinet Minister provide more information on the timeline for rolling out the remainder of the offer and what steps are being taken to ensure equal access to the universal childcare that will tackle the cost of living?",
+          "text_original": "It's encouraging that the Plaid Cymru Welsh Government is on track to deliver 12.5 hours of funded childcare per week across all 22 local authorities by the end of the financial year, a commitment that Welsh Labour promised but failed to deliver in its last five-year term in Government. Ashamedly, poverty has seeped throughout our nation. Whilst Flying Start was a good starting point, the Bevan Foundation warned that relying on this framework risks unequal access and lacks the flexibility that parents need. The phrase 'postcode lottery' has become synonymous with Flying Start. Tackling poverty and inequality requires decisive action. This is why people voted for Plaid Cymru. We have a vision for childcare that actually works for families and puts money back in their pockets, when the average weekly cost of a childcare place in Wales is £290 a week, £58 more a week than in England. Will the Cabinet Minister provide more information on the timeline for rolling out the remainder of the offer and what steps are being taken to ensure equal access to the universal childcare that will tackle the cost of living?",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=542"
+        },
+        {
+          "id": "contribution-773849",
+          "item_id": "item-16265-260930-8",
+          "item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+          "lang": "en",
+          "t_start": 16306,
+          "text_english": "Diolch. Here in Cymru, we had a proud tradition of peace activism. Many of us can trace our family history back to a woman who signed the Welsh women's peace petition. St Fagans held a powerful exhibition tracing that journey from the women who organised for peace in the aftermath of the first world war to the women of Greenham Common who sacrificed so much in their campaign against nuclear weapons. Once again, we find ourselves living through turbulent times with devastating conflicts unfolding across the world. And, of course, there remains a pragmatic need for defence, and we must engage honestly with that reality.\n\nI welcome the work that this Plaid Cymru Government is undertaking to develop an ethical defence investment framework. It presents a real opportunity to build on the Scottish Government's human rights due diligence approach, which evaluates businesses before they receive public grants or investment, and to establish a gold standard for ethical investment here in Wales. This framework is the first of its kind in Cymru, and Wales can be world-leading in setting clear expectations that public money should never support companies linked to human rights abuses or violations of international law. It allows us to stand on the shoulders of those women who came before us and carry forward their commitment to peace, justice and ethical leadership. Whether the conflict is in Gaza, South Sudan or Ukraine, we should be clear in our determination that no weapon manufactured, even in part, in Wales should ever be used in a way that breaches international human rights law.\n\nGlobal responsibility is not just about following money. It is about ensuring Wales is never complicit in human rights abuses, and that our economic choices reflect our commitment to peace, justice and international solidarity. But we must also be honest about the wider questions this debate raises. Defence spending is often presented as an economic opportunity, but what kind of economy do we want to build here in Wales? The people of Wales elected this Plaid Cymru Government with a mandate for a different kind of economy, an economy that places our people and communities at its heart. They voted for an economic model rooted in ownership and community wealth, ensuring that wealth generated in Wales remains in Wales, building stronger communities, creating opportunity and delivering prosperity that is shared by all. If that is our ambition, then we must also ask who owns Wales's arms and defence manufacturing facilities and whose interests they serve. In many cases, ownership rests with large multinational corporations and private firms whose primary responsibility is to shareholders—",
+          "text_original": "Diolch. Here in Cymru, we had a proud tradition of peace activism. Many of us can trace our family history back to a woman who signed the Welsh women's peace petition. St Fagans held a powerful exhibition tracing that journey from the women who organised for peace in the aftermath of the first world war to the women of Greenham Common who sacrificed so much in their campaign against nuclear weapons. Once again, we find ourselves living through turbulent times with devastating conflicts unfolding across the world. And, of course, there remains a pragmatic need for defence, and we must engage honestly with that reality.\n\nI welcome the work that this Plaid Cymru Government is undertaking to develop an ethical defence investment framework. It presents a real opportunity to build on the Scottish Government's human rights due diligence approach, which evaluates businesses before they receive public grants or investment, and to establish a gold standard for ethical investment here in Wales. This framework is the first of its kind in Cymru, and Wales can be world-leading in setting clear expectations that public money should never support companies linked to human rights abuses or violations of international law. It allows us to stand on the shoulders of those women who came before us and carry forward their commitment to peace, justice and ethical leadership. Whether the conflict is in Gaza, South Sudan or Ukraine, we should be clear in our determination that no weapon manufactured, even in part, in Wales should ever be used in a way that breaches international human rights law.\n\nGlobal responsibility is not just about following money. It is about ensuring Wales is never complicit in human rights abuses, and that our economic choices reflect our commitment to peace, justice and international solidarity. But we must also be honest about the wider questions this debate raises. Defence spending is often presented as an economic opportunity, but what kind of economy do we want to build here in Wales? The people of Wales elected this Plaid Cymru Government with a mandate for a different kind of economy, an economy that places our people and communities at its heart. They voted for an economic model rooted in ownership and community wealth, ensuring that wealth generated in Wales remains in Wales, building stronger communities, creating opportunity and delivering prosperity that is shared by all. If that is our ambition, then we must also ask who owns Wales's arms and defence manufacturing facilities and whose interests they serve. In many cases, ownership rests with large multinational corporations and private firms whose primary responsibility is to shareholders—",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=16306"
+        },
+        {
+          "id": "contribution-773854",
+          "item_id": "item-16265-260930-8",
+          "item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+          "lang": "en",
+          "t_start": 16476,
+          "text_english": "No, I won't. \n\nRather than to communities in which they operate. When we talk about wealth leaking from Wales, this is exactly what we mean. Wealth created by Welsh workers and Welsh communities flowing out of Wales, rather than being reinvested in the places that need it most. That also raises questions about who gets to make decisions with profound consequences for peace, security and human rights. Those decisions should be guided by the public interest, ethical responsibility and respect for human rights, not by commercial priorities alone.\n\nAnd there is the question of jobs. We must be willing to ask whether it’s right that military bases and defence manufacturing facilities are concentrated in civilian communities and what the consequences of those choices are. A leaked Russian strike list by a senior Senator shows a map of UK military and industrial sites, with Merthyr Tydfil as a potential target due to the General Dynamics facility there. Hosting facilities in Welsh communities inevitably ties the safety and everyday lives of civilian towns to international conflict. This is a reality that we can't ignore. Is it fair that some of our poorest communities are expected to shoulder those risks while being denied the investment they need to thrive? Is it fair that working-class people are presented with a choice between employment in the defence industry or economic insecurity? Is that really a choice at all?\n\nThe work this Government is undertaking on an ethical defence investment framework is both necessary and timely. I wish to thank the Welsh Conservatives for bringing forward this debate because it gives us an opportunity to reflect on the kind of Wales we want to build. I believe there is one principle on which we can all agree: any investment connected to defence must be consistent with international law and fundamental human rights. As we shape Wales's future, those values must remain at the heart of the decisions we make.",
+          "text_original": "No, I won't. \n\nRather than to communities in which they operate. When we talk about wealth leaking from Wales, this is exactly what we mean. Wealth created by Welsh workers and Welsh communities flowing out of Wales, rather than being reinvested in the places that need it most. That also raises questions about who gets to make decisions with profound consequences for peace, security and human rights. Those decisions should be guided by the public interest, ethical responsibility and respect for human rights, not by commercial priorities alone.\n\nAnd there is the question of jobs. We must be willing to ask whether it’s right that military bases and defence manufacturing facilities are concentrated in civilian communities and what the consequences of those choices are. A leaked Russian strike list by a senior Senator shows a map of UK military and industrial sites, with Merthyr Tydfil as a potential target due to the General Dynamics facility there. Hosting facilities in Welsh communities inevitably ties the safety and everyday lives of civilian towns to international conflict. This is a reality that we can't ignore. Is it fair that some of our poorest communities are expected to shoulder those risks while being denied the investment they need to thrive? Is it fair that working-class people are presented with a choice between employment in the defence industry or economic insecurity? Is that really a choice at all?\n\nThe work this Government is undertaking on an ethical defence investment framework is both necessary and timely. I wish to thank the Welsh Conservatives for bringing forward this debate because it gives us an opportunity to reflect on the kind of Wales we want to build. I believe there is one principle on which we can all agree: any investment connected to defence must be consistent with international law and fundamental human rights. As we shape Wales's future, those values must remain at the heart of the decisions we make.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=16476"
+        }
+      ],
+      "date": "2026-09-30",
+      "record_page_url": "https://record.senedd.wales/Plenary/16265"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771591",
+          "item_id": "item-16263-260923-5",
+          "item_title_en": "5. 90-second Statements",
+          "lang": "en",
+          "t_start": 7882,
+          "text_english": "Last Friday marked International Equal Pay Day, a UN awareness day of gender inequality and the gender pay gap between men and women. Sadly, this is a pressing issue for Wales. The latest state of the nation report on gender equality by the Women's Equality Network Wales exposed that the gender pay gap in Wales has widened to 9.7 per cent. On average, female employees earn £15.78 per hour, whilst male employees earn £17.48. Compared to men, women are over three times more likely to be out of the job market due to caring responsibilities. Women are also three times more likely to work part-time, which is limiting to earnings and progression. And women are more likely to work in sectors and roles that are lower paid, such as health and social care. We need change. \n\nBarriers to economic equality, like unequal caring responsibilities and gender stereotypes, must be challenged. Women must be supported to access better paid jobs, skills and training programmes throughout their careers, and we must have robust and inclusive policies on flexible working, harassment, menopause and parental leave. This International Equal Pay Day, I urge all colleagues across the Senedd to champion gender equality and help create a Wales free from gender discrimination. Diolch yn fawr.",
+          "text_original": "Last Friday marked International Equal Pay Day, a UN awareness day of gender inequality and the gender pay gap between men and women. Sadly, this is a pressing issue for Wales. The latest state of the nation report on gender equality by the Women's Equality Network Wales exposed that the gender pay gap in Wales has widened to 9.7 per cent. On average, female employees earn £15.78 per hour, whilst male employees earn £17.48. Compared to men, women are over three times more likely to be out of the job market due to caring responsibilities. Women are also three times more likely to work part-time, which is limiting to earnings and progression. And women are more likely to work in sectors and roles that are lower paid, such as health and social care. We need change. \n\nBarriers to economic equality, like unequal caring responsibilities and gender stereotypes, must be challenged. Women must be supported to access better paid jobs, skills and training programmes throughout their careers, and we must have robust and inclusive policies on flexible working, harassment, menopause and parental leave. This International Equal Pay Day, I urge all colleagues across the Senedd to champion gender equality and help create a Wales free from gender discrimination. Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=7882"
+        },
+        {
+          "id": "contribution-771895",
+          "item_id": "item-16263-260923-9",
+          "item_title_en": "9. Short Debate: The unacceptable pause in scheduled treatment for trans patients",
+          "lang": "en",
+          "t_start": 16678,
+          "text_english": "Diolch. I speak here as a representative of a recognised, protected minority group, not only for transgender and non-binary people in my own constituency, but for transgender people right across Wales. I heard their voices, almost 100 of whom came to a public meeting that I hosted with Matthew Jones MS in the days after the shocking news of this pause in surgery for Welsh patients, to understand the true impact of this unprecedented action. The strongest thing I heard, 'Nothing about us without us.'\n\nThe parameters of the assessment were to ensure that no clinical harm came to patients, yet patients subjected to this review have already faced what the NWJCC have accepted is a significant level of psychiatric harm. The NWJCC have also confirmed today that the pause will remain in place until the necessary clinical assurances have been received. So, I must ask the Minister their question and not mine: are you assured that the evidence gathered by the NWJCC warrants this completely unprecedented pause? And will the Welsh Government individually review how a decision of this magnitude can be made without warning to Government, the Welsh Gender Service, or to patients?\n\nFinally, I call on every decent human being to stand with the trans community. When you hear someone question a person's identity, call it out. This isn't harmless banter. It results in people surviving instead of thriving. Minority groups are not a political tool. Trans lives matter and trans healthcare is a human right.",
+          "text_original": "Diolch. I speak here as a representative of a recognised, protected minority group, not only for transgender and non-binary people in my own constituency, but for transgender people right across Wales. I heard their voices, almost 100 of whom came to a public meeting that I hosted with Matthew Jones MS in the days after the shocking news of this pause in surgery for Welsh patients, to understand the true impact of this unprecedented action. The strongest thing I heard, 'Nothing about us without us.'\n\nThe parameters of the assessment were to ensure that no clinical harm came to patients, yet patients subjected to this review have already faced what the NWJCC have accepted is a significant level of psychiatric harm. The NWJCC have also confirmed today that the pause will remain in place until the necessary clinical assurances have been received. So, I must ask the Minister their question and not mine: are you assured that the evidence gathered by the NWJCC warrants this completely unprecedented pause? And will the Welsh Government individually review how a decision of this magnitude can be made without warning to Government, the Welsh Gender Service, or to patients?\n\nFinally, I call on every decent human being to stand with the trans community. When you hear someone question a person's identity, call it out. This isn't harmless banter. It results in people surviving instead of thriving. Minority groups are not a political tool. Trans lives matter and trans healthcare is a human right.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=16678"
+        }
+      ],
+      "date": "2026-09-23",
+      "record_page_url": "https://record.senedd.wales/Plenary/16263"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771051",
+          "item_id": "item-16262-260922-5",
+          "item_title_en": "5. Statement by the Cabinet Minister for Enterprise, Connectivity and Energy: Welsh Defence Ethical Framework",
+          "lang": "en",
+          "t_start": 13870,
+          "text_english": "Whilst foreign affairs and arms export licences are reserved to Westminster, decisions about how Welsh public money is spent are made here in Cymru. Plaid Cymru demonstrated leadership, acting on a long legacy of peace, leading the Senedd's endorsement for ceasefire in Gaza in 2023, the first nation to do so. This small act led to huge hope for a nation who, I assure you, felt all hope was lost. Now, in Government, Plaid Cymru can go even further by showing leadership on international human rights law.\n\nA freedom of information request by Amnesty International found that the previous Labour Welsh Government had given £500,000 to a company supplying military components to Israel, despite assurance otherwise from the then First Minister. This shows a clear need for accountability and a more responsible way of investing in our communities, so it's reassuring to hear that this Welsh Government is committed to taking a different approach, developing this defence ethical framework, which no previous administration has done, establishing a clear and ethical approach to defence and security in Wales grounded in human rights, international law and our commitment to peace.\n\nRecognising the genocide in Gaza was a starting point, and concrete action is now what we need to follow. So, will the Minister please confirm what difference this ethical framework will make in the manufacture and export of arms in Wales, and what are the expectations on companies once that framework has been launched?",
+          "text_original": "Whilst foreign affairs and arms export licences are reserved to Westminster, decisions about how Welsh public money is spent are made here in Cymru. Plaid Cymru demonstrated leadership, acting on a long legacy of peace, leading the Senedd's endorsement for ceasefire in Gaza in 2023, the first nation to do so. This small act led to huge hope for a nation who, I assure you, felt all hope was lost. Now, in Government, Plaid Cymru can go even further by showing leadership on international human rights law.\n\nA freedom of information request by Amnesty International found that the previous Labour Welsh Government had given £500,000 to a company supplying military components to Israel, despite assurance otherwise from the then First Minister. This shows a clear need for accountability and a more responsible way of investing in our communities, so it's reassuring to hear that this Welsh Government is committed to taking a different approach, developing this defence ethical framework, which no previous administration has done, establishing a clear and ethical approach to defence and security in Wales grounded in human rights, international law and our commitment to peace.\n\nRecognising the genocide in Gaza was a starting point, and concrete action is now what we need to follow. So, will the Minister please confirm what difference this ethical framework will make in the manufacture and export of arms in Wales, and what are the expectations on companies once that framework has been launched?",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=13870"
+        }
+      ],
+      "date": "2026-09-22",
+      "record_page_url": "https://record.senedd.wales/Plenary/16262"
+    },
     {
       "contributions": [
         {

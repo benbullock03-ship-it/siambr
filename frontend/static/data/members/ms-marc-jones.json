@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,122 @@
   "canonical_name": "Marc Jones",
   "constituency_name_cy": "Fflint Wrecsam",
   "constituency_name_en": "Fflint Wrecsam",
-  "contribution_count": 10,
+  "contribution_count": 19,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778976",
+          "item_id": "item-16316-261014-5",
+          "item_title_en": "4. 90-second Statements",
+          "lang": "en",
+          "t_start": 5830,
+          "text_english": "There aren't many tougher games than rugby league, but imagine trying to play it in a wheelchair. That's what the Cymru wheelchair rugby league squad is going to be doing later this month as it heads out to Australia to compete in the world cup. As you can imagine, they've had to overcome many obstacles to get this far. I went to support them during their last practice session held in my constituency earlier this year, and they'd just been told their shirt sponsor had pulled out, leaving them £10,000 short of vital funding to get there.\n\nBut these men and women, because it's a mixed squad, like a challenge, they embrace it, and they didn't flinch when it came to raising this £10,000. They set about raising it via a crowdfunder to put Cymru on their shirts rather than a sponsor. I kind of like that, so I thought I'd support it as well. I'm delighted to inform this Senedd that they hit their target last week, they hit their £10,000, and everyone gets to go on the trip of a lifetime. It's a measure of their determination to succeed regardless of the challenges life throws at them. And just to make it extra spicy, their first game in the world cup is against England. So, I'm sure you'll join me in wishing them all the very best in that game. Diolch yn fawr iawn.",
+          "text_original": "There aren't many tougher games than rugby league, but imagine trying to play it in a wheelchair. That's what the Cymru wheelchair rugby league squad is going to be doing later this month as it heads out to Australia to compete in the world cup. As you can imagine, they've had to overcome many obstacles to get this far. I went to support them during their last practice session held in my constituency earlier this year, and they'd just been told their shirt sponsor had pulled out, leaving them £10,000 short of vital funding to get there.\n\nBut these men and women, because it's a mixed squad, like a challenge, they embrace it, and they didn't flinch when it came to raising this £10,000. They set about raising it via a crowdfunder to put Cymru on their shirts rather than a sponsor. I kind of like that, so I thought I'd support it as well. I'm delighted to inform this Senedd that they hit their target last week, they hit their £10,000, and everyone gets to go on the trip of a lifetime. It's a measure of their determination to succeed regardless of the challenges life throws at them. And just to make it extra spicy, their first game in the world cup is against England. So, I'm sure you'll join me in wishing them all the very best in that game. Diolch yn fawr iawn.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=5830"
+        }
+      ],
+      "date": "2026-10-14",
+      "record_page_url": "https://record.senedd.wales/Plenary/16316"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776746",
+          "item_id": "item-16314-261007-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
+          "lang": "cy",
+          "t_start": 6922,
+          "text_english": "Thank you. I'll keep this short, then.",
+          "text_original": "Diolch. Mi wnaf i gadw hwn yn fyr.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=6922"
+        },
+        {
+          "id": "contribution-776743",
+          "item_id": "item-16314-261007-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "3. How is the Cabinet Minister improving community engagement on local development plans? OQ64665",
+          "text_original": "3. Sut mae'r Gweinidog Cabinet yn gwella gwaith ymgysylltu â'r gymuned ar gynlluniau datblygu lleol? OQ64665",
+          "tv_url": "http://www.senedd.tv/en/16314"
+        },
+        {
+          "id": "contribution-776750",
+          "item_id": "item-16314-261007-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
+          "lang": "en",
+          "t_start": 6951,
+          "text_english": "Diolch yn fawr iawn. In December 2023, Wrexham councillors were forced, under threat of imprisonment, to vote for a local development plan that was not fit for purpose. The plan was based on population projections that were spectacularly wrong. Following a lengthy court battle, brought by councillors, including me, against the previous Welsh Government and housing developers, the High Court quashed the council's decision to adopt its LDP. To cut a long story short, to suit the Llywydd, the LDP has now been withdrawn and the council is preparing a new plan. As a former councillor, I want to improve the planning system throughout Wales by ensuring greater community engagement and involvement in the process. To test that, will the Minister consider Wrexham as a pilot scheme to ensure that the local voice is heard loud and clear in the planning process, and that we never again see local elected representatives threatened with jail for standing up for their communities? Diolch yn fawr.",
+          "text_original": "Diolch yn fawr iawn. In December 2023, Wrexham councillors were forced, under threat of imprisonment, to vote for a local development plan that was not fit for purpose. The plan was based on population projections that were spectacularly wrong. Following a lengthy court battle, brought by councillors, including me, against the previous Welsh Government and housing developers, the High Court quashed the council's decision to adopt its LDP. To cut a long story short, to suit the Llywydd, the LDP has now been withdrawn and the council is preparing a new plan. As a former councillor, I want to improve the planning system throughout Wales by ensuring greater community engagement and involvement in the process. To test that, will the Minister consider Wrexham as a pilot scheme to ensure that the local voice is heard loud and clear in the planning process, and that we never again see local elected representatives threatened with jail for standing up for their communities? Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=6951"
+        },
+        {
+          "id": "contribution-776959",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "en",
+          "t_start": 16602,
+          "text_english": "I want to focus on the HMO element of this debate. My family and I live next door to a HMO and have done for the past 15 years. One in five of the homes in our street is a HMO. HMOs are private houses, not subsidised, and it's odd that a political party that professes to be for the free market should seek to limit that housing market. But I'll come back to why this is such an odd debate.\n\nIn a past life, I was vice-chair of planning on Wrexham council, and the issues of HMOs have been a hot potato for more than a decade—not for the reasons stated by the people over there, but because an overconcentration of HMOs can impact a community in terms of overdevelopment, highway matters and waste disposal.\n\nHouses in multiple occupation are a small but integral part of the housing mix. They provide accommodation for people who can't afford a house or a flat, and there are loads of reasons for that. Let's hope that no-one here loses their job or income. Let's hope that no-one here has a health issue. Let's hope that no-one here has a messy divorce, a breakdown in the family or, God forbid, is forced to flee domestic violence or coercive control. These are all issues that can lead people to look for a housing option that suits them temporarily.\n\nI won't go into other issues, because Kiera Marshall and Peter Fox have very eloquently mentioned them, but I'll mention one: students living away from home are living in HMOs. Does the Member want to prevent all foreign students from having accommodation? Do you? Perhaps you can talk to the vice-chancellors about what that would do to our Welsh universities.\n\nAs it happens, the owner of the HMO next to me is a responsible landlord, but there are unscrupulous landlords who are cramming in as many people as possible to maximise profits. That's the real issue with HMOs. In the wrong hands and without sufficient oversight, they become dumping grounds for people with very real problems of substance misuse and mental health issues, but without any support. You don't care about that, obviously. You're just concerned about the people who look and sound different to you.\n\nPeople in my town are paying £87.50 a week for a shared room. There are eight other people in the house, with no communal space, apart from a family kitchen and a small back garden. That's not the fault of tenants, it's the fault of those unscrupulous landlords who fail to treat tenants as human beings. And these are working people, not on benefits. They're nurses, they're care workers, they're people I hear getting up at 6 o'clock in the morning to go to the industrial estate.\n\nI said earlier that this focus on a certain type of housing was odd. I think we know why—people have told us why very eloquently. The track record of the party involved is all about seeking to divide and rule, fuelled by hatred, not compassion. Since the UK Government moved from housing asylum seekers and refugees in hotels—I believe there's one hotel in the whole of Wales now—those who were busy rioting, burning and hating outside those hotels have looked for a new focus, and they've found it, haven't they, in HMOs.\n\nLike those unscrupulous landlords, they don't see the people who live in HMOs as human beings; they see them as inferior, as problems. What we've seen today is people deliberately conflating foreign nationals with asylum seekers, deliberately conflating people on benefits with foreign nationals. It's a mess of a debate. It's scaremongering and demonising for clickbait and social media. It's not a serious proposition; it virtue signals their hatred for people who look different, who sound different. It could be written in crayon.",
+          "text_original": "I want to focus on the HMO element of this debate. My family and I live next door to a HMO and have done for the past 15 years. One in five of the homes in our street is a HMO. HMOs are private houses, not subsidised, and it's odd that a political party that professes to be for the free market should seek to limit that housing market. But I'll come back to why this is such an odd debate.\n\nIn a past life, I was vice-chair of planning on Wrexham council, and the issues of HMOs have been a hot potato for more than a decade—not for the reasons stated by the people over there, but because an overconcentration of HMOs can impact a community in terms of overdevelopment, highway matters and waste disposal.\n\nHouses in multiple occupation are a small but integral part of the housing mix. They provide accommodation for people who can't afford a house or a flat, and there are loads of reasons for that. Let's hope that no-one here loses their job or income. Let's hope that no-one here has a health issue. Let's hope that no-one here has a messy divorce, a breakdown in the family or, God forbid, is forced to flee domestic violence or coercive control. These are all issues that can lead people to look for a housing option that suits them temporarily.\n\nI won't go into other issues, because Kiera Marshall and Peter Fox have very eloquently mentioned them, but I'll mention one: students living away from home are living in HMOs. Does the Member want to prevent all foreign students from having accommodation? Do you? Perhaps you can talk to the vice-chancellors about what that would do to our Welsh universities.\n\nAs it happens, the owner of the HMO next to me is a responsible landlord, but there are unscrupulous landlords who are cramming in as many people as possible to maximise profits. That's the real issue with HMOs. In the wrong hands and without sufficient oversight, they become dumping grounds for people with very real problems of substance misuse and mental health issues, but without any support. You don't care about that, obviously. You're just concerned about the people who look and sound different to you.\n\nPeople in my town are paying £87.50 a week for a shared room. There are eight other people in the house, with no communal space, apart from a family kitchen and a small back garden. That's not the fault of tenants, it's the fault of those unscrupulous landlords who fail to treat tenants as human beings. And these are working people, not on benefits. They're nurses, they're care workers, they're people I hear getting up at 6 o'clock in the morning to go to the industrial estate.\n\nI said earlier that this focus on a certain type of housing was odd. I think we know why—people have told us why very eloquently. The track record of the party involved is all about seeking to divide and rule, fuelled by hatred, not compassion. Since the UK Government moved from housing asylum seekers and refugees in hotels—I believe there's one hotel in the whole of Wales now—those who were busy rioting, burning and hating outside those hotels have looked for a new focus, and they've found it, haven't they, in HMOs.\n\nLike those unscrupulous landlords, they don't see the people who live in HMOs as human beings; they see them as inferior, as problems. What we've seen today is people deliberately conflating foreign nationals with asylum seekers, deliberately conflating people on benefits with foreign nationals. It's a mess of a debate. It's scaremongering and demonising for clickbait and social media. It's not a serious proposition; it virtue signals their hatred for people who look different, who sound different. It could be written in crayon.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=16602"
+        }
+      ],
+      "date": "2026-10-07",
+      "record_page_url": "https://record.senedd.wales/Plenary/16314"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-772839",
+          "item_id": "item-16264-260929-3",
+          "item_title_en": "2. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "3. How is the Welsh Government supporting independent and grass-roots music venues to thrive? OQ64587",
+          "text_original": "3. Sut mae Llywodraeth Cymru yn cefnogi lleoliadau cerddoriaeth annibynnol a llawr gwlad i ffynnu? OQ64587",
+          "tv_url": "http://www.senedd.tv/en/16264"
+        },
+        {
+          "id": "contribution-772844",
+          "item_id": "item-16264-260929-3",
+          "item_title_en": "2. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 1861,
+          "text_english": "Diolch, Brif Weinidog. I'd like to declare an interest as co-founder of Saith Seren, an independent music venue. Many grass-roots venues are struggling. We've seen the closure of some much-loved venues across Cymru. We must do more to support this sector. As you mentioned, the 30 per cent business rates cut is a huge step in that direction. It's a great start, but there are more steps that can be taken, I believe, by the UK Government. Last week, I attended an event with Music Venue Trust, which highlighted the issue of value added tax. In my constituency, we've got some great grass-roots music venues, such as The Rockin' Chair in Wrexham and the Tivoli in Buckley. I'm sure you're familiar with both. They provide opportunities for artists to grow and to support creative and economic growth. However, VAT rates are a significant pressure on these venues. In light of this, does the First Minister agree with me that we must urge the UK Government not only to review the VAT threshold faced by this sector, but also to consider a zero-VAT rate on ticket sales?",
+          "text_original": "Diolch, Brif Weinidog. I'd like to declare an interest as co-founder of Saith Seren, an independent music venue. Many grass-roots venues are struggling. We've seen the closure of some much-loved venues across Cymru. We must do more to support this sector. As you mentioned, the 30 per cent business rates cut is a huge step in that direction. It's a great start, but there are more steps that can be taken, I believe, by the UK Government. Last week, I attended an event with Music Venue Trust, which highlighted the issue of value added tax. In my constituency, we've got some great grass-roots music venues, such as The Rockin' Chair in Wrexham and the Tivoli in Buckley. I'm sure you're familiar with both. They provide opportunities for artists to grow and to support creative and economic growth. However, VAT rates are a significant pressure on these venues. In light of this, does the First Minister agree with me that we must urge the UK Government not only to review the VAT threshold faced by this sector, but also to consider a zero-VAT rate on ticket sales?",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=1861"
+        }
+      ],
+      "date": "2026-09-29",
+      "record_page_url": "https://record.senedd.wales/Plenary/16264"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-770794",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "6. What consideration has the Welsh Government given to ensuring that the costs of remediating illegally dumped waste are paid by the people responsible, rather than by taxpayers? OQ64553",
+          "text_original": "6. Pa ystyriaeth y mae Llywodraeth Cymru wedi’i rhoi i sicrhau bod costau adfer safleoedd lle mae gwastraff wedi’i waredu’n anghyfreithlon yn cael eu talu gan y rhai sy’n gyfrifol, yn hytrach na chan drethdalwyr?​‌ OQ64553",
+          "tv_url": "http://www.senedd.tv/en/16262"
+        },
+        {
+          "id": "contribution-770765",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 3014,
+          "text_english": "Diolch, Brif Weinidog. In Fflint Wrecsam, you may be aware that communities continue to deal with both the historic legacy of illegal waste dumping and the current active sites that are causing ongoing problems for residents in my constituency. Time and again, we see the companies responsible for these environmental crimes avoid accountability by entering liquidation and walking away from the costs of remediation. This leaves local communities to deal with the consequences and risks shifting the burden of cleaning up onto the public purse. How will Welsh Government work with the UK Government, local authorities and relevant public bodies to address this ongoing issue?",
+          "text_original": "Diolch, Brif Weinidog. In Fflint Wrecsam, you may be aware that communities continue to deal with both the historic legacy of illegal waste dumping and the current active sites that are causing ongoing problems for residents in my constituency. Time and again, we see the companies responsible for these environmental crimes avoid accountability by entering liquidation and walking away from the costs of remediation. This leaves local communities to deal with the consequences and risks shifting the burden of cleaning up onto the public purse. How will Welsh Government work with the UK Government, local authorities and relevant public bodies to address this ongoing issue?",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=3014"
+        }
+      ],
+      "date": "2026-09-22",
+      "record_page_url": "https://record.senedd.wales/Plenary/16262"
+    },
     {
       "contributions": [
         {

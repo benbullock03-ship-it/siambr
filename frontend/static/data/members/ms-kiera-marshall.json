@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,154 @@
   "canonical_name": "Kiera Marshall",
   "constituency_name_cy": "Caerdydd Penarth",
   "constituency_name_en": "Caerdydd Penarth",
-  "contribution_count": 29,
+  "contribution_count": 40,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778465",
+          "item_id": "item-16315-261013-2",
+          "item_title_en": "2. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 3981,
+          "text_english": "British job losses from AI last year were twice the international average. I'm particularly concerned about the impact of this on younger people and particularly entry-level jobs. We already have one of the highest amounts of young people in Wales not in education, employment or training. I'm also concerned about how we ensure that the gains from AI are spread equally across our communities in Wales and not just felt in the pocket of big businesses. We know that there is generally concern among people in Wales with AI. In my constituency, there's been huge pushback against a data centre in Pontyclun, which will have little, if any, benefit for the local community, and I know this isn't unique just to my constituency. So, I wonder if the Government would make a statement on its strategy towards AI, including mitigating job losses, the development of data centres and also ensuring equitable gains from AI as well.",
+          "text_original": "British job losses from AI last year were twice the international average. I'm particularly concerned about the impact of this on younger people and particularly entry-level jobs. We already have one of the highest amounts of young people in Wales not in education, employment or training. I'm also concerned about how we ensure that the gains from AI are spread equally across our communities in Wales and not just felt in the pocket of big businesses. We know that there is generally concern among people in Wales with AI. In my constituency, there's been huge pushback against a data centre in Pontyclun, which will have little, if any, benefit for the local community, and I know this isn't unique just to my constituency. So, I wonder if the Government would make a statement on its strategy towards AI, including mitigating job losses, the development of data centres and also ensuring equitable gains from AI as well.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=3981"
+        }
+      ],
+      "date": "2026-10-13",
+      "record_page_url": "https://record.senedd.wales/Plenary/16315"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776921",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "en",
+          "t_start": 15198,
+          "text_english": "I'd like to start by declaring an interest as a recent tenant in the private rental sector. Hopefully, this makes it clear from the outset where my priorities lie, because my priority lies with people who need a home, not people who profit from other people's basic need for shelter—and I'm not sure the same can be said about the party opposite on that. However, Nigel Farage's Welsh branch have identified a genuine problem: Wales does not have enough affordable housing. But, once again, they are taking a genuine problem and looking for someone to blame. People who arrive here illegally, asylum seekers and migrants on student or work visas are not eligible for social housing. According to census data, there are an estimated 28,000 non-UK-born people living in social housing in Wales. Meanwhile, an estimated 170,000 people are waiting for social housing in Wales.\n\nThe housing crisis is way bigger than the question of migration. Even if the party opposite got their disturbed dream of making 28,000 people homeless, it would not begin to tackle the problem. And this is the only answer they have got: scapegoating migrants. The Reform UK Wales manifesto does not even commit to building a single council or social home. Not one. Not a commitment to a single one. They have no plan to ensure the adequate supply of social housing for everyone, whereas this Plaid Cymru Government is getting on with their commitment to build 20,000 social homes.\n\nThe only plan Reform do have, actually, would make the problem worse. Thatcher's right to buy decimated the supply of council homes in the UK, and the Conservatives' right to buy in the 2010s—which many of them will remember as they were members of the party at the time—contributed massively to the UK housing crisis. More than 40 per cent of homes that were sold under that scheme are now in the private rental sector. So, it is laughable that a party advocating for right to buy is complaining about HMOs in Wales, because right to buy would actually increase the number of HMOs in Wales.\n\nAnd take this in—I won't say it often—Reform is right: there are issues with HMOs. But they have not identified the right issue. Houses in multiple occupation too often result in overcrowding and poor living conditions, while generating profits for the wealthy from this poor standard of living. Instead of asking, 'What kind of home does someone need to thrive?', the market asks, 'What is the minimum amount of private space that someone will pay for?' It is exploitative. We will not solve this housing crisis by making people live more densely on top of each other inside existing homes. I'm not objecting to shared living, because students or friends may genuinely choose it—I've been in that situation myself many times—but too often, with HMOs, economic necessity is masquerading as consumer choice. When someone is living in a bedroom in subdivided housing simply because they cannot afford anything else, that's a housing crisis. Why should people with money get proper homes to live in, but people without money get a bedroom in a subdivided house? Reform UK are on the record complaining about HMOs, but would Reform UK be willing to take on the landlord lobby and reduce the number of legal rooms in HMOs, or strengthen tenants' rights, or end no-fault evictions? What do you think? Because the Reform 2024 manifesto wanted to abolish the Renters' Rights Bill, which set out to end no-fault evictions and strengthen renters' rights, and it will be really interesting to see how they vote on the package of renters' rights that this Welsh Government wants to bring through.\n\nSo, to summarise, Reform don't want people born outside the UK to access social housing, but they also don't want them to access HMOs. Their manifesto means they're clearly not interested in building social housing and, through right to buy, they actually support decreasing the supply of council housing, which will increase dependence on the private rental sector and increase the number of HMOs that they want to see fewer of, but they aren't planning on building social or council homes as an alternative and actually support selling them off, remember. Does that make any sense to anyone here? No, it doesn't. But at least one thing is clear from Reform's motion today—Reform don't like people born outside the UK—. Sorry, Llywydd, let me correct that. Reform don't want people born outside the UK in social housing or private HMOs in Wales. Diolch yn fawr.",
+          "text_original": "I'd like to start by declaring an interest as a recent tenant in the private rental sector. Hopefully, this makes it clear from the outset where my priorities lie, because my priority lies with people who need a home, not people who profit from other people's basic need for shelter—and I'm not sure the same can be said about the party opposite on that. However, Nigel Farage's Welsh branch have identified a genuine problem: Wales does not have enough affordable housing. But, once again, they are taking a genuine problem and looking for someone to blame. People who arrive here illegally, asylum seekers and migrants on student or work visas are not eligible for social housing. According to census data, there are an estimated 28,000 non-UK-born people living in social housing in Wales. Meanwhile, an estimated 170,000 people are waiting for social housing in Wales.\n\nThe housing crisis is way bigger than the question of migration. Even if the party opposite got their disturbed dream of making 28,000 people homeless, it would not begin to tackle the problem. And this is the only answer they have got: scapegoating migrants. The Reform UK Wales manifesto does not even commit to building a single council or social home. Not one. Not a commitment to a single one. They have no plan to ensure the adequate supply of social housing for everyone, whereas this Plaid Cymru Government is getting on with their commitment to build 20,000 social homes.\n\nThe only plan Reform do have, actually, would make the problem worse. Thatcher's right to buy decimated the supply of council homes in the UK, and the Conservatives' right to buy in the 2010s—which many of them will remember as they were members of the party at the time—contributed massively to the UK housing crisis. More than 40 per cent of homes that were sold under that scheme are now in the private rental sector. So, it is laughable that a party advocating for right to buy is complaining about HMOs in Wales, because right to buy would actually increase the number of HMOs in Wales.\n\nAnd take this in—I won't say it often—Reform is right: there are issues with HMOs. But they have not identified the right issue. Houses in multiple occupation too often result in overcrowding and poor living conditions, while generating profits for the wealthy from this poor standard of living. Instead of asking, 'What kind of home does someone need to thrive?', the market asks, 'What is the minimum amount of private space that someone will pay for?' It is exploitative. We will not solve this housing crisis by making people live more densely on top of each other inside existing homes. I'm not objecting to shared living, because students or friends may genuinely choose it—I've been in that situation myself many times—but too often, with HMOs, economic necessity is masquerading as consumer choice. When someone is living in a bedroom in subdivided housing simply because they cannot afford anything else, that's a housing crisis. Why should people with money get proper homes to live in, but people without money get a bedroom in a subdivided house? Reform UK are on the record complaining about HMOs, but would Reform UK be willing to take on the landlord lobby and reduce the number of legal rooms in HMOs, or strengthen tenants' rights, or end no-fault evictions? What do you think? Because the Reform 2024 manifesto wanted to abolish the Renters' Rights Bill, which set out to end no-fault evictions and strengthen renters' rights, and it will be really interesting to see how they vote on the package of renters' rights that this Welsh Government wants to bring through.\n\nSo, to summarise, Reform don't want people born outside the UK to access social housing, but they also don't want them to access HMOs. Their manifesto means they're clearly not interested in building social housing and, through right to buy, they actually support decreasing the supply of council housing, which will increase dependence on the private rental sector and increase the number of HMOs that they want to see fewer of, but they aren't planning on building social or council homes as an alternative and actually support selling them off, remember. Does that make any sense to anyone here? No, it doesn't. But at least one thing is clear from Reform's motion today—Reform don't like people born outside the UK—. Sorry, Llywydd, let me correct that. Reform don't want people born outside the UK in social housing or private HMOs in Wales. Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=15198"
+        }
+      ],
+      "date": "2026-10-07",
+      "record_page_url": "https://record.senedd.wales/Plenary/16314"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-775865",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "3. What is the Welsh Government doing to ensure that its childcare offer is flexible and meets the needs of parents? OQ64647",
+          "text_original": "3. Beth mae Llywodraeth Cymru yn ei wneud i sicrhau bod ei chynnig gofal plant yn hyblyg ac yn diwallu anghenion rhieni? OQ64647",
+          "tv_url": "http://www.senedd.tv/en/16313"
+        },
+        {
+          "id": "contribution-775869",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 1887,
+          "text_english": "Diolch, Brif Weinidog. I'd like to give an example of how the current system isn't flexible for parents. One nursery I know of in Cardiff can only provide Flying Start provision for 2.5 hours a day for the children who are eligible, but, meanwhile, the same nursery group in Newport can provide Flying Start in blocks so that parents can return to work part-time and use their Flying Start hours all in a couple of days. Parents in Cardiff aren't offered the same opportunities. Currently, funded childcare provision is too fragmented. It's a postcode lottery between local authorities and even different sides of the street. Too many who need it cannot access it.\n\nLabour are complaining about a universal childcare offer. We've heard it again today—Labour complaining about universal childcare. The party of Aneurin Bevan and universal healthcare is complaining about universalism. They've lost touch with their roots. Meanwhile, Reform in England are closing publicly funded nurseries. So, does the First Minister agree with me that the universality of this childcare offer is key, so that parents can get back to work and not a single child slips through that gap in provision?",
+          "text_original": "Diolch, Brif Weinidog. I'd like to give an example of how the current system isn't flexible for parents. One nursery I know of in Cardiff can only provide Flying Start provision for 2.5 hours a day for the children who are eligible, but, meanwhile, the same nursery group in Newport can provide Flying Start in blocks so that parents can return to work part-time and use their Flying Start hours all in a couple of days. Parents in Cardiff aren't offered the same opportunities. Currently, funded childcare provision is too fragmented. It's a postcode lottery between local authorities and even different sides of the street. Too many who need it cannot access it.\n\nLabour are complaining about a universal childcare offer. We've heard it again today—Labour complaining about universal childcare. The party of Aneurin Bevan and universal healthcare is complaining about universalism. They've lost touch with their roots. Meanwhile, Reform in England are closing publicly funded nurseries. So, does the First Minister agree with me that the universality of this childcare offer is key, so that parents can get back to work and not a single child slips through that gap in provision?",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=1887"
+        }
+      ],
+      "date": "2026-10-06",
+      "record_page_url": "https://record.senedd.wales/Plenary/16313"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-773667",
+          "item_id": "item-16265-260930-3",
+          "item_title_en": "3. Topical Questions",
+          "lang": "en",
+          "t_start": 6170,
+          "text_english": "I've been hearing from constituents who are concerned about the job losses at Admiral and Legal & General, and I know my colleagues both in Gŵyr Abertawe and Brycheiniog Tawe Nedd have also shared concerns with me about the impact these jobs will have not only on people in Cardiff, but also in Swansea and the local economies. Workers need certainty about their futures and how they're going to support their families and pay ever-increasing bills and rent. And, given the uncertainty around who will be impacted currently by these job cuts, I wonder if the Welsh Government could provide some certainty about what support can be offered to impacted workers.",
+          "text_original": "I've been hearing from constituents who are concerned about the job losses at Admiral and Legal & General, and I know my colleagues both in Gŵyr Abertawe and Brycheiniog Tawe Nedd have also shared concerns with me about the impact these jobs will have not only on people in Cardiff, but also in Swansea and the local economies. Workers need certainty about their futures and how they're going to support their families and pay ever-increasing bills and rent. And, given the uncertainty around who will be impacted currently by these job cuts, I wonder if the Welsh Government could provide some certainty about what support can be offered to impacted workers.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=6170"
+        },
+        {
+          "id": "contribution-773718",
+          "item_id": "item-16265-260930-6",
+          "item_title_en": "5. Member Debate under Standing Order 11.21(iv): Contaminated land",
+          "lang": "en",
+          "t_start": 9778,
+          "text_english": "I want to thank Niamh Salkeld for bringing forward this important debate today, and also Elwyn Vaughan for his work on it as well, because like many people, I recently watched the Michael Sheen documentary on contaminated land, and I didn't really know what to expect, so I was horrified when pretty much straight away in the documentary it focuses on Brofiscin quarry near Groesfaen in my constituency of Caerdydd Penarth. The Environment Agency named this site one of the most polluted sites in Britain, with 67 different toxic chemicals, including seven different PCBs, leaking into the porous ground at the former limestone quarry.\n\nDecades ago, people purchased homes in Groesfaen, unaware they were now living next to one of the most contaminated places in the whole of the UK. Children grew up there and played around the quarry, and for decades families were uninformed of the risks. In 2011, after decades of campaigning, the quarry was finally capped to prevent PCBs from leaking. So, although Brofiscin has been designated a contaminated site, thousands of sites are yet to be classified. Communities have the right to know if they're living next door to contaminated land, and they should not be left footing the bill for toxic waste clean-ups.\n\nThe site in Brofiscin immediately brought the issue home, because when we talk about contaminated land, it may sound like a historical issue, but these places exist right now all across Wales in our communities, where people live and work and walk and exercise and raise their families. I want to recognise the important work that has been done to remediate the site in my constituency, but I am aware this isn't the case for similar sites across Wales, and those responsible must be held to account and made to clean up. PCBs were banned decades ago, yet all across Wales you'll still find them. And because these chemicals persist for such a long time, we're now dealing with another legacy of the industrial past of Wales. We cannot change the past, but we can decide how we deal with the consequences. Polluters should pay, and if they won't or can't, Westminster needs to step up and introduce a funding mechanism to support investigations and remediation.\n\nThe motion rightly points out the absence of a clear and consistent national picture of potentially contaminated land across Wales, and I think this lack of a clear picture is causing fear unnecessarily in our communities. In Gwaelod-y-garth, there was recent flooding caused by blasting at a nearby quarry shortly before the release of this documentary. Residents were then understandably concerned that perhaps PCBs were involved in this case, which is why establishing this framework for testing and assessment of contaminated land is so crucial, so people feel informed and confident. And where there is credible concern, communities should be able to have the confidence that the site will be properly investigated and that the appropriate action is followed.\n\nI think Brofiscin demonstrates the two sides to this issue. It demonstrates the scale of the industrial legacy that Wales has inherited, but it also demonstrates that we can do something about it, as Brofiscin underwent remediation in the early 2010s. Monsanto initially refused to contribute to clean-up. They said they'd hired a third-party waste disposal company to dump the chemicals, so they weren't responsible. But, fortunately, an agreement was eventually reached where they did contribute towards the clean-up.\n\nThe industrial history of Wales is something we should be proud of, but we also have a responsibility to deal properly with the environmental legacy it leaves, and never again should Wales be used as a dumping ground for toxic chemicals by large corporations. Diolch.",
+          "text_original": "I want to thank Niamh Salkeld for bringing forward this important debate today, and also Elwyn Vaughan for his work on it as well, because like many people, I recently watched the Michael Sheen documentary on contaminated land, and I didn't really know what to expect, so I was horrified when pretty much straight away in the documentary it focuses on Brofiscin quarry near Groesfaen in my constituency of Caerdydd Penarth. The Environment Agency named this site one of the most polluted sites in Britain, with 67 different toxic chemicals, including seven different PCBs, leaking into the porous ground at the former limestone quarry.\n\nDecades ago, people purchased homes in Groesfaen, unaware they were now living next to one of the most contaminated places in the whole of the UK. Children grew up there and played around the quarry, and for decades families were uninformed of the risks. In 2011, after decades of campaigning, the quarry was finally capped to prevent PCBs from leaking. So, although Brofiscin has been designated a contaminated site, thousands of sites are yet to be classified. Communities have the right to know if they're living next door to contaminated land, and they should not be left footing the bill for toxic waste clean-ups.\n\nThe site in Brofiscin immediately brought the issue home, because when we talk about contaminated land, it may sound like a historical issue, but these places exist right now all across Wales in our communities, where people live and work and walk and exercise and raise their families. I want to recognise the important work that has been done to remediate the site in my constituency, but I am aware this isn't the case for similar sites across Wales, and those responsible must be held to account and made to clean up. PCBs were banned decades ago, yet all across Wales you'll still find them. And because these chemicals persist for such a long time, we're now dealing with another legacy of the industrial past of Wales. We cannot change the past, but we can decide how we deal with the consequences. Polluters should pay, and if they won't or can't, Westminster needs to step up and introduce a funding mechanism to support investigations and remediation.\n\nThe motion rightly points out the absence of a clear and consistent national picture of potentially contaminated land across Wales, and I think this lack of a clear picture is causing fear unnecessarily in our communities. In Gwaelod-y-garth, there was recent flooding caused by blasting at a nearby quarry shortly before the release of this documentary. Residents were then understandably concerned that perhaps PCBs were involved in this case, which is why establishing this framework for testing and assessment of contaminated land is so crucial, so people feel informed and confident. And where there is credible concern, communities should be able to have the confidence that the site will be properly investigated and that the appropriate action is followed.\n\nI think Brofiscin demonstrates the two sides to this issue. It demonstrates the scale of the industrial legacy that Wales has inherited, but it also demonstrates that we can do something about it, as Brofiscin underwent remediation in the early 2010s. Monsanto initially refused to contribute to clean-up. They said they'd hired a third-party waste disposal company to dump the chemicals, so they weren't responsible. But, fortunately, an agreement was eventually reached where they did contribute towards the clean-up.\n\nThe industrial history of Wales is something we should be proud of, but we also have a responsibility to deal properly with the environmental legacy it leaves, and never again should Wales be used as a dumping ground for toxic chemicals by large corporations. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=9778"
+        }
+      ],
+      "date": "2026-09-30",
+      "record_page_url": "https://record.senedd.wales/Plenary/16265"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-772940",
+          "item_id": "item-16264-260929-4",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 4149,
+          "text_english": "Last week, I met with residents in Gwaelod-y-garth impacted by flooding caused by nearby quarry blasting, as well as the quarry operator and other elected representatives. Residents are living in fear that there's this huge body of water sitting above their village, and the quarry is about to restart blasting imminently, before the Health and Safety Executive investigation is even complete. Residents are traumatised by the events that happened this summer and are scared to hear another blast happening above their village. So, can I please ask the Cabinet Minister for Rural Resilience and Sustainability to make representations to the UK Government and Cardiff Council about steps they can take to ensure the safety of quarries and quarry blasting in and around Cardiff, particularly given investigations aren't complete? And please could the Government provide a statement on what it's doing to ensure the safety of those living near quarries, to prevent this from ever happening again? Diolch.",
+          "text_original": "Last week, I met with residents in Gwaelod-y-garth impacted by flooding caused by nearby quarry blasting, as well as the quarry operator and other elected representatives. Residents are living in fear that there's this huge body of water sitting above their village, and the quarry is about to restart blasting imminently, before the Health and Safety Executive investigation is even complete. Residents are traumatised by the events that happened this summer and are scared to hear another blast happening above their village. So, can I please ask the Cabinet Minister for Rural Resilience and Sustainability to make representations to the UK Government and Cardiff Council about steps they can take to ensure the safety of quarries and quarry blasting in and around Cardiff, particularly given investigations aren't complete? And please could the Government provide a statement on what it's doing to ensure the safety of those living near quarries, to prevent this from ever happening again? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=4149"
+        }
+      ],
+      "date": "2026-09-29",
+      "record_page_url": "https://record.senedd.wales/Plenary/16264"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771539",
+          "item_id": "item-16263-260923-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and Welsh Language",
+          "lang": "en",
+          "t_start": 5187,
+          "text_english": "Everybody should have access to Welsh-medium education. Sadly, I missed out on this when I was growing up and I'm now having to learn as an adult. At the moment, our constituency of Caerdydd Penarth is only served by one Welsh-medium secondary school. We know that communities in the south of Cardiff are travelling further to access Welsh-medium education, which is disincentivising parents and guardians from sending their children to Welsh-medium education. I am mindful, though, that responsibility for the planning of local schools does rest with local authorities and that statutory procedures have to be followed. So, I was wondering if the Cabinet Minister could confirm what communication she's had with Cardiff Council in relation to this matter.",
+          "text_original": "Everybody should have access to Welsh-medium education. Sadly, I missed out on this when I was growing up and I'm now having to learn as an adult. At the moment, our constituency of Caerdydd Penarth is only served by one Welsh-medium secondary school. We know that communities in the south of Cardiff are travelling further to access Welsh-medium education, which is disincentivising parents and guardians from sending their children to Welsh-medium education. I am mindful, though, that responsibility for the planning of local schools does rest with local authorities and that statutory procedures have to be followed. So, I was wondering if the Cabinet Minister could confirm what communication she's had with Cardiff Council in relation to this matter.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=5187"
+        },
+        {
+          "id": "contribution-771528",
+          "item_id": "item-16263-260923-3",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "1. How does the Commission ensure there are sufficient facilities for expressing breast milk on the Senedd estate? OQ64539",
+          "text_original": "1. Sut mae'r Comisiwn yn sicrhau bod digon o gyfleusterau ar gyfer tynnu llaeth o'r fron ar ystad y Senedd? OQ64539",
+          "tv_url": "http://www.senedd.tv/en/16263"
+        },
+        {
+          "id": "contribution-771524",
+          "item_id": "item-16263-260923-3",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 6358,
+          "text_english": "Thank you for that. I just wanted to flag some of my lived experience, because as a mother of a young baby, I had the experience of trying to find a suitable place to pump on the Senedd estate. I was initially offered the medical room you mentioned, but it only had a bed in it, and you can't pump lying down, and I do need a desk and chair to work, and I couldn't possibly lose two hours of my working day. I was then offered the quiet room, but if you look on the internal intranet, this room is listed as a place for prayer and contemplation, so that wasn't appropriate. I then had to use a printing room, which had no lock on the door, until I got in touch with the Senedd estate, and it also had no access then to the fridge that was in the medical room. So, given that the Senedd aims to be family friendly and inclusive, I was surprised that these facilities don't seem to support pumping on the estate, and the NHS does recommend breastfeeding up until two years, when most parents will have returned to work. Only 32 per cent of babies are still being breastfed at six months, despite all of the known benefits. So, I was wondering if you would look at creating a space for pumping that enables people to work at the same time, and confirm to me that no member of staff or Member will face the same circumstances I was in.",
+          "text_original": "Thank you for that. I just wanted to flag some of my lived experience, because as a mother of a young baby, I had the experience of trying to find a suitable place to pump on the Senedd estate. I was initially offered the medical room you mentioned, but it only had a bed in it, and you can't pump lying down, and I do need a desk and chair to work, and I couldn't possibly lose two hours of my working day. I was then offered the quiet room, but if you look on the internal intranet, this room is listed as a place for prayer and contemplation, so that wasn't appropriate. I then had to use a printing room, which had no lock on the door, until I got in touch with the Senedd estate, and it also had no access then to the fridge that was in the medical room. So, given that the Senedd aims to be family friendly and inclusive, I was surprised that these facilities don't seem to support pumping on the estate, and the NHS does recommend breastfeeding up until two years, when most parents will have returned to work. Only 32 per cent of babies are still being breastfed at six months, despite all of the known benefits. So, I was wondering if you would look at creating a space for pumping that enables people to work at the same time, and confirm to me that no member of staff or Member will face the same circumstances I was in.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=6358"
+        },
+        {
+          "id": "contribution-771571",
+          "item_id": "item-16263-260923-5",
+          "item_title_en": "5. 90-second Statements",
+          "lang": "en",
+          "t_start": 7818,
+          "text_english": "Diolch. This week is Adult Learners' Week, and I'd like to pay tribute to all the adult learners across Wales. It's sometimes difficult to step back into education, so it's so important that there's support there for them. The impact of adult learning is life-changing, and extends far beyond education. It improves health and well-being, and is fundamental to Wales's economic growth. It enables adults to access upskilling and reskilling and enhance their lives in ways that we will never understand. \n\nThe adult community learning programme in particular offers people an important route into education, supporting people to access learning in a setting and at a pace that is right for them. Tonight, the Inspire! adult learning awards are going to take place, and I'd like to congratulate Hannah from my constituency in Caerdydd Penarth who will be receiving the new Welsh speaker award. \n\nHannah will be recognised alongside 10 other award winners who are all being celebrated for their commitment, dedication and achievements—learners who have changed their lives through adult education. I hope these stories, and thousands like them across Wales, can encourage more people to embrace the message of Adult Learners' Week—to never stop learning. Diolch.",
+          "text_original": "Diolch. This week is Adult Learners' Week, and I'd like to pay tribute to all the adult learners across Wales. It's sometimes difficult to step back into education, so it's so important that there's support there for them. The impact of adult learning is life-changing, and extends far beyond education. It improves health and well-being, and is fundamental to Wales's economic growth. It enables adults to access upskilling and reskilling and enhance their lives in ways that we will never understand. \n\nThe adult community learning programme in particular offers people an important route into education, supporting people to access learning in a setting and at a pace that is right for them. Tonight, the Inspire! adult learning awards are going to take place, and I'd like to congratulate Hannah from my constituency in Caerdydd Penarth who will be receiving the new Welsh speaker award. \n\nHannah will be recognised alongside 10 other award winners who are all being celebrated for their commitment, dedication and achievements—learners who have changed their lives through adult education. I hope these stories, and thousands like them across Wales, can encourage more people to embrace the message of Adult Learners' Week—to never stop learning. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=7818"
+        }
+      ],
+      "date": "2026-09-23",
+      "record_page_url": "https://record.senedd.wales/Plenary/16263"
+    },
     {
       "contributions": [
         {

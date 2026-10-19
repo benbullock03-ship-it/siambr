@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,154 @@
   "canonical_name": "Louise Emery",
   "constituency_name_cy": "Clwyd",
   "constituency_name_en": "Clwyd",
-  "contribution_count": 22,
+  "contribution_count": 33,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778834",
+          "item_id": "item-16316-261014-2",
+          "item_title_en": "1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport",
+          "lang": "en",
+          "t_start": 536,
+          "text_english": "Diolch. Minister, I had a question to the First Minister on 29 September about business rates and music venues—and I welcome the 30 per cent reduction—that talked about the cliff edge that happens at the £51,000 business rate edge. I want to keep this issue front and centre of your mind when you're in discussions with the finance Minister. A lot of cultural activities require public money to exist, and we don't want music venues to join that list. They want to be self-sufficient, they don't want to rely on grants, and this is a way we can help them. So, can I ask will you address the exclusion of music venues with the finance Minister, including consideration of a business rates taper approach in the future? Diolch.",
+          "text_original": "Diolch. Minister, I had a question to the First Minister on 29 September about business rates and music venues—and I welcome the 30 per cent reduction—that talked about the cliff edge that happens at the £51,000 business rate edge. I want to keep this issue front and centre of your mind when you're in discussions with the finance Minister. A lot of cultural activities require public money to exist, and we don't want music venues to join that list. They want to be self-sufficient, they don't want to rely on grants, and this is a way we can help them. So, can I ask will you address the exclusion of music venues with the finance Minister, including consideration of a business rates taper approach in the future? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=536"
+        },
+        {
+          "id": "contribution-778826",
+          "item_id": "item-16316-261014-2",
+          "item_title_en": "1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport",
+          "lang": "en",
+          "t_start": 652,
+          "text_english": "Diolch. Now, I'd like an update on the national museum in Cardiff. Now, we know that we got some funding for roof repairs earlier this year, and you came to our culture committee and expressed concern about water entering galleries containing our national collections. We've got winter approaching, and it's important that we have essential maintenance that carries on. But I want to know what progress there's been on the funding and repairs and what timetable and funding are in place to complete the urgent works, because we could be in a position where not only that our collections are at risk, but that the museum actually has to close.",
+          "text_original": "Diolch. Now, I'd like an update on the national museum in Cardiff. Now, we know that we got some funding for roof repairs earlier this year, and you came to our culture committee and expressed concern about water entering galleries containing our national collections. We've got winter approaching, and it's important that we have essential maintenance that carries on. But I want to know what progress there's been on the funding and repairs and what timetable and funding are in place to complete the urgent works, because we could be in a position where not only that our collections are at risk, but that the museum actually has to close.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=652"
+        },
+        {
+          "id": "contribution-778841",
+          "item_id": "item-16316-261014-2",
+          "item_title_en": "1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport",
+          "lang": "en",
+          "t_start": 743,
+          "text_english": "Okay. Finally, I want to talk about the Tour de France. It's coming to Wales next summer, starting in Welshpool and finishing in Cardiff. We want it to be a successful event to showcase Wales, to help the local economy and be a great event for all of us to attend. But events of this scale cost money to host. We totally accept that; that's the deal. But we want transparency around these costs now and in the build-up to the event, and in the legacy funding afterwards. Now, I know you've announced the £4.5 million legacy fund, and I've got a query about that and then a question about the hosting fees. The legacy fund comes from the brilliant basics fund, or is administered through the brilliant basics fund, which is to provide small tourism infrastructure projects. Is this additional money, the £4.5 million, noting that it's going to be ring-fenced for cycling infrastructure, or is it just part of the brilliant basics fund, so it's going to come out of that original pot? That's my first question. And secondly, on the hosting fee, which public body has paid for this? Thank you.",
+          "text_original": "Okay. Finally, I want to talk about the Tour de France. It's coming to Wales next summer, starting in Welshpool and finishing in Cardiff. We want it to be a successful event to showcase Wales, to help the local economy and be a great event for all of us to attend. But events of this scale cost money to host. We totally accept that; that's the deal. But we want transparency around these costs now and in the build-up to the event, and in the legacy funding afterwards. Now, I know you've announced the £4.5 million legacy fund, and I've got a query about that and then a question about the hosting fees. The legacy fund comes from the brilliant basics fund, or is administered through the brilliant basics fund, which is to provide small tourism infrastructure projects. Is this additional money, the £4.5 million, noting that it's going to be ring-fenced for cycling infrastructure, or is it just part of the brilliant basics fund, so it's going to come out of that original pot? That's my first question. And secondly, on the hosting fee, which public body has paid for this? Thank you.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=743"
+        }
+      ],
+      "date": "2026-10-14",
+      "record_page_url": "https://record.senedd.wales/Plenary/16316"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776837",
+          "item_id": "item-16314-261007-7",
+          "item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+          "lang": "en",
+          "t_start": 9732,
+          "text_english": "I speak to support this motion and the powerful case that my colleagues in this Chamber have already established. \n\nFamily drug and alcohol courts were something that I was not very aware of before Tom brought this forward, so I'm really pleased that we're talking about it today. Of course, it was not dreamt up in a think tank; it was born of a judge's frustration. District judge Nicholas Crichton sat in a family court in London and watched the same mothers return again and again. He asked a simple question:\n\n'Just what is it that family courts are there to do? Just take away children?'\n\n'If we are looking to remove the 8th, 9th or 10th child, the family courts can't be doing very well by this family'.\n\nInspired by family treatment courts in the United States, he set up the first London FDAC in 2008. As we've heard in the Chamber already, an international review of 17 studies of family drug treatment courts found that families were significantly more likely to be reunited. From Australia to New Zealand, this works. \n\nThe most senior family judge in England and Wales, Sir Andrew McFarlane, said:\n\n'The ultimate goal remains for FDAC courts to be available in all areas of England and Wales.'\n\nEngland and Wales. Members, the judiciary is ready, and it is waiting for us. \n\nMothers reunited through FDAC were more than likely to still be off drugs or alcohol five years on. This is not a performance for the courtroom. This is a life rebuilt. Even when children cannot go home, FDAC keeps parents in treatment so that they can still play a healthy part in their children's lives, so the next baby does not end up in court and maybe taken away from the family. \n\nThe motion asks that FDACs form part of a strategy to keep children out of care. Bedfordshire shows the way, and we've heard quotes from Bedfordshire across the Chamber today. Bedfordshire is not just about children's services running this. It is also backed by the local integrated care board, who evaluate its work and bring support from every partner. Here in Wales, we have partners around the table already. We have health boards, we have substance misuse area planning boards, we have regional partnership boards, and we have police and crime commissioners—for now. Every one of them gains when a parent recovers and a family stays together. Every one of those organisations, and us, should help own this. \n\nI urge Members to support this motion. As Tom said, we need to build a care system in Wales that builds, not breaks, families.",
+          "text_original": "I speak to support this motion and the powerful case that my colleagues in this Chamber have already established. \n\nFamily drug and alcohol courts were something that I was not very aware of before Tom brought this forward, so I'm really pleased that we're talking about it today. Of course, it was not dreamt up in a think tank; it was born of a judge's frustration. District judge Nicholas Crichton sat in a family court in London and watched the same mothers return again and again. He asked a simple question:\n\n'Just what is it that family courts are there to do? Just take away children?'\n\n'If we are looking to remove the 8th, 9th or 10th child, the family courts can't be doing very well by this family'.\n\nInspired by family treatment courts in the United States, he set up the first London FDAC in 2008. As we've heard in the Chamber already, an international review of 17 studies of family drug treatment courts found that families were significantly more likely to be reunited. From Australia to New Zealand, this works. \n\nThe most senior family judge in England and Wales, Sir Andrew McFarlane, said:\n\n'The ultimate goal remains for FDAC courts to be available in all areas of England and Wales.'\n\nEngland and Wales. Members, the judiciary is ready, and it is waiting for us. \n\nMothers reunited through FDAC were more than likely to still be off drugs or alcohol five years on. This is not a performance for the courtroom. This is a life rebuilt. Even when children cannot go home, FDAC keeps parents in treatment so that they can still play a healthy part in their children's lives, so the next baby does not end up in court and maybe taken away from the family. \n\nThe motion asks that FDACs form part of a strategy to keep children out of care. Bedfordshire shows the way, and we've heard quotes from Bedfordshire across the Chamber today. Bedfordshire is not just about children's services running this. It is also backed by the local integrated care board, who evaluate its work and bring support from every partner. Here in Wales, we have partners around the table already. We have health boards, we have substance misuse area planning boards, we have regional partnership boards, and we have police and crime commissioners—for now. Every one of them gains when a parent recovers and a family stays together. Every one of those organisations, and us, should help own this. \n\nI urge Members to support this motion. As Tom said, we need to build a care system in Wales that builds, not breaks, families.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=9732"
+        },
+        {
+          "id": "contribution-776855",
+          "item_id": "item-16314-261007-8",
+          "item_title_en": "7. Reform UK Debate: Regional rugby",
+          "lang": "en",
+          "t_start": 11210,
+          "text_english": "Diolch, thank you. I move the motion in the name of the Reform UK group. Cardiff, the Dragons, the Ospreys, the Scarlets. For more than 20 years, these four regions have carried Welsh rugby. They are employers, they are community hubs, they are the first steps on the ladder for the young players, from Pembrokeshire to Pontypool. And today, one of them faces the axe.\n\nNow, let it be clear what this motion does. It does not ask Ministers to run the Welsh Rugby Union. It is and should be independent. But independence should not be immune from scrutiny. Where public money has gone in, the public is owed answers. And where a decision will hit jobs, businesses and communities, this Senedd is owed the evidence behind that decision.\n\nSo, for those of you who are not as passionate about rugby as I am, in October 2025 the WRU announced the decision to cut the men's professional game from four teams to three. In July 2026, it published its road map. Cardiff would be offered the capital licence; the Dragons, the east; and the Ospreys and the Scarlets would be left to fight over one licence in the west. And in August, the WRU's director of rugby, Dave Reddin, confirmed the union is sticking to that plan. So, the destination has been chosen. One region is being lined up to go before anyone has seen the test it will be judged by. That is the wrong way around. The WRU says it cannot afford four competitive teams, so publish the business case for three teams against four in full before December.\n\nAnd this is not only the WRU's money. In 2021, the Welsh Government gave £13.5 million in survival funding to rugby—£2.7 million each to the union and to all four regions—and a further £475,000 in 2022; £1.8 million in 2024 for the national stadium; and Sport Wales has put nearly £435,000 into the WRU this year. Councils have stepped in too. Swansea has approved £5.1 million to rebuild St Helen's, with a 50-year lease for the Ospreys. The city deal has added £771,000. Carmarthenshire council owns Parc y Scarlets and lent the club £2.4 million, which is still being repaid.\n\nSo, when the Minister told this Chamber last month that the Government does not fund professional sports teams, with respect, the record shows that it has. So, whether you are a rugby fan or not, taxpayers have a stake in this. So, what happens if a region goes? What happens to St Helen's, where 90 per cent of availability of the ground is meant for community use? Who pays the rent? Who fills the stands? What happens to Parc y Scarlets and the council loan still being repaid? What happens to the training grounds, the academies, the coaches, the physios, to the players at clubs that are on a regional pathway? What happens to programmes like Ospreys in the Community, the hotels, the pubs, the cafes and the taxis? It goes on and on and on. And what about the young players in north Wales or rural Wales? Fewer teams, fewer contracts, fewer chances, more of our talent lost over the border or not discovered at all.\n\nThe Government's amendment would delete our call to protect the four regions, but it also says that this decision must be informed by a full assessment of the social, community and economic consequences. So, will the Minister ask the WRU to publish its business case for three teams against four, independently checked, before licensing begins in December? Will the Minister work with Sport Wales and councils to publish a full record of public grants, loans and stadium investment in the WRU and the regions, with the conditions attached, to provide transparency in what the taxpayer has spent? And is the Government planning to do the assessment on the impact on jobs, businesses, community programmes and player pathways, not forgetting the impact on north and rural Wales?\n\nEveryone in this Chamber says rugby matters to Wales. It absolutely does, but warm words will not save a region. The WRU is independent, but it is not accountable to no-one—it answers to its clubs, its supporters, and, where public money is involved, to the people of Wales. This is a huge decision. If the WRU won't protect the future of the four regions, if the WRU can't protect the future of the four regions, then the communities around these clubs, the businesses that rely on these clubs, and the taxpayer that's funded these regions needs to understand why. Diolch.",
+          "text_original": "Diolch, thank you. I move the motion in the name of the Reform UK group. Cardiff, the Dragons, the Ospreys, the Scarlets. For more than 20 years, these four regions have carried Welsh rugby. They are employers, they are community hubs, they are the first steps on the ladder for the young players, from Pembrokeshire to Pontypool. And today, one of them faces the axe.\n\nNow, let it be clear what this motion does. It does not ask Ministers to run the Welsh Rugby Union. It is and should be independent. But independence should not be immune from scrutiny. Where public money has gone in, the public is owed answers. And where a decision will hit jobs, businesses and communities, this Senedd is owed the evidence behind that decision.\n\nSo, for those of you who are not as passionate about rugby as I am, in October 2025 the WRU announced the decision to cut the men's professional game from four teams to three. In July 2026, it published its road map. Cardiff would be offered the capital licence; the Dragons, the east; and the Ospreys and the Scarlets would be left to fight over one licence in the west. And in August, the WRU's director of rugby, Dave Reddin, confirmed the union is sticking to that plan. So, the destination has been chosen. One region is being lined up to go before anyone has seen the test it will be judged by. That is the wrong way around. The WRU says it cannot afford four competitive teams, so publish the business case for three teams against four in full before December.\n\nAnd this is not only the WRU's money. In 2021, the Welsh Government gave £13.5 million in survival funding to rugby—£2.7 million each to the union and to all four regions—and a further £475,000 in 2022; £1.8 million in 2024 for the national stadium; and Sport Wales has put nearly £435,000 into the WRU this year. Councils have stepped in too. Swansea has approved £5.1 million to rebuild St Helen's, with a 50-year lease for the Ospreys. The city deal has added £771,000. Carmarthenshire council owns Parc y Scarlets and lent the club £2.4 million, which is still being repaid.\n\nSo, when the Minister told this Chamber last month that the Government does not fund professional sports teams, with respect, the record shows that it has. So, whether you are a rugby fan or not, taxpayers have a stake in this. So, what happens if a region goes? What happens to St Helen's, where 90 per cent of availability of the ground is meant for community use? Who pays the rent? Who fills the stands? What happens to Parc y Scarlets and the council loan still being repaid? What happens to the training grounds, the academies, the coaches, the physios, to the players at clubs that are on a regional pathway? What happens to programmes like Ospreys in the Community, the hotels, the pubs, the cafes and the taxis? It goes on and on and on. And what about the young players in north Wales or rural Wales? Fewer teams, fewer contracts, fewer chances, more of our talent lost over the border or not discovered at all.\n\nThe Government's amendment would delete our call to protect the four regions, but it also says that this decision must be informed by a full assessment of the social, community and economic consequences. So, will the Minister ask the WRU to publish its business case for three teams against four, independently checked, before licensing begins in December? Will the Minister work with Sport Wales and councils to publish a full record of public grants, loans and stadium investment in the WRU and the regions, with the conditions attached, to provide transparency in what the taxpayer has spent? And is the Government planning to do the assessment on the impact on jobs, businesses, community programmes and player pathways, not forgetting the impact on north and rural Wales?\n\nEveryone in this Chamber says rugby matters to Wales. It absolutely does, but warm words will not save a region. The WRU is independent, but it is not accountable to no-one—it answers to its clubs, its supporters, and, where public money is involved, to the people of Wales. This is a huge decision. If the WRU won't protect the future of the four regions, if the WRU can't protect the future of the four regions, then the communities around these clubs, the businesses that rely on these clubs, and the taxpayer that's funded these regions needs to understand why. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=11210"
+        }
+      ],
+      "date": "2026-10-07",
+      "record_page_url": "https://record.senedd.wales/Plenary/16314"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776103",
+          "item_id": "item-16313-261006-4",
+          "item_title_en": "4. Statement by the Deputy Minister for Transport: Strategic Priorities for the Menai Strait Crossings and M4 around Newport",
+          "lang": "en",
+          "t_start": 8245,
+          "text_english": "Oh dear, oh dear, oh dear, Minister. We were expecting a lot more on this side of the Chamber. But, anyway, we'll start north and then we'll travel south, if that's okay.\n\nSo, I'll start with the positives. Nice to see we're doing some baby steps with the current bridges that cross the Menai strait. Wind deflectors—let's get on with that as soon as we can, improve those; we've got a winter ahead of us. And varying the speed limit—we like varying the speed limit in this Chamber, don't we—I'll give you a positive on that one. But, in terms of the actual third bridge, it sounds like you're just thinking about a third bridge, which simply is not good enough. So, you're going to recommence development work and look at design development, environmental assessment, business case preparation. To me, it doesn't sound like you're completely committed to a third crossing, because I thought we'd done all this work before. I thought this was called the purple route and that that work had been done. And obviously what's disappointing to see, and this is why I question your commitment, is there's nothing in here about funding a third bridge. It's going to be an expensive project and is going to need cross-party support, and there's nothing in here about that. So, I want to ask you, and you can answer once I've finished, clearly: are you actually committed to building the third bridge across the Menai strait, 'yes' or 'no'?\n\nRight, then, let's head down south. Now you need more thinking time—18 months of more thinking time—about solutions. And again, I thought we'd been here and gone through all of that with the M4 relief road and the black route. And in between the thinking time—which you clearly need, fair enough—for the next five years, you're going to do some improvements, which, personally, I think is just a sticking-plaster approach that ties in directly to Plaid Cymru's anti-motorist stance.\n\nLet's talk about closing junctions. I do love the statistic about one in 10 cars not making it onto the M4. Of course they can't make it onto the M4, because they can't get onto the M4 because you've closed the junction. Closing junctions doesn't solve congestion and it's going to move that onto Newport's local roads. Newport City Council recently—July 2026—voted unanimously against any measure that diverts traffic onto Newport's already congested streets. I don't think they will be so delighted with your statement today. As we in Reform have said, stopping cars getting onto the motorway isn't a solution that Newport will thank you for. And in your own assessment, the cost of this is £14 million, and reducing traffic by a whopping 3 per cent.\n\nLet's go over to the Heads of the Valleys plan. So, let me just get this right: ferries transport comes off the boats in Pembroke and then goes across east to Dover and on to Europe, and what you want to do is encourage, persuade, divert that freight traffic to go up over the Heads of the Valleys and back down again, and the cost of doing that is £49 million, which is some pretty swanky cafes and some nice rest facilities, and you think that will reduce the traffic on the M4 by 1 per cent. It's just not going to happen.\n\nAnd then, finally, we get on to rail. Now, let's be clear: Reform supports more rail capacity, but rail should add choice, not be used to justify restricting road access. As Laura Anne Jones pointed out, the M4 users have no realistic alternative. We need to remind ourselves that, unlike us, there are a lot of people who aren't members of the lanyard class who go to work each day with a small briefcase. How are delivery drivers and tradespeople going to get on the train? 'Excuse me, ma'am, can you just move to one side while I put my 12 pots of paint and my toolbox there?' It's not going to happen.\n\nBasically, Minister, I'm asking you to drop your ideology. What you've done here is pretend to be committed to fixing the road issues, but actually you're thinking about a bridge, you've got 18 months more of thinking about the M4, and you've got a five-year scheme, which, essentially, is going to cost millions of pounds and reduce traffic congestion by 4 per cent. So, here is the solution. On your last page of your statement, you say, 'We are developing a long-term roads-based and engineering solution.' Well, I'll tell you, we've got one: it's the M4 relief road, the black route. Reform UK have costed this at £2.8 billion. Yes, that's a lot of money, but I will guarantee here that, if there is a Reform Welsh Government, we will be lobbying and working with a Reform UK Westminster Government—which is coming, ladies and gentlemen—and we will build the M4 relief road. So, Minister, I want to confirm: are you committed to the bridge, completely and utterly committed? And please stop thinking and just get on with it. Diolch yn fawr.",
+          "text_original": "Oh dear, oh dear, oh dear, Minister. We were expecting a lot more on this side of the Chamber. But, anyway, we'll start north and then we'll travel south, if that's okay.\n\nSo, I'll start with the positives. Nice to see we're doing some baby steps with the current bridges that cross the Menai strait. Wind deflectors—let's get on with that as soon as we can, improve those; we've got a winter ahead of us. And varying the speed limit—we like varying the speed limit in this Chamber, don't we—I'll give you a positive on that one. But, in terms of the actual third bridge, it sounds like you're just thinking about a third bridge, which simply is not good enough. So, you're going to recommence development work and look at design development, environmental assessment, business case preparation. To me, it doesn't sound like you're completely committed to a third crossing, because I thought we'd done all this work before. I thought this was called the purple route and that that work had been done. And obviously what's disappointing to see, and this is why I question your commitment, is there's nothing in here about funding a third bridge. It's going to be an expensive project and is going to need cross-party support, and there's nothing in here about that. So, I want to ask you, and you can answer once I've finished, clearly: are you actually committed to building the third bridge across the Menai strait, 'yes' or 'no'?\n\nRight, then, let's head down south. Now you need more thinking time—18 months of more thinking time—about solutions. And again, I thought we'd been here and gone through all of that with the M4 relief road and the black route. And in between the thinking time—which you clearly need, fair enough—for the next five years, you're going to do some improvements, which, personally, I think is just a sticking-plaster approach that ties in directly to Plaid Cymru's anti-motorist stance.\n\nLet's talk about closing junctions. I do love the statistic about one in 10 cars not making it onto the M4. Of course they can't make it onto the M4, because they can't get onto the M4 because you've closed the junction. Closing junctions doesn't solve congestion and it's going to move that onto Newport's local roads. Newport City Council recently—July 2026—voted unanimously against any measure that diverts traffic onto Newport's already congested streets. I don't think they will be so delighted with your statement today. As we in Reform have said, stopping cars getting onto the motorway isn't a solution that Newport will thank you for. And in your own assessment, the cost of this is £14 million, and reducing traffic by a whopping 3 per cent.\n\nLet's go over to the Heads of the Valleys plan. So, let me just get this right: ferries transport comes off the boats in Pembroke and then goes across east to Dover and on to Europe, and what you want to do is encourage, persuade, divert that freight traffic to go up over the Heads of the Valleys and back down again, and the cost of doing that is £49 million, which is some pretty swanky cafes and some nice rest facilities, and you think that will reduce the traffic on the M4 by 1 per cent. It's just not going to happen.\n\nAnd then, finally, we get on to rail. Now, let's be clear: Reform supports more rail capacity, but rail should add choice, not be used to justify restricting road access. As Laura Anne Jones pointed out, the M4 users have no realistic alternative. We need to remind ourselves that, unlike us, there are a lot of people who aren't members of the lanyard class who go to work each day with a small briefcase. How are delivery drivers and tradespeople going to get on the train? 'Excuse me, ma'am, can you just move to one side while I put my 12 pots of paint and my toolbox there?' It's not going to happen.\n\nBasically, Minister, I'm asking you to drop your ideology. What you've done here is pretend to be committed to fixing the road issues, but actually you're thinking about a bridge, you've got 18 months more of thinking about the M4, and you've got a five-year scheme, which, essentially, is going to cost millions of pounds and reduce traffic congestion by 4 per cent. So, here is the solution. On your last page of your statement, you say, 'We are developing a long-term roads-based and engineering solution.' Well, I'll tell you, we've got one: it's the M4 relief road, the black route. Reform UK have costed this at £2.8 billion. Yes, that's a lot of money, but I will guarantee here that, if there is a Reform Welsh Government, we will be lobbying and working with a Reform UK Westminster Government—which is coming, ladies and gentlemen—and we will build the M4 relief road. So, Minister, I want to confirm: are you committed to the bridge, completely and utterly committed? And please stop thinking and just get on with it. Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=8245"
+        }
+      ],
+      "date": "2026-10-06",
+      "record_page_url": "https://record.senedd.wales/Plenary/16313"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-772861",
+          "item_id": "item-16264-260929-3",
+          "item_title_en": "2. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 1996,
+          "text_english": "I'm glad you brought up this question about music venues, because they are struggling. I want to talk about Arts Council Wales's core funding. Grass-roots music venues seem to get nothing from that, whereas other music genres, like opera, can receive millions of pounds. So, the same system that subsidises theatres and galleries without question tells our small venues that they're commercial operations and they must fend for themselves. We've talked about some of the clubs that are still going, but some have failed—Central Station in Wrexham, TJ's in Newport and Barfly in Cardiff. This month, Tramshed missed out on rates relief by £4,000. Just because business returned to normal after COVID, it doesn't mean they're making more money now.\n\nEvery business supports the 30 per cent business rates cut, and we support that here, but these small venues are not taking advantage of that because they're just slightly over the threshold, and we really risk an effect on young Welsh talent. So, I'd like to ask you: can you think about replacing the cliff edge with a taper and commit to parity of esteem for grass-roots music venues? Diolch.",
+          "text_original": "I'm glad you brought up this question about music venues, because they are struggling. I want to talk about Arts Council Wales's core funding. Grass-roots music venues seem to get nothing from that, whereas other music genres, like opera, can receive millions of pounds. So, the same system that subsidises theatres and galleries without question tells our small venues that they're commercial operations and they must fend for themselves. We've talked about some of the clubs that are still going, but some have failed—Central Station in Wrexham, TJ's in Newport and Barfly in Cardiff. This month, Tramshed missed out on rates relief by £4,000. Just because business returned to normal after COVID, it doesn't mean they're making more money now.\n\nEvery business supports the 30 per cent business rates cut, and we support that here, but these small venues are not taking advantage of that because they're just slightly over the threshold, and we really risk an effect on young Welsh talent. So, I'd like to ask you: can you think about replacing the cliff edge with a taper and commit to parity of esteem for grass-roots music venues? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=1996"
+        },
+        {
+          "id": "contribution-772998",
+          "item_id": "item-16264-260929-5",
+          "item_title_en": "4. Statement by the Cabinet Minister for Health and Care: Review of the Escalation and Intervention Framework",
+          "lang": "en",
+          "t_start": 7303,
+          "text_english": "I thank you, Minister, for your statement, and, genuinely, I hope this does work, for all of my constituents in Clwyd, but also for myself and my family. Certainly, with Betsi Cadwaladr health board, you never quite know when you're going there what's going to happen, and we've had some horror stories over the last 12 months, particularly.\n\nBut I just wanted to focus on this idea of health boards setting their own criteria and the assessments being made by stakeholders. I'm just a bit concerned about that, because, obviously, there's senior management in place right now, and chief executives in place right now, who are overseeing health boards that really aren't doing a good enough job. And you're sort of asking them to mark their own homework. I'd hope they would be very nervous about this framework coming in and they'd need to pull their socks up. Because this is about leadership and culture. So, that's down to human beings inside organisations just not doing a good enough job, and trying to change that culture has to be carrot and stick. So, I'm slightly concerned about them setting their own criteria, so a little bit more about that, please. \n\nAnd then, in terms of making the public aware of what we're doing, it's a pretty dry document, isn't it? And it's trying to make sure that the public understand that all of us want to make sure the NHS is a much better-run organisation. How are we going to get that across to the public about these changes? And, particularly, I was interested that the accountability review may be held in public for health boards. So, tell us a little bit more about that, and about setting your own criteria. Diolch.",
+          "text_original": "I thank you, Minister, for your statement, and, genuinely, I hope this does work, for all of my constituents in Clwyd, but also for myself and my family. Certainly, with Betsi Cadwaladr health board, you never quite know when you're going there what's going to happen, and we've had some horror stories over the last 12 months, particularly.\n\nBut I just wanted to focus on this idea of health boards setting their own criteria and the assessments being made by stakeholders. I'm just a bit concerned about that, because, obviously, there's senior management in place right now, and chief executives in place right now, who are overseeing health boards that really aren't doing a good enough job. And you're sort of asking them to mark their own homework. I'd hope they would be very nervous about this framework coming in and they'd need to pull their socks up. Because this is about leadership and culture. So, that's down to human beings inside organisations just not doing a good enough job, and trying to change that culture has to be carrot and stick. So, I'm slightly concerned about them setting their own criteria, so a little bit more about that, please. \n\nAnd then, in terms of making the public aware of what we're doing, it's a pretty dry document, isn't it? And it's trying to make sure that the public understand that all of us want to make sure the NHS is a much better-run organisation. How are we going to get that across to the public about these changes? And, particularly, I was interested that the accountability review may be held in public for health boards. So, tell us a little bit more about that, and about setting your own criteria. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=7303"
+        }
+      ],
+      "date": "2026-09-29",
+      "record_page_url": "https://record.senedd.wales/Plenary/16264"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771574",
+          "item_id": "item-16263-260923-3",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "7. Will the Commission provide an update on the Bay 32 project? OQ64558",
+          "text_original": "7. A wnaiff y Comisiwn roi diweddariad ar brosiect Bae 32? OQ64558",
+          "tv_url": "http://www.senedd.tv/en/16263"
+        },
+        {
+          "id": "contribution-771514",
+          "item_id": "item-16263-260923-3",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 6627,
+          "text_english": "Thank you, you've answered a couple of questions in your statement, so I just wanted to ask: will the landlord be paying for the costs relating to moving us and staff members, or is it just for the improvements to Tŷ Hywel? Thanks.",
+          "text_original": "Thank you, you've answered a couple of questions in your statement, so I just wanted to ask: will the landlord be paying for the costs relating to moving us and staff members, or is it just for the improvements to Tŷ Hywel? Thanks.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=6627"
+        }
+      ],
+      "date": "2026-09-23",
+      "record_page_url": "https://record.senedd.wales/Plenary/16263"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771074",
+          "item_id": "item-16262-260922-6",
+          "item_title_en": "6. Statement by the Cabinet Minister for Rural Resilience and Sustainability: Update on the Deposit-return Scheme",
+          "lang": "en",
+          "t_start": 14738,
+          "text_english": "Thank you, Minister, for your statement. We're clearly driving forward with the deposit-return scheme, but I simply don't think this Chamber or the general public, certainly Welsh families and Welsh businesses, truly understand what is coming next October, whether the scheme includes plastic, aluminium or glass containers. The fact that we're virtually empty here in the Chamber just shows that people don't understand it. So, I really thank you for allowing me to do this very briefly.\n\nLet me begin. This is the current system of recycling in Wales. We have the highest recycling rates in Wales. Yes, shop, containers, home, Trolibocs, council, they sort it out, they make the money. Okay. This is what's going to happen now. We're going to go to the shop, we're going to buy containers, they're going to have a 20p flat rate on them, they're going to go to homes, and we've got to return them to retail. We've got to take them to these vending machines to get our 20 pences back. Meanwhile, the council have still got to pick up all the low-value recycling. Think about this here, I'm going to talk about this in a minute. Okay, that's the new system. I'll show you this outside if you want more detail.\n\nObviously, DRS was introduced by the Conservatives in the Environment Act 2021, and I do not understand—[Interruption.] I know, that's why I left. [Laughter.] We are going to have a second parallel system that requires people to drive, transport and return these containers separately. Why are we moving material around twice? Think of the emissions. Why are we building a system around thousands of reverse vending machines? The shops have got to buy these machines. We're locking ourselves into technology that belongs to the past. When you get to the machine and you put your bottle in, you get a paper ticket. It's not the 1980s. It's ridiculous.\n\nAnd then there's the cost. This is the most serious point for me. Cost of living—every family in Wales is feeling the cost of living. Now we're being told that every drinks container will carry an extra charge. Say you're buying a 24-pack of water bottles, that's £4.80 to the bill upfront. Yes, we're told we can get it back, but we all know not every deposit will be redeemed. You'll lose your paper ticket. Some families just won't get round to doing it. And what about online food delivery? For people that don't want to or can't go to supermarkets—the elderly, the vulnerable, people with health conditions, disabilities—how do they get back their 20p? So, Minister, here's your first question: how will people that use online delivery and don't go to supermarkets get their 20p back?\n\nAnd where does all this unredeemed money go? It goes into a private scheme administrator, sitting in a bank account earning lots of interest. A private, not-for-profit organisation, chief execs paid very nicely, and there's very little public understanding of who controls that money and how it will be spent. So, second question, Minister: how long will those unredeemed 20 pences be kept in that private bank account earning interest, and who decides how and when that money is spent?\n\nOh, perhaps the biggest issue of all is one that's not been discussed today at all in the statement: council revenues. This scheme quietly removes some of the most valuable recyclable materials, like aluminium, from local authority recycling streams—the materials that help councils generate revenue and offset collection costs. For years, councils have built recycling services around those materials, and now we're proposing to remove them and hand control elsewhere.\n\nI've got letters and statements here from companies and member organisations in England—the Association of Directors of Environment, Economy, Planning and Transport and the National Association of Waste Disposal Officers—lots of different companies that recycle for local authorities, basically saying, and I quote from one of them, 'DRS would duplicate a system that is already costing local authorities hundreds of thousands of pounds each year', and they want it to be paused. This is in England. So, my third question to the Minister is: what impact assessments has the Welsh Government done on local council revenues in this new system?\n\nNow, let's look at our friends in Ireland. They're about two years ahead of us. I noticed the statement said that it was working well in other countries. Well, I've spoken to our counterparts over the Irish sea. There are constant problems with the machines. They either break down or they fill up quickly. People hate them. It creates litter. Listen to this: Dublin City Council has spent hundreds of thousands of pounds—I think it's about £800,000—cleaning up after scavenging for bottles and cans from litter bins. They pull all the litter out, they find the valuable product, they don't put the litter back in.\n\nControl, like the plan for Wales, is with a non-government organisation. That organisation now sits on €98 million of unredeemed deposits, because that's what happens when you devise a system that hasn't been thought through on the impact to everyday life, what we're asking people to do, to take their containers back to the vending machines. My goodness, there's enough to do in life already. And by removing those valuable recyclable products from household waste management in Ireland, bin collection charges—it’s a slightly different system to us here—have gone up by 30 per cent.\n\nIf litter was the issue, there are simpler and cheaper ways to tackle it. For me, I would scrap this scheme and we should be improving and modernising our world-leading kerbside recycling system. Part of the extended producer responsibility tax could be ring-fenced by UK Government with Barnett consequentials to invest in the latest technology, so these high-value materials can still be picked up kerbside, and we can start building processing plants here in Wales.\n\nMinister, DRS is a reform too far. It will have a massive impact on Welsh recycling records, Welsh communities and Welsh pockets. Please: pause, wait.",
+          "text_original": "Thank you, Minister, for your statement. We're clearly driving forward with the deposit-return scheme, but I simply don't think this Chamber or the general public, certainly Welsh families and Welsh businesses, truly understand what is coming next October, whether the scheme includes plastic, aluminium or glass containers. The fact that we're virtually empty here in the Chamber just shows that people don't understand it. So, I really thank you for allowing me to do this very briefly.\n\nLet me begin. This is the current system of recycling in Wales. We have the highest recycling rates in Wales. Yes, shop, containers, home, Trolibocs, council, they sort it out, they make the money. Okay. This is what's going to happen now. We're going to go to the shop, we're going to buy containers, they're going to have a 20p flat rate on them, they're going to go to homes, and we've got to return them to retail. We've got to take them to these vending machines to get our 20 pences back. Meanwhile, the council have still got to pick up all the low-value recycling. Think about this here, I'm going to talk about this in a minute. Okay, that's the new system. I'll show you this outside if you want more detail.\n\nObviously, DRS was introduced by the Conservatives in the Environment Act 2021, and I do not understand—[Interruption.] I know, that's why I left. [Laughter.] We are going to have a second parallel system that requires people to drive, transport and return these containers separately. Why are we moving material around twice? Think of the emissions. Why are we building a system around thousands of reverse vending machines? The shops have got to buy these machines. We're locking ourselves into technology that belongs to the past. When you get to the machine and you put your bottle in, you get a paper ticket. It's not the 1980s. It's ridiculous.\n\nAnd then there's the cost. This is the most serious point for me. Cost of living—every family in Wales is feeling the cost of living. Now we're being told that every drinks container will carry an extra charge. Say you're buying a 24-pack of water bottles, that's £4.80 to the bill upfront. Yes, we're told we can get it back, but we all know not every deposit will be redeemed. You'll lose your paper ticket. Some families just won't get round to doing it. And what about online food delivery? For people that don't want to or can't go to supermarkets—the elderly, the vulnerable, people with health conditions, disabilities—how do they get back their 20p? So, Minister, here's your first question: how will people that use online delivery and don't go to supermarkets get their 20p back?\n\nAnd where does all this unredeemed money go? It goes into a private scheme administrator, sitting in a bank account earning lots of interest. A private, not-for-profit organisation, chief execs paid very nicely, and there's very little public understanding of who controls that money and how it will be spent. So, second question, Minister: how long will those unredeemed 20 pences be kept in that private bank account earning interest, and who decides how and when that money is spent?\n\nOh, perhaps the biggest issue of all is one that's not been discussed today at all in the statement: council revenues. This scheme quietly removes some of the most valuable recyclable materials, like aluminium, from local authority recycling streams—the materials that help councils generate revenue and offset collection costs. For years, councils have built recycling services around those materials, and now we're proposing to remove them and hand control elsewhere.\n\nI've got letters and statements here from companies and member organisations in England—the Association of Directors of Environment, Economy, Planning and Transport and the National Association of Waste Disposal Officers—lots of different companies that recycle for local authorities, basically saying, and I quote from one of them, 'DRS would duplicate a system that is already costing local authorities hundreds of thousands of pounds each year', and they want it to be paused. This is in England. So, my third question to the Minister is: what impact assessments has the Welsh Government done on local council revenues in this new system?\n\nNow, let's look at our friends in Ireland. They're about two years ahead of us. I noticed the statement said that it was working well in other countries. Well, I've spoken to our counterparts over the Irish sea. There are constant problems with the machines. They either break down or they fill up quickly. People hate them. It creates litter. Listen to this: Dublin City Council has spent hundreds of thousands of pounds—I think it's about £800,000—cleaning up after scavenging for bottles and cans from litter bins. They pull all the litter out, they find the valuable product, they don't put the litter back in.\n\nControl, like the plan for Wales, is with a non-government organisation. That organisation now sits on €98 million of unredeemed deposits, because that's what happens when you devise a system that hasn't been thought through on the impact to everyday life, what we're asking people to do, to take their containers back to the vending machines. My goodness, there's enough to do in life already. And by removing those valuable recyclable products from household waste management in Ireland, bin collection charges—it’s a slightly different system to us here—have gone up by 30 per cent.\n\nIf litter was the issue, there are simpler and cheaper ways to tackle it. For me, I would scrap this scheme and we should be improving and modernising our world-leading kerbside recycling system. Part of the extended producer responsibility tax could be ring-fenced by UK Government with Barnett consequentials to invest in the latest technology, so these high-value materials can still be picked up kerbside, and we can start building processing plants here in Wales.\n\nMinister, DRS is a reform too far. It will have a massive impact on Welsh recycling records, Welsh communities and Welsh pockets. Please: pause, wait.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=14738"
+        }
+      ],
+      "date": "2026-09-22",
+      "record_page_url": "https://record.senedd.wales/Plenary/16262"
+    },
     {
       "contributions": [
         {

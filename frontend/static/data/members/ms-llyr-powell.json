@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,230 @@
   "canonical_name": "Llŷr Powell",
   "constituency_name_cy": "Blaenau Gwent Caerffili Rhymni",
   "constituency_name_en": "Blaenau Gwent Caerffili Rhymni",
-  "contribution_count": 18,
+  "contribution_count": 36,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778458",
+          "item_id": "item-16315-261013-2",
+          "item_title_en": "2. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 3722,
+          "text_english": "I'd be grateful if, when budget deals or statements are made in the future, that they're made to the Chamber, and not to the press in advance. \n\nBut on to—. I request a statement, if possible, Trefnydd, from the Minister for education, based on AI and coding. There's a new study that's coming out that shows Wales quite low, behind other parts of the UK, in terms of where we are with coding in our schools. Given that it's going to be a huge part of young people's futures, would the Government come forward with a statement to tell us what their plans are to get children up to date with the future, like other nations?",
+          "text_original": "I'd be grateful if, when budget deals or statements are made in the future, that they're made to the Chamber, and not to the press in advance. \n\nBut on to—. I request a statement, if possible, Trefnydd, from the Minister for education, based on AI and coding. There's a new study that's coming out that shows Wales quite low, behind other parts of the UK, in terms of where we are with coding in our schools. Given that it's going to be a huge part of young people's futures, would the Government come forward with a statement to tell us what their plans are to get children up to date with the future, like other nations?",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=3722"
+        }
+      ],
+      "date": "2026-10-13",
+      "record_page_url": "https://record.senedd.wales/Plenary/16315"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776810",
+          "item_id": "item-16314-261007-5",
+          "item_title_en": "Motions to elect Members to committees",
+          "lang": "en",
+          "t_start": 8610,
+          "text_english": "I formally move the motions.",
+          "text_original": "I formally move the motions.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=8610"
+        },
+        {
+          "id": "contribution-776893",
+          "item_id": "item-16314-261007-8",
+          "item_title_en": "7. Reform UK Debate: Regional rugby",
+          "lang": "en",
+          "t_start": 13604,
+          "text_english": "Diolch, Deputy Llywydd. I want to thank all Members who've contributed to what is an important debate. As Members have said in this Chamber, rugby is a lot more. I know that the Minister, in her response, said that she doesn't want to dictate sport, but the Welsh Government, in the past, has stepped in when employment is at risk. As well as clubs that are supported, these regions are employers. Right now for the Welsh economy, the four regions are estimated to contribute between £50 million and £55 million. That is a lot of money. When you say in your motion today that we need to speak with the WRU and give them more time and the rest of it, I think time is running out, Minister. December is coming quickly, and those employees need assurances about whether they'll have a job in the future. So, I'm unafraid today to vote for our motion that's trying to get clarity for people's livelihoods, and I'll never apologise for that. I think the Government has got a role to step in and get involved—",
+          "text_original": "Diolch, Deputy Llywydd. I want to thank all Members who've contributed to what is an important debate. As Members have said in this Chamber, rugby is a lot more. I know that the Minister, in her response, said that she doesn't want to dictate sport, but the Welsh Government, in the past, has stepped in when employment is at risk. As well as clubs that are supported, these regions are employers. Right now for the Welsh economy, the four regions are estimated to contribute between £50 million and £55 million. That is a lot of money. When you say in your motion today that we need to speak with the WRU and give them more time and the rest of it, I think time is running out, Minister. December is coming quickly, and those employees need assurances about whether they'll have a job in the future. So, I'm unafraid today to vote for our motion that's trying to get clarity for people's livelihoods, and I'll never apologise for that. I think the Government has got a role to step in and get involved—",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=13604"
+        },
+        {
+          "id": "contribution-776895",
+          "item_id": "item-16314-261007-8",
+          "item_title_en": "7. Reform UK Debate: Regional rugby",
+          "lang": "en",
+          "t_start": 13687,
+          "text_english": "I think, Minister, the role we have to play is the same as when Tata was going under. We stepped in to protect jobs. We saw the Welsh Government bringing them to the table, taking action. That's what I want to see from the Welsh Government. Time and time again, when my colleagues have asked questions in this Chamber around what was going on here with the WRU, they did not get a satisfying response. I asked at the end of last term for a statement from you, as the Minister for sport, on the WRU, and we didn't get one. Our constituents are concerned right now about the future of sport, and we have been forced to bring this debate here today to try to get answers for our constituents. There is a transparency question. That is the concern here.\n\nI think we could have worked together. I think we should press pause on the WRU's plans until they can come forward and tell us what the numbers really are. How did they come to this conclusion? What are they trying to hide? I think protecting four regions until we know those answers is vital, and that's why we are saying we need to send a clear signal.\n\nThe First Minister, the Prif Weinidog, stood in this Chamber leading a Government debate not long ago, in which he spoke about the power of this Chamber, in a motion that the Welsh Government didn't control, on fair funding, calling for fair funding—a motion similar to ours today—and said that this place can send a clear signal. He said the power of all of us in this room working together and voting together can send a clear example. We could have sent to the WRU today a clear message that this is unacceptable, that players deserve better, fans deserve better, taxpayers deserve better, like the local authorities that could be on the hook for these stadiums.\n\nBack in February, the Deputy First Minister said to this Chamber, to the last Labour Government, 'You simply can't wash your hands of this'. That was, now, a Plaid Minister who said those words—that Government can't wash their hands of this. What did she expect that Government to do? There's the question now: what did she expect? Nothing. She said it on the record that she expected action because she believed that this Chamber and this Government can have a strong voice. That's what we're doing.\n\nIn the election campaign, in The Pembrokeshire Herald, I'm sure you all would have read:\n\n'Plaid Cymru Senedd election candidates emphasize call for Scarlets’ survival'.\n\nPlaid Cymru put a press release out during the election saying that they wanted to save the Scarlets. And today, they're saying that their Government can't get involved. [Interruption.] You just stood up and said, 'What do you expect me to do?' Minister. That is what you said. And your party put a press release out saying that you could get involved. That is unacceptable. There is a standard here in which we tell the electorate things and we should honour them—[Interruption.] Minister, every time now. Come on, you've just had eight minutes to speak and two interventions. I'm trying to address the point you were raising, Minister. I'm pointing out that your party called for these actions.",
+          "text_original": "I think, Minister, the role we have to play is the same as when Tata was going under. We stepped in to protect jobs. We saw the Welsh Government bringing them to the table, taking action. That's what I want to see from the Welsh Government. Time and time again, when my colleagues have asked questions in this Chamber around what was going on here with the WRU, they did not get a satisfying response. I asked at the end of last term for a statement from you, as the Minister for sport, on the WRU, and we didn't get one. Our constituents are concerned right now about the future of sport, and we have been forced to bring this debate here today to try to get answers for our constituents. There is a transparency question. That is the concern here.\n\nI think we could have worked together. I think we should press pause on the WRU's plans until they can come forward and tell us what the numbers really are. How did they come to this conclusion? What are they trying to hide? I think protecting four regions until we know those answers is vital, and that's why we are saying we need to send a clear signal.\n\nThe First Minister, the Prif Weinidog, stood in this Chamber leading a Government debate not long ago, in which he spoke about the power of this Chamber, in a motion that the Welsh Government didn't control, on fair funding, calling for fair funding—a motion similar to ours today—and said that this place can send a clear signal. He said the power of all of us in this room working together and voting together can send a clear example. We could have sent to the WRU today a clear message that this is unacceptable, that players deserve better, fans deserve better, taxpayers deserve better, like the local authorities that could be on the hook for these stadiums.\n\nBack in February, the Deputy First Minister said to this Chamber, to the last Labour Government, 'You simply can't wash your hands of this'. That was, now, a Plaid Minister who said those words—that Government can't wash their hands of this. What did she expect that Government to do? There's the question now: what did she expect? Nothing. She said it on the record that she expected action because she believed that this Chamber and this Government can have a strong voice. That's what we're doing.\n\nIn the election campaign, in The Pembrokeshire Herald, I'm sure you all would have read:\n\n'Plaid Cymru Senedd election candidates emphasize call for Scarlets’ survival'.\n\nPlaid Cymru put a press release out during the election saying that they wanted to save the Scarlets. And today, they're saying that their Government can't get involved. [Interruption.] You just stood up and said, 'What do you expect me to do?' Minister. That is what you said. And your party put a press release out saying that you could get involved. That is unacceptable. There is a standard here in which we tell the electorate things and we should honour them—[Interruption.] Minister, every time now. Come on, you've just had eight minutes to speak and two interventions. I'm trying to address the point you were raising, Minister. I'm pointing out that your party called for these actions.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=13687"
+        },
+        {
+          "id": "contribution-776892",
+          "item_id": "item-16314-261007-8",
+          "item_title_en": "7. Reform UK Debate: Regional rugby",
+          "lang": "en",
+          "t_start": 13868,
+          "text_english": "How? That is the headline under which the party put out a press release there, and today you're saying you can't do anything about it. I think that is an integrity issue right there, absolutely.\n\nRugby is so much more important, and the WRU have hidden at every opportunity. They've invited Members in this place for a briefing. The briefing wasn't clear and transparent—I sat in it. I've spoken to council leaders that have real concerns about what they could end up with—[Interruption.]—serious money that's going to—. No, Minister, it's not clickbait. When it's real jobs on the line, you'd think you'd actually listen to that. When we see talent leaving Wales now to go and play in English leagues because of the uncertainty here, I think the Government should be listening. That is a concern. Think of the jobs. Think of what we're sending—. The young people that have aspired to play rugby in Wales, looked up at their heroes, and that jersey will no longer exist if the WRU have their way. Heritage gone.\n\nI refuse to stand by and tell my constituents I was not willing to vote for this motion today. I will not tell constituents who have e-mailed telling me about the uncertainty of rugby—I won't be saying, 'I did nothing, I said we were going to let the WRU carry on.' I think we should send a clear signal to them.\n\nTo get to the point, the economy relies heavily on these. We've heard from Members like Steven talking about the pub industries. We've heard Carmelo talking about Llanelli in particular. Our economy is struggling in these areas. What the Scarlets and the Ospreys represent, especially the Scarlets in particular, in west Wales, an area that doesn't have a lot of sporting events sent over—. Here in Cardiff, we're quite blessed that there are a lot. We're seeing growing football and rugby in Newport. But in west Wales, it's not so much.\n\nThe outreach programmes that the Scarlets are a part of down there help get young people off the streets, get them out from in front of a computer screen. They're a part of the preventative health scheme that we hear this Government talk so much about. But, actually, via this motion here, we could be taking people off the front line that are delivering these services for young people. That's a concern, the wider impact.\n\nRugby isn't just a sport. Rugby can be a family when you're stood on a terrace, even with opposition fans. It's good for people's mental health. It's a good way of getting out of the house, getting out of the office. For those fans who are e-mailing us on a regular basis, it's a sign of desperation that their lifeline, as they feel, is going away. Their identity could be stripped off them. Why? Because someone called the WRU, the worst-run union right now, won't tell them why their club could be stripped from them, that a competition, a fight between the west must take place. It's unacceptable. You can't treat livelihoods, identities like this.\n\nWe've heard from Steve of the Celtic Warriors, when we were promised by the WRU, then, no more restructure, this is it. We've seen the damage it did to Pontypridd and Bridgend, two strong, proud rugby communities no longer there. Are we really prepared to say—",
+          "text_original": "How? That is the headline under which the party put out a press release there, and today you're saying you can't do anything about it. I think that is an integrity issue right there, absolutely.\n\nRugby is so much more important, and the WRU have hidden at every opportunity. They've invited Members in this place for a briefing. The briefing wasn't clear and transparent—I sat in it. I've spoken to council leaders that have real concerns about what they could end up with—[Interruption.]—serious money that's going to—. No, Minister, it's not clickbait. When it's real jobs on the line, you'd think you'd actually listen to that. When we see talent leaving Wales now to go and play in English leagues because of the uncertainty here, I think the Government should be listening. That is a concern. Think of the jobs. Think of what we're sending—. The young people that have aspired to play rugby in Wales, looked up at their heroes, and that jersey will no longer exist if the WRU have their way. Heritage gone.\n\nI refuse to stand by and tell my constituents I was not willing to vote for this motion today. I will not tell constituents who have e-mailed telling me about the uncertainty of rugby—I won't be saying, 'I did nothing, I said we were going to let the WRU carry on.' I think we should send a clear signal to them.\n\nTo get to the point, the economy relies heavily on these. We've heard from Members like Steven talking about the pub industries. We've heard Carmelo talking about Llanelli in particular. Our economy is struggling in these areas. What the Scarlets and the Ospreys represent, especially the Scarlets in particular, in west Wales, an area that doesn't have a lot of sporting events sent over—. Here in Cardiff, we're quite blessed that there are a lot. We're seeing growing football and rugby in Newport. But in west Wales, it's not so much.\n\nThe outreach programmes that the Scarlets are a part of down there help get young people off the streets, get them out from in front of a computer screen. They're a part of the preventative health scheme that we hear this Government talk so much about. But, actually, via this motion here, we could be taking people off the front line that are delivering these services for young people. That's a concern, the wider impact.\n\nRugby isn't just a sport. Rugby can be a family when you're stood on a terrace, even with opposition fans. It's good for people's mental health. It's a good way of getting out of the house, getting out of the office. For those fans who are e-mailing us on a regular basis, it's a sign of desperation that their lifeline, as they feel, is going away. Their identity could be stripped off them. Why? Because someone called the WRU, the worst-run union right now, won't tell them why their club could be stripped from them, that a competition, a fight between the west must take place. It's unacceptable. You can't treat livelihoods, identities like this.\n\nWe've heard from Steve of the Celtic Warriors, when we were promised by the WRU, then, no more restructure, this is it. We've seen the damage it did to Pontypridd and Bridgend, two strong, proud rugby communities no longer there. Are we really prepared to say—",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=13868"
+        },
+        {
+          "id": "contribution-776907",
+          "item_id": "item-16314-261007-8",
+          "item_title_en": "7. Reform UK Debate: Regional rugby",
+          "lang": "en",
+          "t_start": 14065,
+          "text_english": "Yes, you can, by all means.",
+          "text_original": "Yes, you can, by all means.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=14065"
+        },
+        {
+          "id": "contribution-776910",
+          "item_id": "item-16314-261007-8",
+          "item_title_en": "7. Reform UK Debate: Regional rugby",
+          "lang": "en",
+          "t_start": 14099,
+          "text_english": "Well, no, the amendment there right now is saying that WRU have actually consulted people on the outside and they continue doing so. I've spoken to stakeholders in this. They haven't felt consulted. We're hearing from people in the industry that are saying they are—",
+          "text_original": "Well, no, the amendment there right now is saying that WRU have actually consulted people on the outside and they continue doing so. I've spoken to stakeholders in this. They haven't felt consulted. We're hearing from people in the industry that are saying they are—",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=14099"
+        },
+        {
+          "id": "contribution-776912",
+          "item_id": "item-16314-261007-8",
+          "item_title_en": "7. Reform UK Debate: Regional rugby",
+          "lang": "en",
+          "t_start": 14139,
+          "text_english": "Is this an intervention or a contribution here, Llywydd? Is this an intervention or a contribution? Because so far, you had an opportunity to speak in this debate, but only one of your Members chose to stand up in the 60-minute debate to contribute. That's the difference there. Now, in terms of what you're saying there, 'This is point scoring.' It's not. You say the WRU have come before the committee. Where are the numbers now? What's the rationale for this? Even the Minister said she's trying to urge them to do it. You say, 'What's the point of this?' Let's send a clear message to them that it's unacceptable, that we're not allowing it to continue. [Interruption.] No, you're having so much time now. If you wanted to speak, you could have put your name forward. [Interruption.] Oh, Llywydd, come on. This is student union style here—",
+          "text_original": "Is this an intervention or a contribution here, Llywydd? Is this an intervention or a contribution? Because so far, you had an opportunity to speak in this debate, but only one of your Members chose to stand up in the 60-minute debate to contribute. That's the difference there. Now, in terms of what you're saying there, 'This is point scoring.' It's not. You say the WRU have come before the committee. Where are the numbers now? What's the rationale for this? Even the Minister said she's trying to urge them to do it. You say, 'What's the point of this?' Let's send a clear message to them that it's unacceptable, that we're not allowing it to continue. [Interruption.] No, you're having so much time now. If you wanted to speak, you could have put your name forward. [Interruption.] Oh, Llywydd, come on. This is student union style here—",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=14139"
+        },
+        {
+          "id": "contribution-776927",
+          "item_id": "item-16314-261007-8",
+          "item_title_en": "7. Reform UK Debate: Regional rugby",
+          "lang": "en",
+          "t_start": 14184,
+          "text_english": "[Interruption.] What? But if she wanted to contribute—. You can put your name forward. That's a Parliament. You should know.",
+          "text_original": "[Interruption.] What? But if she wanted to contribute—. You can put your name forward. That's a Parliament. You should know.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=14184"
+        },
+        {
+          "id": "contribution-776930",
+          "item_id": "item-16314-261007-8",
+          "item_title_en": "7. Reform UK Debate: Regional rugby",
+          "lang": "en",
+          "t_start": 14204,
+          "text_english": "Thank you, Llywydd. But on the point, right now, out there, what are we sending to the people of Wales that this place does? With an issue where they step forward and tell us they're concerned about something, that we say, 'It's not our responsibility here.' Government should be oversight. We've heard the case. The taxpayers' money is on the line. That's why we must intervene here. Bring them forward.\n\nNow, Minister, as I said, I tried to ask you for a statement on this. None was brought forward. We were forced to bring the debate. The December deadline is coming. There isn't assurances with the regions now. So, if you are going to vote for your amendment, and you try to stop ours today, and you're going to say you don't support the four and that you're going to let the WRU continue with its unchecks and balances, we'll be back here when the danger comes if you don't support them now, because we know the WRU will push this through. They have history of doing it, they will do it again. Right now, rugby, regional rugby across Wales, needs us to support it. I hope Members will give them the same support when they need it now as rugby has offered support to so many communities across Wales in the past. I urge Members to support our motion.",
+          "text_original": "Thank you, Llywydd. But on the point, right now, out there, what are we sending to the people of Wales that this place does? With an issue where they step forward and tell us they're concerned about something, that we say, 'It's not our responsibility here.' Government should be oversight. We've heard the case. The taxpayers' money is on the line. That's why we must intervene here. Bring them forward.\n\nNow, Minister, as I said, I tried to ask you for a statement on this. None was brought forward. We were forced to bring the debate. The December deadline is coming. There isn't assurances with the regions now. So, if you are going to vote for your amendment, and you try to stop ours today, and you're going to say you don't support the four and that you're going to let the WRU continue with its unchecks and balances, we'll be back here when the danger comes if you don't support them now, because we know the WRU will push this through. They have history of doing it, they will do it again. Right now, rugby, regional rugby across Wales, needs us to support it. I hope Members will give them the same support when they need it now as rugby has offered support to so many communities across Wales in the past. I urge Members to support our motion.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=14204"
+        }
+      ],
+      "date": "2026-10-07",
+      "record_page_url": "https://record.senedd.wales/Plenary/16314"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-775883",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "4. What assessment has the First Minister made of the impact of professional sport on the Welsh economy? OQ64617",
+          "text_original": "4. Pa asesiad y mae'r Prif Weinidog wedi'i wneud o effaith chwaraeon proffesiynol ar economi Cymru? OQ64617",
+          "tv_url": "http://www.senedd.tv/en/16313"
+        },
+        {
+          "id": "contribution-775896",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 2268,
+          "text_english": "Thank you, First Minister. I agree with you. Sport can have a huge impact on the economy, as we've seen in places like Swansea—when they made the Premier League, tens of millions of pounds put into the economy there—and here in Cardiff, when they were a part of the Premier League. We've seen success with Wrexham now, having an impact on their economy, in Newport, and with other sports as well, like when the Ryder Cup came to Wales, and we've seen it when the wrestling was in Cardiff. But what future plans has the Welsh Government got to encourage more of these large-scale events that can bring better, high-paying jobs during those periods and that can boost our hospitality industry, but not only to current areas that are seeing that—how about if we can attract more of these large-scale events to other parts of Wales yet to be showcased around the world?",
+          "text_original": "Thank you, First Minister. I agree with you. Sport can have a huge impact on the economy, as we've seen in places like Swansea—when they made the Premier League, tens of millions of pounds put into the economy there—and here in Cardiff, when they were a part of the Premier League. We've seen success with Wrexham now, having an impact on their economy, in Newport, and with other sports as well, like when the Ryder Cup came to Wales, and we've seen it when the wrestling was in Cardiff. But what future plans has the Welsh Government got to encourage more of these large-scale events that can bring better, high-paying jobs during those periods and that can boost our hospitality industry, but not only to current areas that are seeing that—how about if we can attract more of these large-scale events to other parts of Wales yet to be showcased around the world?",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=2268"
+        }
+      ],
+      "date": "2026-10-06",
+      "record_page_url": "https://record.senedd.wales/Plenary/16313"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-773556",
+          "item_id": "item-16265-260930-1",
+          "item_title_en": "1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice",
+          "lang": "en",
+          "t_start": 2353,
+          "text_english": "I thank the Minister for the answer there. The other concern that people are passing to me in terms of post office closures—whether it's Caerphilly or throughout the constituency—is, once the post office closes, it's the lack of being able to get ID, identification; it's the additional services that the post office uniquely provides to communities. I appreciate what you said on Caerphilly there, but what about other parts of Wales and my constituency that have lost that service, and now people are unable to get identification, because of simple things like the proofreading, the assistance, that the post office provides? What help can the Welsh Government provide to constituents there?",
+          "text_original": "I thank the Minister for the answer there. The other concern that people are passing to me in terms of post office closures—whether it's Caerphilly or throughout the constituency—is, once the post office closes, it's the lack of being able to get ID, identification; it's the additional services that the post office uniquely provides to communities. I appreciate what you said on Caerphilly there, but what about other parts of Wales and my constituency that have lost that service, and now people are unable to get identification, because of simple things like the proofreading, the assistance, that the post office provides? What help can the Welsh Government provide to constituents there?",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=2353"
+        }
+      ],
+      "date": "2026-09-30",
+      "record_page_url": "https://record.senedd.wales/Plenary/16265"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-772926",
+          "item_id": "item-16264-260929-4",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 3935,
+          "text_english": "Trefnydd, I'd be grateful if I could have a statement from the health Minister. A few days after the Senedd election, Audit Wales reported that the Aneurin Bevan health board had awarded £10 million in GP contracts, and that they felt that due diligence wasn't done. I'd be grateful for a statement that could tell us that this is a one-off incident and that this isn't something that is going on throughout Wales, as well as how this could be avoided in future, because that £10 million is a lot of money for a health board to lose.",
+          "text_original": "Trefnydd, I'd be grateful if I could have a statement from the health Minister. A few days after the Senedd election, Audit Wales reported that the Aneurin Bevan health board had awarded £10 million in GP contracts, and that they felt that due diligence wasn't done. I'd be grateful for a statement that could tell us that this is a one-off incident and that this isn't something that is going on throughout Wales, as well as how this could be avoided in future, because that £10 million is a lot of money for a health board to lose.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=3935"
+        }
+      ],
+      "date": "2026-09-29",
+      "record_page_url": "https://record.senedd.wales/Plenary/16264"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771513",
+          "item_id": "item-16263-260923-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "en",
+          "t_start": 1117,
+          "text_english": "Oh, you don't care about answering questions from an elected Member. Shocking.",
+          "text_original": "Oh, you don't care about answering questions from an elected Member. Shocking.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=1117"
+        }
+      ],
+      "date": "2026-09-23",
+      "record_page_url": "https://record.senedd.wales/Plenary/16263"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-770802",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "8. What is the Welsh Government doing to address NHS waiting times in Blaenau Gwent Caerfilli Rhymni? OQ64559",
+          "text_original": "8. Beth mae Llywodraeth Cymru yn ei wneud i fynd i'r afael ag amseroedd aros y GIG ym Mlaenau Gwent Caerfilli Rhymni? OQ64559",
+          "tv_url": "http://www.senedd.tv/en/16262"
+        },
+        {
+          "id": "contribution-770789",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 3310,
+          "text_english": "First Minister, a constituent has come to me who is now unable to work because he has a hernia. He's been waiting close to 36 weeks for his surgery. He's living in pain. He feels it affects his family life, his relationship with his children, all because he's waiting to be seen. During the election, you looked down a camera and told the people of Wales that these waiting lists will see an impact within months. We learnt during recess from your health Minister that months could take up to, now, years. [Interruption.] So, the Minister was wrong when he said that waiting lists will take years to address, was he? That's what he said. So, what can you tell the people of Wales? Do you regret saying it's going to be months, because from reports last week, waiting lists are going up and not down? So, will you apologise to the people of Wales for your statement at the election?",
+          "text_original": "First Minister, a constituent has come to me who is now unable to work because he has a hernia. He's been waiting close to 36 weeks for his surgery. He's living in pain. He feels it affects his family life, his relationship with his children, all because he's waiting to be seen. During the election, you looked down a camera and told the people of Wales that these waiting lists will see an impact within months. We learnt during recess from your health Minister that months could take up to, now, years. [Interruption.] So, the Minister was wrong when he said that waiting lists will take years to address, was he? That's what he said. So, what can you tell the people of Wales? Do you regret saying it's going to be months, because from reports last week, waiting lists are going up and not down? So, will you apologise to the people of Wales for your statement at the election?",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=3310"
+        },
+        {
+          "id": "contribution-770924",
+          "item_id": "item-16262-260922-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 6684,
+          "text_english": "Trefnydd, I'd be grateful if I could have a statement on local train overcrowding. Transport for Wales's service for Bridgend to Rhymney is currently the third most overcrowded service between peak hours in the UK. That service now is affecting commuters, affecting their transport into work. It's not very easy for elderly people to get a seat, and it's something that my constituents are raising with me quite often. So, I'd be grateful, Trefnydd, if the Minister sitting here could come forward with something so that we can address the overcrowding on Welsh trains. Diolch.",
+          "text_original": "Trefnydd, I'd be grateful if I could have a statement on local train overcrowding. Transport for Wales's service for Bridgend to Rhymney is currently the third most overcrowded service between peak hours in the UK. That service now is affecting commuters, affecting their transport into work. It's not very easy for elderly people to get a seat, and it's something that my constituents are raising with me quite often. So, I'd be grateful, Trefnydd, if the Minister sitting here could come forward with something so that we can address the overcrowding on Welsh trains. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=6684"
+        }
+      ],
+      "date": "2026-09-22",
+      "record_page_url": "https://record.senedd.wales/Plenary/16262"
+    },
     {
       "contributions": [
         {

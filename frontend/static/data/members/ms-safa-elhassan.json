@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,148 @@
   "canonical_name": "Safa Elhassan",
   "constituency_name_cy": "Gŵyr Abertawe",
   "constituency_name_en": "Gŵyr Abertawe",
-  "contribution_count": 12,
+  "contribution_count": 23,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778907",
+          "item_id": "item-16316-261014-2",
+          "item_title_en": "1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "8. What action is the Welsh Government taking to improve access to cultural, sporting and recreational activities in Gŵyr Abertawe? OQ64707",
+          "text_original": "8. Pa gamau mae Llywodraeth Cymru yn eu cymryd i wella mynediad at weithgareddau diwylliannol, chwaraeon a hamdden yng Ngŵyr Abertawe? OQ64707",
+          "tv_url": "http://www.senedd.tv/en/16316"
+        },
+        {
+          "id": "contribution-778917",
+          "item_id": "item-16316-261014-2",
+          "item_title_en": "1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport",
+          "lang": "en",
+          "t_start": 2589,
+          "text_english": "Diolch, Minister. On a recent visit to Sketty Youth Club, alongside the Cabinet Secretary for Education and the Welsh Language, I saw first-hand how a welcoming community centre can bring children, parents and grandparents together through outdoor activities. Groups such as Sketty Tea Lounge 50-plus club also show how important it is to create opportunities for older people to stay active, connected and engaged.\n\nIn Swansea bay, the HARBWR project provides another excellent example, using creative and cultural activities to support people experiencing loneliness and poor mental health. As a clinician, I know that prevention starts long before someone reaches a hospital or a GP surgery.\n\nHow will the culture and sports strategy help bring community organisations and health services together, so that more people across Gŵyr Abertawe can benefit from affordable cultural and recreational activities to improve well-being and help prevent ill health?",
+          "text_original": "Diolch, Minister. On a recent visit to Sketty Youth Club, alongside the Cabinet Secretary for Education and the Welsh Language, I saw first-hand how a welcoming community centre can bring children, parents and grandparents together through outdoor activities. Groups such as Sketty Tea Lounge 50-plus club also show how important it is to create opportunities for older people to stay active, connected and engaged.\n\nIn Swansea bay, the HARBWR project provides another excellent example, using creative and cultural activities to support people experiencing loneliness and poor mental health. As a clinician, I know that prevention starts long before someone reaches a hospital or a GP surgery.\n\nHow will the culture and sports strategy help bring community organisations and health services together, so that more people across Gŵyr Abertawe can benefit from affordable cultural and recreational activities to improve well-being and help prevent ill health?",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=2589"
+        },
+        {
+          "id": "contribution-778996",
+          "item_id": "item-16316-261014-5",
+          "item_title_en": "4. 90-second Statements",
+          "lang": "en",
+          "t_start": 6122,
+          "text_english": "Diolch. October is Black History Month. Remember the struggle, recognise the contribution and celebrate the achievement.\n\nThis Black History Month, we honour those who have helped build Wales, yet whose stories remain untold. I thank Race Council Cymru, Race Equality First, Ethnic Youth Support Team, Show Racism the Red Card, Black Lives Matter and Black History Cymru 365 campaigners, whose theme this year is 'Proud to be me'. I honour the Windrush generation too. I particularly recognise Professor Uzo Iwobi, founder of Race Council Cymru; Momena Ali, founder of EYST; and Shirley Au-Yeung of the Chinese in Wales Association. Their work in Swansea and beyond has opened doors for others.\n\nTo the black workers in the NHS, schools, public services, factories and the voluntary and third sectors, thank you. To the taxi drivers, takeaway owners, and corner shop keepers, thank you. Your contribution to our economy and communities is beyond measure. I am proud of the 'Anti-racist Wales Action Plan'. Its ambition must live in action and not simply words. I remember the late Mohammad Asghar, our first ethnic minority Assembly Member, elected for Plaid Cymru, and his service to this institution. And Betty Campbell, Wales's first black headteacher, who helped children dream beyond the barriers before them.\n\nBlack history is Welsh history. Black achievement is Welsh achievement. And with pride in our past, let us build change that will last. Diolch.",
+          "text_original": "Diolch. October is Black History Month. Remember the struggle, recognise the contribution and celebrate the achievement.\n\nThis Black History Month, we honour those who have helped build Wales, yet whose stories remain untold. I thank Race Council Cymru, Race Equality First, Ethnic Youth Support Team, Show Racism the Red Card, Black Lives Matter and Black History Cymru 365 campaigners, whose theme this year is 'Proud to be me'. I honour the Windrush generation too. I particularly recognise Professor Uzo Iwobi, founder of Race Council Cymru; Momena Ali, founder of EYST; and Shirley Au-Yeung of the Chinese in Wales Association. Their work in Swansea and beyond has opened doors for others.\n\nTo the black workers in the NHS, schools, public services, factories and the voluntary and third sectors, thank you. To the taxi drivers, takeaway owners, and corner shop keepers, thank you. Your contribution to our economy and communities is beyond measure. I am proud of the 'Anti-racist Wales Action Plan'. Its ambition must live in action and not simply words. I remember the late Mohammad Asghar, our first ethnic minority Assembly Member, elected for Plaid Cymru, and his service to this institution. And Betty Campbell, Wales's first black headteacher, who helped children dream beyond the barriers before them.\n\nBlack history is Welsh history. Black achievement is Welsh achievement. And with pride in our past, let us build change that will last. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=6122"
+        }
+      ],
+      "date": "2026-10-14",
+      "record_page_url": "https://record.senedd.wales/Plenary/16316"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-778439",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "5. What action is the Welsh Government taking to improve access to essential public services in town and city centres across Wales? OQ64706",
+          "text_original": "5. Pa gamau mae Llywodraeth Cymru yn eu cymryd i wella mynediad at wasanaethau cyhoeddus hanfodol yng nghanol trefi a dinasoedd ledled Cymru? OQ64706",
+          "tv_url": "http://www.senedd.tv/en/16315"
+        },
+        {
+          "id": "contribution-778444",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 2672,
+          "text_english": "Diolch, First Minister. Strong cities and towns depend not only on attracting investment but also on ensuring that people can continue to access essential services they rely on every day. In Swansea, the city centre post office in the Quadrant is due to close in February 2027. While a replacement is being explored, no new location or opening date has been confirmed, and the alternative branches do not provide the same range of services. For older residents, disabled people and many small businesses, that would represent a significant loss. First Minister, your Government has rightly committed to supporting thriving high streets and regenerating our towns and city centres. How will the Welsh Government work with partners to safeguard access to essential services, including a full-service post office, as part of a wider regeneration plan for Swansea city centre and communities across Wales?",
+          "text_original": "Diolch, First Minister. Strong cities and towns depend not only on attracting investment but also on ensuring that people can continue to access essential services they rely on every day. In Swansea, the city centre post office in the Quadrant is due to close in February 2027. While a replacement is being explored, no new location or opening date has been confirmed, and the alternative branches do not provide the same range of services. For older residents, disabled people and many small businesses, that would represent a significant loss. First Minister, your Government has rightly committed to supporting thriving high streets and regenerating our towns and city centres. How will the Welsh Government work with partners to safeguard access to essential services, including a full-service post office, as part of a wider regeneration plan for Swansea city centre and communities across Wales?",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=2672"
+        }
+      ],
+      "date": "2026-10-13",
+      "record_page_url": "https://record.senedd.wales/Plenary/16315"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-775966",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "3. What assessment has the Cabinet Minister made of how statistics can support more effective government and public sector decision making across Wales? OQ64626",
+          "text_original": "3. Pa asesiad y mae'r Gweinidog Cabinet wedi'i wneud o'r modd y gall ystadegau gefnogi o ran gwneud penderfyniadau mwy effeithiol gan y llywodraeth a'r sector cyhoeddus ledled Cymru? OQ64626",
+          "tv_url": "http://www.senedd.tv/en/16313"
+        },
+        {
+          "id": "contribution-775970",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "en",
+          "t_start": 4661,
+          "text_english": "Diolch, Cabinet Minister. Evidence-based decision making is central to delivering effective public service and ensuring the best use of public money. In healthcare, for example, we know that additional capacity can sometimes be needed to reduce waiting times. Audit Wales has highlighted that insourcing and outsourcing can help reduce long waits, but that it can also place additional pressure on NHS finances down the line, whilst opportunities remain to improve productivity within NHS services. So, Cabinet Minister, how is the Welsh Government ensuring that decisions on improving and delivering effective public services are not just informed by immediate cost savings or short-term deliveries, but also on sustainability, long-term outcomes and capacity building?",
+          "text_original": "Diolch, Cabinet Minister. Evidence-based decision making is central to delivering effective public service and ensuring the best use of public money. In healthcare, for example, we know that additional capacity can sometimes be needed to reduce waiting times. Audit Wales has highlighted that insourcing and outsourcing can help reduce long waits, but that it can also place additional pressure on NHS finances down the line, whilst opportunities remain to improve productivity within NHS services. So, Cabinet Minister, how is the Welsh Government ensuring that decisions on improving and delivering effective public services are not just informed by immediate cost savings or short-term deliveries, but also on sustainability, long-term outcomes and capacity building?",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=4661"
+        }
+      ],
+      "date": "2026-10-06",
+      "record_page_url": "https://record.senedd.wales/Plenary/16313"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-773622",
+          "item_id": "item-16265-260930-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Rural Resilience and Sustainability",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "3. What action is the Welsh Government taking to ensure that groundwater sources that could be affected by major developments are appropriately protected and monitored? OQ64604",
+          "text_original": "3. Pa gamau mae Llywodraeth Cymru yn eu cymryd i sicrhau bod ffynonellau dŵr daear, y gallai datblygiadau mawr effeithio arnynt, yn cael eu diogelu a'u monitro'n briodol? OQ64604",
+          "tv_url": "http://www.senedd.tv/en/16265"
+        },
+        {
+          "id": "contribution-773608",
+          "item_id": "item-16265-260930-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Rural Resilience and Sustainability",
+          "lang": "en",
+          "t_start": 4525,
+          "text_english": "Diolch. Access to clean and safe groundwater is essential for protecting public health, supporting agriculture and safeguarding our natural environment. As major developments come forward across Wales, it is vital that local communities can feel confident that groundwater sources are being properly monitored and protected. Can you outline how the Welsh Government is working with Natural Resources Wales and the local planning authorities to ensure that groundwater resources are robustly monitored, protected and transparently assessed before major developments are approved?",
+          "text_original": "Diolch. Access to clean and safe groundwater is essential for protecting public health, supporting agriculture and safeguarding our natural environment. As major developments come forward across Wales, it is vital that local communities can feel confident that groundwater sources are being properly monitored and protected. Can you outline how the Welsh Government is working with Natural Resources Wales and the local planning authorities to ensure that groundwater resources are robustly monitored, protected and transparently assessed before major developments are approved?",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=4525"
+        },
+        {
+          "id": "contribution-773710",
+          "item_id": "item-16265-260930-4",
+          "item_title_en": "4. 90-second Statements",
+          "lang": "en",
+          "t_start": 7797,
+          "text_english": "As Childhood Cancer Awareness Month draws to a close, I want to recognise children and families who are living with, and whose lives have been turned upside down by, a cancer diagnosis. In Gŵyr Abertawe, Latch is supporting 15 children affected by cancer and their families. As a clinician, I recognise the importance of treatment and care, and as a mother, I think of parents sitting by the hospital bed, holding their child's hand, trying to offer reassurance while carrying fears of their own.\n\nBehind every diagnosis is a child missing friends and school, and a family learning to live with uncertainty. I thank Latch for their emotional, practical and financial support, and for helping families stay close when they need each other most. I pay tribute to the NHS teams, volunteers and fundraisers who bring care and comfort through difficult times.\n\nWe remember too the children who've died and their families, who carry their love and their loss every day. To every family facing childhood cancer, you deserve to be heard, understood and supported. September may be ending, but our support must continue throughout the year. Diolch.",
+          "text_original": "As Childhood Cancer Awareness Month draws to a close, I want to recognise children and families who are living with, and whose lives have been turned upside down by, a cancer diagnosis. In Gŵyr Abertawe, Latch is supporting 15 children affected by cancer and their families. As a clinician, I recognise the importance of treatment and care, and as a mother, I think of parents sitting by the hospital bed, holding their child's hand, trying to offer reassurance while carrying fears of their own.\n\nBehind every diagnosis is a child missing friends and school, and a family learning to live with uncertainty. I thank Latch for their emotional, practical and financial support, and for helping families stay close when they need each other most. I pay tribute to the NHS teams, volunteers and fundraisers who bring care and comfort through difficult times.\n\nWe remember too the children who've died and their families, who carry their love and their loss every day. To every family facing childhood cancer, you deserve to be heard, understood and supported. September may be ending, but our support must continue throughout the year. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=7797"
+        }
+      ],
+      "date": "2026-09-30",
+      "record_page_url": "https://record.senedd.wales/Plenary/16265"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771603",
+          "item_id": "item-16263-260923-5",
+          "item_title_en": "5. 90-second Statements",
+          "lang": "en",
+          "t_start": 8061,
+          "text_english": "It's Migraine Awareness Week, and I want to recognise people across Wales living with a condition that is too often dismissed. Migraines affect one in seven people in the UK. It's a neurological condition that can cause severe pain, sickness and sensitivity to light and sound. Its impact reaches far beyond an attack. It affects work, family life and mental well-being. \n\nThe Migraine Trust's latest survey found that nine in 10 respondents had felt disbelief about the severity or the impact of their migraine. Nearly a third had experienced this from their colleagues or their managers. More than three quarters say that the disbelief has damaged their mental health. Nobody should have to fight to be believed while already struggling with pain. The trust's 'Believe me' campaign carries a simple message to us all: listen, take migraine seriously and offer practical support. To people living with migraine in Gŵyr Abertawe, and across Wales: your experience matters. Pain does not have to be visible to deserve understanding, and a little patience and compassion can make a difference. Diolch.",
+          "text_original": "It's Migraine Awareness Week, and I want to recognise people across Wales living with a condition that is too often dismissed. Migraines affect one in seven people in the UK. It's a neurological condition that can cause severe pain, sickness and sensitivity to light and sound. Its impact reaches far beyond an attack. It affects work, family life and mental well-being. \n\nThe Migraine Trust's latest survey found that nine in 10 respondents had felt disbelief about the severity or the impact of their migraine. Nearly a third had experienced this from their colleagues or their managers. More than three quarters say that the disbelief has damaged their mental health. Nobody should have to fight to be believed while already struggling with pain. The trust's 'Believe me' campaign carries a simple message to us all: listen, take migraine seriously and offer practical support. To people living with migraine in Gŵyr Abertawe, and across Wales: your experience matters. Pain does not have to be visible to deserve understanding, and a little patience and compassion can make a difference. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=8061"
+        }
+      ],
+      "date": "2026-09-23",
+      "record_page_url": "https://record.senedd.wales/Plenary/16263"
+    },
     {
       "contributions": [
         {

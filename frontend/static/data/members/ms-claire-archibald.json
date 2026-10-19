@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,144 @@
   "canonical_name": "Claire Archibald",
   "constituency_name_cy": "Ceredigion Penfro",
   "constituency_name_en": "Ceredigion Penfro",
-  "contribution_count": 11,
+  "contribution_count": 21,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778620",
+          "item_id": "item-16315-261013-5",
+          "item_title_en": "5. Statement by the Cabinet Minister for Health and Care: Update on winter preparedness",
+          "lang": "en",
+          "t_start": 12850,
+          "text_english": "I've got the wrong thing. I'm really sorry.\n\nI just wanted to say thank you, Minister, for bringing the statement forward. Everybody's been talking about vaccines, so I just wanted to add that I want to recognise the vital contribution of the third sector, primary care and the community teams, GPs, pharmacists, nurses and health workers, who deliver essential vaccinations all over the county, especially in my community.\n\nYesterday, I visited Bronglais Hospital and saw first-hand the mental and physical wear that departments and their staff are experiencing. Speaking to front-line workers, it was impossible not to be struck by their commitment to their patients, but also the toll that the relentless demand is taking on them. Year on year, we hear of increased demand and an uptick in pressure on A&E and wards, yet too many patients and staff continue to face challenges that are becoming increasingly difficult. Just this Sunday, Glangwili, Bronglais and Withybush put out a statement saying they were severely under pressure in their A&Es, so this is nothing unusual to them. It's a fact that the health and social care staff are carrying immense constraint. History shows that winter pressures—",
+          "text_original": "I've got the wrong thing. I'm really sorry.\n\nI just wanted to say thank you, Minister, for bringing the statement forward. Everybody's been talking about vaccines, so I just wanted to add that I want to recognise the vital contribution of the third sector, primary care and the community teams, GPs, pharmacists, nurses and health workers, who deliver essential vaccinations all over the county, especially in my community.\n\nYesterday, I visited Bronglais Hospital and saw first-hand the mental and physical wear that departments and their staff are experiencing. Speaking to front-line workers, it was impossible not to be struck by their commitment to their patients, but also the toll that the relentless demand is taking on them. Year on year, we hear of increased demand and an uptick in pressure on A&E and wards, yet too many patients and staff continue to face challenges that are becoming increasingly difficult. Just this Sunday, Glangwili, Bronglais and Withybush put out a statement saying they were severely under pressure in their A&Es, so this is nothing unusual to them. It's a fact that the health and social care staff are carrying immense constraint. History shows that winter pressures—",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=12850"
+        },
+        {
+          "id": "contribution-778613",
+          "item_id": "item-16315-261013-5",
+          "item_title_en": "5. Statement by the Cabinet Minister for Health and Care: Update on winter preparedness",
+          "lang": "en",
+          "t_start": 12916,
+          "text_english": "—are harsher than forecasted. I'm really sorry. If demand this winter exceeds the forecast, what reassurance can you give the public that they will not see a repeat of the delays experienced in previous years? Diolch.",
+          "text_original": "—are harsher than forecasted. I'm really sorry. If demand this winter exceeds the forecast, what reassurance can you give the public that they will not see a repeat of the delays experienced in previous years? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=12916"
+        }
+      ],
+      "date": "2026-10-13",
+      "record_page_url": "https://record.senedd.wales/Plenary/16315"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776648",
+          "item_id": "item-16314-261007-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Health and Care",
+          "lang": "en",
+          "t_start": 2361,
+          "text_english": "Thank you, Minister, and it's good to hear that you are talking about integrated care, because you know that's something I'm incredibly passionate about, as we've spoken about it.\n\nBut today, obviously, I want to talk about something a little bit different, which is that you've increasingly promoted digital and remote health services as a pathway to improving access to care. However, many residents in rural parts of Ceredigion Penfro continue to face poor mobile coverage and unreliable broadband, leading to barriers to using digital technology. Can the Minister explain how the Government is ensuring that the expansion of digital healthcare does not disadvantage rural patients? And what assessment has been made as to whether people in west Wales can access services equally, regardless of where they live? Diolch.",
+          "text_original": "Thank you, Minister, and it's good to hear that you are talking about integrated care, because you know that's something I'm incredibly passionate about, as we've spoken about it.\n\nBut today, obviously, I want to talk about something a little bit different, which is that you've increasingly promoted digital and remote health services as a pathway to improving access to care. However, many residents in rural parts of Ceredigion Penfro continue to face poor mobile coverage and unreliable broadband, leading to barriers to using digital technology. Can the Minister explain how the Government is ensuring that the expansion of digital healthcare does not disadvantage rural patients? And what assessment has been made as to whether people in west Wales can access services equally, regardless of where they live? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=2361"
+        },
+        {
+          "id": "contribution-777053",
+          "item_id": "item-16314-261007-11",
+          "item_title_en": "10. Short Debate: The importance of port infrastructure and maritime traffic to the Welsh economy",
+          "lang": "en",
+          "t_start": 19024,
+          "text_english": "When we talk about ports, we should remember that not all Welsh ports play the same role. For Pembrokeshire, Milford Haven is not just a local asset, it is nationally significant infrastructure. In 2024, it handled almost 33 million tonnes of freight and has since become the UK's third largest port by tonnage. It is also responsible for handling the overwhelming majority of liquefied natural gas entering the United Kingdom. This means the Milford Haven port authority is not only supporting jobs and businesses across Pembrokeshire, it is helping to keep the lights on and homes heated across Wales and the wider UK. But strong ports cannot exist in isolation, particularly in rural Wales; they rely on resilient transport links and long-term industrial investment. The question for the Government is not whether Welsh ports are important; the evidence clearly shows they are. The question is whether the Government is turning its commitments on port resilience and economic growth into real investment that allows ports such as Milford Haven to compete, grow and create high-quality jobs for future generations. Diolch.",
+          "text_original": "When we talk about ports, we should remember that not all Welsh ports play the same role. For Pembrokeshire, Milford Haven is not just a local asset, it is nationally significant infrastructure. In 2024, it handled almost 33 million tonnes of freight and has since become the UK's third largest port by tonnage. It is also responsible for handling the overwhelming majority of liquefied natural gas entering the United Kingdom. This means the Milford Haven port authority is not only supporting jobs and businesses across Pembrokeshire, it is helping to keep the lights on and homes heated across Wales and the wider UK. But strong ports cannot exist in isolation, particularly in rural Wales; they rely on resilient transport links and long-term industrial investment. The question for the Government is not whether Welsh ports are important; the evidence clearly shows they are. The question is whether the Government is turning its commitments on port resilience and economic growth into real investment that allows ports such as Milford Haven to compete, grow and create high-quality jobs for future generations. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=19024"
+        }
+      ],
+      "date": "2026-10-07",
+      "record_page_url": "https://record.senedd.wales/Plenary/16314"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776091",
+          "item_id": "item-16313-261006-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 6564,
+          "text_english": "Trefnydd, could I request an urgent statement from the Cabinet Minister for Health and Care regarding the reported outbreak of scabies in the Hywel Dda health board area, and the adequacy of the Welsh Government's response to this developing public health concern? There is growing concern about the spread of scabies within communities and care settings. The situation has become even more alarming following the reported death of an elderly gentleman, whose illness was linked to complications associated with scabies. Given the vulnerability of older people, those living in residential care and individuals with underlying health concerns, there are serious questions about the infection control measures, the availability of treatment, support for care providers and the steps being taken to prevent further outbreaks. An urgent statement would provide an opportunity for the Welsh Government to update Members on the current scale and extent of the outbreak in west Wales, measures being taken to contain transmission and protect vulnerable individuals, guidance being provided to care homes, hospitals and community healthcare providers, and whether additional resources or support are being made available to affected areas. Given the significant public concern and the potential implications for public health, I believe that this matter warrants an urgent statement at the earliest opportunity. Diolch.",
+          "text_original": "Trefnydd, could I request an urgent statement from the Cabinet Minister for Health and Care regarding the reported outbreak of scabies in the Hywel Dda health board area, and the adequacy of the Welsh Government's response to this developing public health concern? There is growing concern about the spread of scabies within communities and care settings. The situation has become even more alarming following the reported death of an elderly gentleman, whose illness was linked to complications associated with scabies. Given the vulnerability of older people, those living in residential care and individuals with underlying health concerns, there are serious questions about the infection control measures, the availability of treatment, support for care providers and the steps being taken to prevent further outbreaks. An urgent statement would provide an opportunity for the Welsh Government to update Members on the current scale and extent of the outbreak in west Wales, measures being taken to contain transmission and protect vulnerable individuals, guidance being provided to care homes, hospitals and community healthcare providers, and whether additional resources or support are being made available to affected areas. Given the significant public concern and the potential implications for public health, I believe that this matter warrants an urgent statement at the earliest opportunity. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=6564"
+        },
+        {
+          "id": "contribution-776152",
+          "item_id": "item-16313-261006-5",
+          "item_title_en": "5. Statement by the Deputy Minister for Social Care, Mental Health and Women’s Health: Stronger Safeguarding for a Safer Wales",
+          "lang": "en",
+          "t_start": 11275,
+          "text_english": "Thank you, Deputy Minister. I welcome the statement and the recognition that safeguarding is one of the most important responsibilities of any Government. Every single one of us in this Chamber has been given the honour of representing the people of Wales, and with that honour there comes a strong responsibility to protect our most vulnerable and to challenge the system that fails them. However awkward the questions, however uncomfortable the answers, we must have the courage to act. Safeguarding is essential. Children, patients and adults at risk must be protected. People must feel confident about reporting concerns, knowing they will be heard and taken seriously.\n\nI welcome the Minister's emphasis on strengthening safeguarding across Wales and on creating a system that is proactive rather than reactive, one that learns lessons and acts before harm escalates. But we must never judge safeguarding by what it achieves. A policy is only effective if it works in practice. Additional procedures must address and identify problems and deliver a clear benefit. We must distinguish between preventing abuse and investigating allegations against those entrusted with people's care. Both require accountability.\n\nChildren can face exploitation in their homes, their communities and online. They may not recognise the abuse. They may even defend the person harming them. Protection cannot depend on a child finding the words to explain what is happening. Warning signs must never be dismissed because an individual is respected, an organisation fears embarrassment or someone is uncomfortable asking difficult questions. That principle applies everywhere, including hospitals and care settings.\n\nProper scrutiny also demands fair treatment. Doctors, nurses, social care workers, teachers and foster carers carry enormous responsibilities. We want people to enter these roles, stay in them and feel supported to provide good care. An allegation must be taken seriously. It must never be treated as a verdict. Immediate protective action may be necessary while facts are established. The action must reflect the risk, being regularly reviewed and accompanied by a fair and timely investigation. Where a process becomes unnecessarily prolonged or poorly co-ordinated, the consequences of this can reach into someone's livelihood, family life, confidence and mental health. For a foster family, an investigation affects their home. For a nurse or a doctor, it can leave their professional future uncertain. Children, patients and those reporting harm also need answers. Avoidable delay serves nobody. When an investigation continues for months, who is responsible for its progress, who reviews the restrictions, who challenges the unnecessary delay? The statement speaks of stronger leadership and accountability. Those principles must apply not only when concerns are raised, but throughout the safeguarding process itself. Several bodies may have legitimate responsibilities, but there must be clear co-ordination with avoidable duplication identified and removed. Those affected need clear communication, appropriate support and a fair opportunity to respond, subject to necessary safeguards for the investigation. Decisions must draw on relevant clinical and care expertise. Front-line experience must inform the process alongside safeguarding expertise, and decisions must be open to proper challenge.\n\nYou announced today a national oversight arrangement, a national social care intelligence hub and a national safeguarding risk register. These may help improve consistency and identify emerging risks, but they must also demonstrate how they will improve outcomes on the ground for vulnerable people and support timely, effective decision-making in front-line services.\n\nWe must also examine the effect on recruitment and retention. If foster families withdraw because of how allegations are handled, the Government must establish why. It must examine what any loss of placements means for that child needing a stable, suitable home. The same scrutiny must apply to concerns about nurses, doctors, social care workers leaving their roles. You must explain how existing arrangements of these proposed reforms will protect vulnerable people, how unnecessary duplication is prevented and who takes responsibility if investigations drift. Before introducing further requirements, identify the gap they address and demonstrate how they will improve safety.\n\nI call for a review of existing arrangements, their effectiveness, proportionality, delays and support for everyone affected. That review must listen to children, families, patients, front-line workers and safeguarding professionals, and publish clear findings and actions. Accountability cannot stop with a nurse on a ward or the foster carer in their home. It must extend to those managing investigations and setting those policies. Our constituents deserve protection. Those caring for them deserve fair treatment. The Government must deliver both. Diolch.",
+          "text_original": "Thank you, Deputy Minister. I welcome the statement and the recognition that safeguarding is one of the most important responsibilities of any Government. Every single one of us in this Chamber has been given the honour of representing the people of Wales, and with that honour there comes a strong responsibility to protect our most vulnerable and to challenge the system that fails them. However awkward the questions, however uncomfortable the answers, we must have the courage to act. Safeguarding is essential. Children, patients and adults at risk must be protected. People must feel confident about reporting concerns, knowing they will be heard and taken seriously.\n\nI welcome the Minister's emphasis on strengthening safeguarding across Wales and on creating a system that is proactive rather than reactive, one that learns lessons and acts before harm escalates. But we must never judge safeguarding by what it achieves. A policy is only effective if it works in practice. Additional procedures must address and identify problems and deliver a clear benefit. We must distinguish between preventing abuse and investigating allegations against those entrusted with people's care. Both require accountability.\n\nChildren can face exploitation in their homes, their communities and online. They may not recognise the abuse. They may even defend the person harming them. Protection cannot depend on a child finding the words to explain what is happening. Warning signs must never be dismissed because an individual is respected, an organisation fears embarrassment or someone is uncomfortable asking difficult questions. That principle applies everywhere, including hospitals and care settings.\n\nProper scrutiny also demands fair treatment. Doctors, nurses, social care workers, teachers and foster carers carry enormous responsibilities. We want people to enter these roles, stay in them and feel supported to provide good care. An allegation must be taken seriously. It must never be treated as a verdict. Immediate protective action may be necessary while facts are established. The action must reflect the risk, being regularly reviewed and accompanied by a fair and timely investigation. Where a process becomes unnecessarily prolonged or poorly co-ordinated, the consequences of this can reach into someone's livelihood, family life, confidence and mental health. For a foster family, an investigation affects their home. For a nurse or a doctor, it can leave their professional future uncertain. Children, patients and those reporting harm also need answers. Avoidable delay serves nobody. When an investigation continues for months, who is responsible for its progress, who reviews the restrictions, who challenges the unnecessary delay? The statement speaks of stronger leadership and accountability. Those principles must apply not only when concerns are raised, but throughout the safeguarding process itself. Several bodies may have legitimate responsibilities, but there must be clear co-ordination with avoidable duplication identified and removed. Those affected need clear communication, appropriate support and a fair opportunity to respond, subject to necessary safeguards for the investigation. Decisions must draw on relevant clinical and care expertise. Front-line experience must inform the process alongside safeguarding expertise, and decisions must be open to proper challenge.\n\nYou announced today a national oversight arrangement, a national social care intelligence hub and a national safeguarding risk register. These may help improve consistency and identify emerging risks, but they must also demonstrate how they will improve outcomes on the ground for vulnerable people and support timely, effective decision-making in front-line services.\n\nWe must also examine the effect on recruitment and retention. If foster families withdraw because of how allegations are handled, the Government must establish why. It must examine what any loss of placements means for that child needing a stable, suitable home. The same scrutiny must apply to concerns about nurses, doctors, social care workers leaving their roles. You must explain how existing arrangements of these proposed reforms will protect vulnerable people, how unnecessary duplication is prevented and who takes responsibility if investigations drift. Before introducing further requirements, identify the gap they address and demonstrate how they will improve safety.\n\nI call for a review of existing arrangements, their effectiveness, proportionality, delays and support for everyone affected. That review must listen to children, families, patients, front-line workers and safeguarding professionals, and publish clear findings and actions. Accountability cannot stop with a nurse on a ward or the foster carer in their home. It must extend to those managing investigations and setting those policies. Our constituents deserve protection. Those caring for them deserve fair treatment. The Government must deliver both. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=11275"
+        }
+      ],
+      "date": "2026-10-06",
+      "record_page_url": "https://record.senedd.wales/Plenary/16313"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-773915",
+          "item_id": "item-16265-260930-10",
+          "item_title_en": "9. Short Debate: The importance of local services—Protecting the future of Withybush hospital",
+          "lang": "en",
+          "t_start": 19833,
+          "text_english": "Diolch, Lywydd. Firstly, I'd like to thank my colleagues, Paul Marr, Cristiana Emsley, Anna Nicholl and Paul Davies for contributing their time today—one minute each, I believe. So, thank you very much.\n\nI want to begin today by directly speaking to the people of Pembrokeshire who are genuinely worried about the future of Withybush Hospital. Because they are worried. They have watched services change, they have watched services move, and now they are asking one very simple question: what will be left at Withybush when we need it most? This question deserves an answer, because, when someone is seriously ill, when someone has a stroke, or when someone needs emergency surgery, minutes matter and, in rural Wales, distance matters too.\n\nSo, I want to be absolutely clear today: Withybush cannot simply become a place where patients are assessed before being sent somewhere else. It must retain meaningful emergency and urgent healthcare for people of Pembrokeshire. But I also want to be clear about something else. I do not believe that centralising all our services is the answer. Since becoming a Member of this Senedd, I have visited the health board on numerous occasions, I have spoken to doctors, nurses, consultants and other front-line staff, and those conversations have allowed me to see both sides of this argument.\n\nIf we cannot safely staff a specialist service, keeping a sign above a door saying that that service exists does not necessarily mean patients are receiving the best care. I understand that. But I also understand the parent frightened about how far away emergency care for their child might be, I understand the husband wondering how he will visit his wife if she is transferred miles away, and I understand the elderly person who doesn't drive and wonders how on earth they are supposed to get to an appointment.\n\nBoth sides of this debate matter, but what isn't acceptable is leaving patients, staff and entire communities in the dark about what their healthcare will look like in the future. Take stroke services, for instance. I want to make my position clear today—I am talking about Withybush. I am not calling in this debate for stroke rehabilitation provision at Bronglais to be removed. Bronglais serves another large rural population and its importance must be recognised individually. My concern today is what happens to patients in Pembrokeshire. The current preferred model will ultimately make Withybush a treat-and-transfer site for stroke, with a 24-hour specialist acute stroke unit at Glangwili Hospital. I understand the clinical argument for bringing specialist expertise together, but I also expect one very important commitment to be honoured. Withybush must not become a treat-and-transfer before that 24-hour specialist stroke unit provision at Glangwili is actually commissioned. Don't remove the existing service and then promise a replacement later: build it, staff it, make sure it works, then make the change. Because patients cannot be left in a gap between one service disappearing and another becoming operational. And even where specialist acute stroke treatment is concentrated, I want us to look seriously at what rehabilitation can be provided closer to home. Because rehabilitation can take weeks, sometimes months, and families matter during recovery. And we should bring people back closer to their communities as soon as it is clinically safe to do so.\n\nThe same concerns exist around emergency general surgery. Hywel Dda has decided that, under its future model, patients at Withybush requiring an emergency operation would be transferred to Glangwili. The health board itself has acknowledged that transfers could increase the likelihood of delays in treatment. So, I want to know how quickly will that patient be transferred? Will an ambulance be available? What happens when ambulances are already under enormous pressure? What happens at 2 o'clock in the morning? Emergency care has to work on the worst day, not just the best.\n\nAnd then there are our children. Families in Pembrokeshire have already experienced the loss of 24-hour in-patient paediatric services at Withybush Hospital. For a parent with a seriously ill child, particularly late at night, Carmarthen can feel a very long way from home. But there is also something positive happening here. Hywel Dda have recently announced a £750,000 investment in a new, dedicated children's facility at Withybush, including a rapid-access clinic. I welcome that, because it demonstrates the very point I'm making today: just because the most specialist elements of care are being provided elsewhere does not mean everything has to follow. We can still build strong local services, and there are already examples at Withybush showing us what can be achieved. I visited the acute frailty unit, and I was enormously impressed by what I saw. Instead of automatically admitting frail and elderly patients into hospital, they can be assessed, treated and, where appropriate, supported back into their own homes or community services. That prevents unnecessary admissions, it helps protect hospital beds and, most importantly, it can provide better care for that patient. The same applies to same-day emergency care. GP and other healthcare professionals can refer patients into this service, where they can be assessed and treated without automatically going through A&E and being admitted. That is the sort of healthcare we should be expanding on.",
+          "text_original": "Diolch, Lywydd. Firstly, I'd like to thank my colleagues, Paul Marr, Cristiana Emsley, Anna Nicholl and Paul Davies for contributing their time today—one minute each, I believe. So, thank you very much.\n\nI want to begin today by directly speaking to the people of Pembrokeshire who are genuinely worried about the future of Withybush Hospital. Because they are worried. They have watched services change, they have watched services move, and now they are asking one very simple question: what will be left at Withybush when we need it most? This question deserves an answer, because, when someone is seriously ill, when someone has a stroke, or when someone needs emergency surgery, minutes matter and, in rural Wales, distance matters too.\n\nSo, I want to be absolutely clear today: Withybush cannot simply become a place where patients are assessed before being sent somewhere else. It must retain meaningful emergency and urgent healthcare for people of Pembrokeshire. But I also want to be clear about something else. I do not believe that centralising all our services is the answer. Since becoming a Member of this Senedd, I have visited the health board on numerous occasions, I have spoken to doctors, nurses, consultants and other front-line staff, and those conversations have allowed me to see both sides of this argument.\n\nIf we cannot safely staff a specialist service, keeping a sign above a door saying that that service exists does not necessarily mean patients are receiving the best care. I understand that. But I also understand the parent frightened about how far away emergency care for their child might be, I understand the husband wondering how he will visit his wife if she is transferred miles away, and I understand the elderly person who doesn't drive and wonders how on earth they are supposed to get to an appointment.\n\nBoth sides of this debate matter, but what isn't acceptable is leaving patients, staff and entire communities in the dark about what their healthcare will look like in the future. Take stroke services, for instance. I want to make my position clear today—I am talking about Withybush. I am not calling in this debate for stroke rehabilitation provision at Bronglais to be removed. Bronglais serves another large rural population and its importance must be recognised individually. My concern today is what happens to patients in Pembrokeshire. The current preferred model will ultimately make Withybush a treat-and-transfer site for stroke, with a 24-hour specialist acute stroke unit at Glangwili Hospital. I understand the clinical argument for bringing specialist expertise together, but I also expect one very important commitment to be honoured. Withybush must not become a treat-and-transfer before that 24-hour specialist stroke unit provision at Glangwili is actually commissioned. Don't remove the existing service and then promise a replacement later: build it, staff it, make sure it works, then make the change. Because patients cannot be left in a gap between one service disappearing and another becoming operational. And even where specialist acute stroke treatment is concentrated, I want us to look seriously at what rehabilitation can be provided closer to home. Because rehabilitation can take weeks, sometimes months, and families matter during recovery. And we should bring people back closer to their communities as soon as it is clinically safe to do so.\n\nThe same concerns exist around emergency general surgery. Hywel Dda has decided that, under its future model, patients at Withybush requiring an emergency operation would be transferred to Glangwili. The health board itself has acknowledged that transfers could increase the likelihood of delays in treatment. So, I want to know how quickly will that patient be transferred? Will an ambulance be available? What happens when ambulances are already under enormous pressure? What happens at 2 o'clock in the morning? Emergency care has to work on the worst day, not just the best.\n\nAnd then there are our children. Families in Pembrokeshire have already experienced the loss of 24-hour in-patient paediatric services at Withybush Hospital. For a parent with a seriously ill child, particularly late at night, Carmarthen can feel a very long way from home. But there is also something positive happening here. Hywel Dda have recently announced a £750,000 investment in a new, dedicated children's facility at Withybush, including a rapid-access clinic. I welcome that, because it demonstrates the very point I'm making today: just because the most specialist elements of care are being provided elsewhere does not mean everything has to follow. We can still build strong local services, and there are already examples at Withybush showing us what can be achieved. I visited the acute frailty unit, and I was enormously impressed by what I saw. Instead of automatically admitting frail and elderly patients into hospital, they can be assessed, treated and, where appropriate, supported back into their own homes or community services. That prevents unnecessary admissions, it helps protect hospital beds and, most importantly, it can provide better care for that patient. The same applies to same-day emergency care. GP and other healthcare professionals can refer patients into this service, where they can be assessed and treated without automatically going through A&E and being admitted. That is the sort of healthcare we should be expanding on.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=19833"
+        },
+        {
+          "id": "contribution-773906",
+          "item_id": "item-16265-260930-10",
+          "item_title_en": "9. Short Debate: The importance of local services—Protecting the future of Withybush hospital",
+          "lang": "en",
+          "t_start": 20102,
+          "text_english": "And this brings me to something I feel very strongly about, which is social care. Because the pressures faced in Withybush do not stop at the door. We have the best doctors and nurses in the world, but if somebody is medically ready to leave that hospital and support isn't available in the community that person cannot simply go home. And while that person waits, a hospital bed remains occupied, another patient is waiting in A&E and an ambulance may be waiting outside, and the pressure moves backwards like a vicious circle. Health and social care cannot continue to operate as though they are separate worlds. We need health boards, councils, GPs, community nursing, care homes, domiciliary care and the third sector working around that patient as one joined-up system.\n\nAnd we must include unpaid carers in that conversation, because, far too often, when we say that somebody can be cared for at home, there is a family member behind that sentence—a husband, a wife, a son, a daughter; someone who may suddenly find themselves providing hours of care every day. We cannot solve pressures on hospital beds by simply transferring that pressure onto families. If somebody is going home, care must be waiting for them, the family must know what is happening and unpaid carers must be properly supported. That isn't separate from protecting Withybush Hospital; it's part of protecting Withybush Hospital. Because the answer to pressure on hospital beds cannot simply be fewer hospital beds. We need to prevent unnecessary admissions to make sure they're ready to leave and can do safely.\n\nI also want Withybush to have a stronger future in cancer care and palliative care. For someone living in Pembrokeshire, travelling for cancer treatment isn't necessarily an appointment of an hour or two. So, let's look at what we can deliver locally safely: diagnostics, follow-up care, cancer treatment where appropriate, GP premises, community facilities and, working properly with organisations such as Macmillan and our wider third sector, bring healthcare to people wherever we safely can instead of continually expecting sick people to travel long distances.\n\nAnd that brings me to transport. You cannot have an honest conversation about centralising healthcare in rural Wales without talking about how people are actually going to get there. You cannot design healthcare for Pembrokeshire as though Pembrokeshire has the transport network of Cardiff. It doesn't. I am seeking discussions with Transport for Wales about improving connections involving Withybush and Carmarthenshire. But transport cannot be an afterthought. If you move healthcare, you must first show us how the patient is going to reach it.\n\nAnd there is another issue that I believe we need to talk about more openly, and that is accountability. We often hear that these are decisions for the health board and, of course, health boards have a responsibility for planning and running local services, but responsibility cannot simply stop at the door of a health board. Health boards are accountable to the Welsh Ministers; Welsh Government oversees their performance and has powers to intervene when things go wrong. So, when communities are frightened about the future of their hospitals, I don't believe an elected Government can simply point towards a health board and say it is their decision. Health boards must be accountable for the decisions they make, but, ultimately, political accountability must sit with those of us who are elected.\n\nAs a member of the Health and Social Care Committee—. I'm really sorry, I've missed a page. But if patients cannot access the care they need, if services continue to deteriorate or if communities lose confidence in their local NHS, somebody democratically accountable has to answer for it. For me, ultimately, the buck stops here, in the Welsh Government.\n\nAnd that brings me to money and workforce. We cannot keep putting more money into the same structures if patient outcomes and access do not improve. Administration is important. Hospitals cannot function without good administrative staff. But administration supports healthcare; front-line staff deliver it. So, when finances are under enormous pressure, we have to be brave enough to look at the structure itself. Are there unnecessary layers of management? Are roles being duplicated? Could services work differently? Could management structures be simplified? And could those savings be redirected towards the nurses, doctors, healthcare support workers, therapists, carers and other front-line professionals patients actually need? That isn't an attack on NHS managers; it's about making sure that as much of every pound as possible reaches patient care. And these concerns are not mine alone. Thousands of people have signed a Senedd petition raising concerns about healthcare provision at Withybush. The Petitions Committee has now agreed that those concerns deserve further scrutiny, including further engagement with the Health and Social Care Committee. A petition on its own will not decide the future of Withybush, but, when thousands of people take the time to put their names to one, we should pay attention. And I am paying attention. I have listened to the residents, I have spoken to the staff, I have visited Withybush, I have spoken directly with the health board, and, as a member of the Health and Social Care Committee, I will continue to scrutinise the decisions being made, because I don't want the story of Withybush to be one of managed decline. \n\nI want us to protect what works, change what doesn't, specialise where clinical evidence generally shows we need to specialise, but localise wherever we safely can, keep emergency and urgent care strong, build on same-day emergency care and frailty, bring rehabilitation closer to home, strengthen cancer and palliative care, join healthcare and social care together, support our unpaid carers, and make transport part of healthcare planning, not an afterthought. And to the doctors, nurses, healthcare support workers, therapists, porters, cleaners, administrative staff, ambulance crews, and to everyone else working at Withybush Hospital, this debate is not an attack on you. It is quite the opposite. You are the people holding these services together. I used to be one of them, and you deserve to know that the hospital you work in has a future.\n\nSo, my message today is simple: Withybush cannot simply become a hospital where more and more patients are assessed and then sent somewhere else. The people of Pembrokeshire deserve safe, specialist care, but they also deserve local care. They deserve honesty. They deserve replacements to be ready before existing services disappear. Above all, they deserve something they have been asking for for far too long: a clear, credible, secure future for the hospital. Diolch, Lywydd.",
+          "text_original": "And this brings me to something I feel very strongly about, which is social care. Because the pressures faced in Withybush do not stop at the door. We have the best doctors and nurses in the world, but if somebody is medically ready to leave that hospital and support isn't available in the community that person cannot simply go home. And while that person waits, a hospital bed remains occupied, another patient is waiting in A&E and an ambulance may be waiting outside, and the pressure moves backwards like a vicious circle. Health and social care cannot continue to operate as though they are separate worlds. We need health boards, councils, GPs, community nursing, care homes, domiciliary care and the third sector working around that patient as one joined-up system.\n\nAnd we must include unpaid carers in that conversation, because, far too often, when we say that somebody can be cared for at home, there is a family member behind that sentence—a husband, a wife, a son, a daughter; someone who may suddenly find themselves providing hours of care every day. We cannot solve pressures on hospital beds by simply transferring that pressure onto families. If somebody is going home, care must be waiting for them, the family must know what is happening and unpaid carers must be properly supported. That isn't separate from protecting Withybush Hospital; it's part of protecting Withybush Hospital. Because the answer to pressure on hospital beds cannot simply be fewer hospital beds. We need to prevent unnecessary admissions to make sure they're ready to leave and can do safely.\n\nI also want Withybush to have a stronger future in cancer care and palliative care. For someone living in Pembrokeshire, travelling for cancer treatment isn't necessarily an appointment of an hour or two. So, let's look at what we can deliver locally safely: diagnostics, follow-up care, cancer treatment where appropriate, GP premises, community facilities and, working properly with organisations such as Macmillan and our wider third sector, bring healthcare to people wherever we safely can instead of continually expecting sick people to travel long distances.\n\nAnd that brings me to transport. You cannot have an honest conversation about centralising healthcare in rural Wales without talking about how people are actually going to get there. You cannot design healthcare for Pembrokeshire as though Pembrokeshire has the transport network of Cardiff. It doesn't. I am seeking discussions with Transport for Wales about improving connections involving Withybush and Carmarthenshire. But transport cannot be an afterthought. If you move healthcare, you must first show us how the patient is going to reach it.\n\nAnd there is another issue that I believe we need to talk about more openly, and that is accountability. We often hear that these are decisions for the health board and, of course, health boards have a responsibility for planning and running local services, but responsibility cannot simply stop at the door of a health board. Health boards are accountable to the Welsh Ministers; Welsh Government oversees their performance and has powers to intervene when things go wrong. So, when communities are frightened about the future of their hospitals, I don't believe an elected Government can simply point towards a health board and say it is their decision. Health boards must be accountable for the decisions they make, but, ultimately, political accountability must sit with those of us who are elected.\n\nAs a member of the Health and Social Care Committee—. I'm really sorry, I've missed a page. But if patients cannot access the care they need, if services continue to deteriorate or if communities lose confidence in their local NHS, somebody democratically accountable has to answer for it. For me, ultimately, the buck stops here, in the Welsh Government.\n\nAnd that brings me to money and workforce. We cannot keep putting more money into the same structures if patient outcomes and access do not improve. Administration is important. Hospitals cannot function without good administrative staff. But administration supports healthcare; front-line staff deliver it. So, when finances are under enormous pressure, we have to be brave enough to look at the structure itself. Are there unnecessary layers of management? Are roles being duplicated? Could services work differently? Could management structures be simplified? And could those savings be redirected towards the nurses, doctors, healthcare support workers, therapists, carers and other front-line professionals patients actually need? That isn't an attack on NHS managers; it's about making sure that as much of every pound as possible reaches patient care. And these concerns are not mine alone. Thousands of people have signed a Senedd petition raising concerns about healthcare provision at Withybush. The Petitions Committee has now agreed that those concerns deserve further scrutiny, including further engagement with the Health and Social Care Committee. A petition on its own will not decide the future of Withybush, but, when thousands of people take the time to put their names to one, we should pay attention. And I am paying attention. I have listened to the residents, I have spoken to the staff, I have visited Withybush, I have spoken directly with the health board, and, as a member of the Health and Social Care Committee, I will continue to scrutinise the decisions being made, because I don't want the story of Withybush to be one of managed decline. \n\nI want us to protect what works, change what doesn't, specialise where clinical evidence generally shows we need to specialise, but localise wherever we safely can, keep emergency and urgent care strong, build on same-day emergency care and frailty, bring rehabilitation closer to home, strengthen cancer and palliative care, join healthcare and social care together, support our unpaid carers, and make transport part of healthcare planning, not an afterthought. And to the doctors, nurses, healthcare support workers, therapists, porters, cleaners, administrative staff, ambulance crews, and to everyone else working at Withybush Hospital, this debate is not an attack on you. It is quite the opposite. You are the people holding these services together. I used to be one of them, and you deserve to know that the hospital you work in has a future.\n\nSo, my message today is simple: Withybush cannot simply become a hospital where more and more patients are assessed and then sent somewhere else. The people of Pembrokeshire deserve safe, specialist care, but they also deserve local care. They deserve honesty. They deserve replacements to be ready before existing services disappear. Above all, they deserve something they have been asking for for far too long: a clear, credible, secure future for the hospital. Diolch, Lywydd.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=20102"
+        }
+      ],
+      "date": "2026-09-30",
+      "record_page_url": "https://record.senedd.wales/Plenary/16265"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-773070",
+          "item_id": "item-16264-260929-8",
+          "item_title_en": "7. Statement by the Deputy Minister for Social Care, Mental Health and Women's Health: Improving Family-centred Neonatal Care in Wales: Progress Towards the Bliss Baby Charter",
+          "lang": "en",
+          "t_start": 13164,
+          "text_english": "Thank you, Deputy Minister. I welcome the progress being made to the Bliss baby charter today, but I particularly want to highlight the challenges faced by families in rural Wales. You have said in your statement today that individual services should focus on the changes that make the greatest difference locally. Long before the current charter programme, the neonatal team at Glangwili Hospital recognised the challenges of rurality and lack of transport, and the financial pressures facing families travelling backwards and forwards for appointments. They responded by changing the way they worked, bringing specialist appointments together to make things easier for families. Where families couldn't get to the hospital because of rurality, transport or financial pressures, the neonatal team would go out and see them at home.\n\nYou mentioned earlier what happens after they leave, which I think is just as important. They bridge the gap between hospital and home—such things as the dietician, occupational therapy, physio, speech and language. All of these are really important afterwards. They actually went on to win the Bliss project of the year award, which I think is really good for such a rural hospital. Minister, almost £1,000 was invested in this national programme in 2025. As the programme is still in its early stages, how will you make sure that good practice, like that at Glangwili, is identified, shared and implemented across Wales, rather than simply focusing on whether units meet the charter standard? Diolch.",
+          "text_original": "Thank you, Deputy Minister. I welcome the progress being made to the Bliss baby charter today, but I particularly want to highlight the challenges faced by families in rural Wales. You have said in your statement today that individual services should focus on the changes that make the greatest difference locally. Long before the current charter programme, the neonatal team at Glangwili Hospital recognised the challenges of rurality and lack of transport, and the financial pressures facing families travelling backwards and forwards for appointments. They responded by changing the way they worked, bringing specialist appointments together to make things easier for families. Where families couldn't get to the hospital because of rurality, transport or financial pressures, the neonatal team would go out and see them at home.\n\nYou mentioned earlier what happens after they leave, which I think is just as important. They bridge the gap between hospital and home—such things as the dietician, occupational therapy, physio, speech and language. All of these are really important afterwards. They actually went on to win the Bliss project of the year award, which I think is really good for such a rural hospital. Minister, almost £1,000 was invested in this national programme in 2025. As the programme is still in its early stages, how will you make sure that good practice, like that at Glangwili, is identified, shared and implemented across Wales, rather than simply focusing on whether units meet the charter standard? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=13164"
+        }
+      ],
+      "date": "2026-09-29",
+      "record_page_url": "https://record.senedd.wales/Plenary/16264"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771425",
+          "item_id": "item-16263-260923-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and Welsh Language",
+          "lang": "en",
+          "t_start": 3659,
+          "text_english": "I'd just like to say 'thank you' to my constituency Member, because it is something that is very close to my heart—church schools. So, I just wanted to get that out there.\n\nPolicies promoting inclusive physical activity are welcome and many disabled pupils and their families continue to report barriers to meaningful participation in school sports, such as wheelchair-bound children being made to take timings for their peers rather than actively taking part. Can you therefore outline what specific measures the Welsh Government is taking to monitor participation rates amongst disabled learners, how it evaluates whether policies are translating into outcomes on the ground and whether it will commit to publishing data, so that Members can assess if disabled pupils are participating in curriculum-based sport at the same rate as their non-disabled peers? Diolch.",
+          "text_original": "I'd just like to say 'thank you' to my constituency Member, because it is something that is very close to my heart—church schools. So, I just wanted to get that out there.\n\nPolicies promoting inclusive physical activity are welcome and many disabled pupils and their families continue to report barriers to meaningful participation in school sports, such as wheelchair-bound children being made to take timings for their peers rather than actively taking part. Can you therefore outline what specific measures the Welsh Government is taking to monitor participation rates amongst disabled learners, how it evaluates whether policies are translating into outcomes on the ground and whether it will commit to publishing data, so that Members can assess if disabled pupils are participating in curriculum-based sport at the same rate as their non-disabled peers? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=3659"
+        }
+      ],
+      "date": "2026-09-23",
+      "record_page_url": "https://record.senedd.wales/Plenary/16263"
+    },
     {
       "contributions": [
         {

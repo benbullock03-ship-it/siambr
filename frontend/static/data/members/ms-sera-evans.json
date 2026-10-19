@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,228 @@
   "canonical_name": "Sera Evans",
   "constituency_name_cy": "Afan Ogwr Rhondda",
   "constituency_name_en": "Afan Ogwr Rhondda",
-  "contribution_count": 32,
+  "contribution_count": 51,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778552",
+          "item_id": "item-16315-261013-4",
+          "item_title_en": "4. Statement by the Cabinet Minister for Rural Resilience and Sustainability: Winter preparedness: Be flood ready",
+          "lang": "cy",
+          "t_start": 9603,
+          "text_english": "Thank you for your statement today, Minister.",
+          "text_original": "Diolch am eich datganiad heddiw, Weinidog.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=9603"
+        },
+        {
+          "id": "contribution-778553",
+          "item_id": "item-16315-261013-4",
+          "item_title_en": "4. Statement by the Cabinet Minister for Rural Resilience and Sustainability: Winter preparedness: Be flood ready",
+          "lang": "en",
+          "t_start": 9607,
+          "text_english": "The warnings from NRW have already been highlighted today and will be of particular concern to communities in Afan Ogwr Rhondda, where a number of areas rank highly on the communities at risk register. I want to focus on the immediate measures being taken to protect communities as we prepare for the unthinkable, as NRW have put it. A number of the flood alleviation schemes in train across the constituency are still under construction and will likely not be completed in time for this winter. Although I think key lessons have been learned as a result of previous flooding events and the local lead flood authorities will have a better understanding of the vulnerabilities in their networks, there will be gaps in protection while these schemes are ongoing. So, I'd be very grateful to know what immediate support the Welsh Government is providing to lead local flood authorities to help them manage the risks and protect communities over the coming months. Diolch.",
+          "text_original": "The warnings from NRW have already been highlighted today and will be of particular concern to communities in Afan Ogwr Rhondda, where a number of areas rank highly on the communities at risk register. I want to focus on the immediate measures being taken to protect communities as we prepare for the unthinkable, as NRW have put it. A number of the flood alleviation schemes in train across the constituency are still under construction and will likely not be completed in time for this winter. Although I think key lessons have been learned as a result of previous flooding events and the local lead flood authorities will have a better understanding of the vulnerabilities in their networks, there will be gaps in protection while these schemes are ongoing. So, I'd be very grateful to know what immediate support the Welsh Government is providing to lead local flood authorities to help them manage the risks and protect communities over the coming months. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=9607"
+        }
+      ],
+      "date": "2026-10-13",
+      "record_page_url": "https://record.senedd.wales/Plenary/16315"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776767",
+          "item_id": "item-16314-261007-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "5. What assessment has the Welsh Government made of the impact of development quality requirements on housing delivery? OQ64666",
+          "text_original": "5. Pa asesiad y mae Llywodraeth Cymru wedi'i wneud o effaith gofynion ansawdd datblygu ar ddarpariaeth tai? OQ64666",
+          "tv_url": "http://www.senedd.tv/en/16314"
+        },
+        {
+          "id": "contribution-776773",
+          "item_id": "item-16314-261007-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
+          "lang": "cy",
+          "t_start": 7673,
+          "text_english": "Thank you for that response, Minister.",
+          "text_original": "Diolch am yr ymateb, Weinidog.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=7673"
+        },
+        {
+          "id": "contribution-776776",
+          "item_id": "item-16314-261007-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
+          "lang": "en",
+          "t_start": 7675,
+          "text_english": "Over the summer, I had the opportunity to meet with Trivallis, who are undertaking a development in Penrhys, in the Rhondda, to deliver around 1,000 new homes over the next 10 years. They raised with me some challenges presented by the current development quality requirements. Trivallis has relayed to me that the current development quality requirements require housing associations to build to standards above those set by building regulations, including achieving energy performance certificate A or an alternative approved design. In Penrhys, I've been told that this is adding around 15 per cent to construction costs and achieving the required standard can be technically challenging for high-rise developments and other homes in urban areas. I'd be keen to hear your view on this, Cabinet Minister, particularly around whether we are striking the right balance between ensuring high-quality, energy-efficient homes and cost-effectiveness. Diolch.",
+          "text_original": "Over the summer, I had the opportunity to meet with Trivallis, who are undertaking a development in Penrhys, in the Rhondda, to deliver around 1,000 new homes over the next 10 years. They raised with me some challenges presented by the current development quality requirements. Trivallis has relayed to me that the current development quality requirements require housing associations to build to standards above those set by building regulations, including achieving energy performance certificate A or an alternative approved design. In Penrhys, I've been told that this is adding around 15 per cent to construction costs and achieving the required standard can be technically challenging for high-rise developments and other homes in urban areas. I'd be keen to hear your view on this, Cabinet Minister, particularly around whether we are striking the right balance between ensuring high-quality, energy-efficient homes and cost-effectiveness. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=7675"
+        },
+        {
+          "id": "contribution-777055",
+          "item_id": "item-16314-261007-11",
+          "item_title_en": "10. Short Debate: The importance of port infrastructure and maritime traffic to the Welsh economy",
+          "lang": "en",
+          "t_start": 19092,
+          "text_english": "I'd like to thank Ben Hodge Mckenna for giving me a minute of his time to contribute to this short debate.\n\nLet me be clear, I am also championing the brilliant Port Talbot. I worry that some of our work, however, around port readiness has come to a bit of a standstill. As our ports evolve into multifunctional industrial hubs, there has to be an expansion of their capacity and readiness to capture the value resulting from flow. It needs to happen simultaneously and at scale. We know that ABP has plans to invest £500 million to this end, as well as an additional £64 million, which was committed in March by the UK Government. But we really still have little idea as to who, in practice, is exercising strategic leadership over port readiness. At present, no single body appears to be orchestrating efforts around Port Talbot's investment needs. It strikes me that the Welsh Government and the local authority should co-lead, but lines of accountability remain opaque. Numerous overlapping groups, with variations of the same individuals appearing across them, have generated, I fear, a diffusion of responsibility. The anticipated capital requirement for Port Talbot of just north of £500 million raises questions that I hope the Cabinet Minister can illuminate for us in his response, namely: do we know who this funding is or should be going to, what it is delivering, and over what timeline? Diolch.",
+          "text_original": "I'd like to thank Ben Hodge Mckenna for giving me a minute of his time to contribute to this short debate.\n\nLet me be clear, I am also championing the brilliant Port Talbot. I worry that some of our work, however, around port readiness has come to a bit of a standstill. As our ports evolve into multifunctional industrial hubs, there has to be an expansion of their capacity and readiness to capture the value resulting from flow. It needs to happen simultaneously and at scale. We know that ABP has plans to invest £500 million to this end, as well as an additional £64 million, which was committed in March by the UK Government. But we really still have little idea as to who, in practice, is exercising strategic leadership over port readiness. At present, no single body appears to be orchestrating efforts around Port Talbot's investment needs. It strikes me that the Welsh Government and the local authority should co-lead, but lines of accountability remain opaque. Numerous overlapping groups, with variations of the same individuals appearing across them, have generated, I fear, a diffusion of responsibility. The anticipated capital requirement for Port Talbot of just north of £500 million raises questions that I hope the Cabinet Minister can illuminate for us in his response, namely: do we know who this funding is or should be going to, what it is delivering, and over what timeline? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=19092"
+        }
+      ],
+      "date": "2026-10-07",
+      "record_page_url": "https://record.senedd.wales/Plenary/16314"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-775925",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "7. How will the Welsh Government support social prescribing capacity in Afan Ogwr Rhondda? OQ64651",
+          "text_original": "7. Sut bydd Llywodraeth Cymru yn cefnogi capasiti presgripsiynu cymdeithasol yn Afan Ogwr Rhondda? OQ64651",
+          "tv_url": "http://www.senedd.tv/en/16313"
+        },
+        {
+          "id": "contribution-775932",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 3103,
+          "text_english": "Thank you for your response, First Minister. For social prescribing to be effective, we not only need the ability to make referrals, but we also need a strong and sustainable network of community organisations that have the resources to be able to accept them. Recently, I met Kate from the Gilfach Goch Community Association, which provides a wide range of support to about 1,500 local residents, with the demand continuing to rise.\n\nInstitutions like this are exactly the sort of places people get referred to, but one of the concerns I hear again and again is that funding streams can lean heavily towards capital funding, with much less flexibility in terms of the revenue funding needed to pay staff, cover operational costs and keep services running. A building isn't much use if there aren't people and resources to keep the doors open and provide the services inside. \n\nSo, could the Government consider how more flexibility could be built in between capital and revenue funding in grant programmes in the future, so that organisations like the Gilfach Goch Community Association have the capacity and stability they need to meet the growing demand, and so that—many large words here today—social prescribing leads to continuous support that underpins this Government's preventative agenda? Thank you.",
+          "text_original": "Diolch am eich ymateb, Brif Weinidog. Er mwyn i bresgripsiynu cymdeithasol fod yn effeithiol, nid yn unig mae angen y gallu i wneud atgyfeiriadau arnom, ond mae hefyd angen rhwydwaith cryf a chynaliadwy o sefydliadau cymunedol sydd â'r adnoddau i allu eu derbyn. Yn ddiweddar, cwrddais â Kate o Gymdeithas Gymunedol Gilfach Goch, sy'n darparu ystod eang o gymorth i dros 1,500 o drigolion lleol, gyda'r galw yn parhau i gynyddu.\n\nSefydliadau fel hyn yw'r union leoedd y mae pobl yn cael eu hatgyfeirio iddynt, ond un o'r pryderon rwy'n eu clywed dro ar ôl tro yw y gall ffrydiau cyllidol ogwyddo'n sylweddol tuag at gyllid cyfalaf, gyda llawer llai o hyblygrwydd o ran y cyllid refeniw sydd ei angen i dalu staff, talu costau gweithredol a chadw gwasanaethau i fynd. Ychydig o ddefnydd sydd i adeilad os nad oes pobl ac adnoddau i gadw drysau ar agor a darparu'r gwasanaeth ynddo.\n\nFelly, a all y Llywodraeth ystyried sut y gellid ymgorffori mwy o hyblygrwydd rhwng cyllid cyfalaf a refeniw mewn rhaglenni grant yn y dyfodol, fel bod gan sefydliadau fel Cymdeithas Gymunedol Gilfach Goch y gallu a'r sefydlogrwydd sydd eu hangen arnynt i ddiwallu'r galw cynyddol, ac fel bod presgripsiynu—lot o eiriau mawr heddiw—cymdeithasol yn arwain at barhad cymorth sy'n sail i agenda ataliol y Llywodraeth hon? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=3103"
+        },
+        {
+          "id": "contribution-776185",
+          "item_id": "item-16313-261006-5",
+          "item_title_en": "5. Statement by the Deputy Minister for Social Care, Mental Health and Women’s Health: Stronger Safeguarding for a Safer Wales",
+          "lang": "cy",
+          "t_start": 13105,
+          "text_english": "Thank you for your crucial statement today, Deputy Minister.",
+          "text_original": "Diolch i chi am eich datganiad hollbwysig heddiw, Ddirprwy Weinidog.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=13105"
+        },
+        {
+          "id": "contribution-776188",
+          "item_id": "item-16313-261006-5",
+          "item_title_en": "5. Statement by the Deputy Minister for Social Care, Mental Health and Women’s Health: Stronger Safeguarding for a Safer Wales",
+          "lang": "en",
+          "t_start": 13110,
+          "text_english": "I very much welcome the emphasis on a whole-system approach to safeguarding, and the ambition to strengthen the system's capacity for early identification and intervention, moving us away from a predominantly reactive model towards one that is genuinely preventative and intelligence led. I want to focus on design principles, which you've mentioned already, particularly on the commitment that the voices of children, young people, adults at risk, victims and survivors will be central to service design. As you've said, centring lived experience at the heart of safeguarding means that experiences should actively inform the systems and practices designed to protect children, and organisations should be able to demonstrate what has changed as a result. This is where there can be a danger of coming up short, because listening can feel like an achievement in and of itself, as opposed to a basis for action. So, how will the Government ensure this doesn't become the case? Like Natasha Asghar and Lynne Neagle, I wanted to ask you about how children, young people, adults at risk, victims and survivors will be engaged in the development and design of safeguarding services. Now, whilst you've answered that question, I'd also like to know—",
+          "text_original": "I very much welcome the emphasis on a whole-system approach to safeguarding, and the ambition to strengthen the system's capacity for early identification and intervention, moving us away from a predominantly reactive model towards one that is genuinely preventative and intelligence led. I want to focus on design principles, which you've mentioned already, particularly on the commitment that the voices of children, young people, adults at risk, victims and survivors will be central to service design. As you've said, centring lived experience at the heart of safeguarding means that experiences should actively inform the systems and practices designed to protect children, and organisations should be able to demonstrate what has changed as a result. This is where there can be a danger of coming up short, because listening can feel like an achievement in and of itself, as opposed to a basis for action. So, how will the Government ensure this doesn't become the case? Like Natasha Asghar and Lynne Neagle, I wanted to ask you about how children, young people, adults at risk, victims and survivors will be engaged in the development and design of safeguarding services. Now, whilst you've answered that question, I'd also like to know—",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=13110"
+        },
+        {
+          "id": "contribution-776192",
+          "item_id": "item-16313-261006-5",
+          "item_title_en": "5. Statement by the Deputy Minister for Social Care, Mental Health and Women’s Health: Stronger Safeguarding for a Safer Wales",
+          "lang": "en",
+          "t_start": 13175,
+          "text_english": "—what ongoing scrutiny mechanisms will be developed to enable these people to engage meaningfully, and over a sustained period of time, to ensure a culture of constructive challenge and continuous improvement. Diolch.",
+          "text_original": "—what ongoing scrutiny mechanisms will be developed to enable these people to engage meaningfully, and over a sustained period of time, to ensure a culture of constructive challenge and continuous improvement. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=13175"
+        },
+        {
+          "id": "contribution-776218",
+          "item_id": "item-16313-261006-6",
+          "item_title_en": "6. Debate: Fiscal Reform",
+          "lang": "en",
+          "t_start": 14789,
+          "text_english": "I'll begin by stating the obvious: the case for Wales's fiscal reform is, as far as Plaid Cymru is concerned, cut and dried. Independent commissions and expert reports have repeatedly identified the limitations of the current arrangements. Most recently, the Independent Commission on the Constitutional Future of Wales set out a clear case for greater fiscal autonomy, and now with Plaid Cymru in Government, we have an opportunity to take that clear-eyed analysis and turn it into a programme of practical reform. Because, ultimately, the question we should ask of our fiscal framework is a very straightforward one: does it give Wales the flexibility we need to sufficiently deal with the scale of the challenges we face?\n\nThe fiscal framework established limits on both the size of the Wales reserve, £385 million, and annual draw-downs with limits of £137.5 million for revenue and £55 million for capital. This is, of course, in contrast to the Scottish fiscal framework, within which the Scottish Government can draw down as much as they need to. There is simply no justification or compelling reasoning for Wales being treated any differently—none whatsoever. And while it's welcome that the overall limit on the size of the reserve and the annual limit for drawing down both capital and revenue spending has increased by 10 per cent, it still falls woefully short and does nothing to restore the large inflationary losses to these limits since they were set in cash terms a decade ago. This is not bloodless constitutional abstraction. It has implications for our ability to build up and use resources for future investment, whether that be in infrastructure, public services or the economy. And where there is insufficient capacity within the reserve, the ceiling for putting money in is set at 1.4 per cent of our budget. The Treasury can simply claw that money back.\n\nThe same absurdities apply to our borrowing powers, and whilst not included in this motion, Llywydd, I'm going to mention it anyway. Less expensive forms of borrowing are subject to strict limits: £1.1 billion, with an annual limit of £165 million via the national loan fund. If the Welsh Government wishes to undertake a project above a certain scale, it must either take this money from public services, borrow it privately via the mutual investment model, or hope that the UK Government decides to undertake a project of a similar scale in England and that it delivers on Barnett consequentials.\n\nThe Welsh Government has responsibility for huge areas of policy. The very principle of devolution is predicated on the notion that the people of Wales should be able to elect a Government that can pursue different priorities and make different choices from Governments elsewhere in the UK. But meaningful political responsibility requires meaningful fiscal powers, and we currently operate within a system that actively inhibits our ability to raise, save and borrow the resources necessary to deliver on the vast range of devolved responsibilities.\n\nI'm conscious that the word 'limit' is one that I've used a lot during this contribution, but it's an apt characterisation of our fiscal framework: it is both limited and limiting. The current system of occasional ad hoc flexibilities afforded to the Welsh Government at the Treasury's discretion militates against our democracy. This is not a sustainable basis on which to take our ambitions for Wales forward. The restrictions on the Welsh Government's access to the reserve should be removed permanently, bringing Wales in line with Scotland. The current limits are debilitating and the fiscal framework needs to be reformed.",
+          "text_original": "I'll begin by stating the obvious: the case for Wales's fiscal reform is, as far as Plaid Cymru is concerned, cut and dried. Independent commissions and expert reports have repeatedly identified the limitations of the current arrangements. Most recently, the Independent Commission on the Constitutional Future of Wales set out a clear case for greater fiscal autonomy, and now with Plaid Cymru in Government, we have an opportunity to take that clear-eyed analysis and turn it into a programme of practical reform. Because, ultimately, the question we should ask of our fiscal framework is a very straightforward one: does it give Wales the flexibility we need to sufficiently deal with the scale of the challenges we face?\n\nThe fiscal framework established limits on both the size of the Wales reserve, £385 million, and annual draw-downs with limits of £137.5 million for revenue and £55 million for capital. This is, of course, in contrast to the Scottish fiscal framework, within which the Scottish Government can draw down as much as they need to. There is simply no justification or compelling reasoning for Wales being treated any differently—none whatsoever. And while it's welcome that the overall limit on the size of the reserve and the annual limit for drawing down both capital and revenue spending has increased by 10 per cent, it still falls woefully short and does nothing to restore the large inflationary losses to these limits since they were set in cash terms a decade ago. This is not bloodless constitutional abstraction. It has implications for our ability to build up and use resources for future investment, whether that be in infrastructure, public services or the economy. And where there is insufficient capacity within the reserve, the ceiling for putting money in is set at 1.4 per cent of our budget. The Treasury can simply claw that money back.\n\nThe same absurdities apply to our borrowing powers, and whilst not included in this motion, Llywydd, I'm going to mention it anyway. Less expensive forms of borrowing are subject to strict limits: £1.1 billion, with an annual limit of £165 million via the national loan fund. If the Welsh Government wishes to undertake a project above a certain scale, it must either take this money from public services, borrow it privately via the mutual investment model, or hope that the UK Government decides to undertake a project of a similar scale in England and that it delivers on Barnett consequentials.\n\nThe Welsh Government has responsibility for huge areas of policy. The very principle of devolution is predicated on the notion that the people of Wales should be able to elect a Government that can pursue different priorities and make different choices from Governments elsewhere in the UK. But meaningful political responsibility requires meaningful fiscal powers, and we currently operate within a system that actively inhibits our ability to raise, save and borrow the resources necessary to deliver on the vast range of devolved responsibilities.\n\nI'm conscious that the word 'limit' is one that I've used a lot during this contribution, but it's an apt characterisation of our fiscal framework: it is both limited and limiting. The current system of occasional ad hoc flexibilities afforded to the Welsh Government at the Treasury's discretion militates against our democracy. This is not a sustainable basis on which to take our ambitions for Wales forward. The restrictions on the Welsh Government's access to the reserve should be removed permanently, bringing Wales in line with Scotland. The current limits are debilitating and the fiscal framework needs to be reformed.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=14789"
+        }
+      ],
+      "date": "2026-10-06",
+      "record_page_url": "https://record.senedd.wales/Plenary/16313"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-773724",
+          "item_id": "item-16265-260930-3",
+          "item_title_en": "3. Topical Questions",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "2. What assessment has the Welsh Government made of the economic impact of significant fuel price increases? TQ1502",
+          "text_original": "2. Pa asesiad y mae Llywodraeth Cymru wedi'i wneud o effaith economaidd cynnydd sylweddol mewn prisiau tanwydd? TQ1502",
+          "tv_url": "http://www.senedd.tv/en/16265"
+        },
+        {
+          "id": "contribution-773682",
+          "item_id": "item-16265-260930-3",
+          "item_title_en": "3. Topical Questions",
+          "lang": "cy",
+          "t_start": 6636,
+          "text_english": "Thank you for your response, Minister.",
+          "text_original": "Diolch am eich ymateb, Weinidog.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=6636"
+        },
+        {
+          "id": "contribution-773683",
+          "item_id": "item-16265-260930-3",
+          "item_title_en": "3. Topical Questions",
+          "lang": "en",
+          "t_start": 6639,
+          "text_english": "The issue is, of course, global in nature, but the impact is very much being felt locally. The price of fuel, especially diesel, is approaching an all-time high, and is already the most expensive anywhere in Europe at just under £2 per litre in many areas, but well over that in others, and there appears to be no end in sight. Welsh hauliers are reporting that this is adding many tens of thousands of pounds to their weekly fuel bills. Bus operators are reporting an increase in their fuel prices of 50 to 60 per cent since January this year. These costs cannot be absorbed indefinitely, and will eventually feed through into inflationary pressures.\n\nThroughout my constituency, many are forced to commute by car. It isn't a decision my constituents get to make, they have to drive, and they will be hit very hard by this, not only at the pumps, but in those goods and services they purchase that rely on logistics. Gweinidog, you've mentioned work with the UK Government, but given the potential impact on household incomes, inflationary pressures and economic activity across Wales, could you tell us in more detail what those discussions have been like, when they've taken place with our UK Government counterparts, and whether any assessments have been made as to the projected duration of this spike in fuel prices? I'd also be keen to know, depending on the forecast, whether any measures will need to be taken to protect households and businesses from these escalating costs. Diolch.",
+          "text_original": "The issue is, of course, global in nature, but the impact is very much being felt locally. The price of fuel, especially diesel, is approaching an all-time high, and is already the most expensive anywhere in Europe at just under £2 per litre in many areas, but well over that in others, and there appears to be no end in sight. Welsh hauliers are reporting that this is adding many tens of thousands of pounds to their weekly fuel bills. Bus operators are reporting an increase in their fuel prices of 50 to 60 per cent since January this year. These costs cannot be absorbed indefinitely, and will eventually feed through into inflationary pressures.\n\nThroughout my constituency, many are forced to commute by car. It isn't a decision my constituents get to make, they have to drive, and they will be hit very hard by this, not only at the pumps, but in those goods and services they purchase that rely on logistics. Gweinidog, you've mentioned work with the UK Government, but given the potential impact on household incomes, inflationary pressures and economic activity across Wales, could you tell us in more detail what those discussions have been like, when they've taken place with our UK Government counterparts, and whether any assessments have been made as to the projected duration of this spike in fuel prices? I'd also be keen to know, depending on the forecast, whether any measures will need to be taken to protect households and businesses from these escalating costs. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=6639"
+        },
+        {
+          "id": "contribution-773694",
+          "item_id": "item-16265-260930-4",
+          "item_title_en": "4. 90-second Statements",
+          "lang": "en",
+          "t_start": 7593,
+          "text_english": "Tomorrow marks International Day of Older Persons, a fitting occasion to pay tribute to the array of community centres and organisations across Afan Ogwr Rhondda, and indeed the whole of Wales, that do absolutely vital work supporting older people. Today, I want to focus particularly on overcoming isolation and loneliness, the hugely important but often overlooked social determinants of health for older people. There are many community organisations in Afan Ogwr Rhondda that do life-affirming work by bringing older people together with people of all ages. They help make sure that getting older does not mean becoming isolated. In Caerau, Noddfa community centre, run by Matthew Rowlands, is at the heart of the community, offering a dizzying array of activities from fitness classes to craft sessions. I'd be remiss not to mention the Caerau Men's Shed here as well, where Phil, Gyp and everyone involved there do brilliant work. Then over to Gwynfi Miners Community Hall, where Simon is doing an unbelievable job providing a space that genuinely makes people's lives better, with walk-and-talk groups, book clubs, a gym, and much more. There's Gilfach community centre, Pen Rhondda Support Group, Treorchy Senior Citizens Club, and Action for Elders in Aberavon. I've had the privilege of seeing first-hand and hearing about the difference all of these organisations make for older people in our communities, ensuring that everyone has the opportunity to live a long life while remaining connected to the people and places around them.",
+          "text_original": "Tomorrow marks International Day of Older Persons, a fitting occasion to pay tribute to the array of community centres and organisations across Afan Ogwr Rhondda, and indeed the whole of Wales, that do absolutely vital work supporting older people. Today, I want to focus particularly on overcoming isolation and loneliness, the hugely important but often overlooked social determinants of health for older people. There are many community organisations in Afan Ogwr Rhondda that do life-affirming work by bringing older people together with people of all ages. They help make sure that getting older does not mean becoming isolated. In Caerau, Noddfa community centre, run by Matthew Rowlands, is at the heart of the community, offering a dizzying array of activities from fitness classes to craft sessions. I'd be remiss not to mention the Caerau Men's Shed here as well, where Phil, Gyp and everyone involved there do brilliant work. Then over to Gwynfi Miners Community Hall, where Simon is doing an unbelievable job providing a space that genuinely makes people's lives better, with walk-and-talk groups, book clubs, a gym, and much more. There's Gilfach community centre, Pen Rhondda Support Group, Treorchy Senior Citizens Club, and Action for Elders in Aberavon. I've had the privilege of seeing first-hand and hearing about the difference all of these organisations make for older people in our communities, ensuring that everyone has the opportunity to live a long life while remaining connected to the people and places around them.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=7593"
+        },
+        {
+          "id": "contribution-773707",
+          "item_id": "item-16265-260930-4",
+          "item_title_en": "4. 90-second Statements",
+          "lang": "cy",
+          "t_start": 7688,
+          "text_english": "Thank you to them all.",
+          "text_original": "Diolch iddyn nhw i gyd.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=7688"
+        },
+        {
+          "id": "contribution-773749",
+          "item_id": "item-16265-260930-6",
+          "item_title_en": "5. Member Debate under Standing Order 11.21(iv): Contaminated land",
+          "lang": "en",
+          "t_start": 10700,
+          "text_english": "I'd also like to thank Niamh for bringing forward this important debate, and Elwyn for his support in so doing. We've heard a range of very sobering statistics and analysis today and I'd like to very briefly add to that by drawing attention to the numbers for Afan Ogwr Rhondda. There are 6,000 sites identified in Neath Port Talbot, and a further 4,600 identified in Rhondda Cynon Taf. Alongside these, there are some very troubling unknowns. Bridgend County Borough Council currently does not have, to the best of my knowledge, a public register of contaminated sites. This mosaic of differing standards of practice underscores the need for a clear national picture, as Kiera Marshall has already referenced.\n\nThis brings me on to the UK Government's first comprehensive statement on forever chemicals, which was published in February. The previous Welsh Government had worked with the Department for Environment, Food and Rural Affairs to develop this, with a list of indicative actions. I'd be very keen to hear from the Cabinet Minister today about the extent to which there's been collaboration on this—appreciating, of course, that there have been some disruptions, shall we say, in Westminster. The more comprehensive our understanding of contaminated land, the better able we are to prioritise action and, most importantly, protect the communities who have to live alongside this legacy. Diolch.",
+          "text_original": "I'd also like to thank Niamh for bringing forward this important debate, and Elwyn for his support in so doing. We've heard a range of very sobering statistics and analysis today and I'd like to very briefly add to that by drawing attention to the numbers for Afan Ogwr Rhondda. There are 6,000 sites identified in Neath Port Talbot, and a further 4,600 identified in Rhondda Cynon Taf. Alongside these, there are some very troubling unknowns. Bridgend County Borough Council currently does not have, to the best of my knowledge, a public register of contaminated sites. This mosaic of differing standards of practice underscores the need for a clear national picture, as Kiera Marshall has already referenced.\n\nThis brings me on to the UK Government's first comprehensive statement on forever chemicals, which was published in February. The previous Welsh Government had worked with the Department for Environment, Food and Rural Affairs to develop this, with a list of indicative actions. I'd be very keen to hear from the Cabinet Minister today about the extent to which there's been collaboration on this—appreciating, of course, that there have been some disruptions, shall we say, in Westminster. The more comprehensive our understanding of contaminated land, the better able we are to prioritise action and, most importantly, protect the communities who have to live alongside this legacy. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=10700"
+        }
+      ],
+      "date": "2026-09-30",
+      "record_page_url": "https://record.senedd.wales/Plenary/16265"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771013",
+          "item_id": "item-16262-260922-4",
+          "item_title_en": "4. Statement by the First Minister: 'New Ambition for Wales: Programme for Government 2026-2030'",
+          "lang": "cy",
+          "t_start": 10752,
+          "text_english": "Thank you for your statement, First Minister. It's great to see that raising standards in our schools continues to be one of this Government's key aspirations. And I believe that this was also clear from the statement made by the Cabinet Minister for Education and the Welsh Language last week. The foundational literacy and numeracy plan offers a golden opportunity to get the infrastructure right. There's little doubt that the process of implementation and of delivering better results will be a major challenge. But, as the Cabinet Minister said last week, we must not apologise for setting our standards and our expectations high. There is a clear timetable for completing this task and it is an ambitious programme.\n\nIt comes at a time when schools are already dealing with increasingly complex pupil needs, concerns regarding student behaviour, teachers' workload, and challenges in recruiting and retaining staff. Bearing in mind the plan's importance and our aspirations for education, what further support will the Welsh Government be providing to teachers and to staff more broadly during this Senedd term in order to ensure that they receive the appropriate support to deliver this plan?",
+          "text_original": "Diolch am y datganiad, Brif Weinidog. Mae'n wych gweld bod codi safonau yn ein hysgolion yn un o ddyheadau allweddol y Llywodraeth hon. Ac rwy'n credu bydd hynny hefyd yn amlwg o ddatganiad y Gweinidog Cabinet dros Addysg a'r Gymraeg yr wythnos diwethaf. Mae'r cynllun llythrennedd a rhifedd sylfaenol yn cynnig cyfle gwirioneddol i gael y seilwaith yn iawn. Heb os, bydd y broses o weithredu a chyflawni canlyniadau gwell yn y pen draw yn her enfawr. Ond, fel y dywedodd Gweinidog y Cabinet yr wythnos diwethaf, ni ddylem ymddiheuro am osod safonau a disgwyliadau uchel. Mae amserlen glir ar gyfer cyflawni'r gwaith ac mae'n rhaglen uchelgeisiol.\n\nMae'n dod ar adeg pan mae ysgolion eisoes yn delio ag anghenion disgyblion sy'n mynd yn fwyfwy cymhleth, pryderon ynghylch ymddygiad, llwyth gwaith athrawon, a heriau o ran recriwtio a chadw staff. O ystyried pwysigrwydd y cynllun a'n huchelgeisiau o ran addysg, pa gymorth pellach bydd Llywodraeth Cymru yn ei ddarparu i athrawon ac i staff ehangach yn ystod tymor y Senedd hon er mwyn sicrhau eu bod yn cael y gefnogaeth briodol i gyflawni'r cynllun?",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=10752"
+        }
+      ],
+      "date": "2026-09-22",
+      "record_page_url": "https://record.senedd.wales/Plenary/16262"
+    },
     {
       "contributions": [
         {

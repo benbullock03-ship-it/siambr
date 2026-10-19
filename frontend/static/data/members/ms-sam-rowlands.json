@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,200 @@
   "canonical_name": "Sam Rowlands",
   "constituency_name_cy": "Fflint Wrecsam",
   "constituency_name_en": "Fflint Wrecsam",
-  "contribution_count": 43,
+  "contribution_count": 58,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778937",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "en",
+          "t_start": 4348,
+          "text_english": "Thank you, Deputy Presiding Officer. Cabinet Minister, in May of this year, Plaid Cymru stood on a platform of change. Of course, we've seen in 2007 the One Wales coalition that Plaid Cymru had with Labour for a four-year period; in 2021, there was the co-operation agreement that Plaid Cymru had with Labour throughout that term; in 2025, the budget deal between Plaid Cymru and Labour for this next financial year again. And of course, yesterday, you announced a deal with Welsh Labour for the supplementary budget again. I wonder how this signals a platform of change that Plaid Cymru stood on in May.",
+          "text_original": "Thank you, Deputy Presiding Officer. Cabinet Minister, in May of this year, Plaid Cymru stood on a platform of change. Of course, we've seen in 2007 the One Wales coalition that Plaid Cymru had with Labour for a four-year period; in 2021, there was the co-operation agreement that Plaid Cymru had with Labour throughout that term; in 2025, the budget deal between Plaid Cymru and Labour for this next financial year again. And of course, yesterday, you announced a deal with Welsh Labour for the supplementary budget again. I wonder how this signals a platform of change that Plaid Cymru stood on in May.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=4348"
+        },
+        {
+          "id": "contribution-778941",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "en",
+          "t_start": 4470,
+          "text_english": "Thank you, Cabinet Minister. I'm sure you can appreciate that when you say it's a Government of change, but continuing the same alliances that have taken place many times during the 27 years of this Senedd, it's hard for the electorate to understand how those two things can be true at once. And of course, during that campaign, you claimed that the economic plan would unlock potential, support good jobs and grow businesses, and in forming a new Welsh Government, many people hoped for a shift away from 27 years of working with Labour in one way or another. Instead, we see that deal being done again.\n\nIn particular, around the issue around additional learning needs, it's absolutely right that funding has been allocated to those children with additional learning needs. But a single-year assessment is not enough to provide schools, teachers, parents and learners with the certainty that they desperately need. The National Association of Head Teachers have told us that this deal falls significantly short of ALN's identified need in Wales. The Welsh Labour leader himself said yesterday that the ALN sector needed long-term sustainability. It baffles the mind as to why a long-term deal, therefore, wasn't agreed to. So, I wonder if you believe, in your heart of hearts, that the Plaid Cymru and Labour supplementary budget deal will bring the change that Wales needs, does do enough to expand support for ALN learners, and will help grow the economy across the whole of Wales.",
+          "text_original": "Thank you, Cabinet Minister. I'm sure you can appreciate that when you say it's a Government of change, but continuing the same alliances that have taken place many times during the 27 years of this Senedd, it's hard for the electorate to understand how those two things can be true at once. And of course, during that campaign, you claimed that the economic plan would unlock potential, support good jobs and grow businesses, and in forming a new Welsh Government, many people hoped for a shift away from 27 years of working with Labour in one way or another. Instead, we see that deal being done again.\n\nIn particular, around the issue around additional learning needs, it's absolutely right that funding has been allocated to those children with additional learning needs. But a single-year assessment is not enough to provide schools, teachers, parents and learners with the certainty that they desperately need. The National Association of Head Teachers have told us that this deal falls significantly short of ALN's identified need in Wales. The Welsh Labour leader himself said yesterday that the ALN sector needed long-term sustainability. It baffles the mind as to why a long-term deal, therefore, wasn't agreed to. So, I wonder if you believe, in your heart of hearts, that the Plaid Cymru and Labour supplementary budget deal will bring the change that Wales needs, does do enough to expand support for ALN learners, and will help grow the economy across the whole of Wales.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=4470"
+        },
+        {
+          "id": "contribution-779036",
+          "item_id": "item-16316-261014-6",
+          "item_title_en": "5. Welsh Labour Debate: Palliative and end-of-life care",
+          "lang": "en",
+          "t_start": 8156,
+          "text_english": "Firstly, can I say 'thank you' to Welsh Labour for bringing forward this debate today? We've already heard how powerfully this issue affects people from across the Chamber. We've heard some incredible stories of people's personal grief and support for this sector, so we're grateful for this debate being here today.\n\nI stand here, Llywydd, also, as one of the many hats that we wear as Members of the Senedd, as the chair of the cross-party group on palliative and hospice care. I want to pay credit to the legend that is Mark Isherwood, who carried that role for a number of years in this place, amongst many roles that he had here. I'm grateful to him for his support throughout his time in this place.\n\nAnd in that role, I have, of course, also had the privilege of meeting many incredible organisations, in the short time that I've been chairing that cross-party group. Those organisations provide important end-of-life hospice care across Wales, and, as others have, I want to start by thanking them for their incredible work, from the volunteers who man those reception desks in the hospices, right through to those expert clinical staff who are in those hospices day in and day out. I'm also grateful for the support of Jayne Bryant as the vice-chair of that group, and for Elfed Williams as well for his consistency on this, and thank you, Elfed, for sharing your story with us here in this place today.\n\nWith the cross-party group, we held an event just a few weeks ago in the Neuadd, Llywydd, and I was grateful to the Cabinet Minister for being able to join us at that event. I know the sector were grateful as well. It was a great opportunity to engage with hospices from across Wales, and I'm sure many of you took the opportunity to do that. I was grateful to be able to spend a few moments with the hospice in my constituency of Fflint Wrecsam, which is Nightingale House Hospice. It's been serving people across Wrexham, Flintshire and east Denbighshire for over 30 years now, and is a shining example of the fantastic work that hospices do in Wales.\n\nI want to remind Members of this place here again today that that cross-party group will meet regularly. I've heard the passionate debate so far in this place and if you want to engage with that cross-party group, please look out for those all-important invites, but I know that we all have very busy diaries to contend with. But let me share with you, as Members, here today that we had a cross-party group meeting just this week and we announced that we're going to undertake an inquiry, as a cross-party group, into community-based palliative care and how that links into hospice care as well. I hope to have some recommendations that the cross-party group can bring to this Senedd as well. And I know that the Cabinet Minister will be interested to see how that may look and how that may shape some of his thinking in the months and years to come as well.\n\nI want to echo the thanks and support already given to those working in this sector and recognise, as others have, the support that's given to around 20,000 children and adults in Wales every year, with that demand growing year in and year out. And we know of the pressure that that good work takes off the NHS, allowing patients to be discharged from hospital and offering 77,000 visits to people in their own homes annually as well.\n\nThe point I want to land on, though, Llywydd, is that the one word that comes through to me time and time again from hospices is the word 'certainty'. We hear them desperate for certainty about what their future looks and feels like, and much of that does come down to funding. They need certainty over their budgets, over their funding; they need certainty over what services they can offer; they need certainty over whether Welsh Government will continue to enable them to provide care within our communities. Because if we cannot secure a sustainable funding plan for hospices for the duration of this Senedd term at least, we're at real risk of losing services or whole organisations in our communities, some of which we've already seen the evidence of.\n\nI know the Cabinet Minister may point towards the national commissioning model that is being pulled together, perhaps, at the moment. My understanding is that that's likely to take between five and 10 years to come to fruition. I know the Cabinet Minister led an important debate in this place in January 2024, I believe it was, nearly three years ago, where, as a Chamber, we supported that position as well. But my concern, Cabinet Minister, is the timescale of this. It's nearly three years ago that you led that debate in this place. If that model takes another minimum of five years to develop, that's a long time of uncertainty for this sector. And the plea is that we create that certainty sooner rather than later.\n\nThey are of course grateful for those year-by-year allocations that are provided to them; they would not be able to survive without them. But what they do need is long-term, sustainable funding, and a long-term commissioning model to be delivered much sooner than the five to 10 years that perhaps is already being signalled. Diolch yn fawr iawn.",
+          "text_original": "Firstly, can I say 'thank you' to Welsh Labour for bringing forward this debate today? We've already heard how powerfully this issue affects people from across the Chamber. We've heard some incredible stories of people's personal grief and support for this sector, so we're grateful for this debate being here today.\n\nI stand here, Llywydd, also, as one of the many hats that we wear as Members of the Senedd, as the chair of the cross-party group on palliative and hospice care. I want to pay credit to the legend that is Mark Isherwood, who carried that role for a number of years in this place, amongst many roles that he had here. I'm grateful to him for his support throughout his time in this place.\n\nAnd in that role, I have, of course, also had the privilege of meeting many incredible organisations, in the short time that I've been chairing that cross-party group. Those organisations provide important end-of-life hospice care across Wales, and, as others have, I want to start by thanking them for their incredible work, from the volunteers who man those reception desks in the hospices, right through to those expert clinical staff who are in those hospices day in and day out. I'm also grateful for the support of Jayne Bryant as the vice-chair of that group, and for Elfed Williams as well for his consistency on this, and thank you, Elfed, for sharing your story with us here in this place today.\n\nWith the cross-party group, we held an event just a few weeks ago in the Neuadd, Llywydd, and I was grateful to the Cabinet Minister for being able to join us at that event. I know the sector were grateful as well. It was a great opportunity to engage with hospices from across Wales, and I'm sure many of you took the opportunity to do that. I was grateful to be able to spend a few moments with the hospice in my constituency of Fflint Wrecsam, which is Nightingale House Hospice. It's been serving people across Wrexham, Flintshire and east Denbighshire for over 30 years now, and is a shining example of the fantastic work that hospices do in Wales.\n\nI want to remind Members of this place here again today that that cross-party group will meet regularly. I've heard the passionate debate so far in this place and if you want to engage with that cross-party group, please look out for those all-important invites, but I know that we all have very busy diaries to contend with. But let me share with you, as Members, here today that we had a cross-party group meeting just this week and we announced that we're going to undertake an inquiry, as a cross-party group, into community-based palliative care and how that links into hospice care as well. I hope to have some recommendations that the cross-party group can bring to this Senedd as well. And I know that the Cabinet Minister will be interested to see how that may look and how that may shape some of his thinking in the months and years to come as well.\n\nI want to echo the thanks and support already given to those working in this sector and recognise, as others have, the support that's given to around 20,000 children and adults in Wales every year, with that demand growing year in and year out. And we know of the pressure that that good work takes off the NHS, allowing patients to be discharged from hospital and offering 77,000 visits to people in their own homes annually as well.\n\nThe point I want to land on, though, Llywydd, is that the one word that comes through to me time and time again from hospices is the word 'certainty'. We hear them desperate for certainty about what their future looks and feels like, and much of that does come down to funding. They need certainty over their budgets, over their funding; they need certainty over what services they can offer; they need certainty over whether Welsh Government will continue to enable them to provide care within our communities. Because if we cannot secure a sustainable funding plan for hospices for the duration of this Senedd term at least, we're at real risk of losing services or whole organisations in our communities, some of which we've already seen the evidence of.\n\nI know the Cabinet Minister may point towards the national commissioning model that is being pulled together, perhaps, at the moment. My understanding is that that's likely to take between five and 10 years to come to fruition. I know the Cabinet Minister led an important debate in this place in January 2024, I believe it was, nearly three years ago, where, as a Chamber, we supported that position as well. But my concern, Cabinet Minister, is the timescale of this. It's nearly three years ago that you led that debate in this place. If that model takes another minimum of five years to develop, that's a long time of uncertainty for this sector. And the plea is that we create that certainty sooner rather than later.\n\nThey are of course grateful for those year-by-year allocations that are provided to them; they would not be able to survive without them. But what they do need is long-term, sustainable funding, and a long-term commissioning model to be delivered much sooner than the five to 10 years that perhaps is already being signalled. Diolch yn fawr iawn.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=8156"
+        }
+      ],
+      "date": "2026-10-14",
+      "record_page_url": "https://record.senedd.wales/Plenary/16316"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-778475",
+          "item_id": "item-16315-261013-2",
+          "item_title_en": "2. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 4844,
+          "text_english": "Trefnydd, I'd like to request a statement on transport accessibility for blind and partially sighted people from the Deputy Minister for Transport to understand what more can be done to ensure everyone can travel safely, confidently and independently. Last week, I had the privilege of spending the morning with Rachel from the Royal National Institute of Blind People and her guide dog, Flick, as we attempted to walk from the bus station in Wrexham to the train station. I was provided a pair of goggles to help me understand Rachel's visual impairment. What struck me was the daily challenges facing people with sight loss in navigating their surroundings and accessing public transport. Access to public transport is essential for people to maintain their independence, access healthcare and stay connected to their communities. It's important that buses, trains and transport infrastructure are accessible, and that people with sight loss feel safe when travelling, certainly to avoid any risk of isolation. So, I'd be grateful for a statement from the Deputy Minister to highlight the work undertaken by the Welsh Government to ensure that blind and partially sighted people can access this transport as easily as possible. Thank you.",
+          "text_original": "Trefnydd, I'd like to request a statement on transport accessibility for blind and partially sighted people from the Deputy Minister for Transport to understand what more can be done to ensure everyone can travel safely, confidently and independently. Last week, I had the privilege of spending the morning with Rachel from the Royal National Institute of Blind People and her guide dog, Flick, as we attempted to walk from the bus station in Wrexham to the train station. I was provided a pair of goggles to help me understand Rachel's visual impairment. What struck me was the daily challenges facing people with sight loss in navigating their surroundings and accessing public transport. Access to public transport is essential for people to maintain their independence, access healthcare and stay connected to their communities. It's important that buses, trains and transport infrastructure are accessible, and that people with sight loss feel safe when travelling, certainly to avoid any risk of isolation. So, I'd be grateful for a statement from the Deputy Minister to highlight the work undertaken by the Welsh Government to ensure that blind and partially sighted people can access this transport as easily as possible. Thank you.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=4844"
+        },
+        {
+          "id": "contribution-778573",
+          "item_id": "item-16315-261013-4",
+          "item_title_en": "4. Statement by the Cabinet Minister for Rural Resilience and Sustainability: Winter preparedness: Be flood ready",
+          "lang": "en",
+          "t_start": 9975,
+          "text_english": "Thank you for your statement, Cabinet Minister. There are two themes I wanted to pick up that are really impacting my constituents in Brecon—. Sorry, I'm looking across at James Evans. [Interruption.] In Bretton and Broughton, in my patch, in relation to flooding. The first, Cabinet Minister, is around pace of delivery. My residents there have been flooded in 2021, 2023 and 2025. We're now in 2026 and the flood alleviation works have still yet to be undertaken.\n\nI was struck by your statement and your reference to flood defence works in Llanrwst. I believe those are in response to flooding events that took place probably in 2020 when I was the council leader there at that point in time. So, six years later to get delivery perhaps is not the pace that you would want to see. I'd be interested in your response around how you'd want to see pace of delivery accelerated.\n\nAnd secondly, around accountability, my residents in Bretton and Broughton are frustrated at the interaction sometimes with NRW, Welsh Water, local authorities, who is responsible for what and when. I think the simpler that can be, the better it would be for residents in places that I represent and I'm sure you represent as well. Diolch yn fawr.",
+          "text_original": "Thank you for your statement, Cabinet Minister. There are two themes I wanted to pick up that are really impacting my constituents in Brecon—. Sorry, I'm looking across at James Evans. [Interruption.] In Bretton and Broughton, in my patch, in relation to flooding. The first, Cabinet Minister, is around pace of delivery. My residents there have been flooded in 2021, 2023 and 2025. We're now in 2026 and the flood alleviation works have still yet to be undertaken.\n\nI was struck by your statement and your reference to flood defence works in Llanrwst. I believe those are in response to flooding events that took place probably in 2020 when I was the council leader there at that point in time. So, six years later to get delivery perhaps is not the pace that you would want to see. I'd be interested in your response around how you'd want to see pace of delivery accelerated.\n\nAnd secondly, around accountability, my residents in Bretton and Broughton are frustrated at the interaction sometimes with NRW, Welsh Water, local authorities, who is responsible for what and when. I think the simpler that can be, the better it would be for residents in places that I represent and I'm sure you represent as well. Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=9975"
+        }
+      ],
+      "date": "2026-10-13",
+      "record_page_url": "https://record.senedd.wales/Plenary/16315"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-775851",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 828,
+          "text_english": "First Minister, the irony of you calling a Member of the Senedd an isolationist when you are desperate to break up the United Kingdom and isolate Wales from this United Kingdom, when you've signed a pact with the SNP and Sinn Féin to isolate Wales from the rest of the United Kingdom—the irony of that, First Minister. The reality on the ground, First Minister, is that there are people being treated in corridors in our hospitals, our roads are creaking, our businesses are being taxed to the hilt. These aren't just slogans, First Minister. I met with residents in Bretton and Broughton last week, who were flooded in 2021, flooded in 2023 and they were flooded in 2025. How can you look them in the eye, First Minister, and tell them money's being better spent in international offices in places like China rather than on flood defences in places like Bretton and Broughton?",
+          "text_original": "First Minister, the irony of you calling a Member of the Senedd an isolationist when you are desperate to break up the United Kingdom and isolate Wales from this United Kingdom, when you've signed a pact with the SNP and Sinn Féin to isolate Wales from the rest of the United Kingdom—the irony of that, First Minister. The reality on the ground, First Minister, is that there are people being treated in corridors in our hospitals, our roads are creaking, our businesses are being taxed to the hilt. These aren't just slogans, First Minister. I met with residents in Bretton and Broughton last week, who were flooded in 2021, flooded in 2023 and they were flooded in 2025. How can you look them in the eye, First Minister, and tell them money's being better spent in international offices in places like China rather than on flood defences in places like Bretton and Broughton?",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=828"
+        },
+        {
+          "id": "contribution-775987",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "en",
+          "t_start": 4450,
+          "text_english": "Diolch, Lywydd. As the Cabinet Minister for effectiveness, what actions are you taking to guarantee that your Cabinet colleagues are effectively ensuring value for money in the departments across the Welsh Government?",
+          "text_original": "Diolch, Lywydd. As the Cabinet Minister for effectiveness, what actions are you taking to guarantee that your Cabinet colleagues are effectively ensuring value for money in the departments across the Welsh Government?",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=4450"
+        },
+        {
+          "id": "contribution-775942",
+          "item_id": "item-16313-261006-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Government Effectiveness and the Constitution",
+          "lang": "en",
+          "t_start": 4513,
+          "text_english": "Thank you for your response, Cabinet Minister. You'll know, in July, that your colleague the Cabinet Minister for Culture and Sport announced that the Welsh Government will be setting up a new shadow broadcasting and communications authority as a first step in trying to pull powers over broadcasting away from the UK Government. And you'll know, of course, that broadcasting has never been devolved, so setting up the shadow authority is clearly an example of this Plaid Cymru Welsh Government working outside of its constitutional boundaries. And, of course, as the Cabinet Minister for Government Effectiveness and the Constitution, I'm sure you were the first to object to these plans at the earliest opportunity.\n\nAt the same time, your colleague also announced that tens of thousands of pounds have been set aside to fund the shadow authority in its first year. And, of course, because it's not a devolved matter, there's no funding from the UK Government to enable this to happen, meaning every penny spent on the shadow authority has to be redirected from an area the Welsh Government does have responsibility for. So, Cabinet Minister, do you think that this is an effective use of taxpayers' money that the Welsh Government is spending tens of thousands of pounds on something it has no responsibility for?",
+          "text_original": "Thank you for your response, Cabinet Minister. You'll know, in July, that your colleague the Cabinet Minister for Culture and Sport announced that the Welsh Government will be setting up a new shadow broadcasting and communications authority as a first step in trying to pull powers over broadcasting away from the UK Government. And you'll know, of course, that broadcasting has never been devolved, so setting up the shadow authority is clearly an example of this Plaid Cymru Welsh Government working outside of its constitutional boundaries. And, of course, as the Cabinet Minister for Government Effectiveness and the Constitution, I'm sure you were the first to object to these plans at the earliest opportunity.\n\nAt the same time, your colleague also announced that tens of thousands of pounds have been set aside to fund the shadow authority in its first year. And, of course, because it's not a devolved matter, there's no funding from the UK Government to enable this to happen, meaning every penny spent on the shadow authority has to be redirected from an area the Welsh Government does have responsibility for. So, Cabinet Minister, do you think that this is an effective use of taxpayers' money that the Welsh Government is spending tens of thousands of pounds on something it has no responsibility for?",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=4513"
+        },
+        {
+          "id": "contribution-776222",
+          "item_id": "item-16313-261006-6",
+          "item_title_en": "6. Debate: Fiscal Reform",
+          "lang": "en",
+          "t_start": 15381,
+          "text_english": "Diolch, Lywydd. I'm grateful to be able to take part in this debate this evening. And I must say, Llywydd, it has been far more interesting than I expected when I saw the title of the debate in the first place. I will first of all remind the Labour spokesperson, who seemed to forget about the hundreds of millions of pounds the Conservative Government supported his own city growth region in, especially when it came to the south Wales metro as well. He seems to have completely forgotten about that rail investment over the last Conservative Government here.\n\nWe've heard, so far, from Reform, Llywydd—the first speaker who seemed to think that this debate was a complete waste of time, and the second speaker who used nearly six minutes of that time to talk about the importance of fiscal reform and why it matters so much.\n\nI think, Llywydd, it is fair to say that a Government should be in a position to be able to have the right amount of flexibility to respond to pressures that are facing communities across the area that it represents and is responsible for. And I think, as Welsh Conservatives, we want to ensure there's a system in place that gives the appropriate Governments the appropriate amount of flexibility to deal with those issues. And I think, to be fair, the current arrangements are probably unusual, to say the least, in particular around the issue of reserves, Llywydd. I think there's a different argument around borrowing powers, and I think Members will certainly understand the fact that your borrowing power is often related to your ability to raise taxes. That's why local authorities are able to borrow more readily than the Welsh Government, currently. But I think the current arrangements around the Wales reserve is unusual, to say the least, and that's why, as Welsh Conservatives, we would support greater flexibility, in particular around the restrictions that currently exist on the Wales reserve.\n\nAnd that greater flexibility, though, should also come with making sure there's very clear accountability and scrutiny, because if those restrictions are removed, taxpayers should be able to see how that flexibility is being used and what it is delivering. I think it is reasonable to say that a Government should be able to plan beyond a very small time frame and with very limited flexibility around reserves, in particular.\n\nAs I say, the issues around borrowing—I think it's a completely different discussion and argument. Perhaps another one we should have on another day in this Chamber, because I expect the views may be different across this Chamber if that was debated as a single issue.\n\nIn relation to the second part of the motion today, which is the review of the operation of the Barnett formula, we would support a review of the operation of the Barnett formula. We believe the current formula is beyond its shelf life, it's out of date and we need a funding mechanism that works well for Wales. It is complicated, and I think that transparency is a question to be asked around the Barnett formula. And after all these years and other debates, it's reasonable to ask whether it remains the right mechanism for funding the different parts of the United Kingdom. But again, if we're going to reform it, we need to do so carefully and based on evidence, to have a system that's fair, transparent and properly reflects the needs of Wales, without putting our existing funding at risk.\n\nI was grateful to the Cabinet Minister for pointing out the wording of the motion here today about the operation of the Barnett formula, because there is a very real risk that a full-scale review, without appropriate mitigations in place, could actually see us in a worse place. We need to have a grown-up discussion about that as well.\n\nWe know the Institute for Fiscal Studies estimated that, in 2024-25, Welsh Government received around 25 per cent more funding per person than was spent on comparable services in England. That's an important figure to keep in mind when we consider the Barnett formula—a formula that, of course, was agreed by the Conservative UK Government all those years ago, with that extra support in place recognising the needs of people here in Wales.\n\nThe third part of the motion, in relation to rail—the support for the £14 billion commitment to rail infrastructure in Wales is significant, but what matters, of course, to passengers is what actually gets delivered. We need to see projects that are going to be accelerated, sufficient funding being made available and communities across Wales actually benefiting from this investment across all of Wales. People will only feel the system's working when they can get to work well, when businesses can access markets and when our communities have the transport infrastructure they deserve.\n\nWe absolutely agree that the Welsh and UK Governments should be working together to deliver for the people of Wales. So, as Welsh Conservatives, Llywydd, we support this motion in front of us today. We support the greater fiscal flexibility. We support a review of the operation of the Barnett formula. We support the £14 billion commitment to rail, while making clear that we want to see investment delivered across all of Wales, alongside asking for greater flexibility and a fairer funding system, and also making sure that every £1 Wales already receives is spent wisely. Diolch yn fawr iawn.",
+          "text_original": "Diolch, Lywydd. I'm grateful to be able to take part in this debate this evening. And I must say, Llywydd, it has been far more interesting than I expected when I saw the title of the debate in the first place. I will first of all remind the Labour spokesperson, who seemed to forget about the hundreds of millions of pounds the Conservative Government supported his own city growth region in, especially when it came to the south Wales metro as well. He seems to have completely forgotten about that rail investment over the last Conservative Government here.\n\nWe've heard, so far, from Reform, Llywydd—the first speaker who seemed to think that this debate was a complete waste of time, and the second speaker who used nearly six minutes of that time to talk about the importance of fiscal reform and why it matters so much.\n\nI think, Llywydd, it is fair to say that a Government should be in a position to be able to have the right amount of flexibility to respond to pressures that are facing communities across the area that it represents and is responsible for. And I think, as Welsh Conservatives, we want to ensure there's a system in place that gives the appropriate Governments the appropriate amount of flexibility to deal with those issues. And I think, to be fair, the current arrangements are probably unusual, to say the least, in particular around the issue of reserves, Llywydd. I think there's a different argument around borrowing powers, and I think Members will certainly understand the fact that your borrowing power is often related to your ability to raise taxes. That's why local authorities are able to borrow more readily than the Welsh Government, currently. But I think the current arrangements around the Wales reserve is unusual, to say the least, and that's why, as Welsh Conservatives, we would support greater flexibility, in particular around the restrictions that currently exist on the Wales reserve.\n\nAnd that greater flexibility, though, should also come with making sure there's very clear accountability and scrutiny, because if those restrictions are removed, taxpayers should be able to see how that flexibility is being used and what it is delivering. I think it is reasonable to say that a Government should be able to plan beyond a very small time frame and with very limited flexibility around reserves, in particular.\n\nAs I say, the issues around borrowing—I think it's a completely different discussion and argument. Perhaps another one we should have on another day in this Chamber, because I expect the views may be different across this Chamber if that was debated as a single issue.\n\nIn relation to the second part of the motion today, which is the review of the operation of the Barnett formula, we would support a review of the operation of the Barnett formula. We believe the current formula is beyond its shelf life, it's out of date and we need a funding mechanism that works well for Wales. It is complicated, and I think that transparency is a question to be asked around the Barnett formula. And after all these years and other debates, it's reasonable to ask whether it remains the right mechanism for funding the different parts of the United Kingdom. But again, if we're going to reform it, we need to do so carefully and based on evidence, to have a system that's fair, transparent and properly reflects the needs of Wales, without putting our existing funding at risk.\n\nI was grateful to the Cabinet Minister for pointing out the wording of the motion here today about the operation of the Barnett formula, because there is a very real risk that a full-scale review, without appropriate mitigations in place, could actually see us in a worse place. We need to have a grown-up discussion about that as well.\n\nWe know the Institute for Fiscal Studies estimated that, in 2024-25, Welsh Government received around 25 per cent more funding per person than was spent on comparable services in England. That's an important figure to keep in mind when we consider the Barnett formula—a formula that, of course, was agreed by the Conservative UK Government all those years ago, with that extra support in place recognising the needs of people here in Wales.\n\nThe third part of the motion, in relation to rail—the support for the £14 billion commitment to rail infrastructure in Wales is significant, but what matters, of course, to passengers is what actually gets delivered. We need to see projects that are going to be accelerated, sufficient funding being made available and communities across Wales actually benefiting from this investment across all of Wales. People will only feel the system's working when they can get to work well, when businesses can access markets and when our communities have the transport infrastructure they deserve.\n\nWe absolutely agree that the Welsh and UK Governments should be working together to deliver for the people of Wales. So, as Welsh Conservatives, Llywydd, we support this motion in front of us today. We support the greater fiscal flexibility. We support a review of the operation of the Barnett formula. We support the £14 billion commitment to rail, while making clear that we want to see investment delivered across all of Wales, alongside asking for greater flexibility and a fairer funding system, and also making sure that every £1 Wales already receives is spent wisely. Diolch yn fawr iawn.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=15381"
+        }
+      ],
+      "date": "2026-10-06",
+      "record_page_url": "https://record.senedd.wales/Plenary/16313"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-773919",
+          "item_id": "item-16265-260930-8",
+          "item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+          "lang": "en",
+          "t_start": 19195,
+          "text_english": "Diolch, Lywydd. I'm grateful to all Members who've contributed to the debate in this Chamber this evening. I think it shows the importance of the defence sector in Wales to all parts of Wales. I will start my closing of this debate, Llywydd, by addressing the Cabinet Minister's opening remarks in relation to the ethical defence framework, because it became clear through the debate that Members across parties have serious concerns about the implications of this, the delays it will induce and the consequences in Wales and more widely as a result. It clearly sends a message out that the defence sector is not properly supported by this Welsh Government. And I hope, Cabinet Minister, that you'll reflect on the concerns that Members have raised in this place, because we want to see that investment here in Wales, we want to see those jobs created here in Wales so that we can see prosperity here in Wales as well.\n\nI did welcome the Cabinet Minister's remarks, Llywydd, in recognising the importance of the defence sector here, in particular growth industries around cyber security, aerospace, advanced manufacturing. I was pleased to hear from colleagues in Fflint Wrecsam. Ken Skates mentioned Airbus, and I was pleased to be able to visit there recently with Darren Millar and see the incredible work that they do in my own constituency—a real highlight for Wales is the work that Airbus do. And they've just recently announced another 480 new jobs in the area. Again, a fantastic example of what aerospace does in Wales.\n\nAnd this growth and investment has been enabled by the skilled workers we have here in Wales, working with the UK Government and Welsh Government-backed Wrexham and Flintshire investment zone, alongside the support from local authorities. We heard in the debate, Llywydd, from Paul Davies about the strategic importance of west Wales and the opportunities for defence investment there, and we heard from the Reform spokesperson about the difference that the armed forces and the apprenticeship that he had made in his life and his career. And these are examples of why the Welsh Government should be directing more support to the defence sector right now, not pontificating and tying up the sector in red tape. And with the announcement of the ethical defence framework, potential investors and workers in the defence sector are facing nothing but uncertainty and delays. And that, Cabinet Minister, is what Members have raised in this place with you this evening.\n\nThese investments, as we've heard from Members also, are the things that make a very real difference day in, day out. We heard from Janet Finch-Saunders, didn't we, of the real-world impact of defence investment here in Wales. And when we talk about the defence sector, I think sometimes it's really easy to be fixated on the materials being produced—extremely important, of course, but let's not forget what is actually being defended. Darren Millar mentioned this with reference to the cold war in his opening remarks. It's our freedoms that are being defended; it's our values that are being defended; it's our democracy, our economic security, it's our resilience that's being defended by the defence sector. It's our way of life, it's the equalities that we enjoy as a nation, it's our peace that is being defended by the defence sector. And peace has to be fought for. We see it in the world that we live in today that peace is not something to be assumed. We have to fight for peace. And it's a fundamental. The highest priority of any Government is the peace of their nation. And it's this social responsibility of peace that we must fight for as a nation as well. That is our responsibility when it comes to our country. It's so important that we defend our values.\n\nThis debate comes precisely at a time when we are realising the growing need for investment and action. In short, Llywydd, because the world on our doorstep is getting more and more dangerous, we in this Senedd should be giving the defence sector our full backing, enabling manufacturers to be able to expand in Wales, provide good jobs to skilled workers and bolster the UK's defences. This is fundamental to the security of Wales, the security of the United Kingdom and the security of our allies abroad. That's why I urge all Members to back our motion and show your support for the defence sector here in Wales. Diolch yn fawr iawn.",
+          "text_original": "Diolch, Lywydd. I'm grateful to all Members who've contributed to the debate in this Chamber this evening. I think it shows the importance of the defence sector in Wales to all parts of Wales. I will start my closing of this debate, Llywydd, by addressing the Cabinet Minister's opening remarks in relation to the ethical defence framework, because it became clear through the debate that Members across parties have serious concerns about the implications of this, the delays it will induce and the consequences in Wales and more widely as a result. It clearly sends a message out that the defence sector is not properly supported by this Welsh Government. And I hope, Cabinet Minister, that you'll reflect on the concerns that Members have raised in this place, because we want to see that investment here in Wales, we want to see those jobs created here in Wales so that we can see prosperity here in Wales as well.\n\nI did welcome the Cabinet Minister's remarks, Llywydd, in recognising the importance of the defence sector here, in particular growth industries around cyber security, aerospace, advanced manufacturing. I was pleased to hear from colleagues in Fflint Wrecsam. Ken Skates mentioned Airbus, and I was pleased to be able to visit there recently with Darren Millar and see the incredible work that they do in my own constituency—a real highlight for Wales is the work that Airbus do. And they've just recently announced another 480 new jobs in the area. Again, a fantastic example of what aerospace does in Wales.\n\nAnd this growth and investment has been enabled by the skilled workers we have here in Wales, working with the UK Government and Welsh Government-backed Wrexham and Flintshire investment zone, alongside the support from local authorities. We heard in the debate, Llywydd, from Paul Davies about the strategic importance of west Wales and the opportunities for defence investment there, and we heard from the Reform spokesperson about the difference that the armed forces and the apprenticeship that he had made in his life and his career. And these are examples of why the Welsh Government should be directing more support to the defence sector right now, not pontificating and tying up the sector in red tape. And with the announcement of the ethical defence framework, potential investors and workers in the defence sector are facing nothing but uncertainty and delays. And that, Cabinet Minister, is what Members have raised in this place with you this evening.\n\nThese investments, as we've heard from Members also, are the things that make a very real difference day in, day out. We heard from Janet Finch-Saunders, didn't we, of the real-world impact of defence investment here in Wales. And when we talk about the defence sector, I think sometimes it's really easy to be fixated on the materials being produced—extremely important, of course, but let's not forget what is actually being defended. Darren Millar mentioned this with reference to the cold war in his opening remarks. It's our freedoms that are being defended; it's our values that are being defended; it's our democracy, our economic security, it's our resilience that's being defended by the defence sector. It's our way of life, it's the equalities that we enjoy as a nation, it's our peace that is being defended by the defence sector. And peace has to be fought for. We see it in the world that we live in today that peace is not something to be assumed. We have to fight for peace. And it's a fundamental. The highest priority of any Government is the peace of their nation. And it's this social responsibility of peace that we must fight for as a nation as well. That is our responsibility when it comes to our country. It's so important that we defend our values.\n\nThis debate comes precisely at a time when we are realising the growing need for investment and action. In short, Llywydd, because the world on our doorstep is getting more and more dangerous, we in this Senedd should be giving the defence sector our full backing, enabling manufacturers to be able to expand in Wales, provide good jobs to skilled workers and bolster the UK's defences. This is fundamental to the security of Wales, the security of the United Kingdom and the security of our allies abroad. That's why I urge all Members to back our motion and show your support for the defence sector here in Wales. Diolch yn fawr iawn.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=19195"
+        }
+      ],
+      "date": "2026-09-30",
+      "record_page_url": "https://record.senedd.wales/Plenary/16265"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-772829",
+          "item_id": "item-16264-260929-3",
+          "item_title_en": "2. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 797,
+          "text_english": "First Minister, I certainly agree with the comments made by colleagues across the Chamber here so far, because local authorities, councils, and the work they do is the lifeblood of our communities, from the roads that we drive on to the schools that we send our children to. The funding formula is an important aspect of the ability to deliver these services. Another aspect of funding is through council tax rises. In my constituency, Fflint Wrecsam, the local authorities of Flintshire and Wrexham have made significant council tax rises over recent years because of having to fund those services that are vital to people, day in and day out. But I wonder, in considering funding for local authorities, what you think is an acceptable council tax rise for local authorities to make. Will you be considering putting a cap on local authorities in Wales?",
+          "text_original": "First Minister, I certainly agree with the comments made by colleagues across the Chamber here so far, because local authorities, councils, and the work they do is the lifeblood of our communities, from the roads that we drive on to the schools that we send our children to. The funding formula is an important aspect of the ability to deliver these services. Another aspect of funding is through council tax rises. In my constituency, Fflint Wrecsam, the local authorities of Flintshire and Wrexham have made significant council tax rises over recent years because of having to fund those services that are vital to people, day in and day out. But I wonder, in considering funding for local authorities, what you think is an acceptable council tax rise for local authorities to make. Will you be considering putting a cap on local authorities in Wales?",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=797"
+        }
+      ],
+      "date": "2026-09-29",
+      "record_page_url": "https://record.senedd.wales/Plenary/16264"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771453",
+          "item_id": "item-16263-260923-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and Welsh Language",
+          "lang": "en",
+          "t_start": 4527,
+          "text_english": "Thank you, Deputy Presiding Officer. Cabinet Minister, what is your view on the impact of school closures on communities, parents, teachers and learners across Wales?",
+          "text_original": "Thank you, Deputy Presiding Officer. Cabinet Minister, what is your view on the impact of school closures on communities, parents, teachers and learners across Wales?",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=4527"
+        },
+        {
+          "id": "contribution-771458",
+          "item_id": "item-16263-260923-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and Welsh Language",
+          "lang": "en",
+          "t_start": 4582,
+          "text_english": "Thank you, Cabinet Minister. I appreciate the position you take on that, but, as you point out, on the process, it's important throughout that this is being adhered to properly, because communities are concerned when school closures and mergers are threatened for schools in their areas. You'll be aware, in my own constituency, that Flintshire council has proposed the merger of four schools into one superschool, with communities at the periphery of that, such as in Saltney, with St Anthony's school, and in Mold, with St David's school—where my colleague Darren Millar is the Member for—particularly concerned about the impact from the distance of the site that's being proposed.\n\nThe point here, Cabinet Minister, is that the consultation for the proposal has been rejected by more than 96 per cent of respondents. Schools are at the heart of our communities, and their closures have a particularly stark impact on rural areas, where schools serve as important community buildings and set habits of a lifetime for travel to and from school. Councils should not be imposing school closures on communities that do not want them. Instead, closures should only be considered where there's significant evidence, considerable public support and action to mitigate impacts on those communities. So, within the powers that you do have, Cabinet Minister, will you commit today to supporting parents, teachers and learners in disputes over school closures?",
+          "text_original": "Thank you, Cabinet Minister. I appreciate the position you take on that, but, as you point out, on the process, it's important throughout that this is being adhered to properly, because communities are concerned when school closures and mergers are threatened for schools in their areas. You'll be aware, in my own constituency, that Flintshire council has proposed the merger of four schools into one superschool, with communities at the periphery of that, such as in Saltney, with St Anthony's school, and in Mold, with St David's school—where my colleague Darren Millar is the Member for—particularly concerned about the impact from the distance of the site that's being proposed.\n\nThe point here, Cabinet Minister, is that the consultation for the proposal has been rejected by more than 96 per cent of respondents. Schools are at the heart of our communities, and their closures have a particularly stark impact on rural areas, where schools serve as important community buildings and set habits of a lifetime for travel to and from school. Councils should not be imposing school closures on communities that do not want them. Instead, closures should only be considered where there's significant evidence, considerable public support and action to mitigate impacts on those communities. So, within the powers that you do have, Cabinet Minister, will you commit today to supporting parents, teachers and learners in disputes over school closures?",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=4582"
+        },
+        {
+          "id": "contribution-771615",
+          "item_id": "item-16263-260923-6",
+          "item_title_en": "6. Welsh Labour Debate: Further education",
+          "lang": "en",
+          "t_start": 8601,
+          "text_english": "Diolch, Lywydd. I move the amendment in the name of my colleague Paul Davies. I'd like to thank Labour colleagues for bringing this debate forward today; a really important issue has been highlighted in this Chamber. I certainly support the opening remarks by their spokesperson here this afternoon. We know, don't we, that the latest Welsh Government figures show that 17 per cent of 16 to 24-year-olds in Wales were not in employment, education or training in the year ending December 2025. That's an increase of 5.5 percentage points in just one year. That's nearly one in every five young adults that we would meet not in education, employment or training. Quite stark figures. Sometimes, Llywydd, we get so used to these numbers being bandied about, but it's pretty shocking, actually, that nearly one in five young adults are not in education, training or in employment.\n\nWe must remember that behind every one of those numbers is a young person who wants to get on with their life, to continue education, develop their skills, or step into the world of work. When they're unable to do so, as this motion recognises, the consequences can be long-lasting, affecting their health, earnings, life chances and ultimately affecting our society as a whole. That's why the role that further education colleges play in tackling this is so, so important. I know the Welsh Government do understand this, but what we need to see today as a result of this motion is action off the back of words.\n\nWe know, of course, that record numbers of learners are choosing further education colleges as a route into qualifications, skills and careers, with every college in Wales reporting an increase in participation this academic year. Minister, you'll be pleased to hear, of course, that I visited a college on Friday just gone. It was Coleg Cambria's Yale site in Wrexham. They had me playing pickleball in one of their sports halls, they had me observing some pickle being prepared in the restaurant, and I hope to God that there's no footage of me getting in a pickle on the dance floor in their dance studio.\n\nWhat they told me about also was the increased demand that they're seeing at their own site there in Wrexham, which I know reflects colleges across Wales experiencing the same kinds of pressures. We know that there's particularly a strong demand in vocational and technical education areas, such as construction, engineering and healthcare, which happen to be precisely the sectors where Wales needs skilled workers today. And as we've already heard in the opening remarks, Llywydd, the increased demand is not being met with the funding that is required.\n\nWe've already heard about the 5,000 learners across colleges in Wales who are studying without the associated funding to properly support them. In my own constituency, there are around 1,000 students currently in colleges without the funding in place to provide the support that they need. We've failed to fund that demand. We risk fewer places, fewer courses and less support for the young people that I talked about right at the opening of my contribution today, which are those young people who aren't in work, those young people who aren't currently in training and aren't able to see that future that we need them to be able to see.  The risk is a NEET crisis getting worse and not better.\n\nBut funding is only one part of the solution, and that's why our Welsh Conservative amendment is so important, and that's why we're calling on the Welsh Government to encourage that greater collaboration between those colleges and the private sector. Because we do have a bit of a strange situation in Wales at the moment, where many of us across the Chamber will be aware that employers are struggling to find people with the right skills while young people are struggling to find clear routes into work. So, something's not quite matching up. I'm sure that the Minister will speak about the skills audit that's under way, and I really hope that business is right at the heart of that thinking as well. Because employers can help those colleges understand the skills that industries need, colleges can give businesses access to the next generation of talent, and learners can gain the experience and understanding of the workplace that make the difference between finishing education and finding a career.\n\nAn example of this, Llywydd, is in the defence sector. We know that UK defence investment in Wales accounts for around about £1 billion a year into our Welsh industries. So, why wouldn't we want Welsh colleges to work with the defence sector to make sure our young people are equipped to take advantage of the opportunities that are there for them in the future? The same applies to construction, engineering, energy and many other sectors on which Wales's economy depends so importantly.\n\nSo, this isn't about telling young people what career they should choose, it's about giving them the opportunity, the experience and the choice to be able to move into a world of work. The Welsh Conservatives believe that every learner should be able to choose a path that works for them. That's why it's important that this motion and our amendment is supported. We need properly funded colleges, stronger links between education and industry and a Welsh Government focused on creating opportunities for our young people. Diolch yn fawr iawn.",
+          "text_original": "Diolch, Lywydd. I move the amendment in the name of my colleague Paul Davies. I'd like to thank Labour colleagues for bringing this debate forward today; a really important issue has been highlighted in this Chamber. I certainly support the opening remarks by their spokesperson here this afternoon. We know, don't we, that the latest Welsh Government figures show that 17 per cent of 16 to 24-year-olds in Wales were not in employment, education or training in the year ending December 2025. That's an increase of 5.5 percentage points in just one year. That's nearly one in every five young adults that we would meet not in education, employment or training. Quite stark figures. Sometimes, Llywydd, we get so used to these numbers being bandied about, but it's pretty shocking, actually, that nearly one in five young adults are not in education, training or in employment.\n\nWe must remember that behind every one of those numbers is a young person who wants to get on with their life, to continue education, develop their skills, or step into the world of work. When they're unable to do so, as this motion recognises, the consequences can be long-lasting, affecting their health, earnings, life chances and ultimately affecting our society as a whole. That's why the role that further education colleges play in tackling this is so, so important. I know the Welsh Government do understand this, but what we need to see today as a result of this motion is action off the back of words.\n\nWe know, of course, that record numbers of learners are choosing further education colleges as a route into qualifications, skills and careers, with every college in Wales reporting an increase in participation this academic year. Minister, you'll be pleased to hear, of course, that I visited a college on Friday just gone. It was Coleg Cambria's Yale site in Wrexham. They had me playing pickleball in one of their sports halls, they had me observing some pickle being prepared in the restaurant, and I hope to God that there's no footage of me getting in a pickle on the dance floor in their dance studio.\n\nWhat they told me about also was the increased demand that they're seeing at their own site there in Wrexham, which I know reflects colleges across Wales experiencing the same kinds of pressures. We know that there's particularly a strong demand in vocational and technical education areas, such as construction, engineering and healthcare, which happen to be precisely the sectors where Wales needs skilled workers today. And as we've already heard in the opening remarks, Llywydd, the increased demand is not being met with the funding that is required.\n\nWe've already heard about the 5,000 learners across colleges in Wales who are studying without the associated funding to properly support them. In my own constituency, there are around 1,000 students currently in colleges without the funding in place to provide the support that they need. We've failed to fund that demand. We risk fewer places, fewer courses and less support for the young people that I talked about right at the opening of my contribution today, which are those young people who aren't in work, those young people who aren't currently in training and aren't able to see that future that we need them to be able to see.  The risk is a NEET crisis getting worse and not better.\n\nBut funding is only one part of the solution, and that's why our Welsh Conservative amendment is so important, and that's why we're calling on the Welsh Government to encourage that greater collaboration between those colleges and the private sector. Because we do have a bit of a strange situation in Wales at the moment, where many of us across the Chamber will be aware that employers are struggling to find people with the right skills while young people are struggling to find clear routes into work. So, something's not quite matching up. I'm sure that the Minister will speak about the skills audit that's under way, and I really hope that business is right at the heart of that thinking as well. Because employers can help those colleges understand the skills that industries need, colleges can give businesses access to the next generation of talent, and learners can gain the experience and understanding of the workplace that make the difference between finishing education and finding a career.\n\nAn example of this, Llywydd, is in the defence sector. We know that UK defence investment in Wales accounts for around about £1 billion a year into our Welsh industries. So, why wouldn't we want Welsh colleges to work with the defence sector to make sure our young people are equipped to take advantage of the opportunities that are there for them in the future? The same applies to construction, engineering, energy and many other sectors on which Wales's economy depends so importantly.\n\nSo, this isn't about telling young people what career they should choose, it's about giving them the opportunity, the experience and the choice to be able to move into a world of work. The Welsh Conservatives believe that every learner should be able to choose a path that works for them. That's why it's important that this motion and our amendment is supported. We need properly funded colleges, stronger links between education and industry and a Welsh Government focused on creating opportunities for our young people. Diolch yn fawr iawn.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=8601"
+        }
+      ],
+      "date": "2026-09-23",
+      "record_page_url": "https://record.senedd.wales/Plenary/16263"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-770782",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 2849,
+          "text_english": "Can I support the Member in his questions on this topic, First Minister? We know that many older people at the moment are struggling with the cost of living, and particularly with the impact of a fixed income on many older people in our communities. We also know that, historically, people have been able to access advice services in their communities through organisations such as Citizens Advice and other fantastic organisations like that, who can support our older people to ensure that they are making the best use of any welfare support available to them and other types of support as well. So, I wonder, First Minister, if you're able to outline how you see those types of services in the future and what support the Welsh Government can give to organisations like the citizens advice bureaux to ensure that that advice is available to them in a timely way, and in an accessible way as well? Diolch yn fawr iawn.",
+          "text_original": "Can I support the Member in his questions on this topic, First Minister? We know that many older people at the moment are struggling with the cost of living, and particularly with the impact of a fixed income on many older people in our communities. We also know that, historically, people have been able to access advice services in their communities through organisations such as Citizens Advice and other fantastic organisations like that, who can support our older people to ensure that they are making the best use of any welfare support available to them and other types of support as well. So, I wonder, First Minister, if you're able to outline how you see those types of services in the future and what support the Welsh Government can give to organisations like the citizens advice bureaux to ensure that that advice is available to them in a timely way, and in an accessible way as well? Diolch yn fawr iawn.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=2849"
+        }
+      ],
+      "date": "2026-09-22",
+      "record_page_url": "https://record.senedd.wales/Plenary/16262"
+    },
     {
       "contributions": [
         {

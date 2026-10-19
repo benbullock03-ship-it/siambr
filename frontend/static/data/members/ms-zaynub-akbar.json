@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "abstain"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,154 @@
   "canonical_name": "Zaynub Akbar",
   "constituency_name_cy": "Caerdydd Ffynnon Taf",
   "constituency_name_en": "Caerdydd Ffynnon Taf",
-  "contribution_count": 21,
+  "contribution_count": 32,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778866",
+          "item_id": "item-16316-261014-2",
+          "item_title_en": "1. Questions to the Trefnydd, Chief Whip and Cabinet Minister for Culture and Sport",
+          "lang": "en",
+          "t_start": 1725,
+          "text_english": "Participating in sport brings many benefits, as we all know. It provides physical health, mental health and well-being, while also providing opportunities to build community and bring people together. But barriers to participation can prevent people from accessing these benefits altogether. Sport Wales's 'State of the Nation' report for 2024-25 notes that two of the three factors most likely to encourage future participation in sport are if there were more facilities, clubs or groups in their area, and if it cost less.\n\nThere are pockets in my constituency of Caerdydd Ffynnon Taf, more specifically in Cardiff east, where public transport is infrequent and expensive. And with the decline in youth centres and community facilities in recent years following cuts, it feels as though this problem is only getting worse. I appreciate you've already answered part of this question, but I wanted to ask what action is being taken to measure and address transport-related barriers specifically, and how you're working with the Deputy Minister for Transport to make sure that there is participation for low-income families.",
+          "text_original": "Participating in sport brings many benefits, as we all know. It provides physical health, mental health and well-being, while also providing opportunities to build community and bring people together. But barriers to participation can prevent people from accessing these benefits altogether. Sport Wales's 'State of the Nation' report for 2024-25 notes that two of the three factors most likely to encourage future participation in sport are if there were more facilities, clubs or groups in their area, and if it cost less.\n\nThere are pockets in my constituency of Caerdydd Ffynnon Taf, more specifically in Cardiff east, where public transport is infrequent and expensive. And with the decline in youth centres and community facilities in recent years following cuts, it feels as though this problem is only getting worse. I appreciate you've already answered part of this question, but I wanted to ask what action is being taken to measure and address transport-related barriers specifically, and how you're working with the Deputy Minister for Transport to make sure that there is participation for low-income families.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=1725"
+        }
+      ],
+      "date": "2026-10-14",
+      "record_page_url": "https://record.senedd.wales/Plenary/16316"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-778396",
+          "item_id": "item-16315-261013-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 1791,
+          "text_english": "Effective Government is underpinned by taking a collaborative, cross-sector and holistic approach to policy development and decision making. It recognises that many of the challenges facing Wales cannot be addressed by individual departments working in isolation. Because for too long, previous Governments have operated in silos, failing to look at the bigger picture and tackle shared challenges through joined-up action. Take prevention, for example. Prevention cuts across health, housing and culture. Food policy connects social justice, public health and rural resilience. Creating high-quality jobs needs co-ordination between the economy and education. So, Prif Weinidog, I'd like to know how this Plaid Cymru Welsh Government is already working collaboratively across ministerial portfolios in a tangible and measurable way that will genuinely make a difference to the lives of the people of Wales.",
+          "text_original": "Effective Government is underpinned by taking a collaborative, cross-sector and holistic approach to policy development and decision making. It recognises that many of the challenges facing Wales cannot be addressed by individual departments working in isolation. Because for too long, previous Governments have operated in silos, failing to look at the bigger picture and tackle shared challenges through joined-up action. Take prevention, for example. Prevention cuts across health, housing and culture. Food policy connects social justice, public health and rural resilience. Creating high-quality jobs needs co-ordination between the economy and education. So, Prif Weinidog, I'd like to know how this Plaid Cymru Welsh Government is already working collaboratively across ministerial portfolios in a tangible and measurable way that will genuinely make a difference to the lives of the people of Wales.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=1791"
+        },
+        {
+          "id": "contribution-778640",
+          "item_id": "item-16315-261013-8",
+          "item_title_en": "8. Legislative Consent Motion: The Armed Forces Bill",
+          "lang": "en",
+          "t_start": 17358,
+          "text_english": "Diolch, Deputy Llywydd. As Chair of the Equality, Human Rights and Social Justice Committee, I am pleased to contribute to this debate on the legislative consent motion for the Armed Forces Bill. I am sure Members across the Chamber will recognise the significant contribution made by serving personnel, veterans and military families to communities throughout Wales. They make sacrifices on behalf of us all, and they should not face disadvantage when accessing the public services on which we all rely.\n\nThat principle sits at the heart of the armed forces covenant. It is a principle that the Senedd supported when considering the previous Armed Forces Bill in 2021, and it remains as important today as it was then. Members previously recognised that veterans, service personnel and their families should not be disadvantaged in accessing housing, healthcare and education, while also emphasising the importance of respecting devolved responsibilities in Wales. This Bill seeks to build on that foundation by extending existing covenant duties and bringing a wider range of public decision makers within scope. As the Welsh Government has noted, this would be the first time that both the UK and devolved Governments would be subject to these requirements. Our committee recognised from the outset that support for the armed forces community spans both reserved and devolved responsibilities. Defence itself is reserved, but many of the services that veterans and their families rely upon, including housing and aspects of social support, are devolved. That makes effective partnership working essential.\n\nDuring our scrutiny, we sought further information from the Welsh Government on several important matters, and we thank the Deputy First Minister for engaging constructively with us in correspondence on the matters of interest to our members. First, we wanted confidence that the expanded duties would be implemented in a way that reflects Welsh circumstances. We welcome the assurances that the Welsh Government will continue to work closely with the Ministry of Defence and other Governments across the UK to improve co-ordination of support for veterans and service families. Secondly, we raised concerns about resources. New duties can create additional expectations and pressures for public bodies. At a time when budgets remain stretched, it is entirely reasonable to ask how any additional costs will be monitored and supported. We therefore welcome the Welsh Government's engagement with the UK Government on this issue, whilst noting that the absence of additional funding remains a matter that warrants continued attention.\n\nWe also examined proposals relating to the new defence housing service and the future use of Ministry of Defence land. Members will appreciate that housing is a matter of significant importance in every part of Wales. Opportunities to improve accommodation for service families are welcomed. Equally, any proposals involving defence land must be transparent, must respect Welsh planning processes, and must be developed in partnership with local communities. For that reason, we welcomed assurances that the new defence housing service will engage fully with local planning processes in Wales, and that compulsory acquisition powers would remain subject to established safeguards. We also welcome the commitment to work jointly with the Welsh Government to explore further opportunities relating to defence land and housing development.\n\nThe committee notes that differences remain between the Welsh and UK Governments regarding the extent of provisions that engage devolved competence. Nevertheless, we welcome the fact that the Welsh Government pressed UK Ministers for further information and assurances during the passage of the Bill and is now satisfied with those assurances. Therefore, while continuing to emphasise the need for ongoing scrutiny, particularly regarding funding implications and the future use of MOD land, the committee concluded that the Senedd should grant legislative consent. The committee therefore recommends that Members support today's legislative consent motion.",
+          "text_original": "Diolch, Deputy Llywydd. As Chair of the Equality, Human Rights and Social Justice Committee, I am pleased to contribute to this debate on the legislative consent motion for the Armed Forces Bill. I am sure Members across the Chamber will recognise the significant contribution made by serving personnel, veterans and military families to communities throughout Wales. They make sacrifices on behalf of us all, and they should not face disadvantage when accessing the public services on which we all rely.\n\nThat principle sits at the heart of the armed forces covenant. It is a principle that the Senedd supported when considering the previous Armed Forces Bill in 2021, and it remains as important today as it was then. Members previously recognised that veterans, service personnel and their families should not be disadvantaged in accessing housing, healthcare and education, while also emphasising the importance of respecting devolved responsibilities in Wales. This Bill seeks to build on that foundation by extending existing covenant duties and bringing a wider range of public decision makers within scope. As the Welsh Government has noted, this would be the first time that both the UK and devolved Governments would be subject to these requirements. Our committee recognised from the outset that support for the armed forces community spans both reserved and devolved responsibilities. Defence itself is reserved, but many of the services that veterans and their families rely upon, including housing and aspects of social support, are devolved. That makes effective partnership working essential.\n\nDuring our scrutiny, we sought further information from the Welsh Government on several important matters, and we thank the Deputy First Minister for engaging constructively with us in correspondence on the matters of interest to our members. First, we wanted confidence that the expanded duties would be implemented in a way that reflects Welsh circumstances. We welcome the assurances that the Welsh Government will continue to work closely with the Ministry of Defence and other Governments across the UK to improve co-ordination of support for veterans and service families. Secondly, we raised concerns about resources. New duties can create additional expectations and pressures for public bodies. At a time when budgets remain stretched, it is entirely reasonable to ask how any additional costs will be monitored and supported. We therefore welcome the Welsh Government's engagement with the UK Government on this issue, whilst noting that the absence of additional funding remains a matter that warrants continued attention.\n\nWe also examined proposals relating to the new defence housing service and the future use of Ministry of Defence land. Members will appreciate that housing is a matter of significant importance in every part of Wales. Opportunities to improve accommodation for service families are welcomed. Equally, any proposals involving defence land must be transparent, must respect Welsh planning processes, and must be developed in partnership with local communities. For that reason, we welcomed assurances that the new defence housing service will engage fully with local planning processes in Wales, and that compulsory acquisition powers would remain subject to established safeguards. We also welcome the commitment to work jointly with the Welsh Government to explore further opportunities relating to defence land and housing development.\n\nThe committee notes that differences remain between the Welsh and UK Governments regarding the extent of provisions that engage devolved competence. Nevertheless, we welcome the fact that the Welsh Government pressed UK Ministers for further information and assurances during the passage of the Bill and is now satisfied with those assurances. Therefore, while continuing to emphasise the need for ongoing scrutiny, particularly regarding funding implications and the future use of MOD land, the committee concluded that the Senedd should grant legislative consent. The committee therefore recommends that Members support today's legislative consent motion.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=17358"
+        }
+      ],
+      "date": "2026-10-13",
+      "record_page_url": "https://record.senedd.wales/Plenary/16315"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776901",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "en",
+          "t_start": 14692,
+          "text_english": "Will the Member take an intervention?",
+          "text_original": "Will the Member take an intervention?",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=14692"
+        },
+        {
+          "id": "contribution-776904",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "en",
+          "t_start": 14694,
+          "text_english": "As a Reform UK Member, you previously wrote online that, in your words, those on benefits should be put down, so are you saying that those on benefits shouldn't be entitled to housing now as well, or is it just based on skin colour?",
+          "text_original": "As a Reform UK Member, you previously wrote online that, in your words, those on benefits should be put down, so are you saying that those on benefits shouldn't be entitled to housing now as well, or is it just based on skin colour?",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=14694"
+        },
+        {
+          "id": "contribution-776906",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "en",
+          "t_start": 14712,
+          "text_english": "I'm okay. If you can't answer it now, then you can't answer it. [Interruption.] You can't answer it.",
+          "text_original": "I'm okay. If you can't answer it now, then you can't answer it. [Interruption.] You can't answer it.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=14712"
+        },
+        {
+          "id": "contribution-777034",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "en",
+          "t_start": 14720,
+          "text_english": "You said it.",
+          "text_original": "You said it.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=14720"
+        },
+        {
+          "id": "contribution-776934",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "en",
+          "t_start": 14723,
+          "text_english": "It's online. You said it.",
+          "text_original": "It's online. You said it.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=14723"
+        }
+      ],
+      "date": "2026-10-07",
+      "record_page_url": "https://record.senedd.wales/Plenary/16314"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-775923",
+          "item_id": "item-16313-261006-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 2360,
+          "text_english": "Prif Weinidog, I'd like to focus on the people behind the sports. Every sporting journey is built on dedication, discipline and enormous personal sacrifice, whether or not an athlete ultimately reaches the highest level of success, or even achieves financial success. Being an elite athlete is a unique way of life because, for many, their lives are structured around training, competition, travel, performance targets, coaches and team mates, often from a very young age. Education and career opportunities can be shaped around that commitment too, making the transition out of sport particularly challenging. While just a small number go on to gain financial security, many athletes make significant sacrifices without that sustainable living that comes afterwards. Yet many do leave sport with valuable skills in leadership, resilience, discipline, teamwork and performing under pressure, skills that can only benefit the wider Welsh economy and inspire future generations. So, Prif Weinidog, what support is the Welsh Government providing to support athletes transitioning into sustainable careers when they leave professional sport?",
+          "text_original": "Prif Weinidog, I'd like to focus on the people behind the sports. Every sporting journey is built on dedication, discipline and enormous personal sacrifice, whether or not an athlete ultimately reaches the highest level of success, or even achieves financial success. Being an elite athlete is a unique way of life because, for many, their lives are structured around training, competition, travel, performance targets, coaches and team mates, often from a very young age. Education and career opportunities can be shaped around that commitment too, making the transition out of sport particularly challenging. While just a small number go on to gain financial security, many athletes make significant sacrifices without that sustainable living that comes afterwards. Yet many do leave sport with valuable skills in leadership, resilience, discipline, teamwork and performing under pressure, skills that can only benefit the wider Welsh economy and inspire future generations. So, Prif Weinidog, what support is the Welsh Government providing to support athletes transitioning into sustainable careers when they leave professional sport?",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=2360"
+        }
+      ],
+      "date": "2026-10-06",
+      "record_page_url": "https://record.senedd.wales/Plenary/16313"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771614",
+          "item_id": "item-16263-260923-6",
+          "item_title_en": "6. Welsh Labour Debate: Further education",
+          "lang": "en",
+          "t_start": 8932,
+          "text_english": "I'd like to thank Lynne Neagle for bringing this important debate to the Chamber today. Before the summer recess, I raised the situation at Coleg y Cymoedd, which has a campus in my constituency, in Nantgarw. Across its four campuses, there were hundreds of prospective learners placed on waiting lists due to funding constraints at that point. Many had applied for construction, manufacturing and other vocational courses, but even now, with the term under way, 400 learners have had to enrol on their second or third-choice courses, while 40 of them remain on waiting lists.\n\nSo, we are now just a year away from the roll-out of VCSEs, the vocational certificate of secondary education, for 14 to 16-year-olds. The situation at Coleg y Cymoedd clearly demonstrates there is already strong demand among young people for vocational education. So, with just one year to go until the roll-out, I wondered how the Welsh Government is planning to ensure the VCSEs are delivered consistently across all schools in Wales and, crucially, joined up with further education, apprenticeships and the skills needs that employers want.",
+          "text_original": "I'd like to thank Lynne Neagle for bringing this important debate to the Chamber today. Before the summer recess, I raised the situation at Coleg y Cymoedd, which has a campus in my constituency, in Nantgarw. Across its four campuses, there were hundreds of prospective learners placed on waiting lists due to funding constraints at that point. Many had applied for construction, manufacturing and other vocational courses, but even now, with the term under way, 400 learners have had to enrol on their second or third-choice courses, while 40 of them remain on waiting lists.\n\nSo, we are now just a year away from the roll-out of VCSEs, the vocational certificate of secondary education, for 14 to 16-year-olds. The situation at Coleg y Cymoedd clearly demonstrates there is already strong demand among young people for vocational education. So, with just one year to go until the roll-out, I wondered how the Welsh Government is planning to ensure the VCSEs are delivered consistently across all schools in Wales and, crucially, joined up with further education, apprenticeships and the skills needs that employers want.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=8932"
+        }
+      ],
+      "date": "2026-09-23",
+      "record_page_url": "https://record.senedd.wales/Plenary/16263"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771016",
+          "item_id": "item-16262-260922-4",
+          "item_title_en": "4. Statement by the First Minister: 'New Ambition for Wales: Programme for Government 2026-2030'",
+          "lang": "en",
+          "t_start": 11282,
+          "text_english": "I'm very proud to serve a diverse constituency in Caerdydd Ffynnon Taf, with people coming from all walks of life. For the first time, many individuals and families placed their trust in Plaid Cymru, and they did this because they believe it will make a positive, tangible difference in their communities. I have spoken to many constituents over the last few months who are concerned about the rise in hate crimes, poverty, housing issues and other matters that negatively impact on their lives and the lives of their families.\n\nIf we are to be a truly ambitious nation, we must place social justice at the heart of our agenda. An unequal Wales will continue to leave people disenfranchised and left behind. A more equitable Wales, where people can receive different levels of support to achieve a fairer outcome, could accelerate our ambitions for a more equal nation. First Minister, people have different starting points in life and face different barriers, so how will the Welsh Government ensure that equality and equity are at the heart of delivering its programme for government?",
+          "text_original": "I'm very proud to serve a diverse constituency in Caerdydd Ffynnon Taf, with people coming from all walks of life. For the first time, many individuals and families placed their trust in Plaid Cymru, and they did this because they believe it will make a positive, tangible difference in their communities. I have spoken to many constituents over the last few months who are concerned about the rise in hate crimes, poverty, housing issues and other matters that negatively impact on their lives and the lives of their families.\n\nIf we are to be a truly ambitious nation, we must place social justice at the heart of our agenda. An unequal Wales will continue to leave people disenfranchised and left behind. A more equitable Wales, where people can receive different levels of support to achieve a fairer outcome, could accelerate our ambitions for a more equal nation. First Minister, people have different starting points in life and face different barriers, so how will the Welsh Government ensure that equality and equity are at the heart of delivering its programme for government?",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=11282"
+        }
+      ],
+      "date": "2026-09-22",
+      "record_page_url": "https://record.senedd.wales/Plenary/16262"
+    },
     {
       "contributions": [
         {

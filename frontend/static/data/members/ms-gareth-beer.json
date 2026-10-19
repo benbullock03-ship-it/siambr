@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,140 @@
   "canonical_name": "Gareth Beer",
   "constituency_name_cy": "Sir Gaerfyrddin",
   "constituency_name_en": "Sir Gaerfyrddin",
-  "contribution_count": 11,
+  "contribution_count": 20,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778909",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "en",
+          "t_start": 2916,
+          "text_english": "Cabinet Minister, whilst your colleague is in America deep-seeking the meaning of artificial intelligence, and the First Minister is running around Cardiff market, there are some very pressing challenges in Carmarthenshire affecting rural communities. Cash-strapped councils are being forced into short-term, penny-pinching false economies like threatening to close our small rural schools. In fact, two schools were closed today. Councils must manage their money, yes, I absolutely agree, but when will the Welsh Government prioritise ours? Will this funding formula finally direct real taxpayers' money to safeguard these small rural schools, the beating hearts of our communities? Diolch.",
+          "text_original": "Cabinet Minister, whilst your colleague is in America deep-seeking the meaning of artificial intelligence, and the First Minister is running around Cardiff market, there are some very pressing challenges in Carmarthenshire affecting rural communities. Cash-strapped councils are being forced into short-term, penny-pinching false economies like threatening to close our small rural schools. In fact, two schools were closed today. Councils must manage their money, yes, I absolutely agree, but when will the Welsh Government prioritise ours? Will this funding formula finally direct real taxpayers' money to safeguard these small rural schools, the beating hearts of our communities? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=2916"
+        }
+      ],
+      "date": "2026-10-14",
+      "record_page_url": "https://record.senedd.wales/Plenary/16316"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-778677",
+          "item_id": "item-16315-261013-6",
+          "item_title_en": "6. Statement by the Deputy Minister for Transport: Climate Adaptation and Resilience in Wales's Transport Network",
+          "lang": "en",
+          "t_start": 15859,
+          "text_english": "Deputy Minister, one of my staff recently left Carmarthen at 6.20 in the morning and did not arrive here in Cardiff bay until 11 o'clock. Getting to the bay or the Senedd by train or bus takes longer than flying to Malta. That said, when it comes to adaptation and resilience, we already know the risks from flooding and erosion. The assessments have been done. Operators and maintenance teams have said what is needed to be done. We do not need another review or plan; we need Government to get on with the work.\n\nAs I said, closures and delays affect commuters. Supply chains are affected. Investors are deterred. Costs are higher for Welsh businesses. Reliable transport links are vital for economic growth. These essential works should not be delayed by more assessments. So, can the Minister explain why so much is still at the planning stage? What work will now be carried out on our road and rail networks, and when will people see action? The public—",
+          "text_original": "Deputy Minister, one of my staff recently left Carmarthen at 6.20 in the morning and did not arrive here in Cardiff bay until 11 o'clock. Getting to the bay or the Senedd by train or bus takes longer than flying to Malta. That said, when it comes to adaptation and resilience, we already know the risks from flooding and erosion. The assessments have been done. Operators and maintenance teams have said what is needed to be done. We do not need another review or plan; we need Government to get on with the work.\n\nAs I said, closures and delays affect commuters. Supply chains are affected. Investors are deterred. Costs are higher for Welsh businesses. Reliable transport links are vital for economic growth. These essential works should not be delayed by more assessments. So, can the Minister explain why so much is still at the planning stage? What work will now be carried out on our road and rail networks, and when will people see action? The public—",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=15859"
+        },
+        {
+          "id": "contribution-778673",
+          "item_id": "item-16315-261013-6",
+          "item_title_en": "6. Statement by the Deputy Minister for Transport: Climate Adaptation and Resilience in Wales's Transport Network",
+          "lang": "en",
+          "t_start": 15924,
+          "text_english": "—do not need another—.",
+          "text_original": "—do not need another—.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=15924"
+        }
+      ],
+      "date": "2026-10-13",
+      "record_page_url": "https://record.senedd.wales/Plenary/16315"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-777098",
+          "item_id": "item-16314-261007-11",
+          "item_title_en": "10. Short Debate: The importance of port infrastructure and maritime traffic to the Welsh economy",
+          "lang": "en",
+          "t_start": 19372,
+          "text_english": "Thank you, Ben, for the one-minute opportunity here. Ports are gateways to jobs, investment and growth. They are vital to communities across Wales, yet Welsh businesses are being squeezed by high energy costs and held back by poor infrastructure. Congested roads and bottlenecks increase costs and make it harder for exporters and importers and manufacturers to compete. We live in a digital age, but the physical economy still matters. Our ports, roads, railways are foundations of trade and prosperity. The reality is simple: when transport fails, businesses suffer; when energy costs rise, investment goes elsewhere. If we want economic growth, we must back our ports, improve connectivity and remove barriers to investment. In times of potential global food shortages, or even war, and when imports of food are at 40 per cent, one thing is clear—strong ports are not a luxury, they are a necessity.",
+          "text_original": "Thank you, Ben, for the one-minute opportunity here. Ports are gateways to jobs, investment and growth. They are vital to communities across Wales, yet Welsh businesses are being squeezed by high energy costs and held back by poor infrastructure. Congested roads and bottlenecks increase costs and make it harder for exporters and importers and manufacturers to compete. We live in a digital age, but the physical economy still matters. Our ports, roads, railways are foundations of trade and prosperity. The reality is simple: when transport fails, businesses suffer; when energy costs rise, investment goes elsewhere. If we want economic growth, we must back our ports, improve connectivity and remove barriers to investment. In times of potential global food shortages, or even war, and when imports of food are at 40 per cent, one thing is clear—strong ports are not a luxury, they are a necessity.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=19372"
+        }
+      ],
+      "date": "2026-10-07",
+      "record_page_url": "https://record.senedd.wales/Plenary/16314"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776089",
+          "item_id": "item-16313-261006-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 7323,
+          "text_english": "Trefnydd, can I ask for a statement on the Government's plans for improving pre-application consultations for major energy infrastructure developments, including solar farms, windfarms, new pylons and substations? My constituents feel ignored and dismayed. They believe these applications are just tick-box exercises. They tell me that notices intended to inform them are put up in places where they cannot be seen. They say letters arrive so late they have no meaningful chance to respond. To them, it feels like they are being deliberately denied a voice in decisions that will affect their homes and communities. They say they are being treated like mushrooms: fed farmyard manure and kept in the dark. So, Trefnydd, will the Government make a statement on how it will improve pre-application consultations for major energy infrastructure developments and ensure that communities are genuinely heard? Diolch.",
+          "text_original": "Trefnydd, can I ask for a statement on the Government's plans for improving pre-application consultations for major energy infrastructure developments, including solar farms, windfarms, new pylons and substations? My constituents feel ignored and dismayed. They believe these applications are just tick-box exercises. They tell me that notices intended to inform them are put up in places where they cannot be seen. They say letters arrive so late they have no meaningful chance to respond. To them, it feels like they are being deliberately denied a voice in decisions that will affect their homes and communities. They say they are being treated like mushrooms: fed farmyard manure and kept in the dark. So, Trefnydd, will the Government make a statement on how it will improve pre-application consultations for major energy infrastructure developments and ensure that communities are genuinely heard? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=7323"
+        }
+      ],
+      "date": "2026-10-06",
+      "record_page_url": "https://record.senedd.wales/Plenary/16313"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-773654",
+          "item_id": "item-16265-260930-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Rural Resilience and Sustainability",
+          "lang": "en",
+          "t_start": 5268,
+          "text_english": "Last week, I asked the First Minister about the fact that NRW and other agencies do not know the full mix of chemicals discharged legally into the rivers of Carmarthenshire. A report has said that NRW are flying blind. As I wasn't quite sure of the response from the Cabinet Minister, I will ask the Cabinet Minister this: if we do not know exactly what chemicals are discharged into the rivers and how they interact with each other, how can we know what impact they are having on river ecosystems? How can we say with any confidence that this cocktail of pollutants isn't disrupting fish migration, harming fish and aquatic plants, and irreparably affecting river diversity? Diolch.",
+          "text_original": "Last week, I asked the First Minister about the fact that NRW and other agencies do not know the full mix of chemicals discharged legally into the rivers of Carmarthenshire. A report has said that NRW are flying blind. As I wasn't quite sure of the response from the Cabinet Minister, I will ask the Cabinet Minister this: if we do not know exactly what chemicals are discharged into the rivers and how they interact with each other, how can we know what impact they are having on river ecosystems? How can we say with any confidence that this cocktail of pollutants isn't disrupting fish migration, harming fish and aquatic plants, and irreparably affecting river diversity? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=5268"
+        }
+      ],
+      "date": "2026-09-30",
+      "record_page_url": "https://record.senedd.wales/Plenary/16265"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771673",
+          "item_id": "item-16263-260923-7",
+          "item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+          "lang": "en",
+          "t_start": 12731,
+          "text_english": "Addressing the motion before us, let me remind Members what the First Minister promised before the election. It was to establish a national commission on Wales's constitutional feature, not push for independence after 100 days. Yet after meeting the leaders of Sinn Féin and the SNP, this administration now appears to be charging full pelt towards independence. The joint Plaid, Sinn Féin and SNP agreement declares, and I quote,\n\n‘Momentum is behind our movements; we believe that constitutional change is coming.’\n\nThe people of Wales deserve to know exactly what that means, exactly what it will cost, and exactly who will pay. Only last year, the First Minister declared that there was business to do right now. That meant, he stated, improvements in health, education, families, jobs, the environment and farming. And on that point, I agree. There is business to do, urgent business, serious business, and yet, instead of getting on with that, we seem to be heading down a constitutional rabbit hole.\n\nWelsh families are worried about the Welsh NHS. They're worried about the cost of living. They're worried about whether their children will find jobs and build a future. And what is the answer from Plaid Cymru? More division, more distraction, more constitutional theatre.\n\nAfter 100 days, this administration should be focused on what matters to the people of Wales. Patients are still waiting too long for treatment. Front-line services remain under pressure, and unemployment is too high. Energy bills for households and business are disastrous. Breaking the union will not fix any of this; it will make it worse.\n\nAnd then there is the cost. Wales simply cannot afford the independence experiment. The Office for National Statistics demonstrated that the net fiscal deficit for Wales in 2024-25 was between £22 billion and £23 billion. And your own Minister, Dafydd Trystan Davies, Cabinet Minister for Government Effectiveness and the Constitution stated, and I quote,\n\n‘it is plainly evident that Wales is a net fiscal beneficiary of the United Kingdom.’\n\nWhat would be needed to pay for this? The answer: higher taxes and more borrowing. This is not a plan. It is a slow-motion fiscal car crash dressed up as a national project. And who pays? Who picks up the bill? The answer is simple: the Welsh taxpayer, Welsh families.\n\nLeaving the United Kingdom would mean walking away from the benefits of a larger union, shared resources, fiscal transfers and economic scale. It's a gamble with people's jobs, mortgages, pensions—a gamble doomed to failure.\n\nThen there is the plan to devolve the Crown Estate. This isn't the magic bullet Plaid claim. There is no Scottish-style windfall and no pot of gold at the end of the rainbow. The Welsh Government's own expert group said gross revenues would probably be less than £20 million a year—£20 million—and that is before the cost of creating another Welsh quango. It is obvious that all that Wales gains from being part of the United Kingdom is strength, financial security and shared opportunity. [Interruption.] No, sorry, can I just finish?\n\nBeing part of the union does not weaken Wales; it makes us stronger. The Senedd already has extensive powers over health, transport and education, so before Plaid Cymru put all their energy into breaking the union, they should answer a straightforward question: what have they done so far with the powers they already possess? What do the people of Wales actually want? Poll after poll after poll, the majority do not support independence. They want the Government to stop talking to itself and start listening to them. Welsh people want action that will revive the Welsh industry. Businesses, again, and energy-intensive industries in Wales are being squeezed by massive energy costs and bureaucracy—costs that prevent further investment, make them uncompetitive, and jobs are being lost. We need an energy policy built on affordability, reliability and national security. We need to scrap 'net stupid zero'. We should reassess the energy mix and support the roll-out of small modular nuclear reactors.\n\nWales's industry needs dependable power to be able to grow. The task will be impossible if we aren't part of the United Kingdom. The Welsh people want NHS waiting lists fixed. We need to clear the backlogs for all NHS treatments. The NHS needs more doctors, nurses and fewer managers. Welsh farming needs more support, not regulation. In Wales, we need farmers to produce more food. We should let farmers produce food, protect the countryside and sustain rural communities. Reform choose the United Kingdom. We need real action over pipe dreams and we need to keep Wales strong within the United Kingdom. Diolch.",
+          "text_original": "Addressing the motion before us, let me remind Members what the First Minister promised before the election. It was to establish a national commission on Wales's constitutional feature, not push for independence after 100 days. Yet after meeting the leaders of Sinn Féin and the SNP, this administration now appears to be charging full pelt towards independence. The joint Plaid, Sinn Féin and SNP agreement declares, and I quote,\n\n‘Momentum is behind our movements; we believe that constitutional change is coming.’\n\nThe people of Wales deserve to know exactly what that means, exactly what it will cost, and exactly who will pay. Only last year, the First Minister declared that there was business to do right now. That meant, he stated, improvements in health, education, families, jobs, the environment and farming. And on that point, I agree. There is business to do, urgent business, serious business, and yet, instead of getting on with that, we seem to be heading down a constitutional rabbit hole.\n\nWelsh families are worried about the Welsh NHS. They're worried about the cost of living. They're worried about whether their children will find jobs and build a future. And what is the answer from Plaid Cymru? More division, more distraction, more constitutional theatre.\n\nAfter 100 days, this administration should be focused on what matters to the people of Wales. Patients are still waiting too long for treatment. Front-line services remain under pressure, and unemployment is too high. Energy bills for households and business are disastrous. Breaking the union will not fix any of this; it will make it worse.\n\nAnd then there is the cost. Wales simply cannot afford the independence experiment. The Office for National Statistics demonstrated that the net fiscal deficit for Wales in 2024-25 was between £22 billion and £23 billion. And your own Minister, Dafydd Trystan Davies, Cabinet Minister for Government Effectiveness and the Constitution stated, and I quote,\n\n‘it is plainly evident that Wales is a net fiscal beneficiary of the United Kingdom.’\n\nWhat would be needed to pay for this? The answer: higher taxes and more borrowing. This is not a plan. It is a slow-motion fiscal car crash dressed up as a national project. And who pays? Who picks up the bill? The answer is simple: the Welsh taxpayer, Welsh families.\n\nLeaving the United Kingdom would mean walking away from the benefits of a larger union, shared resources, fiscal transfers and economic scale. It's a gamble with people's jobs, mortgages, pensions—a gamble doomed to failure.\n\nThen there is the plan to devolve the Crown Estate. This isn't the magic bullet Plaid claim. There is no Scottish-style windfall and no pot of gold at the end of the rainbow. The Welsh Government's own expert group said gross revenues would probably be less than £20 million a year—£20 million—and that is before the cost of creating another Welsh quango. It is obvious that all that Wales gains from being part of the United Kingdom is strength, financial security and shared opportunity. [Interruption.] No, sorry, can I just finish?\n\nBeing part of the union does not weaken Wales; it makes us stronger. The Senedd already has extensive powers over health, transport and education, so before Plaid Cymru put all their energy into breaking the union, they should answer a straightforward question: what have they done so far with the powers they already possess? What do the people of Wales actually want? Poll after poll after poll, the majority do not support independence. They want the Government to stop talking to itself and start listening to them. Welsh people want action that will revive the Welsh industry. Businesses, again, and energy-intensive industries in Wales are being squeezed by massive energy costs and bureaucracy—costs that prevent further investment, make them uncompetitive, and jobs are being lost. We need an energy policy built on affordability, reliability and national security. We need to scrap 'net stupid zero'. We should reassess the energy mix and support the roll-out of small modular nuclear reactors.\n\nWales's industry needs dependable power to be able to grow. The task will be impossible if we aren't part of the United Kingdom. The Welsh people want NHS waiting lists fixed. We need to clear the backlogs for all NHS treatments. The NHS needs more doctors, nurses and fewer managers. Welsh farming needs more support, not regulation. In Wales, we need farmers to produce more food. We should let farmers produce food, protect the countryside and sustain rural communities. Reform choose the United Kingdom. We need real action over pipe dreams and we need to keep Wales strong within the United Kingdom. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=12731"
+        }
+      ],
+      "date": "2026-09-23",
+      "record_page_url": "https://record.senedd.wales/Plenary/16263"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-770786",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "7. What action is the Welsh Government taking to reduce river pollution levels in Carmarthenshire? OQ64555",
+          "text_original": "7. Pa gamau y mae Llywodraeth Cymru yn eu cymryd i leihau lefelau llygredd afonydd yn Sir Gaerfyrddin? OQ64555",
+          "tv_url": "http://www.senedd.tv/en/16262"
+        },
+        {
+          "id": "contribution-770796",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 3162,
+          "text_english": "Diolch, First Minister. People whose livelihoods depend on Carmarthenshire's rivers, including members of Carmarthen Coracle and Netsmen's Association, tell us they have never seen such a poor season, with the return of only six sewin from May to June this year. Their experience makes clear that river pollution must be treated with a far greater urgency. I urge you to read the Royal Society's recent report on chemical mixtures in British waterways. Quote: 'Regulators are flying blind.' Unquote.\n\nIn Carmarthenshire, Natural Resources Wales seem to be flying blind. Our rivers are being contaminated by harmful chemical mixtures, including organics, ammonia, microplastics, cadmium and mercury, with no understanding of their interactions or the harm done. Will you acknowledge that the Welsh Government lacks a credible plan to clean up our rivers, and set out how it will meet its political duty to protect our waters and rivers and special areas of conservation?",
+          "text_original": "Diolch, First Minister. People whose livelihoods depend on Carmarthenshire's rivers, including members of Carmarthen Coracle and Netsmen's Association, tell us they have never seen such a poor season, with the return of only six sewin from May to June this year. Their experience makes clear that river pollution must be treated with a far greater urgency. I urge you to read the Royal Society's recent report on chemical mixtures in British waterways. Quote: 'Regulators are flying blind.' Unquote.\n\nIn Carmarthenshire, Natural Resources Wales seem to be flying blind. Our rivers are being contaminated by harmful chemical mixtures, including organics, ammonia, microplastics, cadmium and mercury, with no understanding of their interactions or the harm done. Will you acknowledge that the Welsh Government lacks a credible plan to clean up our rivers, and set out how it will meet its political duty to protect our waters and rivers and special areas of conservation?",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=3162"
+        }
+      ],
+      "date": "2026-09-22",
+      "record_page_url": "https://record.senedd.wales/Plenary/16262"
+    },
     {
       "contributions": [
         {

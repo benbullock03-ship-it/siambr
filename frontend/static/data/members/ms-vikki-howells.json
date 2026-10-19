@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "abstain"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,246 @@
   "canonical_name": "Vikki Howells",
   "constituency_name_cy": "Pontypridd Cynon Merthyr",
   "constituency_name_en": "Pontypridd Cynon Merthyr",
-  "contribution_count": 40,
+  "contribution_count": 59,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778984",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "4. What discussions has the Cabinet Minister had with the Cabinet Minister for Education and the Welsh Language regarding funding for further education? OQ64677",
+          "text_original": "4. Pa drafodaethau y mae'r Gweinidog Cabinet wedi'u cael â'r Gweinidog Cabinet dros Addysg a'r Gymraeg ynglŷn â chyllid ar gyfer addysg bellach? OQ64677",
+          "tv_url": "http://www.senedd.tv/en/16316"
+        },
+        {
+          "id": "contribution-778991",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "en",
+          "t_start": 4987,
+          "text_english": "Thank you, Minister. Supporting learners with additional learning needs in the further education sector is becoming a major challenge, with Coleg y Cymoedd telling me that they have experienced almost a 50 per cent increase in the number of learners with ALN and individual development plans during the last academic year. Similarly, the College Merthyr Tydfil identifies not only increasing numbers of students with IDPs, but a stark growth in the numbers of learners identified with an ALN presently undergoing assessment processes to determine whether they require an IDP or additional support arrangements. \n\nNow, I wholeheartedly welcome the supplementary budget deal that Welsh Labour has secured with your Government, with £60 million extra for additional learning needs, including £2.5 million for further education. But to support learners and staff effectively, this funding needs to be sustainable and long term. So, what discussions will you have with colleagues to ensure that this is the case?",
+          "text_original": "Thank you, Minister. Supporting learners with additional learning needs in the further education sector is becoming a major challenge, with Coleg y Cymoedd telling me that they have experienced almost a 50 per cent increase in the number of learners with ALN and individual development plans during the last academic year. Similarly, the College Merthyr Tydfil identifies not only increasing numbers of students with IDPs, but a stark growth in the numbers of learners identified with an ALN presently undergoing assessment processes to determine whether they require an IDP or additional support arrangements. \n\nNow, I wholeheartedly welcome the supplementary budget deal that Welsh Labour has secured with your Government, with £60 million extra for additional learning needs, including £2.5 million for further education. But to support learners and staff effectively, this funding needs to be sustainable and long term. So, what discussions will you have with colleagues to ensure that this is the case?",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=4987"
+        }
+      ],
+      "date": "2026-10-14",
+      "record_page_url": "https://record.senedd.wales/Plenary/16316"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-778516",
+          "item_id": "item-16315-261013-3",
+          "item_title_en": "3. Statement by the Cabinet Minister for Government Effectiveness and the Constitution: The next steps for the Glyndŵr National Park (Designation) Order",
+          "lang": "en",
+          "t_start": 6501,
+          "text_english": "I thank the Cabinet Minister for his statement, but this is a disappointing and, I would add, weak statement from the Minister that demonstrates two things: firstly, a lack of ambition from this Plaid Cymru Government and, secondly, a divide on the Government side when it comes to environmental issues. I think people watching will be surprised to learn that Plaid Cymru, a party that says it wants to tackle the nature emergency, is not progressive when it comes to the environment or on improving access to nature, and surprised that, rather than taking steps to consult the public and get Glyndŵr over the finishing line, the Cabinet Minister has instead chosen to duck his responsibility with what is effectively half a decision.\n\nWe are fortunate in Wales that we have beautiful natural environments, and national parks are a great way of opening up our natural environment so more people can enjoy the beautiful places we have in Wales. In Government, Welsh Labour cherished and protected our natural environment and we recognised the huge potential of a new national park. We were ambitious to press ahead. It was a firm manifesto commitment from us. We launched that public inquiry to take the final steps towards establishing Glyndŵr, which would be Wales's first new national park in almost 70 years. The Campaign for National Parks has said that to not go ahead with a public inquiry, as the Cabinet Minister has laid out, would be a bitterly disappointing retreat from this Government, especially from one that has supposedly committed to the protection and restoration of nature-rich landscapes. So, does the Minister agree that this is a retreat?\n\nIn your statement, Minister, you said that many respondents supported the proposal and many opposed it. But can you confirm that a majority of respondents were actually in favour of a new national park? Minister, you also said there's now a short opportunity for interested parties to try to change the Government's position. Can you set out the time frame for people to make representations to the Government about this? What advice do you give to those interested about the most effective way of making their case heard? When can we expect you, Minister, to reach a final decision, rather than today's part decision? And why, Minister, do you now think that a 'short opportunity' is preferable to a proper public inquiry, which would have looked in more detail at the evidence and the arguments for and against Glyndŵr? \n\nLastly, people will rightly ask why a Government that across every other aspect of public policy is so in favour of reviews and inquiries has decided not to have a public inquiry on this occasion. Can I ask the Minister whether there was any new evidence that prompted his statement today, or was it always the Government's intention to cancel a public inquiry and stop Glyndŵr from progressing? Diolch.",
+          "text_original": "I thank the Cabinet Minister for his statement, but this is a disappointing and, I would add, weak statement from the Minister that demonstrates two things: firstly, a lack of ambition from this Plaid Cymru Government and, secondly, a divide on the Government side when it comes to environmental issues. I think people watching will be surprised to learn that Plaid Cymru, a party that says it wants to tackle the nature emergency, is not progressive when it comes to the environment or on improving access to nature, and surprised that, rather than taking steps to consult the public and get Glyndŵr over the finishing line, the Cabinet Minister has instead chosen to duck his responsibility with what is effectively half a decision.\n\nWe are fortunate in Wales that we have beautiful natural environments, and national parks are a great way of opening up our natural environment so more people can enjoy the beautiful places we have in Wales. In Government, Welsh Labour cherished and protected our natural environment and we recognised the huge potential of a new national park. We were ambitious to press ahead. It was a firm manifesto commitment from us. We launched that public inquiry to take the final steps towards establishing Glyndŵr, which would be Wales's first new national park in almost 70 years. The Campaign for National Parks has said that to not go ahead with a public inquiry, as the Cabinet Minister has laid out, would be a bitterly disappointing retreat from this Government, especially from one that has supposedly committed to the protection and restoration of nature-rich landscapes. So, does the Minister agree that this is a retreat?\n\nIn your statement, Minister, you said that many respondents supported the proposal and many opposed it. But can you confirm that a majority of respondents were actually in favour of a new national park? Minister, you also said there's now a short opportunity for interested parties to try to change the Government's position. Can you set out the time frame for people to make representations to the Government about this? What advice do you give to those interested about the most effective way of making their case heard? When can we expect you, Minister, to reach a final decision, rather than today's part decision? And why, Minister, do you now think that a 'short opportunity' is preferable to a proper public inquiry, which would have looked in more detail at the evidence and the arguments for and against Glyndŵr? \n\nLastly, people will rightly ask why a Government that across every other aspect of public policy is so in favour of reviews and inquiries has decided not to have a public inquiry on this occasion. Can I ask the Minister whether there was any new evidence that prompted his statement today, or was it always the Government's intention to cancel a public inquiry and stop Glyndŵr from progressing? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=6501"
+        },
+        {
+          "id": "contribution-778541",
+          "item_id": "item-16315-261013-4",
+          "item_title_en": "4. Statement by the Cabinet Minister for Rural Resilience and Sustainability: Winter preparedness: Be flood ready",
+          "lang": "en",
+          "t_start": 8668,
+          "text_english": "Thank you, Cabinet Minister, for your statement here today. We all know it's devastating when a home or business is flooded and that, because of climate change, far too many people across Wales, including in my constituency of Pontypridd Cynon Merthyr, have been hit hard by flooding over recent years.\n\nI recently met with Natural Resources Wales to discuss flooding and what more can be done to keep our communities safe. Their warning yesterday of intense weather this winter will cause real concern for families who are at risk from flooding, especially those who've seen their homes destroyed in the past. NRW also warned that one in seven homes and businesses are at risk from flooding, and, of these, just 27 per cent are signed up for flood alerts. So, it's right that the Government tries to get ahead of this winter's wet weather and helps ensure that families are as prepared as they can be. So, I want to start by asking you, Cabinet Minister, about what the Government is doing to inform households about the practical steps that they can take to prepare for flooding. As residents in my constituency have seen first-hand over recent years, flooding can happen very quickly and leave families with little time to react. So, having these plans in place is crucial. So, what are you doing, Minister, to increase that 27 per cent figure from Natural Resources Wales, so more people are alerted as soon as their home is at risk? And what arrangements are in place to ensure that local authorities, NRW and the emergency services are working together to identify the communities that are most at risk of flooding?\n\nI also want to ask about funding for flood defences. In Government, Welsh Labour delivered the highest-ever level of investment in flooding, with more than £377 million committed to flood risk management over the last Senedd term. That investment meant that 52,000 properties were protected from flooding, helping to safeguard homes, businesses and communities across Wales. For this last financial year, we invested that extra £85 million, including almost £43 million in capital funding for new schemes across Wales.\n\nThere's a great example of this in my constituency that was referred to in your statement, where Rhondda Cynon Taf County Borough Council is carrying out a major flood alleviation scheme in the Maesyffynnon Lane area of Aberaman and Aberdare, using funding from the previous Welsh Labour Government. I noticed you were a bit naughty, Minister, and you didn't mention that fact in your statement.\n\nThat funding that my party provided will see a range of improvements being delivered there that could be replicated in other areas across Wales, including changes to watercourses, installation of remote telemetry equipment, and the creation of a new attenuation basin that's capable of storing the equivalent of two Olympic swimming pools during storm events. The result from that will be flood risk being reduced for 56 residential properties and three commercial properties, something that I myself and those residents really welcome. So, Minister, are you committed to maintaining and building on that record investment in future years? And what is the Government doing to provide greater certainty over investment in flood defences for future years, especially for local authorities?\n\nSimilarly, previous Welsh Labour Governments have invested in nature-based interventions to tackle flooding. I can think in my constituency of an attenuation basin in Trecynon, and the really impressive network of attenuation basins along the A465 Heads of the Valleys road between Dowlais and Hirwaun. So, will you commit to further exploring this type of solution?\n\nYou'll also be aware, Cabinet Minister, of calls for an extreme weather resilience fund to help Wales prepare for increasingly severe weather, including through greater investment in flood management. So, what conversations have you had about the benefits of Wales having an extreme weather resilience fund, and can you tell us if this is something that the Government is considering?\n\nAnd finally, the fire and rescue service hasn't been mentioned in your statement today, but we know they're frequently called upon to assist in flooding events. So, what additional support and funding will you consider for them? Diolch.",
+          "text_original": "Thank you, Cabinet Minister, for your statement here today. We all know it's devastating when a home or business is flooded and that, because of climate change, far too many people across Wales, including in my constituency of Pontypridd Cynon Merthyr, have been hit hard by flooding over recent years.\n\nI recently met with Natural Resources Wales to discuss flooding and what more can be done to keep our communities safe. Their warning yesterday of intense weather this winter will cause real concern for families who are at risk from flooding, especially those who've seen their homes destroyed in the past. NRW also warned that one in seven homes and businesses are at risk from flooding, and, of these, just 27 per cent are signed up for flood alerts. So, it's right that the Government tries to get ahead of this winter's wet weather and helps ensure that families are as prepared as they can be. So, I want to start by asking you, Cabinet Minister, about what the Government is doing to inform households about the practical steps that they can take to prepare for flooding. As residents in my constituency have seen first-hand over recent years, flooding can happen very quickly and leave families with little time to react. So, having these plans in place is crucial. So, what are you doing, Minister, to increase that 27 per cent figure from Natural Resources Wales, so more people are alerted as soon as their home is at risk? And what arrangements are in place to ensure that local authorities, NRW and the emergency services are working together to identify the communities that are most at risk of flooding?\n\nI also want to ask about funding for flood defences. In Government, Welsh Labour delivered the highest-ever level of investment in flooding, with more than £377 million committed to flood risk management over the last Senedd term. That investment meant that 52,000 properties were protected from flooding, helping to safeguard homes, businesses and communities across Wales. For this last financial year, we invested that extra £85 million, including almost £43 million in capital funding for new schemes across Wales.\n\nThere's a great example of this in my constituency that was referred to in your statement, where Rhondda Cynon Taf County Borough Council is carrying out a major flood alleviation scheme in the Maesyffynnon Lane area of Aberaman and Aberdare, using funding from the previous Welsh Labour Government. I noticed you were a bit naughty, Minister, and you didn't mention that fact in your statement.\n\nThat funding that my party provided will see a range of improvements being delivered there that could be replicated in other areas across Wales, including changes to watercourses, installation of remote telemetry equipment, and the creation of a new attenuation basin that's capable of storing the equivalent of two Olympic swimming pools during storm events. The result from that will be flood risk being reduced for 56 residential properties and three commercial properties, something that I myself and those residents really welcome. So, Minister, are you committed to maintaining and building on that record investment in future years? And what is the Government doing to provide greater certainty over investment in flood defences for future years, especially for local authorities?\n\nSimilarly, previous Welsh Labour Governments have invested in nature-based interventions to tackle flooding. I can think in my constituency of an attenuation basin in Trecynon, and the really impressive network of attenuation basins along the A465 Heads of the Valleys road between Dowlais and Hirwaun. So, will you commit to further exploring this type of solution?\n\nYou'll also be aware, Cabinet Minister, of calls for an extreme weather resilience fund to help Wales prepare for increasingly severe weather, including through greater investment in flood management. So, what conversations have you had about the benefits of Wales having an extreme weather resilience fund, and can you tell us if this is something that the Government is considering?\n\nAnd finally, the fire and rescue service hasn't been mentioned in your statement today, but we know they're frequently called upon to assist in flooding events. So, what additional support and funding will you consider for them? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=8668"
+        },
+        {
+          "id": "contribution-778662",
+          "item_id": "item-16315-261013-6",
+          "item_title_en": "6. Statement by the Deputy Minister for Transport: Climate Adaptation and Resilience in Wales's Transport Network",
+          "lang": "en",
+          "t_start": 14690,
+          "text_english": "Thank you, Deputy Minister, for your statement here this afternoon. Climate change is an ever-growing challenge for our transport network. Extreme weather leading to flooding, landslips and wildfires are leading to ever greater disruption. And we know this winter is likely to be worse than those in previous years due to the El Niño weather system aggravating the rapidly growing impact of climate change.\n\nSo, all parties in this Siambr should welcome your work, Deputy Minister, in seeking to enhance preparedness and reduce disruption to everyday life and economic activity from the potential for extreme weather to force the closure of our transport networks. I particularly welcome the proposed joint exercises with the Irish Government and ferry operators with regard to maintaining access to ferry ports following events at Holyhead port last year.\n\nDeputy Minister, you are clearly leading a focused response within Welsh Government and Transport for Wales to reduce transport disruption this winter, with that focus on rail and trunk roads. However, I do have some concerns that maybe not enough is being done to protect the whole system. Most roads are owned and maintained by local government, and in my own constituency, both Merthyr Tydfil County Borough Council and Rhondda Cynon Taf County Borough Council are working hard to clear drains and gullies to improve the resilience of the local road network in advance of those winter months.\n\nSo, what actions are you taking, Deputy Minister, to ensure that local authorities have the resources they need to enable those local responses to climate adaptation? How much new money is the Government going to make available to improve road maintenance by local government, including drainage works to reduce the incidence of flooding on local authority roads?\n\nRail and roads get a good mention in your statement, Deputy Minister, however we know the most used mode of public transport is bus services. So, what actions are you taking to include the bus industry in climate adaptation and resilience planning? I think this is particularly important in light of Transport for Wales taking ownership of a franchised bus system.\n\nI am a little concerned, maybe, Minister, that you might be taking a bit of a supplier-orientated approach to climate adaptation and resilience. So, what will you do to improve information for communities, councils and travellers by rail, car, bus and active travel about the general challenges that we face from transport disruption, and more urgently to support the improvement of communication and information flows for communities and travellers who may be in the throes of a severe weather event?\n\nOver the summer, I visited a farm in my constituency that is farmed by the members of the Nature Friendly Farming Network and they highlighted a range of environmental improvements to their farm, some of which were delivered under the sustainable farming scheme, which I know some environmental groups are concerned that maybe this Welsh Government won't continue. They told me something quite interesting relating to transport. There's a major railway line at the bottom of their farmland that had been quite badly affected by seasonal flooding over the years, but since they carried out a range of interventions, including tree and hedge planting, those incidents had really declined, improving the resilience of the railway network. It's something that I mentioned during the rural resilience Minister's statement earlier, but what discussions have you had across Government with him, and others maybe, about how nature-based solutions such as these could be used to reduce the impact on our travel network?\n\nUltimately, however, the effectiveness of climate adaptation and resilience interventions will depend on budgetary provision. So, what new money will you, Deputy Minister, be investing in climate adaptation and resilience across the transport system in the financial year to March 2027 and next year in 2027-28? In short, Minister, are you prepared to put your money where your mouth is?",
+          "text_original": "Thank you, Deputy Minister, for your statement here this afternoon. Climate change is an ever-growing challenge for our transport network. Extreme weather leading to flooding, landslips and wildfires are leading to ever greater disruption. And we know this winter is likely to be worse than those in previous years due to the El Niño weather system aggravating the rapidly growing impact of climate change.\n\nSo, all parties in this Siambr should welcome your work, Deputy Minister, in seeking to enhance preparedness and reduce disruption to everyday life and economic activity from the potential for extreme weather to force the closure of our transport networks. I particularly welcome the proposed joint exercises with the Irish Government and ferry operators with regard to maintaining access to ferry ports following events at Holyhead port last year.\n\nDeputy Minister, you are clearly leading a focused response within Welsh Government and Transport for Wales to reduce transport disruption this winter, with that focus on rail and trunk roads. However, I do have some concerns that maybe not enough is being done to protect the whole system. Most roads are owned and maintained by local government, and in my own constituency, both Merthyr Tydfil County Borough Council and Rhondda Cynon Taf County Borough Council are working hard to clear drains and gullies to improve the resilience of the local road network in advance of those winter months.\n\nSo, what actions are you taking, Deputy Minister, to ensure that local authorities have the resources they need to enable those local responses to climate adaptation? How much new money is the Government going to make available to improve road maintenance by local government, including drainage works to reduce the incidence of flooding on local authority roads?\n\nRail and roads get a good mention in your statement, Deputy Minister, however we know the most used mode of public transport is bus services. So, what actions are you taking to include the bus industry in climate adaptation and resilience planning? I think this is particularly important in light of Transport for Wales taking ownership of a franchised bus system.\n\nI am a little concerned, maybe, Minister, that you might be taking a bit of a supplier-orientated approach to climate adaptation and resilience. So, what will you do to improve information for communities, councils and travellers by rail, car, bus and active travel about the general challenges that we face from transport disruption, and more urgently to support the improvement of communication and information flows for communities and travellers who may be in the throes of a severe weather event?\n\nOver the summer, I visited a farm in my constituency that is farmed by the members of the Nature Friendly Farming Network and they highlighted a range of environmental improvements to their farm, some of which were delivered under the sustainable farming scheme, which I know some environmental groups are concerned that maybe this Welsh Government won't continue. They told me something quite interesting relating to transport. There's a major railway line at the bottom of their farmland that had been quite badly affected by seasonal flooding over the years, but since they carried out a range of interventions, including tree and hedge planting, those incidents had really declined, improving the resilience of the railway network. It's something that I mentioned during the rural resilience Minister's statement earlier, but what discussions have you had across Government with him, and others maybe, about how nature-based solutions such as these could be used to reduce the impact on our travel network?\n\nUltimately, however, the effectiveness of climate adaptation and resilience interventions will depend on budgetary provision. So, what new money will you, Deputy Minister, be investing in climate adaptation and resilience across the transport system in the financial year to March 2027 and next year in 2027-28? In short, Minister, are you prepared to put your money where your mouth is?",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=14690"
+        }
+      ],
+      "date": "2026-10-13",
+      "record_page_url": "https://record.senedd.wales/Plenary/16315"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776674",
+          "item_id": "item-16314-261007-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Health and Care",
+          "lang": "en",
+          "t_start": 3874,
+          "text_english": "I'd like to associate myself with the comments that have already been made by the Member who tabled this question, and to go back to that issue that, from April, women and partners who have any type of pregnancy loss will be entitled to that two-week leave period under those major changes announced by the UK Labour Government's Department for Business and Trade, whereas at present, of course, there is no statutory right if the loss happens before 24 weeks. The devastation of pregnancy loss isn't defined by the calendar, so it is sensible and necessary to have these changes. I note the range of interventions that you, Deputy Minister, announced when responding to June's Members' debate on baby loss. But what I'd really like to ask you on this particular issue is: what steps will the Welsh Government take to ensure that people affected by pregnancy loss are aware of these new leave entitlements when the changes take effect?",
+          "text_original": "I'd like to associate myself with the comments that have already been made by the Member who tabled this question, and to go back to that issue that, from April, women and partners who have any type of pregnancy loss will be entitled to that two-week leave period under those major changes announced by the UK Labour Government's Department for Business and Trade, whereas at present, of course, there is no statutory right if the loss happens before 24 weeks. The devastation of pregnancy loss isn't defined by the calendar, so it is sensible and necessary to have these changes. I note the range of interventions that you, Deputy Minister, announced when responding to June's Members' debate on baby loss. But what I'd really like to ask you on this particular issue is: what steps will the Welsh Government take to ensure that people affected by pregnancy loss are aware of these new leave entitlements when the changes take effect?",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=3874"
+        },
+        {
+          "id": "contribution-776673",
+          "item_id": "item-16314-261007-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Local Government, Housing and Planning",
+          "lang": "en",
+          "t_start": 5492,
+          "text_english": "Residents of Coed Dyffryn and Tir Founder Fields in Cwmbach finally celebrated last month as their estate was adopted by the local council. It took a whopping 15 years for the developer, Persimmon, to bring the estate up to an adoptable standard, something that I've been campaigning for and working with RCT council to deliver since I was first elected in 2016.\n\nI was also able, through very persistent badgering, to get the same developer, Persimmon, to carry out the works so two estates in Hirwaun could be adopted in the last Senedd term, nearly 20 years after being built. I'm now working on Persimmon estates in Church Village, Mountain Ash, Pontyclun and Llantrisant, the last of which was built a quarter of a century ago.\n\nCabinet Minister, it's just not acceptable for developers to leave estates unadopted, particularly some of the big four developers who make multimillion-pound profits, whilst they move on to make money with additional projects. Can this new Government make looking at how they can remedy this a priority?",
+          "text_original": "Residents of Coed Dyffryn and Tir Founder Fields in Cwmbach finally celebrated last month as their estate was adopted by the local council. It took a whopping 15 years for the developer, Persimmon, to bring the estate up to an adoptable standard, something that I've been campaigning for and working with RCT council to deliver since I was first elected in 2016.\n\nI was also able, through very persistent badgering, to get the same developer, Persimmon, to carry out the works so two estates in Hirwaun could be adopted in the last Senedd term, nearly 20 years after being built. I'm now working on Persimmon estates in Church Village, Mountain Ash, Pontyclun and Llantrisant, the last of which was built a quarter of a century ago.\n\nCabinet Minister, it's just not acceptable for developers to leave estates unadopted, particularly some of the big four developers who make multimillion-pound profits, whilst they move on to make money with additional projects. Can this new Government make looking at how they can remedy this a priority?",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=5492"
+        }
+      ],
+      "date": "2026-10-07",
+      "record_page_url": "https://record.senedd.wales/Plenary/16314"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776121",
+          "item_id": "item-16313-261006-4",
+          "item_title_en": "4. Statement by the Deputy Minister for Transport: Strategic Priorities for the Menai Strait Crossings and M4 around Newport",
+          "lang": "en",
+          "t_start": 8861,
+          "text_english": "I thank the Deputy Minister for his statement. After 30 talking shops, reviews and expert panels in the Government's first 100 days, I was hoping for something different from you today. I'm sorry to say I've been rather disappointed.\n\nNow, progress on that third Menai crossing is very welcome. It builds on the work that Welsh Labour had undertaken in Government. But families in Newport will feel let down that, rather than acting now, the Government is launching yet another review on the M4, and we won't have any answers for 18 months. So, my first question to you today, Minister, is: why will it take that long to come up with some serious road-based answers for traffic around Newport? Aren't you just kicking the can down the road and hoping that families in Newport won't notice? And Deputy Minister, if you'd spoken to people in Newport, we think you wouldn't need that long. You'd have been told unequivocally that junction closures will bring more traffic and more air pollution, that silent killer, into the hearts and lungs of communities.\n\nIn Government, Welsh Labour took action to help alleviate congestion on the M4 around Newport. We'd secured funding for new railway stations from the UK Labour Government as part of that generational £14 billion commitment to transform rail infrastructure in Wales. We completed the Heads of the Valleys A465 road, the biggest road building scheme in Europe, offering traffic from the north and Midlands an alternative route into south Wales. So, I do welcome your proposals to increase the level of haulage traffic there.\n\nWe also commissioned independent evidence-based resilience studies, not just of the M4, but the A55, the A494 and the A483 to ensure that roads are fit for the future. Those resilience studies are vital work that should form the basis of future recommendations, but they appear now to be gathering dust on the Government's shelves, with no comment today on the A484 or the A483 or the A55 east of the Menai strait, where you'll know that there are significant traffic problems. Deputy Minister, as you know, Welsh Labour's view is that devolution shouldn't stop at Cardiff Bay, that Wales is too centralised, and local leaders should have a far greater say on the issues that affect their communities, and this decision today is a case in point: trunk roads are maintained and owned by the Welsh Government, but they should be designed and delivered for the regions and economies that they serve. So, will you commit to engaging fully with families, drivers, businesses and local leaders in Newport before any decision is taken about junction closures? Will you also commit to publishing the evidence behind any junction closures in full? And finally, will you also commit the Government to publishing a full response to those resilience reviews that Welsh Labour started in Government?",
+          "text_original": "I thank the Deputy Minister for his statement. After 30 talking shops, reviews and expert panels in the Government's first 100 days, I was hoping for something different from you today. I'm sorry to say I've been rather disappointed.\n\nNow, progress on that third Menai crossing is very welcome. It builds on the work that Welsh Labour had undertaken in Government. But families in Newport will feel let down that, rather than acting now, the Government is launching yet another review on the M4, and we won't have any answers for 18 months. So, my first question to you today, Minister, is: why will it take that long to come up with some serious road-based answers for traffic around Newport? Aren't you just kicking the can down the road and hoping that families in Newport won't notice? And Deputy Minister, if you'd spoken to people in Newport, we think you wouldn't need that long. You'd have been told unequivocally that junction closures will bring more traffic and more air pollution, that silent killer, into the hearts and lungs of communities.\n\nIn Government, Welsh Labour took action to help alleviate congestion on the M4 around Newport. We'd secured funding for new railway stations from the UK Labour Government as part of that generational £14 billion commitment to transform rail infrastructure in Wales. We completed the Heads of the Valleys A465 road, the biggest road building scheme in Europe, offering traffic from the north and Midlands an alternative route into south Wales. So, I do welcome your proposals to increase the level of haulage traffic there.\n\nWe also commissioned independent evidence-based resilience studies, not just of the M4, but the A55, the A494 and the A483 to ensure that roads are fit for the future. Those resilience studies are vital work that should form the basis of future recommendations, but they appear now to be gathering dust on the Government's shelves, with no comment today on the A484 or the A483 or the A55 east of the Menai strait, where you'll know that there are significant traffic problems. Deputy Minister, as you know, Welsh Labour's view is that devolution shouldn't stop at Cardiff Bay, that Wales is too centralised, and local leaders should have a far greater say on the issues that affect their communities, and this decision today is a case in point: trunk roads are maintained and owned by the Welsh Government, but they should be designed and delivered for the regions and economies that they serve. So, will you commit to engaging fully with families, drivers, businesses and local leaders in Newport before any decision is taken about junction closures? Will you also commit to publishing the evidence behind any junction closures in full? And finally, will you also commit the Government to publishing a full response to those resilience reviews that Welsh Labour started in Government?",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=8861"
+        }
+      ],
+      "date": "2026-10-06",
+      "record_page_url": "https://record.senedd.wales/Plenary/16313"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-773596",
+          "item_id": "item-16265-260930-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Rural Resilience and Sustainability",
+          "lang": "en",
+          "t_start": 3959,
+          "text_english": "Cabinet Minister, over lunch today we both attended WWF Cymru's briefing on the implications of extreme weather events such as wildfire and flooding, where we heard from speakers including representatives of the fire service and the farming sector. A key takeaway from that session for me was the vital role that nature-based solutions have to play in protecting communities and farm businesses from the impacts of climate change-related weather events. Given the shared commitments of our parties to increase the use of nature-based solutions across Government action, I'm wondering what steps you might intend to take to mainstream their use in the coming months. Both WWF Cymru and the Fire Brigades Union have come forward with funding proposals to ensure Wales is more resilient and better prepared for extreme weather impacts, and a key element of this proposal is seeking commitment to an extreme weather resilience fund that could look to inject tens of millions of new money into the expansion of preventative spend on nature-based solutions. We're at that time of year when everyone is talking about the budget, so, as those conversations go on, will you commit to making it a priority to expand nature-based solution investment within your portfolio?",
+          "text_original": "Cabinet Minister, over lunch today we both attended WWF Cymru's briefing on the implications of extreme weather events such as wildfire and flooding, where we heard from speakers including representatives of the fire service and the farming sector. A key takeaway from that session for me was the vital role that nature-based solutions have to play in protecting communities and farm businesses from the impacts of climate change-related weather events. Given the shared commitments of our parties to increase the use of nature-based solutions across Government action, I'm wondering what steps you might intend to take to mainstream their use in the coming months. Both WWF Cymru and the Fire Brigades Union have come forward with funding proposals to ensure Wales is more resilient and better prepared for extreme weather impacts, and a key element of this proposal is seeking commitment to an extreme weather resilience fund that could look to inject tens of millions of new money into the expansion of preventative spend on nature-based solutions. We're at that time of year when everyone is talking about the budget, so, as those conversations go on, will you commit to making it a priority to expand nature-based solution investment within your portfolio?",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=3959"
+        },
+        {
+          "id": "contribution-773600",
+          "item_id": "item-16265-260930-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Rural Resilience and Sustainability",
+          "lang": "en",
+          "t_start": 4106,
+          "text_english": "Cabinet Minister, I'm really encouraged by your answer there, and I look forward to seeing these developments over the coming months. I think there's particular potential within the optional and collaborative layers of the SFS for that as well.\n\nTurning to another matter, a review of the code of practice for the rearing of game birds for sporting purposes in Wales is overdue, with animal welfare organisations such as the League Against Cruel Sports concerned that this is an issue that is being overlooked. This is perhaps borne out by the data. There were no inspections of game bird farms in either 2023 or 2024 and just four since 2025, and those uncovered two breaches of the code of practice. We also have shocking evidence from Animal Aid site visits of three game bird breeding farms in Wales that found conditions falling far below the standards that we all expect. What assessment has the Welsh Government made of the treatment and welfare conditions of game birds bred and reared to be shot for sport, and what plans do you have to ensure that the code is reviewed to ensure it is fit for purpose?",
+          "text_original": "Cabinet Minister, I'm really encouraged by your answer there, and I look forward to seeing these developments over the coming months. I think there's particular potential within the optional and collaborative layers of the SFS for that as well.\n\nTurning to another matter, a review of the code of practice for the rearing of game birds for sporting purposes in Wales is overdue, with animal welfare organisations such as the League Against Cruel Sports concerned that this is an issue that is being overlooked. This is perhaps borne out by the data. There were no inspections of game bird farms in either 2023 or 2024 and just four since 2025, and those uncovered two breaches of the code of practice. We also have shocking evidence from Animal Aid site visits of three game bird breeding farms in Wales that found conditions falling far below the standards that we all expect. What assessment has the Welsh Government made of the treatment and welfare conditions of game birds bred and reared to be shot for sport, and what plans do you have to ensure that the code is reviewed to ensure it is fit for purpose?",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=4106"
+        },
+        {
+          "id": "contribution-773739",
+          "item_id": "item-16265-260930-6",
+          "item_title_en": "5. Member Debate under Standing Order 11.21(iv): Contaminated land",
+          "lang": "en",
+          "t_start": 10361,
+          "text_english": "Sixty-one years ago, the former Brofiscin quarry was repurposed as a landfill site, and a year later, a similar fate befell the former Maendy quarry. The quarries are a little over 5 miles apart. Both quarries were permeable—the former limestone, the latter sandstone—and over the next seven years, both were used to rehome a bewildering array of toxic substances. Crucially, neither site was capped nor lined to prevent rainfall extracting contaminants into the local environment. Perhaps unsurprisingly, this is exactly what happened time and again over the following decades.\n\nAfter boundary changes at the last election, both sites are now within the constituency I represent, with Brofiscin straddling both my and Kiera Marshall's constituency. I've been contacted by concerned constituents about both sites, so, accordingly, I will spend the bulk of my time talking about them, as they highlight many of the wider issues.\n\nFirstly, one of the most concerning points for me about this whole issue is that we simply just don't know exactly what was dumped at these sites. The processes that were put in place were not adequate to deal with the dumping of chemicals. In 2005, the Environment Agency found 75 different substances amongst the 80,000 tonnes of waste that had been dumped at Brofiscin. That includes heavy metals and toxic chemicals. And perhaps most shocking, it even included Agent Orange, the herbicide used as an instrument of war by the US in Vietnam. I find that completely shocking—that a chemical that I used to teach my GCSE history students about, and have to warn them of the graphic nature of photographs of babies born with really serious deformities as a result of that substance, has been found in a site in south Wales.\n\nPolychlorinated biphenyls, PCBs, which have been banned by most countries in the world and classified by the International Agency for Research on Cancer as definite carcinogens in humans, were found there too. Such is the concatenation of chemicals at Brofiscin that it has been labelled one of the most contaminated places in Britain. For The Ecologist, it is, I quote, the site of\n\n'one of the biggest environmental crimes ever to have occurred in the UK.'\n\nThis mix of waste highlights a further point. Whilst we might be aware of the impact of isolated elements, what we don't know is the full impact of this cocktail of different chemicals.\n\nThat brings me to my third point. Whilst we might not be fully aware of the impact of those substances, we can see numerous aspects of their effect. Farmers were paid compensation in the 1970s for the death of animals grazing at both of these sites. I've been contacted by a constituent who worked as an ecologist, who told me about the devastating ecological impact at Maendy. My constituent tells me that the site previously hosted a rich ecosystem with a range of birds, including owls and raptors, rabbits, three varieties of shrew, foxes and badgers, lizards, grass snakes and slowworms, but now, I'm told, fauna in the quarry is limited to a few rabbits and small birds.\n\nMichael Sheen's documentary Buried was inspired in part by the work of the late Douglas Gowan, who noted the impact on farm animals near Brofiscin and Maendy. That programme contained a chilling account of how the health of people living near similar sites elsewhere in Wales was affected—people dying of a variety of cancers and dangerously high levels of PCBs in their blood.\n\nFourthly, as other Members have pointed out, there's the question of accountability, of who is responsible. Monsanto, it seems, knew of the consequences of what it was doing in 1972, but continued producing those PCBs, and continues to avoid responsibility. When Rhondda Cynon Taf council and the Environment Agency did cap Brofiscin in 2011 and 2012, Monsanto and fellow dumpers BP and Veolia did eventually agree to contribute to the clean-up of the site. However, all three denied liability.\n\nTo conclude, I want to make a few overarching remarks about this scandal. We know it's an issue that predates devolution, so we do need a co-ordinated approach from Welsh and UK Governments. I hope the previous Welsh Labour Government's work on coal tips and the joint funding of remedial works will provide a template for that. But we also need to explore what we can do to ensure the polluter-pays principle is at the core of our approach. We need to know the scale of the challenge. I've seen a figure where the Welsh Government suggests 9,000 sites need investigation. We need to test these sites as a matter of urgency. I endorse Friends of the Earth Cymru's calls for immediate testing.\n\nWe also need to consider the mental health and well-being of people living near these sites, to provide reassurance and information for communities. I've written to the Cabinet Minister and I've asked the Welsh Government to add that sort of information to its website. I hope, Minister, that it's a suggestion you will take up. Diolch.",
+          "text_original": "Sixty-one years ago, the former Brofiscin quarry was repurposed as a landfill site, and a year later, a similar fate befell the former Maendy quarry. The quarries are a little over 5 miles apart. Both quarries were permeable—the former limestone, the latter sandstone—and over the next seven years, both were used to rehome a bewildering array of toxic substances. Crucially, neither site was capped nor lined to prevent rainfall extracting contaminants into the local environment. Perhaps unsurprisingly, this is exactly what happened time and again over the following decades.\n\nAfter boundary changes at the last election, both sites are now within the constituency I represent, with Brofiscin straddling both my and Kiera Marshall's constituency. I've been contacted by concerned constituents about both sites, so, accordingly, I will spend the bulk of my time talking about them, as they highlight many of the wider issues.\n\nFirstly, one of the most concerning points for me about this whole issue is that we simply just don't know exactly what was dumped at these sites. The processes that were put in place were not adequate to deal with the dumping of chemicals. In 2005, the Environment Agency found 75 different substances amongst the 80,000 tonnes of waste that had been dumped at Brofiscin. That includes heavy metals and toxic chemicals. And perhaps most shocking, it even included Agent Orange, the herbicide used as an instrument of war by the US in Vietnam. I find that completely shocking—that a chemical that I used to teach my GCSE history students about, and have to warn them of the graphic nature of photographs of babies born with really serious deformities as a result of that substance, has been found in a site in south Wales.\n\nPolychlorinated biphenyls, PCBs, which have been banned by most countries in the world and classified by the International Agency for Research on Cancer as definite carcinogens in humans, were found there too. Such is the concatenation of chemicals at Brofiscin that it has been labelled one of the most contaminated places in Britain. For The Ecologist, it is, I quote, the site of\n\n'one of the biggest environmental crimes ever to have occurred in the UK.'\n\nThis mix of waste highlights a further point. Whilst we might be aware of the impact of isolated elements, what we don't know is the full impact of this cocktail of different chemicals.\n\nThat brings me to my third point. Whilst we might not be fully aware of the impact of those substances, we can see numerous aspects of their effect. Farmers were paid compensation in the 1970s for the death of animals grazing at both of these sites. I've been contacted by a constituent who worked as an ecologist, who told me about the devastating ecological impact at Maendy. My constituent tells me that the site previously hosted a rich ecosystem with a range of birds, including owls and raptors, rabbits, three varieties of shrew, foxes and badgers, lizards, grass snakes and slowworms, but now, I'm told, fauna in the quarry is limited to a few rabbits and small birds.\n\nMichael Sheen's documentary Buried was inspired in part by the work of the late Douglas Gowan, who noted the impact on farm animals near Brofiscin and Maendy. That programme contained a chilling account of how the health of people living near similar sites elsewhere in Wales was affected—people dying of a variety of cancers and dangerously high levels of PCBs in their blood.\n\nFourthly, as other Members have pointed out, there's the question of accountability, of who is responsible. Monsanto, it seems, knew of the consequences of what it was doing in 1972, but continued producing those PCBs, and continues to avoid responsibility. When Rhondda Cynon Taf council and the Environment Agency did cap Brofiscin in 2011 and 2012, Monsanto and fellow dumpers BP and Veolia did eventually agree to contribute to the clean-up of the site. However, all three denied liability.\n\nTo conclude, I want to make a few overarching remarks about this scandal. We know it's an issue that predates devolution, so we do need a co-ordinated approach from Welsh and UK Governments. I hope the previous Welsh Labour Government's work on coal tips and the joint funding of remedial works will provide a template for that. But we also need to explore what we can do to ensure the polluter-pays principle is at the core of our approach. We need to know the scale of the challenge. I've seen a figure where the Welsh Government suggests 9,000 sites need investigation. We need to test these sites as a matter of urgency. I endorse Friends of the Earth Cymru's calls for immediate testing.\n\nWe also need to consider the mental health and well-being of people living near these sites, to provide reassurance and information for communities. I've written to the Cabinet Minister and I've asked the Welsh Government to add that sort of information to its website. I hope, Minister, that it's a suggestion you will take up. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=10361"
+        }
+      ],
+      "date": "2026-09-30",
+      "record_page_url": "https://record.senedd.wales/Plenary/16265"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-772996",
+          "item_id": "item-16264-260929-6",
+          "item_title_en": "5. Statement by the Cabinet Minister for Local Government, Housing and Planning: The Revision of the National Development Framework and National Conversation",
+          "lang": "en",
+          "t_start": 8780,
+          "text_english": "Thank you, Cabinet Minister, for your statement here today. Let me start by saying that it is a good thing that the Government is in listening mode, but having said that, this national conversation can't become an excuse for Ministers not to act and nor can it be allowed to hold up delivery elsewhere. So far, this Government's instinct has too often been to announce reviews and outsource decisions, rather than take the action needed. We've already seen more than 30 talking shops, reviews and expert panels announced, but precious little action, and planning is an area where we really need that speedy reform, not least to build the homes that Wales needs and to power the clean energy revolution. So, Cabinet Minister, can you confirm that the Government will use every lever available through the planning system to support the growth of Wales's renewable energy sector?\n\nCabinet Minister, you also said today that this national conversation will help co-ordinate a range of plans and strategies in the programme for government. But can you explain exactly what that means? Are other Government policies dependent on the outcome of this conversation, and if so, which ones?\n\nLastly, Cabinet Minister, you say that you want this to be an open, inclusive and meaningful conversation, but today, we've heard about just three events across the whole of Wales—in Cardiff, Aberystwyth and Llandudno. So, what reassurance can you provide, Minister, that communities in every part of Wales will have a meaningful opportunity to be heard? And will you commit to publishing what people tell the Government and what policy changes actually come out of this conversation?",
+          "text_original": "Thank you, Cabinet Minister, for your statement here today. Let me start by saying that it is a good thing that the Government is in listening mode, but having said that, this national conversation can't become an excuse for Ministers not to act and nor can it be allowed to hold up delivery elsewhere. So far, this Government's instinct has too often been to announce reviews and outsource decisions, rather than take the action needed. We've already seen more than 30 talking shops, reviews and expert panels announced, but precious little action, and planning is an area where we really need that speedy reform, not least to build the homes that Wales needs and to power the clean energy revolution. So, Cabinet Minister, can you confirm that the Government will use every lever available through the planning system to support the growth of Wales's renewable energy sector?\n\nCabinet Minister, you also said today that this national conversation will help co-ordinate a range of plans and strategies in the programme for government. But can you explain exactly what that means? Are other Government policies dependent on the outcome of this conversation, and if so, which ones?\n\nLastly, Cabinet Minister, you say that you want this to be an open, inclusive and meaningful conversation, but today, we've heard about just three events across the whole of Wales—in Cardiff, Aberystwyth and Llandudno. So, what reassurance can you provide, Minister, that communities in every part of Wales will have a meaningful opportunity to be heard? And will you commit to publishing what people tell the Government and what policy changes actually come out of this conversation?",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=8780"
+        }
+      ],
+      "date": "2026-09-29",
+      "record_page_url": "https://record.senedd.wales/Plenary/16264"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771332",
+          "item_id": "item-16263-260923-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "1. What are the Welsh Government's priorities for improving access to public transport in Pontypridd Cynon Merthyr? OQ64484",
+          "text_original": "1. Beth yw blaenoriaethau Llywodraeth Cymru ar gyfer gwella mynediad at drafnidiaeth gyhoeddus ym Mhontypridd Cynon Merthyr? OQ64484",
+          "tv_url": "http://www.senedd.tv/en/16263"
+        },
+        {
+          "id": "contribution-771338",
+          "item_id": "item-16263-260923-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "en",
+          "t_start": 64,
+          "text_english": "Thank you, Deputy Minister. Now, capping bus fares at £2 for adults was a key pledge in my party's manifesto from May, building on our work in Government, where we introduced £1 bus fares for young people and provided free bus travel for older people and people with disabilities. Now, Prime Minister Andy Burnham has announced that, from January 2027, single bus fares in England will be capped at £2 for adults. This will, of course, mean a Barnett consequential for the Welsh Government. So, will you use this to introduce a similar £2 cap for fares in Wales? And if not, will you explain why bus users in Wales should lose out?",
+          "text_original": "Thank you, Deputy Minister. Now, capping bus fares at £2 for adults was a key pledge in my party's manifesto from May, building on our work in Government, where we introduced £1 bus fares for young people and provided free bus travel for older people and people with disabilities. Now, Prime Minister Andy Burnham has announced that, from January 2027, single bus fares in England will be capped at £2 for adults. This will, of course, mean a Barnett consequential for the Welsh Government. So, will you use this to introduce a similar £2 cap for fares in Wales? And if not, will you explain why bus users in Wales should lose out?",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=64"
+        },
+        {
+          "id": "contribution-771467",
+          "item_id": "item-16263-260923-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and Welsh Language",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "6. How does the Welsh Government support adult learners in Pontypridd Cynon Merthyr? OQ64486",
+          "text_original": "6. Sut mae Llywodraeth Cymru yn cefnogi dysgwyr sy'n oedolion ym Mhontypridd Cynon Merthyr? OQ64486",
+          "tv_url": "http://www.senedd.tv/en/16263"
+        },
+        {
+          "id": "contribution-771471",
+          "item_id": "item-16263-260923-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and Welsh Language",
+          "lang": "en",
+          "t_start": 5809,
+          "text_english": "Well, Deputy Minister, it is, of course, Adult Learners Week this week, and I was really grateful to the adult learners who met me in Coleg y Cymoedd in Aberdare on Monday, who spoke about their experiences of re-entering education.\n\nWe know that there's considerable demand for adult education, but figures that I've seen from Adult Learning Wales suggest that demand in 2026-27 outstrips their funding by almost 10 percent, and that means that around 850 potential learners are missing out. I'm told by Adult Learning Wales that they could put additional funding to use immediately, upskilling workers and allowing for more flexible delivery. So, how is Welsh Government making meeting this demand a priority?",
+          "text_original": "Well, Deputy Minister, it is, of course, Adult Learners Week this week, and I was really grateful to the adult learners who met me in Coleg y Cymoedd in Aberdare on Monday, who spoke about their experiences of re-entering education.\n\nWe know that there's considerable demand for adult education, but figures that I've seen from Adult Learning Wales suggest that demand in 2026-27 outstrips their funding by almost 10 percent, and that means that around 850 potential learners are missing out. I'm told by Adult Learning Wales that they could put additional funding to use immediately, upskilling workers and allowing for more flexible delivery. So, how is Welsh Government making meeting this demand a priority?",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=5809"
+        },
+        {
+          "id": "contribution-771623",
+          "item_id": "item-16263-260923-6",
+          "item_title_en": "6. Welsh Labour Debate: Further education",
+          "lang": "en",
+          "t_start": 9241,
+          "text_english": "I'm really pleased to be able to contribute to today's debate. I had the privilege of leading on higher education and further education in the last two years of the previous Welsh Labour Government. I'd just like to echo the point made by my colleague Lynne Neagle about how pleased we were to be able to allocate that additional £20 million to FE. But that need for additional funding is an upward trajectory, Deputy Minister, and this is a really clear message that you need to take from today's debate about that need for additional funding.\n\nOne thing I loved when I held that role was the ability to get out and about across Wales, meeting learners and the staff who support them. There were, and are, challenges, but the passion, the dedication to strive and achieve and deliver the very best learning outcomes was clear. That experience will shape my comments today, and I want to start by mentioning the new Welsh Government's higher education review. Now, this is important. The sector does face issues, and it's right that these are looked at, but the focus just on HE stands in direct contrast to the approach that we took in Government. That was based on ensuring the participation and sustainability of the whole tertiary system, and I am concerned that, without that focus, there's a very real danger that the focus on further education will be lost and its funding displaced also. I hope that this is something the Welsh Government will address when responding to the debate.\n\nAnd what will the impact be if we lose this focus on FE? Well, we know that FE plays a key role in providing both vocational and academic pathways, particularly, as others have mentioned, for those young people most at risk of disengaging from education. Indeed, I would suggest that there is, in fact, a moral imperative for the Government to focus on FE to address this challenge.\n\nOn Monday, I visited Coleg y Cymoedd's Aberdare campus in my constituency, and my thanks to the staff and students who took the time to talk to me there as part of Adult Learners Week. There were some really excellent examples of mature learners re-engaging with education, meeting the need in the way that only FE can. This is another area where there is considerable demand, as I mentioned in my education question earlier today. This is a pattern that has been noted in several years. Those adult learners looking to re-engage should not have to lose out.\n\nMy conversations with staff and learners in Coleg y Cymoedd sketched out a very similar picture. Overall, that college, just one campus—. That college has over 5,500 full-time learners of all ages on its books, the majority aged 16 to 17, though. But, astonishingly, only just over 83 per cent are funded. Can I take a second just to reinforce that? Nearly one in five of the college's full-time students aren't funded. On the Aberdare campus, that's not just a stat, but 600 individual learners. Without funding, they are in real danger of disengaging.\n\nSo, there are 400 learners there at level 1 and level 2 who are not on their first-choice courses. That, in itself, represents a risk of disengagement. And for the first year ever, that particular campus has 40 learners that they haven't been able to place that are on a waiting list and unable to be enrolled, in real danger of disengaging from education forever. There were 80 learners there who they were only able to place on courses for two days a week. They would really like to be able to place them for much longer than that, and, of course, the less time they are placed in college, the more the risk of disengagement. That would need a hire drive for staff recruitment to accommodate, and, of course, that all comes down to funding.\n\nThere's been a 47 per cent increase in that campus alone in this year for individual development plans for learners with additional learning needs, and we all know that it needs resource to be able to cater for those needs. Now, I know a review of FE would not be a panacea, but it could shine a spotlight on the issues and help us work together to determine the solutions to put things right for our learners.\n\nI want to close by reflecting on some of the benefits to the individual from engaging in FE: improved educational qualifications, a new path or journey, increased skills or enhanced employment opportunities. And crucially, as Public Health Wales reminds us, education is also one of the biggest preventative mechanisms for mental health as well. So, Deputy Minister, FE can change lives. Please remember that as you take forward your policy decisions over the coming Senedd term.",
+          "text_original": "I'm really pleased to be able to contribute to today's debate. I had the privilege of leading on higher education and further education in the last two years of the previous Welsh Labour Government. I'd just like to echo the point made by my colleague Lynne Neagle about how pleased we were to be able to allocate that additional £20 million to FE. But that need for additional funding is an upward trajectory, Deputy Minister, and this is a really clear message that you need to take from today's debate about that need for additional funding.\n\nOne thing I loved when I held that role was the ability to get out and about across Wales, meeting learners and the staff who support them. There were, and are, challenges, but the passion, the dedication to strive and achieve and deliver the very best learning outcomes was clear. That experience will shape my comments today, and I want to start by mentioning the new Welsh Government's higher education review. Now, this is important. The sector does face issues, and it's right that these are looked at, but the focus just on HE stands in direct contrast to the approach that we took in Government. That was based on ensuring the participation and sustainability of the whole tertiary system, and I am concerned that, without that focus, there's a very real danger that the focus on further education will be lost and its funding displaced also. I hope that this is something the Welsh Government will address when responding to the debate.\n\nAnd what will the impact be if we lose this focus on FE? Well, we know that FE plays a key role in providing both vocational and academic pathways, particularly, as others have mentioned, for those young people most at risk of disengaging from education. Indeed, I would suggest that there is, in fact, a moral imperative for the Government to focus on FE to address this challenge.\n\nOn Monday, I visited Coleg y Cymoedd's Aberdare campus in my constituency, and my thanks to the staff and students who took the time to talk to me there as part of Adult Learners Week. There were some really excellent examples of mature learners re-engaging with education, meeting the need in the way that only FE can. This is another area where there is considerable demand, as I mentioned in my education question earlier today. This is a pattern that has been noted in several years. Those adult learners looking to re-engage should not have to lose out.\n\nMy conversations with staff and learners in Coleg y Cymoedd sketched out a very similar picture. Overall, that college, just one campus—. That college has over 5,500 full-time learners of all ages on its books, the majority aged 16 to 17, though. But, astonishingly, only just over 83 per cent are funded. Can I take a second just to reinforce that? Nearly one in five of the college's full-time students aren't funded. On the Aberdare campus, that's not just a stat, but 600 individual learners. Without funding, they are in real danger of disengaging.\n\nSo, there are 400 learners there at level 1 and level 2 who are not on their first-choice courses. That, in itself, represents a risk of disengagement. And for the first year ever, that particular campus has 40 learners that they haven't been able to place that are on a waiting list and unable to be enrolled, in real danger of disengaging from education forever. There were 80 learners there who they were only able to place on courses for two days a week. They would really like to be able to place them for much longer than that, and, of course, the less time they are placed in college, the more the risk of disengagement. That would need a hire drive for staff recruitment to accommodate, and, of course, that all comes down to funding.\n\nThere's been a 47 per cent increase in that campus alone in this year for individual development plans for learners with additional learning needs, and we all know that it needs resource to be able to cater for those needs. Now, I know a review of FE would not be a panacea, but it could shine a spotlight on the issues and help us work together to determine the solutions to put things right for our learners.\n\nI want to close by reflecting on some of the benefits to the individual from engaging in FE: improved educational qualifications, a new path or journey, increased skills or enhanced employment opportunities. And crucially, as Public Health Wales reminds us, education is also one of the biggest preventative mechanisms for mental health as well. So, Deputy Minister, FE can change lives. Please remember that as you take forward your policy decisions over the coming Senedd term.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=9241"
+        }
+      ],
+      "date": "2026-09-23",
+      "record_page_url": "https://record.senedd.wales/Plenary/16263"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-770762",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 2213,
+          "text_english": "First Minister, my colleague Jayne Bryant, asked you, during your oral statement last week, whether the Welsh Government would consider bringing in a climate resilience fund to help us mitigate the impacts of extreme weather. You didn't really answer her directly, and nor did you answer Anthony Slaughter when he raised a very similar point in his opening question. Now, there's widespread support for this from stakeholders that we on the Welsh Labour benches have engaged with over the summer recess. And with resources for agencies involved in climate mitigation measures being really stretched, this is one way to safeguard those funds and make sure they're channelled in the right way. So, is this something that your Government can explore setting up ahead of your wildfire summit next month?",
+          "text_original": "First Minister, my colleague Jayne Bryant, asked you, during your oral statement last week, whether the Welsh Government would consider bringing in a climate resilience fund to help us mitigate the impacts of extreme weather. You didn't really answer her directly, and nor did you answer Anthony Slaughter when he raised a very similar point in his opening question. Now, there's widespread support for this from stakeholders that we on the Welsh Labour benches have engaged with over the summer recess. And with resources for agencies involved in climate mitigation measures being really stretched, this is one way to safeguard those funds and make sure they're channelled in the right way. So, is this something that your Government can explore setting up ahead of your wildfire summit next month?",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=2213"
+        },
+        {
+          "id": "contribution-771069",
+          "item_id": "item-16262-260922-6",
+          "item_title_en": "6. Statement by the Cabinet Minister for Rural Resilience and Sustainability: Update on the Deposit-return Scheme",
+          "lang": "en",
+          "t_start": 15341,
+          "text_english": "Thank you, Minister, for your statement. I really welcome this update, building on the work of successive Welsh Governments. The appointment of a deposit management organisation for Wales is a vital step forward. Exchange for Change's new role as that common UK administrator makes sense in terms of joined-up working and providing clarity for businesses. I'd like to start by thanking everyone in Wales who recycles. It's due to them that Wales ranks so highly in terms of worldwide recycling rates.\n\nIn terms of today's statement, firstly, that four-year phased approach for glass is critical in ensuring the success of the wider deposit-return scheme. It's important that businesses and consumers are given that feed-in. We should remember too it's estimated that a phased approach will be more cost-effective. I'd expect lots of work to be going on in the background, so could you set out what the next key milestones are that we can expect as work progresses?\n\nSecondly, the examples for low-volume producers and smaller retailers are important. I'd be grateful if you could set out a little more of the Welsh Government's current thinking around this. We know the key determinant of the scheme's viability is linked to things like how the scheme works, the level of fees or wider infrastructure, not necessarily just business size. So, what will constitute low volume and what will be done to ensure there are no unintended consequences?\n\nThis is my last question. Members may have seen the briefing produced by the last Senedd's cross-party group on littering, which was chaired by Mick Antoniw, on a deposit-return scheme. That document really powerfully makes the case that in addition to the scheme's immediate benefits for reducing litter, the greatest long-term carbon savings will come from well-designed reuse models built on that infrastructure—a once-in-a-generation opportunity indeed. Minister, you hinted at that and the importance of reuse in your statement, but could you say a little more about how this will be embedded across Government so we don't let this opportunity slip?",
+          "text_original": "Thank you, Minister, for your statement. I really welcome this update, building on the work of successive Welsh Governments. The appointment of a deposit management organisation for Wales is a vital step forward. Exchange for Change's new role as that common UK administrator makes sense in terms of joined-up working and providing clarity for businesses. I'd like to start by thanking everyone in Wales who recycles. It's due to them that Wales ranks so highly in terms of worldwide recycling rates.\n\nIn terms of today's statement, firstly, that four-year phased approach for glass is critical in ensuring the success of the wider deposit-return scheme. It's important that businesses and consumers are given that feed-in. We should remember too it's estimated that a phased approach will be more cost-effective. I'd expect lots of work to be going on in the background, so could you set out what the next key milestones are that we can expect as work progresses?\n\nSecondly, the examples for low-volume producers and smaller retailers are important. I'd be grateful if you could set out a little more of the Welsh Government's current thinking around this. We know the key determinant of the scheme's viability is linked to things like how the scheme works, the level of fees or wider infrastructure, not necessarily just business size. So, what will constitute low volume and what will be done to ensure there are no unintended consequences?\n\nThis is my last question. Members may have seen the briefing produced by the last Senedd's cross-party group on littering, which was chaired by Mick Antoniw, on a deposit-return scheme. That document really powerfully makes the case that in addition to the scheme's immediate benefits for reducing litter, the greatest long-term carbon savings will come from well-designed reuse models built on that infrastructure—a once-in-a-generation opportunity indeed. Minister, you hinted at that and the importance of reuse in your statement, but could you say a little more about how this will be embedded across Government so we don't let this opportunity slip?",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=15341"
+        }
+      ],
+      "date": "2026-09-22",
+      "record_page_url": "https://record.senedd.wales/Plenary/16262"
+    },
     {
       "contributions": [
         {

@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,174 @@
   "canonical_name": "John Clark",
   "constituency_name_cy": "Bangor Conwy Môn",
   "constituency_name_en": "Bangor Conwy Môn",
-  "contribution_count": 7,
+  "contribution_count": 20,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-779138",
+          "item_id": "item-16316-261014-9",
+          "item_title_en": "8. Short Debate: Green across the aisle: Making environmental stewardship a common cause",
+          "lang": "en",
+          "t_start": 14604,
+          "text_english": "We're told that even though Britain only emits 1 per cent of global carbon dioxide emissions, whilst China and India emit 40 per cent, we should pursue net zero as an example. Ironically, our main emissions cuts have come from exporting steel and other heavy industries to those same countries. But they cannot follow our example; they cannot export their emissions to themselves, and the goods we now import are often produced under weaker environmental rules.\n\nNet zero in its current form is ideologically driven, it is damaging our economy and it will not deliver its aims. We need to look after the environment without crippling our industry or sacrificing our energy security. Nuclear power offers that practical path. It's carbon neutral, highly reliable and statistically the safest form of large-scale energy. Yes, the upfront costs and build times are significant, but the long-term benefits outweigh them. It's time to stop delaying. Let's re-industrialise, invest in nuclear and protect both our economic and environmental future. Thank you.",
+          "text_original": "We're told that even though Britain only emits 1 per cent of global carbon dioxide emissions, whilst China and India emit 40 per cent, we should pursue net zero as an example. Ironically, our main emissions cuts have come from exporting steel and other heavy industries to those same countries. But they cannot follow our example; they cannot export their emissions to themselves, and the goods we now import are often produced under weaker environmental rules.\n\nNet zero in its current form is ideologically driven, it is damaging our economy and it will not deliver its aims. We need to look after the environment without crippling our industry or sacrificing our energy security. Nuclear power offers that practical path. It's carbon neutral, highly reliable and statistically the safest form of large-scale energy. Yes, the upfront costs and build times are significant, but the long-term benefits outweigh them. It's time to stop delaying. Let's re-industrialise, invest in nuclear and protect both our economic and environmental future. Thank you.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=14604"
+        }
+      ],
+      "date": "2026-10-14",
+      "record_page_url": "https://record.senedd.wales/Plenary/16316"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-778474",
+          "item_id": "item-16315-261013-2",
+          "item_title_en": "2. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 4089,
+          "text_english": "Trefnydd, I'd like to request a statement from the First Minister on the Welsh Government's overseas offices—the network of 20 offices across 11 countries, with an annual running cost of around £4.7 million. Members from more than one party have asked since 2021 for office-by-office costs and benefits, most recently David Mills, on 6 October. The Government has said it cannot break them down. In February, the Government told the Economy, Trade and Rural Affairs Committee it would not release office-by-office investment results, citing data protection and Office for National Statistics rules, and offered only network-wide figures. A Senedd committee has also reported that written information on the wider £58 million international budget was frequently incomplete and unclear, with irreconcilable amounts. Will the Trefnydd ask the First Minister to make a statement on this?",
+          "text_original": "Trefnydd, I'd like to request a statement from the First Minister on the Welsh Government's overseas offices—the network of 20 offices across 11 countries, with an annual running cost of around £4.7 million. Members from more than one party have asked since 2021 for office-by-office costs and benefits, most recently David Mills, on 6 October. The Government has said it cannot break them down. In February, the Government told the Economy, Trade and Rural Affairs Committee it would not release office-by-office investment results, citing data protection and Office for National Statistics rules, and offered only network-wide figures. A Senedd committee has also reported that written information on the wider £58 million international budget was frequently incomplete and unclear, with irreconcilable amounts. Will the Trefnydd ask the First Minister to make a statement on this?",
+          "tv_url": "http://www.senedd.tv/en/16315?startPos=4089"
+        }
+      ],
+      "date": "2026-10-13",
+      "record_page_url": "https://record.senedd.wales/Plenary/16315"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776936",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "en",
+          "t_start": 15962,
+          "text_english": "Diolch, Llywydd. Llywydd, the Member for Caerdydd Penarth has set out the principle. I will set out what it looks like on a street in Bangor. A house that used to hold a family now holds six men who arrived in this country as adults. The bins overflow, the parking goes, the neighbours stop letting their children play outside, and when the neighbours complain, they're told they are the problem. \n\nThis is not a housing policy; it's a choice to socialise the cost of a failed system, a transfer of the cost from the people who made the decision to the people who live next door to it. HMOs for foreign nationals have become the mechanism by which hard political choices are avoided. Wales does not have a spare stock of family homes. We have long waiting lists. We have young couples forced to live with their parents into their 30s. We have veterans and key workers who can't get housing in the town where they were born. And we have a licensing regime for HMOs that's treating it as a growth industry.\n\nEvery family home converted into a HMO is a home taken out of the market for a local family and put into a market that pays better, where the tenants are transient, the houses are crowded, and rental income is backed by a public contract. Landlords did not invent this incentive—Government did. So, let us be precise about what this motion does and does not do.",
+          "text_original": "Diolch, Llywydd. Llywydd, the Member for Caerdydd Penarth has set out the principle. I will set out what it looks like on a street in Bangor. A house that used to hold a family now holds six men who arrived in this country as adults. The bins overflow, the parking goes, the neighbours stop letting their children play outside, and when the neighbours complain, they're told they are the problem. \n\nThis is not a housing policy; it's a choice to socialise the cost of a failed system, a transfer of the cost from the people who made the decision to the people who live next door to it. HMOs for foreign nationals have become the mechanism by which hard political choices are avoided. Wales does not have a spare stock of family homes. We have long waiting lists. We have young couples forced to live with their parents into their 30s. We have veterans and key workers who can't get housing in the town where they were born. And we have a licensing regime for HMOs that's treating it as a growth industry.\n\nEvery family home converted into a HMO is a home taken out of the market for a local family and put into a market that pays better, where the tenants are transient, the houses are crowded, and rental income is backed by a public contract. Landlords did not invent this incentive—Government did. So, let us be precise about what this motion does and does not do.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=15962"
+        },
+        {
+          "id": "contribution-776962",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "en",
+          "t_start": 16056,
+          "text_english": "In a moment.\n\nIt does not say Wales is closed. It does not say that a nurse, a doctor or an engineer who can house themselves in the private market is unwelcome. It simply says,\n\n'end access to HMOs and social housing for foreign nationals'.\n\nThat's taxpayer-funded accommodation.",
+          "text_original": "In a moment.\n\nIt does not say Wales is closed. It does not say that a nurse, a doctor or an engineer who can house themselves in the private market is unwelcome. It simply says,\n\n'end access to HMOs and social housing for foreign nationals'.\n\nThat's taxpayer-funded accommodation.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=16056"
+        },
+        {
+          "id": "contribution-776964",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "en",
+          "t_start": 16106,
+          "text_english": "If we had unlimited money, I'd agree with you, but we don't have unlimited money and we have vulnerable people in this country. They should be prioritised.\n\nIn Gwynedd alone, we have over 2,000 local people in need of social housing, often waiting for over two years. This motion will simply ensure people who already belong to this country have priority. Reform has been clear. Foreign nationals should not be in social housing. The order of priority should be British families with children, British veterans, British workers. This motion simply asks the Government to stop pretending that eligibility is somebody else's problem, even as constituents are pushed aside.",
+          "text_original": "If we had unlimited money, I'd agree with you, but we don't have unlimited money and we have vulnerable people in this country. They should be prioritised.\n\nIn Gwynedd alone, we have over 2,000 local people in need of social housing, often waiting for over two years. This motion will simply ensure people who already belong to this country have priority. Reform has been clear. Foreign nationals should not be in social housing. The order of priority should be British families with children, British veterans, British workers. This motion simply asks the Government to stop pretending that eligibility is somebody else's problem, even as constituents are pushed aside.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=16106"
+        },
+        {
+          "id": "contribution-776975",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "en",
+          "t_start": 16181,
+          "text_english": "Originally?",
+          "text_original": "Originally?",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=16181"
+        },
+        {
+          "id": "contribution-776976",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "en",
+          "t_start": 16182,
+          "text_english": "I'm not a Canadian at all. [Laughter.]",
+          "text_original": "I'm not a Canadian at all. [Laughter.]",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=16182"
+        },
+        {
+          "id": "contribution-776981",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "en",
+          "t_start": 16199,
+          "text_english": "My mother is Heulwen Roberts from Llangefni. My father—[Inaudible.]",
+          "text_original": "My mother is Heulwen Roberts from Llangefni. My father—[Inaudible.]",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=16199"
+        },
+        {
+          "id": "contribution-776984",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "en",
+          "t_start": 16204,
+          "text_english": "—from Manchester.\n\nThe order of priority should be British—. Well, actually, where Westminster—. Okay, this motion simply asks the Government to stop pretending that eligibility is somebody else's problem. Where Westminster holds the power to act, this Government must use its influence to ensure Westminster respects the interests of the Welsh people.\n\nThe Senedd could also make it harder to dodge the local connection test for housing. Gwynedd already uses one: five years residence, or a close family member resident for 10 years, or five years of work in the community. We could set a Wales-wide minimum qualification period, stop short placement counting as a connection, and require a local connection to outweigh other factors.\n\nSome Members may try and claim that this is unfair. I will tell you what is unfair. It is unfair that a person who has paid tax into the system for decades can wait longer for housing than somebody who has just arrived. It is unfair that a street in Bangor absorbs the disorder while people who designed the nation of sanctuary live nowhere near it.\n\nIt is dishonest to pretend that every arrival is a net contributor. Some are; many in the HMO system are not. A housing policy that cannot tell the difference or simply ignores these outcomes is not compassion; it is an invoice sent to my constituents, paid not only with money but also by sacrificing community cohesion. In a world where Government is spending more than it can afford, where the reality of scarcity is a growing fact of life, the moral duty is first to our people and then to the people of the world.\n\nThis choice is now becoming acute and urgent. HMOs must not be used as a solution for our failure to control our borders. We have done more than enough. The test now is whether this Chamber will say so. I support this motion.",
+          "text_original": "—from Manchester.\n\nThe order of priority should be British—. Well, actually, where Westminster—. Okay, this motion simply asks the Government to stop pretending that eligibility is somebody else's problem. Where Westminster holds the power to act, this Government must use its influence to ensure Westminster respects the interests of the Welsh people.\n\nThe Senedd could also make it harder to dodge the local connection test for housing. Gwynedd already uses one: five years residence, or a close family member resident for 10 years, or five years of work in the community. We could set a Wales-wide minimum qualification period, stop short placement counting as a connection, and require a local connection to outweigh other factors.\n\nSome Members may try and claim that this is unfair. I will tell you what is unfair. It is unfair that a person who has paid tax into the system for decades can wait longer for housing than somebody who has just arrived. It is unfair that a street in Bangor absorbs the disorder while people who designed the nation of sanctuary live nowhere near it.\n\nIt is dishonest to pretend that every arrival is a net contributor. Some are; many in the HMO system are not. A housing policy that cannot tell the difference or simply ignores these outcomes is not compassion; it is an invoice sent to my constituents, paid not only with money but also by sacrificing community cohesion. In a world where Government is spending more than it can afford, where the reality of scarcity is a growing fact of life, the moral duty is first to our people and then to the people of the world.\n\nThis choice is now becoming acute and urgent. HMOs must not be used as a solution for our failure to control our borders. We have done more than enough. The test now is whether this Chamber will say so. I support this motion.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=16204"
+        },
+        {
+          "id": "contribution-777059",
+          "item_id": "item-16314-261007-11",
+          "item_title_en": "10. Short Debate: The importance of port infrastructure and maritime traffic to the Welsh economy",
+          "lang": "en",
+          "t_start": 19186,
+          "text_english": "I have two family members working in the merchant navy.\n\nPorts are how the north-west Wales economy breathes. Holyhead is the second biggest roll-on, roll-off port in the United Kingdom. In 2024, it handled 1.5 million passengers, nearly four out of every five sea passengers between Wales and Ireland, and 4.3 million tonnes of freight—that is, food, parcels and exports—moving every night across the Irish sea. When storm damage closed the port last winter, the backlog showed how much Britain and Ireland depended on it. The port and its supply chain are worth more than £100 million a year to north Wales, and around 1,000 local jobs rely on it. In Holyhead itself, port work is a major share of local employment. Cruise ships are adding a new stream. Almost 50,000 visitors came ashore at Holyhead last year, spending in shops, on coaches and attractions, from Anglesey and into Snowdonia. And it's not just the ferry port; we've got Caernarfon, Porthmadog and our smaller harbours that sustain fishing, marine services and the visitor economy, the tourist economy, along the Menai strait and all around Anglesey and down the Llŷn peninsula. Reliable berths, reliable roads and rail into them are not a luxury; they are the foundation of our jobs, our trade and our tourism in the north-west. We need to support our ports. Thank you.",
+          "text_original": "I have two family members working in the merchant navy.\n\nPorts are how the north-west Wales economy breathes. Holyhead is the second biggest roll-on, roll-off port in the United Kingdom. In 2024, it handled 1.5 million passengers, nearly four out of every five sea passengers between Wales and Ireland, and 4.3 million tonnes of freight—that is, food, parcels and exports—moving every night across the Irish sea. When storm damage closed the port last winter, the backlog showed how much Britain and Ireland depended on it. The port and its supply chain are worth more than £100 million a year to north Wales, and around 1,000 local jobs rely on it. In Holyhead itself, port work is a major share of local employment. Cruise ships are adding a new stream. Almost 50,000 visitors came ashore at Holyhead last year, spending in shops, on coaches and attractions, from Anglesey and into Snowdonia. And it's not just the ferry port; we've got Caernarfon, Porthmadog and our smaller harbours that sustain fishing, marine services and the visitor economy, the tourist economy, along the Menai strait and all around Anglesey and down the Llŷn peninsula. Reliable berths, reliable roads and rail into them are not a luxury; they are the foundation of our jobs, our trade and our tourism in the north-west. We need to support our ports. Thank you.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=19186"
+        }
+      ],
+      "date": "2026-10-07",
+      "record_page_url": "https://record.senedd.wales/Plenary/16314"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776124",
+          "item_id": "item-16313-261006-4",
+          "item_title_en": "4. Statement by the Deputy Minister for Transport: Strategic Priorities for the Menai Strait Crossings and M4 around Newport",
+          "lang": "en",
+          "t_start": 9960,
+          "text_english": "Thank you, Deputy Minister, for today's announcement. People on both sides of the Menai strait will judge this statement on whether it gives them a credible plan that's both affordable and keeps traffic moving. When either of the existing bridges fail, hospital appointments are missed, staff are late for work, and businesses in Bangor and on Ynys Môn lose trade. Local estimates put that at £30 million a year. So, we welcome this announcement.\n\nBut given how tight Welsh budgets are, and that we're already suffering under unbearable taxes, I worry how we can afford this. Given Holyhead's role as the principal gateway between Great Britain and Ireland, can the Deputy Minister please tell us: has he appealed for funding for the third bridge from the UK Government, and, if so, how have they responded? Are they prepared to pick up the lion's share of this bill? And if the UK Government does not share the bill, how will the Welsh Government finance the £400 million to £600 million cost? Thank you.",
+          "text_original": "Thank you, Deputy Minister, for today's announcement. People on both sides of the Menai strait will judge this statement on whether it gives them a credible plan that's both affordable and keeps traffic moving. When either of the existing bridges fail, hospital appointments are missed, staff are late for work, and businesses in Bangor and on Ynys Môn lose trade. Local estimates put that at £30 million a year. So, we welcome this announcement.\n\nBut given how tight Welsh budgets are, and that we're already suffering under unbearable taxes, I worry how we can afford this. Given Holyhead's role as the principal gateway between Great Britain and Ireland, can the Deputy Minister please tell us: has he appealed for funding for the third bridge from the UK Government, and, if so, how have they responded? Are they prepared to pick up the lion's share of this bill? And if the UK Government does not share the bill, how will the Welsh Government finance the £400 million to £600 million cost? Thank you.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=9960"
+        }
+      ],
+      "date": "2026-10-06",
+      "record_page_url": "https://record.senedd.wales/Plenary/16313"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-773020",
+          "item_id": "item-16264-260929-6",
+          "item_title_en": "5. Statement by the Cabinet Minister for Local Government, Housing and Planning: The Revision of the National Development Framework and National Conversation",
+          "lang": "en",
+          "t_start": 10274,
+          "text_english": "Thank you, Deputy Llywydd. Minister, a conversation that closes in November and a framework that arrives in 2029 is not a plan for homes, jobs or high streets now. The current framework already tells north Wales where it sits—national growth in Wrexham and Deeside, while Bangor Conwy Môn is offered only managed coastal growth. If this revision merely re-badges that map, businesses along the A55 will see no change.\n\nWill the Minister confirm three things: first, that the engagement in the north-west will be as serious as in Cardiff; second, that empty and broken high streets will not be treated as lower priority issues; and, thirdly, that this revision will treat Bangor, Caernarfon, Llandudno and Holyhead as more than a supporting act to Wrexham and Deeside and that we won't have to wait until 2029 for a confirmation of that? Conversations do matter, but towns across the north-west cannot wait for the next plan.",
+          "text_original": "Thank you, Deputy Llywydd. Minister, a conversation that closes in November and a framework that arrives in 2029 is not a plan for homes, jobs or high streets now. The current framework already tells north Wales where it sits—national growth in Wrexham and Deeside, while Bangor Conwy Môn is offered only managed coastal growth. If this revision merely re-badges that map, businesses along the A55 will see no change.\n\nWill the Minister confirm three things: first, that the engagement in the north-west will be as serious as in Cardiff; second, that empty and broken high streets will not be treated as lower priority issues; and, thirdly, that this revision will treat Bangor, Caernarfon, Llandudno and Holyhead as more than a supporting act to Wrexham and Deeside and that we won't have to wait until 2029 for a confirmation of that? Conversations do matter, but towns across the north-west cannot wait for the next plan.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=10274"
+        }
+      ],
+      "date": "2026-09-29",
+      "record_page_url": "https://record.senedd.wales/Plenary/16264"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-770980",
+          "item_id": "item-16262-260922-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 8045,
+          "text_english": "Trefnydd, can I request a statement from the Cabinet Minister for Local Government, Housing and Planning on the extent of houses in multiple occupancy in Bangor Aberconwy Môn being used by Government-contracted organisations to house people via Home Office schemes? And what assessment has been made of the effect on local housing costs and supply for constituents on waiting lists, some of whom have been waiting for over a year?",
+          "text_original": "Trefnydd, can I request a statement from the Cabinet Minister for Local Government, Housing and Planning on the extent of houses in multiple occupancy in Bangor Aberconwy Môn being used by Government-contracted organisations to house people via Home Office schemes? And what assessment has been made of the effect on local housing costs and supply for constituents on waiting lists, some of whom have been waiting for over a year?",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=8045"
+        }
+      ],
+      "date": "2026-09-22",
+      "record_page_url": "https://record.senedd.wales/Plenary/16262"
+    },
     {
       "contributions": [
         {

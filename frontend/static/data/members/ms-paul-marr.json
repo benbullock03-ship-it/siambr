@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,128 @@
   "canonical_name": "Paul Marr",
   "constituency_name_cy": "Ceredigion Penfro",
   "constituency_name_en": "Ceredigion Penfro",
-  "contribution_count": 17,
+  "contribution_count": 26,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-776957",
+          "item_id": "item-16314-261007-9",
+          "item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+          "lang": "en",
+          "t_start": 16878,
+          "text_english": "Before I begin, can I just say that the huge numbers of people who put these Members in these seats to represent their views need to have those views heard? Because you don't like them doesn't mean to say that those views are irrelevant. There have been enough interventions this afternoon to try and stop those views from being heard, so politely and respectfully, I won't be taking any during my speech.\n\nMany of my constituents ask a simple question, Llywydd: who is housing for in Wales? They work, pay their taxes and raise their families here, yet when they need a secure, affordable home, too often the answer is to keep waiting. Shelter Cymru's 2025 research estimated that around 170,000 people, including approximately 45,000 children, are represented on social housing waiting lists. At the building rate used in that report, providing enough additional homes to meet that demand would take more than 35 years. That is a generation of unmet need. Children grow up, families struggle, people put their lives on hold, while the Government produces another promise.\n\nShelter Cymru attributes this crisis to decades of failing to build enough social homes. On that, they are right. But acknowledging that failure does not remove the need to make choices today. Building more homes and deciding who has access to them are both responsibilities of this Government. We must build more, faster, but construction takes time and our constituents need help now. Where homes are scarce, eligibility matters, priorities matter and British taxpayers are entitled to ask whether the system that they support puts their needs first. My answer is that it should. That includes British citizens who cannot work through disability, those caring for relatives, pensioners, children and, of course, our veterans. Putting our citizens first must mean protecting those who need support, as well as recognising those whose taxes sustain it. \n\nIn Ceredigion Penfro, constituents tell me that they have worked here and paid in all of their working lives and raised families here, and still, they are told to wait. They deserve more than sympathy; they deserve a clear priority in housing policy. That goes beyond asylum accommodation, and we should say so plainly. The argument is about housing capacity and national priorities, not claiming that somebody's nationality determines their character.\n\nSocial housing is scarce. Reform UK believe that access should be reserved for British citizens. On HMOs, our stance is clear: immigration policy must reflect housing capacity and British citizens must come first. The Welsh and UK Governments must work together to deliver that policy with clear rules, a managed transition and firm enforcement.\n\nConstituents have also raised concerns about what they describe—and these are my constituents' concerns—as asylum seekers arriving in HMOs after dark, with little explanation to neighbours. Arriving after dark does not establish wrongdoing, but silence from those responsible leaves fears growing and questions unanswered. Residents deserve information about management, occupancy, safeguards and who will respond when concerns arise. Those responsibilities apply whatever eligibility rules are adopted. Restricting access cannot replace proper enforcement. British taxpayers should not be an afterthought in the housing system that they sustain. That is why I support this motion. Build more homes, put British citizens first and make the Government answer for the decisions that it takes.",
+          "text_original": "Before I begin, can I just say that the huge numbers of people who put these Members in these seats to represent their views need to have those views heard? Because you don't like them doesn't mean to say that those views are irrelevant. There have been enough interventions this afternoon to try and stop those views from being heard, so politely and respectfully, I won't be taking any during my speech.\n\nMany of my constituents ask a simple question, Llywydd: who is housing for in Wales? They work, pay their taxes and raise their families here, yet when they need a secure, affordable home, too often the answer is to keep waiting. Shelter Cymru's 2025 research estimated that around 170,000 people, including approximately 45,000 children, are represented on social housing waiting lists. At the building rate used in that report, providing enough additional homes to meet that demand would take more than 35 years. That is a generation of unmet need. Children grow up, families struggle, people put their lives on hold, while the Government produces another promise.\n\nShelter Cymru attributes this crisis to decades of failing to build enough social homes. On that, they are right. But acknowledging that failure does not remove the need to make choices today. Building more homes and deciding who has access to them are both responsibilities of this Government. We must build more, faster, but construction takes time and our constituents need help now. Where homes are scarce, eligibility matters, priorities matter and British taxpayers are entitled to ask whether the system that they support puts their needs first. My answer is that it should. That includes British citizens who cannot work through disability, those caring for relatives, pensioners, children and, of course, our veterans. Putting our citizens first must mean protecting those who need support, as well as recognising those whose taxes sustain it. \n\nIn Ceredigion Penfro, constituents tell me that they have worked here and paid in all of their working lives and raised families here, and still, they are told to wait. They deserve more than sympathy; they deserve a clear priority in housing policy. That goes beyond asylum accommodation, and we should say so plainly. The argument is about housing capacity and national priorities, not claiming that somebody's nationality determines their character.\n\nSocial housing is scarce. Reform UK believe that access should be reserved for British citizens. On HMOs, our stance is clear: immigration policy must reflect housing capacity and British citizens must come first. The Welsh and UK Governments must work together to deliver that policy with clear rules, a managed transition and firm enforcement.\n\nConstituents have also raised concerns about what they describe—and these are my constituents' concerns—as asylum seekers arriving in HMOs after dark, with little explanation to neighbours. Arriving after dark does not establish wrongdoing, but silence from those responsible leaves fears growing and questions unanswered. Residents deserve information about management, occupancy, safeguards and who will respond when concerns arise. Those responsibilities apply whatever eligibility rules are adopted. Restricting access cannot replace proper enforcement. British taxpayers should not be an afterthought in the housing system that they sustain. That is why I support this motion. Build more homes, put British citizens first and make the Government answer for the decisions that it takes.",
+          "tv_url": "http://www.senedd.tv/en/16314?startPos=16878"
+        }
+      ],
+      "date": "2026-10-07",
+      "record_page_url": "https://record.senedd.wales/Plenary/16314"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-776202",
+          "item_id": "item-16313-261006-6",
+          "item_title_en": "6. Debate: Fiscal Reform",
+          "lang": "en",
+          "t_start": 15033,
+          "text_english": "Well, here we go again: Labour and Plaid Cymru lecturing this Senedd on fiscal reform, which, to many of my constituents, will be somewhat like Bonnie and Clyde asking to look after the bank over lunch time. Whilst you admire the confidence, I wouldn't give them the keys. Plaid Cymru and Labour may sit on different sides of this Chamber, but when it comes to the fundamental approach of taxing and spending, we have seen remarkably little appetite for genuine fiscal reform.\n\nIndeed, this current 2026-27 budget was secured through an agreement between Labour and Plaid Cymru, and when Plaid extended to Government, it chose to honour the spending commitments in that budget. So, this debate should not simply be about who spends the money. It should be about something much more fundamental: how Government raises it, how it spends it, whether taxpayers receive value for it, and whether Government itself is prepared to reform, because fiscal reform cannot simply mean changing the name above the door whilst maintaining the same approach underneath it. That is why fiscal reform is ultimately about a choice: a choice between a Government that believes the answer to almost every problem is more spending and more bureaucracy, where Reform UK believes taxpayers have a right to demand value and accountability and results, because Government has no money of its own. [Interruption.] No, thank you.\n\nEvery pound spent in this place ultimately comes from taxpayers or borrowing that taxpayers will eventually have to service, and Reform UK starts from a very simple principle: it is taxpayers' money before it is Government's money. That is where I believe the fundamental difference between Reform and Plaid Cymru lies. Plaid Cymru came into Government promising change. Then came its first financial test, the supplementary budget. And what happened? It failed. On 14 July, Plaid Cymru's first supplementary budget was rejected by this Senedd by 49 to 44 votes. Now, Plaid will undoubtedly blame opposition parties, but Government is about more than announcing how much money you want to spend. Government is about leadership. It is all about building confidence in your priorities, demonstrating value for money, and convincing Parliament your financial plans deserve its support. That is precisely why fiscal reform matters, and Plaid cannot pretend that they have nothing to do with the financial settlement that they inherited. Only months earlier, Plaid Cymru negotiated a budget agreement with the previous Labour Government and then abstained to allow the budget to pass. They did not endorse every line of it, but they helped provide the parliamentary route for that financial settlement to take effect.\n\nSo, Reform's message on fiscal reform is different. Fiscal reform cannot simply mean spending more, taxing more, creating another scheme. This isn't reform; it's more bureaucracy. Genuine fiscal reforms mean asking the harder questions. What can Government stop doing? What can Government do better? Where is taxpayers' money going and being wasted? And what bureaucracy can be removed? That is what fiscal reform should be about: prioritising expenditure, eliminating waste and ensuring that Government lives within the resources available to it. It commits us to cutting 1p from every £1 across all rates of Welsh income tax by the end of this Senedd term, funded through reductions in expenditure elsewhere without cuts to front-line services, putting more of people's own money back in their pockets. We will review the quango state, merging or abolishing bodies whose functions are duplicated or unnecessary. And we will introduce a tax lock. Reform will not introduce a new Welsh-controlled tax or levy that has not been set out in our manifesto and approved by voters.\n\nThat is fiscal reform—lower taxation where it can be afforded, disciplined spending, less waste, and protecting the front-line services upon which people depend, because economic growth does not come from Government's endless moving of taxpayers' money around Cardiff Bay. Prosperity comes from people building businesses, entrepreneurs taking risks, companies investing, and people earning and spending their own money. And Government should create the conditions that allow them to do it. That is the Reform alternative—lower taxes, less waste, less bureaucracy, better infrastructure, stronger front-line services, and a Government that understands that economic growth ultimately pays for public services upon which we all depend.\n\nSo, when Plaid Cymru return to this Chamber with further spending plans, Reform should ask a very different question: not simply, 'How much are you spending, and where can savings be redirected towards front-line services in—?' Sorry, bear with me. Apologies. So, this includes politically fashionable projects that Governments are often reluctant to challenge, because fiscal reform requires us to confront spending driven more by ideology than outcomes. The test should not be whether a policy makes a Minister feel virtuous. The test should be: does it work, does it improve people's lives, and is it worth what taxpayers are being charged for it? If the answer is 'no', then Reform should have absolutely no hesitation in challenging that expenditure. There should be no sacred cows here when it comes to taxpayers' money.",
+          "text_original": "Well, here we go again: Labour and Plaid Cymru lecturing this Senedd on fiscal reform, which, to many of my constituents, will be somewhat like Bonnie and Clyde asking to look after the bank over lunch time. Whilst you admire the confidence, I wouldn't give them the keys. Plaid Cymru and Labour may sit on different sides of this Chamber, but when it comes to the fundamental approach of taxing and spending, we have seen remarkably little appetite for genuine fiscal reform.\n\nIndeed, this current 2026-27 budget was secured through an agreement between Labour and Plaid Cymru, and when Plaid extended to Government, it chose to honour the spending commitments in that budget. So, this debate should not simply be about who spends the money. It should be about something much more fundamental: how Government raises it, how it spends it, whether taxpayers receive value for it, and whether Government itself is prepared to reform, because fiscal reform cannot simply mean changing the name above the door whilst maintaining the same approach underneath it. That is why fiscal reform is ultimately about a choice: a choice between a Government that believes the answer to almost every problem is more spending and more bureaucracy, where Reform UK believes taxpayers have a right to demand value and accountability and results, because Government has no money of its own. [Interruption.] No, thank you.\n\nEvery pound spent in this place ultimately comes from taxpayers or borrowing that taxpayers will eventually have to service, and Reform UK starts from a very simple principle: it is taxpayers' money before it is Government's money. That is where I believe the fundamental difference between Reform and Plaid Cymru lies. Plaid Cymru came into Government promising change. Then came its first financial test, the supplementary budget. And what happened? It failed. On 14 July, Plaid Cymru's first supplementary budget was rejected by this Senedd by 49 to 44 votes. Now, Plaid will undoubtedly blame opposition parties, but Government is about more than announcing how much money you want to spend. Government is about leadership. It is all about building confidence in your priorities, demonstrating value for money, and convincing Parliament your financial plans deserve its support. That is precisely why fiscal reform matters, and Plaid cannot pretend that they have nothing to do with the financial settlement that they inherited. Only months earlier, Plaid Cymru negotiated a budget agreement with the previous Labour Government and then abstained to allow the budget to pass. They did not endorse every line of it, but they helped provide the parliamentary route for that financial settlement to take effect.\n\nSo, Reform's message on fiscal reform is different. Fiscal reform cannot simply mean spending more, taxing more, creating another scheme. This isn't reform; it's more bureaucracy. Genuine fiscal reforms mean asking the harder questions. What can Government stop doing? What can Government do better? Where is taxpayers' money going and being wasted? And what bureaucracy can be removed? That is what fiscal reform should be about: prioritising expenditure, eliminating waste and ensuring that Government lives within the resources available to it. It commits us to cutting 1p from every £1 across all rates of Welsh income tax by the end of this Senedd term, funded through reductions in expenditure elsewhere without cuts to front-line services, putting more of people's own money back in their pockets. We will review the quango state, merging or abolishing bodies whose functions are duplicated or unnecessary. And we will introduce a tax lock. Reform will not introduce a new Welsh-controlled tax or levy that has not been set out in our manifesto and approved by voters.\n\nThat is fiscal reform—lower taxation where it can be afforded, disciplined spending, less waste, and protecting the front-line services upon which people depend, because economic growth does not come from Government's endless moving of taxpayers' money around Cardiff Bay. Prosperity comes from people building businesses, entrepreneurs taking risks, companies investing, and people earning and spending their own money. And Government should create the conditions that allow them to do it. That is the Reform alternative—lower taxes, less waste, less bureaucracy, better infrastructure, stronger front-line services, and a Government that understands that economic growth ultimately pays for public services upon which we all depend.\n\nSo, when Plaid Cymru return to this Chamber with further spending plans, Reform should ask a very different question: not simply, 'How much are you spending, and where can savings be redirected towards front-line services in—?' Sorry, bear with me. Apologies. So, this includes politically fashionable projects that Governments are often reluctant to challenge, because fiscal reform requires us to confront spending driven more by ideology than outcomes. The test should not be whether a policy makes a Minister feel virtuous. The test should be: does it work, does it improve people's lives, and is it worth what taxpayers are being charged for it? If the answer is 'no', then Reform should have absolutely no hesitation in challenging that expenditure. There should be no sacred cows here when it comes to taxpayers' money.",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=15033"
+        },
+        {
+          "id": "contribution-776217",
+          "item_id": "item-16313-261006-6",
+          "item_title_en": "6. Debate: Fiscal Reform",
+          "lang": "en",
+          "t_start": 15349,
+          "text_english": "Yes, certainly. Our Welsh manifesto sets out a cost-neutral programme, cutting waste and funding additional expenditure, rather than assuming that every new priority requires additional funding or borrowing. We set out our fiscal approach clearly. If we want to spend more—",
+          "text_original": "Yes, certainly. Our Welsh manifesto sets out a cost-neutral programme, cutting waste and funding additional expenditure, rather than assuming that every new priority requires additional funding or borrowing. We set out our fiscal approach clearly. If we want to spend more—",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=15349"
+        },
+        {
+          "id": "contribution-776220",
+          "item_id": "item-16313-261006-6",
+          "item_title_en": "6. Debate: Fiscal Reform",
+          "lang": "en",
+          "t_start": 15367,
+          "text_english": "Yes, certainly. I'll do that now. That is what fiscal reform in Wales needs, not another Government asking taxpayers to dig into their pockets, but a Government prepared to look into its own pockets first. That is the difference—",
+          "text_original": "Yes, certainly. I'll do that now. That is what fiscal reform in Wales needs, not another Government asking taxpayers to dig into their pockets, but a Government prepared to look into its own pockets first. That is the difference—",
+          "tv_url": "http://www.senedd.tv/en/16313?startPos=15367"
+        }
+      ],
+      "date": "2026-10-06",
+      "record_page_url": "https://record.senedd.wales/Plenary/16313"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-773589",
+          "item_id": "item-16265-260930-1",
+          "item_title_en": "1. Questions to the Deputy First Minister and Cabinet Minister for Social Justice",
+          "lang": "en",
+          "t_start": 2695,
+          "text_english": "Thank you to Anna for the question. Deputy First Minister, on 22 September the First Minister told the Senedd that Cynnal was going to be piloted and it is happening, yet your programme for government says that you will 'seek to' pilot Cynnal. The distinction there really matters, Minister, because 'we're going to' is a commitment, while 'seek to' is not. So, for families in Ceredigion Penfro, I have two straightforward questions: will Ceredigion Penfro be included in the Cynnal pilot? And on your childcare commitment, on what date will families in Ceredigion Penfro be able to access the allocated funded hours per week? Families need to know not just what this Government intends to do, but when they will actually receive the support. Diolch.",
+          "text_original": "Thank you to Anna for the question. Deputy First Minister, on 22 September the First Minister told the Senedd that Cynnal was going to be piloted and it is happening, yet your programme for government says that you will 'seek to' pilot Cynnal. The distinction there really matters, Minister, because 'we're going to' is a commitment, while 'seek to' is not. So, for families in Ceredigion Penfro, I have two straightforward questions: will Ceredigion Penfro be included in the Cynnal pilot? And on your childcare commitment, on what date will families in Ceredigion Penfro be able to access the allocated funded hours per week? Families need to know not just what this Government intends to do, but when they will actually receive the support. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=2695"
+        },
+        {
+          "id": "contribution-773956",
+          "item_id": "item-16265-260930-10",
+          "item_title_en": "9. Short Debate: The importance of local services—Protecting the future of Withybush hospital",
+          "lang": "en",
+          "t_start": 20521,
+          "text_english": "Diolch, Lywydd. I thank Claire for bringing forward this important debate today, and thank you to all Members that have remained to hear it.\n\nFor older people living across Ceredigion Penfro, access to healthcare must not become a postcode lottery. At the last census, more than a quarter of Pembrokeshire residents were aged 65 or over. For someone who no longer drives, the distance can mean an expensive taxi fare, dependence on relatives, or maybe not even getting there at all. In an emergency, distance matters. Hywel Dda's 2023 travel survey recorded 38 minutes from Withybush to Glangwili, even with lights and sirens. Specialist care matters; so does reaching it safely. I support Claire's call to protect Withybush. Safe transfers, affordable transport and care closer to home must be built into any changes from the outset. Living in west Wales should never mean being left further from care, with our constituents financially victimised because of where they live. Diolch yn fawr.",
+          "text_original": "Diolch, Lywydd. I thank Claire for bringing forward this important debate today, and thank you to all Members that have remained to hear it.\n\nFor older people living across Ceredigion Penfro, access to healthcare must not become a postcode lottery. At the last census, more than a quarter of Pembrokeshire residents were aged 65 or over. For someone who no longer drives, the distance can mean an expensive taxi fare, dependence on relatives, or maybe not even getting there at all. In an emergency, distance matters. Hywel Dda's 2023 travel survey recorded 38 minutes from Withybush to Glangwili, even with lights and sirens. Specialist care matters; so does reaching it safely. I support Claire's call to protect Withybush. Safe transfers, affordable transport and care closer to home must be built into any changes from the outset. Living in west Wales should never mean being left further from care, with our constituents financially victimised because of where they live. Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16265?startPos=20521"
+        }
+      ],
+      "date": "2026-09-30",
+      "record_page_url": "https://record.senedd.wales/Plenary/16265"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771379",
+          "item_id": "item-16263-260923-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "4. What action is the Cabinet Minister taking to improve economic outcomes in Ceredigion Penfro? OQ64513",
+          "text_original": "4. Pa gamau y mae'r Gweinidog Cabinet yn eu cymryd i wella canlyniadau economaidd yng Ngheredigion Penfro? OQ64513",
+          "tv_url": "http://www.senedd.tv/en/16263"
+        },
+        {
+          "id": "contribution-771383",
+          "item_id": "item-16263-260923-1",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "en",
+          "t_start": 2200,
+          "text_english": "Minister, thank you for your response. Yesterday, you told this Chamber that new defence-related investment decisions should, where possible, wait for your ethical defence investment framework. Yet Ceredigion Penfro should be benefiting directly from the £50 million defence growth deal, with Ministry of Defence Aberporth offering skilled jobs, investment and opportunities for local business. So, a simple question, Minister: are the defence growth deal and Aberporth both exempt from that pause? And if not, can you guarantee that not one job or contract, and not one pound of investment in Ceredigion Penfro will be lost or delayed as a result? West Wales needs certainty and investment now, not another framework standing in the way. Diolch.",
+          "text_original": "Minister, thank you for your response. Yesterday, you told this Chamber that new defence-related investment decisions should, where possible, wait for your ethical defence investment framework. Yet Ceredigion Penfro should be benefiting directly from the £50 million defence growth deal, with Ministry of Defence Aberporth offering skilled jobs, investment and opportunities for local business. So, a simple question, Minister: are the defence growth deal and Aberporth both exempt from that pause? And if not, can you guarantee that not one job or contract, and not one pound of investment in Ceredigion Penfro will be lost or delayed as a result? West Wales needs certainty and investment now, not another framework standing in the way. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=2200"
+        }
+      ],
+      "date": "2026-09-23",
+      "record_page_url": "https://record.senedd.wales/Plenary/16263"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-770710",
+          "item_id": "item-16262-260922-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 632,
+          "text_english": "Thank you to Paul Davies for the question. First Minister, 35 per cent of Ceredigion households and 23 per cent in Pembrokeshire rely on oil heating, among the highest rates in Wales. Public Health Wales warns that cold homes increase cardiovascular and respiratory risks, particular for older and vulnerable people. As your Government moves towards net zero, how will you ensure that rural households are not forced to ration heating because of the cost of that transition, and will you guarantee that keeping people warm and healthy comes before hitting arbitrary deadlines? Diolch.",
+          "text_original": "Thank you to Paul Davies for the question. First Minister, 35 per cent of Ceredigion households and 23 per cent in Pembrokeshire rely on oil heating, among the highest rates in Wales. Public Health Wales warns that cold homes increase cardiovascular and respiratory risks, particular for older and vulnerable people. As your Government moves towards net zero, how will you ensure that rural households are not forced to ration heating because of the cost of that transition, and will you guarantee that keeping people warm and healthy comes before hitting arbitrary deadlines? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=632"
+        }
+      ],
+      "date": "2026-09-22",
+      "record_page_url": "https://record.senedd.wales/Plenary/16262"
+    },
     {
       "contributions": [
         {

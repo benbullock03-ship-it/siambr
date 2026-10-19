@@ -1,6 +1,215 @@
 {
   "ballots": [
     {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779120",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779125",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-14",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16316-779128",
+      "item_id": "item-16316-261014-8",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - local referendums on council tax rises. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-776993",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "negatived",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-776998",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777002",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Amendment 1, tabled in the name of Heledd Fychan a Lynne Neagle.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-9",
+      "debate_item_title_en": "8. Reform UK Debate: Access to HMOs and social housing for foreign nationals",
+      "division_id": "division-16314-777009",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Reform UK Debate - access to HMOs and social housing for foreign nationals. Cynnig wedi’i ddiwygio.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-7",
+      "debate_item_title_en": "6. Member Debate under Standing Order 11.21(iv): Family Drug and Alcohol Courts",
+      "division_id": "division-16314-777017",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Member Debate under Standing Order 11.21(iv) - Family Drug and Alcohol Courts.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-07",
+      "debate_item_id": "item-16314-261007-8",
+      "debate_item_title_en": "7. Reform UK Debate: Regional rugby",
+      "division_id": "division-16314-777021",
+      "item_id": "item-16314-261007-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - regional rugby. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-06",
+      "debate_item_id": "item-16313-261006-6",
+      "debate_item_title_en": "6. Debate: Fiscal Reform",
+      "division_id": "division-16313-776229",
+      "item_id": "item-16313-261006-7",
+      "item_title_en": "7. Voting Time",
+      "motion_text": "Item 6. Debate: Fiscal Reform",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773939",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773957",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": null,
+      "debate_item_title_en": null,
+      "division_id": "division-16265-773961",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Reform UK Debate - default 20mph speed limit. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-30",
+      "debate_item_id": "item-16265-260930-8",
+      "debate_item_title_en": "7. Welsh Conservatives Debate: The defence sector",
+      "division_id": "division-16265-773980",
+      "item_id": "item-16265-260930-9",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Welsh Conservatives Debate - the defence sector. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771706",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 2, tabled in the name of Lynne Neagle.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-6",
+      "debate_item_title_en": "6. Welsh Labour Debate: Further education",
+      "division_id": "division-16263-771714",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 6. Welsh Labour Debate - Further education. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771717",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion as amended.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771722",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Motion without amendment.",
+      "result": "negatived",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-09-23",
+      "debate_item_id": "item-16263-260923-7",
+      "debate_item_title_en": "7. Reform UK Debate: Wales and the United Kingdom",
+      "division_id": "division-16263-771726",
+      "item_id": "item-16263-260923-8",
+      "item_title_en": "8. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Wales and the United Kingdom. Amendment 1, tabled in the name of Heledd Fychan.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-09-16",
       "debate_item_id": "item-16261-260916-4",
       "debate_item_title_en": "5. Reform UK Debate: Grooming gangs",
@@ -532,8 +741,102 @@
   "canonical_name": "Nick Carter",
   "constituency_name_cy": "Caerdydd Ffynnon Taf",
   "constituency_name_en": "Caerdydd Ffynnon Taf",
-  "contribution_count": 8,
+  "contribution_count": 15,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-778956",
+          "item_id": "item-16316-261014-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Finance",
+          "lang": "en",
+          "t_start": 4837,
+          "text_english": "Cabinet Minister, I welcome this Government's commitment to review the land transaction tax and a wider ambition to encourage empty buildings back into use. With Wales barely building half the homes it needs, every empty house counts. One of my constituents in Caerdydd Ffynnon Taf, a small local property developer, has highlighted to me how the tax rules treat uninhabitable properties as residential because they can, in theory, be repaired. But these tumbledown houses, with no services, broken roofs and creeping damp are exactly the ones that we need to become homes. Yet developers pay higher rate land transaction tax on them, discouraging investment and regeneration. Although the empty homes grant helps individual home owners, developers can't use it, and the higher rates refund available for landlords leasing back to councils also doesn't apply. So, as you examine reform, would the Cabinet Minister consider a time-limited tax refund for local developers turning derelict properties into homes? Diolch.",
+          "text_original": "Cabinet Minister, I welcome this Government's commitment to review the land transaction tax and a wider ambition to encourage empty buildings back into use. With Wales barely building half the homes it needs, every empty house counts. One of my constituents in Caerdydd Ffynnon Taf, a small local property developer, has highlighted to me how the tax rules treat uninhabitable properties as residential because they can, in theory, be repaired. But these tumbledown houses, with no services, broken roofs and creeping damp are exactly the ones that we need to become homes. Yet developers pay higher rate land transaction tax on them, discouraging investment and regeneration. Although the empty homes grant helps individual home owners, developers can't use it, and the higher rates refund available for landlords leasing back to councils also doesn't apply. So, as you examine reform, would the Cabinet Minister consider a time-limited tax refund for local developers turning derelict properties into homes? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16316?startPos=4837"
+        }
+      ],
+      "date": "2026-10-14",
+      "record_page_url": "https://record.senedd.wales/Plenary/16316"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-773003",
+          "item_id": "item-16264-260929-6",
+          "item_title_en": "5. Statement by the Cabinet Minister for Local Government, Housing and Planning: The Revision of the National Development Framework and National Conversation",
+          "lang": "cy",
+          "t_start": 9617,
+          "text_english": "Thank you for your statement today.",
+          "text_original": "Diolch am eich datganiad heddiw.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=9617"
+        },
+        {
+          "id": "contribution-773005",
+          "item_id": "item-16264-260929-6",
+          "item_title_en": "5. Statement by the Cabinet Minister for Local Government, Housing and Planning: The Revision of the National Development Framework and National Conversation",
+          "lang": "en",
+          "t_start": 9619,
+          "text_english": "I'm looking forward to a new development framework for Wales so that it better serves our people, communities and businesses. Simplifying the planning process will be very welcome and will play a crucial role in increasing economic development and improving productivity. Wales is increasingly being recognised as a strategic location for the infrastructure needed to support the digital economy, but it is essential that the benefits of any investment are felt in the communities affected. Energy and resource consumption is a critical requirement for data centres, and the lack of grid capacity means these developments are often little more than power stations generating electricity from fossil fuels, with industrial-scale diesel generators as backup.\n\nIn my own constituency of Caerdydd Ffynnon Taf, a 47 MW gas-fired power station is proposed on the Cardiff east park-and-ride site, in an entirely unsuitable urban location close to schools, care homes and the new Maple Fields housing development. Therefore, the holding directive to give time for Planning and Environment Decisions Wales to consider whether to call in this application is welcome, but communities across Wales are seeking reassurance that we will avoid an unsustainable proliferation of data centres. Please can you provide an update on a specific data centre strategy for Wales as part of the national development framework? Diolch.",
+          "text_original": "I'm looking forward to a new development framework for Wales so that it better serves our people, communities and businesses. Simplifying the planning process will be very welcome and will play a crucial role in increasing economic development and improving productivity. Wales is increasingly being recognised as a strategic location for the infrastructure needed to support the digital economy, but it is essential that the benefits of any investment are felt in the communities affected. Energy and resource consumption is a critical requirement for data centres, and the lack of grid capacity means these developments are often little more than power stations generating electricity from fossil fuels, with industrial-scale diesel generators as backup.\n\nIn my own constituency of Caerdydd Ffynnon Taf, a 47 MW gas-fired power station is proposed on the Cardiff east park-and-ride site, in an entirely unsuitable urban location close to schools, care homes and the new Maple Fields housing development. Therefore, the holding directive to give time for Planning and Environment Decisions Wales to consider whether to call in this application is welcome, but communities across Wales are seeking reassurance that we will avoid an unsustainable proliferation of data centres. Please can you provide an update on a specific data centre strategy for Wales as part of the national development framework? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16264?startPos=9619"
+        }
+      ],
+      "date": "2026-09-29",
+      "record_page_url": "https://record.senedd.wales/Plenary/16264"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771491",
+          "item_id": "item-16263-260923-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and Welsh Language",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "7. What progress has the Welsh Government made on surveying the condition of school estates across Wales? OQ64531",
+          "text_original": "7. Pa gynnydd y mae Llywodraeth Cymru wedi'i wneud o ran arolygu cyflwr ystadau ysgolion ledled Cymru? OQ64531",
+          "tv_url": "http://www.senedd.tv/en/16263"
+        },
+        {
+          "id": "contribution-771480",
+          "item_id": "item-16263-260923-2",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and Welsh Language",
+          "lang": "en",
+          "t_start": 6009,
+          "text_english": "A high number of schools across my constituency of Caerdydd Ffynnon Taf are facing a maintenance backlog. Scaffolding has surrounded Roath Park primary since 2021, Marlborough Road primary since 2022 and Albany primary since 2023. The condition of a number of comprehensives is substandard and very close to being further downgraded, including the second-hand Welsh-medium comprehensives ysgol Bro Edern and ysgol Plasmawr.\n\nMost worryingly, parents at Albany Primary School were advised the week before this term started that their children would be sent out to three different schools because of dry rot. This late notice was despite Estyn warning in October 2025 that the site management arrangements at Albany Primary School, and I quote,\n\n'give cause for concern and have been brought to the attention of the local authority.'\n\nWhat discussions has the Cabinet Minister had with Cardiff Council regarding the condition of their school estate, and the council's response to Estyn in particular, and whether earlier intervention could have avoided Albany primary's closure and the severe disruption caused to pupils' education?",
+          "text_original": "A high number of schools across my constituency of Caerdydd Ffynnon Taf are facing a maintenance backlog. Scaffolding has surrounded Roath Park primary since 2021, Marlborough Road primary since 2022 and Albany primary since 2023. The condition of a number of comprehensives is substandard and very close to being further downgraded, including the second-hand Welsh-medium comprehensives ysgol Bro Edern and ysgol Plasmawr.\n\nMost worryingly, parents at Albany Primary School were advised the week before this term started that their children would be sent out to three different schools because of dry rot. This late notice was despite Estyn warning in October 2025 that the site management arrangements at Albany Primary School, and I quote,\n\n'give cause for concern and have been brought to the attention of the local authority.'\n\nWhat discussions has the Cabinet Minister had with Cardiff Council regarding the condition of their school estate, and the council's response to Estyn in particular, and whether earlier intervention could have avoided Albany primary's closure and the severe disruption caused to pupils' education?",
+          "tv_url": "http://www.senedd.tv/en/16263?startPos=6009"
+        }
+      ],
+      "date": "2026-09-23",
+      "record_page_url": "https://record.senedd.wales/Plenary/16263"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-771082",
+          "item_id": "item-16262-260922-7",
+          "item_title_en": "7. Statement by the Cabinet Minister for Local Government, Housing and Planning: Building Safety Programme Update",
+          "lang": "cy",
+          "t_start": 18657,
+          "text_english": "Thank you, Minister, for your statement today.",
+          "text_original": "Diolch, Weinidog, am eich datganiad heddiw.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=18657"
+        },
+        {
+          "id": "contribution-771083",
+          "item_id": "item-16262-260922-7",
+          "item_title_en": "7. Statement by the Cabinet Minister for Local Government, Housing and Planning: Building Safety Programme Update",
+          "lang": "en",
+          "t_start": 18662,
+          "text_english": "I appreciate the update and that this Government is taking this work seriously to better support impacted residents. For years now, residents have been afraid in their own homes and have felt that this issue has not been given the attention it deserves. Despite receiving assurances that their property was safe when they moved in, one resident in Cardiff has shared that they face a £3,000 cost for a waking watch, which costs £15,000 a week between 96 flats, and the management company are having to find £150,000 to install fire-detecting equipment. Without the necessary improvements, residents have faced the possibility of being made homeless as their homes aren't safe to live in. I welcome the Minister introducing financial support as an interim measure while remediation works are carried out. How will the Minister make sure tenants don't have to pay out of pocket for remediation work again? Diolch.",
+          "text_original": "I appreciate the update and that this Government is taking this work seriously to better support impacted residents. For years now, residents have been afraid in their own homes and have felt that this issue has not been given the attention it deserves. Despite receiving assurances that their property was safe when they moved in, one resident in Cardiff has shared that they face a £3,000 cost for a waking watch, which costs £15,000 a week between 96 flats, and the management company are having to find £150,000 to install fire-detecting equipment. Without the necessary improvements, residents have faced the possibility of being made homeless as their homes aren't safe to live in. I welcome the Minister introducing financial support as an interim measure while remediation works are carried out. How will the Minister make sure tenants don't have to pay out of pocket for remediation work again? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16262?startPos=18662"
+        }
+      ],
+      "date": "2026-09-22",
+      "record_page_url": "https://record.senedd.wales/Plenary/16262"
+    },
     {
       "contributions": [
         {
