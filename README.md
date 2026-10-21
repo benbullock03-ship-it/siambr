@@ -28,9 +28,4 @@ cd frontend && npm ci && npm run build && npx vitest run && npx playwright test
 
 Both need two repository secrets for Cloudflare Pages (project name `siambr`):
 
-| Secret | Where it comes from |
-|---|---|
-| `CLOUDFLARE_API_TOKEN` | Cloudflare dashboard, My Profile, API Tokens: a token with the *Cloudflare Pages: Edit* permission on the account. |
-| `CLOUDFLARE_ACCOUNT_ID` | Cloudflare dashboard, Workers & Pages overview, right-hand column. |
 
-Create the Pages project once with `npx wrangler pages project create siambr --production-branch=main`, or from the dashboard, before the first deploy.
