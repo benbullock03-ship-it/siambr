@@ -1,5 +1,44 @@
 [
   {
+    "contribution_count": 36,
+    "date": "2026-10-20",
+    "id": "plenary-16317",
+    "item_count": 1,
+    "items": [
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16317-261020-1",
+        "order": 0,
+        "policy_domain_id": "devolution",
+        "speaker_ids": [
+          "ms-adrian-mason",
+          "ms-anna-nicholl",
+          "ms-catherine-cullen",
+          "ms-darren-millar",
+          "ms-helen-jenner",
+          "ms-huw-irranca-davies",
+          "ms-janet-finch-saunders",
+          "ms-ken-skates",
+          "ms-lyn-ackerman",
+          "ms-paul-davies",
+          "ms-rhun-ap-iorwerth",
+          "ms-steven-rodaway"
+        ],
+        "title_cy": "1. Cwestiynau i'r Prif Weinidog",
+        "title_en": "1. Questions to the First Minister",
+        "type": "oral_questions"
+      }
+    ],
+    "meeting_id": 16317,
+    "meeting_start_time": "13:30:00",
+    "record_page_url": "https://record.senedd.wales/Plenary/16317",
+    "record_published_at": "2026-10-20T14:39:58",
+    "source_xml_url": "https://record.senedd.wales/XMLExport/Download?meetingID=16317&xmlDownloadType=BilingualTranscript",
+    "term": 7,
+    "title_cy": "Cyfarfod Llawn",
+    "title_en": "Plenary"
+  },
+  {
     "contribution_count": 240,
     "date": "2026-10-14",
     "id": "plenary-16316",

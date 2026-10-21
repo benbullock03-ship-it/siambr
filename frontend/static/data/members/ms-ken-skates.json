@@ -741,8 +741,24 @@
   "canonical_name": "Ken Skates",
   "constituency_name_cy": "Fflint Wrecsam",
   "constituency_name_en": "Fflint Wrecsam",
-  "contribution_count": 61,
+  "contribution_count": 62,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-779736",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 1200,
+          "text_english": "First Minister, I don't think we can wait for the devolution of broadcasting, and, indeed, devolution of broadcasting in itself will not protect BBC Wales from cuts being imposed by the board centrally in London. It needs protection right now. We shouldn't have radio silence from the Welsh Government over what's happening at the BBC. It's as though Ministers are content to sit on their hands whilst our democracy is weakened. \n\nNow another issue over which Plaid Cymru members sat on their hands is the Hillsborough law. In the last Senedd term, your party abstained on a crucial consent motion. When the matter returns to this Chamber, will you commit to vote with Welsh Labour and support the fight for justice for the 97 and their families?",
+          "text_original": "First Minister, I don't think we can wait for the devolution of broadcasting, and, indeed, devolution of broadcasting in itself will not protect BBC Wales from cuts being imposed by the board centrally in London. It needs protection right now. We shouldn't have radio silence from the Welsh Government over what's happening at the BBC. It's as though Ministers are content to sit on their hands whilst our democracy is weakened. \n\nNow another issue over which Plaid Cymru members sat on their hands is the Hillsborough law. In the last Senedd term, your party abstained on a crucial consent motion. When the matter returns to this Chamber, will you commit to vote with Welsh Labour and support the fight for justice for the 97 and their families?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=1200"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
+    },
     {
       "contributions": [
         {

@@ -741,8 +741,34 @@
   "canonical_name": "Paul Davies",
   "constituency_name_cy": "Ceredigion Penfro",
   "constituency_name_en": "Ceredigion Penfro",
-  "contribution_count": 52,
+  "contribution_count": 54,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-779742",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 277,
+          "text_english": "I echo the points raised by the Member for Casnewydd Islwyn about the importance of these annual health checks. It's important that GPs make reasonable adjustments for these annual health checks as well, and that could mean anything from having a quiet space available for people waiting for their appointment to offering a longer appointment for some patients. Now, last week, I met with Mencap Cymru to hear about",
+          "text_original": "I echo the points raised by the Member for Casnewydd Islwyn about the importance of these annual health checks. It's important that GPs make reasonable adjustments for these annual health checks as well, and that could mean anything from having a quiet space available for people waiting for their appointment to offering a longer appointment for some patients. Now, last week, I met with Mencap Cymru to hear about",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=277"
+        },
+        {
+          "id": "contribution-779714",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 300,
+          "text_english": "to hear about their 'I'm in' campaign, which highlights the importance of GP learning disability registers as a gateway to accessing annual health checks. Now, for many years, organisations such as Mencap Cymru have highlighted the importance of increasing annual health check uptake, and ensuring they are delivered to a consistently high standard.\n\nSo, therefore, First Minister, can you tell us what support does the Welsh Government provide to local health boards to help GP practices make reasonable adjustments, so that these annual health checks are as accessible and as comfortable as possible for people with learning disabilities?",
+          "text_original": "to hear about their 'I'm in' campaign, which highlights the importance of GP learning disability registers as a gateway to accessing annual health checks. Now, for many years, organisations such as Mencap Cymru have highlighted the importance of increasing annual health check uptake, and ensuring they are delivered to a consistently high standard.\n\nSo, therefore, First Minister, can you tell us what support does the Welsh Government provide to local health boards to help GP practices make reasonable adjustments, so that these annual health checks are as accessible and as comfortable as possible for people with learning disabilities?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=300"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
+    },
     {
       "contributions": [
         {

@@ -741,8 +741,34 @@
   "canonical_name": "Catherine Cullen",
   "constituency_name_cy": "Blaenau Gwent Caerffili Rhymni",
   "constituency_name_en": "Blaenau Gwent Caerffili Rhymni",
-  "contribution_count": 24,
+  "contribution_count": 26,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-779746",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "3. What action is the Welsh Government taking to improve the support provided to adopted and care-experienced children and young people? OQ64755",
+          "text_original": "3. Pa gamau y mae Llywodraeth Cymru yn eu cymryd i wella'r cymorth a ddarperir i blant a phobl ifanc mabwysiedig a'r rhai sydd â phrofiad o fod mewn gofal? OQ64755",
+          "tv_url": "http://www.senedd.tv/en/16317"
+        },
+        {
+          "id": "contribution-779751",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 1695,
+          "text_english": "In the August 2026 report, Care Inspectorate Wales found that adoption support remained inconsistent, with waiting lists across almost every region collaborative. The average number of days taken for children to move from the decision that they should be placed for adoption to actually being in place varied considerably across Wales, with the lowest figure of 248 days waiting in the Western Bay Adoption Service to a high of 450 days waiting in the Adoption Mid and West Wales collaborative. It is apparent that you want to build a united Wales, but in what modern nation is it acceptable for a child to wait an additional 202 days to get the outcome they need in one region compared to the other? This is not timely.\n\nHaving experienced the care system myself, both as a child and as an adoptive parent, I know the struggle first-hand. So, my question is simple: what specifically is this Government going to do to close these gaps and ensure equitable support nationwide?",
+          "text_original": "In the August 2026 report, Care Inspectorate Wales found that adoption support remained inconsistent, with waiting lists across almost every region collaborative. The average number of days taken for children to move from the decision that they should be placed for adoption to actually being in place varied considerably across Wales, with the lowest figure of 248 days waiting in the Western Bay Adoption Service to a high of 450 days waiting in the Adoption Mid and West Wales collaborative. It is apparent that you want to build a united Wales, but in what modern nation is it acceptable for a child to wait an additional 202 days to get the outcome they need in one region compared to the other? This is not timely.\n\nHaving experienced the care system myself, both as a child and as an adoptive parent, I know the struggle first-hand. So, my question is simple: what specifically is this Government going to do to close these gaps and ensure equitable support nationwide?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=1695"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
+    },
     {
       "contributions": [
         {

@@ -1,0 +1,167 @@
+{
+  "by_item": [
+    {
+      "contributions": 36,
+      "item_id": "item-16317-261020-1",
+      "order": 0,
+      "policy_domain_id": "devolution",
+      "seconds": 1750.0,
+      "title_cy": "1. Cwestiynau i'r Prif Weinidog",
+      "title_en": "1. Questions to the First Minister",
+      "type": "oral_questions",
+      "untimed_contributions": 3
+    }
+  ],
+  "by_member": [
+    {
+      "canonical_name": "Rhun ap Iorwerth",
+      "contributions": 15,
+      "member_id": "ms-rhun-ap-iorwerth",
+      "party_id": "plaid_cymru",
+      "seconds": 680.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Helen Jenner",
+      "contributions": 2,
+      "member_id": "ms-helen-jenner",
+      "party_id": "reform_uk",
+      "seconds": 375.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Darren Millar",
+      "contributions": 3,
+      "member_id": "ms-darren-millar",
+      "party_id": "conservatives",
+      "seconds": 174.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Steven Rodaway",
+      "contributions": 1,
+      "member_id": "ms-steven-rodaway",
+      "party_id": "reform_uk",
+      "seconds": 111.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Janet Finch-Saunders",
+      "contributions": 1,
+      "member_id": "ms-janet-finch-saunders",
+      "party_id": "conservatives",
+      "seconds": 66.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Anna Nicholl",
+      "contributions": 2,
+      "member_id": "ms-anna-nicholl",
+      "party_id": "plaid_cymru",
+      "seconds": 64.0,
+      "untimed_contributions": 1
+    },
+    {
+      "canonical_name": "Paul Davies",
+      "contributions": 2,
+      "member_id": "ms-paul-davies",
+      "party_id": "conservatives",
+      "seconds": 63.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Catherine Cullen",
+      "contributions": 2,
+      "member_id": "ms-catherine-cullen",
+      "party_id": "reform_uk",
+      "seconds": 55.0,
+      "untimed_contributions": 1
+    },
+    {
+      "canonical_name": "Adrian Mason",
+      "contributions": 2,
+      "member_id": "ms-adrian-mason",
+      "party_id": "reform_uk",
+      "seconds": 45.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Ken Skates",
+      "contributions": 1,
+      "member_id": "ms-ken-skates",
+      "party_id": "labour",
+      "seconds": 44.0,
+      "untimed_contributions": 0
+    },
+    {
+      "canonical_name": "Lyn Ackerman",
+      "contributions": 2,
+      "member_id": "ms-lyn-ackerman",
+      "party_id": "plaid_cymru",
+      "seconds": 38.0,
+      "untimed_contributions": 1
+    },
+    {
+      "canonical_name": "Huw Irranca-Davies",
+      "contributions": 3,
+      "member_id": "ms-huw-irranca-davies",
+      "party_id": "labour",
+      "seconds": 35.0,
+      "untimed_contributions": 0
+    }
+  ],
+  "by_party": [
+    {
+      "contributions": 19,
+      "members": 3,
+      "party_id": "plaid_cymru",
+      "seconds": 782.0,
+      "untimed_contributions": 2
+    },
+    {
+      "contributions": 7,
+      "members": 4,
+      "party_id": "reform_uk",
+      "seconds": 586.0,
+      "untimed_contributions": 1
+    },
+    {
+      "contributions": 6,
+      "members": 3,
+      "party_id": "conservatives",
+      "seconds": 303.0,
+      "untimed_contributions": 0
+    },
+    {
+      "contributions": 4,
+      "members": 2,
+      "party_id": "labour",
+      "seconds": 79.0,
+      "untimed_contributions": 0
+    }
+  ],
+  "date": "2026-10-20",
+  "method": "Speaking time is the gap between a contribution's Senedd TV start and the next timed contribution's start. Untimed contributions carry no time. Where contributions share a start, the gap is split equally between them. The last timed contribution of a sitting has no next start, so it carries no time.",
+  "provenance": "PROVENANCE_DERIVED",
+  "record_published_at": "2026-10-20T14:39:58",
+  "source_xml_url": "https://record.senedd.wales/XMLExport/Download?meetingID=16317&xmlDownloadType=BilingualTranscript",
+  "term": 7,
+  "title_cy": "Cyfarfod Llawn",
+  "title_en": "Plenary",
+  "totals": {
+    "contributions": 36,
+    "divisions": 0,
+    "speaking_seconds": 1750.0,
+    "timed_contributions": 33,
+    "unattributed_contributions": 0,
+    "unattributed_seconds": 0.0,
+    "untimed_contributions": 3,
+    "welsh_contributions": 8,
+    "welsh_share": 0.222
+  },
+  "unattributed": {
+    "contributions": 0,
+    "seconds": 0.0,
+    "untimed_contributions": 0
+  }
+}

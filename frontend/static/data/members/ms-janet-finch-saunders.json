@@ -741,8 +741,24 @@
   "canonical_name": "Janet Finch-Saunders",
   "constituency_name_cy": "Bangor Conwy Môn",
   "constituency_name_en": "Bangor Conwy Môn",
-  "contribution_count": 75,
+  "contribution_count": 76,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-779739",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 645,
+          "text_english": "We on these benches very much value greater co-operation and increased trade with Ireland. Around 1.5 million passenger journeys are made between Wales and Ireland each year through Holyhead port, making it a vital gateway between the two nations. Holyhead handled 4.3 million tonnes of freight between Ireland and Wales in 2024, which is more than any other Welsh port. The 2.4 km Holyhead breakwater is approximately 150 years old and needs work done to it. First Minister, closer co-operation with Ireland must be demonstrated through delivering not simply warm words. Your Government inherited a £40 million commitment to Holyhead breakwater, together with a clear warning that its failure could ultimately close the port. With Welsh-Irish connectivity, trade and around 700 local jobs dependent on resilient port infrastructure, why is there still no firm timetable, and when exactly will the refurbishment begin and be completed?",
+          "text_original": "We on these benches very much value greater co-operation and increased trade with Ireland. Around 1.5 million passenger journeys are made between Wales and Ireland each year through Holyhead port, making it a vital gateway between the two nations. Holyhead handled 4.3 million tonnes of freight between Ireland and Wales in 2024, which is more than any other Welsh port. The 2.4 km Holyhead breakwater is approximately 150 years old and needs work done to it. First Minister, closer co-operation with Ireland must be demonstrated through delivering not simply warm words. Your Government inherited a £40 million commitment to Holyhead breakwater, together with a clear warning that its failure could ultimately close the port. With Welsh-Irish connectivity, trade and around 700 local jobs dependent on resilient port infrastructure, why is there still no firm timetable, and when exactly will the refurbishment begin and be completed?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=645"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
+    },
     {
       "contributions": [
         {

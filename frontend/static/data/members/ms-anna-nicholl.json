@@ -741,8 +741,34 @@
   "canonical_name": "Anna Nicholl",
   "constituency_name_cy": "Ceredigion Penfro",
   "constituency_name_en": "Ceredigion Penfro",
-  "contribution_count": 37,
+  "contribution_count": 39,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-779723",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "2. How is the First Minister strengthening co-operation with the Republic of Ireland? OQ64788",
+          "text_original": "2. Sut mae'r Prif Weinidog yn cryfhau cydweithrediad â Gweriniaeth Iwerddon? OQ64788",
+          "tv_url": "http://www.senedd.tv/en/16317"
+        },
+        {
+          "id": "contribution-779729",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 450,
+          "text_english": "Diolch. And I welcome the Ireland-Wales shared statement 2030, committing our nations to strengthening cultural partnerships and artistic exchange. In my constituency, Other Voices Cardigan has become one of the most vibrant and successful examples of that ambition. Since 2019, it's brought together Welsh and Irish artists, audiences and communities, thanks to support from the Welsh Government, the Irish Government and broadcasters. The festival has delivered significant economic benefits for Aberteifi, increased numbers visiting from Ireland to west Wales, and created lasting creative partnerships between musicians from both countries. \n\nSadly, a late decision to reduce funding this year means the festival isn't taking place. So, a multi-year funding agreement is now vital to enable the festival to continue to plan for future years. So, will the First Minister explore this potential with his Irish counterparts, to help secure the long-term future of Other Voices Cardigan, and strengthen Wales-Ireland relations for years to come?",
+          "text_original": "Diolch. And I welcome the Ireland-Wales shared statement 2030, committing our nations to strengthening cultural partnerships and artistic exchange. In my constituency, Other Voices Cardigan has become one of the most vibrant and successful examples of that ambition. Since 2019, it's brought together Welsh and Irish artists, audiences and communities, thanks to support from the Welsh Government, the Irish Government and broadcasters. The festival has delivered significant economic benefits for Aberteifi, increased numbers visiting from Ireland to west Wales, and created lasting creative partnerships between musicians from both countries. \n\nSadly, a late decision to reduce funding this year means the festival isn't taking place. So, a multi-year funding agreement is now vital to enable the festival to continue to plan for future years. So, will the First Minister explore this potential with his Irish counterparts, to help secure the long-term future of Other Voices Cardigan, and strengthen Wales-Ireland relations for years to come?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=450"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
+    },
     {
       "contributions": [
         {

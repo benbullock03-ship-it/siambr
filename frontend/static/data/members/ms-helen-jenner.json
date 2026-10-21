@@ -741,8 +741,34 @@
   "canonical_name": "Helen Jenner",
   "constituency_name_cy": "Bangor Conwy Môn",
   "constituency_name_en": "Bangor Conwy Môn",
-  "contribution_count": 48,
+  "contribution_count": 50,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-779755",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 788,
+          "text_english": "Diolch, Lywydd. I want to firstly pay tribute to the Aberfan tragedy, which took place 60 years ago tomorrow. We'll never forget the lives lost and the community forever scarred by this devastating event. I appreciate the Government is making a statement on this later today, and I welcome the opportunity to pay further tribute then.\n\nLlywydd, we are coming to the end of a very long half term, but whatever fatigue we might be feeling here in this Chamber, quadruple that and you might get somewhere near to how our teachers are feeling. It's not just down to the day-to-day workload; teachers are under immense strain when it comes to managing students' behaviour. More and more teachers are reporting high levels of verbal and physical abuse from students, and many are beginning to feel unsafe at work. First Minister, we've heard a lot about this Government's new literacy and numeracy frameworks, but will your Government now commit to delivering a robust behaviour framework, and will it include zero tolerance on violence, which would protect school staff from the sort of abuse that isn't accepted in other public institutions? Because what's currently in place across schools in Wales is clearly not fit for purpose.",
+          "text_original": "Diolch, Lywydd. I want to firstly pay tribute to the Aberfan tragedy, which took place 60 years ago tomorrow. We'll never forget the lives lost and the community forever scarred by this devastating event. I appreciate the Government is making a statement on this later today, and I welcome the opportunity to pay further tribute then.\n\nLlywydd, we are coming to the end of a very long half term, but whatever fatigue we might be feeling here in this Chamber, quadruple that and you might get somewhere near to how our teachers are feeling. It's not just down to the day-to-day workload; teachers are under immense strain when it comes to managing students' behaviour. More and more teachers are reporting high levels of verbal and physical abuse from students, and many are beginning to feel unsafe at work. First Minister, we've heard a lot about this Government's new literacy and numeracy frameworks, but will your Government now commit to delivering a robust behaviour framework, and will it include zero tolerance on violence, which would protect school staff from the sort of abuse that isn't accepted in other public institutions? Because what's currently in place across schools in Wales is clearly not fit for purpose.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=788"
+        },
+        {
+          "id": "contribution-779762",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 892,
+          "text_english": "First Minister, a well-known issue with behaviour in schools is linked to students having access to their mobile phones. At the end of July this year, schools across the border in England were given clarity on mobile phone use",
+          "text_original": "First Minister, a well-known issue with behaviour in schools is linked to students having access to their mobile phones. At the end of July this year, schools across the border in England were given clarity on mobile phone use",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=892"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
+    },
     {
       "contributions": [
         {

@@ -741,8 +741,34 @@
   "canonical_name": "Lyn Ackerman",
   "constituency_name_cy": "Casnewydd Islwyn",
   "constituency_name_en": "Casnewydd Islwyn",
-  "contribution_count": 12,
+  "contribution_count": 14,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-779726",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "1. What assessment has the First Minister made of the uptake of annual health checks among adults with learning disabilities? OQ64798",
+          "text_original": "1. Pa asesiad y mae'r Prif Weinidog wedi'i wneud o'r niferoedd sy'n manteisio ar wiriadau iechyd blynyddol ymhlith oedolion ag anableddau dysgu? OQ64798",
+          "tv_url": "http://www.senedd.tv/en/16317"
+        },
+        {
+          "id": "contribution-779732",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 82,
+          "text_english": "First Minister, I welcome the inclusion of annual health checks in GP contracts and the new national pathway. Could you give me more detail on how the Welsh Government is working with the health boards and with GP practices to keep learning disability registers accurate, make invitations and appointments accessible and how these figures can guide further support to increase uptake?",
+          "text_original": "First Minister, I welcome the inclusion of annual health checks in GP contracts and the new national pathway. Could you give me more detail on how the Welsh Government is working with the health boards and with GP practices to keep learning disability registers accurate, make invitations and appointments accessible and how these figures can guide further support to increase uptake?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=82"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
+    },
     {
       "contributions": [
         {

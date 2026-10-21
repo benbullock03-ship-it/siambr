@@ -741,8 +741,44 @@
   "canonical_name": "Huw Irranca-Davies",
   "constituency_name_cy": "Afan Ogwr Rhondda",
   "constituency_name_en": "Afan Ogwr Rhondda",
-  "contribution_count": 747,
+  "contribution_count": 750,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-779719",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 1,
+          "text_english": "Good afternoon, everybody. We will begin this afternoon with questions to the First Minister. Question 1, Lyn Ackerman.",
+          "text_original": "Prynhawn da, bawb. Rydyn ni'n dechrau nawr gyda cwestiynau i'r Prif Weinidog. Cwestiwn 1, Lyn Ackerman.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=1"
+        },
+        {
+          "id": "contribution-779749",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 780,
+          "text_english": "I now call on the party leaders to question the First Minister. First, leader of Reform UK, Helen Jenner.",
+          "text_original": "Galwaf yn awr ar arweinwyr y pleidiau i holi'r Prif Weinidog. Yn gyntaf, arweinydd Reform UK, Helen Jenner.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=780"
+        },
+        {
+          "id": "contribution-779750",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 1315,
+          "text_english": "The leader of the Welsh Conservatives, Darren Millar.",
+          "text_original": "Arweinydd y Ceidwadwyr Cymreig, Darren Millar.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=1315"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
+    },
     {
       "contributions": [
         {

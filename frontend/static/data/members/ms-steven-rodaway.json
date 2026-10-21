@@ -741,8 +741,24 @@
   "canonical_name": "Steven Rodaway",
   "constituency_name_cy": "Gŵyr Abertawe",
   "constituency_name_en": "Gŵyr Abertawe",
-  "contribution_count": 27,
+  "contribution_count": 28,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-779737",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 122,
+          "text_english": "First Minister, once an annual health check identifies a need, responsibility should not fall on the individual to fight for treatment. People with learning disabilities need a clear, funded pathway to further test, specialist assessment and treatment. Welsh Labour's Lynne Neagle cited £550 million over three years from Westminster for ALN. We know not all this money will be allocated to ALN, and much will go to other manifesto commitments and pledges. Last week, your finance Minister didn't, couldn't or wouldn't answer my question on Cynnal, but delivered another Plaid word salad with no answers. Show some transparency on what the rest of the £550 million is being used for. Will it support treatment protocols for people with learning disabilities? If not, please identify the specific NHS budget that funds this pathway. Thank you.",
+          "text_original": "First Minister, once an annual health check identifies a need, responsibility should not fall on the individual to fight for treatment. People with learning disabilities need a clear, funded pathway to further test, specialist assessment and treatment. Welsh Labour's Lynne Neagle cited £550 million over three years from Westminster for ALN. We know not all this money will be allocated to ALN, and much will go to other manifesto commitments and pledges. Last week, your finance Minister didn't, couldn't or wouldn't answer my question on Cynnal, but delivered another Plaid word salad with no answers. Show some transparency on what the rest of the £550 million is being used for. Will it support treatment protocols for people with learning disabilities? If not, please identify the specific NHS budget that funds this pathway. Thank you.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=122"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
+    },
     {
       "contributions": [
         {
