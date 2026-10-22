@@ -1,13 +1,13 @@
 {
-  "checked_at": "2026-10-21T03:36:24Z",
-  "generated_at": "2026-10-20T14:39:58",
+  "checked_at": "2026-10-22T00:05:39Z",
+  "generated_at": "2026-10-21T14:45:31",
   "meetings": {
     "listed": 6,
     "unavailable": 0
   },
-  "newest_sitting": "2026-10-20",
+  "newest_sitting": "2026-10-21",
   "schema_version": "011_unattributed_speakers",
-  "sittings": 26,
+  "sittings": 27,
   "unattributed": {
     "contributions": 30,
     "sittings": 3

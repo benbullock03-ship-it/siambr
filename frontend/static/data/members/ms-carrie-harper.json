@@ -741,8 +741,24 @@
   "canonical_name": "Carrie Harper",
   "constituency_name_cy": "Fflint Wrecsam",
   "constituency_name_en": "Fflint Wrecsam",
-  "contribution_count": 25,
+  "contribution_count": 26,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780481",
+          "item_id": "item-16318-261021-2",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "en",
+          "t_start": 2404,
+          "text_english": "Diolch yn fawr. The Plaid Cymru manifesto sets a target to significantly increase the amount of public procurement spending within Wales to 70 per cent. Now, given we spend £11 billion every year on public procurement, there's enormous potential there, isn't there, to better support Welsh businesses, potentially to create tens of thousands of jobs and to boost local supply chains as well. And the best bit, of course, is that this isn't new money, this is money that we're already spending. We need to spend it smarter; we need to make sure more of it goes to local businesses, to our workers and to our communities. So, can the Minister outline what practical steps he's taking to attain that 70 per cent target, and how we plan to measure progress? Diolch.",
+          "text_original": "Diolch yn fawr. The Plaid Cymru manifesto sets a target to significantly increase the amount of public procurement spending within Wales to 70 per cent. Now, given we spend £11 billion every year on public procurement, there's enormous potential there, isn't there, to better support Welsh businesses, potentially to create tens of thousands of jobs and to boost local supply chains as well. And the best bit, of course, is that this isn't new money, this is money that we're already spending. We need to spend it smarter; we need to make sure more of it goes to local businesses, to our workers and to our communities. So, can the Minister outline what practical steps he's taking to attain that 70 per cent target, and how we plan to measure progress? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=2404"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
     {
       "contributions": [
         {

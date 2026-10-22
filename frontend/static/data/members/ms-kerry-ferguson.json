@@ -741,8 +741,94 @@
   "canonical_name": "Kerry Ferguson",
   "constituency_name_cy": "Ceredigion Penfro",
   "constituency_name_en": "Ceredigion Penfro",
-  "contribution_count": 434,
+  "contribution_count": 442,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780432",
+          "item_id": "item-16318-261021-1",
+          "item_title_en": "Statement by the Deputy Presiding Officer",
+          "lang": "cy",
+          "t_start": 1,
+          "text_english": "Good afternoon, Members. Today, we mark the sixtieth anniversary of the Aberfan disaster, in which 116 children and 28 adults lost their lives on 21 October 1966. Before we begin this afternoon's business, I invite Members to observe a minute's silence in rememberance of Aberfan.",
+          "text_original": "Prynhawn da, Aelodau. Heddiw, rydym yn nodi 60 mlynedd ers trychineb Aberfan, pan gollodd 116 o blant a 28 o oedolion eu bywydau ar 21 Hydref 1966. Cyn i ni ddechrau busnes y prynhawn yma, gwahoddaf yr Aelodau i nodi munud o dawelwch i gofio am Aberfan.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=1"
+        },
+        {
+          "id": "contribution-780437",
+          "item_id": "item-16318-261021-1",
+          "item_title_en": "Statement by the Deputy Presiding Officer",
+          "lang": "cy",
+          "t_start": 92,
+          "text_english": "",
+          "text_original": "Diolch yn fawr iawn.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=92"
+        },
+        {
+          "id": "contribution-780436",
+          "item_id": "item-16318-261021-2",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "cy",
+          "t_start": 96,
+          "text_english": "Item 1 on our agenda today is questions to the Cabinet Minister for Enterprise, Connectivity and Energy. And the first question is from Lynne Neagle.",
+          "text_original": "Eitem 1 ar yr agenda heddiw, cwestiynau i’r Gweinidog Cabinet dros Fenter, Cysylltedd ac Ynni. Cwestiwn 1, Lynne Neagle.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=96"
+        },
+        {
+          "id": "contribution-780451",
+          "item_id": "item-16318-261021-2",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "en",
+          "t_start": 196,
+          "text_english": "Can you come to the question, please, Lynne?",
+          "text_original": "Can you come to the question, please, Lynne?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=196"
+        },
+        {
+          "id": "contribution-780458",
+          "item_id": "item-16318-261021-2",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "cy",
+          "t_start": 950,
+          "text_english": "I now call the party spokespeople to question the Cabinet Minister. Reform UK spokesperson, Jason O'Connell.",
+          "text_original": "Galwaf ar lefarwyr y pleidiau i holi'r Gweinidog Cabinet. Llefarydd Reform UK, Jason O'Connell.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=950"
+        },
+        {
+          "id": "contribution-780464",
+          "item_id": "item-16318-261021-2",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "cy",
+          "t_start": 1377,
+          "text_english": "Welsh Labour spokesperson, Shav Taj.",
+          "text_original": "Llefarydd Llafur Cymru, Shav Taj.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=1377"
+        },
+        {
+          "id": "contribution-780468",
+          "item_id": "item-16318-261021-2",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "cy",
+          "t_start": 1475,
+          "text_english": "Welsh Conservative spokesperson, Janet Finch-Saunders.",
+          "text_original": "Llefarydd y Ceidwadwyr Cymreig, Janet Finch-Saunders.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=1475"
+        },
+        {
+          "id": "contribution-780484",
+          "item_id": "item-16318-261021-2",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "en",
+          "t_start": 1541,
+          "text_english": "Can we have the question, please?",
+          "text_original": "Can we have the question, please?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=1541"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
     {
       "contributions": [
         {

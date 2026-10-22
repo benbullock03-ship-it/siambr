@@ -741,8 +741,24 @@
   "canonical_name": "Elyn Stephens",
   "constituency_name_cy": "Afan Ogwr Rhondda",
   "constituency_name_en": "Afan Ogwr Rhondda",
-  "contribution_count": 22,
+  "contribution_count": 23,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780482",
+          "item_id": "item-16318-261021-2",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "en",
+          "t_start": 1921,
+          "text_english": "Gweinidog Cabinet, I visited National Grid at Margam substation over the summer to discuss the connection to the Port Talbot substation needed for Tata Steel's electric arc furnace. National Grid there explained that there were a number of unexpected barriers, as the Member has previously alluded to, for example poor ground conditions that increase the number of piles required in the ground from the initial 400 to 11,000, adding an estimated 34 weeks to complete construction. They also outlined plans to recover some of that lost time. Given the importance of the project to the future of steel making in Port Talbot, can the Gweinidog confirm whether any progress has been made in reducing that 34 week delay and whether there is scope to shorten the construction programme further?",
+          "text_original": "Gweinidog Cabinet, I visited National Grid at Margam substation over the summer to discuss the connection to the Port Talbot substation needed for Tata Steel's electric arc furnace. National Grid there explained that there were a number of unexpected barriers, as the Member has previously alluded to, for example poor ground conditions that increase the number of piles required in the ground from the initial 400 to 11,000, adding an estimated 34 weeks to complete construction. They also outlined plans to recover some of that lost time. Given the importance of the project to the future of steel making in Port Talbot, can the Gweinidog confirm whether any progress has been made in reducing that 34 week delay and whether there is scope to shorten the construction programme further?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=1921"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
     {
       "contributions": [
         {

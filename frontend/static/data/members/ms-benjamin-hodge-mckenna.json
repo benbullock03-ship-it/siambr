@@ -741,8 +741,44 @@
   "canonical_name": "Benjamin Hodge Mckenna",
   "constituency_name_cy": "Afan Ogwr Rhondda",
   "constituency_name_en": "Afan Ogwr Rhondda",
-  "contribution_count": 42,
+  "contribution_count": 45,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780509",
+          "item_id": "item-16318-261021-2",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "3. What discussions is the Government having with National Grid regarding the electric arc furnace installation in Port Talbot? OQ64761",
+          "text_original": "3. Pa drafodaethau y mae'r Llywodraeth yn eu cynnal gyda'r Grid Cenedlaethol ynglŷn â gosod ffwrnais arc drydan ym Mhort Talbot? OQ64761",
+          "tv_url": "http://www.senedd.tv/en/16318"
+        },
+        {
+          "id": "contribution-780514",
+          "item_id": "item-16318-261021-2",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "en",
+          "t_start": 1759,
+          "text_english": "Diolch, Weinidog. The decision to close the blast furnaces in Port Talbot was disastrous for my local community. Thousands of jobs were lost and the impact on the wider economy is severe. The National Grid connection offer for the new electric arc furnace was contracted for the end of 2027. However, a range of factors such as planning and ground conditions are threatening to delay the project, and some sources are saying that it could be as late as 2029 before the new furnace comes online.\n\nPreviously, you've mentioned that the Welsh Government is not a party to the commercial agreement between National Grid and Tata, but I'd like to ask what conversations you've had",
+          "text_original": "Diolch, Weinidog. The decision to close the blast furnaces in Port Talbot was disastrous for my local community. Thousands of jobs were lost and the impact on the wider economy is severe. The National Grid connection offer for the new electric arc furnace was contracted for the end of 2027. However, a range of factors such as planning and ground conditions are threatening to delay the project, and some sources are saying that it could be as late as 2029 before the new furnace comes online.\n\nPreviously, you've mentioned that the Welsh Government is not a party to the commercial agreement between National Grid and Tata, but I'd like to ask what conversations you've had",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=1759"
+        },
+        {
+          "id": "contribution-780469",
+          "item_id": "item-16318-261021-2",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "en",
+          "t_start": 1800,
+          "text_english": "but I'd like to ask what conversations you've had with National Grid regarding these delays and what further action will you take to prevent any further issues that could harm jobs and the local economy in Port Talbot. Diolch.",
+          "text_original": "but I'd like to ask what conversations you've had with National Grid regarding these delays and what further action will you take to prevent any further issues that could harm jobs and the local economy in Port Talbot. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=1800"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
     {
       "contributions": [
         {

@@ -741,8 +741,34 @@
   "canonical_name": "Catherine Cullen",
   "constituency_name_cy": "Blaenau Gwent Caerffili Rhymni",
   "constituency_name_en": "Blaenau Gwent Caerffili Rhymni",
-  "contribution_count": 26,
+  "contribution_count": 28,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780497",
+          "item_id": "item-16318-261021-2",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "6. What action is the Cabinet Minister taking to ensure that grants in the defence sector are delivered in a timely manner? OQ64756",
+          "text_original": "6. Pa gamau y mae'r Gweinidog Cabinet yn eu cymryd i sicrhau bod grantiau yn y sector amddiffyn yn cael eu cyflwyno mewn modd amserol? OQ64756",
+          "tv_url": "http://www.senedd.tv/en/16318"
+        },
+        {
+          "id": "contribution-780502",
+          "item_id": "item-16318-261021-2",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "en",
+          "t_start": 2604,
+          "text_english": "Diolch. Earlier this year, I visited PMB Battery Technologies UK Ltd, a cutting-edge research and manufacturing company that operates facilities in Ebbw Vale and in Adelaide, Australia. This is a company specialising in advanced battery technology, and a great benefit to the local economy and the people it employs. That day, I met directly with apprentices at the company, young people from Ebbw Vale and the local area, fresh out of education, now in high-skilled and well-paid, meaningful employment. This is exactly the sort of industry we need to attract to deprived areas like Blaenau Gwent, which suffer with high levels of people, especially young people, classified as NEET: not in employment, education or training.\n\nCompanies like this rely on the Government grants to expand their operations in Wales and ensure that old and outdated facilities meet the needs of modern research and manufacturing. So, what steps is the Government taking to ensure that competitive modern industries are kept in Wales, grants are timely, and they are not pushed to relocate elsewhere?",
+          "text_original": "Diolch. Earlier this year, I visited PMB Battery Technologies UK Ltd, a cutting-edge research and manufacturing company that operates facilities in Ebbw Vale and in Adelaide, Australia. This is a company specialising in advanced battery technology, and a great benefit to the local economy and the people it employs. That day, I met directly with apprentices at the company, young people from Ebbw Vale and the local area, fresh out of education, now in high-skilled and well-paid, meaningful employment. This is exactly the sort of industry we need to attract to deprived areas like Blaenau Gwent, which suffer with high levels of people, especially young people, classified as NEET: not in employment, education or training.\n\nCompanies like this rely on the Government grants to expand their operations in Wales and ensure that old and outdated facilities meet the needs of modern research and manufacturing. So, what steps is the Government taking to ensure that competitive modern industries are kept in Wales, grants are timely, and they are not pushed to relocate elsewhere?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=2604"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
     {
       "contributions": [
         {

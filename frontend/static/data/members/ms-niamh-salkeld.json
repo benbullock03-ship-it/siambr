@@ -741,8 +741,34 @@
   "canonical_name": "Niamh Salkeld",
   "constituency_name_cy": "Blaenau Gwent Caerffili Rhymni",
   "constituency_name_en": "Blaenau Gwent Caerffili Rhymni",
-  "contribution_count": 30,
+  "contribution_count": 32,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780443",
+          "item_id": "item-16318-261021-2",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "2. What discussions has the Cabinet Minister had with the Deputy Minister for Skills and Tertiary Education on supporting young people to develop the skills needed in a rapidly changing labour market in Blaenau Gwent Caerffili Rhymni? OQ64780",
+          "text_original": "2. Pa drafodaethau y mae'r Gweinidog Cabinet wedi'u cael gyda'r Dirprwy Weinidog dros Sgiliau ac Addysg Drydyddol ar gefnogi pobl ifanc i ddatblygu'r sgiliau sydd eu hangen mewn marchnad lafur sy'n newid yn gyflym ym Mlaenau Gwent Caerffili Rhymni? OQ64780",
+          "tv_url": "http://www.senedd.tv/en/16318"
+        },
+        {
+          "id": "contribution-780446",
+          "item_id": "item-16318-261021-2",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "en",
+          "t_start": 650,
+          "text_english": "Diolch, Cabinet Minister. In Blaenau Gwent, nearly three in 10 residents aged 16 and over have no formal qualifications, which is the highest proportion in the whole of Wales, while neighbouring Caerphilly has the fourth highest. I've seen first-hand the vital role that organisations such as ACT Training has in Ebbw Vale. They play such an important role in supporting young people facing really complex needs, and barriers to education, training and employment.\n\nFor many of these young people, progress can mean overcoming mental health challenges, gaining qualifications after leaving school without any, finding secure housing, or even turning away from crime as well. They need to have a system that can respond to the full range of barriers they face as an individual, and gives them the best opportunity as well to fulfil their potential. \n\nSo, Cabinet Minister, how will the Welsh Government ensure we have a fit-for-purpose system, with the flexibility and stability needed to support young people to fulfil their potential, particularly those facing extreme barriers?",
+          "text_original": "Diolch, Cabinet Minister. In Blaenau Gwent, nearly three in 10 residents aged 16 and over have no formal qualifications, which is the highest proportion in the whole of Wales, while neighbouring Caerphilly has the fourth highest. I've seen first-hand the vital role that organisations such as ACT Training has in Ebbw Vale. They play such an important role in supporting young people facing really complex needs, and barriers to education, training and employment.\n\nFor many of these young people, progress can mean overcoming mental health challenges, gaining qualifications after leaving school without any, finding secure housing, or even turning away from crime as well. They need to have a system that can respond to the full range of barriers they face as an individual, and gives them the best opportunity as well to fulfil their potential. \n\nSo, Cabinet Minister, how will the Welsh Government ensure we have a fit-for-purpose system, with the flexibility and stability needed to support young people to fulfil their potential, particularly those facing extreme barriers?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=650"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
     {
       "contributions": [
         {

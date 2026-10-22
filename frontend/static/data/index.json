@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-10-21T03:36:24Z",
+  "checked_at": "2026-10-22T00:05:39Z",
   "current_term": 7,
-  "generated_at": "2026-10-20T14:39:58",
-  "latest_sitting": "2026-10-20",
+  "generated_at": "2026-10-21T14:45:31",
+  "latest_sitting": "2026-10-21",
   "policy_domains": [
     {
       "id": "communities",
@@ -35,7 +35,7 @@
       "name_en": "Climate Change & Transport"
     }
   ],
-  "sitting_count": 26,
+  "sitting_count": 27,
   "terms": [
     {
       "end_date": "2003-04-30",

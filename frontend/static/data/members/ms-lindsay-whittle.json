@@ -741,8 +741,24 @@
   "canonical_name": "Lindsay Whittle",
   "constituency_name_cy": "Blaenau Gwent Caerffili Rhymni",
   "constituency_name_en": "Blaenau Gwent Caerffili Rhymni",
-  "contribution_count": 20,
+  "contribution_count": 21,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780500",
+          "item_id": "item-16318-261021-2",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "4. What measures will the Welsh Government take to support employment opportunities in Blaenau Gwent Caerffili Rhymni? OQ64731",
+          "text_original": "4. Pa fesurau y bydd Llywodraeth Cymru yn eu cymryd i gefnogi cyfleoedd cyflogaeth ym Mlaenau Gwent Caerffili Rhymni? OQ64731",
+          "tv_url": "http://www.senedd.tv/en/16318"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
     {
       "contributions": [
         {

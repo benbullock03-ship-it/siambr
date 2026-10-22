@@ -741,8 +741,24 @@
   "canonical_name": "Shav Taj",
   "constituency_name_cy": "Caerdydd Ffynnon Taf",
   "constituency_name_en": "Caerdydd Ffynnon Taf",
-  "contribution_count": 58,
+  "contribution_count": 59,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780465",
+          "item_id": "item-16318-261021-2",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "en",
+          "t_start": 1382,
+          "text_english": "We've been talking about data, and of course data centres have been in the news quite a lot recently. The planning Minister recently responded to a written question of mine stating that the current system for approving data centres has robust checks and balances in place to ensure their environmental and community impacts are properly considered. Does the Cabinet Minister agree with the planning Minister? If the current system is robust for all data centre applications, why is his Government writing a data centre framework?",
+          "text_original": "We've been talking about data, and of course data centres have been in the news quite a lot recently. The planning Minister recently responded to a written question of mine stating that the current system for approving data centres has robust checks and balances in place to ensure their environmental and community impacts are properly considered. Does the Cabinet Minister agree with the planning Minister? If the current system is robust for all data centre applications, why is his Government writing a data centre framework?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=1382"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
     {
       "contributions": [
         {

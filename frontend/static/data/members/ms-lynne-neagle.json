@@ -741,8 +741,44 @@
   "canonical_name": "Lynne Neagle",
   "constituency_name_cy": "Sir Fynwy Torfaen",
   "constituency_name_en": "Sir Fynwy Torfaen",
-  "contribution_count": 45,
+  "contribution_count": 48,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780440",
+          "item_id": "item-16318-261021-2",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "1. What discussions has the Cabinet Minister had with the Deputy Minister for Skills and Tertiary Education about Jobs Growth Wales+? OQ64753",
+          "text_original": "1. Pa drafodaethau y mae'r Gweinidog Cabinet wedi’u cael gyda’r Dirprwy Weinidog dros Sgiliau ac Addysg Drydyddol ynghylch Twf Swyddi Cymru+? OQ64753",
+          "tv_url": "http://www.senedd.tv/en/16318"
+        },
+        {
+          "id": "contribution-780445",
+          "item_id": "item-16318-261021-2",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "en",
+          "t_start": 130,
+          "text_english": "Thank you, Cabinet Minister. As you are aware, we are facing a not in education, employment or training crisis in Wales, with everything that that means for young people's life chances, their employment and, of particular concern to me, their mental health and well-being. However, we're not now just facing the prospect of cuts in further education funding, but, as I've highlighted to you in correspondence, providers of services to young people through Jobs Growth Wales+, which is effectively a post-16 provision, are also seeing significant cuts. I'm grateful to you for your correspondence, but I have written back to you explaining that ACT, which has been praised across this Chamber for their transformative work with young people, has currently gone from a confirmed contract value of £18.8 million last year to £13.9 million in 2026-27.",
+          "text_original": "Thank you, Cabinet Minister. As you are aware, we are facing a not in education, employment or training crisis in Wales, with everything that that means for young people's life chances, their employment and, of particular concern to me, their mental health and well-being. However, we're not now just facing the prospect of cuts in further education funding, but, as I've highlighted to you in correspondence, providers of services to young people through Jobs Growth Wales+, which is effectively a post-16 provision, are also seeing significant cuts. I'm grateful to you for your correspondence, but I have written back to you explaining that ACT, which has been praised across this Chamber for their transformative work with young people, has currently gone from a confirmed contract value of £18.8 million last year to £13.9 million in 2026-27.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=130"
+        },
+        {
+          "id": "contribution-780452",
+          "item_id": "item-16318-261021-2",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "en",
+          "t_start": 198,
+          "text_english": "That is a 26 per cent cut. On the basis of these figures, can we accept that the Plaid Cymru Government is committed to tackling the NEET crisis, and, if that is the case, what are you going to do to reverse these cuts and ensure that all learners have an opportunity to have their education?",
+          "text_original": "That is a 26 per cent cut. On the basis of these figures, can we accept that the Plaid Cymru Government is committed to tackling the NEET crisis, and, if that is the case, what are you going to do to reverse these cuts and ensure that all learners have an opportunity to have their education?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=198"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
     {
       "contributions": [
         {

@@ -741,8 +741,24 @@
   "canonical_name": "Joshua Kim",
   "constituency_name_cy": "Blaenau Gwent Caerffili Rhymni",
   "constituency_name_en": "Blaenau Gwent Caerffili Rhymni",
-  "contribution_count": 11,
+  "contribution_count": 12,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780456",
+          "item_id": "item-16318-261021-2",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "en",
+          "t_start": 817,
+          "text_english": "Minister, traditionally, entry-level roles have allowed young people to gain the experience needed to progress into more skilled employment. But AI now threatens to automate some of those opportunities.\n\nWhat assessment, therefore, has the Welsh Government made of the impact of AI on entry-level employment opportunities for young people in Blaenau Gwent Caerffili Rhymni, and what discussions has the Cabinet Minister had with the Deputy Minister for skills about ensuring that training provision in our constituency prepares young people for the jobs likely to be available in five to 10 years' time?",
+          "text_original": "Minister, traditionally, entry-level roles have allowed young people to gain the experience needed to progress into more skilled employment. But AI now threatens to automate some of those opportunities.\n\nWhat assessment, therefore, has the Welsh Government made of the impact of AI on entry-level employment opportunities for young people in Blaenau Gwent Caerffili Rhymni, and what discussions has the Cabinet Minister had with the Deputy Minister for skills about ensuring that training provision in our constituency prepares young people for the jobs likely to be available in five to 10 years' time?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=817"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
     {
       "contributions": [
         {

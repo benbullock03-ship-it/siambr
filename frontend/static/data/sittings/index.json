@@ -1,5 +1,59 @@
 [
   {
+    "contribution_count": 56,
+    "date": "2026-10-21",
+    "id": "plenary-16318",
+    "item_count": 2,
+    "items": [
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16318-261021-1",
+        "order": 0,
+        "policy_domain_id": "devolution",
+        "speaker_ids": [
+          "ms-kerry-ferguson"
+        ],
+        "title_cy": "Datganiad gan y Dirprwy Lywydd",
+        "title_en": "Statement by the Deputy Presiding Officer",
+        "type": "statement"
+      },
+      {
+        "classification_provenance": "PROVENANCE_DERIVED",
+        "id": "item-16318-261021-2",
+        "order": 1,
+        "policy_domain_id": "transport",
+        "speaker_ids": [
+          "ms-adam-price",
+          "ms-benjamin-hodge-mckenna",
+          "ms-carmelo-colasanto",
+          "ms-carrie-harper",
+          "ms-catherine-cullen",
+          "ms-elyn-stephens",
+          "ms-janet-finch-saunders",
+          "ms-jason-o-connell",
+          "ms-joshua-kim",
+          "ms-kerry-ferguson",
+          "ms-lindsay-whittle",
+          "ms-lynne-neagle",
+          "ms-niamh-salkeld",
+          "ms-sam-rowlands",
+          "ms-shav-taj"
+        ],
+        "title_cy": "1. Cwestiynau i’r Gweinidog Cabinet dros Fenter, Cysylltedd ac Ynni",
+        "title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+        "type": "oral_questions"
+      }
+    ],
+    "meeting_id": 16318,
+    "meeting_start_time": "13:30:00",
+    "record_page_url": "https://record.senedd.wales/Plenary/16318",
+    "record_published_at": "2026-10-21T14:45:31",
+    "source_xml_url": "https://record.senedd.wales/XMLExport/Download?meetingID=16318&xmlDownloadType=BilingualTranscript",
+    "term": 7,
+    "title_cy": "Cyfarfod Llawn",
+    "title_en": "Plenary"
+  },
+  {
     "contribution_count": 36,
     "date": "2026-10-20",
     "id": "plenary-16317",
