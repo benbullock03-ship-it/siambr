@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "abstain"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,40 @@
   "canonical_name": "Art Wright",
   "constituency_name_cy": "Casnewydd Islwyn",
   "constituency_name_en": "Casnewydd Islwyn",
-  "contribution_count": 27,
+  "contribution_count": 29,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780898",
+          "item_id": "item-16318-261021-9",
+          "item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+          "lang": "en",
+          "t_start": 17580,
+          "text_english": "Diolch, Lywydd. I have been asked to shorten this debate, so I'll take no interventions, please, because I'm going to have to cut out as I go, because some people like to talk more than they should need to. [Laughter.]\n\nFor more than 30 years, the Welsh Government has wrestled with M4 congestion around Newport, yet we are still here facing the same question today: the problem at Brynglas. The Welsh Government review considers several options, but says none alone or combined would fully resolve the M4 problem.\n\nDespite previous Governments spending £136.5 million already, the review estimates currently that around 25 per cent of peak-time traffic would need to be removed to avoid congestion unless road capacity is increased. Yet the package considered could only achieve 17 per cent, with planning to fail instead of planning to fix things. Take the proposed junction changes: £14 million could be spent closing junctions 27, 26, 25 for an estimated 3 per cent reduction. These are direct questions from residents. So, where does that traffic go? How much moves into Newport local roads? Which communities take that additional traffic? What happens to congestions on routes such as Queensway and the southern distributor road? And what happens to the journey times for drivers that live around those junctions?\n\nThese questions matter even more with the housing growth that is coming to the area. Research supplied to me already estimates between 7,100 and 7,400 homes have been built across the four former Gwent authorities since 2019. Most of the councils are now sending out their regional development plans. Newport plans just shy of 400 homes; Monmouth to provide between 5,400 and 6,200 homes. Caerphilly identifies 7,400 new homes by 2035. Torfaen and Blaenau Gwent are still developing theirs, so their numbers will be added at a later date.\n\nNow, Minister, not every home puts another car on the M4, but more homes mean more people, more journeys in the long run. The review says that benefits are uncertain because of future growth and that latent demand could take up capacity over time. It also says that no new transport modelling was undertaken in the review. So, Minister, how long will these proposals work? How quickly could the growing demand wipe out the 3 per cent reduction? Where is the modelling that includes thousands of new homes? The review reflects a greater emphasis on sustainable travel and carbon reduction, but the Minister must answer this: is the primary objective to solve the M4 capacity problem or to get people out of their cars in the pursuit of wider net-zero objectives? They are not necessarily the same thing. The review says public transport improvements will help, but to a limited extent.\n\nI'm going to have to skip over some, because I'm aware you want me to keep the time down.\n\nWhen Welsh Labour, the Government, cancelled the black route, it was estimated that the cost at the time was £1.4 billion. I'm not suggesting that £1.4 billion would still be today's price, but it would need recalculating. That is precisely the point—why exclude it before the calculation is made? The review says a new motorway was excluded primarily because of likely affordability and environmental and planning challenges. Surely, those must be assessed and compared so that we can compare apples with apples.\n\nSo, why not give us today's cost of the black route? Give us the full cost of the alternative packages. Show us the congestion reduction that each would achieve. Show us the additional capacity that each would provide. Include future housing growth in every model. And then tell us how long each option's benefits are expected to last. Show us where the displaced traffic goes. Show us what happens to the 1,000 more homes built. Show us what every option costs and delivers, and give the black route the same test. If the Government alternative provides the best long-term answer, let the evidence demonstrate it. But if it costs more, delivers less, and leaves Newport with a capacity problem, the black route should be put back on the table.\n\nFinally, Minister, a few weeks ago, when we discussed the M4 before, I asked you if you would listen to the residents of Newport. Two petitions have been raised: one by Labour, which has achieved 5,846 signatures as of yesterday morning, and one sponsored by Reform Members, which has reached 13,713. Will you now listen to their voices?",
+          "text_original": "Diolch, Lywydd. I have been asked to shorten this debate, so I'll take no interventions, please, because I'm going to have to cut out as I go, because some people like to talk more than they should need to. [Laughter.]\n\nFor more than 30 years, the Welsh Government has wrestled with M4 congestion around Newport, yet we are still here facing the same question today: the problem at Brynglas. The Welsh Government review considers several options, but says none alone or combined would fully resolve the M4 problem.\n\nDespite previous Governments spending £136.5 million already, the review estimates currently that around 25 per cent of peak-time traffic would need to be removed to avoid congestion unless road capacity is increased. Yet the package considered could only achieve 17 per cent, with planning to fail instead of planning to fix things. Take the proposed junction changes: £14 million could be spent closing junctions 27, 26, 25 for an estimated 3 per cent reduction. These are direct questions from residents. So, where does that traffic go? How much moves into Newport local roads? Which communities take that additional traffic? What happens to congestions on routes such as Queensway and the southern distributor road? And what happens to the journey times for drivers that live around those junctions?\n\nThese questions matter even more with the housing growth that is coming to the area. Research supplied to me already estimates between 7,100 and 7,400 homes have been built across the four former Gwent authorities since 2019. Most of the councils are now sending out their regional development plans. Newport plans just shy of 400 homes; Monmouth to provide between 5,400 and 6,200 homes. Caerphilly identifies 7,400 new homes by 2035. Torfaen and Blaenau Gwent are still developing theirs, so their numbers will be added at a later date.\n\nNow, Minister, not every home puts another car on the M4, but more homes mean more people, more journeys in the long run. The review says that benefits are uncertain because of future growth and that latent demand could take up capacity over time. It also says that no new transport modelling was undertaken in the review. So, Minister, how long will these proposals work? How quickly could the growing demand wipe out the 3 per cent reduction? Where is the modelling that includes thousands of new homes? The review reflects a greater emphasis on sustainable travel and carbon reduction, but the Minister must answer this: is the primary objective to solve the M4 capacity problem or to get people out of their cars in the pursuit of wider net-zero objectives? They are not necessarily the same thing. The review says public transport improvements will help, but to a limited extent.\n\nI'm going to have to skip over some, because I'm aware you want me to keep the time down.\n\nWhen Welsh Labour, the Government, cancelled the black route, it was estimated that the cost at the time was £1.4 billion. I'm not suggesting that £1.4 billion would still be today's price, but it would need recalculating. That is precisely the point—why exclude it before the calculation is made? The review says a new motorway was excluded primarily because of likely affordability and environmental and planning challenges. Surely, those must be assessed and compared so that we can compare apples with apples.\n\nSo, why not give us today's cost of the black route? Give us the full cost of the alternative packages. Show us the congestion reduction that each would achieve. Show us the additional capacity that each would provide. Include future housing growth in every model. And then tell us how long each option's benefits are expected to last. Show us where the displaced traffic goes. Show us what happens to the 1,000 more homes built. Show us what every option costs and delivers, and give the black route the same test. If the Government alternative provides the best long-term answer, let the evidence demonstrate it. But if it costs more, delivers less, and leaves Newport with a capacity problem, the black route should be put back on the table.\n\nFinally, Minister, a few weeks ago, when we discussed the M4 before, I asked you if you would listen to the residents of Newport. Two petitions have been raised: one by Labour, which has achieved 5,846 signatures as of yesterday morning, and one sponsored by Reform Members, which has reached 13,713. Will you now listen to their voices?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=17580"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-779937",
+          "item_id": "item-16317-261020-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 7329,
+          "text_english": "Can I request from the Cabinet Minister for Social Justice and Equality a statement on how the Welsh Government will work to end the need for foodbanks in Wales? Around a quarter of adults, or 260,000 people in Wales, are going without enough food because they cannot afford it. Last year, over 150,000 food parcels were distributed by the Trussell foodbanks alone, with many more needing food from food pantries and other sources. With the expected huge increase in the cost of living coming in January, I am concerned that this will drive more people to need emergency food aid. Failure to tackle hunger and hardship leads to Wales spending an additional £560 million a year on public services. Overall, public finances and the economy in Wales could benefit by £3.6 billion each year if people were protected from hunger and hardship. Diolch.",
+          "text_original": "Can I request from the Cabinet Minister for Social Justice and Equality a statement on how the Welsh Government will work to end the need for foodbanks in Wales? Around a quarter of adults, or 260,000 people in Wales, are going without enough food because they cannot afford it. Last year, over 150,000 food parcels were distributed by the Trussell foodbanks alone, with many more needing food from food pantries and other sources. With the expected huge increase in the cost of living coming in January, I am concerned that this will drive more people to need emergency food aid. Failure to tackle hunger and hardship leads to Wales spending an additional £560 million a year on public services. Overall, public finances and the economy in Wales could benefit by £3.6 billion each year if people were protected from hunger and hardship. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=7329"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
+    },
     {
       "contributions": [
         {

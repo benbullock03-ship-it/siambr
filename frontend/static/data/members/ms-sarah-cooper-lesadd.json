@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,70 @@
   "canonical_name": "Sarah Cooper-Lesadd",
   "constituency_name_cy": "Pen-y-bont Bro Morgannwg",
   "constituency_name_en": "Pen-y-bont Bro Morgannwg",
-  "contribution_count": 33,
+  "contribution_count": 38,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780588",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "2. What safeguards will the Commission put in place regarding the use of smartglasses on the Senedd estate? OQ64771",
+          "text_original": "2. Pa fesurau diogelu y bydd y Comisiwn yn eu rhoi ar waith o ran defnyddio sbectolau clyfar ar ystad y Senedd? OQ64771",
+          "tv_url": "http://www.senedd.tv/en/16318"
+        },
+        {
+          "id": "contribution-780601",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 6076,
+          "text_english": "The Member says his glasses caused a stir. They certainly did. The Commission is undertaking a review, the Cabinet Office has enforced a ban, and it's only a matter of time before other organisations follow suit. The review isn't the problem; the gap before it concludes is. The Cabinet Office has already taken action very swiftly, so I'd be grateful to know the Commission's position while that review is under way. I would also argue that this is a question of equity. Everyone should be on a fair and equal footing. A Member wearing a recording device has an advantage over every other person in the room, and they have no idea that they may be filmed. So, whether the glasses weren't filming isn't the point—nobody else can tell, and a rule that depends on checking after isn't a safeguard.",
+          "text_original": "The Member says his glasses caused a stir. They certainly did. The Commission is undertaking a review, the Cabinet Office has enforced a ban, and it's only a matter of time before other organisations follow suit. The review isn't the problem; the gap before it concludes is. The Cabinet Office has already taken action very swiftly, so I'd be grateful to know the Commission's position while that review is under way. I would also argue that this is a question of equity. Everyone should be on a fair and equal footing. A Member wearing a recording device has an advantage over every other person in the room, and they have no idea that they may be filmed. So, whether the glasses weren't filming isn't the point—nobody else can tell, and a rule that depends on checking after isn't a safeguard.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=6076"
+        },
+        {
+          "id": "contribution-780854",
+          "item_id": "item-16318-261021-11",
+          "item_title_en": "10. Short Debate: Full-face coverings are against British values",
+          "lang": "en",
+          "t_start": 19818,
+          "text_english": "We are being asked to debate about people on the basis of what we imagine their lives to be. Their lives are not fictional, they are real, and what we debate here deeply matters to them, and affects their perception of their home here in Wales. I want to focus my remarks on a territory I'm sure is familiar to Reform of civil liberties. Members opposite speak a great deal about this, but instead of advocating for freedom, they have brought us a list of things a woman may not do, and are asking the state to enforce it.\n\nI want to add a bit of philosophy to help frame my remarks. I choose it deliberately because I feel it has some resemblance to this debate today. Burke's argument against revolutionaries was that a nation cannot be remade by decree, and this goes back as far as 1700. A society is not an arrangement between people who happen to be alive. It is a partnership between the living, the dead and those that are yet to be born. That is the essence of the social contract.\n\nThe liberties we hold in these countries were not granted to us by anyone in this room. They were fought for, often at huge cost. Lives were lost, people were imprisoned, and often people were hanged for them. We did not earn any of that, we inherited it, and it is our role as stewards of these liberties to protect them for future generations. We are not entitled to erode that liberty just because Reform finds it politically expedient.",
+          "text_original": "We are being asked to debate about people on the basis of what we imagine their lives to be. Their lives are not fictional, they are real, and what we debate here deeply matters to them, and affects their perception of their home here in Wales. I want to focus my remarks on a territory I'm sure is familiar to Reform of civil liberties. Members opposite speak a great deal about this, but instead of advocating for freedom, they have brought us a list of things a woman may not do, and are asking the state to enforce it.\n\nI want to add a bit of philosophy to help frame my remarks. I choose it deliberately because I feel it has some resemblance to this debate today. Burke's argument against revolutionaries was that a nation cannot be remade by decree, and this goes back as far as 1700. A society is not an arrangement between people who happen to be alive. It is a partnership between the living, the dead and those that are yet to be born. That is the essence of the social contract.\n\nThe liberties we hold in these countries were not granted to us by anyone in this room. They were fought for, often at huge cost. Lives were lost, people were imprisoned, and often people were hanged for them. We did not earn any of that, we inherited it, and it is our role as stewards of these liberties to protect them for future generations. We are not entitled to erode that liberty just because Reform finds it politically expedient.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=19818"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-779904",
+          "item_id": "item-16317-261020-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "9. What legal advice has the Counsel General provided to the Welsh Government regarding the use of AI-enabled smart glasses in public buildings such as libraries and swimming pools given the ban in courts and tribunals? OQ64749",
+          "text_original": "9. Pa gyngor cyfreithiol y mae'r Cwnsler Cyffredinol wedi'i roi i Lywodraeth Cymru ynghylch defnyddio sbectolau clyfar a alluogir gan ddeallusrwydd artiffisial mewn adeiladau cyhoeddus megis llyfrgelloedd a phyllau nofio, yn sgil y gwaharddiadau sydd mewn grym mewn llysoedd a thribiwnlysoedd? OQ64749",
+          "tv_url": "http://www.senedd.tv/en/16317"
+        },
+        {
+          "id": "contribution-779907",
+          "item_id": "item-16317-261020-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "en",
+          "t_start": 5996,
+          "text_english": "Courts and tribunals have restricted these devices, and, in fact, I've just heard the Cabinet Office banned them last week. I think we've learned that news from this Chamber travels rather fast. In fact, the Member's glasses opposite have been discussed in buildings 200 miles away. All these institutions have concluded that people in those spaces are entitled to know whether they're being recorded. The same question applies to a library, a leisure centre, a GP surgery or even a school, and these are places where people have no reason to expect they are being filmed. I'd be grateful to know whether the Welsh Government considers existing data protection law sufficient for this, or whether it intends to give further guidance to public bodies in Wales.",
+          "text_original": "Courts and tribunals have restricted these devices, and, in fact, I've just heard the Cabinet Office banned them last week. I think we've learned that news from this Chamber travels rather fast. In fact, the Member's glasses opposite have been discussed in buildings 200 miles away. All these institutions have concluded that people in those spaces are entitled to know whether they're being recorded. The same question applies to a library, a leisure centre, a GP surgery or even a school, and these are places where people have no reason to expect they are being filmed. I'd be grateful to know whether the Welsh Government considers existing data protection law sufficient for this, or whether it intends to give further guidance to public bodies in Wales.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=5996"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
+    },
     {
       "contributions": [
         {

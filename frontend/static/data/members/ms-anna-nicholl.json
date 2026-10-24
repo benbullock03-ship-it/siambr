@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,34 @@
   "canonical_name": "Anna Nicholl",
   "constituency_name_cy": "Ceredigion Penfro",
   "constituency_name_en": "Ceredigion Penfro",
-  "contribution_count": 39,
+  "contribution_count": 41,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780597",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "4. How is the Cabinet Minister ensuring community involvement in decisions about the future of Church in Wales maintained schools in Ceredigion Penfro? OQ64786",
+          "text_original": "4. Sut mae'r Gweinidog Cabinet yn sicrhau bod cymunedau'n cael eu cynnwys mewn penderfyniadau ynghylch dyfodol ysgolion a gynhelir gan yr Eglwys yng Nghymru yng Ngheredigion Penfro? OQ64786",
+          "tv_url": "http://www.senedd.tv/en/16318"
+        },
+        {
+          "id": "contribution-780606",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "en",
+          "t_start": 4785,
+          "text_english": "Diolch, Cabinet Minister. I'm concerned about the low level of confidence that parents, staff and governors in Pembrokeshire have told me that they have in the council involving them meaningfully in big decisions about the future of their schools. Examples include but are not limited to church schools. I wrote to the council back in September around decisions on the future of Cilgerran school, and I'm glad this is now resolved. But, Cabinet Minister, public trust and confidence is easily lost. As Pembrokeshire County Council now consults on proposals to close Tenby Church in Wales VC Primary School and neighbouring Greenhill school, replacing them with a new three-to-19 community school, can the Cabinet Minister assure us that she expects these decisions to be based on the meaningful involvement of parents and the wider community, including open and transparent information on all options available?",
+          "text_original": "Diolch, Cabinet Minister. I'm concerned about the low level of confidence that parents, staff and governors in Pembrokeshire have told me that they have in the council involving them meaningfully in big decisions about the future of their schools. Examples include but are not limited to church schools. I wrote to the council back in September around decisions on the future of Cilgerran school, and I'm glad this is now resolved. But, Cabinet Minister, public trust and confidence is easily lost. As Pembrokeshire County Council now consults on proposals to close Tenby Church in Wales VC Primary School and neighbouring Greenhill school, replacing them with a new three-to-19 community school, can the Cabinet Minister assure us that she expects these decisions to be based on the meaningful involvement of parents and the wider community, including open and transparent information on all options available?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=4785"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
     {
       "contributions": [
         {
@@ -760,10 +819,10 @@
           "item_id": "item-16317-261020-1",
           "item_title_en": "1. Questions to the First Minister",
           "lang": "en",
-          "t_start": 450,
-          "text_english": "Diolch. And I welcome the Ireland-Wales shared statement 2030, committing our nations to strengthening cultural partnerships and artistic exchange. In my constituency, Other Voices Cardigan has become one of the most vibrant and successful examples of that ambition. Since 2019, it's brought together Welsh and Irish artists, audiences and communities, thanks to support from the Welsh Government, the Irish Government and broadcasters. The festival has delivered significant economic benefits for Aberteifi, increased numbers visiting from Ireland to west Wales, and created lasting creative partnerships between musicians from both countries. \n\nSadly, a late decision to reduce funding this year means the festival isn't taking place. So, a multi-year funding agreement is now vital to enable the festival to continue to plan for future years. So, will the First Minister explore this potential with his Irish counterparts, to help secure the long-term future of Other Voices Cardigan, and strengthen Wales-Ireland relations for years to come?",
-          "text_original": "Diolch. And I welcome the Ireland-Wales shared statement 2030, committing our nations to strengthening cultural partnerships and artistic exchange. In my constituency, Other Voices Cardigan has become one of the most vibrant and successful examples of that ambition. Since 2019, it's brought together Welsh and Irish artists, audiences and communities, thanks to support from the Welsh Government, the Irish Government and broadcasters. The festival has delivered significant economic benefits for Aberteifi, increased numbers visiting from Ireland to west Wales, and created lasting creative partnerships between musicians from both countries. \n\nSadly, a late decision to reduce funding this year means the festival isn't taking place. So, a multi-year funding agreement is now vital to enable the festival to continue to plan for future years. So, will the First Minister explore this potential with his Irish counterparts, to help secure the long-term future of Other Voices Cardigan, and strengthen Wales-Ireland relations for years to come?",
-          "tv_url": "http://www.senedd.tv/en/16317?startPos=450"
+          "t_start": 452,
+          "text_english": "Diolch. I welcome the Ireland-Wales shared statement 2030, committing our nations to strengthening cultural partnerships and artistic exchange. In my constituency, Other Voices Cardigan has become one of the most vibrant and successful examples of that ambition. Since 2019, it has brought together Welsh and Irish artists, audiences and communities, thanks to support from the Welsh Government, the Irish Government and broadcasters. The festival has delivered significant economic benefits for Aberteifi, increased numbers visiting from Ireland to west Wales, and created lasting creative partnerships between musicians from both countries. Sadly, a late decision to reduce funding this year means the festival isn't taking place. So, a multi-year funding agreement is now vital to enable the festival to continue to plan for future years. So, will the First Minister explore this potential with his Irish counterparts to help secure the long-term future of Other Voices Cardigan and strengthen Wales-Ireland relations for years to come?",
+          "text_original": "Diolch. I welcome the Ireland-Wales shared statement 2030, committing our nations to strengthening cultural partnerships and artistic exchange. In my constituency, Other Voices Cardigan has become one of the most vibrant and successful examples of that ambition. Since 2019, it has brought together Welsh and Irish artists, audiences and communities, thanks to support from the Welsh Government, the Irish Government and broadcasters. The festival has delivered significant economic benefits for Aberteifi, increased numbers visiting from Ireland to west Wales, and created lasting creative partnerships between musicians from both countries. Sadly, a late decision to reduce funding this year means the festival isn't taking place. So, a multi-year funding agreement is now vital to enable the festival to continue to plan for future years. So, will the First Minister explore this potential with his Irish counterparts to help secure the long-term future of Other Voices Cardigan and strengthen Wales-Ireland relations for years to come?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=452"
         }
       ],
       "date": "2026-10-20",

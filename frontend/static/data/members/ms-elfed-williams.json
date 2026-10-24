@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,24 @@
   "canonical_name": "Elfed Williams",
   "constituency_name_cy": "Bangor Conwy Môn",
   "constituency_name_en": "Bangor Conwy Môn",
-  "contribution_count": 22,
+  "contribution_count": 23,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780045",
+          "item_id": "item-16317-261020-6",
+          "item_title_en": "6. Statement by the Deputy Minister for Social Care, Mental Health and Women’s Health: Update on the National Care Service Programme",
+          "lang": "cy",
+          "t_start": 14706,
+          "text_english": "I must declare an interest: I've worked in this area and I have a member of my family who also works in the sector.\n\nThank you for the statement. I very much welcome the Plaid Cymru Government’s commitment to making the sector more attractive through better wages, training, career pathways and establishing a national care academy. It also shows the difference between Plaid Cymru's approach of reforming services now and the approach that we see from the UK Labour Government, whose promised reforms are constantly being postponed.\n\nAs a former worker in the sector, I believe that there are four key pillars of social care: care workers, social workers, occupational therapists and advocates. It's important to me that the voices of all four of these cornerstones are heard during the process. With that in mind, would the Deputy Minister be willing to meet with me, as chair-elect of the cross-party group on social care, to discuss these matters further?",
+          "text_original": "Dwi'n gorfod datgan diddordeb: dwi wedi gweithio yn y maes ac mae gen i aelod o’r teulu yn gweithio yn y maes.\n\nDiolch am y datganiad. Dwi'n croesawu’n fawr ymrwymiad Llywodraeth Plaid Cymru i wneud y sector yma yn fwy deniadol drwy well cyflogau, hyfforddiant, llwybrau gyrfa a sefydlu academi gofal cenedlaethol. Mae hefyd yn dangos y gwahaniaeth rhwng dull Plaid Cymru o weithredu drwy ddiwygio gwasanaethau nawr a'r dull a welwn gan Lywodraeth Lafur y Deyrnas Unedig, lle mae addewidion am ddiwygio yn parhau i gael eu gohirio. \n\nFel cyn-weithiwr yn y sector, credaf fod pedair colofn allweddol i ofal cymdeithasol: gweithwyr gofal, gweithwyr cymdeithasol, therapyddion galwedigaethol ac eiriolwyr. Mae’n bwysig i mi fod holl leisiau'r colofnau hyn yn cael eu clywed yn y broses hon. Gyda hynny mewn golwg, a fyddai’r Dirprwy Weinidog yn barod i gyfarfod â mi, fel darpar gadeirydd y grŵp trawsbleidiol ar ofal cymdeithasol, i drafod y materion hyn ymhellach?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=14706"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
+    },
     {
       "contributions": [
         {

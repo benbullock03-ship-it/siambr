@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "abstain"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,34 @@
   "canonical_name": "Andrew RT Davies",
   "constituency_name_cy": "Pen-y-bont Bro Morgannwg",
   "constituency_name_en": "Pen-y-bont Bro Morgannwg",
-  "contribution_count": 47,
+  "contribution_count": 49,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-779795",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "4. What assessment has the First Minister made of the adequacy of staffing levels in NHS Wales? OQ64794",
+          "text_original": "4. Pa asesiad y mae'r Prif Weinidog wedi'i wneud o ddigonolrwydd lefelau staffio yn GIG Cymru? OQ64794",
+          "tv_url": "http://www.senedd.tv/en/16317"
+        },
+        {
+          "id": "contribution-779797",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 2079,
+          "text_english": "Thank you, First Minister, for that answer. Numbers do make a difference when it comes to general practitioner practices. Over the last 15 years, there's been a drop in GP numbers of some 20 per cent, from 1,845 to under 1,500 GPs now available within the Welsh NHS. You have a manifesto commitment to, obviously, put an extra 100 GPs into the service by the end of this Senedd term. How are those 100 GPs going to be allocated to the GP practices in Wales, given that, as a percentage, we have fewer full-time GPs working within the Welsh NHS, and yet patient numbers have gone up by a third for those full-time equivalent GPs?",
+          "text_original": "Thank you, First Minister, for that answer. Numbers do make a difference when it comes to general practitioner practices. Over the last 15 years, there's been a drop in GP numbers of some 20 per cent, from 1,845 to under 1,500 GPs now available within the Welsh NHS. You have a manifesto commitment to, obviously, put an extra 100 GPs into the service by the end of this Senedd term. How are those 100 GPs going to be allocated to the GP practices in Wales, given that, as a percentage, we have fewer full-time GPs working within the Welsh NHS, and yet patient numbers have gone up by a third for those full-time equivalent GPs?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=2079"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
+    },
     {
       "contributions": [
         {

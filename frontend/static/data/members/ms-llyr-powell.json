@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "abstain"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,70 @@
   "canonical_name": "Llŷr Powell",
   "constituency_name_cy": "Blaenau Gwent Caerffili Rhymni",
   "constituency_name_en": "Blaenau Gwent Caerffili Rhymni",
-  "contribution_count": 43,
+  "contribution_count": 48,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780520",
+          "item_id": "item-16318-261021-2",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "en",
+          "t_start": 2247,
+          "text_english": "Minister, one concern I've got, from speaking to lots of people in the constituency, who feel young people are leaving the area of Blaenau Gwent Caerffili Rhymni at a large pace now. We can see that the population age is going up in every census, and anyone who's been around the town recently feels that young people are leaving for cities, going over to England or to other parts of the world. What help can you do to incentivise businesses into the constituency, because it's businesses that will create those jobs, but Government have the levers of power to pull? So, I'd be grateful if you could tell us today what levers you're going to pull to bring in those jobs to keep young people here.",
+          "text_original": "Minister, one concern I've got, from speaking to lots of people in the constituency, who feel young people are leaving the area of Blaenau Gwent Caerffili Rhymni at a large pace now. We can see that the population age is going up in every census, and anyone who's been around the town recently feels that young people are leaving for cities, going over to England or to other parts of the world. What help can you do to incentivise businesses into the constituency, because it's businesses that will create those jobs, but Government have the levers of power to pull? So, I'd be grateful if you could tell us today what levers you're going to pull to bring in those jobs to keep young people here.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=2247"
+        },
+        {
+          "id": "contribution-780616",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "8. What action is the Welsh Government taking to improve pupil safety? OQ64768",
+          "text_original": "8. Pa gamau y mae Llywodraeth Cymru yn eu cymryd i wella diogelwch disgyblion? OQ64768",
+          "tv_url": "http://www.senedd.tv/en/16318"
+        },
+        {
+          "id": "contribution-780567",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "en",
+          "t_start": 5712,
+          "text_english": "Thank you for that answer, Minister. In September, more than 300 pupils in the Caerphilly borough lost their free school transport because, as the council said, they fall within the two-mile measurement of the Learner Travel (Wales) Measure 2008. Now, the problem with that is that the Measure is looking at distance but not incline. I've walked this route with campaigners and parents and children themselves—I went from Aberbargoed to Bargoed—and it's the incline that is the tricky part. During different weathers, whether it's the heat we experienced in the summer, or even cold winter days, when that road can be slippery, it does become a risk. Will the Government now look at reviewing the Learner Travel (Wales) Measure 2008 and look to include the advice on inclines and the difficult weather paths that this could create?",
+          "text_original": "Thank you for that answer, Minister. In September, more than 300 pupils in the Caerphilly borough lost their free school transport because, as the council said, they fall within the two-mile measurement of the Learner Travel (Wales) Measure 2008. Now, the problem with that is that the Measure is looking at distance but not incline. I've walked this route with campaigners and parents and children themselves—I went from Aberbargoed to Bargoed—and it's the incline that is the tricky part. During different weathers, whether it's the heat we experienced in the summer, or even cold winter days, when that road can be slippery, it does become a risk. Will the Government now look at reviewing the Learner Travel (Wales) Measure 2008 and look to include the advice on inclines and the difficult weather paths that this could create?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=5712"
+        },
+        {
+          "id": "contribution-780608",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 6218,
+          "text_english": "I appreciate the Llywydd's answer on the Commission's position there. Llywydd, for this review that's taking place with smartglasses, could you confirm whether you're going to be reaching out to charities right now? A lot of them have come forward, like the RNIB, who represent people who are blind or partially sighted, who say this technology has now created an equal playing field. Allowing people who have these glasses who are registered blind or partially sighted on to the estate I think is important in terms of the inclusive side of things. As well, Dyslexia UK is another charity that has come out and actually said these glasses and technology can help equalise the playing field for people's lives in reading in certain colours, and, going forward, I think it's important that the Commission looks to these charities that are coming out expressing views, to make sure the Parliament is as equal as possible.\n\nAnd in terms of equity, I think it's important that Members should be on an equal playing field. Maybe some Members should be given glasses to help read the manifestos on which they were elected to this Chamber.",
+          "text_original": "I appreciate the Llywydd's answer on the Commission's position there. Llywydd, for this review that's taking place with smartglasses, could you confirm whether you're going to be reaching out to charities right now? A lot of them have come forward, like the RNIB, who represent people who are blind or partially sighted, who say this technology has now created an equal playing field. Allowing people who have these glasses who are registered blind or partially sighted on to the estate I think is important in terms of the inclusive side of things. As well, Dyslexia UK is another charity that has come out and actually said these glasses and technology can help equalise the playing field for people's lives in reading in certain colours, and, going forward, I think it's important that the Commission looks to these charities that are coming out expressing views, to make sure the Parliament is as equal as possible.\n\nAnd in terms of equity, I think it's important that Members should be on an equal playing field. Maybe some Members should be given glasses to help read the manifestos on which they were elected to this Chamber.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=6218"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-779962",
+          "item_id": "item-16317-261020-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 6460,
+          "text_english": "Could I have a statement from the Trefnydd and the Welsh Government on what efforts are being taken to address rough-sleeping and homelessness in Wales? As we're coming into the winter time, it's becoming very concerning about how many people are sleeping out in horrendous conditions right now, and I'd be grateful if the Government could come forward on what we can do, and, hopefully, we can find consensus around the Chamber to address this, so we don't see more lives lost by rough-sleeping this winter.",
+          "text_original": "Could I have a statement from the Trefnydd and the Welsh Government on what efforts are being taken to address rough-sleeping and homelessness in Wales? As we're coming into the winter time, it's becoming very concerning about how many people are sleeping out in horrendous conditions right now, and I'd be grateful if the Government could come forward on what we can do, and, hopefully, we can find consensus around the Chamber to address this, so we don't see more lives lost by rough-sleeping this winter.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=6460"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
+    },
     {
       "contributions": [
         {

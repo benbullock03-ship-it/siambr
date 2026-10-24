@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,24 @@
   "canonical_name": "Laura Anne Jones",
   "constituency_name_cy": "Sir Fynwy Torfaen",
   "constituency_name_en": "Sir Fynwy Torfaen",
-  "contribution_count": 47,
+  "contribution_count": 48,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-779951",
+          "item_id": "item-16317-261020-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 7557,
+          "text_english": "Trefnydd, I would like two statements, please. I've just returned from the Welsh Dairy Show in Carmarthenshire this morning. It was a fantastic showcase of what the industry has to offer here in Wales. But it was also a great opportunity to speak to our dairy farmers and hear directly their concerns. And, on the back of that, I would like an oral statement on the dairy industry in Wales, outlining what this Welsh Government will do, and how it's working with Westminster to ensure that our Welsh dairy farmers are getting the support that they need. \n\nSecondly, Trefnydd, NHS England has now finally banned biological males from women's spaces, following the Supreme Court ruling that sex means biological sex. I would like an urgent statement from this Government reassuring this Chamber that NHS Wales will soon follow suit, because women and girls in Wales have waited far too long for these basic protections. Diolch.",
+          "text_original": "Trefnydd, I would like two statements, please. I've just returned from the Welsh Dairy Show in Carmarthenshire this morning. It was a fantastic showcase of what the industry has to offer here in Wales. But it was also a great opportunity to speak to our dairy farmers and hear directly their concerns. And, on the back of that, I would like an oral statement on the dairy industry in Wales, outlining what this Welsh Government will do, and how it's working with Westminster to ensure that our Welsh dairy farmers are getting the support that they need. \n\nSecondly, Trefnydd, NHS England has now finally banned biological males from women's spaces, following the Supreme Court ruling that sex means biological sex. I would like an urgent statement from this Government reassuring this Chamber that NHS Wales will soon follow suit, because women and girls in Wales have waited far too long for these basic protections. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=7557"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
+    },
     {
       "contributions": [
         {

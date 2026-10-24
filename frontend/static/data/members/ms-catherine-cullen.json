@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,7 +774,7 @@
   "canonical_name": "Catherine Cullen",
   "constituency_name_cy": "Blaenau Gwent Caerffili Rhymni",
   "constituency_name_en": "Blaenau Gwent Caerffili Rhymni",
-  "contribution_count": 28,
+  "contribution_count": 35,
   "contributions_by_date": [
     {
       "contributions": [
@@ -760,10 +793,30 @@
           "item_id": "item-16318-261021-2",
           "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
           "lang": "en",
-          "t_start": 2604,
-          "text_english": "Diolch. Earlier this year, I visited PMB Battery Technologies UK Ltd, a cutting-edge research and manufacturing company that operates facilities in Ebbw Vale and in Adelaide, Australia. This is a company specialising in advanced battery technology, and a great benefit to the local economy and the people it employs. That day, I met directly with apprentices at the company, young people from Ebbw Vale and the local area, fresh out of education, now in high-skilled and well-paid, meaningful employment. This is exactly the sort of industry we need to attract to deprived areas like Blaenau Gwent, which suffer with high levels of people, especially young people, classified as NEET: not in employment, education or training.\n\nCompanies like this rely on the Government grants to expand their operations in Wales and ensure that old and outdated facilities meet the needs of modern research and manufacturing. So, what steps is the Government taking to ensure that competitive modern industries are kept in Wales, grants are timely, and they are not pushed to relocate elsewhere?",
-          "text_original": "Diolch. Earlier this year, I visited PMB Battery Technologies UK Ltd, a cutting-edge research and manufacturing company that operates facilities in Ebbw Vale and in Adelaide, Australia. This is a company specialising in advanced battery technology, and a great benefit to the local economy and the people it employs. That day, I met directly with apprentices at the company, young people from Ebbw Vale and the local area, fresh out of education, now in high-skilled and well-paid, meaningful employment. This is exactly the sort of industry we need to attract to deprived areas like Blaenau Gwent, which suffer with high levels of people, especially young people, classified as NEET: not in employment, education or training.\n\nCompanies like this rely on the Government grants to expand their operations in Wales and ensure that old and outdated facilities meet the needs of modern research and manufacturing. So, what steps is the Government taking to ensure that competitive modern industries are kept in Wales, grants are timely, and they are not pushed to relocate elsewhere?",
-          "tv_url": "http://www.senedd.tv/en/16318?startPos=2604"
+          "t_start": 2606,
+          "text_english": "Diolch. Earlier this year, I visited PMB Battery Technologies, a cutting-edge research and manufacturing company that operates facilities in Ebbw Vale and in Adelaide, Australia. This is a company specialising in advanced battery technology, and a great benefit to the local economy and the people it employs. That day, I met directly with apprentices at the company, young people from Ebbw Vale and the local area, fresh out of education, now in high-skilled and well-paid, meaningful employment. This is exactly the sort of industry we need to attract to deprived areas like Blaenau Gwent, which suffer with high levels of people, especially young people, classified as NEET, not in employment, education or training.\n\nCompanies like this rely on Government grants to expand their operations in Wales and ensure that old and outdated facilities meet the needs of modern research and manufacturing. So, what steps is the Government taking to ensure that competitive modern industries are kept in Wales, grants are timely, and that they are not pushed to relocate elsewhere?",
+          "text_original": "Diolch. Earlier this year, I visited PMB Battery Technologies, a cutting-edge research and manufacturing company that operates facilities in Ebbw Vale and in Adelaide, Australia. This is a company specialising in advanced battery technology, and a great benefit to the local economy and the people it employs. That day, I met directly with apprentices at the company, young people from Ebbw Vale and the local area, fresh out of education, now in high-skilled and well-paid, meaningful employment. This is exactly the sort of industry we need to attract to deprived areas like Blaenau Gwent, which suffer with high levels of people, especially young people, classified as NEET, not in employment, education or training.\n\nCompanies like this rely on Government grants to expand their operations in Wales and ensure that old and outdated facilities meet the needs of modern research and manufacturing. So, what steps is the Government taking to ensure that competitive modern industries are kept in Wales, grants are timely, and that they are not pushed to relocate elsewhere?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=2606"
+        },
+        {
+          "id": "contribution-780630",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "3. Has the Commission obtained independent advice on whether its broadcasting policy is fair, proportionate and consistently applied? OQ64743",
+          "text_original": "3. A yw'r Comisiwn wedi cael cyngor annibynnol ynghylch a yw ei bolisi darlledu yn deg, yn gymesur ac yn cael ei gymhwyso'n gyson? OQ64743",
+          "tv_url": "http://www.senedd.tv/en/16318"
+        },
+        {
+          "id": "contribution-780632",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 6376,
+          "text_english": "Diolch. GB News is still excluded from the Senedd's internal television screens, and the justification was that comments made were contrary to the Parliament's values. However, the very broadcasting protocol itself was developed by an unnamed independent adviser to the Senedd Commission. So, what are the values of this adviser and on what political spectrum do they lie? The fact is the inclusion of Sky News as a commercial broadcaster undercuts the rule of allowing only public service broadcasters on the internal Senedd television screens. GB News is also a licensed news and current affairs broadcaster like Sky News, and its programmes cover issues affecting people across Wales, including perspectives that challenge the Welsh Government's policies.\n\nSo, while I recognise the Commission's responsibility to maintain appropriate standards, these standards must be applied fairly, consistently and proportionately. So, could we have discussions on this sooner rather than later, and can we all have an opinion on this, so that we can get GB News back where it belongs on our internal tv screens?",
+          "text_original": "Diolch. GB News is still excluded from the Senedd's internal television screens, and the justification was that comments made were contrary to the Parliament's values. However, the very broadcasting protocol itself was developed by an unnamed independent adviser to the Senedd Commission. So, what are the values of this adviser and on what political spectrum do they lie? The fact is the inclusion of Sky News as a commercial broadcaster undercuts the rule of allowing only public service broadcasters on the internal Senedd television screens. GB News is also a licensed news and current affairs broadcaster like Sky News, and its programmes cover issues affecting people across Wales, including perspectives that challenge the Welsh Government's policies.\n\nSo, while I recognise the Commission's responsibility to maintain appropriate standards, these standards must be applied fairly, consistently and proportionately. So, could we have discussions on this sooner rather than later, and can we all have an opinion on this, so that we can get GB News back where it belongs on our internal tv screens?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=6376"
         }
       ],
       "date": "2026-10-21",
@@ -786,10 +839,60 @@
           "item_id": "item-16317-261020-1",
           "item_title_en": "1. Questions to the First Minister",
           "lang": "en",
-          "t_start": 1695,
-          "text_english": "In the August 2026 report, Care Inspectorate Wales found that adoption support remained inconsistent, with waiting lists across almost every region collaborative. The average number of days taken for children to move from the decision that they should be placed for adoption to actually being in place varied considerably across Wales, with the lowest figure of 248 days waiting in the Western Bay Adoption Service to a high of 450 days waiting in the Adoption Mid and West Wales collaborative. It is apparent that you want to build a united Wales, but in what modern nation is it acceptable for a child to wait an additional 202 days to get the outcome they need in one region compared to the other? This is not timely.\n\nHaving experienced the care system myself, both as a child and as an adoptive parent, I know the struggle first-hand. So, my question is simple: what specifically is this Government going to do to close these gaps and ensure equitable support nationwide?",
-          "text_original": "In the August 2026 report, Care Inspectorate Wales found that adoption support remained inconsistent, with waiting lists across almost every region collaborative. The average number of days taken for children to move from the decision that they should be placed for adoption to actually being in place varied considerably across Wales, with the lowest figure of 248 days waiting in the Western Bay Adoption Service to a high of 450 days waiting in the Adoption Mid and West Wales collaborative. It is apparent that you want to build a united Wales, but in what modern nation is it acceptable for a child to wait an additional 202 days to get the outcome they need in one region compared to the other? This is not timely.\n\nHaving experienced the care system myself, both as a child and as an adoptive parent, I know the struggle first-hand. So, my question is simple: what specifically is this Government going to do to close these gaps and ensure equitable support nationwide?",
-          "tv_url": "http://www.senedd.tv/en/16317?startPos=1695"
+          "t_start": 1697,
+          "text_english": "In the August 2026 report, Care Inspectorate Wales found that adoption support remained inconsistent, with waiting lists across almost every regional collaborative. The average number of days taken for children to move from the decision that they should be placed for adoption to actually being in place varied considerably across Wales, with the lowest figure of 248 days waiting in the Western Bay Adoption Service to a high of 450 days waiting in the Adoption Mid and West Wales collaborative. It is apparent that you want to build a united Wales, but in what modern nation is it acceptable for a child to wait an additional 202 days to get the outcome they need in one region compared to the other? This is not timely.\n\nHaving experienced the care system myself, both as a child and as an adoptive parent, I know the struggle first-hand. So, my question is simple: what specifically is this Government going to do to close these gaps and ensure equitable support nationwide?",
+          "text_original": "In the August 2026 report, Care Inspectorate Wales found that adoption support remained inconsistent, with waiting lists across almost every regional collaborative. The average number of days taken for children to move from the decision that they should be placed for adoption to actually being in place varied considerably across Wales, with the lowest figure of 248 days waiting in the Western Bay Adoption Service to a high of 450 days waiting in the Adoption Mid and West Wales collaborative. It is apparent that you want to build a united Wales, but in what modern nation is it acceptable for a child to wait an additional 202 days to get the outcome they need in one region compared to the other? This is not timely.\n\nHaving experienced the care system myself, both as a child and as an adoptive parent, I know the struggle first-hand. So, my question is simple: what specifically is this Government going to do to close these gaps and ensure equitable support nationwide?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=1697"
+        },
+        {
+          "id": "contribution-779819",
+          "item_id": "item-16317-261020-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "1. What legal advice has the Counsel General provided to the Welsh Government regarding the legal rights of adopted children to seek specialist support when their needs continue into adulthood? OQ64742",
+          "text_original": "1. Pa gyngor cyfreithiol y mae'r Cwnsler Cyffredinol wedi'i roi i Lywodraeth Cymru ynghylch hawliau cyfreithiol plant mabwysiedig i geisio cymorth arbenigol os bydd eu hanghenion yn parhau i oedolaeth? OQ64742",
+          "tv_url": "http://www.senedd.tv/en/16317"
+        },
+        {
+          "id": "contribution-779832",
+          "item_id": "item-16317-261020-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "en",
+          "t_start": 3731,
+          "text_english": "Counsel General, for many adopted young people, turning 18 does not mean their need for support disappears; in fact, it can be the point when they need it the most. Adopted young people can face complex challenges around identity, trauma, attachment and mental health, yet as they transition into adulthood, the support available to them can become fragmented, leaving them struggling to navigate adult services at the time they need it. We wouldn't expect a young person to suddenly overcome the impact of early childhood traumas just because they've reached a certain age. So, will the Counsel General clarify whether existing Welsh legislation provides sufficient protection for adopted young people into adulthood, and whether the Government is considering introducing a statutory duty to ensure continuing specialist support up until the age of 25?",
+          "text_original": "Counsel General, for many adopted young people, turning 18 does not mean their need for support disappears; in fact, it can be the point when they need it the most. Adopted young people can face complex challenges around identity, trauma, attachment and mental health, yet as they transition into adulthood, the support available to them can become fragmented, leaving them struggling to navigate adult services at the time they need it. We wouldn't expect a young person to suddenly overcome the impact of early childhood traumas just because they've reached a certain age. So, will the Counsel General clarify whether existing Welsh legislation provides sufficient protection for adopted young people into adulthood, and whether the Government is considering introducing a statutory duty to ensure continuing specialist support up until the age of 25?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=3731"
+        },
+        {
+          "id": "contribution-779872",
+          "item_id": "item-16317-261020-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "6. What legal advice has the Counsel General provided to the Welsh Government regarding whether removing parents' right to withdraw their children from relationships and sexuality education is consistent with the European Convention on Human Rights? OQ64740",
+          "text_original": "6. Pa gyngor cyfreithiol y mae'r Cwnsler Cyffredinol wedi'i roi i Lywodraeth Cymru ynghylch a yw dileu hawl rhieni i dynnu eu plant yn ôl o addysg cydberthynas a rhywioldeb yn gyson â'r Confensiwn Ewropeaidd ar Hawliau Dynol? OQ64740",
+          "tv_url": "http://www.senedd.tv/en/16317"
+        },
+        {
+          "id": "contribution-779874",
+          "item_id": "item-16317-261020-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "en",
+          "t_start": 5498,
+          "text_english": "Relationships and sexuality education, as you say, has been a compulsory element of the Curriculum for Wales since 2022. In its own words, the framework covers relationships, rights, equality and diversity. What parents may not be aware of, however, is that education is compulsory and in force in Wales from the age of three, including in funded nursery education. Moreover, unlike previous sex education arrangements, RSE is mandatory until 16, and parents do not have the general right to withdraw. Now, whatever our views on the ECHR may be, we are as lawmakers in the Senedd totally bound by the European convention on human rights. Article 2 of protocol No. 1 plainly states that\n\n'the State shall respect the right of parents to ensure such education and teaching is in conformity with their own religious and philosophical convictions.'\n\nSo, quite simply, do parents in Wales actually still have the right to withdraw their children from RSE when it does not conform to their religious and philosophical convictions?",
+          "text_original": "Relationships and sexuality education, as you say, has been a compulsory element of the Curriculum for Wales since 2022. In its own words, the framework covers relationships, rights, equality and diversity. What parents may not be aware of, however, is that education is compulsory and in force in Wales from the age of three, including in funded nursery education. Moreover, unlike previous sex education arrangements, RSE is mandatory until 16, and parents do not have the general right to withdraw. Now, whatever our views on the ECHR may be, we are as lawmakers in the Senedd totally bound by the European convention on human rights. Article 2 of protocol No. 1 plainly states that\n\n'the State shall respect the right of parents to ensure such education and teaching is in conformity with their own religious and philosophical convictions.'\n\nSo, quite simply, do parents in Wales actually still have the right to withdraw their children from RSE when it does not conform to their religious and philosophical convictions?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=5498"
+        },
+        {
+          "id": "contribution-780072",
+          "item_id": "item-16317-261020-6",
+          "item_title_en": "6. Statement by the Deputy Minister for Social Care, Mental Health and Women’s Health: Update on the National Care Service Programme",
+          "lang": "en",
+          "t_start": 15218,
+          "text_english": "Diolch, Deputy Llywydd. I welcome the Deputy Minister's statement today, but it seems that the statement is doubling down again on this Stronger Safeguarding for a Safer Wales. As you know, I have already expressed serious reservations about this, because while it looks fluffy on the outside, it is not so on the inside.\n\nWe already know about the damage that overly burdensome safeguarding procedures can cause in the care and health services. At the moment, it is quite reactive. We only need to listen to some of the stories of people who have been under this to understand what it is like. So, we must ensure that social care does not suffer the same fate. Safeguarding must protect people without drowning front-line workers in paperwork and without placing front-line professionals' lives on hold while they are subject to safeguarding inquiries. How can we recruit and hope to retain in the care sector with these strict safeguarding measures in line? It does not go well.\n\nThe statement says that success will not be measured by structures created or documents published, but how exactly, then, are you going to measure success? And what measurable targets, timescales and outcomes will be published to demonstrate improvements in care recruitment and retention? Diolch.",
+          "text_original": "Diolch, Deputy Llywydd. I welcome the Deputy Minister's statement today, but it seems that the statement is doubling down again on this Stronger Safeguarding for a Safer Wales. As you know, I have already expressed serious reservations about this, because while it looks fluffy on the outside, it is not so on the inside.\n\nWe already know about the damage that overly burdensome safeguarding procedures can cause in the care and health services. At the moment, it is quite reactive. We only need to listen to some of the stories of people who have been under this to understand what it is like. So, we must ensure that social care does not suffer the same fate. Safeguarding must protect people without drowning front-line workers in paperwork and without placing front-line professionals' lives on hold while they are subject to safeguarding inquiries. How can we recruit and hope to retain in the care sector with these strict safeguarding measures in line? It does not go well.\n\nThe statement says that success will not be measured by structures created or documents published, but how exactly, then, are you going to measure success? And what measurable targets, timescales and outcomes will be published to demonstrate improvements in care recruitment and retention? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=15218"
         }
       ],
       "date": "2026-10-20",

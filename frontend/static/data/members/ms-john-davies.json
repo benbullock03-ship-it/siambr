@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,34 @@
   "canonical_name": "John Davies",
   "constituency_name_cy": "Gŵyr Abertawe",
   "constituency_name_en": "Gŵyr Abertawe",
-  "contribution_count": 17,
+  "contribution_count": 19,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780131",
+          "item_id": "item-16317-261020-8",
+          "item_title_en": "8. Statement by the Cabinet Minister for Enterprise, Connectivity and Energy: Update on the National Energy Strategy",
+          "lang": "en",
+          "t_start": 20043,
+          "text_english": "Diolch, Lywydd. Thank you, Minister. Wales's economy is, and always has been, one of extraction. It's an economy designed to export our resources for little or no reward, while private companies, mostly from the other side of the bridge, rake in the profits. People in Wales, therefore, live in poverty, and are affected by everything that poverty brings with it. We have a massive economic, social and climate change opportunity that is with us at the moment. Wales has a massive green energy potential. It's an opportunity to buck this pattern and to break the chains that we currently have.\n\nMany Welsh community energy initiatives have already seized this opportunity, reversing the outflow of energy and retaining wealth in Wales. Volunteers typically spearhead these initiatives. We, as a Government, must support them, as this sometimes can be a complex process. By providing communities with ready-made turnkey community energy solutions, we can change things. We can enable communities to embrace new green technology, to consume locally produced energy and to embed—",
+          "text_original": "Diolch, Lywydd. Thank you, Minister. Wales's economy is, and always has been, one of extraction. It's an economy designed to export our resources for little or no reward, while private companies, mostly from the other side of the bridge, rake in the profits. People in Wales, therefore, live in poverty, and are affected by everything that poverty brings with it. We have a massive economic, social and climate change opportunity that is with us at the moment. Wales has a massive green energy potential. It's an opportunity to buck this pattern and to break the chains that we currently have.\n\nMany Welsh community energy initiatives have already seized this opportunity, reversing the outflow of energy and retaining wealth in Wales. Volunteers typically spearhead these initiatives. We, as a Government, must support them, as this sometimes can be a complex process. By providing communities with ready-made turnkey community energy solutions, we can change things. We can enable communities to embrace new green technology, to consume locally produced energy and to embed—",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=20043"
+        },
+        {
+          "id": "contribution-780155",
+          "item_id": "item-16317-261020-8",
+          "item_title_en": "8. Statement by the Cabinet Minister for Enterprise, Connectivity and Energy: Update on the National Energy Strategy",
+          "lang": "en",
+          "t_start": 20129,
+          "text_english": "I will. What consideration has the Cabinet Minister given to such a turnkey Government-supported approach to community energy? Thank you.",
+          "text_original": "I will. What consideration has the Cabinet Minister given to such a turnkey Government-supported approach to community energy? Thank you.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=20129"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
+    },
     {
       "contributions": [
         {

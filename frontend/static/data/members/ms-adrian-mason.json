@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,24 @@
   "canonical_name": "Adrian Mason",
   "constituency_name_cy": "Clwyd",
   "constituency_name_en": "Clwyd",
-  "contribution_count": 29,
+  "contribution_count": 33,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780762",
+          "item_id": "item-16318-261021-8",
+          "item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+          "lang": "en",
+          "t_start": 12519,
+          "text_english": "I'm going to address the men of Wales, and first of all, thank you, Llŷr Powell, for tabling this debate. This is one of those debates where we should be able to put politics to one side. Prostate cancer doesn't care who you vote for, where you live or what you do for a living. When somebody is told they've got cancer, they're not thinking about politics, they're thinking about their family, what happens next and whether they're going to be all right.\n\nThis issue is personal to me. My grandfather died from kidney failure caused by prostate cancer, and several other men on my mother's side of the family have been affected by it. That's why it matters to me. I'm thinking about my grandfather and about the families across Wales facing those same worries today. I'm also thinking about the men who may have put off speaking to their GP. I'm 61 now, and because of my family background, I've had the prostate-specific antigen test, and, thankfully, the result was reassuring. But many men don't take that step. Some don't want to make a fuss. Some are worried about what they might be told. Others simply think if they feel fine, there cannot be anything wrong. The reality is that prostate cancer does not always give you a warning. That's why awareness matters and why men need to understand their own risk. But awareness on its own isn't enough. When someone does come forward, the NHS has to be there for them. If they need tests, scans or treatment, they shouldn't be left waiting and worrying about what happens next.\n\nFor those of us in rural Wales, there can be additional challenges. A hospital appointment can mean a long journey, time away from work and an entire day spent travelling. If you're already anxious about your health, that only adds to the burden. The latest national prostate cancer audit also raises concerns about variation in treatment in Wales. The figures come with important warnings about data quality, but that itself raises a question: how can we be confident that patients are receiving the right treatment if we cannot reliably measure what is happening?\n\nI also want to say a brief word about the Conservative amendment. I understand the case being made, because I'd like to see more men diagnosed earlier too, particularly given my own family's experience. There is important work taking place around targeted screening for men at particularly high risk, and I believe Wales should continue to follow the evidence and medical advice as that develops.\n\nBut today's motion is straightforward. We're asking the Welsh Government to ensure that prostate cancer has a clear place within Wales's national cancer strategy. And inclusion in a strategy must mean more than just a mention in a document. It needs clear commitment on earlier diagnosis, timely treatment and fair access across Wales, with progress that patients and families can actually see—not because prostate cancer is more important than any other cancer, but because it affects so many men and families, and deserves sustained attention.\n\nI'd like to thank organisations such as Prostate Cymru, Prostate Cancer UK, Lingen Davies Cancer Support in my own constituency, and Movember, along with the NHS staff and all the other organisations and individuals who work tirelessly to support patients and their families. Llywydd, I can't change what happened to my grandfather, but I'd like to think we can improve things for the men and families who come after us, because behind every diagnosis is a husband, father, grandfather, brother or friend. And what matters to those families isn't which party brought this debate forward; what matters is what we do next and whether we make the difference. Diolch.",
+          "text_original": "I'm going to address the men of Wales, and first of all, thank you, Llŷr Powell, for tabling this debate. This is one of those debates where we should be able to put politics to one side. Prostate cancer doesn't care who you vote for, where you live or what you do for a living. When somebody is told they've got cancer, they're not thinking about politics, they're thinking about their family, what happens next and whether they're going to be all right.\n\nThis issue is personal to me. My grandfather died from kidney failure caused by prostate cancer, and several other men on my mother's side of the family have been affected by it. That's why it matters to me. I'm thinking about my grandfather and about the families across Wales facing those same worries today. I'm also thinking about the men who may have put off speaking to their GP. I'm 61 now, and because of my family background, I've had the prostate-specific antigen test, and, thankfully, the result was reassuring. But many men don't take that step. Some don't want to make a fuss. Some are worried about what they might be told. Others simply think if they feel fine, there cannot be anything wrong. The reality is that prostate cancer does not always give you a warning. That's why awareness matters and why men need to understand their own risk. But awareness on its own isn't enough. When someone does come forward, the NHS has to be there for them. If they need tests, scans or treatment, they shouldn't be left waiting and worrying about what happens next.\n\nFor those of us in rural Wales, there can be additional challenges. A hospital appointment can mean a long journey, time away from work and an entire day spent travelling. If you're already anxious about your health, that only adds to the burden. The latest national prostate cancer audit also raises concerns about variation in treatment in Wales. The figures come with important warnings about data quality, but that itself raises a question: how can we be confident that patients are receiving the right treatment if we cannot reliably measure what is happening?\n\nI also want to say a brief word about the Conservative amendment. I understand the case being made, because I'd like to see more men diagnosed earlier too, particularly given my own family's experience. There is important work taking place around targeted screening for men at particularly high risk, and I believe Wales should continue to follow the evidence and medical advice as that develops.\n\nBut today's motion is straightforward. We're asking the Welsh Government to ensure that prostate cancer has a clear place within Wales's national cancer strategy. And inclusion in a strategy must mean more than just a mention in a document. It needs clear commitment on earlier diagnosis, timely treatment and fair access across Wales, with progress that patients and families can actually see—not because prostate cancer is more important than any other cancer, but because it affects so many men and families, and deserves sustained attention.\n\nI'd like to thank organisations such as Prostate Cymru, Prostate Cancer UK, Lingen Davies Cancer Support in my own constituency, and Movember, along with the NHS staff and all the other organisations and individuals who work tirelessly to support patients and their families. Llywydd, I can't change what happened to my grandfather, but I'd like to think we can improve things for the men and families who come after us, because behind every diagnosis is a husband, father, grandfather, brother or friend. And what matters to those families isn't which party brought this debate forward; what matters is what we do next and whether we make the difference. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=12519"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
     {
       "contributions": [
         {
@@ -750,20 +799,50 @@
           "item_id": "item-16317-261020-1",
           "item_title_en": "1. Questions to the First Minister",
           "lang": "en",
-          "t_start": 560,
-          "text_english": "First Minister, collaboration from the Irish Republic is something, like you, that I strongly support, particularly on trade, Holyhead, and the resilience of our links across the Irish Sea. But co-operation between two Governments is one matter; advancing a party political constitutional objective is quite another. Your Government's shared statement, as you just mentioned before, with Ireland, specifically refers to co-operation in areas for which the Welsh Government has devolved responsibility.\n\nSo, will you give this Chamber a categorical assurance that Welsh Government offices, officials, public money and ministerial visits to Ireland will not be used directly or indirectly to promote Plaid Cymru's campaign for Welsh independence? And can you give that assurance today?",
-          "text_original": "First Minister, collaboration from the Irish Republic is something, like you, that I strongly support, particularly on trade, Holyhead, and the resilience of our links across the Irish Sea. But co-operation between two Governments is one matter; advancing a party political constitutional objective is quite another. Your Government's shared statement, as you just mentioned before, with Ireland, specifically refers to co-operation in areas for which the Welsh Government has devolved responsibility.\n\nSo, will you give this Chamber a categorical assurance that Welsh Government offices, officials, public money and ministerial visits to Ireland will not be used directly or indirectly to promote Plaid Cymru's campaign for Welsh independence? And can you give that assurance today?",
-          "tv_url": "http://www.senedd.tv/en/16317?startPos=560"
+          "t_start": 562,
+          "text_english": "First Minister, collaboration from the Irish Republic is something that I, like you, strongly support, particularly on trade, Holyhead and the resilience of our links across the Irish Sea. But co-operation between two Governments is one matter; advancing a party political constitutional objective is quite another. Your Government's shared statement, as you just mentioned before, with Ireland, specifically refers to co-operation in areas for which the Welsh Government has devolved responsibility. So, will you give this Chamber a categorical assurance that Welsh Government offices, officials, public money and ministerial visits to Ireland will not be used directly or indirectly to promote Plaid Cymru's campaign for Welsh independence? And can you give that assurance today?",
+          "text_original": "First Minister, collaboration from the Irish Republic is something that I, like you, strongly support, particularly on trade, Holyhead and the resilience of our links across the Irish Sea. But co-operation between two Governments is one matter; advancing a party political constitutional objective is quite another. Your Government's shared statement, as you just mentioned before, with Ireland, specifically refers to co-operation in areas for which the Welsh Government has devolved responsibility. So, will you give this Chamber a categorical assurance that Welsh Government offices, officials, public money and ministerial visits to Ireland will not be used directly or indirectly to promote Plaid Cymru's campaign for Welsh independence? And can you give that assurance today?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=562"
         },
         {
-          "id": "contribution-779731",
-          "item_id": "item-16317-261020-1",
-          "item_title_en": "1. Questions to the First Minister",
+          "id": "contribution-779857",
+          "item_id": "item-16317-261020-2",
+          "item_title_en": "2. Questions to the Counsel General",
           "lang": "en",
-          "t_start": 600,
-          "text_english": "And can you give that assurance today?",
-          "text_original": "And can you give that assurance today?",
-          "tv_url": "http://www.senedd.tv/en/16317?startPos=600"
+          "t_start": 4414,
+          "text_english": "Diolch, Lywydd. Good afternoon, Counsel General. The two-week time frame required under Standing Order 29.2 is not merely an administrative suggestion. It's in place to ensure that proper scrutiny of the relevant provisions of UK legislation can be conducted by committees. The Welsh Government's repeated failure to adhere to this time frame impedes proper scrutiny. Counsel General, in light of this, can you provide the Senedd with an update on the clear action planned to be taken by the Welsh Government to ensure that committees are able to effectively scrutinise legislation made by your Government in the interest of fair and accountable governance?",
+          "text_original": "Diolch, Lywydd. Good afternoon, Counsel General. The two-week time frame required under Standing Order 29.2 is not merely an administrative suggestion. It's in place to ensure that proper scrutiny of the relevant provisions of UK legislation can be conducted by committees. The Welsh Government's repeated failure to adhere to this time frame impedes proper scrutiny. Counsel General, in light of this, can you provide the Senedd with an update on the clear action planned to be taken by the Welsh Government to ensure that committees are able to effectively scrutinise legislation made by your Government in the interest of fair and accountable governance?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=4414"
+        },
+        {
+          "id": "contribution-779837",
+          "item_id": "item-16317-261020-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "en",
+          "t_start": 4541,
+          "text_english": "Thank you, Counsel General. I know you wouldn't stand there making excuses—I'm quite fully aware of that. But considering Plaid Cymru's fierce commitment to promoting and preserving the Welsh language, which has rightly received support across the Chamber, of course, it remains unclear why the Welsh language versions of statutory texts are repeatedly attracting reporting points concerning inconsistencies between the English and Welsh texts. So, going forward, Counsel General, what is the Welsh Government doing to ensure that translation of statutory texts into the Welsh language are accurate, clear and contribute positively to the accessibility of Welsh law?",
+          "text_original": "Thank you, Counsel General. I know you wouldn't stand there making excuses—I'm quite fully aware of that. But considering Plaid Cymru's fierce commitment to promoting and preserving the Welsh language, which has rightly received support across the Chamber, of course, it remains unclear why the Welsh language versions of statutory texts are repeatedly attracting reporting points concerning inconsistencies between the English and Welsh texts. So, going forward, Counsel General, what is the Welsh Government doing to ensure that translation of statutory texts into the Welsh language are accurate, clear and contribute positively to the accessibility of Welsh law?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=4541"
+        },
+        {
+          "id": "contribution-779847",
+          "item_id": "item-16317-261020-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "en",
+          "t_start": 4630,
+          "text_english": "I thank you again for your honesty, Counsel General. In light of the often elusive nature of inter-governmental communications between the Welsh and UK Governments, can you commit to ensuring that, where it is appropriate, the Legislation Committee is provided with a clear record of discussions, negotiations and agreements reached on draft legislation? Whilst I do recognise, Counsel General, that the Welsh Government may consider these discussions are subject to privilege, there must be some exceptions to facilitate proper scrutiny. So, basically, to ensure that draft legislation can be scrutinised, of course, it is vital that both the Legislation Committee and the wider Senedd understands the context of these negotiations. So, Counsel General, transparency is of paramount importance if we intend to collaboratively create a clear, cohesive body of Welsh law for the remainder of the seventh Senedd. Would you agree?",
+          "text_original": "I thank you again for your honesty, Counsel General. In light of the often elusive nature of inter-governmental communications between the Welsh and UK Governments, can you commit to ensuring that, where it is appropriate, the Legislation Committee is provided with a clear record of discussions, negotiations and agreements reached on draft legislation? Whilst I do recognise, Counsel General, that the Welsh Government may consider these discussions are subject to privilege, there must be some exceptions to facilitate proper scrutiny. So, basically, to ensure that draft legislation can be scrutinised, of course, it is vital that both the Legislation Committee and the wider Senedd understands the context of these negotiations. So, Counsel General, transparency is of paramount importance if we intend to collaboratively create a clear, cohesive body of Welsh law for the remainder of the seventh Senedd. Would you agree?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=4630"
+        },
+        {
+          "id": "contribution-779860",
+          "item_id": "item-16317-261020-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "en",
+          "t_start": 4707,
+          "text_english": "Thank you.",
+          "text_original": "Thank you.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=4707"
         }
       ],
       "date": "2026-10-20",

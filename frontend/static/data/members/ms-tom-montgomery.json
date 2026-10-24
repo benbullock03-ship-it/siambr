@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,40 @@
   "canonical_name": "Tom Montgomery",
   "constituency_name_cy": "Clwyd",
   "constituency_name_en": "Clwyd",
-  "contribution_count": 33,
+  "contribution_count": 35,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780521",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "en",
+          "t_start": 3121,
+          "text_english": "Can I start by declaring an interest? My wife works in an additional learning needs provision within a school in Conwy.\n\nI thank the leader of the Welsh Conservatives for bringing this question forward. Minister, I was speaking to a teacher in Rhyl, and it was explained to me that the school in which that teacher worked can't afford pens or pencils, and staff are currently using their own money to buy learning resources. It's no surprise, then, that the Institute for Fiscal Studies has claimed that students in that local authority area are up to 23 months behind the national average. As we are seeing a shift towards greater school-level flexibility on learning approaches and a more interlinked learning approach, researchers from Cardiff University have warned that schools need significant investment in materials and learning resources to avoid the widening of educational outcome gaps between different parts of Wales. How can we expect teachers in my constituency to achieve the best outcomes for students when their schools can't even afford pens and pencils? Diolch.",
+          "text_original": "Can I start by declaring an interest? My wife works in an additional learning needs provision within a school in Conwy.\n\nI thank the leader of the Welsh Conservatives for bringing this question forward. Minister, I was speaking to a teacher in Rhyl, and it was explained to me that the school in which that teacher worked can't afford pens or pencils, and staff are currently using their own money to buy learning resources. It's no surprise, then, that the Institute for Fiscal Studies has claimed that students in that local authority area are up to 23 months behind the national average. As we are seeing a shift towards greater school-level flexibility on learning approaches and a more interlinked learning approach, researchers from Cardiff University have warned that schools need significant investment in materials and learning resources to avoid the widening of educational outcome gaps between different parts of Wales. How can we expect teachers in my constituency to achieve the best outcomes for students when their schools can't even afford pens and pencils? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=3121"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-780081",
+          "item_id": "item-16317-261020-7",
+          "item_title_en": "7. Statement by the Cabinet Minister for Finance: An Update on Council Tax",
+          "lang": "en",
+          "t_start": 17578,
+          "text_english": "Minister, in your statement, you say you want to explore new ideas around council funding. We heard several clear ones last week from these benches. One was local government mergers. Here in Wales, we have local authorities serving much fewer residents than our English counterparts. The average number of residents served by a council in Wales is 144,000, with 14 local authorities falling below that average. Compare that to local authorities in England: the average number of residents served by a unitary authority in England is around 250,000 to 300,000 people. Cornwall serves almost 600,000, whilst North Yorkshire serves almost 650,000. This provides us with clear evidence that Welsh council tax payers are funding an enlarged local government sector that is too big and too expensive. So, Minister, would you agree with me that we now must seriously consider mergers as part of the fundamental reforms of local government in Wales? And will you here, now, promise to create a package of financial support for local authority mergers to help make our local government more effective and sustainable for taxpayers?",
+          "text_original": "Minister, in your statement, you say you want to explore new ideas around council funding. We heard several clear ones last week from these benches. One was local government mergers. Here in Wales, we have local authorities serving much fewer residents than our English counterparts. The average number of residents served by a council in Wales is 144,000, with 14 local authorities falling below that average. Compare that to local authorities in England: the average number of residents served by a unitary authority in England is around 250,000 to 300,000 people. Cornwall serves almost 600,000, whilst North Yorkshire serves almost 650,000. This provides us with clear evidence that Welsh council tax payers are funding an enlarged local government sector that is too big and too expensive. So, Minister, would you agree with me that we now must seriously consider mergers as part of the fundamental reforms of local government in Wales? And will you here, now, promise to create a package of financial support for local authority mergers to help make our local government more effective and sustainable for taxpayers?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=17578"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
+    },
     {
       "contributions": [
         {

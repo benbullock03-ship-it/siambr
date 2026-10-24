@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,24 @@
   "canonical_name": "Alun Cox",
   "constituency_name_cy": "Afan Ogwr Rhondda",
   "constituency_name_en": "Afan Ogwr Rhondda",
-  "contribution_count": 26,
+  "contribution_count": 27,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780715",
+          "item_id": "item-16318-261021-6",
+          "item_title_en": "5. 90-second Statements",
+          "lang": "en",
+          "t_start": 8969,
+          "text_english": "Diolch, Ddirprwy Lywydd. I'd like to congratulate Cwm Taf Morgannwg public health team and the Treherbert learning community team, who recently won the inclusion and respect award at this year's Seren awards. Their work forms part of the wider Treherbert initiative, with Grow Rhondda as a key partner. The initiative asked one simple question: what was needed to help people in Treherbert to live healthier lives? This question was taken directly to the people and some clear themes began to emerge: affordable healthy food, mental health support, youth facilities and much more. Importantly, following this, work has started to act on some of these priorities, resulting, for example, in the creation of a low-cost fruit and veg market at Grow Rhondda's cafe, where nothing costs more than £1.50. This shows the importance of working with and listening to a community when looking for concrete actions to improve people's lives. So, congratulations once again to Cwm Taf Morgannwg public health and Treherbert learning community team, and I look forward to seeing what the future holds and what further activities they deliver. Diolch.",
+          "text_original": "Diolch, Ddirprwy Lywydd. I'd like to congratulate Cwm Taf Morgannwg public health team and the Treherbert learning community team, who recently won the inclusion and respect award at this year's Seren awards. Their work forms part of the wider Treherbert initiative, with Grow Rhondda as a key partner. The initiative asked one simple question: what was needed to help people in Treherbert to live healthier lives? This question was taken directly to the people and some clear themes began to emerge: affordable healthy food, mental health support, youth facilities and much more. Importantly, following this, work has started to act on some of these priorities, resulting, for example, in the creation of a low-cost fruit and veg market at Grow Rhondda's cafe, where nothing costs more than £1.50. This shows the importance of working with and listening to a community when looking for concrete actions to improve people's lives. So, congratulations once again to Cwm Taf Morgannwg public health and Treherbert learning community team, and I look forward to seeing what the future holds and what further activities they deliver. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=8969"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
     {
       "contributions": [
         {

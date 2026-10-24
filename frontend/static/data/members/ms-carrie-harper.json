@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,23 +774,59 @@
   "canonical_name": "Carrie Harper",
   "constituency_name_cy": "Fflint Wrecsam",
   "constituency_name_en": "Fflint Wrecsam",
-  "contribution_count": 26,
+  "contribution_count": 29,
   "contributions_by_date": [
     {
       "contributions": [
+        {
+          "id": "contribution-780550",
+          "item_id": "item-16318-261021-2",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "5. How is the Welsh Government supporting businesses to benefit from public procurement spending? OQ64792",
+          "text_original": "5. Sut mae Llywodraeth Cymru yn cefnogi busnesau i elwa ar wariant caffael cyhoeddus? OQ64792",
+          "tv_url": "http://www.senedd.tv/en/16318"
+        },
         {
           "id": "contribution-780481",
           "item_id": "item-16318-261021-2",
           "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
           "lang": "en",
-          "t_start": 2404,
-          "text_english": "Diolch yn fawr. The Plaid Cymru manifesto sets a target to significantly increase the amount of public procurement spending within Wales to 70 per cent. Now, given we spend £11 billion every year on public procurement, there's enormous potential there, isn't there, to better support Welsh businesses, potentially to create tens of thousands of jobs and to boost local supply chains as well. And the best bit, of course, is that this isn't new money, this is money that we're already spending. We need to spend it smarter; we need to make sure more of it goes to local businesses, to our workers and to our communities. So, can the Minister outline what practical steps he's taking to attain that 70 per cent target, and how we plan to measure progress? Diolch.",
-          "text_original": "Diolch yn fawr. The Plaid Cymru manifesto sets a target to significantly increase the amount of public procurement spending within Wales to 70 per cent. Now, given we spend £11 billion every year on public procurement, there's enormous potential there, isn't there, to better support Welsh businesses, potentially to create tens of thousands of jobs and to boost local supply chains as well. And the best bit, of course, is that this isn't new money, this is money that we're already spending. We need to spend it smarter; we need to make sure more of it goes to local businesses, to our workers and to our communities. So, can the Minister outline what practical steps he's taking to attain that 70 per cent target, and how we plan to measure progress? Diolch.",
-          "tv_url": "http://www.senedd.tv/en/16318?startPos=2404"
+          "t_start": 2406,
+          "text_english": "Diolch yn fawr. The Plaid Cymru manifesto sets a target to significantly increase the amount of public procurement spending within Wales to 70 per cent. Given that we spend £11 billion every year on public procurement, there's enormous potential there, isn't there, to better support Welsh businesses, potentially to create tens of thousands of jobs and to boost local supply chains as well. And the best bit, of course, is that this isn't new money; this is money that we're already spending. We need to spend it smarter; we need to make sure more of it goes to local businesses, to our workers and to our communities. So, can the Minister outline what practical steps he's taking to attain that 70 per cent target, and how we plan to measure progress? Diolch.",
+          "text_original": "Diolch yn fawr. The Plaid Cymru manifesto sets a target to significantly increase the amount of public procurement spending within Wales to 70 per cent. Given that we spend £11 billion every year on public procurement, there's enormous potential there, isn't there, to better support Welsh businesses, potentially to create tens of thousands of jobs and to boost local supply chains as well. And the best bit, of course, is that this isn't new money; this is money that we're already spending. We need to spend it smarter; we need to make sure more of it goes to local businesses, to our workers and to our communities. So, can the Minister outline what practical steps he's taking to attain that 70 per cent target, and how we plan to measure progress? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=2406"
+        },
+        {
+          "id": "contribution-780867",
+          "item_id": "item-16318-261021-11",
+          "item_title_en": "10. Short Debate: Full-face coverings are against British values",
+          "lang": "en",
+          "t_start": 19620,
+          "text_english": "Diolch, Lywydd. I think we're all entitled to question Reform's real intentions when they raise a debate on face coverings, especially given, just in the last fortnight, a very similar debate was raised in the Scottish Parliament as well, which explicitly called for banning the burqa and the niqab, and we've heard the same statements here today. So, let's not pretend that this is about criminality and balaclavas. That's nonsense, and we can all see through that. This is a thinly veiled attack on the religious rights of women. That's blatantly obvious to everybody.\n\nI think it's really ironic as well that Reform have chosen to frame this debate about values in the same week that we've had an ITV investigation exposing deep-rooted racism and sexism in your party. One of the worst things that I heard from that programme was then Reform councillor Chris Whelan talking about a fellow Reform candidate. He said, 'If she were my daughter, it would still be bath night on a Thursday'. Vile, disgusting and disturbing in the way it sexualised a child. There were multiple examples of sexism and racism in that programme, from the party that claims to want to protect women.\n\nSo, seriously, how can Reform lecture us about values when they're in the midst of a scandal about racism and sexism? How on earth can you claim to stand up for women when you are trying to dictate what Muslim women can and cannot wear? Complete hypocrisy—complete hypocrisy.",
+          "text_original": "Diolch, Lywydd. I think we're all entitled to question Reform's real intentions when they raise a debate on face coverings, especially given, just in the last fortnight, a very similar debate was raised in the Scottish Parliament as well, which explicitly called for banning the burqa and the niqab, and we've heard the same statements here today. So, let's not pretend that this is about criminality and balaclavas. That's nonsense, and we can all see through that. This is a thinly veiled attack on the religious rights of women. That's blatantly obvious to everybody.\n\nI think it's really ironic as well that Reform have chosen to frame this debate about values in the same week that we've had an ITV investigation exposing deep-rooted racism and sexism in your party. One of the worst things that I heard from that programme was then Reform councillor Chris Whelan talking about a fellow Reform candidate. He said, 'If she were my daughter, it would still be bath night on a Thursday'. Vile, disgusting and disturbing in the way it sexualised a child. There were multiple examples of sexism and racism in that programme, from the party that claims to want to protect women.\n\nSo, seriously, how can Reform lecture us about values when they're in the midst of a scandal about racism and sexism? How on earth can you claim to stand up for women when you are trying to dictate what Muslim women can and cannot wear? Complete hypocrisy—complete hypocrisy.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=19620"
         }
       ],
       "date": "2026-10-21",
       "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-780127",
+          "item_id": "item-16317-261020-7",
+          "item_title_en": "7. Statement by the Cabinet Minister for Finance: An Update on Council Tax",
+          "lang": "en",
+          "t_start": 17362,
+          "text_english": "As a former councillor, I understand the financial pressures on councils in terms of delivering essential services, and, of course, we all understand the pressures on household budgets as well, and there's no doubt that council tax plays a part in those pressures as well. Whilst I understand the reasons for delaying these reforms, the principle of moving towards a fairer council tax system is still important. So, could the Minister outline what progress we can make during this Senedd term to move towards that fairer system, in line with the programme for government commitments, please?",
+          "text_original": "As a former councillor, I understand the financial pressures on councils in terms of delivering essential services, and, of course, we all understand the pressures on household budgets as well, and there's no doubt that council tax plays a part in those pressures as well. Whilst I understand the reasons for delaying these reforms, the principle of moving towards a fairer council tax system is still important. So, could the Minister outline what progress we can make during this Senedd term to move towards that fairer system, in line with the programme for government commitments, please?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=17362"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
     },
     {
       "contributions": [

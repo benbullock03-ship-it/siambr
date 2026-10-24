@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,7 +774,7 @@
   "canonical_name": "Rhun ap Iorwerth",
   "constituency_name_cy": "Bangor Conwy Môn",
   "constituency_name_en": "Bangor Conwy Môn",
-  "contribution_count": 594,
+  "contribution_count": 630,
   "contributions_by_date": [
     {
       "contributions": [
@@ -750,150 +783,510 @@
           "item_id": "item-16317-261020-1",
           "item_title_en": "1. Questions to the First Minister",
           "lang": "cy",
-          "t_start": 25,
+          "t_start": 27,
           "text_english": "Thank you for the question.",
           "text_original": "Diolch am y cwestiwn.",
-          "tv_url": "http://www.senedd.tv/en/16317?startPos=25"
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=27"
         },
         {
           "id": "contribution-779727",
           "item_id": "item-16317-261020-1",
           "item_title_en": "1. Questions to the First Minister",
           "lang": "en",
-          "t_start": 0,
-          "text_english": "With your permission, a brief statement from me on the incident in Newport this morning: just to say that our thoughts are very much with the children and families affected by that incident. We're grateful to the emergency services for their swift response and to everybody involved in supporting the children affected. This is an ongoing police investigation, so it would be inappropriate, I think, for me to comment further, but our thoughts are very much with those injured and those for whom this has caused anxiety today.\n\nTo the question: the uptake of annual health checks for people with a learning disability continues to show encouraging month-on-month improvement, increasing by more than 12 per cent since December 2025. Building on this momentum will be a key priority of the new learning disability transformation programme, helping to increase uptake further, identify health needs earlier and improve health outcomes.",
-          "text_original": "With your permission, a brief statement from me on the incident in Newport this morning: just to say that our thoughts are very much with the children and families affected by that incident. We're grateful to the emergency services for their swift response and to everybody involved in supporting the children affected. This is an ongoing police investigation, so it would be inappropriate, I think, for me to comment further, but our thoughts are very much with those injured and those for whom this has caused anxiety today.\n\nTo the question: the uptake of annual health checks for people with a learning disability continues to show encouraging month-on-month improvement, increasing by more than 12 per cent since December 2025. Building on this momentum will be a key priority of the new learning disability transformation programme, helping to increase uptake further, identify health needs earlier and improve health outcomes.",
-          "tv_url": "http://www.senedd.tv/en/16317?startPos=0"
+          "t_start": 29,
+          "text_english": "With your permission, a brief statement from me on the incident in Newport this morning, just to say that our thoughts are very much with the children and families affected by that incident. We're grateful to the emergency services for their swift response and to everybody involved in supporting the children affected. This is an ongoing police investigation, so it would be inappropriate, I think, for me to comment further, but our thoughts are very much with those injured and those for whom this has caused anxiety today.\n\nTo the question, the uptake of annual health checks for people with a learning disability continues to show encouraging month-on-month improvement, increasing by more than 12 per cent since December 2025. Building on this momentum will be a key priority of the new learning disability transformation programme, helping to increase uptake further, identify health needs earlier and improve health outcomes.",
+          "text_original": "With your permission, a brief statement from me on the incident in Newport this morning, just to say that our thoughts are very much with the children and families affected by that incident. We're grateful to the emergency services for their swift response and to everybody involved in supporting the children affected. This is an ongoing police investigation, so it would be inappropriate, I think, for me to comment further, but our thoughts are very much with those injured and those for whom this has caused anxiety today.\n\nTo the question, the uptake of annual health checks for people with a learning disability continues to show encouraging month-on-month improvement, increasing by more than 12 per cent since December 2025. Building on this momentum will be a key priority of the new learning disability transformation programme, helping to increase uptake further, identify health needs earlier and improve health outcomes.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=29"
         },
         {
           "id": "contribution-779735",
           "item_id": "item-16317-261020-1",
           "item_title_en": "1. Questions to the First Minister",
           "lang": "en",
-          "t_start": 120,
+          "t_start": 122,
           "text_english": "Certainly. We're working with health boards, with GP practices and NHS partners across the board to improve the quality of learning disability registers so that eligible people can be identified and offered that all-important health check. We're also supporting primary care staff through training, digital assessment tools and reasonable adjustments to make invitations, appointments and the health check process itself more accessible for people with a learning disability. Since annual health checks became part of the core GP contract, we have strengthened data collection in Government on both offers and completed checks. That information is important because it helps us to identify variation where it exists, helps us to target support where it is needed most, and also, so importantly, to share good practice to increase uptake right across Wales, which is what we're looking to see.",
           "text_original": "Certainly. We're working with health boards, with GP practices and NHS partners across the board to improve the quality of learning disability registers so that eligible people can be identified and offered that all-important health check. We're also supporting primary care staff through training, digital assessment tools and reasonable adjustments to make invitations, appointments and the health check process itself more accessible for people with a learning disability. Since annual health checks became part of the core GP contract, we have strengthened data collection in Government on both offers and completed checks. That information is important because it helps us to identify variation where it exists, helps us to target support where it is needed most, and also, so importantly, to share good practice to increase uptake right across Wales, which is what we're looking to see.",
-          "tv_url": "http://www.senedd.tv/en/16317?startPos=120"
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=122"
         },
         {
           "id": "contribution-779740",
           "item_id": "item-16317-261020-1",
           "item_title_en": "1. Questions to the First Minister",
           "lang": "en",
-          "t_start": 233,
-          "text_english": "I think we've been pretty transparent that the bulk of the pressures that we face as a Government do indeed come from the NHS, from across the whole range of services that are provided, and that it's very important that we do provide, including the services that we are talking about in this question. The Member is quite right to identify the fact that the onus shouldn't be on the individual, and that is why we are putting those steps in place to strengthen the provision of how those invitations go out, to make sure that those individuals who need to be targeted for their well-being are targeted and brought into the system. This is a whole-system approach, and not just one based on the finances.",
-          "text_original": "I think we've been pretty transparent that the bulk of the pressures that we face as a Government do indeed come from the NHS, from across the whole range of services that are provided, and that it's very important that we do provide, including the services that we are talking about in this question. The Member is quite right to identify the fact that the onus shouldn't be on the individual, and that is why we are putting those steps in place to strengthen the provision of how those invitations go out, to make sure that those individuals who need to be targeted for their well-being are targeted and brought into the system. This is a whole-system approach, and not just one based on the finances.",
-          "tv_url": "http://www.senedd.tv/en/16317?startPos=233"
+          "t_start": 235,
+          "text_english": "I think we've been pretty transparent that the bulk of the pressures that we face as a Government do indeed come from the NHS, from across the whole range of services that are provided, and that it's very important that we do provide, including the services that we are talking about in this question. The Member is quite right to identify the fact that the onus shouldn't be on the individual, and that is why we are putting those steps in place to strengthen the provision of how those invitations go out, to make sure that those individuals who need to be targeted for their well-being are targeted and brought into the system. This is a whole-system approach and not just one based on the finances.",
+          "text_original": "I think we've been pretty transparent that the bulk of the pressures that we face as a Government do indeed come from the NHS, from across the whole range of services that are provided, and that it's very important that we do provide, including the services that we are talking about in this question. The Member is quite right to identify the fact that the onus shouldn't be on the individual, and that is why we are putting those steps in place to strengthen the provision of how those invitations go out, to make sure that those individuals who need to be targeted for their well-being are targeted and brought into the system. This is a whole-system approach and not just one based on the finances.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=235"
         },
         {
           "id": "contribution-779717",
           "item_id": "item-16317-261020-1",
           "item_title_en": "1. Questions to the First Minister",
           "lang": "en",
-          "t_start": 340,
-          "text_english": "The Member is right that those reasonable adjustments that I referred to in my initial response are very, very important. Sometimes they can be small, but they can make a big difference. I also welcome the referencing by the Member of the work that Mencap Cymru is doing. And that's another good example, isn't it, of how this is something which many organisations, including the voluntary and the third sector, need to be involved in.\n\nWe will work with health boards. We will work directly with GP practices also, to make sure that those reasonable adjustments are made. And I very much welcome feedback from an organisation such as Mencap Cymru on how we could make that system even better.",
-          "text_original": "The Member is right that those reasonable adjustments that I referred to in my initial response are very, very important. Sometimes they can be small, but they can make a big difference. I also welcome the referencing by the Member of the work that Mencap Cymru is doing. And that's another good example, isn't it, of how this is something which many organisations, including the voluntary and the third sector, need to be involved in.\n\nWe will work with health boards. We will work directly with GP practices also, to make sure that those reasonable adjustments are made. And I very much welcome feedback from an organisation such as Mencap Cymru on how we could make that system even better.",
-          "tv_url": "http://www.senedd.tv/en/16317?startPos=340"
+          "t_start": 342,
+          "text_english": "The Member is right that those reasonable adjustments that I referred to in my initial response are very, very important. Sometimes they can be small, but they can make a big difference. I also welcome the referencing by the Member of the work that Mencap Cymru is doing. And that's another good example, isn't it, of how this is something that many organisations, including the voluntary and the third sector, need to be involved in. We will work with health boards. We will work directly with GP practices also, to make sure that those reasonable adjustments are made. And I very much welcome feedback from an organisation such as Mencap Cymru on how we could make that system even better.",
+          "text_original": "The Member is right that those reasonable adjustments that I referred to in my initial response are very, very important. Sometimes they can be small, but they can make a big difference. I also welcome the referencing by the Member of the work that Mencap Cymru is doing. And that's another good example, isn't it, of how this is something that many organisations, including the voluntary and the third sector, need to be involved in. We will work with health boards. We will work directly with GP practices also, to make sure that those reasonable adjustments are made. And I very much welcome feedback from an organisation such as Mencap Cymru on how we could make that system even better.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=342"
         },
         {
           "id": "contribution-779724",
           "item_id": "item-16317-261020-1",
           "item_title_en": "1. Questions to the First Minister",
           "lang": "cy",
-          "t_start": 397,
-          "text_english": "Well, I went to Dublin on my first overseas visit as First Minister back in June. I was very pleased on that visit to confirm my Government’s commitment to the joint Ireland-Wales statement for 2030. This is a partnership framework which covers six priority areas, including climate and energy, economy and trade, culture and language. And, quite simply, Ireland is one of our most valued international relationships here in Wales. It is rooted in shared history, geography and values that I think we share, and I look forward to building on delivering the goals of that shared statement between the two nations.",
-          "text_original": "Wel, i Ddulyn yr es i ar fy ymweliad cyntaf 'dros y môr', fel petai, fel Prif Weinidog, yn ôl ym mis Mehefin. Mi oeddwn i’n falch iawn o allu, ar yr ymweliad hwnnw, cadarnhau ymrwymiad fy Llywodraeth i i ddatganiad ar y cyd Iwerddon a Chymru 2030. Fframwaith partneriaeth ydy hwn, sy’n cynnwys chwech o feysydd blaenoriaeth, yn cynnwys hinsawdd ac ynni, economi a masnach, iaith a diwylliant. Ac Iwerddon, yn syml iawn, ydy un o’n cysylltiadau rhyngwladol mwyaf gwerthfawr ni yng Nghymru. Mae e’n gysylltiad sydd wedi’i wreiddio yn yr hanes, y ddaearyddiaeth, wrth gwrs, a’r gwerthoedd dwi'n credu dŷn ni’n eu rhannu, a dwi’n edrych ymlaen at adeiladu ar y gwaith o gyflawni nodau'r datganiad hwnnw rhwng y ddwy wlad.",
-          "tv_url": "http://www.senedd.tv/en/16317?startPos=397"
+          "t_start": 399,
+          "text_english": "Well, I went to Dublin on my first overseas visit as First Minister back in June. I was very pleased on that visit to confirm my Government’s commitment to the joint Ireland-Wales statement for 2030. This is a partnership framework, which covers six priority areas, including climate and energy, economy and trade, culture and language. And, quite simply, Ireland is one of our most valued international relationships here in Wales. It is rooted in shared history, geography and values that I think we share, and I look forward to building on delivering the goals of that shared statement between our two nations.",
+          "text_original": "Wel, i Ddulyn yr es i ar fy ymweliad cyntaf 'dros y môr', fel petai, fel Prif Weinidog, yn ôl ym mis Mehefin. Mi oeddwn i’n falch iawn o allu, ar yr ymweliad hwnnw, cadarnhau ymrwymiad fy Llywodraeth i i ddatganiad ar y cyd Iwerddon a Chymru ar gyfer 2030. Fframwaith partneriaeth ydy hwn, sy’n cynnwys chwech o feysydd blaenoriaeth, yn cynnwys hinsawdd ac ynni, economi a masnach, iaith a diwylliant. Ac Iwerddon, yn syml iawn, ydy un o’n cysylltiadau rhyngwladol mwyaf gwerthfawr ni yng Nghymru. Mae e’n gysylltiad sydd wedi’i wreiddio yn yr hanes, y ddaearyddiaeth, wrth gwrs, a’r gwerthoedd dwi'n credu rydyn ni’n eu rhannu, a dwi’n edrych ymlaen at adeiladu ar y gwaith o gyflawni nodau'r datganiad hwnnw rhwng ein dwy wlad.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=399"
         },
         {
           "id": "contribution-779730",
           "item_id": "item-16317-261020-1",
           "item_title_en": "1. Questions to the First Minister",
           "lang": "en",
-          "t_start": 514,
-          "text_english": "Other Voices has certainly been a valued cultural partnership for Wales, helping to showcase Welsh and international talent, while strengthening our relationship specifically with Ireland. Officials did meet the festival organisers last month on 22 September to discuss future proposals, with a further meeting, as I understand, scheduled for early November. And my officials in Dublin also are discussing future support with the Irish Government. \n\nWe do remain open to discussions about future proposals. This will be, of course, subject to funding priorities and available budgets.",
-          "text_original": "Other Voices has certainly been a valued cultural partnership for Wales, helping to showcase Welsh and international talent, while strengthening our relationship specifically with Ireland. Officials did meet the festival organisers last month on 22 September to discuss future proposals, with a further meeting, as I understand, scheduled for early November. And my officials in Dublin also are discussing future support with the Irish Government. \n\nWe do remain open to discussions about future proposals. This will be, of course, subject to funding priorities and available budgets.",
-          "tv_url": "http://www.senedd.tv/en/16317?startPos=514"
+          "t_start": 516,
+          "text_english": "Other Voices has certainly been a valued cultural partnership for Wales, helping to showcase Welsh and international talent, while strengthening our relationship specifically with Ireland. Officials did meet the festival organisers last month, on 22 September, to discuss future proposals, with a further meeting, as I understand, scheduled for early November. And my officials in Dublin also are discussing future support with the Irish Government. We do remain open to discussions about future proposals. This will be, of course, subject to funding priorities and available budgets.",
+          "text_original": "Other Voices has certainly been a valued cultural partnership for Wales, helping to showcase Welsh and international talent, while strengthening our relationship specifically with Ireland. Officials did meet the festival organisers last month, on 22 September, to discuss future proposals, with a further meeting, as I understand, scheduled for early November. And my officials in Dublin also are discussing future support with the Irish Government. We do remain open to discussions about future proposals. This will be, of course, subject to funding priorities and available budgets.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=516"
         },
         {
           "id": "contribution-779733",
           "item_id": "item-16317-261020-1",
           "item_title_en": "1. Questions to the First Minister",
           "lang": "en",
-          "t_start": 605,
-          "text_english": "Well, we had a meeting recently, which was a political meeting between a political party in Ireland and me as leader of Plaid Cymru in Wales on areas of shared responsibility. There are Government actions that we take, which are around trade, which are around culture. Similarly, we have an agreement with the Scottish Government around climate change and renewable energy and so on. The activities of this Government will be around those Government issues on which we can find common ground in order to pursue the interests of the people of Ireland and the people of Wales.",
-          "text_original": "Well, we had a meeting recently, which was a political meeting between a political party in Ireland and me as leader of Plaid Cymru in Wales on areas of shared responsibility. There are Government actions that we take, which are around trade, which are around culture. Similarly, we have an agreement with the Scottish Government around climate change and renewable energy and so on. The activities of this Government will be around those Government issues on which we can find common ground in order to pursue the interests of the people of Ireland and the people of Wales.",
-          "tv_url": "http://www.senedd.tv/en/16317?startPos=605"
+          "t_start": 607,
+          "text_english": "Well, we had a meeting recently that was a political meeting between a political party in Ireland and me as leader of Plaid Cymru in Wales on areas of shared responsibility. There are Government actions that we take that are around trade and that are around culture. Similarly, we have an agreement with the Scottish Government around climate change and renewable energy, and so on. The activities of this Government will be around those Government issues on which we can find common ground in order to pursue the interests of the people of Ireland and the people of Wales.",
+          "text_original": "Well, we had a meeting recently that was a political meeting between a political party in Ireland and me as leader of Plaid Cymru in Wales on areas of shared responsibility. There are Government actions that we take that are around trade and that are around culture. Similarly, we have an agreement with the Scottish Government around climate change and renewable energy, and so on. The activities of this Government will be around those Government issues on which we can find common ground in order to pursue the interests of the people of Ireland and the people of Wales.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=607"
         },
         {
           "id": "contribution-779744",
           "item_id": "item-16317-261020-1",
           "item_title_en": "1. Questions to the First Minister",
           "lang": "en",
-          "t_start": 711,
-          "text_english": "Work is progressing on the work that absolutely needs to happen to maintain this remarkable piece of engineering. For anybody who hasn't ventured to the far end of it, clear a decent amount of time, because it takes time. But it is something that is a genuine engineering marvel. That is an immediate challenge to the port of Holyhead, and action is being taken to remediate the damage caused by many years of Irish sea storms. The ongoing damage, of course, that we face is the damage of Brexit. The Member mentions the importance of the port of Holyhead, and we know the pain that has been caused in terms of limits on trade to the port of Holyhead. We're still seeing it now with the comings and goings on the border posts. This is disruption that has held back the development of the port of Holyhead. That is something that is in my mind when I say that we should be building closer relationships with our European friends, the closest of which is across the Irish sea—the Republic of Ireland.",
-          "text_original": "Work is progressing on the work that absolutely needs to happen to maintain this remarkable piece of engineering. For anybody who hasn't ventured to the far end of it, clear a decent amount of time, because it takes time. But it is something that is a genuine engineering marvel. That is an immediate challenge to the port of Holyhead, and action is being taken to remediate the damage caused by many years of Irish sea storms. The ongoing damage, of course, that we face is the damage of Brexit. The Member mentions the importance of the port of Holyhead, and we know the pain that has been caused in terms of limits on trade to the port of Holyhead. We're still seeing it now with the comings and goings on the border posts. This is disruption that has held back the development of the port of Holyhead. That is something that is in my mind when I say that we should be building closer relationships with our European friends, the closest of which is across the Irish sea—the Republic of Ireland.",
-          "tv_url": "http://www.senedd.tv/en/16317?startPos=711"
+          "t_start": 713,
+          "text_english": "Work is progressing on the work that absolutely needs to happen to maintain this remarkable piece of engineering. For anybody who hasn't ventured to the far end of it, clear a decent amount of time, because it takes time, but it is something that is a genuine engineering marvel. That is an immediate challenge to the port of Holyhead, and action is being taken to remediate the damage caused by many years of Irish sea storms. The ongoing damage, of course, that we face is the damage of Brexit. The Member mentions the importance of the port of Holyhead, and we know the pain that has been caused in terms of limits on trade to the port of Holyhead. We're still seeing it now with the comings and goings on the border posts. This is disruption that has held back the development of the port of Holyhead. That is something that is in my mind when I say that we should be building closer relationships with our European friends, the closest of which is across the Irish sea—the Republic of Ireland.",
+          "text_original": "Work is progressing on the work that absolutely needs to happen to maintain this remarkable piece of engineering. For anybody who hasn't ventured to the far end of it, clear a decent amount of time, because it takes time, but it is something that is a genuine engineering marvel. That is an immediate challenge to the port of Holyhead, and action is being taken to remediate the damage caused by many years of Irish sea storms. The ongoing damage, of course, that we face is the damage of Brexit. The Member mentions the importance of the port of Holyhead, and we know the pain that has been caused in terms of limits on trade to the port of Holyhead. We're still seeing it now with the comings and goings on the border posts. This is disruption that has held back the development of the port of Holyhead. That is something that is in my mind when I say that we should be building closer relationships with our European friends, the closest of which is across the Irish sea—the Republic of Ireland.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=713"
         },
         {
           "id": "contribution-779759",
           "item_id": "item-16317-261020-1",
           "item_title_en": "1. Questions to the First Minister",
           "lang": "en",
-          "t_start": 855,
-          "text_english": "I absolutely think that we should have that zero-tolerance approach towards violence. My Government has shown very clearly its support for the teaching profession, and the pupils, and the parents, and the wider school community that is affected when, sadly, we do see incidents of violence in schools, albeit, thankfully, very, very rare. Just as we have put clear frameworks in place to improve standards in schools, we have also clearly made it a priority to work across agencies to make sure that all those partners can work together, to make schools the safe learning environment that we all want them to be.",
-          "text_original": "I absolutely think that we should have that zero-tolerance approach towards violence. My Government has shown very clearly its support for the teaching profession, and the pupils, and the parents, and the wider school community that is affected when, sadly, we do see incidents of violence in schools, albeit, thankfully, very, very rare. Just as we have put clear frameworks in place to improve standards in schools, we have also clearly made it a priority to work across agencies to make sure that all those partners can work together, to make schools the safe learning environment that we all want them to be.",
-          "tv_url": "http://www.senedd.tv/en/16317?startPos=855"
+          "t_start": 857,
+          "text_english": "I absolutely think that we should have that zero-tolerance approach towards violence. My Government has shown very clearly its support for the teaching profession, and the pupils, the parents and the wider school community that are affected when, sadly, we do see incidents of violence in schools, albeit, thankfully, very, very rare. Just as we have put clear frameworks in place to improve standards in schools, we have also clearly made it a priority to work across agencies to make sure that all those partners can work together to make schools the safe learning environment that we all want them to be.",
+          "text_original": "I absolutely think that we should have that zero-tolerance approach towards violence. My Government has shown very clearly its support for the teaching profession, and the pupils, the parents and the wider school community that are affected when, sadly, we do see incidents of violence in schools, albeit, thankfully, very, very rare. Just as we have put clear frameworks in place to improve standards in schools, we have also clearly made it a priority to work across agencies to make sure that all those partners can work together to make schools the safe learning environment that we all want them to be.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=857"
+        },
+        {
+          "id": "contribution-779901",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 936,
+          "text_english": "We already made a decision as a Government to act as quickly as we could. It was a suggestion that we might legislate on this. We took the decision that we didn't want to wait for legislation to happen and that we would press ahead with making it clear that we, as a Government, wanted action to be taken. That consultation is happening now, so we can move as quickly as we can to empower those school leaders to make the necessary choices around phones. We made it very, very clear as a Government that we expect that to happen, and that will be in the guidance.",
+          "text_original": "We already made a decision as a Government to act as quickly as we could. It was a suggestion that we might legislate on this. We took the decision that we didn't want to wait for legislation to happen and that we would press ahead with making it clear that we, as a Government, wanted action to be taken. That consultation is happening now, so we can move as quickly as we can to empower those school leaders to make the necessary choices around phones. We made it very, very clear as a Government that we expect that to happen, and that will be in the guidance.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=936"
+        },
+        {
+          "id": "contribution-779917",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 1052,
+          "text_english": "We agree with the points that have been made. We agree on the damage that can be caused to a child's education through the existence of phones in schools. We agree also on the element of bullying that can be linked to mobile phone use, and that is why we took the decision not to wait for legislation and to take action sooner, because this Government expects schools to take the action of the kind that the Member outlines.",
+          "text_original": "We agree with the points that have been made. We agree on the damage that can be caused to a child's education through the existence of phones in schools. We agree also on the element of bullying that can be linked to mobile phone use, and that is why we took the decision not to wait for legislation and to take action sooner, because this Government expects schools to take the action of the kind that the Member outlines.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=1052"
+        },
+        {
+          "id": "contribution-779923",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 1140,
+          "text_english": "I declare an interest previously declared, as a journalist myself, as a member of the National Union of Journalists, and, of course, we are all deeply concerned about any funding decisions at the BBC that impact not just journalism itself, but the way we tell our own story as a nation to ourselves as a nation and to the world. So, I'm very concerned indeed about potential cuts, and that is something that we will publicly make clear. On the other hand, we, of course, do not have a situation whereby broadcasting is devolved. I would like to be in the situation where broadcasting is devolved in order that we are able to put more protections in place for Welsh-based journalism, for the way that we're able to speak about our nation to ourselves and to the world. We will be taking measures to strengthen the voice of broadcasting in Wales, but we need to see that devolution, and I would welcome the support of the Member for that call.",
+          "text_original": "I declare an interest previously declared, as a journalist myself, as a member of the National Union of Journalists, and, of course, we are all deeply concerned about any funding decisions at the BBC that impact not just journalism itself, but the way we tell our own story as a nation to ourselves as a nation and to the world. So, I'm very concerned indeed about potential cuts, and that is something that we will publicly make clear. On the other hand, we, of course, do not have a situation whereby broadcasting is devolved. I would like to be in the situation where broadcasting is devolved in order that we are able to put more protections in place for Welsh-based journalism, for the way that we're able to speak about our nation to ourselves and to the world. We will be taking measures to strengthen the voice of broadcasting in Wales, but we need to see that devolution, and I would welcome the support of the Member for that call.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=1140"
         },
         {
           "id": "contribution-779741",
           "item_id": "item-16317-261020-1",
           "item_title_en": "1. Questions to the First Minister",
           "lang": "en",
-          "t_start": 1244,
-          "text_english": "The Member knows full well that we support the principle and the purpose of a Hillsborough law, and that the duty of candour is something that people should be able to expect. On the comment that he made previously about a board in London making decisions on broadcasting in Wales, let's just, for example, replace that 'board in London' with 'a UK Government'. On how many issues is that UK Government making decisions in London that have a detrimental impact on us in Wales? And how many years have Labour sat on their hands on rail funding, rather than making decisions that could make a real difference now to the infrastructure that we need in Wales?\n\nI hope there's a conversion happening here, where the leader of the Labour group is starting to see things my way. The evidence suggests otherwise. But this is precisely the case that we make. We need here in Wales to be able to make those decisions that build a better future for Wales ourselves, because we cannot depend on a board in London or, indeed, a UK Government to do the right thing for Wales themselves.",
-          "text_original": "The Member knows full well that we support the principle and the purpose of a Hillsborough law, and that the duty of candour is something that people should be able to expect. On the comment that he made previously about a board in London making decisions on broadcasting in Wales, let's just, for example, replace that 'board in London' with 'a UK Government'. On how many issues is that UK Government making decisions in London that have a detrimental impact on us in Wales? And how many years have Labour sat on their hands on rail funding, rather than making decisions that could make a real difference now to the infrastructure that we need in Wales?\n\nI hope there's a conversion happening here, where the leader of the Labour group is starting to see things my way. The evidence suggests otherwise. But this is precisely the case that we make. We need here in Wales to be able to make those decisions that build a better future for Wales ourselves, because we cannot depend on a board in London or, indeed, a UK Government to do the right thing for Wales themselves.",
-          "tv_url": "http://www.senedd.tv/en/16317?startPos=1244"
+          "t_start": 1246,
+          "text_english": "The Member knows full well that we support the principle and the purpose of a Hillsborough law, and that the duty of candour is something that people should be able to expect.\n\nOn the comment that he made previously about a board in London making decisions on broadcasting in Wales, let's just, for example, replace that 'board in London' with 'a UK Government'. On how many issues is that UK Government making decisions in London that have a detrimental impact on us in Wales? And how many years have Labour sat on their hands on rail funding, rather than making decisions that could make a real difference now to the infrastructure that we need in Wales?\n\nI hope there's a conversion happening here, where the leader of the Labour group is starting to see things my way. The evidence suggests otherwise. But this is precisely the case that we make. We need here in Wales to be able to make those decisions that build a better future for Wales ourselves, because we cannot depend on a board in London or, indeed, a UK Government to do the right thing for Wales themselves.",
+          "text_original": "The Member knows full well that we support the principle and the purpose of a Hillsborough law, and that the duty of candour is something that people should be able to expect.\n\nOn the comment that he made previously about a board in London making decisions on broadcasting in Wales, let's just, for example, replace that 'board in London' with 'a UK Government'. On how many issues is that UK Government making decisions in London that have a detrimental impact on us in Wales? And how many years have Labour sat on their hands on rail funding, rather than making decisions that could make a real difference now to the infrastructure that we need in Wales?\n\nI hope there's a conversion happening here, where the leader of the Labour group is starting to see things my way. The evidence suggests otherwise. But this is precisely the case that we make. We need here in Wales to be able to make those decisions that build a better future for Wales ourselves, because we cannot depend on a board in London or, indeed, a UK Government to do the right thing for Wales themselves.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=1246"
         },
         {
           "id": "contribution-779764",
           "item_id": "item-16317-261020-1",
           "item_title_en": "1. Questions to the First Minister",
           "lang": "en",
-          "t_start": 1397,
-          "text_english": "I agree, Llywydd, with the points made by the Member that, when we lose money from the NHS in compensation payments, that is money that is lost from the front line of tackling the serious issues that we have within the NHS in Wales. We don't think of it centrally as a financial issue, because behind every one of those compensation claims you will have somebody that has suffered a loss of some sort, because of—. It could be a human error; it could be a deeper systemic issue within the NHS. All I'll say is that we are determined as a Government to root out those problems that are within our control. There will always be mistakes made, by very, very well-meaning and professional health workers, and the compensation system exists in order to address that and pay recompense where that is necessary. But we are a Government that is determined to root out those issues that are creating the unsustainability of the NHS, and perhaps the unsustainability that is leading to problems that could end up with a compensation payout.",
-          "text_original": "I agree, Llywydd, with the points made by the Member that, when we lose money from the NHS in compensation payments, that is money that is lost from the front line of tackling the serious issues that we have within the NHS in Wales. We don't think of it centrally as a financial issue, because behind every one of those compensation claims you will have somebody that has suffered a loss of some sort, because of—. It could be a human error; it could be a deeper systemic issue within the NHS. All I'll say is that we are determined as a Government to root out those problems that are within our control. There will always be mistakes made, by very, very well-meaning and professional health workers, and the compensation system exists in order to address that and pay recompense where that is necessary. But we are a Government that is determined to root out those issues that are creating the unsustainability of the NHS, and perhaps the unsustainability that is leading to problems that could end up with a compensation payout.",
-          "tv_url": "http://www.senedd.tv/en/16317?startPos=1397"
+          "t_start": 1400,
+          "text_english": "I agree, Llywydd, with the points made by the Member that, when we lose money from the NHS in compensation payments, that is money that is lost from the front line of tackling the serious issues that we have within the NHS in Wales. We don't think of it centrally as a financial issue, because behind every one of those compensation claims you will have somebody that has suffered a loss of some sort, because of—. It could be a human error, it could be a deeper systemic issue within the NHS. All I'll say is that we are determined as a Government to root out those problems that are within our control. There will always be mistakes made, by very, very well-meaning and professional health workers, and the compensation system exists in order to address that and pay recompense where that is necessary. But we are a Government that is determined to root out those issues that are creating the unsustainability of the NHS, and perhaps the unsustainability that is leading to problems that could end up with a compensation payout.",
+          "text_original": "I agree, Llywydd, with the points made by the Member that, when we lose money from the NHS in compensation payments, that is money that is lost from the front line of tackling the serious issues that we have within the NHS in Wales. We don't think of it centrally as a financial issue, because behind every one of those compensation claims you will have somebody that has suffered a loss of some sort, because of—. It could be a human error, it could be a deeper systemic issue within the NHS. All I'll say is that we are determined as a Government to root out those problems that are within our control. There will always be mistakes made, by very, very well-meaning and professional health workers, and the compensation system exists in order to address that and pay recompense where that is necessary. But we are a Government that is determined to root out those issues that are creating the unsustainability of the NHS, and perhaps the unsustainability that is leading to problems that could end up with a compensation payout.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=1400"
         },
         {
           "id": "contribution-779743",
           "item_id": "item-16317-261020-1",
           "item_title_en": "1. Questions to the First Minister",
           "lang": "en",
-          "t_start": 1562,
+          "t_start": 1564,
           "text_english": "I respect the consistency with which the leader of the Conservatives makes that call for declaring a health emergency. I want to impress this Senedd with the fact that I don't think we could be treating the NHS with a higher level of urgency than we are currently. Giving it a title in that respect doesn't work, doesn't make a difference. What we have done since coming into Government, in that very short time, is make that financial investment in speeding up flow through the system, the kind of governance changes that we believe will lead to better management and, hopefully, if we get this right, to reducing the number of errors that happen within the health service, and improving our ability to target what is going wrong across the health service.\n\nThe Member knows, having spoken on health for many, many years, that the problems we face within the NHS in Wales are multiple. Our task is to build that sustainability to create a system that works well together. I am satisfied that we are putting those steps in place now. Will it take time? Yes. But the example given on the need to bring down compensation payments is a very, very valid example of why keeping things as they were under previous administrations within the health service is not an option.",
           "text_original": "I respect the consistency with which the leader of the Conservatives makes that call for declaring a health emergency. I want to impress this Senedd with the fact that I don't think we could be treating the NHS with a higher level of urgency than we are currently. Giving it a title in that respect doesn't work, doesn't make a difference. What we have done since coming into Government, in that very short time, is make that financial investment in speeding up flow through the system, the kind of governance changes that we believe will lead to better management and, hopefully, if we get this right, to reducing the number of errors that happen within the health service, and improving our ability to target what is going wrong across the health service.\n\nThe Member knows, having spoken on health for many, many years, that the problems we face within the NHS in Wales are multiple. Our task is to build that sustainability to create a system that works well together. I am satisfied that we are putting those steps in place now. Will it take time? Yes. But the example given on the need to bring down compensation payments is a very, very valid example of why keeping things as they were under previous administrations within the health service is not an option.",
-          "tv_url": "http://www.senedd.tv/en/16317?startPos=1562"
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=1564"
         },
         {
           "id": "contribution-779747",
           "item_id": "item-16317-261020-1",
           "item_title_en": "1. Questions to the First Minister",
           "lang": "en",
-          "t_start": 1661,
+          "t_start": 1663,
           "text_english": "Everybody in Wales deserves access to high-quality care and support that is timely, effective and centred around their needs. Through investment in therapeutic support, early intervention, the removal of profit from care and the transformation of children’s services, we are committed to working with the 75 signatories to our corporate parenting charter to improve stability, strengthen relationships and deliver better outcomes for adopted and care-experienced children and young people.",
           "text_original": "Everybody in Wales deserves access to high-quality care and support that is timely, effective and centred around their needs. Through investment in therapeutic support, early intervention, the removal of profit from care and the transformation of children’s services, we are committed to working with the 75 signatories to our corporate parenting charter to improve stability, strengthen relationships and deliver better outcomes for adopted and care-experienced children and young people.",
-          "tv_url": "http://www.senedd.tv/en/16317?startPos=1661"
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=1663"
         },
         {
           "id": "contribution-779756",
           "item_id": "item-16317-261020-1",
           "item_title_en": "1. Questions to the First Minister",
           "lang": "en",
-          "t_start": 1750,
-          "text_english": "Well, the Member's lived experience tells her why this is not acceptable, that people are waiting too long, and, as a Government, we want to close that gap. The Welsh Government funds the National Adoption Service. The national adoption commitment supports access to a range of universal targeted and specialist provision, which is important. But we have to be always looking at means to make sure that children have the support that they need sooner. It is not the situation that we accept things as they are.\n\nWe also have to accept that once we are able, hopefully, working with other partners, to speed up that initial part of the system,",
-          "text_original": "Well, the Member's lived experience tells her why this is not acceptable, that people are waiting too long, and, as a Government, we want to close that gap. The Welsh Government funds the National Adoption Service. The national adoption commitment supports access to a range of universal targeted and specialist provision, which is important. But we have to be always looking at means to make sure that children have the support that they need sooner. It is not the situation that we accept things as they are.\n\nWe also have to accept that once we are able, hopefully, working with other partners, to speed up that initial part of the system,",
-          "tv_url": "http://www.senedd.tv/en/16317?startPos=1750"
+          "t_start": 1752,
+          "text_english": "Well, the Member's lived experience tells her why this is not acceptable, that people are waiting too long, and, as a Government, we want to close that gap. The Welsh Government funds the National Adoption Service. The national adoption commitment supports access to a range of universal targeted and specialist provision, which is important. But we have to be always looking at means to make sure that children have the support that they need sooner. It is not the situation that we accept things as they are.\n\nWe also have to accept that once we are able, hopefully, working with other partners, to speed up that initial part of the system, adoption is recognised as a lifelong journey, and support isn't limited to that point of placement, as much as we need to get that point of placement speeded up and the making of that adoption order. Children, young people and families can access and re-engage with adoption supporters as needs emerge, or as those needs change over time. But the Member is right. Through our work with the National Adoption Service and the funding that is going in—over £2 million of core funding per year—we have to make sure that that initial contact is made quicker.",
+          "text_original": "Well, the Member's lived experience tells her why this is not acceptable, that people are waiting too long, and, as a Government, we want to close that gap. The Welsh Government funds the National Adoption Service. The national adoption commitment supports access to a range of universal targeted and specialist provision, which is important. But we have to be always looking at means to make sure that children have the support that they need sooner. It is not the situation that we accept things as they are.\n\nWe also have to accept that once we are able, hopefully, working with other partners, to speed up that initial part of the system, adoption is recognised as a lifelong journey, and support isn't limited to that point of placement, as much as we need to get that point of placement speeded up and the making of that adoption order. Children, young people and families can access and re-engage with adoption supporters as needs emerge, or as those needs change over time. But the Member is right. Through our work with the National Adoption Service and the funding that is going in—over £2 million of core funding per year—we have to make sure that that initial contact is made quicker.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=1752"
+        },
+        {
+          "id": "contribution-779785",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 1886,
+          "text_english": "Absolutely, and I certainly appreciate efforts made by Ministers and First Ministers in the past to highlight this as an issue that we have come to, I think, understand as being one that we as elected Members need to take more seriously than perhaps we have done in the past. I certainly will work closely with my ministerial team. Programmes will change, programmes will develop, programmes will evolve, and that is very much what we want to do in partnership with others across this Senedd.\n\nBut we know that there's been a lot of attention given, for example, to the cliff edge of care—when young people, having gone through care, leave care and find themselves without that level of support that we should be able to give them. That's one example of why we need to work right across Government, including the First Minister, to show those young people that we are serious in our words and in our deeds in supporting them.",
+          "text_original": "Absolutely, and I certainly appreciate efforts made by Ministers and First Ministers in the past to highlight this as an issue that we have come to, I think, understand as being one that we as elected Members need to take more seriously than perhaps we have done in the past. I certainly will work closely with my ministerial team. Programmes will change, programmes will develop, programmes will evolve, and that is very much what we want to do in partnership with others across this Senedd.\n\nBut we know that there's been a lot of attention given, for example, to the cliff edge of care—when young people, having gone through care, leave care and find themselves without that level of support that we should be able to give them. That's one example of why we need to work right across Government, including the First Minister, to show those young people that we are serious in our words and in our deeds in supporting them.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=1886"
+        },
+        {
+          "id": "contribution-779791",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 1988,
+          "text_english": "I'm grateful to the Member for again emphasising that cliff edge that we need to avoid. Action is being taken to provide longer term support for young people who have left care. That starts with the role of personal advisers and provision to ensure that all care leavers do have a personal adviser up to the age of 25. I think that's very, very important. We have re-established the Wales leaving care forum to share learning and inform our policy development on care leavers. And finally, perhaps—again, one of the areas where we have to work cross-departmentally on this—our programme for government specifically includes a commitment to embed a housing first, trauma-informed and person-centred approach to tackling homelessness. That's very, very relevant when it comes to making sure that we look after the housing needs of young people leaving care.",
+          "text_original": "I'm grateful to the Member for again emphasising that cliff edge that we need to avoid. Action is being taken to provide longer term support for young people who have left care. That starts with the role of personal advisers and provision to ensure that all care leavers do have a personal adviser up to the age of 25. I think that's very, very important. We have re-established the Wales leaving care forum to share learning and inform our policy development on care leavers. And finally, perhaps—again, one of the areas where we have to work cross-departmentally on this—our programme for government specifically includes a commitment to embed a housing first, trauma-informed and person-centred approach to tackling homelessness. That's very, very relevant when it comes to making sure that we look after the housing needs of young people leaving care.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=1988"
+        },
+        {
+          "id": "contribution-779796",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 1811,
+          "text_english": "We have the largest NHS workforce Wales has ever had. We have a committed workforce. We have a skilled workforce. But we know that the state of the workforce can't be judged by numbers alone. That is why we are developing a new NHS workforce strategy now to support a sustainable workforce for the future. Our new digital and estate strategies will also support the modernisation of services to nurture a more productive and innovative workforce.",
+          "text_original": "We have the largest NHS workforce Wales has ever had. We have a committed workforce. We have a skilled workforce. But we know that the state of the workforce can't be judged by numbers alone. That is why we are developing a new NHS workforce strategy now to support a sustainable workforce for the future. Our new digital and estate strategies will also support the modernisation of services to nurture a more productive and innovative workforce.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=1811"
+        },
+        {
+          "id": "contribution-779754",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 2122,
+          "text_english": "Full-time equivalence is very, very important here, because we've been given statistics in recent years showing the number of GPs growing, when actually the number of full-time equivalent GPs has not increased at the same level. Yes, we have a pledge to recruit 100 new GPs. Essentially, we know that there are different pressures in different parts of Wales. We will need to make those decisions based on the specific pressures in different parts of Wales. We know, for example, that rural parts of Wales have faced problems in recruiting GPs. But it's not just rural areas either; post-industrial areas have experienced problems in recruiting GPs also. This is very much a part of that workforce strategy. Again, coming back to my initial point, it's not just about numbers; it's how those people are used, how they're individually able to work to the top of their training, but also that they're in the right place, doing the right things, to make sure that that NHS sustainability really does exist across the board.",
+          "text_original": "Full-time equivalence is very, very important here, because we've been given statistics in recent years showing the number of GPs growing, when actually the number of full-time equivalent GPs has not increased at the same level. Yes, we have a pledge to recruit 100 new GPs. Essentially, we know that there are different pressures in different parts of Wales. We will need to make those decisions based on the specific pressures in different parts of Wales. We know, for example, that rural parts of Wales have faced problems in recruiting GPs. But it's not just rural areas either; post-industrial areas have experienced problems in recruiting GPs also. This is very much a part of that workforce strategy. Again, coming back to my initial point, it's not just about numbers; it's how those people are used, how they're individually able to work to the top of their training, but also that they're in the right place, doing the right things, to make sure that that NHS sustainability really does exist across the board.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=2122"
+        },
+        {
+          "id": "contribution-779758",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 2239,
+          "text_english": "The Member, Llywydd, is right to recognise the success of our specialist diabetes teams here in Wales, and I'm proud of the progress that those teams have made. We continue to support improvement in the delivery of diabetes care by using a carefully planned approach to NHS services. The Welsh Government itself sets national planning requirements on NHS organisations through the NHS planning framework and system measures. The expectations for planning diabetes care are set out in the quality statement for diabetes, which was updated earlier this year, in February. As part of our ongoing Tackling Diabetes Together programme, we're supporting health boards to ensure that type 1 diabetics can access hybrid closed-loop systems. This is the very latest technology recommended by the National Institute for Health and Care Excellence. It's a good example of how we're using technology and using innovation in order to improve the outcomes for patients.",
+          "text_original": "The Member, Llywydd, is right to recognise the success of our specialist diabetes teams here in Wales, and I'm proud of the progress that those teams have made. We continue to support improvement in the delivery of diabetes care by using a carefully planned approach to NHS services. The Welsh Government itself sets national planning requirements on NHS organisations through the NHS planning framework and system measures. The expectations for planning diabetes care are set out in the quality statement for diabetes, which was updated earlier this year, in February. As part of our ongoing Tackling Diabetes Together programme, we're supporting health boards to ensure that type 1 diabetics can access hybrid closed-loop systems. This is the very latest technology recommended by the National Institute for Health and Care Excellence. It's a good example of how we're using technology and using innovation in order to improve the outcomes for patients.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=2239"
+        },
+        {
+          "id": "contribution-779761",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 2370,
+          "text_english": "I welcome those comments. This is something that was a mantra of mine when I was a health spokesman in opposition. It is quite obvious why over-reliance on agency staff causes and exacerbates unsustainability within the workforce. It's something that my Minister has acted on, because dealing with that historic overuse of agency work absolutely gets to grips with how we make sure that we're not taking short-term decisions, but that we're thinking about the long term always. I think if there's one thing that previous administrations were failing on more than any it was—and it was well meant—'deal with the waiting times now, as quickly as possible'. It wasn't particularly successful, but also was not addressing the long-term problems. Making sure that we have long-term staffing in place, with a commitment to those areas of the NHS in which they're working, gives you that robustness that we need to improve services moving forward. This is part of that wider workforce planning agenda, as I said. We've been clear that workforce planning across NHS Wales must continue to strengthen. Workforce planning has often relied on just replacing existing vacancies and modelling based on current workforce numbers, rather than taking a broader look. That's a fundamentally different approach that we're taking as a Government.",
+          "text_original": "I welcome those comments. This is something that was a mantra of mine when I was a health spokesman in opposition. It is quite obvious why over-reliance on agency staff causes and exacerbates unsustainability within the workforce. It's something that my Minister has acted on, because dealing with that historic overuse of agency work absolutely gets to grips with how we make sure that we're not taking short-term decisions, but that we're thinking about the long term always. I think if there's one thing that previous administrations were failing on more than any it was—and it was well meant—'deal with the waiting times now, as quickly as possible'. It wasn't particularly successful, but also was not addressing the long-term problems. Making sure that we have long-term staffing in place, with a commitment to those areas of the NHS in which they're working, gives you that robustness that we need to improve services moving forward. This is part of that wider workforce planning agenda, as I said. We've been clear that workforce planning across NHS Wales must continue to strengthen. Workforce planning has often relied on just replacing existing vacancies and modelling based on current workforce numbers, rather than taking a broader look. That's a fundamentally different approach that we're taking as a Government.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=2370"
+        },
+        {
+          "id": "contribution-779769",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 2477,
+          "text_english": "Motor neurone disease is a devastating illness that has a profound impact on those affected, their families and loved ones. We are committed to improving care and support for people living with the disease. Health boards are implementing the quality statement for neurological conditions to provide better, more consistent care for people with MND and other neurological conditions.",
+          "text_original": "Motor neurone disease is a devastating illness that has a profound impact on those affected, their families and loved ones. We are committed to improving care and support for people living with the disease. Health boards are implementing the quality statement for neurological conditions to provide better, more consistent care for people with MND and other neurological conditions.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=2477"
+        },
+        {
+          "id": "contribution-779773",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 2570,
+          "text_english": "Well, the first thing I would say is that I'm sorry for your and your family's loss, and no doubt your own experience will make you an effective campaigner for those living with MND. People have a right to expect us to help them to maintain their independence and to continue to live at home with dignity. Home adaptations are a smart preventative investment, protecting independence and generally easing those pressures on health and care services. The Social Services and Well-being (Wales) Act 2014 codes of practice already enable local authorities to respond quickly where a person has a rapidly deteriorating condition, as with MND. To make this possible, Welsh Government continues to invest some £60 million to speed up and expand home adaptations, on top of funding to local authorities to deliver disabled facilities grants to their residents. In addition, the Welsh Government-funded Managing Better service, delivered by Care and Repair Cymru and partners, provides practical advice, support and home interventions for people with complex needs, including MND.",
+          "text_original": "Well, the first thing I would say is that I'm sorry for your and your family's loss, and no doubt your own experience will make you an effective campaigner for those living with MND. People have a right to expect us to help them to maintain their independence and to continue to live at home with dignity. Home adaptations are a smart preventative investment, protecting independence and generally easing those pressures on health and care services. The Social Services and Well-being (Wales) Act 2014 codes of practice already enable local authorities to respond quickly where a person has a rapidly deteriorating condition, as with MND. To make this possible, Welsh Government continues to invest some £60 million to speed up and expand home adaptations, on top of funding to local authorities to deliver disabled facilities grants to their residents. In addition, the Welsh Government-funded Managing Better service, delivered by Care and Repair Cymru and partners, provides practical advice, support and home interventions for people with complex needs, including MND.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=2570"
+        },
+        {
+          "id": "contribution-779776",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 2657,
+          "text_english": "Through expansion of pay-as-you-go on the rail network, our £26 million investment in bus grants and network north Wales, and £28 million of funding through the regional transport fund, we continue to invest meaningfully in public transport in north Wales. Transport for Wales have recently concluded a consultation on the bus network specifically across the region, and more than 1,000 people participated, showing just how important public transport is to communities across the region.",
+          "text_original": "Through expansion of pay-as-you-go on the rail network, our £26 million investment in bus grants and network north Wales, and £28 million of funding through the regional transport fund, we continue to invest meaningfully in public transport in north Wales. Transport for Wales have recently concluded a consultation on the bus network specifically across the region, and more than 1,000 people participated, showing just how important public transport is to communities across the region.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=2657"
+        },
+        {
+          "id": "contribution-779771",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 2750,
+          "text_english": "The Member is right, Llywydd, these are people's lives, this is their ability to access services and to access leisure and so on, and I certainly recognise the vital role that bus services play in that, in connecting rural communities to work, education, healthcare and social opportunities, and those in urban areas to those opportunities too. Some £150 million is being invested in local bus services across Wales this year, helping to protect services and to improve connectivity, despite significant cost pressures right now across the sector.\n\nWe are working closely, though, with local authorities and Transport for Wales to improve access to public transport in rural areas, including through innovative solutions such as the Fflecsi demand-responsive services that have been introduced in Flintshire, as in some other areas. Alongside that, crucially, the bus reform programme that we'll be delivering will help deliver a more integrated and more accessible bus network that must better meet the needs of communities across Wales.",
+          "text_original": "The Member is right, Llywydd, these are people's lives, this is their ability to access services and to access leisure and so on, and I certainly recognise the vital role that bus services play in that, in connecting rural communities to work, education, healthcare and social opportunities, and those in urban areas to those opportunities too. Some £150 million is being invested in local bus services across Wales this year, helping to protect services and to improve connectivity, despite significant cost pressures right now across the sector.\n\nWe are working closely, though, with local authorities and Transport for Wales to improve access to public transport in rural areas, including through innovative solutions such as the Fflecsi demand-responsive services that have been introduced in Flintshire, as in some other areas. Alongside that, crucially, the bus reform programme that we'll be delivering will help deliver a more integrated and more accessible bus network that must better meet the needs of communities across Wales.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=2750"
+        },
+        {
+          "id": "contribution-779779",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 2834,
+          "text_english": "High-street businesses are at the heart of thriving communities. We're backing businesses across Gŵyr Abertawe through town centre regeneration, alongside advice, finance, skills and digital support. In addition, our independent town centre taskforce is focused on practical options to revitalise town centres and create thriving places where businesses can succeed, and where eligible retail, hospitality and leisure premises will benefit from a permanent 30 per cent reduction in business rates from April 2027, something that has been widely welcomed.",
+          "text_original": "High-street businesses are at the heart of thriving communities. We're backing businesses across Gŵyr Abertawe through town centre regeneration, alongside advice, finance, skills and digital support. In addition, our independent town centre taskforce is focused on practical options to revitalise town centres and create thriving places where businesses can succeed, and where eligible retail, hospitality and leisure premises will benefit from a permanent 30 per cent reduction in business rates from April 2027, something that has been widely welcomed.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=2834"
+        },
+        {
+          "id": "contribution-779784",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 2909,
+          "text_english": "Our high streets have been in decline for many years. Where we have any examples of illicit businesses or businesses not behaving in the appropriate way, it has always been the case that trading standards are able to step in. We certainly do want to work with local authorities to make sure that our trading standards are able to step in, whatever the issues might be around trading misdemeanours or worse. What I am focused on and what we in Welsh Government are able to do is to bring that vibrancy back to our high streets, making sure that we do have that mix of businesses on our high streets, that mix of shops and leisure, and to create that footfall that brings our high streets back to, I think, what we all believe they should be, which are the centrepieces of communities.",
+          "text_original": "Our high streets have been in decline for many years. Where we have any examples of illicit businesses or businesses not behaving in the appropriate way, it has always been the case that trading standards are able to step in. We certainly do want to work with local authorities to make sure that our trading standards are able to step in, whatever the issues might be around trading misdemeanours or worse. What I am focused on and what we in Welsh Government are able to do is to bring that vibrancy back to our high streets, making sure that we do have that mix of businesses on our high streets, that mix of shops and leisure, and to create that footfall that brings our high streets back to, I think, what we all believe they should be, which are the centrepieces of communities.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=2909"
+        },
+        {
+          "id": "contribution-779788",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 2987,
+          "text_english": "Our focus is very much, Llywydd, on making every pound of public money work as hard as possible for the people of Wales. That means spending better, reducing duplication, simplifying how Government works and moving resources from administration towards front-line services, which I think is what people want to see. We're also taking a much stronger focus on outcomes, making sure public spending delivers real benefits for people and supports the priorities this Government was elected to deliver.",
+          "text_original": "Our focus is very much, Llywydd, on making every pound of public money work as hard as possible for the people of Wales. That means spending better, reducing duplication, simplifying how Government works and moving resources from administration towards front-line services, which I think is what people want to see. We're also taking a much stronger focus on outcomes, making sure public spending delivers real benefits for people and supports the priorities this Government was elected to deliver.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=2987"
+        },
+        {
+          "id": "contribution-779792",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 3082,
+          "text_english": "In effect, I don't disagree with the central point made there, that our job is to spend money well, but your job is to hold us to account for the way that we spend our money. [Interruption.] That's what you've been elected to do. I became First Minister. And on an independent audit of the way Welsh Government spends its money, well, we have a national audit office for Wales, which literally does that. We are held to account in different ways through the democratic process, through committees here in the Senedd. Our task in putting together the budget now, for publication as a draft next month, is to make sure that, 'Are we eking the most out of the money that we are entrusted to look after and make the most out of?' That is our job; hold us to account for it.",
+          "text_original": "In effect, I don't disagree with the central point made there, that our job is to spend money well, but your job is to hold us to account for the way that we spend our money. [Interruption.] That's what you've been elected to do. I became First Minister. And on an independent audit of the way Welsh Government spends its money, well, we have a national audit office for Wales, which literally does that. We are held to account in different ways through the democratic process, through committees here in the Senedd. Our task in putting together the budget now, for publication as a draft next month, is to make sure that, 'Are we eking the most out of the money that we are entrusted to look after and make the most out of?' That is our job; hold us to account for it.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=3082"
+        },
+        {
+          "id": "contribution-779804",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 3142,
+          "text_english": "Restructuring isn't an immediate priority for this Government. We are instead focused on improving delivery and outcomes, and addressing barriers to more effective institutional collaboration. To do that, we are directing health boards to shift towards prevention, community care and early intervention. We're also strengthening accountability arrangements and, crucially, we're reviewing regional joint working to support better joined-up care, which is vital. This underpins our determination to ensure that health board boundaries aren't barriers to better delivery of health and care.",
+          "text_original": "Restructuring isn't an immediate priority for this Government. We are instead focused on improving delivery and outcomes, and addressing barriers to more effective institutional collaboration. To do that, we are directing health boards to shift towards prevention, community care and early intervention. We're also strengthening accountability arrangements and, crucially, we're reviewing regional joint working to support better joined-up care, which is vital. This underpins our determination to ensure that health board boundaries aren't barriers to better delivery of health and care.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=3142"
+        },
+        {
+          "id": "contribution-779843",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 3238,
+          "text_english": "As I said, there are no plans for restructuring. I will refer to what I have already said. Are we looking for better partnerships? Yes. Does that mean better partnerships between health boards? Yes. Do we look for a neighbouring health board where there's capacity to do something to step in and take the pressure off another? Yes. Innovations of that kind are very, very important. Do I stand by my comment over the years as—? I declare my interest as a patient of Betsi Cadwaladr. Do I have a sense that here we have a health board whose scale is an issue that you don't get elsewhere? Yes, I think that that is true, but the answer is to see if we can work around that.\n\nNow, I have used the words 'last chance saloon', 'they are on notice'. Call it what you like, we have to give it a go. We did not come into Government saying, 'We're going to restructure the health boards.' What we did say we would do is deliver a more sustainable NHS service and care service for the people of Wales. If it means getting to grips with the organisation and shapes of boards in the future, we'll look at that. But let's crack on with the work that we have begun as a Government now. I believe it will reap results.",
+          "text_original": "As I said, there are no plans for restructuring. I will refer to what I have already said. Are we looking for better partnerships? Yes. Does that mean better partnerships between health boards? Yes. Do we look for a neighbouring health board where there's capacity to do something to step in and take the pressure off another? Yes. Innovations of that kind are very, very important. Do I stand by my comment over the years as—? I declare my interest as a patient of Betsi Cadwaladr. Do I have a sense that here we have a health board whose scale is an issue that you don't get elsewhere? Yes, I think that that is true, but the answer is to see if we can work around that.\n\nNow, I have used the words 'last chance saloon', 'they are on notice'. Call it what you like, we have to give it a go. We did not come into Government saying, 'We're going to restructure the health boards.' What we did say we would do is deliver a more sustainable NHS service and care service for the people of Wales. If it means getting to grips with the organisation and shapes of boards in the future, we'll look at that. But let's crack on with the work that we have begun as a Government now. I believe it will reap results.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=3238"
+        },
+        {
+          "id": "contribution-779807",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 3341,
+          "text_english": "Yes. Delivering 20,000 additional social homes by 2030 is a clear priority for this Government. Some £474 million is allocated for social housing this year. Local authorities across the Clwyd constituency have been allocated almost £100 million in social housing grants funding this year, and this new Government's supplementary budget has put forward plans for an additional £20 million nationally, which I hope will attract support. Together, this will contribute to the delivery of almost 1,300 social homes in Clwyd.",
+          "text_original": "Yes. Delivering 20,000 additional social homes by 2030 is a clear priority for this Government. Some £474 million is allocated for social housing this year. Local authorities across the Clwyd constituency have been allocated almost £100 million in social housing grants funding this year, and this new Government's supplementary budget has put forward plans for an additional £20 million nationally, which I hope will attract support. Together, this will contribute to the delivery of almost 1,300 social homes in Clwyd.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=3341"
+        },
+        {
+          "id": "contribution-779813",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 3426,
+          "text_english": "I certainly recognise the demand for additional social housing, which is why, over the summer this year, we published a new version of the local housing market assessments tool and guidance. These are vital tools in understanding the local housing needs of the diverse communities within each local authority area, and they help ensure that local authorities bring forward developments that are aligned with those specific community needs. I believe that the record investment that we want to put in place demonstrates our commitment. I'll also make the point that it's not just building new homes either, and we will take an approach in a number of different ways in bringing property back into use, and so on, to address what is a problem that affects all parts of Wales and one that Government is equipped to deal with.",
+          "text_original": "I certainly recognise the demand for additional social housing, which is why, over the summer this year, we published a new version of the local housing market assessments tool and guidance. These are vital tools in understanding the local housing needs of the diverse communities within each local authority area, and they help ensure that local authorities bring forward developments that are aligned with those specific community needs. I believe that the record investment that we want to put in place demonstrates our commitment. I'll also make the point that it's not just building new homes either, and we will take an approach in a number of different ways in bringing property back into use, and so on, to address what is a problem that affects all parts of Wales and one that Government is equipped to deal with.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=3426"
+        },
+        {
+          "id": "contribution-779824",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 3499,
+          "text_english": "No veteran should feel unsupported when facing significant personal challenges. We're committed to ensuring that veterans in Wales can access the mental health support they need. Veterans are entitled to priority access to NHS care, subject to clinical need, for service-related conditions. They can also access specialist support through Veterans' NHS Wales and the NHS '111 press 2' mental health service, which provides free confidential support 24 hours a day.",
+          "text_original": "No veteran should feel unsupported when facing significant personal challenges. We're committed to ensuring that veterans in Wales can access the mental health support they need. Veterans are entitled to priority access to NHS care, subject to clinical need, for service-related conditions. They can also access specialist support through Veterans' NHS Wales and the NHS '111 press 2' mental health service, which provides free confidential support 24 hours a day.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=3499"
+        },
+        {
+          "id": "contribution-779812",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 3605,
+          "text_english": "I recognise absolutely those who have served in the armed forces and those who lost their lives in combat, of course. We are fully committed as a Government to the covenant, which we owe to those who have served in the armed forces. It is important for us to know, when we offer services to veterans, that those services are sustainable. That is part of building the sustainable NHS that I mentioned. On those mental pressures, if you like, that veterans face, as I say, there are those priority services. We have a continued focus on rolling out veteran-friendly GP accreditation, which I think is important. I will remind you also that the programme for government that we have commits to an open access, 'no wrong door' approach to mental health, and veterans very much are able to access this.",
+          "text_original": "I recognise absolutely those who have served in the armed forces and those who lost their lives in combat, of course. We are fully committed as a Government to the covenant, which we owe to those who have served in the armed forces. It is important for us to know, when we offer services to veterans, that those services are sustainable. That is part of building the sustainable NHS that I mentioned. On those mental pressures, if you like, that veterans face, as I say, there are those priority services. We have a continued focus on rolling out veteran-friendly GP accreditation, which I think is important. I will remind you also that the programme for government that we have commits to an open access, 'no wrong door' approach to mental health, and veterans very much are able to access this.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=3605"
+        },
+        {
+          "id": "contribution-779980",
+          "item_id": "item-16317-261020-4",
+          "item_title_en": "4. Statement by the First Minister: 60th Anniversary of the Aberfan Disaster",
+          "lang": "en",
+          "t_start": 7778,
+          "text_english": "Llywydd, today the Senedd comes together as one to mark one of the darkest days in our nation’s history. Sixty years ago tomorrow, a colliery spoil tip of mining waste slid down the mountainside above Aberfan. It engulfed Pantglas Junior School and houses nearby. One hundred and forty-four people died that day. One hundred and sixteen of them were children. \n\nThe events of 21 October 1966 devastated the community of Aberfan. It robbed a generation of its children of their futures in a matter of moments. And for that reason, the tragedy of Aberfan continues to echo down the decades, in that village, across Wales, and further afield. The communities of Wales came together to support the people of Aberfan in their darkest hour. As soon as news of the disaster spread, countless people across south Wales dropped what they were doing and rushed to help with the rescue effort.\n\nI grew up with the story of Aberfan. When the tragedy happened, my father was a young teacher at the primary school in Ynysboeth, just a few miles from Aberfan. He and his colleagues, like so many others, went straight to the scene to see if they could help. Hearing stories of that day is an early memory of mine that left a deep and lasting effect on me. It brought home to me the horror of that day for all those who were there and who lived to bear witness to what happened.\n\nAs the scale of the disaster became clear, help and support poured in from across Wales and beyond. There was a determination to help, but also a determination that the terrible loss of life should never be forgotten. I remember vividly the day I came across the plaque honouring those who died at Aberfan near Pont y Borth on Ynys Môn. It again brought home to me the scale of the disaster, that a memorial had been placed there, at the other end of Wales. This touched us all, wherever we were.",
+          "text_original": "Llywydd, today the Senedd comes together as one to mark one of the darkest days in our nation’s history. Sixty years ago tomorrow, a colliery spoil tip of mining waste slid down the mountainside above Aberfan. It engulfed Pantglas Junior School and houses nearby. One hundred and forty-four people died that day. One hundred and sixteen of them were children. \n\nThe events of 21 October 1966 devastated the community of Aberfan. It robbed a generation of its children of their futures in a matter of moments. And for that reason, the tragedy of Aberfan continues to echo down the decades, in that village, across Wales, and further afield. The communities of Wales came together to support the people of Aberfan in their darkest hour. As soon as news of the disaster spread, countless people across south Wales dropped what they were doing and rushed to help with the rescue effort.\n\nI grew up with the story of Aberfan. When the tragedy happened, my father was a young teacher at the primary school in Ynysboeth, just a few miles from Aberfan. He and his colleagues, like so many others, went straight to the scene to see if they could help. Hearing stories of that day is an early memory of mine that left a deep and lasting effect on me. It brought home to me the horror of that day for all those who were there and who lived to bear witness to what happened.\n\nAs the scale of the disaster became clear, help and support poured in from across Wales and beyond. There was a determination to help, but also a determination that the terrible loss of life should never be forgotten. I remember vividly the day I came across the plaque honouring those who died at Aberfan near Pont y Borth on Ynys Môn. It again brought home to me the scale of the disaster, that a memorial had been placed there, at the other end of Wales. This touched us all, wherever we were.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=7778"
+        },
+        {
+          "id": "contribution-779948",
+          "item_id": "item-16317-261020-4",
+          "item_title_en": "4. Statement by the First Minister: 60th Anniversary of the Aberfan Disaster",
+          "lang": "cy",
+          "t_start": 7921,
+          "text_english": "A nation united, not only in its grief, but in its shared promise to remember always. We remember the effect of the tragedy and its aftermath on the community of Aberfan, stretching down the decades to the present day. But we must also never forget the injustices visited on that community either. Before the disaster, the negligence of the National Coal Board let spoil tips build up above homes and schools—not one, but many spoil tips. And then, afterwards, the fund that was supposed to support the community was raided in a shameful act, which was only acknowledged far too long later.\n\nEarlier this month, I had the opportunity to visit Aberfan. I was privileged to hear the personal reflections of some of those who survived the tragedy and also those whose lives are still profoundly touched by its legacy. On behalf of the whole Senedd, I'd like to thank the trustees, the Aberfan Wives, and all the groups who do so much to keep the memory of what happened alive, to maintain the graves of those who died, and to support the community with the ongoing effects of that day. And with them, we must continue to tell the story of Aberfan for new generations.\n\nAmgueddfa Cymru's poignant Aberfan exhibition to mark the sixtieth anniversary brings home the local and global effects of the tragedy, here in Wales and across the world. It's impossible not to be deeply moved seeing the clock rescued from the rubble, stopped just before 09:15, and the letters to the school from schoolchildren in Santa Rosa, California, of a similar age to those who lost their lives. Even 60 years on, it reminds us of the impact that this event had on people across the world.\n\nTomorrow morning, at 09:15, many people and organisations across Wales will pause, reflect and honour those lost at Aberfan in a minute's silence. The Deputy First Minister and I will be at Aberfan, alongside many others, including the King, the Queen and the Prince of Wales, to pay our respects. It will be a particularly poignant occasion for the Deputy First Minister, whose late aunt, Bopa Hettie, Hettie Williams, was a 23-year-old teacher at Pantglas on that day. She led her first-year class to safety and supported them and the whole community in the aftermath of the disaster.\n\nBut as we remember, we must look to the future too.",
+          "text_original": "Cenedl yn un, nid yn unig yn ein galar, ond yn yr addewid rydyn ni wedi ei wneud efo'n gilydd i gofio bob amser. Rydyn ni'n cofio'r effaith a gafodd y drychineb ar gymuned Aberfan a'r hyn a ddaeth wedyn. Mae'r effaith honno'n dal i gael ei theimlo hyd heddiw. Ond rhaid inni beidio fyth ag anghofio'r annhegwch a brofodd y gymuned honno chwaith. Cyn y drychineb, mi wnaeth esgeulustod y Bwrdd Glo Cenedlaethol adael i domenni gwastraff gronni uwchben cartrefi ac ysgolion—nid un domen, ond nifer ohonyn nhw. Ac wedyn, ar ôl y drychineb, mi gafodd arian a oedd i fod i gefnogi'r gymuned ei gymryd o'r gronfa. Mi oedd hynny'n gwbl warthus ac mi fu'n rhaid aros llawer yn rhy hir cyn i hynny gael ei gydnabod.\n\nYn gynharach y mis yma, mi ges i gyfle i fynd i Aberfan. Braint oedd clywed rhai o'r bobl a wnaeth oroesi'r drychineb yn rhannu eu hatgofion a chlywed hefyd gan y bobl sy'n dal i fyw efo effaith yr hyn a ddigwyddodd y diwrnod hwnnw. Ar ran y Senedd gyfan, hoffwn ddiolch i'r ymddiriedolwyr, Gwragedd Aberfan, a'r holl grwpiau sy'n gwneud cymaint i gadw'r cof yn fyw ac i ofalu am feddau y rhai a fu farw, ac i gefnogi'r gymuned wrth iddi fyw efo canlyniadau'r drychineb. Ac mae'n rhaid i ninnau, efo nhw, ddal ati i adrodd hanes Aberfan i genedlaethau newydd.\n\nMae arddangosfa deimladwy Amgueddfa Cymru, sy'n nodi 60 mlynedd ers y diwrnod hwnnw, yn dangos yn glir iawn gymaint o effaith a gafodd trychineb Aberfan yma yng Nghymru ac ar draws y byd. Mae'n amhosib peidio â chael eich cyffwrdd wrth weld y cloc a gafodd ei achub o'r rwbel wedi stopio ychydig cyn 09:15, y llythyrau a gafodd eu hanfon i'r ysgol gan blant yn Santa Rosa, Califfornia, a oedd tua'r un oed â'r rhai a gollodd ei bywydau. Hyd yn oed 60 mlynedd yn ddiweddarach, maen nhw'n ein hatgoffa ni o'r effaith a gafodd Aberfan ar bobl ledled y byd.\n\nBore yfory, am 09:15, mi fydd pobl mewn sefydliadau ledled Cymru yn nodi munud o dawelwch. Mi fydd yn gyfle i gofio, i fyfyrio ac i anrhydeddu'r rhai a gollodd eu bywydau. Mi fydd y Dirprwy Brif Weinidog a minnau yn Aberfan hefyd, ynghyd â llawer iawn o bobl eraill, gan gynnwys y Brenin, y Frenhines a Thywysog Cymru, i dalu ein teyrnged. Mi fydd yn achlysur arbennig o deimladwy i'r Dirprwy Brif Weinidog. Mi roedd ei diweddar fodryb, Bopa Hettie, Hettie Williams, yn athrawes 23 oed ym Mhantglas y diwrnod hwnnw. Mi wnaeth hi arwain y plant ifanc yn ei dosbarth i fan diogel, ac yna mi fuodd hi'n cefnogi'r plant a'r gymuned gyfan yn dilyn y drychineb.\n\nOnd wrth inni gofio, mae'n rhaid inni edrych tua'r dyfodol hefyd.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=7921"
+        },
+        {
+          "id": "contribution-779955",
+          "item_id": "item-16317-261020-4",
+          "item_title_en": "4. Statement by the First Minister: 60th Anniversary of the Aberfan Disaster",
+          "lang": "en",
+          "t_start": 8117,
+          "text_english": "The sixth Senedd came together as one to vote for the creation of the disused tips authority for Wales, which will work to reduce the threats from tips in former mining communities right across Wales. Its mission statement is resonant this week in particular: honour the past, protect the present, prepare for the future. Today, we honour the past with a shared determination that we must—all of us—do everything we can to protect all our communities into the future. \n\nThe story of Aberfan will never be forgotten. It is a story of the most terrible loss and grief, but also a story of the resilience of a community over six decades. As a Senedd and as a nation, we stand with that community today, honouring both their loss and their strength in rebuilding a future for themselves.\n\nLlywydd, I first heard the story of that day as a child, and can remember my horror at the thought of others my age going to school without a care in the world and never coming home again to the safety and love of their families. This is a tragedy that each of us carries with us from the moment that we were old enough to understand. This is what it means to keep the memory alive. It lives on in every one of us, and that is why we mark this as a nation.",
+          "text_original": "The sixth Senedd came together as one to vote for the creation of the disused tips authority for Wales, which will work to reduce the threats from tips in former mining communities right across Wales. Its mission statement is resonant this week in particular: honour the past, protect the present, prepare for the future. Today, we honour the past with a shared determination that we must—all of us—do everything we can to protect all our communities into the future. \n\nThe story of Aberfan will never be forgotten. It is a story of the most terrible loss and grief, but also a story of the resilience of a community over six decades. As a Senedd and as a nation, we stand with that community today, honouring both their loss and their strength in rebuilding a future for themselves.\n\nLlywydd, I first heard the story of that day as a child, and can remember my horror at the thought of others my age going to school without a care in the world and never coming home again to the safety and love of their families. This is a tragedy that each of us carries with us from the moment that we were old enough to understand. This is what it means to keep the memory alive. It lives on in every one of us, and that is why we mark this as a nation.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=8117"
+        },
+        {
+          "id": "contribution-779977",
+          "item_id": "item-16317-261020-4",
+          "item_title_en": "4. Statement by the First Minister: 60th Anniversary of the Aberfan Disaster",
+          "lang": "cy",
+          "t_start": 9182,
+          "text_english": "Thank you, Llywydd. I am grateful to the party leaders and spokespeople for their comments, for their tributes and for their questions.",
+          "text_original": "Diolch, Lywydd. Dwi'n ddiolchgar i arweinyddion a llefaryddion y pleidiau am eu sylwadau nhw, am eu teyrngedau nhw ac am eu cwestiynau nhw.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=9182"
+        },
+        {
+          "id": "contribution-779978",
+          "item_id": "item-16317-261020-4",
+          "item_title_en": "4. Statement by the First Minister: 60th Anniversary of the Aberfan Disaster",
+          "lang": "en",
+          "t_start": 9198,
+          "text_english": "Yes, we must all come together to seek justice for the communities and to honour those who died and who lived with the consequences of that horror for so many years, and continue to do so. We must, all of us, be willing to do what it takes to honour that memory. We must, through the work of the disused tips authority, double down on the need to put right the injustices faced by post-industrial communities dealing with the legacy of industry. That includes very much the contaminated land. It includes the remains of mining, slate and other long-gone industries.",
+          "text_original": "Yes, we must all come together to seek justice for the communities and to honour those who died and who lived with the consequences of that horror for so many years, and continue to do so. We must, all of us, be willing to do what it takes to honour that memory. We must, through the work of the disused tips authority, double down on the need to put right the injustices faced by post-industrial communities dealing with the legacy of industry. That includes very much the contaminated land. It includes the remains of mining, slate and other long-gone industries.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=9198"
+        },
+        {
+          "id": "contribution-779983",
+          "item_id": "item-16317-261020-4",
+          "item_title_en": "4. Statement by the First Minister: 60th Anniversary of the Aberfan Disaster",
+          "lang": "cy",
+          "t_start": 9251,
+          "text_english": "But the tribute and its tone is very important for us as a Senedd today, isn't it, and the point has been made by many people: this tragedy was avoidable. This was made by man, and the injustices and errors made in the response were also man-made. This is the tragedy that we commemorate and the injustice that we all here seek to ensure is never repeated. But, yes, the community and individuals within it showed incredible courage. A list of names has been mentioned today. It was a huge pleasure to speak to Gareth and his daughter, Emma, here last week, and to hear of his memories of Stephen dragging him to safety bringing him to tears 60 years later. We remember aunt Hettie, Nansi and Len.",
+          "text_original": "Ond mae'r deyrnged a'i thôn hi yn bwysig iawn gennym ni yma, onid ydy, fel Senedd heddiw, ac mae'r pwynt wedi'i wneud gan sawl un: mi oedd modd osgoi hyn. Rhywbeth wedi'i greu gan ddyn oedd hyn, ac mi oedd y camgymeriadau yn yr ymateb a'r anghyfiawnderau yn yr ymateb yn anghyfiawnderau wedi'u creu gan ddyn. Dyma'r trychineb yr ydyn ni yn ei gofio a'r anghyfiawnder dŷn ni i gyd yma yn mynnu sicrhau na chaiff ddigwydd eto. Ond, do, mi wnaeth y gymuned ac unigolion ddangos dewrder rhyfeddol. Mae rhes o enwau wedi'u crybwyll yma heddiw. Pleser mawr oedd siarad efo Gareth a'i ferch, Emma, yma yr wythnos diwethaf, â'i gof o am Stephen yn ei dynnu fo i ddagrau 60 mlynedd yn ddiweddarach. Dŷn ni'n cofio bopa Hettie a Nansi a Len.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=9251"
+        },
+        {
+          "id": "contribution-779970",
+          "item_id": "item-16317-261020-4",
+          "item_title_en": "4. Statement by the First Minister: 60th Anniversary of the Aberfan Disaster",
+          "lang": "en",
+          "t_start": 9322,
+          "text_english": "But we remember so, so many—countless—people, whose names may have long disappeared from our collective memory, but whose response on that day, in small ways, contributed to showing what we are as a nation, which came together as one community on that day 60 years ago.",
+          "text_original": "But we remember so, so many—countless—people, whose names may have long disappeared from our collective memory, but whose response on that day, in small ways, contributed to showing what we are as a nation, which came together as one community on that day 60 years ago.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=9322"
+        },
+        {
+          "id": "contribution-779990",
+          "item_id": "item-16317-261020-4",
+          "item_title_en": "4. Statement by the First Minister: 60th Anniversary of the Aberfan Disaster",
+          "lang": "en",
+          "t_start": 9480,
+          "text_english": "Diolch. I know how difficult it is for Lis and others to speak and to remember, but I know how determined they are, also, to never forget. As I said in my opening remarks, and I agree very much with the Member, this is the story of a community that faced unspeakable tragedy, but that refused to be defeated. That community, to this very day, remains an inspiration to us, and let us all, in our grief tomorrow, take inspiration from the way that Aberfan and its people have responded.",
+          "text_original": "Diolch. I know how difficult it is for Lis and others to speak and to remember, but I know how determined they are, also, to never forget. As I said in my opening remarks, and I agree very much with the Member, this is the story of a community that faced unspeakable tragedy, but that refused to be defeated. That community, to this very day, remains an inspiration to us, and let us all, in our grief tomorrow, take inspiration from the way that Aberfan and its people have responded.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=9480"
+        },
+        {
+          "id": "contribution-779985",
+          "item_id": "item-16317-261020-4",
+          "item_title_en": "4. Statement by the First Minister: 60th Anniversary of the Aberfan Disaster",
+          "lang": "en",
+          "t_start": 9618,
+          "text_english": "When this Senedd legislates, we take on a joint commitment to ensure that that legislation is acted upon. The Disused Mine and Quarry Tips (Wales) Act 2025 was absolutely about giving that assurance that we will use what we can do as a Parliament to legislate, to use the powers that we have to give assurances to communities. That doesn't mean it's 'job done', it means that the foundations are in place, and when the disused tips authority comes into force in April 2027, we then move into a new phase of making sure that, absolutely, this is exactly what we do: we act in a way that gives confidence to the communities the length and breadth of Wales and that we understand the anxiety that they face from day to day.\n\nBut, again, in responding to the wider point made by the Member, he reminds us that we are gathering here in memory of a community today in all its meanings. A community is a place, yes, but more than that, community is the people within that, and it's shoulder to shoulder with the people of Aberfan, present and past, that we stand in these days of remembrance.",
+          "text_original": "When this Senedd legislates, we take on a joint commitment to ensure that that legislation is acted upon. The Disused Mine and Quarry Tips (Wales) Act 2025 was absolutely about giving that assurance that we will use what we can do as a Parliament to legislate, to use the powers that we have to give assurances to communities. That doesn't mean it's 'job done', it means that the foundations are in place, and when the disused tips authority comes into force in April 2027, we then move into a new phase of making sure that, absolutely, this is exactly what we do: we act in a way that gives confidence to the communities the length and breadth of Wales and that we understand the anxiety that they face from day to day.\n\nBut, again, in responding to the wider point made by the Member, he reminds us that we are gathering here in memory of a community today in all its meanings. A community is a place, yes, but more than that, community is the people within that, and it's shoulder to shoulder with the people of Aberfan, present and past, that we stand in these days of remembrance.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=9618"
+        },
+        {
+          "id": "contribution-779989",
+          "item_id": "item-16317-261020-4",
+          "item_title_en": "4. Statement by the First Minister: 60th Anniversary of the Aberfan Disaster",
+          "lang": "cy",
+          "t_start": 9780,
+          "text_english": "I thank the leader of the Liberal Democrats in Wales. Indeed, it's that word 'unity', again, that has echoed through the messages that we have heard in the Welsh Parliament today and in the days leading up to tomorrow's commemorations. Together as a nation we unite in facing the challenge as we move forward, and of ensuring that we continue to remember, but also, yes, to address the threat that still exists from our industrial heritage.\n\nWe know what work needs to be done. The work that the Government is involved with is important, practical work in identifying those tips that are of greatest threat. That has been done. Ensuring that the investigations take place; ensuring that the funding comes, partly from this Government's budget but also from the UK Government, of course, because this is an issue that predates devolution; ensuring that those practical steps are then taken in order to safeguard communities—that work continues. It must happen as a matter of priority, but our priority here is to remember, as everyone here does, the horrors of Aberfan in 1966, and to make the pledge that we will do everything we can to ensure that this never happens again.",
+          "text_original": "Diolch i arweinydd y Democratiaid Rhyddfrydol yng Nghymru. Ac yn wir, mae'r gair yna, 'undod', unwaith eto, onid ydy, yn adlewyrchu'r negeseuon dŷn ni wedi eu clywed yma yn Senedd Cymru heddiw ac yn y dyddiau yn arwain at yfory. Efo'n gilydd fel cenedl mae wynebu'r her wrth symud ymlaen, o sicrhau ein bod ni'n dal i gofio, ond, ie, i fynd i'r afael â'r bygythiad sydd yn bodoli o hyd o'n treftadaeth ddiwydiannol ni.\n\nDŷn ni'n gwybod beth ydy'r gwaith sydd angen ei wneud. Mae'r gwaith mae'r Llywodraeth yn ymwneud â fo yn waith ymarferol, pwysig o adnabod y tomenni hynny sydd yn achosi mwyaf o fygythiad. Mae hynny wedi ei wneud. Gwneud yn siŵr bod y gwaith archwilio yn digwydd; gwneud yn siŵr bod yr arian yn dod, yn rhannol o goffrau'r Llywodraeth yma, ond hefyd o Lywodraeth y Deyrnas Unedig, wrth gwrs, gan fod hwn yn fater o ddyddiau ymhell cyn datganoli; sicrhau bod y camau ymarferol yn cael eu cymryd wedyn i ddiogelu—mae'r gwaith hwnnw'n parhau. Mae o'n gorfod digwydd fel mater o flaenoriaeth, ond ein blaenoriaeth ni yma rŵan, fel mae pawb yn myfyrio arno fo, ydy i gofio'r erchylltra yn Aberfan yn 1966, a gwneud yr addewid y gwnawn ni bopeth y gallwn ni i sicrhau na all hyn ddigwydd eto.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=9780"
+        },
+        {
+          "id": "contribution-779994",
+          "item_id": "item-16317-261020-4",
+          "item_title_en": "4. Statement by the First Minister: 60th Anniversary of the Aberfan Disaster",
+          "lang": "en",
+          "t_start": 9953,
+          "text_english": "Very much so, Llywydd. We're having a sense this afternoon, aren't we, that we all have a different relationship with that tragedy in Aberfan, but that it is something that is relevant to all of us. It might be family, it might be a moment spent with somebody who was there, it might be a parent, it might be a sense of watching, maybe from afar, but a sense of feeling very much at one with the people of Aberfan in thinking of their tragedy. But, yes, this is a community that had to wait far, far too long for justice. The placing of unstable heaps above a village and then the taking of funds for the remediation from that community are injustices that cause scars that will run deep. But it is by supporting that community and all of us somehow taking ownership of that sense of community between us that we can—again, I make the case—make that pledge that we never ever allow this to happen in this way again.",
+          "text_original": "Very much so, Llywydd. We're having a sense this afternoon, aren't we, that we all have a different relationship with that tragedy in Aberfan, but that it is something that is relevant to all of us. It might be family, it might be a moment spent with somebody who was there, it might be a parent, it might be a sense of watching, maybe from afar, but a sense of feeling very much at one with the people of Aberfan in thinking of their tragedy. But, yes, this is a community that had to wait far, far too long for justice. The placing of unstable heaps above a village and then the taking of funds for the remediation from that community are injustices that cause scars that will run deep. But it is by supporting that community and all of us somehow taking ownership of that sense of community between us that we can—again, I make the case—make that pledge that we never ever allow this to happen in this way again.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=9953"
+        },
+        {
+          "id": "contribution-779997",
+          "item_id": "item-16317-261020-4",
+          "item_title_en": "4. Statement by the First Minister: 60th Anniversary of the Aberfan Disaster",
+          "lang": "en",
+          "t_start": 10132,
+          "text_english": "I'm grateful for a thoughtful tribute, and, briefly, Llywydd, it is an important message that we never forget. The sixtieth anniversary only takes us on to the sixty-first and the sixty-second, because the memory of what happened in Aberfan must always drive us forward to remember the resilience of a community, what they faced and what we still owe them today.",
+          "text_original": "I'm grateful for a thoughtful tribute, and, briefly, Llywydd, it is an important message that we never forget. The sixtieth anniversary only takes us on to the sixty-first and the sixty-second, because the memory of what happened in Aberfan must always drive us forward to remember the resilience of a community, what they faced and what we still owe them today.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=10132"
+        },
+        {
+          "id": "contribution-780000",
+          "item_id": "item-16317-261020-4",
+          "item_title_en": "4. Statement by the First Minister: 60th Anniversary of the Aberfan Disaster",
+          "lang": "en",
+          "t_start": 10246,
+          "text_english": "I appreciate the message from the Labour leader, and I am somebody who has always felt that we need to ensure that our children know our story, know our history, and our history has many facets to it. We have a proud industrial history, we have a legacy of real pain from that industrial history too, and absolutely, I know, and I speak for my education Minister in saying, that we always look for new ways of ensuring that, through our education system, we can make sure that our young people are equipped from knowing their past to prepare for their futures.\n\nYes, officialdom let the people of Aberfan down. It is our privilege in Government and within the wider public sphere in Wales that we are tasked with making sure that we use the tools of officialdom to build a better and more secure future for the people of Wales.",
+          "text_original": "I appreciate the message from the Labour leader, and I am somebody who has always felt that we need to ensure that our children know our story, know our history, and our history has many facets to it. We have a proud industrial history, we have a legacy of real pain from that industrial history too, and absolutely, I know, and I speak for my education Minister in saying, that we always look for new ways of ensuring that, through our education system, we can make sure that our young people are equipped from knowing their past to prepare for their futures.\n\nYes, officialdom let the people of Aberfan down. It is our privilege in Government and within the wider public sphere in Wales that we are tasked with making sure that we use the tools of officialdom to build a better and more secure future for the people of Wales.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=10246"
         }
       ],
       "date": "2026-10-20",

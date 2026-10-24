@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,24 @@
   "canonical_name": "Lis McLean",
   "constituency_name_cy": "Pontypridd Cynon Merthyr",
   "constituency_name_en": "Pontypridd Cynon Merthyr",
-  "contribution_count": 28,
+  "contribution_count": 29,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-779979",
+          "item_id": "item-16317-261020-4",
+          "item_title_en": "4. Statement by the First Minister: 60th Anniversary of the Aberfan Disaster",
+          "lang": "en",
+          "t_start": 9351,
+          "text_english": "I am a Merthyr girl, and I just want to say before I read this that I am shocked, surprised and upset by any reference to any party political stuff when we talk about Aberfan, because it just isn't relevant. But I want to say this: having lived all my life in Merthyr Tydfil, I have often been asked about Aberfan. Wherever I go, whenever people hear where I am from, they immediately think of the terrible tragedy. For many years, that was the only story that people knew about Aberfan and the outside world. \n\nMy own memories are of my parents' sadness and of my father being called to send every man and machine that he could to Pantglas school. It was only many years later that he actually said that that was the worst day of his life. Sixty years on, we will never forget the 116 children and 28 adults who lost their lives, nor the families who have struggled.\n\nBut Aberfan is so much more than its tragedy. My daughter and grandchildren—Joseff and Nansi, as it happens—call Aberfan their home. I see a warm, welcoming community, full of kindness, talent, resilience and pride. Aberfan will always carry its history, and we must remember those who were lost, honour their memory and cherish all that Aberfan is today.\n\nBut would the First Minister and all Members in this Chamber today, whatever party you're in, agree with me in saying that Aberfan should never be defined by tragedy alone, and that its greatest strength lies in its people, their determination and tenacity, and the wonderful community that they continue to build for future generations?",
+          "text_original": "I am a Merthyr girl, and I just want to say before I read this that I am shocked, surprised and upset by any reference to any party political stuff when we talk about Aberfan, because it just isn't relevant. But I want to say this: having lived all my life in Merthyr Tydfil, I have often been asked about Aberfan. Wherever I go, whenever people hear where I am from, they immediately think of the terrible tragedy. For many years, that was the only story that people knew about Aberfan and the outside world. \n\nMy own memories are of my parents' sadness and of my father being called to send every man and machine that he could to Pantglas school. It was only many years later that he actually said that that was the worst day of his life. Sixty years on, we will never forget the 116 children and 28 adults who lost their lives, nor the families who have struggled.\n\nBut Aberfan is so much more than its tragedy. My daughter and grandchildren—Joseff and Nansi, as it happens—call Aberfan their home. I see a warm, welcoming community, full of kindness, talent, resilience and pride. Aberfan will always carry its history, and we must remember those who were lost, honour their memory and cherish all that Aberfan is today.\n\nBut would the First Minister and all Members in this Chamber today, whatever party you're in, agree with me in saying that Aberfan should never be defined by tragedy alone, and that its greatest strength lies in its people, their determination and tenacity, and the wonderful community that they continue to build for future generations?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=9351"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
+    },
     {
       "contributions": [
         {

@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "abstain"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,7 +774,7 @@
   "canonical_name": "Carmelo Colasanto",
   "constituency_name_cy": "Sir Gaerfyrddin",
   "constituency_name_en": "Sir Gaerfyrddin",
-  "contribution_count": 21,
+  "contribution_count": 23,
   "contributions_by_date": [
     {
       "contributions": [
@@ -750,10 +783,30 @@
           "item_id": "item-16318-261021-2",
           "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
           "lang": "en",
-          "t_start": 310,
-          "text_english": "Cabinet Minister, I welcome your commitment to extend Jobs Growth Wales+ to consider the incentives for employers, because young people leaving the programme need apprenticeships and jobs to move into.\n\nI recently met with Williams Electrical (Cymru) Ltd, a Carmarthenshire firm that wants to take on more apprentices, but says it can no longer afford to. Under the reformed qualifications, a first-year electrical apprentice without the relevant foundation qualification must undertake broader construction training and skills. The concern for the firm is that the additional college stay in the first year leaves just three weeks on site whilst they're having to pay a full week's wages for that apprentice.\n\nNow, Carmarthenshire's over-65 population has grown by almost a fifth, while apprenticeship starts across Wales are at their lowest since records began. Yet electrical contractors are generally excluded from the construction industry training board apprenticeship grants available to other construction employers. So, will you discuss with the Deputy Minister for Skills and Tertiary Education how those incentives could include targeted support for smaller electrical firms to cover that additional college stay so that businesses like Williams can train the electricians that Wales desperately needs? Diolch.",
-          "text_original": "Cabinet Minister, I welcome your commitment to extend Jobs Growth Wales+ to consider the incentives for employers, because young people leaving the programme need apprenticeships and jobs to move into.\n\nI recently met with Williams Electrical (Cymru) Ltd, a Carmarthenshire firm that wants to take on more apprentices, but says it can no longer afford to. Under the reformed qualifications, a first-year electrical apprentice without the relevant foundation qualification must undertake broader construction training and skills. The concern for the firm is that the additional college stay in the first year leaves just three weeks on site whilst they're having to pay a full week's wages for that apprentice.\n\nNow, Carmarthenshire's over-65 population has grown by almost a fifth, while apprenticeship starts across Wales are at their lowest since records began. Yet electrical contractors are generally excluded from the construction industry training board apprenticeship grants available to other construction employers. So, will you discuss with the Deputy Minister for Skills and Tertiary Education how those incentives could include targeted support for smaller electrical firms to cover that additional college stay so that businesses like Williams can train the electricians that Wales desperately needs? Diolch.",
-          "tv_url": "http://www.senedd.tv/en/16318?startPos=310"
+          "t_start": 312,
+          "text_english": "Cabinet Minister, I welcome your commitment to extend Jobs Growth Wales+ to consider the incentives for employers, because young people leaving the programme need apprenticeships and jobs to move into. I recently met with Williams Electrical (Cymru) Ltd, a Carmarthenshire firm that wants to take on more apprentices but says it can no longer afford to. Under the reformed qualifications, a first-year electrical apprentice without the relevant foundation qualification must undertake broader construction training and skills. The concern for the firm is that the additional college day in the first year leaves just three weeks on site whilst they're having to pay a full week's wages for that apprentice. Carmarthenshire's over-65 population has grown by almost a fifth, while apprenticeship starts across Wales are at their lowest since records began. Yet electrical contractors are generally excluded from the Construction Industry Training Board apprenticeship grants available to other construction employers. So, will you discuss with the Deputy Minister for Skills and Tertiary Education how those incentives could include targeted support for smaller electrical firms to cover that additional college day so that businesses like Williams can train the electricians that Wales desperately needs? Diolch.",
+          "text_original": "Cabinet Minister, I welcome your commitment to extend Jobs Growth Wales+ to consider the incentives for employers, because young people leaving the programme need apprenticeships and jobs to move into. I recently met with Williams Electrical (Cymru) Ltd, a Carmarthenshire firm that wants to take on more apprentices but says it can no longer afford to. Under the reformed qualifications, a first-year electrical apprentice without the relevant foundation qualification must undertake broader construction training and skills. The concern for the firm is that the additional college day in the first year leaves just three weeks on site whilst they're having to pay a full week's wages for that apprentice. Carmarthenshire's over-65 population has grown by almost a fifth, while apprenticeship starts across Wales are at their lowest since records began. Yet electrical contractors are generally excluded from the Construction Industry Training Board apprenticeship grants available to other construction employers. So, will you discuss with the Deputy Minister for Skills and Tertiary Education how those incentives could include targeted support for smaller electrical firms to cover that additional college day so that businesses like Williams can train the electricians that Wales desperately needs? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=312"
+        },
+        {
+          "id": "contribution-780604",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "1. How does the Commission's procurement support businesses in Wales? OQ64772",
+          "text_original": "1. Sut mae caffael y Comisiwn yn cefnogi busnesau yng Nghymru? OQ64772",
+          "tv_url": "http://www.senedd.tv/en/16318"
+        },
+        {
+          "id": "contribution-780602",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 5893,
+          "text_english": "Diolch, Lywydd. The Senedd should lead by example in how public money is spent. In 2018-19, the Commission introduced a performance indicator tracking procurement spending with Welsh suppliers. Following scrutiny of its 2020-21 accounts, the Public Accounts and Public Administration Committee recommended splitting the contracts into smaller lots so that the smaller Welsh firms could compete. The Commission accepted that recommendation. The Welsh Government has now pledged to increase public procurement spending with Wales-based suppliers towards 70 per cent. Small and medium-sized businesses account for over 99 per cent of enterprises in Wales. Businesses across Carmarthenshire, from Llanelli to Ammanford and Carmarthen should have a fair opportunity to compete for those contracts funded by Welsh taxpayers, but knowing how much the Commission spends with Welsh suppliers tells us little about whether that money is reaching businesses across the whole of Wales. So, will the Commission publish a regional breakdown of its procurement model spending, including how much goes to small and medium-sized businesses? And what practical steps is it taking to ensure that the smallest firms in areas such as Carmarthenshire can compete for contracts, including splitting larger contracts into smaller lots where appropriate?",
+          "text_original": "Diolch, Lywydd. The Senedd should lead by example in how public money is spent. In 2018-19, the Commission introduced a performance indicator tracking procurement spending with Welsh suppliers. Following scrutiny of its 2020-21 accounts, the Public Accounts and Public Administration Committee recommended splitting the contracts into smaller lots so that the smaller Welsh firms could compete. The Commission accepted that recommendation. The Welsh Government has now pledged to increase public procurement spending with Wales-based suppliers towards 70 per cent. Small and medium-sized businesses account for over 99 per cent of enterprises in Wales. Businesses across Carmarthenshire, from Llanelli to Ammanford and Carmarthen should have a fair opportunity to compete for those contracts funded by Welsh taxpayers, but knowing how much the Commission spends with Welsh suppliers tells us little about whether that money is reaching businesses across the whole of Wales. So, will the Commission publish a regional breakdown of its procurement model spending, including how much goes to small and medium-sized businesses? And what practical steps is it taking to ensure that the smallest firms in areas such as Carmarthenshire can compete for contracts, including splitting larger contracts into smaller lots where appropriate?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=5893"
         }
       ],
       "date": "2026-10-21",

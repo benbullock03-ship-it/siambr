@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "abstain"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,34 @@
   "canonical_name": "Andrew Griffin",
   "constituency_name_cy": "Gwynedd Maldwyn",
   "constituency_name_en": "Gwynedd Maldwyn",
-  "contribution_count": 18,
+  "contribution_count": 20,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780569",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "5. What assessment has the Cabinet Minister made of the financial pressures facing rural schools in Gwynedd Maldwyn? OQ64722",
+          "text_original": "5. Pa asesiad y mae’r Gweinidog Cabinet wedi’i wneud o’r pwysau ariannol sy’n wynebu ysgolion gwledig yng Ngwynedd Maldwyn? OQ64722",
+          "tv_url": "http://www.senedd.tv/en/16318"
+        },
+        {
+          "id": "contribution-780576",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "en",
+          "t_start": 4952,
+          "text_english": "Thank you, Cabinet Minister. In Gwynedd Maldwyn, we're already seeing the consequences of the financial pressures on these rural schools. Both Gwynedd and Powys have closed rural primary schools and further closures are being considered or progressed. I understand smaller schools can cost more per pupil to run, but these schools are often at the heart of their communities. When one closes, it's not just the school building that is lost; children may have to travel much further, parents have to reorganise their lives, and villages lose something that is very difficult to replace. And, of course, transporting those children elsewhere comes at a cost as well. So, can I ask the Cabinet Secretary whether the Welsh Government is properly accounting for those wider costs and the impact on rural communities when assessing the funding pressures facing our rural schools? Thank you.",
+          "text_original": "Thank you, Cabinet Minister. In Gwynedd Maldwyn, we're already seeing the consequences of the financial pressures on these rural schools. Both Gwynedd and Powys have closed rural primary schools and further closures are being considered or progressed. I understand smaller schools can cost more per pupil to run, but these schools are often at the heart of their communities. When one closes, it's not just the school building that is lost; children may have to travel much further, parents have to reorganise their lives, and villages lose something that is very difficult to replace. And, of course, transporting those children elsewhere comes at a cost as well. So, can I ask the Cabinet Secretary whether the Welsh Government is properly accounting for those wider costs and the impact on rural communities when assessing the funding pressures facing our rural schools? Thank you.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=4952"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
     {
       "contributions": [
         {

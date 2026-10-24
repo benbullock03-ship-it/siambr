@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,7 +774,7 @@
   "canonical_name": "Lindsay Whittle",
   "constituency_name_cy": "Blaenau Gwent Caerffili Rhymni",
   "constituency_name_en": "Blaenau Gwent Caerffili Rhymni",
-  "contribution_count": 21,
+  "contribution_count": 24,
   "contributions_by_date": [
     {
       "contributions": [
@@ -754,6 +787,36 @@
           "text_english": "4. What measures will the Welsh Government take to support employment opportunities in Blaenau Gwent Caerffili Rhymni? OQ64731",
           "text_original": "4. Pa fesurau y bydd Llywodraeth Cymru yn eu cymryd i gefnogi cyfleoedd cyflogaeth ym Mlaenau Gwent Caerffili Rhymni? OQ64731",
           "tv_url": "http://www.senedd.tv/en/16318"
+        },
+        {
+          "id": "contribution-780478",
+          "item_id": "item-16318-261021-2",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "cy",
+          "t_start": 2123,
+          "text_english": "Thank you very much for your response, Minister. My concern is that too many of our talented young people in Blaenau Gwent Caerffili Rhymni feel that they have to move away to find careers that are sustainable and long term. Beyond the general funding streams, what targeted assurances can the Welsh Government provide to create skilled, futureproofed jobs in their local area so that we can stop exporting our next generation?",
+          "text_original": "Diolch am eich ateb, Weinidog. Fy mhryder yw bod gormod o'n pobl ifanc talentog ym Mlaenau Gwent Caerffili Rhymni yn teimlo bod yn rhaid iddynt symud i ffwrdd i ddod o hyd i yrfaoedd cynaliadwy hirdymor. Tu hwnt i ffrydiau cyllido cyffredinol, pa warantau targedig all Llywodraeth Cymru eu cynnig i greu swyddi medrus sy'n ddiogel ar gyfer y dyfodol yn eu milltir sgwâr fel y gallwn stopio allforio ein cenhedlaeth nesaf?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=2123"
+        },
+        {
+          "id": "contribution-780671",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "8. How is the Commission engaging with members of the public in Blaenau Gwent Caerffili Rhymni to improve outreach work and help people understand what the Senedd does and how it affects their lives? OQ64776",
+          "text_original": "8. Sut mae'r Comisiwn yn ymgysylltu ag aelodau o'r cyhoedd yn Blaenau Gwent Caerffili Rhymni i wella gwaith allgymorth a helpu pobl i ddeall beth mae'r Senedd yn ei wneud a sut mae'n effeithio ar eu bywydau? OQ64776",
+          "tv_url": "http://www.senedd.tv/en/16318"
+        },
+        {
+          "id": "contribution-780679",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "cy",
+          "t_start": 7654,
+          "text_english": "Thank you for the answer, but I know that there is a strong feeling amongst many people in our communities, from Brynmawr and Tredegar, through to Caerphilly and Rhymney, and Torfaen as well, that the Senedd feels like something that is 'over there in Cardiff' and is far removed from their everyday lives. Will the Commission commit to trying to increase the number of face-to-face visits—because they're so important, I believe—and also try to increase the direct outreach projects in these local areas, rather than relying solely on digital material, to ensure that local people do not feel that they've been forgotten?",
+          "text_original": "Diolch am yr ateb, Gomisiynydd, ond rydw i’n gwybod bod teimlad cryf ymysg llawer o bobl yn ein cymunedau ni, o Fryn-mawr a Thredegar, hyd at Gaerffili a Rhymni, a Thorfaen hefyd, bod y Senedd yn teimlo fel rhywbeth sydd 'draw yno yng Nghaerdydd' ac yn bell oddi wrth eu bywydau bob dydd. A fydd y Comisiwn yn ymrwymo i drio cynyddu’r nifer o ymweliadau wyneb yn wyneb—achos mae hynny’n bwysig, dwi’n credu—a phrosiectau allgymorth uniongyrchol yn y meysydd lleol hyn, yn lle dibynnu ar ddeunyddiau digidol yn unig, i sicrhau nad yw pobl leol yn teimlo eu bod wedi eu hanghofio?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=7654"
         }
       ],
       "date": "2026-10-21",

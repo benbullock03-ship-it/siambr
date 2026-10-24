@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,74 @@
   "canonical_name": "Mark Hooper",
   "constituency_name_cy": "Pen-y-bont Bro Morgannwg",
   "constituency_name_en": "Pen-y-bont Bro Morgannwg",
-  "contribution_count": 101,
+  "contribution_count": 107,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780793",
+          "item_id": "item-16318-261021-9",
+          "item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+          "lang": "en",
+          "t_start": 15431,
+          "text_english": "Formally.",
+          "text_original": "Formally.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=15431"
+        },
+        {
+          "id": "contribution-780884",
+          "item_id": "item-16318-261021-9",
+          "item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+          "lang": "cy",
+          "t_start": 17902,
+          "text_english": "Llywydd, I'd like to begin with a point on which we are all agreed: congestion on the M4 around Newport is a major problem for people, businesses and communities.",
+          "text_original": "Lywydd, hoffwn ddechrau gyda rhywbeth rydyn ni i gyd yn cytuno arno: mae tagfeydd ar y M4 o amgylch Casnewydd yn broblem fawr i bobl, busnesau a chymunedau.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=17902"
+        },
+        {
+          "id": "contribution-780885",
+          "item_id": "item-16318-261021-9",
+          "item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+          "lang": "en",
+          "t_start": 17921,
+          "text_english": "I welcome the opportunity to respond to this debate. And in the first instance, I want to directly reference a point that Jayne made, that the people of Newport aren't just data points in this, and they're really important to the work I'll be doing. You need to know that from the very start, as the first point that you made.\n\nEveryone in this Siambr recognises that congestion on the M4 around Newport affects people's daily lives, businesses and the wider economy of the south-east of Wales. The question is how we solve it. This is a question that Labour proved itself completely incapable of answering in over a quarter of a century. We have done what the last Labour Government didn't: we have set out a clear route towards a real, deliverable solution.\n\nWe are being honest about both the scale of the challenge and the work needed to address it. That is why I am proud to move the Government amendment. Let us be clear about where we are today. There was previously a relief-road proposal for the M4 around Newport—one that had cost tens of millions to develop. Labour Ministers decided not to proceed with it. Labour Ministers subsequently removed protection for this route. What was called the black route is no longer a live proposition because of these decisions. Art, in your question, then, you talked about the black route and you were in the meeting when we talked about why this is no longer a viable solution. If the Reform spokesperson had bothered to turn up to the technical briefing I made available, he would be in no doubt about this either.",
+          "text_original": "I welcome the opportunity to respond to this debate. And in the first instance, I want to directly reference a point that Jayne made, that the people of Newport aren't just data points in this, and they're really important to the work I'll be doing. You need to know that from the very start, as the first point that you made.\n\nEveryone in this Siambr recognises that congestion on the M4 around Newport affects people's daily lives, businesses and the wider economy of the south-east of Wales. The question is how we solve it. This is a question that Labour proved itself completely incapable of answering in over a quarter of a century. We have done what the last Labour Government didn't: we have set out a clear route towards a real, deliverable solution.\n\nWe are being honest about both the scale of the challenge and the work needed to address it. That is why I am proud to move the Government amendment. Let us be clear about where we are today. There was previously a relief-road proposal for the M4 around Newport—one that had cost tens of millions to develop. Labour Ministers decided not to proceed with it. Labour Ministers subsequently removed protection for this route. What was called the black route is no longer a live proposition because of these decisions. Art, in your question, then, you talked about the black route and you were in the meeting when we talked about why this is no longer a viable solution. If the Reform spokesperson had bothered to turn up to the technical briefing I made available, he would be in no doubt about this either.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=17921"
+        },
+        {
+          "id": "contribution-780940",
+          "item_id": "item-16318-261021-9",
+          "item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+          "lang": "en",
+          "t_start": 18034,
+          "text_english": "The motion calls for a relief road. If opposition Members are serious about solving this issue, they need to answer some basic questions. What road? On what routes? Through what planning and consenting process? And how quickly could it be realistically delivered? No opposition—[Interruption.] I'm not taking—. You've tried a lot, Ken. No opposition Member has brought forward workable answers to these questions today, but they are exactly the questions a responsible Government must answer before committing to major infrastructure. That is why the announcement I made on 6 October was important. We took a clear strategic decision that road-based and engineering solutions must form part of the long-term answer to congestion on the M4 around Newport.\n\nThere is no debate about whether roads should form part of the solution. We have accepted that they should. The task now is to identify the right solution and establish a credible route to delivery. That is why the centrepiece of our approach is an 18-month study of engineering, technical and appraisal work. This is not—[Interruption.] No, Mike. This is not another exercise in deciding whether there is a problem or whether action is needed. Those questions have already been answered. The purpose of this work is to identify the preferred road and engineering solution, assess its deliverability, understand its impacts and establish a realistic pathway to implementation. In short, it is about moving from recognising the problem to delivering the solution. The motion claims that our response is inadequate. What is inadequate is calling for a relief road without identifying which road is being proposed, whether it remains deliverable and how it would actually be taken forward.\n\nThe motion also calls on the Government to rule out junction closures. I understand why this issue has generated debate, but I'd like to correct some of the commentary surrounding it, much of it coming from the opposition benches, including from Natasha's contribution earlier. The report published alongside my statement does not recommend the closure of the three junctions. It identifies options for further investigation, including the closure of junction 27 at High Cross and restrictions to east-facing slips at junctions 25 and 26. Those are not Government decisions, they are options for investigation. The purpose of the work now under way is to determine whether any form of junction restriction could contribute to a wider solution and, if so, under what circumstances. That means understanding the impacts on communities, businesses, local roads and road users, alongside any potential benefits for motorway performance and resilience.\n\nThis is a question we've been asked a lot in this, about the evidence. One of the things that the report has done—. We've shared that report in full sight of everyone, including the public. We will maintain that level of transparency throughout this process and share it as we go. It means engagement with local authorities, businesses, communities and other stakeholders. And it means following the evidence. If the evidence shows an option will not deliver the outcomes required, it will not be taken forward. In short, we have not announced a programme of junction closures. What we have announced is further technical work to assess whether junction restrictions should form part of a wider solution to improve the operation and resilience of the M4 around Newport.\n\nLlywydd, the most important decision that I announced on 6 October was that a significant road and engineering intervention is required, and that we should begin the detailed work necessary to identify it. This is the fundamental shift this Government has made, but critically, while that long-term solution is developed, we are also acting now. Where previous Labour transport Ministers neglected it, we are investing in the resilience and reliability as a critical national asset. We are progressing maintenance and renewal work on key infrastructure that, to be frank, the previous Government could and should have undertaken, and it didn't.\n\nWe are improving freight movement across the region, and we are supporting improvements to rail and bus connectivity—improvements that the previous Government championed, but which Labour has dropped completely from this motion. Including in our conversations with the UK Government, I am proud that Plaid Cymru is taking delivering the Burns stations seriously. And here too I'd argue that we've made more progress on this in five months than Labour managed in five years. These are practical actions that can deliver benefits now while the longer term engineering solution is developed. Success will not come—",
+          "text_original": "The motion calls for a relief road. If opposition Members are serious about solving this issue, they need to answer some basic questions. What road? On what routes? Through what planning and consenting process? And how quickly could it be realistically delivered? No opposition—[Interruption.] I'm not taking—. You've tried a lot, Ken. No opposition Member has brought forward workable answers to these questions today, but they are exactly the questions a responsible Government must answer before committing to major infrastructure. That is why the announcement I made on 6 October was important. We took a clear strategic decision that road-based and engineering solutions must form part of the long-term answer to congestion on the M4 around Newport.\n\nThere is no debate about whether roads should form part of the solution. We have accepted that they should. The task now is to identify the right solution and establish a credible route to delivery. That is why the centrepiece of our approach is an 18-month study of engineering, technical and appraisal work. This is not—[Interruption.] No, Mike. This is not another exercise in deciding whether there is a problem or whether action is needed. Those questions have already been answered. The purpose of this work is to identify the preferred road and engineering solution, assess its deliverability, understand its impacts and establish a realistic pathway to implementation. In short, it is about moving from recognising the problem to delivering the solution. The motion claims that our response is inadequate. What is inadequate is calling for a relief road without identifying which road is being proposed, whether it remains deliverable and how it would actually be taken forward.\n\nThe motion also calls on the Government to rule out junction closures. I understand why this issue has generated debate, but I'd like to correct some of the commentary surrounding it, much of it coming from the opposition benches, including from Natasha's contribution earlier. The report published alongside my statement does not recommend the closure of the three junctions. It identifies options for further investigation, including the closure of junction 27 at High Cross and restrictions to east-facing slips at junctions 25 and 26. Those are not Government decisions, they are options for investigation. The purpose of the work now under way is to determine whether any form of junction restriction could contribute to a wider solution and, if so, under what circumstances. That means understanding the impacts on communities, businesses, local roads and road users, alongside any potential benefits for motorway performance and resilience.\n\nThis is a question we've been asked a lot in this, about the evidence. One of the things that the report has done—. We've shared that report in full sight of everyone, including the public. We will maintain that level of transparency throughout this process and share it as we go. It means engagement with local authorities, businesses, communities and other stakeholders. And it means following the evidence. If the evidence shows an option will not deliver the outcomes required, it will not be taken forward. In short, we have not announced a programme of junction closures. What we have announced is further technical work to assess whether junction restrictions should form part of a wider solution to improve the operation and resilience of the M4 around Newport.\n\nLlywydd, the most important decision that I announced on 6 October was that a significant road and engineering intervention is required, and that we should begin the detailed work necessary to identify it. This is the fundamental shift this Government has made, but critically, while that long-term solution is developed, we are also acting now. Where previous Labour transport Ministers neglected it, we are investing in the resilience and reliability as a critical national asset. We are progressing maintenance and renewal work on key infrastructure that, to be frank, the previous Government could and should have undertaken, and it didn't.\n\nWe are improving freight movement across the region, and we are supporting improvements to rail and bus connectivity—improvements that the previous Government championed, but which Labour has dropped completely from this motion. Including in our conversations with the UK Government, I am proud that Plaid Cymru is taking delivering the Burns stations seriously. And here too I'd argue that we've made more progress on this in five months than Labour managed in five years. These are practical actions that can deliver benefits now while the longer term engineering solution is developed. Success will not come—",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=18034"
+        },
+        {
+          "id": "contribution-780896",
+          "item_id": "item-16318-261021-9",
+          "item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+          "lang": "en",
+          "t_start": 18363,
+          "text_english": "I'm not taking interventions, sorry, Stephen. \n\nSuccess will not come from a single measure in isolation. It will come from combining a major road and engineering intervention with improvements to the existing motorway and wider transport measures that support economic growth and improve connectivity. That is the balanced approach we have set out.\n\nWe are looking to reduce peak traffic on the M4 around Newport by around 10 per cent. That would be an order of magnitude greater than anything Labour ever attempted in 27 years. That represents a clear ambition to make measurable progress whilst longer term solutions are developed. \n\nAs the work progresses, people and businesses must have a genuine opportunity to contribute. The decisions we will take will affect communities across the region. People rightly expect to be informed, consulted and listened to, and I have made a commitment to do it. [Interruption.] I'm coming towards the end. \n\nLlywydd, the people and businesses who rely on the M4 have waited long enough for progress. We have made a clear decision that road and engineering interventions must form part of the long-term solution. This is a serious and credible approach, focused on delivery, rather than opportunism and slogans. Others may want to play politics here—[Laughter.]",
+          "text_original": "I'm not taking interventions, sorry, Stephen. \n\nSuccess will not come from a single measure in isolation. It will come from combining a major road and engineering intervention with improvements to the existing motorway and wider transport measures that support economic growth and improve connectivity. That is the balanced approach we have set out.\n\nWe are looking to reduce peak traffic on the M4 around Newport by around 10 per cent. That would be an order of magnitude greater than anything Labour ever attempted in 27 years. That represents a clear ambition to make measurable progress whilst longer term solutions are developed. \n\nAs the work progresses, people and businesses must have a genuine opportunity to contribute. The decisions we will take will affect communities across the region. People rightly expect to be informed, consulted and listened to, and I have made a commitment to do it. [Interruption.] I'm coming towards the end. \n\nLlywydd, the people and businesses who rely on the M4 have waited long enough for progress. We have made a clear decision that road and engineering interventions must form part of the long-term solution. This is a serious and credible approach, focused on delivery, rather than opportunism and slogans. Others may want to play politics here—[Laughter.]",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=18363"
+        },
+        {
+          "id": "contribution-780903",
+          "item_id": "item-16318-261021-9",
+          "item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+          "lang": "en",
+          "t_start": 18456,
+          "text_english": "—I don't. Diolch yn fawr iawn.",
+          "text_original": "—I don't. Diolch yn fawr iawn.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=18456"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
     {
       "contributions": [
         {

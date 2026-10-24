@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,44 @@
   "canonical_name": "Zaynub Akbar",
   "constituency_name_cy": "Caerdydd Ffynnon Taf",
   "constituency_name_en": "Caerdydd Ffynnon Taf",
-  "contribution_count": 32,
+  "contribution_count": 35,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780579",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "6. What is the Welsh Government doing to support adult learners who are retraining for new careers? OQ64766",
+          "text_original": "6. Beth mae Llywodraeth Cymru yn ei wneud i gefnogi dysgwyr sy'n oedolion sy'n ailhyfforddi ar gyfer gyrfaoedd newydd? OQ64766",
+          "tv_url": "http://www.senedd.tv/en/16318"
+        },
+        {
+          "id": "contribution-780584",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "en",
+          "t_start": 5243,
+          "text_english": "Diolch, Weinidog. People retrain for many reasons: after losing a job, returning to work after raising a family, or starting a new chapter following a career break. Others come to Wales with valuable qualifications and skills that go unrecognised, despite the contribution they could make to our Welsh economy. At the Inspire! adult learning awards, I met learners determined to gain new skills and contribute to their communities. For many, adult learning is more than education; it is a vital opportunity to rebuild their careers and their lives here in Wales. One of my constituents, Yassmein Hussein, completed 13 adult learning courses through Cardiff and Vale College and Cardiff Council, leading her to win the shared futures award at the awards. Yassmein's story shows what people can achieve when they have access to the right learning opportunities. But not everyone gets that chance, and many adults still face barriers to retraining. So, I want to know how the Welsh Government is ensuring that adults who want to retrain for a new career can access the learning opportunities and support they need to make that transition.",
+          "text_original": "Diolch, Weinidog. People retrain for many reasons: after losing a job, returning to work after raising a family, or starting a new chapter following a career break. Others come to Wales with valuable qualifications and skills that go unrecognised, despite the contribution they could make to our Welsh economy. At the Inspire! adult learning awards, I met learners determined to gain new skills and contribute to their communities. For many, adult learning is more than education; it is a vital opportunity to rebuild their careers and their lives here in Wales. One of my constituents, Yassmein Hussein, completed 13 adult learning courses through Cardiff and Vale College and Cardiff Council, leading her to win the shared futures award at the awards. Yassmein's story shows what people can achieve when they have access to the right learning opportunities. But not everyone gets that chance, and many adults still face barriers to retraining. So, I want to know how the Welsh Government is ensuring that adults who want to retrain for a new career can access the learning opportunities and support they need to make that transition.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=5243"
+        },
+        {
+          "id": "contribution-780730",
+          "item_id": "item-16318-261021-7",
+          "item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+          "lang": "en",
+          "t_start": 10451,
+          "text_english": "Thank you to Gwyn for bringing this debate to the Chamber. I'm pleased to contribute to this debate, which shines a light on the importance of keeping our NHS in public ownership, and not fall victim to creeping privatisation. At some point, every one of us will rely on the NHS. It has cared for our loved ones and communities in their times of need. And we must protect a service that provides care free at the point of need.\n\nCardiff is often a hub for specialist NHS services, serving people from all across Wales. My constituency of Caerdydd Ffynnon Taf is home to the University Hospital of Wales, Cardiff Royal Infirmary, Noah's Ark Children's Hospital for Wales and Velindre University NHS Trust. These hospitals have been caring for people from all across Wales for decades, and with roughly 700,000 people on NHS waiting lists in Wales, the answer must be to invest in our public health service.\n\nThis is particularly important when it comes to women's health. Despite making up more than half of the population, women-specific healthcare needs have historically been overlooked and underfunded. Endometriosis is just one example. Roughly one in 10 women are affected by this debilitating condition, and given concerns about the future of Wales's only NHS British Society for Gynaecological Endoscopy-accredited endometriosis centre in Cardiff, protecting these specialist services must remain our priority.\n\nGreater reliance on private healthcare risks creating a two-tier system, where those who can afford treatment get help sooner, while others who can't are left waiting for years. So, Deputy Llywydd, ultimately, we must invest in our NHS and protect its public provision at the point of need. An NHS Bill that strengthens these principles would only be a positive step forward for the people of Wales. Diolch.",
+          "text_original": "Thank you to Gwyn for bringing this debate to the Chamber. I'm pleased to contribute to this debate, which shines a light on the importance of keeping our NHS in public ownership, and not fall victim to creeping privatisation. At some point, every one of us will rely on the NHS. It has cared for our loved ones and communities in their times of need. And we must protect a service that provides care free at the point of need.\n\nCardiff is often a hub for specialist NHS services, serving people from all across Wales. My constituency of Caerdydd Ffynnon Taf is home to the University Hospital of Wales, Cardiff Royal Infirmary, Noah's Ark Children's Hospital for Wales and Velindre University NHS Trust. These hospitals have been caring for people from all across Wales for decades, and with roughly 700,000 people on NHS waiting lists in Wales, the answer must be to invest in our public health service.\n\nThis is particularly important when it comes to women's health. Despite making up more than half of the population, women-specific healthcare needs have historically been overlooked and underfunded. Endometriosis is just one example. Roughly one in 10 women are affected by this debilitating condition, and given concerns about the future of Wales's only NHS British Society for Gynaecological Endoscopy-accredited endometriosis centre in Cardiff, protecting these specialist services must remain our priority.\n\nGreater reliance on private healthcare risks creating a two-tier system, where those who can afford treatment get help sooner, while others who can't are left waiting for years. So, Deputy Llywydd, ultimately, we must invest in our NHS and protect its public provision at the point of need. An NHS Bill that strengthens these principles would only be a positive step forward for the people of Wales. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=10451"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
     {
       "contributions": [
         {

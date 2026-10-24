@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,140 @@
   "canonical_name": "Jane Dodds",
   "constituency_name_cy": "Brycheiniog Tawe Nedd",
   "constituency_name_en": "Brycheiniog Tawe Nedd",
-  "contribution_count": 121,
+  "contribution_count": 133,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780638",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 6506,
+          "text_english": "And I rise again, with the greatest of respect to the Member, who is persistent and consistent at the very least. But I am perplexed, and I wonder if the Member is listening. No. I am perplexed why the Member keeps raising this issue. So, let's just be clear: GB News is repeatedly embroiled in serious controversies. Last June—[Interruption.] Dirprwy Lywydd, may I carry on in some silence, please? Diolch. Just last week, a GB News presenter apologised in court and agreed to pay substantial damages to a UK politician. Meanwhile, Ofcom is investigating the channel. Ofcom is investigating the channel following more than 12,000 complaints about a guest—",
+          "text_original": "And I rise again, with the greatest of respect to the Member, who is persistent and consistent at the very least. But I am perplexed, and I wonder if the Member is listening. No. I am perplexed why the Member keeps raising this issue. So, let's just be clear: GB News is repeatedly embroiled in serious controversies. Last June—[Interruption.] Dirprwy Lywydd, may I carry on in some silence, please? Diolch. Just last week, a GB News presenter apologised in court and agreed to pay substantial damages to a UK politician. Meanwhile, Ofcom is investigating the channel. Ofcom is investigating the channel following more than 12,000 complaints about a guest—",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=6506"
+        },
+        {
+          "id": "contribution-780655",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 6569,
+          "text_english": "I have, I have. But, Dirprwy Lywydd, I've been interrupted, so I'm coming to that, thank you. Twelve thousand complaints about a guest appearing to associate Pride, the organisation, with child sexual exploitation and bestiality. And once again, we are here about GB News.",
+          "text_original": "I have, I have. But, Dirprwy Lywydd, I've been interrupted, so I'm coming to that, thank you. Twelve thousand complaints about a guest appearing to associate Pride, the organisation, with child sexual exploitation and bestiality. And once again, we are here about GB News.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=6569"
+        },
+        {
+          "id": "contribution-780662",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 6590,
+          "text_english": "My question to the Llywydd is: will the Llywydd agree that broadcasting GB News would be at odds with the principles of respect, dignity and integrity that should underpin the Senedd? Diolch yn fawr iawn.",
+          "text_original": "My question to the Llywydd is: will the Llywydd agree that broadcasting GB News would be at odds with the principles of respect, dignity and integrity that should underpin the Senedd? Diolch yn fawr iawn.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=6590"
+        },
+        {
+          "id": "contribution-780900",
+          "item_id": "item-16318-261021-11",
+          "item_title_en": "10. Short Debate: Full-face coverings are against British values",
+          "lang": "en",
+          "t_start": 20768,
+          "text_english": "Diolch yn fawr. I'll be very brief. Would you not agree with this: that actually Reform UK's recent debates, including this one, are designed to divide and are designed to bring fear—[Interruption.]—to bring fear to our communities? And on this day, where you started, we should be in unity together. Would you not agree that this is shameful by Reform UK?",
+          "text_original": "Diolch yn fawr. I'll be very brief. Would you not agree with this: that actually Reform UK's recent debates, including this one, are designed to divide and are designed to bring fear—[Interruption.]—to bring fear to our communities? And on this day, where you started, we should be in unity together. Would you not agree that this is shameful by Reform UK?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=20768"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-779802",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "9. What consideration has the Welsh Government given to reforming the structure of health boards? OQ64795",
+          "text_original": "9. Pa ystyriaeth y mae Llywodraeth Cymru wedi'i rhoi i ddiwygio strwythur byrddau iechyd? OQ64795",
+          "tv_url": "http://www.senedd.tv/en/16317"
+        },
+        {
+          "id": "contribution-779814",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 3179,
+          "text_english": "Thank you for that response, First Minister.",
+          "text_original": "Diolch yn fawr iawn am yr ymateb, Brif Weinidog.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=3179"
+        },
+        {
+          "id": "contribution-779838",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 3183,
+          "text_english": "We've found on at least five occasions that you've described Betsi Cadwaladr as too large, too unwieldy and too distant from the people it serves. That was when you were the spokesperson for health for Plaid Cymru in opposition. And on 2 October this year, as Prif Weinidog, you said you were essentially in the same place as when you were a health spokesperson. You said we were in the last chance saloon with Betsi Cadwaladr, and that Wales must be ready to break up Betsi, which can only mean that, in your view, it's too large. Yet in recent weeks, Plaid Cymru Members have suggested that the answer to bed closures in Powys is to merge Powys Teaching Health Board with Hywel Dda University Health Board or even with Betsi Cadwaladr. That idea was nowhere in your manifesto, so I'm seeking to put on record that this is not something that Plaid Cymru are intending to do. Diolch yn fawr iawn.",
+          "text_original": "We've found on at least five occasions that you've described Betsi Cadwaladr as too large, too unwieldy and too distant from the people it serves. That was when you were the spokesperson for health for Plaid Cymru in opposition. And on 2 October this year, as Prif Weinidog, you said you were essentially in the same place as when you were a health spokesperson. You said we were in the last chance saloon with Betsi Cadwaladr, and that Wales must be ready to break up Betsi, which can only mean that, in your view, it's too large. Yet in recent weeks, Plaid Cymru Members have suggested that the answer to bed closures in Powys is to merge Powys Teaching Health Board with Hywel Dda University Health Board or even with Betsi Cadwaladr. That idea was nowhere in your manifesto, so I'm seeking to put on record that this is not something that Plaid Cymru are intending to do. Diolch yn fawr iawn.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=3183"
+        },
+        {
+          "id": "contribution-779835",
+          "item_id": "item-16317-261020-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "3. What assessment has the Counsel General made of the adequacy of Welsh Ministers’ legal powers to intervene in devolved public services? OQ64735",
+          "text_original": "3. Pa asesiad y mae'r Cwnsler Cyffredinol wedi'i wneud o ddigonolrwydd pwerau cyfreithiol Gweinidogion Cymru i ymyrryd mewn gwasanaethau cyhoeddus datganoledig? OQ64735",
+          "tv_url": "http://www.senedd.tv/en/16317"
+        },
+        {
+          "id": "contribution-779848",
+          "item_id": "item-16317-261020-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "cy",
+          "t_start": 4012,
+          "text_english": "Thank you very much for that repsonse.",
+          "text_original": "Diolch yn fawr iawn am yr ymateb.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=4012"
+        },
+        {
+          "id": "contribution-779849",
+          "item_id": "item-16317-261020-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "en",
+          "t_start": 4014,
+          "text_english": "You very kindly responded to my questions on this issue before, but what I'm really specifically asking about is what powers the Welsh Government should have in order to intervene in health boards when there is a real challenge to the services that are being delivered. In England, the Secretary of State, since January 2024, has been able to call in NHS service changes and decide on them. In Scotland, major service changes require ministerial approval. Even in Wales, Ministers appointed commissioners to take over the South Wales Fire and Rescue Service, and can direct or challenge school closures. Yet, in Powys, families are simply being asked to accept community beds closing and care moving further from home, and the Government says it cannot weigh in and look at the merits of this decision. Cwnsler Cyffredinol, what advice would you give the Welsh Government on how Wales can gain those powers—the powers that England and Scotland have? Diolch yn fawr iawn.",
+          "text_original": "You very kindly responded to my questions on this issue before, but what I'm really specifically asking about is what powers the Welsh Government should have in order to intervene in health boards when there is a real challenge to the services that are being delivered. In England, the Secretary of State, since January 2024, has been able to call in NHS service changes and decide on them. In Scotland, major service changes require ministerial approval. Even in Wales, Ministers appointed commissioners to take over the South Wales Fire and Rescue Service, and can direct or challenge school closures. Yet, in Powys, families are simply being asked to accept community beds closing and care moving further from home, and the Government says it cannot weigh in and look at the merits of this decision. Cwnsler Cyffredinol, what advice would you give the Welsh Government on how Wales can gain those powers—the powers that England and Scotland have? Diolch yn fawr iawn.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=4014"
+        },
+        {
+          "id": "contribution-779938",
+          "item_id": "item-16317-261020-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 6796,
+          "text_english": "Prynhawn da, Drefnydd. I'd like two statements, please. Last week I met coracle fishermen from west Wales. They were promoting their very, very unique craft. I don't know if you know—they are very small boats, they carry them on their back, and they only fish at night between Monday and Friday. However, the period of them being able to fish has been massively reduced by Natural Resources Wales. So, could I just ask what the Government is going to be doing in order to protect this important Welsh tradition?\n\nThe other statement is with regard to job opportunities for physiotherapy graduates. We're in this terrible place where we've trained physiotherapists and we can't give them jobs, and yet we are crying out for people to have the service of a physiotherapist. So, please, could you tell us what the Government's intentions are to ensure that physiotherapists get the jobs that they need to be able to deliver the services to the people of Wales? Diolch yn fawr iawn, Lywydd.",
+          "text_original": "Prynhawn da, Drefnydd. I'd like two statements, please. Last week I met coracle fishermen from west Wales. They were promoting their very, very unique craft. I don't know if you know—they are very small boats, they carry them on their back, and they only fish at night between Monday and Friday. However, the period of them being able to fish has been massively reduced by Natural Resources Wales. So, could I just ask what the Government is going to be doing in order to protect this important Welsh tradition?\n\nThe other statement is with regard to job opportunities for physiotherapy graduates. We're in this terrible place where we've trained physiotherapists and we can't give them jobs, and yet we are crying out for people to have the service of a physiotherapist. So, please, could you tell us what the Government's intentions are to ensure that physiotherapists get the jobs that they need to be able to deliver the services to the people of Wales? Diolch yn fawr iawn, Lywydd.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=6796"
+        },
+        {
+          "id": "contribution-779988",
+          "item_id": "item-16317-261020-4",
+          "item_title_en": "4. Statement by the First Minister: 60th Anniversary of the Aberfan Disaster",
+          "lang": "en",
+          "t_start": 9709,
+          "text_english": "I associate myself with all of the remarks made, and on behalf of the Welsh Liberal Democrats, I pay honour to those who have died, those who have lost members of their family and have been affected and continue to be affected.\n\nI was honoured this morning to attend the performance of The Silent Volunteer. It was a very moving performance, and one thing that struck me was the replication of the sound of the thundering slurry rushing down the hillside towards the school. It brought home the terrifying reality of that day, after a week of rain, and the devastation suffered by the community. At the end of the performance, one word stood out for me, which was 'undod'—unity. That was on a banner that the performers held up. And as politicians, we have a responsibility to come together, as we have done this afternoon, to listen to communities and to learn from the past. We must honour those who died, not only through remembrance, but through our actions going forward. Diolch.",
+          "text_original": "I associate myself with all of the remarks made, and on behalf of the Welsh Liberal Democrats, I pay honour to those who have died, those who have lost members of their family and have been affected and continue to be affected.\n\nI was honoured this morning to attend the performance of The Silent Volunteer. It was a very moving performance, and one thing that struck me was the replication of the sound of the thundering slurry rushing down the hillside towards the school. It brought home the terrifying reality of that day, after a week of rain, and the devastation suffered by the community. At the end of the performance, one word stood out for me, which was 'undod'—unity. That was on a banner that the performers held up. And as politicians, we have a responsibility to come together, as we have done this afternoon, to listen to communities and to learn from the past. We must honour those who died, not only through remembrance, but through our actions going forward. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=9709"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
+    },
     {
       "contributions": [
         {

@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -750,10 +783,10 @@
           "item_id": "item-16318-261021-2",
           "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
           "lang": "en",
-          "t_start": 1921,
-          "text_english": "Gweinidog Cabinet, I visited National Grid at Margam substation over the summer to discuss the connection to the Port Talbot substation needed for Tata Steel's electric arc furnace. National Grid there explained that there were a number of unexpected barriers, as the Member has previously alluded to, for example poor ground conditions that increase the number of piles required in the ground from the initial 400 to 11,000, adding an estimated 34 weeks to complete construction. They also outlined plans to recover some of that lost time. Given the importance of the project to the future of steel making in Port Talbot, can the Gweinidog confirm whether any progress has been made in reducing that 34 week delay and whether there is scope to shorten the construction programme further?",
-          "text_original": "Gweinidog Cabinet, I visited National Grid at Margam substation over the summer to discuss the connection to the Port Talbot substation needed for Tata Steel's electric arc furnace. National Grid there explained that there were a number of unexpected barriers, as the Member has previously alluded to, for example poor ground conditions that increase the number of piles required in the ground from the initial 400 to 11,000, adding an estimated 34 weeks to complete construction. They also outlined plans to recover some of that lost time. Given the importance of the project to the future of steel making in Port Talbot, can the Gweinidog confirm whether any progress has been made in reducing that 34 week delay and whether there is scope to shorten the construction programme further?",
-          "tv_url": "http://www.senedd.tv/en/16318?startPos=1921"
+          "t_start": 1923,
+          "text_english": "Gweinidog Cabinet, I visited National Grid at Margam substation over the summer to discuss the connection to the Port Talbot substation needed for Tata Steel's electric arc furnace. National Grid explained that there were a number of unexpected barriers, as the Member has previously alluded to, for example, poor ground conditions that increase the number of piles required in the ground from the initial 400 to 11,000, adding an estimated 34 weeks to complete construction. They also outlined plans to recover some of that lost time. Given the importance of the project to the future of steel making in Port Talbot, can the Gweinidog confirm whether any progress has been made in reducing that 34-week delay and whether there is scope to shorten the construction programme further?",
+          "text_original": "Gweinidog Cabinet, I visited National Grid at Margam substation over the summer to discuss the connection to the Port Talbot substation needed for Tata Steel's electric arc furnace. National Grid explained that there were a number of unexpected barriers, as the Member has previously alluded to, for example, poor ground conditions that increase the number of piles required in the ground from the initial 400 to 11,000, adding an estimated 34 weeks to complete construction. They also outlined plans to recover some of that lost time. Given the importance of the project to the future of steel making in Port Talbot, can the Gweinidog confirm whether any progress has been made in reducing that 34-week delay and whether there is scope to shorten the construction programme further?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=1923"
         }
       ],
       "date": "2026-10-21",

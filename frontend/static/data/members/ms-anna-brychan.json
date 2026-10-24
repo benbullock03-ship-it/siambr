@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,234 @@
   "canonical_name": "Anna Brychan",
   "constituency_name_cy": "Caerdydd Penarth",
   "constituency_name_en": "Caerdydd Penarth",
-  "contribution_count": 91,
+  "contribution_count": 113,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780552",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "cy",
+          "t_start": 2891,
+          "text_english": "Thank you for the question.",
+          "text_original": "Diolch yn fawr am y cwestiwn.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=2891"
+        },
+        {
+          "id": "contribution-780525",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "en",
+          "t_start": 2894,
+          "text_english": "My priority is high standards and high aspirations for every learner. That is why this Government has worked at pace to develop the 'Foundational literacy and numeracy plan'. The plan sets out a clear and ambitious programme of action to raise literacy and numeracy outcomes throughout this Senedd term and is our first step in delivering sustained improvements in educational outcomes for all learners in Wales.",
+          "text_original": "My priority is high standards and high aspirations for every learner. That is why this Government has worked at pace to develop the 'Foundational literacy and numeracy plan'. The plan sets out a clear and ambitious programme of action to raise literacy and numeracy outcomes throughout this Senedd term and is our first step in delivering sustained improvements in educational outcomes for all learners in Wales.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=2894"
+        },
+        {
+          "id": "contribution-780530",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "en",
+          "t_start": 2983,
+          "text_english": "I think that's pushing it rather at this point, but thank you for the contribution.\n\nOf course, this is an important area for us. There has been, you're quite right, a slight reduction on the latest figures, and there are a number of actions we are taking to tackle that. We are aware that school attendance has gone up again incrementally post COVID but is nowhere near the rate pre COVID. We're also aware that the cohort we are now targeting is likely to require a considerable focus and probably considerable support to push that figure higher. \n\nOne of the things we have included in our literacy and numeracy foundational plan is targets on attendance. You will see a 0.5 per cent increase year on year to bring that level up. There's also a focus on persistent absence, which is missing 10 per cent or more of school sessions. A 2 per cent increase year on year is what we expect there.\n\nThere are a number of other areas we are focusing on. You will have heard me speak about the national framework on behaviour, attendance and well-being we are now bringing together, in the recognition that no single intervention, albeit we have targets now too, will address those persistent absence problems. They are often complex issues and do require tailored support, which is why we are looking at this framework in the round and making swift progress on introducing that.\n\nAnother thing we have done is to look in more detail—. Because often what we find is that reliable, consistent data across Wales is sometimes hard to find, so we've published new school attendance code guidance to give us that greater consistency in recording absence across Wales, to help us to target our work around this area to make a difference and to increase those figures over time. Because I agree with you: you need to be at school to benefit from the education system. It is very much a focus for us. Diolch.",
+          "text_original": "I think that's pushing it rather at this point, but thank you for the contribution.\n\nOf course, this is an important area for us. There has been, you're quite right, a slight reduction on the latest figures, and there are a number of actions we are taking to tackle that. We are aware that school attendance has gone up again incrementally post COVID but is nowhere near the rate pre COVID. We're also aware that the cohort we are now targeting is likely to require a considerable focus and probably considerable support to push that figure higher. \n\nOne of the things we have included in our literacy and numeracy foundational plan is targets on attendance. You will see a 0.5 per cent increase year on year to bring that level up. There's also a focus on persistent absence, which is missing 10 per cent or more of school sessions. A 2 per cent increase year on year is what we expect there.\n\nThere are a number of other areas we are focusing on. You will have heard me speak about the national framework on behaviour, attendance and well-being we are now bringing together, in the recognition that no single intervention, albeit we have targets now too, will address those persistent absence problems. They are often complex issues and do require tailored support, which is why we are looking at this framework in the round and making swift progress on introducing that.\n\nAnother thing we have done is to look in more detail—. Because often what we find is that reliable, consistent data across Wales is sometimes hard to find, so we've published new school attendance code guidance to give us that greater consistency in recording absence across Wales, to help us to target our work around this area to make a difference and to increase those figures over time. Because I agree with you: you need to be at school to benefit from the education system. It is very much a focus for us. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=2983"
+        },
+        {
+          "id": "contribution-780526",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "en",
+          "t_start": 3184,
+          "text_english": "Obviously, funding for schools is a priority for us, which is why we were pleased last week, or was it the week before, that the supplementary budget did go through, with that £60 million earmarked for pressures in schools linked to ALN, but a recognition that schools and the education system is under pressure across Wales.\n\nOn the points you make about those flexibilities locally, I would refer you back again to the foundational literacy and numeracy plan, because that will show us, on a national and a local level, the direction we're going in. It will make it easier for us to align the support appropriately in different areas and different schools in Wales in order to make that progress. I've also announced an intention to conduct a targeted review of the curriculum to make sure that we can have a better understanding and provide better advice to schools about some of the areas we expect learners to have access to.",
+          "text_original": "Obviously, funding for schools is a priority for us, which is why we were pleased last week, or was it the week before, that the supplementary budget did go through, with that £60 million earmarked for pressures in schools linked to ALN, but a recognition that schools and the education system is under pressure across Wales.\n\nOn the points you make about those flexibilities locally, I would refer you back again to the foundational literacy and numeracy plan, because that will show us, on a national and a local level, the direction we're going in. It will make it easier for us to align the support appropriately in different areas and different schools in Wales in order to make that progress. I've also announced an intention to conduct a targeted review of the curriculum to make sure that we can have a better understanding and provide better advice to schools about some of the areas we expect learners to have access to.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=3184"
+        },
+        {
+          "id": "contribution-780512",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "cy",
+          "t_start": 3302,
+          "text_english": "Thank you very much. Working closely with the workforce and ensuring that they are paid and supported adequately in the important work that they do is a core priority of mine. I'm very grateful for the work that ASCL has done with us, for example to move on the broader debate on school funding. When I came into my role in May, there were detailed discussions at that point in order to facilitate getting the same kind of pay award for teachers in Wales as compared to England, and that was a very firm ask from the unions.\n\nI'm always open to speaking to anyone as to how we move this debate forward in terms of appropriate support for the workforce, and I'm particularly eager to discuss workload and what we can put in place in order to reduce that burden. I see that the leader of the opposition isn't here today. I've had conversations with her, and every teacher that I've met over a period of 20 years, discussing workload specifically. We need to move that debate forward, and I'm willing to speak to anyone who has forceful ideas as to how we can make that progress. My door is always open.",
+          "text_original": "Diolch yn fawr. Mae gweithio yn agos gyda'r gweithlu i sicrhau eu bod nhw'n cael eu talu a'u cefnogi yn ddigonol ar gyfer y gwaith pwysig maen nhw'n ei wneud yn flaenoriaeth greiddiol i fi. Rwy'n ddiolchgar iawn am y gwaith mae ASCL wedi ei wneud gyda ni, er enghraifft i symud ymlaen y ddadl ehangach ynglŷn ag ariannu ysgolion. Pan ddes i i fy swydd ym mis Mai, roedd yna drafodaethau manwl yn y cyfnod hwnnw er hwyluso cael yr un math o ddyfarniad o ran codiad cyflog i athrawon yng Nghymru o'i gymharu â Lloegr, ac roedd hwnna'n ofyn pendant gan yr undebau. \n\nRwyf wastad yn agored i siarad gydag unrhyw un ar sut rŷm ni'n symud y ddadl yma ymlaen ynglŷn â chefnogaeth addas i'r gweithlu, ac rwy'n benodol yn frwd iawn i drafod baich gwaith a'r moddion y gallwn eu rhoi yn eu lle er lleihau y faich honno. Dwi'n gweld nad yw arweinydd yr wrthblaid yma heddiw. Dwi wedi cael sgyrsiau gyda hi, a phob athro neu athrawes rwyf wedi cwrdd â nhw ers 20 mlynedd, yn trafod, yn benodol, baich gwaith. Mae angen symud y ddadl honno yn ei blaen, ac rwy'n barod i siarad ag unrhyw un sydd â syniadau grymus er hwyluso'r drafodaeth honno. Mae'r drws bob amser yn agored.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=3302"
+        },
+        {
+          "id": "contribution-780545",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "en",
+          "t_start": 3857,
+          "text_english": "Diolch yn fawr. Thank you for the question. I think we are dealing with two issues simultaneously here. I mentioned earlier on that I was pleased that £60 million had gone into the system this year, as a result of the supplementary budget, to support with immediate pressures. But you are quite right, in the longer term we need to arrive at a system that is more sustainable and is inclusive of the learners in Wales. I think every jurisdiction everywhere over a time, and particularly post COVID, has been dealing with increasingly complex demand from children and families trying to negotiate a range of issues that their learners are facing.\n\nThe education system, arguably, experiences changes in society faster than most of us sitting here and probably most of our services as well. So, we have made an effort now to focus on the sustainability of the ALN system over time. You will have seen that a proportion of what was agreed last week has been allocated specifically for that purpose, and we will work now quickly with local authorities and other partners to work our way to a more sustainable system over time. We need this to be a coherent continuum, we need it to be of high quality, we need it to be inclusive, with—and this is the crucial part I think—clearer national expectations of what this system should look like, stronger mainstream capacity, which in turn comes with demand for support, obviously.\n\nOne of the first steps is to understand in detail, with all our partners, what an inclusive system looks like and plot our way from here to that system and this commitment—. There is a great willingness amongst all our partners to work on this and we will do so with speed.",
+          "text_original": "Diolch yn fawr. Thank you for the question. I think we are dealing with two issues simultaneously here. I mentioned earlier on that I was pleased that £60 million had gone into the system this year, as a result of the supplementary budget, to support with immediate pressures. But you are quite right, in the longer term we need to arrive at a system that is more sustainable and is inclusive of the learners in Wales. I think every jurisdiction everywhere over a time, and particularly post COVID, has been dealing with increasingly complex demand from children and families trying to negotiate a range of issues that their learners are facing.\n\nThe education system, arguably, experiences changes in society faster than most of us sitting here and probably most of our services as well. So, we have made an effort now to focus on the sustainability of the ALN system over time. You will have seen that a proportion of what was agreed last week has been allocated specifically for that purpose, and we will work now quickly with local authorities and other partners to work our way to a more sustainable system over time. We need this to be a coherent continuum, we need it to be of high quality, we need it to be inclusive, with—and this is the crucial part I think—clearer national expectations of what this system should look like, stronger mainstream capacity, which in turn comes with demand for support, obviously.\n\nOne of the first steps is to understand in detail, with all our partners, what an inclusive system looks like and plot our way from here to that system and this commitment—. There is a great willingness amongst all our partners to work on this and we will do so with speed.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=3857"
+        },
+        {
+          "id": "contribution-780539",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "en",
+          "t_start": 4048,
+          "text_english": "It is obviously important that staff feel safe at school and are able to operate appropriately. It is clear that staff may use reasonable force where necessary to prevent harm, an offence, damage to property or serious disruption, but that intervention must necessarily, and I think we'd all agree on this, be proportionate and use the minimum force required. And it should never be used as a punishment. I think we can all agree on those principles. If there are examples, individual examples, that you have, then I would be glad to look at them.\n\nBut we are clear that that is the environment in which our workforce is working. It is also our expectation that restrictive practices are a last resort. And to go back to your first point around behaviour, the behaviour and well-being framework is a priority for this Government, and bringing together a greater national consistency around our expectations and around the support that will help the workforce and the learners in turn is a piece of work that is ongoing.",
+          "text_original": "It is obviously important that staff feel safe at school and are able to operate appropriately. It is clear that staff may use reasonable force where necessary to prevent harm, an offence, damage to property or serious disruption, but that intervention must necessarily, and I think we'd all agree on this, be proportionate and use the minimum force required. And it should never be used as a punishment. I think we can all agree on those principles. If there are examples, individual examples, that you have, then I would be glad to look at them.\n\nBut we are clear that that is the environment in which our workforce is working. It is also our expectation that restrictive practices are a last resort. And to go back to your first point around behaviour, the behaviour and well-being framework is a priority for this Government, and bringing together a greater national consistency around our expectations and around the support that will help the workforce and the learners in turn is a piece of work that is ongoing.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=4048"
+        },
+        {
+          "id": "contribution-780554",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "en",
+          "t_start": 4191,
+          "text_english": "Thank you. These are adaptive tests. The idea is that the learner engages with them, and it helps to indicate what the next steps in their development should be. That's how they've been constructed to operate.\n\nWe can use the data more broadly that this system gives us, to give us an indicator at year 6, which is what we're doing as part of this plan, and which gives us a place go to, then, as a national trajectory of improvement, and also to make sure that we can align the support available appropriately for those schools and for those learners. \n\nI'm not going to go back to the future. I am, however, going to have, during this Senedd term, a clearer expectation that we can communicate effectively to learners and to schools.",
+          "text_original": "Thank you. These are adaptive tests. The idea is that the learner engages with them, and it helps to indicate what the next steps in their development should be. That's how they've been constructed to operate.\n\nWe can use the data more broadly that this system gives us, to give us an indicator at year 6, which is what we're doing as part of this plan, and which gives us a place go to, then, as a national trajectory of improvement, and also to make sure that we can align the support available appropriately for those schools and for those learners. \n\nI'm not going to go back to the future. I am, however, going to have, during this Senedd term, a clearer expectation that we can communicate effectively to learners and to schools.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=4191"
+        },
+        {
+          "id": "contribution-780544",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "en",
+          "t_start": 4284,
+          "text_english": "Thank you. I think, as I said in my earlier answer, I remain committed to the social partnership, and I'm always willing to talk to those social partners on issues that we have in common as concerns. \n\nI announced that fully funded pay award last week, following that consultation, because I wanted to respect the principle of no detriment, so that there'd be no difference between the pay increases here and those over the border in England. I know this has been a continuing debate over many years, to ensure that we remain in that alignment.\n\nI think the previous education Minister will also be aware of the financial environment, and the budgetary environment we are now in, and I judged, at this point, that 4.25 per cent was not affordable when we consider the other priorities of this Government, and Wales more broadly, around, particularly, health service demand—the national health service—and other priorities that this Government is committed to.\n\nThe 3.5 per cent was important to me. It was important to most partners. But I remain committed to talking to anybody who wishes to examine areas of mutual interest and concern.",
+          "text_original": "Thank you. I think, as I said in my earlier answer, I remain committed to the social partnership, and I'm always willing to talk to those social partners on issues that we have in common as concerns. \n\nI announced that fully funded pay award last week, following that consultation, because I wanted to respect the principle of no detriment, so that there'd be no difference between the pay increases here and those over the border in England. I know this has been a continuing debate over many years, to ensure that we remain in that alignment.\n\nI think the previous education Minister will also be aware of the financial environment, and the budgetary environment we are now in, and I judged, at this point, that 4.25 per cent was not affordable when we consider the other priorities of this Government, and Wales more broadly, around, particularly, health service demand—the national health service—and other priorities that this Government is committed to.\n\nThe 3.5 per cent was important to me. It was important to most partners. But I remain committed to talking to anybody who wishes to examine areas of mutual interest and concern.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=4284"
+        },
+        {
+          "id": "contribution-780556",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "en",
+          "t_start": 4440,
+          "text_english": "I think that the judgment on where each of these parties is depends, rather, on who you talk to at this point. I think we have, for example, had very helpful and fruitful discussions with ASCL, in particular, around some of these elements. \n\nThe social partnership—I've been part of arrangements like this for many years—is very important to me. And it is a place where some of these pressing issues that the workforce has been calling for action on for many, many years—. It is a good place to resolve them, particularly on ALN, particularly on workload, recruitment, retention, behaviour, attendance—all these things that are very important to everybody who works in our schools and has an association with them. \n\nAll of those issues, I am entirely open to engaging on them. But I would repeat my first point around the salary increases—the pay increases—that 3.5 per cent was as far as I felt able to go. But I am and remain committed to discussing any and all other issues.",
+          "text_original": "I think that the judgment on where each of these parties is depends, rather, on who you talk to at this point. I think we have, for example, had very helpful and fruitful discussions with ASCL, in particular, around some of these elements. \n\nThe social partnership—I've been part of arrangements like this for many years—is very important to me. And it is a place where some of these pressing issues that the workforce has been calling for action on for many, many years—. It is a good place to resolve them, particularly on ALN, particularly on workload, recruitment, retention, behaviour, attendance—all these things that are very important to everybody who works in our schools and has an association with them. \n\nAll of those issues, I am entirely open to engaging on them. But I would repeat my first point around the salary increases—the pay increases—that 3.5 per cent was as far as I felt able to go. But I am and remain committed to discussing any and all other issues.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=4440"
+        },
+        {
+          "id": "contribution-780564",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "cy",
+          "t_start": 4569,
+          "text_english": "Thank you very much for the question. I would like to add my thanks as well to the Welsh Language Commissioner for her work.\n\nWe will, in December, be publishing a consultation on the Welsh language strategy, the Welsh Language and Education (Wales) Act 2025, and the Welsh language proficiency code. I would ask you to look at that point at what we will publish, because we will indicate what the trajectory is to ensure that the use of the Welsh language, access to the Welsh language, the Welsh language in our heartlands, the Welsh language in our schools, all tie together under one co-ordinated strategy that will be based on the concept that the Welsh language belongs to us all. In that context, we will show how we will reach those particular goals in terms of those opportunities, including the workplace. There will be detail showing that trajectory, including, therefore, more specific targets.",
+          "text_original": "Diolch yn fawr am y cwestiwn. Hoffwn i ategu fy niolch innau hefyd i Gomisiynydd y Gymraeg am ei gwaith hithau.\n\nMi fyddwn ni, ym mis Rhagfyr, yn cyhoeddi ymgynghoriad ar strategaeth y Gymraeg, Deddf y Gymraeg ac Addysg (Cymru) 2025, a'r cod ar y gallu i siarad Cymraeg. Byddwn i'n gofyn i chi edrych ar y pwynt hwnnw ar yr hyn rŷn ni'n ei gyhoeddi achos byddwn ni'n dangos y taflwybr i sicrhau bod defnydd o'r Gymraeg, mynediad at y Gymraeg, Cymraeg yn ein cadarnleoedd, Cymraeg yn ein hysgolion ni, yn clymu at ei gilydd i un strategaeth gydlynus, yn seiliedig ar y cysyniad bod y Gymraeg yn perthyn i ni i gyd. Yn y cyd-destun hwnnw, byddwn ni'n dangos siẁd rydyn ni'n mynd i gyrraedd y nodau priodol o ran y cyfleoedd hyn, gan gynnwys y gweithle. Mi fydd yna fanylder yn dangos y ffordd ymlaen, yn cynnwys, felly, dargedau mwy penodol.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=4569"
+        },
+        {
+          "id": "contribution-780586",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "cy",
+          "t_start": 4702,
+          "text_english": "Perhaps I'll have to write to you with the detailed response to that first question. But on what will be needed in order to realise the ambition in the strategy that we will publish—it will be published for consultation in December, into next year—as part of that, in order to deliver that, we will be looking at what's needed in terms of resources to deliver it. Both things will go hand in hand.",
+          "text_original": "Efallai y bydd angen i fi ysgrifennu atoch chi gyda manylder y cwestiwn cyntaf. Ond ar yr hyn a fydd yn ofynnol er mwyn gwireddu'r uchelgais yn y strategaeth y byddwn ni yn ei chyhoeddi—byddwn ni'n cyhoeddi ar gyfer ymgynghoriad ym mis Rhagfyr, i mewn i'r flwyddyn nesaf—fel rhan o hynny, er mwyn ei chyflawni hi, mi fyddwn ni'n edrych ar yr hyn sydd ei angen o ran adnoddau i'w gwireddu hi. Bydd y ddau beth yn mynd law yn llaw.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=4702"
+        },
+        {
+          "id": "contribution-780599",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "cy",
+          "t_start": 4756,
+          "text_english": "Thank you. Local authorities are responsible for decisions on the future of schools, and they must follow statutory procedures when bringing forward proposals. This includes consulting communities, providing sufficient information to enable people to come to informed views, engaging with relevant partners, including religious bodies, and having regard to the wishes of parents.",
+          "text_original": "Diolch. Awdurdodau lleol sy'n gyfrifol am benderfyniadau ynghylch dyfodol ysgolion, ac mae'n rhaid iddyn nhw ddilyn gweithdrefnau statudol wrth gyflwyno cynigion. Mae hyn yn cynnwys ymgynghori â chymunedau, darparu digon o wybodaeth i bobl allu dod i farn ddeallus, ymgysylltu â phartneriaid perthnasol, gan gynnwys cyrff crefyddol, a rhoi sylw i ddymuniadau rhieni.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=4756"
+        },
+        {
+          "id": "contribution-780565",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "en",
+          "t_start": 4839,
+          "text_english": "Diolch. Local authorities are democratically accountable to their communities and are responsible for developing school organisation proposals. In so doing, they must comply with the requirements set out in the School Standards and Organisation (Wales) Act 2013, and the school organisation code, which is quite clear about the processes and involvement that is required in these cases. I do expect all proposers to comply fully with these statutory requirements and to engage openly and meaningfully with all those affected by any proposal. These decisions should be informed by the evidence gathered through consultation and taken in accordance with the legislative framework. You will be aware, because I've said it several times, that the role of Welsh Ministers in the statutory process means that I'm unable to comment on proposals that I may later be required to determine. But, in the context of all decisions, I would expect my first two points to be clear.",
+          "text_original": "Diolch. Local authorities are democratically accountable to their communities and are responsible for developing school organisation proposals. In so doing, they must comply with the requirements set out in the School Standards and Organisation (Wales) Act 2013, and the school organisation code, which is quite clear about the processes and involvement that is required in these cases. I do expect all proposers to comply fully with these statutory requirements and to engage openly and meaningfully with all those affected by any proposal. These decisions should be informed by the evidence gathered through consultation and taken in accordance with the legislative framework. You will be aware, because I've said it several times, that the role of Welsh Ministers in the statutory process means that I'm unable to comment on proposals that I may later be required to determine. But, in the context of all decisions, I would expect my first two points to be clear.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=4839"
+        },
+        {
+          "id": "contribution-780571",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "en",
+          "t_start": 4920,
+          "text_english": "Thank you. I seem to have lost you in my book. Wait a second. I'm sorry.",
+          "text_original": "Thank you. I seem to have lost you in my book. Wait a second. I'm sorry.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=4920"
+        },
+        {
+          "id": "contribution-780570",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "cy",
+          "t_start": 4927,
+          "text_english": "We recognise the significant pressures across our schools and local authorities, and acknowledge the commitment of the education workforce in continuing to support learners. Decisions on the level of funding available to schools, including rural schools, are made by each local authority as part of their overall budget setting.",
+          "text_original": "Rydyn ni'n cydnabod y pwysau sylweddol ar draws ein hysgolion a'n hawdurdodau lleol ni, yn ogystal ag ymrwymiad y gweithlu addysg i barhau i gefnogi dysgwyr. Mae penderfyniadau ynghylch lefel y cyllid sydd ar gael i ysgolion, gan gynnwys ysgolion gwledig, yn cael eu gwneud gan bob awdurdod lleol wrth bennu eu cyllideb gyffredinol.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=4927"
+        },
+        {
+          "id": "contribution-780582",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "cy",
+          "t_start": 5001,
+          "text_english": "Thank you very much. We understand just how important schools are for our rural communities, and in the context of smaller schools, for example, there are very detailed requirements in relation to consultation on any reorganisation that's proposed. The Member will also be aware that my colleague the Minister for rural resilience is looking at ways of nurturing and protecting the resilience of rural communities, and that considerations on sustaining services with a more dispersed population, for example, are part of those wider considerations. I think that the broader response is that, in looking at the needs of rural communities, there is a broader responsibility across Government in ensuring that we do understand the specific challenges faced by those areas and respond appropriately to them.",
+          "text_original": "Diolch yn fawr. Rydyn ni'n gwybod yn iawn pa mor bwysig yw ysgolion i'n cymunedau gwledig, ac yng nghyd-destun ysgolion llai, er enghraifft, mae yna ofynion manwl iawn ynglŷn ag ymgynghori ynglŷn ag aildrefnu mewn unrhyw fodd. Mi fydd yr Aelod hefyd yn gwybod bod fy nghydweithiwr y Gweinidog dros ddygnwch gwledig yn edrych ar fesurau i feithrin a gwarchod dygnwch cymunedau gwledig, a bod ystyriaethau ynglŷn â chynnal gwasanaethau gyda phoblogaeth mwy gwasgaredig, er enghraifft, yn rhan o'r ystyriaethau hynny. Dwi'n credu mai'r ateb ehangach yw, o edrych ar y gofynion mewn cymunedau gwledig, fod yna gyfrifoldeb yn ehangach ar draws y Llywodraeth ar gyfer sicrhau ein bod ni'n deall yr heriau penodol yn yr ardaloedd hynny ac yn ymateb yn briodol iddyn nhw.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=5001"
+        },
+        {
+          "id": "contribution-780563",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "cy",
+          "t_start": 5117,
+          "text_english": "Thank you very much. The Member may be aware that we are currently piloting the Community Schools Plus programme at the moment in order to look at developing our understanding of the challenges facing those schools and, as I said earlier, drawing on those different elements of policies and bringing them together. I am, of course, aware, too, that school transport is a particular priority for the Deputy Minister for Transport, that the Minister for rural resilience is also looking at these issues and I, too, am looking at the demographic challenges that will impact on how we provide services and education, particularly in rural communities and in Wales more broadly, too.\n\nSo, what I would encourage the Member to look at is the detailed work happening across a number of different areas, which we are progressing quickly, as areas that relate to her question but are not necessarily reserved to the education portfolio, and we have taken meaningful steps to ensure that we don't look at these issues in isolation.",
+          "text_original": "Diolch yn fawr. Mi fydd yr Aelod efallai'n ymwybodol ein bod ni'n peilota'r cynllun ysgolion hynny ar hyn o bryd i edrych ar ddatblygu ein dealltwriaeth ni o'r heriau sydd yn eu hwynebu nhw, ac yn tynnu, fel roeddwn i'n dweud ynghynt, yr elfennau gwahanol yma o bolisïau at ei gilydd. Mi fydd hi'n ymwybodol hefyd fod trafnidiaeth ysgol yn flaenoriaeth benodol i'r Dirprwy Weinidog dros Drafnidiaeth, bod y Gweinidog dygnwch gwledig yn edrych ar y materion yma hefyd, a fy mod i innau hefyd yn edrych yn gyson ar yr heriau demograffig sydd mynd i effeithio ar sut rŷn ni'n darparu gwasanaethau ac addysg mewn cymunedau cefn gwlad, ac yng Nghymru yn ehangach, i ddweud y gwir.\n\nFelly, beth fydden i'n annog yr Aelod i edrych arno fe yw'r gwaith manwl ar draws nifer o feysydd gwahanol rŷn ni'n symud arno fe'n gyflym ac sydd yn bethau sydd yn berthnasol i'r cwestiwn a gododd hi, ond nad sydd o angenrheidrwydd wedi eu hynysu i'r portffolio addysg yn unig, ac rŷn ni wedi mynd ati'n fwriadus i sicrhau nad ydyn ni'n edrych ar y gofynion hyn trwy un lens yn unig.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=5117"
+        },
+        {
+          "id": "contribution-780574",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "en",
+          "t_start": 5485,
+          "text_english": "Improving recruitment and retention is one of my priorities. We already know that teachers leave the profession for a range of reasons, including workload, well-being and working conditions. We are drawing on national and international evidence and working with our social partners to take practical action to address these issues.",
+          "text_original": "Improving recruitment and retention is one of my priorities. We already know that teachers leave the profession for a range of reasons, including workload, well-being and working conditions. We are drawing on national and international evidence and working with our social partners to take practical action to address these issues.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=5485"
+        },
+        {
+          "id": "contribution-780600",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "cy",
+          "t_start": 5555,
+          "text_english": "Thank you. I don't think it's correct to say that we don't have any evidence. There are a number of reports that have looked into this specific problem—one quite recently carried out by Cardiff Met, for example, which was published in 2024. The OECD has also looked at these challenges in the context of work that they have done in Wales. One of the Senedd committees has also looked in detail at this issue.\n\nThey've all come to the same conclusion, to all intents and purposes, namely that the workload is excessive and is a heavy workload. There's also a feeling that society does not appreciate the efforts of teachers as it did at one stage in the past. I think that we all have a responsibility to examine how we speak about the education profession; we can all be of help in that context, at least. There are also questions about the professional pathway—in terms of promotions and so on, as you move through the system. Then, there are specific subject areas where it is especially difficult to recruit and retain teachers. There is a dependence as well on teachers who are perhaps qualified to teach one subject but are increasingly asked to teach another subject.\n\nThese are all issues that influence our ability to recruit and to retain teachers, and this has, clearly, been a priority for me over the recent period. That is why, for example, we provided those additional payments for recruitment to difficult-to-recruit subjects, and also are looking then at the broader requirements with representatives from the workforce itself.",
+          "text_original": "Diolch. Dydw i ddim yn credu ei bod hi'n gywir i ddweud nad oes tystiolaeth gyda ni. Mae nifer o adroddiadau wedi ymchwilio i’r broblem benodol hon—un yn gymharol ddiweddar gan Cardiff Met, er enghraifft, y brifysgol yng Nghaerdydd, a gyhoeddwyd yn 2024. Mae’r OECD hefyd wedi edrych ar yr heriau yma yng nghyd-destun y gwaith y maen nhw wedi’i wneud yng Nghymru. Mae un o bwyllgorau’r Senedd hefyd wedi edrych yn fanwl ar y broblem yma.\n\nYr un casgliad maen nhw i gyd wedi dod iddo, i bob pwrpas, sef bod y baich gwaith yn ormodol ac yn drwm. Mae teimlad hefyd nad yw cymdeithas yn gwerthfawrogi ymdrechion athrawon fel yr oedd ar un cyfnod. Rwy’n credu bod dyletswydd arnom i gyd i edrych ar siẁd rydyn ni yn siarad am y proffesiwn addysgu; gallwn ni i gyd fod o gymorth yn y cyd-destun hwnnw o leiaf. Mae hefyd cwestiynau ynglŷn â’r llwybr proffesiynol—dyrchafiadau felly, wrth i rywun symud drwy’r system. Wedyn, mae yna feysydd a phynciau penodol lle mae’n arbennig o anodd i recriwtio a chadw athrawon. Mae dibyniaeth hefyd ar athrawon sydd efallai wedi’u cymhwyso i ddysgu un pwnc, ond sydd yn cael eu gofyn yn gynyddol i addysgu un arall.\n\nMae’r rhain i gyd yn faterion sydd yn dylanwadu ar ein gallu ni i recriwtio a chadw athrawon, ac mae hwn wedi bod, yn amlwg, yn flaenoriaeth i mi dros y cyfnod diwethaf. Dyna pam, er enghraifft, gwnaethom ni roi taliadau ychwanegol yn eu lle i recriwtio i rai pynciau sydd yn arbennig o anodd, ac wedyn yn edrych ar y gofynion ehangach gyda chynrychiolyddion o’r gweithlu eu hunain.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=5555"
+        },
+        {
+          "id": "contribution-780617",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "en",
+          "t_start": 5691,
+          "text_english": "The safety and well-being of learners is an absolute priority for the Welsh Government. We continue to work closely with schools, local authorities, the police and other partners to prevent harm, identify emerging risks and ensure that appropriate arrangements are in place to respond effectively when concerns arise.",
+          "text_original": "The safety and well-being of learners is an absolute priority for the Welsh Government. We continue to work closely with schools, local authorities, the police and other partners to prevent harm, identify emerging risks and ensure that appropriate arrangements are in place to respond effectively when concerns arise.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=5691"
+        },
+        {
+          "id": "contribution-780583",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "en",
+          "t_start": 5767,
+          "text_english": "Thank you. As I referred to in an earlier answer around school transport more broadly, this has been a challenge on many levels—access to Welsh-medium education, for example. The cost of transport has been an increasing concern and that's why, with my colleague the Minister for transport, we are looking at school transport in particular as an immediate priority and linking that, which may be of interest to you as well, to additional learning needs learners for whom this is a pressing priority. I can't commit this afternoon to looking at the learner travel Measure again, but, certainly, issues more broadly around access to school and transport to get learners there safely are right at the top of my colleague's agenda, I know.",
+          "text_original": "Thank you. As I referred to in an earlier answer around school transport more broadly, this has been a challenge on many levels—access to Welsh-medium education, for example. The cost of transport has been an increasing concern and that's why, with my colleague the Minister for transport, we are looking at school transport in particular as an immediate priority and linking that, which may be of interest to you as well, to additional learning needs learners for whom this is a pressing priority. I can't commit this afternoon to looking at the learner travel Measure again, but, certainly, issues more broadly around access to school and transport to get learners there safely are right at the top of my colleague's agenda, I know.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=5767"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
     {
       "contributions": [
         {

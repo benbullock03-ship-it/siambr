@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "abstain"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,40 @@
   "canonical_name": "David Mills",
   "constituency_name_cy": "Brycheiniog Tawe Nedd",
   "constituency_name_en": "Brycheiniog Tawe Nedd",
-  "contribution_count": 20,
+  "contribution_count": 22,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780857",
+          "item_id": "item-16318-261021-11",
+          "item_title_en": "10. Short Debate: Full-face coverings are against British values",
+          "lang": "en",
+          "t_start": 20091,
+          "text_english": "Gosh, I don't know how to follow some of this. Thank you, Presiding Officer, and thank you, Jason O'Connell, for tabling the debate. We're a nation that prides itself on our tradition of constitutional liberty, which has always included freedom of expression to dress as one chooses, including garments that most people find offensive or objectionable, such as face coverings. This stands in opposition to the tradition on the continent where restrictions are commonplace. However, I think we need to re-examine our position on this, as the wearing of face coverings has become normalised in recent years, and consider banning them.\n\nIn Swansea, Neath and many other areas of Wales, there has been a growing problem with anti-social behaviour committed by youths wearing face coverings. No-one should have to tolerate this sort of hooliganism. We should recognise too that face coverings are not normal practice in any religion, and they're only employed by a tiny minority of ultra-conservative adherents. Whilst religious freedom is an important tenet of British values, our laws and cultural norms should not bend to the whims of an ultra-conservative minority. We should recognise too that many countries across Europe, the middle east and central Asia ban the use of face coverings and do not make religious exceptions. So, I agree with Jason that the use of face coverings is a growing issue and we must look to banning them.",
+          "text_original": "Gosh, I don't know how to follow some of this. Thank you, Presiding Officer, and thank you, Jason O'Connell, for tabling the debate. We're a nation that prides itself on our tradition of constitutional liberty, which has always included freedom of expression to dress as one chooses, including garments that most people find offensive or objectionable, such as face coverings. This stands in opposition to the tradition on the continent where restrictions are commonplace. However, I think we need to re-examine our position on this, as the wearing of face coverings has become normalised in recent years, and consider banning them.\n\nIn Swansea, Neath and many other areas of Wales, there has been a growing problem with anti-social behaviour committed by youths wearing face coverings. No-one should have to tolerate this sort of hooliganism. We should recognise too that face coverings are not normal practice in any religion, and they're only employed by a tiny minority of ultra-conservative adherents. Whilst religious freedom is an important tenet of British values, our laws and cultural norms should not bend to the whims of an ultra-conservative minority. We should recognise too that many countries across Europe, the middle east and central Asia ban the use of face coverings and do not make religious exceptions. So, I agree with Jason that the use of face coverings is a growing issue and we must look to banning them.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=20091"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-779933",
+          "item_id": "item-16317-261020-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 6702,
+          "text_english": "I'd like to ask for a statement from the Cabinet Minister for Rural Resilience and Sustainability on the state of dog breeding in Wales and whether the Welsh Government intends to review the current regulatory framework. The RSPCA has raised concerns that dog breeding continues on a considerable scale in Wales and that existing legislation may no longer be fit for purpose. There have also been calls for a review of current laws, a centralised microchipping database, consideration of a national scoring system for breeders and whether a national representative body could provide greater support to responsible breeders. Given the importance of protecting animal welfare, while ensuring that responsible breeders have the support and the clarity they need, can the Welsh Government outline whether it will review the current regulatory framework to ensure it remains effective and fit for purpose and whether it will consider combining and streamlining the regulation into a single piece of legislation?",
+          "text_original": "I'd like to ask for a statement from the Cabinet Minister for Rural Resilience and Sustainability on the state of dog breeding in Wales and whether the Welsh Government intends to review the current regulatory framework. The RSPCA has raised concerns that dog breeding continues on a considerable scale in Wales and that existing legislation may no longer be fit for purpose. There have also been calls for a review of current laws, a centralised microchipping database, consideration of a national scoring system for breeders and whether a national representative body could provide greater support to responsible breeders. Given the importance of protecting animal welfare, while ensuring that responsible breeders have the support and the clarity they need, can the Welsh Government outline whether it will review the current regulatory framework to ensure it remains effective and fit for purpose and whether it will consider combining and streamlining the regulation into a single piece of legislation?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=6702"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
+    },
     {
       "contributions": [
         {

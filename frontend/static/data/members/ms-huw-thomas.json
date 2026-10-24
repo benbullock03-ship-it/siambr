@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,80 @@
   "canonical_name": "Huw Thomas",
   "constituency_name_cy": "Caerdydd Penarth",
   "constituency_name_en": "Caerdydd Penarth",
-  "contribution_count": 124,
+  "contribution_count": 130,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-781014",
+          "item_id": "item-16318-261021-11",
+          "item_title_en": "10. Short Debate: Full-face coverings are against British values",
+          "lang": "en",
+          "t_start": 20426,
+          "text_english": "Will you take an intervention, Minister?",
+          "text_original": "Will you take an intervention, Minister?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=20426"
+        },
+        {
+          "id": "contribution-781017",
+          "item_id": "item-16318-261021-11",
+          "item_title_en": "10. Short Debate: Full-face coverings are against British values",
+          "lang": "en",
+          "t_start": 20428,
+          "text_english": "We've heard a lot of nonsense tonight. What I haven't heard is any condemnation of the masked mobs who stormed RNLI stations across the south coast last month. Would you join me, Minister, in condemning those protesters and agree with me that a fine representation of British values is the decency and courage shown by the lifeboat crews out in the English channel saving lives, regardless of creed or skin or race or religion?",
+          "text_original": "We've heard a lot of nonsense tonight. What I haven't heard is any condemnation of the masked mobs who stormed RNLI stations across the south coast last month. Would you join me, Minister, in condemning those protesters and agree with me that a fine representation of British values is the decency and courage shown by the lifeboat crews out in the English channel saving lives, regardless of creed or skin or race or religion?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=20428"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-780006",
+          "item_id": "item-16317-261020-5",
+          "item_title_en": "5. Statement by the Cabinet Minister for Finance: Taxation (Wales) Bill",
+          "lang": "cy",
+          "t_start": 11118,
+          "text_english": "May I thank the Minister for the statement and congratulate her on introducing the first piece of legislation of the seventh Senedd?",
+          "text_original": "A gaf i ddiolch i'r Gweinidog am y datganiad a'i llongyfarch hi ar gyflwyno deddfwriaeth gyntaf y seithfed Senedd?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=11118"
+        },
+        {
+          "id": "contribution-780008",
+          "item_id": "item-16317-261020-5",
+          "item_title_en": "5. Statement by the Cabinet Minister for Finance: Taxation (Wales) Bill",
+          "lang": "en",
+          "t_start": 11126,
+          "text_english": "In Government, Welsh Labour laid the foundations of Wales's devolved tax system. Our taxation policy was based on the clear principles that Welsh taxes should raise revenue to fund public services as fairly as possible; that they should be clear, stable and simple; that they should be developed through collaboration; and that they should contribute towards the goals of the Well-being of Future Generations (Wales) Act 2015. It is against these principles that Welsh Labour will hold this legislation to account as the Bill progresses.\n\nIn Government, we established the Welsh Revenue Authority and introduced land transaction tax and landfill disposals tax in 2018. Since then, as the Minister said, the Welsh Revenue Authority has collected more than £2.7 billion to support public services in Wales. Welsh Labour showed how devolved taxation can be used to deliver progressive outcomes, including driving up rates of recycling, and making the taxation system fairer for people buying homes. And in 2021, we made the promise not to raise Welsh rates of income tax, and we kept that promise. We also recognise that taxation policy needs to evolve, so we welcome the intention of this legislation, to ensure that devolved taxes in Wales can be collected fairly and efficiently.",
+          "text_original": "In Government, Welsh Labour laid the foundations of Wales's devolved tax system. Our taxation policy was based on the clear principles that Welsh taxes should raise revenue to fund public services as fairly as possible; that they should be clear, stable and simple; that they should be developed through collaboration; and that they should contribute towards the goals of the Well-being of Future Generations (Wales) Act 2015. It is against these principles that Welsh Labour will hold this legislation to account as the Bill progresses.\n\nIn Government, we established the Welsh Revenue Authority and introduced land transaction tax and landfill disposals tax in 2018. Since then, as the Minister said, the Welsh Revenue Authority has collected more than £2.7 billion to support public services in Wales. Welsh Labour showed how devolved taxation can be used to deliver progressive outcomes, including driving up rates of recycling, and making the taxation system fairer for people buying homes. And in 2021, we made the promise not to raise Welsh rates of income tax, and we kept that promise. We also recognise that taxation policy needs to evolve, so we welcome the intention of this legislation, to ensure that devolved taxes in Wales can be collected fairly and efficiently.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=11126"
+        },
+        {
+          "id": "contribution-780011",
+          "item_id": "item-16317-261020-5",
+          "item_title_en": "5. Statement by the Cabinet Minister for Finance: Taxation (Wales) Bill",
+          "lang": "cy",
+          "t_start": 11212,
+          "text_english": "As the Bill progresses, there will be further opportunities to scrutinise the details of this Bill, but I'd like to ask a few initial questions to the Cabinet Minister. With regard to sharing information, the Bill allows the Welsh Revenue Authority to share information with local authorities to support the work of collecting taxes. The Cabinet Minister will agree about the importance of ensuring that the public has confidence in the way that this data is gathered and used. What assurance can she give that this information will only be shared when that is essential? And can she give practical examples of situations where that data could be shared by as a result of this new legislation? Can she also outline some of the practical advantages to local authorities, and how much additional revenue she expects will be generated through the sharing of information more effectively? And what support will be provided to local authorities to inform them of the new arrangements for sharing information?\n\nThe Government's regulatory impact assessment demonstrates that the Bill is likely to lead to general positive impacts of around £310,000. Can the Cabinet Minister outline in as simple terms as possible, everyday terms, from where these benefits will come, and how will they help to improve public services in Wales?\n\nAnd finally, has the Cabinet Minister undertaken an assessment of the levels of tax avoidance within the devolved taxation arrangements in Wales? And as the taxation system in Wales continues to develop, what else can the Government do to provide better information to the public about how devolved taxes operate in Wales? Thank you very much.",
+          "text_original": "Wrth i'r Bil fynd rhagddo, bydd cyfleoedd pellach i graffu ar fanylion y Bil hwn yn fwy manwl, ond heddiw hoffwn ofyn rhai cwestiynau cychwynnol i'r Gweinidog Cabinet. Ynglŷn â rhannu gwybodaeth, mae'r Bil yn caniatáu i Awdurdod Cyllid Cymru rannu gwybodaeth gydag awdurdodau lleol i gefnogi'r gwaith o gasglu trethi. Bydd y Gweinidog Cabinet yn cytuno ynghylch pwysigrwydd sicrhau bod gan y cyhoedd hyder yn y ffordd y caiff y data ei gasglu a'i ddefnyddio. Pa sicrwydd y gall hi ei roi y bydd y wybodaeth ddim ond yn cael ei rhannu pan fo hynny yn angenrheidiol? Ac a all hi roi enghreifftiau ymarferol o sefyllfaoedd lle gall y wybodaeth honno gael ei rhannu o ganlyniad i'r ddeddfwriaeth newydd? Yna, a all hi amlinellu rhai o'r manteision ymarferol i awdurdodau lleol, a faint o refeniw ychwanegol y mae hi'n disgwyl y bydd yn cael ei gynhyrchu drwy rannu gwybodaeth yn fwy effeithiol? A pha gymorth a fydd yn cael ei ddarparu i awdurdodau lleol i'w hysbysu am y trefniadau newydd ar gyfer rhannu gwybodaeth?\n\nMae asesiad effaith rheoleiddiol y Llywodraeth yn dangos bod y Bil yn debygol o sicrhau manteision cadarnhaol cyffredinol o ryw £310,000. A all y Gweinidog Cabinet amlinellu mewn termau mor syml â phosibl, termau bob dydd, o ble y daw y manteision hyn, a sut y byddan nhw yn helpu i wella gwasanaethau cyhoeddus yng Nghymru?\n\nAc yn olaf, a yw'r Gweinidog Cabinet wedi gwneud asesiad o lefelau o osgoi trethi o fewn trefniadau trethi datganoledig Cymru? Ac wrth i system drethi Cymru barhau i ddatblygu, beth arall gall y Llywodraeth ei wneud i roi gwell gwybodaeth i'r cyhoedd am sut mae trethi datganoledig yn gweithredu o fewn Cymru? Diolch yn fawr iawn.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=11212"
+        },
+        {
+          "id": "contribution-780132",
+          "item_id": "item-16317-261020-7",
+          "item_title_en": "7. Statement by the Cabinet Minister for Finance: An Update on Council Tax",
+          "lang": "en",
+          "t_start": 16397,
+          "text_english": "The moral case for implementing council tax reform \n\n'is overwhelming, and given the continued financial pressure facing households across the length and breadth of our nation, now is the time to strike whilst the iron's hot.'\n\nNot my words, Minister, but the words of Plaid Cymru's finance spokesperson in 2024. Working to make council tax fairer, knowing that the current system is long overdue for reform—again not my words Minister, but a promise in Plaid Cymru's manifesto at May's election.\n\nEarlier today, I welcomed the legislation on taxation that you introduced, but I cannot hide my bitter disappointment about what is set out in this statement, and sadly it's an approach that is becoming all too familiar: inaction, a lack of ambition and a failure to throw the weight of the Government behind progressive policies are fast becoming a hallmark of this Plaid Government. Whether on the failure to commit to a new national park, rolling back on free-school-meal commitments, failing to resolve the Cwm Taf health visitor dispute, or prioritising independence after promising not to, or now ducking the challenge of making council tax fairer, Ministers are showing that their instincts are not as progressive as people expected.\n\nLet's be clear, the last Welsh Labour Government established these reforms to make the system fairer. The legislation passed by the Senedd in 2024 was about ensuring council tax was based on updated property values, not the value of homes as they were more than two decades ago. Analysis by the independent Institute for Fiscal Studies showed that reforms would have reduced average net bills by £27 a year for the poorest fifth of households and £90 a year for the next poorest fifth. Eight hundred thousand households across Wales would have benefited and, on revaluation, the IFS said it was 'unambiguously a good idea'. The reforms were revenue neutral overall, and it was that progressive redistribution that led Plaid Cymru opposition at the time, just two years ago, to demand that the Welsh Labour Government went even faster with reforms. Again, to quote a party spokesperson, reforming the broken and outdated council tax system\n\n'has been a cornerstone of Plaid Cymru policy for many years,'\n\nand,\n\n'a delay would disadvantage the most vulnerable'.\n\nPlaid Cymru even tabled an amendment to the Local Government Finance (Wales) Bill that would have placed a duty on the Welsh Government to implement the reforms by April 2025. The now First Minister even told Welsh media at the time that not going forward with those reforms was one of the reasons why they pulled out of the co-operation agreement. So, you've gone from an issue that you were prepared to break a former co-operation agreement with, to making this issue one that is not a priority at all. A can kicked down the road all the way to 2032. That's quite a journey.\n\nCabinet Minister, aren't you concerned that by retreating on a policy Plaid Cymru has campaigned so vociferously on, by going back so clearly on an election promise, you're not just undermining confidence in the Welsh Government, but you're also undermining confidence in the democratic process? And I can't be the only one wondering what has changed for Plaid Cymru. At what point did the moral case stop being overwhelming? Does the Cabinet Minister disagree with her own party from just two years ago that a delay would disadvantage the most vulnerable? Or does she think financial pressures have eased up over the last two years, such that low-income households no longer need a cut in their council tax? Now, from the comments made by others around this issue, it looks like Plaid Cymru will have support from Reform and the Tories to push through these proposals. But is the Government confident of retaining support from its own back benches, those who stood on a platform of progressive change? I would certainly not wish to be in their shoes when this matter comes to a vote.\n\nAnd lastly, will she commit to publishing a full impact assessment, including an equalities impact assessment and a distribution analysis of the Government's plans not to press ahead with these reforms, and ensure that analysis is available well in advance of any votes?\n\nLet's be clear, this is a promise broken, and it is the poorest council taxpayers in Wales who will pay the price. Diolch.",
+          "text_original": "The moral case for implementing council tax reform \n\n'is overwhelming, and given the continued financial pressure facing households across the length and breadth of our nation, now is the time to strike whilst the iron's hot.'\n\nNot my words, Minister, but the words of Plaid Cymru's finance spokesperson in 2024. Working to make council tax fairer, knowing that the current system is long overdue for reform—again not my words Minister, but a promise in Plaid Cymru's manifesto at May's election.\n\nEarlier today, I welcomed the legislation on taxation that you introduced, but I cannot hide my bitter disappointment about what is set out in this statement, and sadly it's an approach that is becoming all too familiar: inaction, a lack of ambition and a failure to throw the weight of the Government behind progressive policies are fast becoming a hallmark of this Plaid Government. Whether on the failure to commit to a new national park, rolling back on free-school-meal commitments, failing to resolve the Cwm Taf health visitor dispute, or prioritising independence after promising not to, or now ducking the challenge of making council tax fairer, Ministers are showing that their instincts are not as progressive as people expected.\n\nLet's be clear, the last Welsh Labour Government established these reforms to make the system fairer. The legislation passed by the Senedd in 2024 was about ensuring council tax was based on updated property values, not the value of homes as they were more than two decades ago. Analysis by the independent Institute for Fiscal Studies showed that reforms would have reduced average net bills by £27 a year for the poorest fifth of households and £90 a year for the next poorest fifth. Eight hundred thousand households across Wales would have benefited and, on revaluation, the IFS said it was 'unambiguously a good idea'. The reforms were revenue neutral overall, and it was that progressive redistribution that led Plaid Cymru opposition at the time, just two years ago, to demand that the Welsh Labour Government went even faster with reforms. Again, to quote a party spokesperson, reforming the broken and outdated council tax system\n\n'has been a cornerstone of Plaid Cymru policy for many years,'\n\nand,\n\n'a delay would disadvantage the most vulnerable'.\n\nPlaid Cymru even tabled an amendment to the Local Government Finance (Wales) Bill that would have placed a duty on the Welsh Government to implement the reforms by April 2025. The now First Minister even told Welsh media at the time that not going forward with those reforms was one of the reasons why they pulled out of the co-operation agreement. So, you've gone from an issue that you were prepared to break a former co-operation agreement with, to making this issue one that is not a priority at all. A can kicked down the road all the way to 2032. That's quite a journey.\n\nCabinet Minister, aren't you concerned that by retreating on a policy Plaid Cymru has campaigned so vociferously on, by going back so clearly on an election promise, you're not just undermining confidence in the Welsh Government, but you're also undermining confidence in the democratic process? And I can't be the only one wondering what has changed for Plaid Cymru. At what point did the moral case stop being overwhelming? Does the Cabinet Minister disagree with her own party from just two years ago that a delay would disadvantage the most vulnerable? Or does she think financial pressures have eased up over the last two years, such that low-income households no longer need a cut in their council tax? Now, from the comments made by others around this issue, it looks like Plaid Cymru will have support from Reform and the Tories to push through these proposals. But is the Government confident of retaining support from its own back benches, those who stood on a platform of progressive change? I would certainly not wish to be in their shoes when this matter comes to a vote.\n\nAnd lastly, will she commit to publishing a full impact assessment, including an equalities impact assessment and a distribution analysis of the Government's plans not to press ahead with these reforms, and ensure that analysis is available well in advance of any votes?\n\nLet's be clear, this is a promise broken, and it is the poorest council taxpayers in Wales who will pay the price. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=16397"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
+    },
     {
       "contributions": [
         {

@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "abstain"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,24 @@
   "canonical_name": "Sarah Edwards",
   "constituency_name_cy": "Sir Gaerfyrddin",
   "constituency_name_en": "Sir Gaerfyrddin",
-  "contribution_count": 18,
+  "contribution_count": 19,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780088",
+          "item_id": "item-16317-261020-8",
+          "item_title_en": "8. Statement by the Cabinet Minister for Enterprise, Connectivity and Energy: Update on the National Energy Strategy",
+          "lang": "en",
+          "t_start": 20568,
+          "text_english": "Can I thank the Minister for today's statement? Plaid Cymru's manifesto policy establishes a clear presumption on undergrounding new electricity transmission cables up to 132 kV. I attended the recent Green GEN Cymru consultation in Llandovery, where all the plans showed miles and miles of pylons. One of my constituents reports that he received three different answers on the cost of undergrounding versus overgrounding from three different Green GEN officials: four times the cost, nine times the cost, and, 'I don't know because we haven't costed it'. If this is a proper business proposition, surely Green GEN should know what the cost is and not pure guesswork. Interestingly, the maps showed only a tiny amount of undergrounding near Llanarthne, where I believe several of Plaid's high-profile politicians reside. Minister, can you explain where you stand on undergrounding, as Green GEN does not appear to be listening?",
+          "text_original": "Can I thank the Minister for today's statement? Plaid Cymru's manifesto policy establishes a clear presumption on undergrounding new electricity transmission cables up to 132 kV. I attended the recent Green GEN Cymru consultation in Llandovery, where all the plans showed miles and miles of pylons. One of my constituents reports that he received three different answers on the cost of undergrounding versus overgrounding from three different Green GEN officials: four times the cost, nine times the cost, and, 'I don't know because we haven't costed it'. If this is a proper business proposition, surely Green GEN should know what the cost is and not pure guesswork. Interestingly, the maps showed only a tiny amount of undergrounding near Llanarthne, where I believe several of Plaid's high-profile politicians reside. Minister, can you explain where you stand on undergrounding, as Green GEN does not appear to be listening?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=20568"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
+    },
     {
       "contributions": [
         {

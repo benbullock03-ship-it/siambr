@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "abstain"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,24 @@
   "canonical_name": "Cristiana Emsley",
   "constituency_name_cy": "Fflint Wrecsam",
   "constituency_name_en": "Fflint Wrecsam",
-  "contribution_count": 42,
+  "contribution_count": 43,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780113",
+          "item_id": "item-16317-261020-9",
+          "item_title_en": "9. Legislative Consent Motion: The Cyber Security and Resilience (Network Information Systems) Bill",
+          "lang": "en",
+          "t_start": 21066,
+          "text_english": "Diolch, Lywydd. I thank the committee for its work on this legislative consent memorandum. Last week, I spoke in the debate on the consent motion for the Armed Forces Bill. The committee's report on the Cyber Security and Resilience (Network and Information Systems) Bill contains many of the same themes. We received the Cabinet Minister's response to our report last Thursday. While the committee may disagree with the responses to some recommendations, we nonetheless welcome the timely responses and we encourage other Welsh Ministers to follow suit.\n\nThe committee agrees with the Welsh Government's assessment about the provisions in the Bill that require the Senedd's consent. However, in our report, we ask whether consent should also be sought for clause 37(7) of the Bill. Changes to the relevant consultation requirement under clause 37 could affect a code issued by the Secretary of State under clause 36, and the Cabinet Minister believes consent is needed for clause 36. But the Cabinet Minister considered that the regulation-making power in clause 37(7) falls short of meeting the consent test in Standing Order 29.1. He told us it is not possible to conclude at this stage that the regulation-making power would be used to make provision that would affect consultation with regulators on codes of practice. He was also unable to conclude that, as a result of the changes made to the consultation requirements, provision would be made that would affect how regulators in Wales exercise their functions.\n\nThe Welsh Government's view on whether the Senedd should grant consent to the relevant provisions in a Bill is an important part of the legislative consent process, because it helps the Senedd committees make an informed decision on a consent motion. This memorandum did not include a recommendation on consent. We eventually received the recommendation in a letter on 28 September, in which the Cabinet Minister said that, as a result of engagement with the UK Government, he could now recommend the Senedd does consent to the relevant provisions in the Bill. We acknowledge this letter in our report, but we were not given full details of the inter-governmental discussion, and so we asked for those details. It is disappointing that, in responding to our report, the Cabinet Minister has only gone as far as to say the Welsh Government is satisfied that the Bill provides appropriate safeguards. So, we still don't have the details we requested.\n\nThe Bill confers several delegated powers on the Secretary of State to act in devolved areas. Members will be aware that, in July, the Welsh Government published its principles on UK legislation in devolved areas. The fourth principle states that delegated powers in UK legislation, including Henry VIII powers, should be conferred on the Welsh Ministers alone. The principle further states that any departure from this position needs to be justified by exceptional circumstances on a case-by-case basis. The committee could not identify the exceptional circumstances. In the memorandum, the Cabinet Minister himself calls them broad delegated Henry VIII powers. Members may know that the House of Lords Delegated Powers and Regulatory Reform Committee performs a similar role to that of the Legislation Committee. That committee has deemed two powers in the Bill, which are relevant to the Senedd's consent decision, as unacceptable. Again, the Cabinet Minister's responses to the committee's fifth and sixth recommendations are disappointingly sparse on detail. We asked for an explanation for the apparent breach of the Welsh Government's principles in relation to each delegated power in the Bill that may be used in a devolved area. The Cabinet Minister does not consider that the Welsh Government's principles have been breached and the committee has not received the explanations it asked for.\n\nAs for the report of the House of Lords committee, we thought it was fair to give the Cabinet Minister an opportunity to reflect on the concerns of that committee, and we invited him to comment. The Cabinet Minister did not comment, stating that the UK parliamentary committee is entitled to its views and it's the responsibility of the UK Government to consider those views. The Cabinet Minister may wish to reflect on his written response to the committee's report in his closing remarks. Diolch.",
+          "text_original": "Diolch, Lywydd. I thank the committee for its work on this legislative consent memorandum. Last week, I spoke in the debate on the consent motion for the Armed Forces Bill. The committee's report on the Cyber Security and Resilience (Network and Information Systems) Bill contains many of the same themes. We received the Cabinet Minister's response to our report last Thursday. While the committee may disagree with the responses to some recommendations, we nonetheless welcome the timely responses and we encourage other Welsh Ministers to follow suit.\n\nThe committee agrees with the Welsh Government's assessment about the provisions in the Bill that require the Senedd's consent. However, in our report, we ask whether consent should also be sought for clause 37(7) of the Bill. Changes to the relevant consultation requirement under clause 37 could affect a code issued by the Secretary of State under clause 36, and the Cabinet Minister believes consent is needed for clause 36. But the Cabinet Minister considered that the regulation-making power in clause 37(7) falls short of meeting the consent test in Standing Order 29.1. He told us it is not possible to conclude at this stage that the regulation-making power would be used to make provision that would affect consultation with regulators on codes of practice. He was also unable to conclude that, as a result of the changes made to the consultation requirements, provision would be made that would affect how regulators in Wales exercise their functions.\n\nThe Welsh Government's view on whether the Senedd should grant consent to the relevant provisions in a Bill is an important part of the legislative consent process, because it helps the Senedd committees make an informed decision on a consent motion. This memorandum did not include a recommendation on consent. We eventually received the recommendation in a letter on 28 September, in which the Cabinet Minister said that, as a result of engagement with the UK Government, he could now recommend the Senedd does consent to the relevant provisions in the Bill. We acknowledge this letter in our report, but we were not given full details of the inter-governmental discussion, and so we asked for those details. It is disappointing that, in responding to our report, the Cabinet Minister has only gone as far as to say the Welsh Government is satisfied that the Bill provides appropriate safeguards. So, we still don't have the details we requested.\n\nThe Bill confers several delegated powers on the Secretary of State to act in devolved areas. Members will be aware that, in July, the Welsh Government published its principles on UK legislation in devolved areas. The fourth principle states that delegated powers in UK legislation, including Henry VIII powers, should be conferred on the Welsh Ministers alone. The principle further states that any departure from this position needs to be justified by exceptional circumstances on a case-by-case basis. The committee could not identify the exceptional circumstances. In the memorandum, the Cabinet Minister himself calls them broad delegated Henry VIII powers. Members may know that the House of Lords Delegated Powers and Regulatory Reform Committee performs a similar role to that of the Legislation Committee. That committee has deemed two powers in the Bill, which are relevant to the Senedd's consent decision, as unacceptable. Again, the Cabinet Minister's responses to the committee's fifth and sixth recommendations are disappointingly sparse on detail. We asked for an explanation for the apparent breach of the Welsh Government's principles in relation to each delegated power in the Bill that may be used in a devolved area. The Cabinet Minister does not consider that the Welsh Government's principles have been breached and the committee has not received the explanations it asked for.\n\nAs for the report of the House of Lords committee, we thought it was fair to give the Cabinet Minister an opportunity to reflect on the concerns of that committee, and we invited him to comment. The Cabinet Minister did not comment, stating that the UK parliamentary committee is entitled to its views and it's the responsibility of the UK Government to consider those views. The Cabinet Minister may wish to reflect on his written response to the committee's report in his closing remarks. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=21066"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
+    },
     {
       "contributions": [
         {

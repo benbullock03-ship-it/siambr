@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,24 @@
   "canonical_name": "Elwyn Vaughan",
   "constituency_name_cy": "Gwynedd Maldwyn",
   "constituency_name_en": "Gwynedd Maldwyn",
-  "contribution_count": 26,
+  "contribution_count": 27,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780770",
+          "item_id": "item-16318-261021-8",
+          "item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+          "lang": "cy",
+          "t_start": 13315,
+          "text_english": "Thank you for tabling this debate today. As we've already heard, the statistics regarding the number of men who are impacted by this cruel disease every year cause quite a lot of concern. It's important to recognise that our rural communities are not immune to this challenge. Indeed, as noted in several studies, the burden can be particularly heavy for men in rural areas, where access to health services can be more challenging. A number of factors contribute to this: the distance that some men have to travel to reach a GP; concerns regarding the reduction in GP services, as we currently see in Powys; and the lack of public transport in rural areas. These barriers can all make it more difficult for men to access medical advice and that critical early diagnosis. \n\nIt isn't just the practical challenges that we have to tackle, either. Often, stigma and unwillingness to discuss personal health matters can also lead to delay. We know that some men in farming communities are more prepared to prioritise the health and welfare of their animals over their own. We need to change that. We must foster a culture where men feel comfortable speaking about their health and are willing to ask for advice when something worries them. \n\nA number of organisations do valuable work in tackling this stigma. Recent work by the FCN charity, in partnership with Macmillan, to draw attention to the challenges in terms of access to cancer services in rural areas is an important example of these efforts. By the same token, I was very pleased to see the FUW adopting Prostate Cymru as the union president’s charity this year. I very much hope that this partnership will help to reach more men in our farming communities and emphasise the importance of identifying potential symptoms and seeking prompt medical advice.\n\nIn order to ensure real change, it's vital that any strategy to increase awareness and improve access to diagnosis and treatment aligns with the Welsh Government's broader plans to improve rural health services. To this end, I very much hope that such a strategy will work hand in hand with the Welsh Government's progressive aspiration to establish a new rapid diagnosis centre in Powys.\n\nThis is an important development for the region. At present, some patients have to travel outside Powys to receive specialist assessments because there are no suitable diagnostic services available locally. This can mean long journeys, additional costs and further strain for patients and their families at a time already full of worry. A new centre would be an opportunity to improve access to timely assessments and reduce geographical barriers, and it would help to ensure that patients are examined as soon as possible. \n\nWe know that awareness and early diagnosis are vital in order to improve treatment outcomes for prostate cancer. By ensuring that the needs of rural communities are at the heart of any strategy, we can make a genuine difference to men’s lives the length and breadth of Wales. Thank you very much.",
+          "text_original": "Diolch am ddod â'r ddadl yma ymlaen heddiw. Fel rydym eisoes wedi'i glywed, mae'r ystadegau ynghylch nifer y dynion sy'n cael eu heffeithio gan y clefyd creulon hwn bob blwyddyn yn peri cryn bryder. Mae'n bwysig cydnabod nad yw ein cymunedau gwledig yn imiwn i'r her hon. Yn wir, fel nodai sawl astudiaeth, gall y baich fod yn arbennig o drwm ar ddynion mewn ardaloedd gwledig, lle gall mynediad at wasanaethau iechyd fod yn fwy heriol. Mae nifer o ffactorau'n cyfrannu at hyn: y pellter y mae'n rhaid i rai dynion ei deithio i gyrraedd meddygfa; y pryderon ynghylch y gostyngiad mewn gwasanaethau meddygon teulu, fel y gwelwn ym Mhowys ar hyn o bryd; a'r diffyg trafnidiaeth gyhoeddus mewn ardaloedd gwledig. Gall y rhwystrau hyn ei gwneud yn anoddach i ddynion gael cyngor meddygol a'r diagnosis cynnar hollbwysig.\n\nNid heriau ymarferol yn unig sydd angen inni fynd i'r afael â nhw, ychwaith. Yn aml, gall stigma ac amharodrwydd i drafod materion iechyd personol hefyd arwain at oedi. Gwyddom fod rhai dynion mewn cymunedau amaethyddol yn fwy parod i boeni am iechyd a lles eu hanifeiliaid nag am eu hiechyd eu hunain. Mae hynny'n rhywbeth y mae angen inni ei newid. Rhaid meithrin diwylliant lle gall dynion deimlo'n gyfforddus i siarad am eu hiechyd a bod yn barod i ofyn am gyngor pan fydd rhywbeth yn peri pryder iddynt.\n\nMae nifer o fudiadau eisoes yn gwneud gwaith gwerthfawr iawn i fynd i'r afael â'r stigma hwn. Mae gwaith diweddar elusen FCN, ar y cyd â Macmillan, i dynnu sylw at yr heriau o ran mynediad at wasanaethau canser mewn ardaloedd gwledig yn enghraifft bwysig o hynny. Yn yr un modd, roeddwn yn falch iawn o weld Undeb Amaethwyr Cymru yn mabwysiadu Prostate Cymru fel elusen llywydd yr undeb eleni. Gobeithiaf yn fawr bydd y bartneriaeth hon yn helpu i gyrraedd mwy o ddynion yn ein cymunedau ffermio a phwysleisio pwysigrwydd adnabod symptomau posibl a chanfod cyngor meddygol yn brydlon.\n\nEr mwyn sicrhau newid gwirioneddol, mae'n hanfodol bod unrhyw strategaeth i wella ymwybyddiaeth a mynediad at ddiagnosis a thriniaeth yn cyd-fynd â chynlluniau ehangach Llywodraeth Cymru i wella gwasanaethau iechyd gwledig. I'r perwyl hwn, rwy'n mawr obeithio y bydd strategaeth o'r fath yn gweithio law yn llaw â dyhead blaengar Llywodraeth Cymru i sefydlu canolfan diagnosis cyflym newydd ym Mhowys.\n\nMae hwn yn ddatblygiad pwysig i'r rhanbarth. Ar hyn o bryd, mae'n rhaid i rai cleifion deithio y tu allan i Bowys i gael asesiadau arbenigol, gan nad oes gwasanaethau diagnostig priodol ar gael yn lleol. Gall hyn olygu teithiau hir, costau ychwanegol a straen pellach i gleifion a'u teuluoedd ar adeg sydd eisoes yn llawn pryder. Byddai canolfan newydd yn gyfle i wella mynediad at asesiadau amserol, lleihau rhwystrau daearyddol, a helpu i sicrhau bod cleifion yn cael yr ymchwiliadau sydd eu hangen arnynt cyn gynted â phosibl.\n\nGwyddom fod ymwybyddiaeth a diagnosis cynnar yn hanfodol er mwyn gwella canlyniadau triniaeth ar gyfer canser y prostad. Drwy sicrhau bod anghenion cymunedau gwledig wrth galon unrhyw strategaeth, gallwn wneud gwahaniaeth gwirioneddol i fywydau dynion ledled Cymru. Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=13315"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
     {
       "contributions": [
         {

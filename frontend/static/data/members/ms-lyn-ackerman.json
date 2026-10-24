@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,34 @@
   "canonical_name": "Lyn Ackerman",
   "constituency_name_cy": "Casnewydd Islwyn",
   "constituency_name_en": "Casnewydd Islwyn",
-  "contribution_count": 14,
+  "contribution_count": 16,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780795",
+          "item_id": "item-16318-261021-9",
+          "item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+          "lang": "en",
+          "t_start": 15437,
+          "text_english": "Diolch, Lywydd. This is the first time I rise in this Chamber having to admit that I'm in awe of the Labour Party—for the barefaced cheek it takes to bring this motion to the floor of the Senedd, having cancelled the previous scheme in 2019. Let us not forget that, in Government, they spent £135 million not to build the very thing they are now demanding of Plaid Cymru today. Public money spent on a road that they cancelled, and I note that the leader of the Labour group was the transport Minister at the time. Labour cannot expect people to forget simply because they are now sitting on the opposition benches. Indeed, the public have not forgotten. For all of their online sham protests, I would suggest they read the comments from the public on their social media accounts.\n\nBurnham's branch office is entitled to argue for a different road, but it owes the people who paid for the last scheme an explanation of what it would do differently this time. Its motion gives us no way of knowing which road it means or how it would be funded. Labour needs to explain what its motion would add to the work Ministers have already announced. The Government has already accepted that road and engineering improvements are needed around Newport. It has announced an 18-month study to select a third—",
+          "text_original": "Diolch, Lywydd. This is the first time I rise in this Chamber having to admit that I'm in awe of the Labour Party—for the barefaced cheek it takes to bring this motion to the floor of the Senedd, having cancelled the previous scheme in 2019. Let us not forget that, in Government, they spent £135 million not to build the very thing they are now demanding of Plaid Cymru today. Public money spent on a road that they cancelled, and I note that the leader of the Labour group was the transport Minister at the time. Labour cannot expect people to forget simply because they are now sitting on the opposition benches. Indeed, the public have not forgotten. For all of their online sham protests, I would suggest they read the comments from the public on their social media accounts.\n\nBurnham's branch office is entitled to argue for a different road, but it owes the people who paid for the last scheme an explanation of what it would do differently this time. Its motion gives us no way of knowing which road it means or how it would be funded. Labour needs to explain what its motion would add to the work Ministers have already announced. The Government has already accepted that road and engineering improvements are needed around Newport. It has announced an 18-month study to select a third—",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=15437"
+        },
+        {
+          "id": "contribution-780846",
+          "item_id": "item-16318-261021-9",
+          "item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+          "lang": "en",
+          "t_start": 15538,
+          "text_english": "—road option alongside improvements to the existing motorway and public transport. The study needs to lead to a decision that Ministers can fund and carry through. I also expect progress on the existing network while this work takes place. People should be able to see what is being delivered within those 18 months and when they can expect to improve their journeys.\n\nFor people in Casnewydd Islwyn, the roads that lead to the M4 matter as much as the motorway itself. Changes at the Newport junction could affect journeys from the Valleys and put more traffic through residential areas. The Arup review warns that traffic could be displaced around Malpas, High Cross and Ridgeway, which affects noise and air quality. A proposal could therefore improve the flow of traffic on the motorway while making some local journeys worse. We need to know where that traffic would go and what the consequences would be for the people living around those routes. The Government has said that no decision to implement junction closures has been taken. It is committed to further traffic modelling before any decisions are made. I support the decision and look forward to seeing the updated data before the Government makes any final decision.\n\nBased on the evidence, I am supporting the amendment and urge Members to do the same. The electorate expect us to act in this Chamber on their behalf, and not descend into pantomime politics by pretending that the easy solution exists to solve complex problems. This is how we end up here in the first place.",
+          "text_original": "—road option alongside improvements to the existing motorway and public transport. The study needs to lead to a decision that Ministers can fund and carry through. I also expect progress on the existing network while this work takes place. People should be able to see what is being delivered within those 18 months and when they can expect to improve their journeys.\n\nFor people in Casnewydd Islwyn, the roads that lead to the M4 matter as much as the motorway itself. Changes at the Newport junction could affect journeys from the Valleys and put more traffic through residential areas. The Arup review warns that traffic could be displaced around Malpas, High Cross and Ridgeway, which affects noise and air quality. A proposal could therefore improve the flow of traffic on the motorway while making some local journeys worse. We need to know where that traffic would go and what the consequences would be for the people living around those routes. The Government has said that no decision to implement junction closures has been taken. It is committed to further traffic modelling before any decisions are made. I support the decision and look forward to seeing the updated data before the Government makes any final decision.\n\nBased on the evidence, I am supporting the amendment and urge Members to do the same. The electorate expect us to act in this Chamber on their behalf, and not descend into pantomime politics by pretending that the easy solution exists to solve complex problems. This is how we end up here in the first place.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=15538"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
     {
       "contributions": [
         {
@@ -760,10 +819,10 @@
           "item_id": "item-16317-261020-1",
           "item_title_en": "1. Questions to the First Minister",
           "lang": "en",
-          "t_start": 82,
-          "text_english": "First Minister, I welcome the inclusion of annual health checks in GP contracts and the new national pathway. Could you give me more detail on how the Welsh Government is working with the health boards and with GP practices to keep learning disability registers accurate, make invitations and appointments accessible and how these figures can guide further support to increase uptake?",
-          "text_original": "First Minister, I welcome the inclusion of annual health checks in GP contracts and the new national pathway. Could you give me more detail on how the Welsh Government is working with the health boards and with GP practices to keep learning disability registers accurate, make invitations and appointments accessible and how these figures can guide further support to increase uptake?",
-          "tv_url": "http://www.senedd.tv/en/16317?startPos=82"
+          "t_start": 84,
+          "text_english": "First Minister, I welcome the inclusion of annual health checks in GP contracts and the new national pathway. Could you give me more detail on how the Welsh Government is working with the health boards and with GP practices to keep learning disability registers accurate, make invitations and appointments accessible, and how these figures can guide further support to increase uptake?",
+          "text_original": "First Minister, I welcome the inclusion of annual health checks in GP contracts and the new national pathway. Could you give me more detail on how the Welsh Government is working with the health boards and with GP practices to keep learning disability registers accurate, make invitations and appointments accessible, and how these figures can guide further support to increase uptake?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=84"
         }
       ],
       "date": "2026-10-20",

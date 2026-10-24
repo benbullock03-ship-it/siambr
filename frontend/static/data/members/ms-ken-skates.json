@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,19 +774,175 @@
   "canonical_name": "Ken Skates",
   "constituency_name_cy": "Fflint Wrecsam",
   "constituency_name_en": "Fflint Wrecsam",
-  "contribution_count": 62,
+  "contribution_count": 77,
   "contributions_by_date": [
     {
       "contributions": [
+        {
+          "id": "contribution-780753",
+          "item_id": "item-16318-261021-8",
+          "item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+          "lang": "en",
+          "t_start": 12236,
+          "text_english": "Can I thank the Member for bringing forward this important debate today and also thank Paul Davies for sharing his experience and his insight into such an important subject matter? And as we've heard during this debate already, prostate cancer is the most common cancer amongst men in Wales and far too many families across the country have lost loved ones because a cancer diagnosis came too late. So, Welsh Labour strongly supports this motion and we join calls to include prostate cancer in the national cancer strategy for Wales. We wish to see a strategy that delivers better outcomes, improves support for cancer patients and builds on the progress made under the previous Welsh Labour Government.\n\nIn Government, Welsh Labour ensured that record numbers of people got the good news every year that they don't have cancer. We invested tens of millions of pounds in new cancer facilities, diagnostic equipment, treatments, technology and workforce development, and we started construction on the new Velindre Cancer Centre, which is opening next spring. We introduced a £2 million cancer recovery programme to improve how services are delivered, including a specific focus on urological cancers, and we took significant steps to improve cancer screening and early diagnosis. We expanded bowel cancer screening to everyone aged 50 to 74, and increased the sensitivity of the screening test. We also made Wales the first UK nation to introduce human papillomavirus testing as the primary cervical screening test. Furthermore, we announced a new national targeted lung cancer screening programme, and on all of those decisions, Welsh Labour were driven in our determination to deliver better health outcomes for families in Wales.",
+          "text_original": "Can I thank the Member for bringing forward this important debate today and also thank Paul Davies for sharing his experience and his insight into such an important subject matter? And as we've heard during this debate already, prostate cancer is the most common cancer amongst men in Wales and far too many families across the country have lost loved ones because a cancer diagnosis came too late. So, Welsh Labour strongly supports this motion and we join calls to include prostate cancer in the national cancer strategy for Wales. We wish to see a strategy that delivers better outcomes, improves support for cancer patients and builds on the progress made under the previous Welsh Labour Government.\n\nIn Government, Welsh Labour ensured that record numbers of people got the good news every year that they don't have cancer. We invested tens of millions of pounds in new cancer facilities, diagnostic equipment, treatments, technology and workforce development, and we started construction on the new Velindre Cancer Centre, which is opening next spring. We introduced a £2 million cancer recovery programme to improve how services are delivered, including a specific focus on urological cancers, and we took significant steps to improve cancer screening and early diagnosis. We expanded bowel cancer screening to everyone aged 50 to 74, and increased the sensitivity of the screening test. We also made Wales the first UK nation to introduce human papillomavirus testing as the primary cervical screening test. Furthermore, we announced a new national targeted lung cancer screening programme, and on all of those decisions, Welsh Labour were driven in our determination to deliver better health outcomes for families in Wales.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=12236"
+        },
+        {
+          "id": "contribution-780784",
+          "item_id": "item-16318-261021-8",
+          "item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+          "lang": "en",
+          "t_start": 12347,
+          "text_english": "Yes, of course.",
+          "text_original": "Yes, of course.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=12347"
+        },
+        {
+          "id": "contribution-780757",
+          "item_id": "item-16318-261021-8",
+          "item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+          "lang": "en",
+          "t_start": 12371,
+          "text_english": "We were certainly right to set very, very stretching targets for cancer. Obviously, we didn't meet them on all occasions, but I do not apologise for the stretching targets that we set. And of all of those decisions, as I say, Welsh Labour were driven at all times by the determination to deliver better health outcomes for the people that we served.\n\nNow, that's particularly relevant today. Decisions about screening programmes must always be based on the best available evidence. In this case, we know that the independent UK National Screening Committee does not recommend population-wide screening for prostate cancer. It advises that population-wide screening can cause more harm than good, because of the risks that include false positives and also the risk of providing false reassurances. Instead, they recommend targeted screening for prostate cancer, and, of course, the UK Labour Government has followed that advice.\n\nThe UK Labour Government has committed more than £20 million to improve prostate cancer research and treatment, including supporting the Transform trial, which aims to deliver better ways of detecting the disease. That research is particularly important for understanding how screening can better support black men who face a higher risk of developing prostate cancer. So, will the Minister now confirm that he too will follow the science and the Plaid Cymru Government will commit to introducing an evidence-based targeted prostate cancer screening programme in Wales, similar to that which the UK Labour Government has announced for England? If the Minister is unable to make that commitment today, he should set out his reasons in detail and explain why the Welsh Government is taking a decision that is not led by the evidence.\n\nI'd also urge the Minister to ensure that the national cancer strategy is focused squarely on outcomes and real-life improvements for patients, and that it builds on the measures delivered by the Welsh Labour Government. Because what matters is early diagnosis, faster treatment and better chances of survival for cancer patients. The Minister already has our support for the motion today. If he can make those further commitments on the national cancer strategy, and a targeted prostate cancer screening programme, he will have the full backing of Labour Members as he delivers those plans.",
+          "text_original": "We were certainly right to set very, very stretching targets for cancer. Obviously, we didn't meet them on all occasions, but I do not apologise for the stretching targets that we set. And of all of those decisions, as I say, Welsh Labour were driven at all times by the determination to deliver better health outcomes for the people that we served.\n\nNow, that's particularly relevant today. Decisions about screening programmes must always be based on the best available evidence. In this case, we know that the independent UK National Screening Committee does not recommend population-wide screening for prostate cancer. It advises that population-wide screening can cause more harm than good, because of the risks that include false positives and also the risk of providing false reassurances. Instead, they recommend targeted screening for prostate cancer, and, of course, the UK Labour Government has followed that advice.\n\nThe UK Labour Government has committed more than £20 million to improve prostate cancer research and treatment, including supporting the Transform trial, which aims to deliver better ways of detecting the disease. That research is particularly important for understanding how screening can better support black men who face a higher risk of developing prostate cancer. So, will the Minister now confirm that he too will follow the science and the Plaid Cymru Government will commit to introducing an evidence-based targeted prostate cancer screening programme in Wales, similar to that which the UK Labour Government has announced for England? If the Minister is unable to make that commitment today, he should set out his reasons in detail and explain why the Welsh Government is taking a decision that is not led by the evidence.\n\nI'd also urge the Minister to ensure that the national cancer strategy is focused squarely on outcomes and real-life improvements for patients, and that it builds on the measures delivered by the Welsh Labour Government. Because what matters is early diagnosis, faster treatment and better chances of survival for cancer patients. The Minister already has our support for the motion today. If he can make those further commitments on the national cancer strategy, and a targeted prostate cancer screening programme, he will have the full backing of Labour Members as he delivers those plans.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=12371"
+        },
+        {
+          "id": "contribution-780845",
+          "item_id": "item-16318-261021-9",
+          "item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+          "lang": "en",
+          "t_start": 15537,
+          "text_english": "Another review.",
+          "text_original": "Another review.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=15537"
+        },
+        {
+          "id": "contribution-780796",
+          "item_id": "item-16318-261021-9",
+          "item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+          "lang": "en",
+          "t_start": 15754,
+          "text_english": "It was me. It was actually the case that the entire project was in my name. I was the sponsor Minister taking it through the public inquiry that ruled, in the inspector's view, that it should go ahead. The decision was made on financial grounds and for the right reason. But I don't know whether you can see me through the script in your glasses, but can you just tell me whether your party still favours making motorists pay twice through taxes and then through tolls?",
+          "text_original": "It was me. It was actually the case that the entire project was in my name. I was the sponsor Minister taking it through the public inquiry that ruled, in the inspector's view, that it should go ahead. The decision was made on financial grounds and for the right reason. But I don't know whether you can see me through the script in your glasses, but can you just tell me whether your party still favours making motorists pay twice through taxes and then through tolls?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=15754"
+        },
+        {
+          "id": "contribution-780802",
+          "item_id": "item-16318-261021-9",
+          "item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+          "lang": "en",
+          "t_start": 15788,
+          "text_english": "You've been practising that one, haven't you?",
+          "text_original": "You've been practising that one, haven't you?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=15788"
+        },
+        {
+          "id": "contribution-780847",
+          "item_id": "item-16318-261021-9",
+          "item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+          "lang": "en",
+          "t_start": 15791,
+          "text_english": "You've rehearsed that.",
+          "text_original": "You've rehearsed that.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=15791"
+        },
+        {
+          "id": "contribution-780812",
+          "item_id": "item-16318-261021-9",
+          "item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+          "lang": "en",
+          "t_start": 15793,
+          "text_english": "Was that in a mirror or in your glasses? [Laughter.]",
+          "text_original": "Was that in a mirror or in your glasses? [Laughter.]",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=15793"
+        },
+        {
+          "id": "contribution-780824",
+          "item_id": "item-16318-261021-9",
+          "item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+          "lang": "en",
+          "t_start": 16578,
+          "text_english": "And do you know which Minister it was that ruled out those junction closure plans at the time?",
+          "text_original": "And do you know which Minister it was that ruled out those junction closure plans at the time?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=16578"
+        },
+        {
+          "id": "contribution-780826",
+          "item_id": "item-16318-261021-9",
+          "item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+          "lang": "en",
+          "t_start": 16587,
+          "text_english": "It was, indeed. Thank you.",
+          "text_original": "It was, indeed. Thank you.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=16587"
+        },
+        {
+          "id": "contribution-780829",
+          "item_id": "item-16318-261021-9",
+          "item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+          "lang": "en",
+          "t_start": 16598,
+          "text_english": "Thank you, Llywydd. Obviously, the subject matter of this debate actually predates devolution. It goes all the way back to the early 1990s, to the John Major Government, when there was failure to deliver back then. And of course, some in the Chamber were once Tories failing to deliver. But if we then move to 2019, of course, the planning inspector gave support to the proposed M4 relief lanes promoted through the public inquiry. But the decision made in 2019 not to go ahead with the relief lanes was for very good reason. The cost at the time, at a period of terrible uncertainty, was prohibitive. It was too much money at the time, with too few options available to pay for it. Costs, and estimated costs, had been rising during the course of development and reached £1.4 billion. At the time, we were planning for a no-deal Brexit, with funds being—[Interruption.]—this is a fact—with funds being prepared to help businesses, to help farmers, to help public services with the chaos that would have come. Instead, COVID came and wiped out our budgets.\n\nNow, I'm proud of the work that Lord Burns and the South East Wales Transport Commission did, as well as having secured the money for the south Wales relief line stations, including Cardiff Parkway. And I'm proud that we delivered the south Wales metro. But we now know for sure, because of the independent expert resilience study published this month, that if we wish to solve the problem of M4 congestion through Newport, no single or combined package of solutions will do.\n\nNow, it's worth Members knowing that 25 million km—25 million km—of new road will be built around the world between now and 2050. The M4 black route would have amounted to less than one-millionth of that amount. And that doesn't relieve us of our responsibilities to meet net-zero targets and to promote biodiversity, but it does show that even the most environmentally sensitive nations are building roads. The key is building better, and in suitable places, rather than in not building at all. Ecologists from around the world, from Cairns to Cambridge, are now agreeing that, built in the right way, roads can actually help nature and the environment. And this is why our motion states that a relief road must be appropriate. The policy and consenting environment has changed substantially since 2019, and a relief road would rightly have to meet far more stretching environmental challenges. Revising existing plans would provide an opportunity to include dedicated bus rapid transport and active travel routes along the M4. That would save more than £300 million from the proposed stand-alone bus rapid transport road from Newport to Cardiff. It could also be used as a global exemplar in the use of low-carbon materials, modular construction techniques, and world-leading environmental benefits. The world is building 25 million km of new road. In my view, we must help them build better by leading on sustainable infrastructure.\n\nNow, pages 27-29 of the independent report published this month show how economic growth and investment in road transport infrastructure are tightly coupled together—this is a fact—where an economy is weighted towards manufacturing, logistics, agriculture, construction, automotive and aerospace sectors, the very sectors that drive the future of the Welsh economy. So, whether we like it or not, unless the economy of Wales is changed dramatically and fast, its future growth or contraction is inextricably linked to road transport. Where we are today is a world away from 2019. We have greater economic stability—",
+          "text_original": "Thank you, Llywydd. Obviously, the subject matter of this debate actually predates devolution. It goes all the way back to the early 1990s, to the John Major Government, when there was failure to deliver back then. And of course, some in the Chamber were once Tories failing to deliver. But if we then move to 2019, of course, the planning inspector gave support to the proposed M4 relief lanes promoted through the public inquiry. But the decision made in 2019 not to go ahead with the relief lanes was for very good reason. The cost at the time, at a period of terrible uncertainty, was prohibitive. It was too much money at the time, with too few options available to pay for it. Costs, and estimated costs, had been rising during the course of development and reached £1.4 billion. At the time, we were planning for a no-deal Brexit, with funds being—[Interruption.]—this is a fact—with funds being prepared to help businesses, to help farmers, to help public services with the chaos that would have come. Instead, COVID came and wiped out our budgets.\n\nNow, I'm proud of the work that Lord Burns and the South East Wales Transport Commission did, as well as having secured the money for the south Wales relief line stations, including Cardiff Parkway. And I'm proud that we delivered the south Wales metro. But we now know for sure, because of the independent expert resilience study published this month, that if we wish to solve the problem of M4 congestion through Newport, no single or combined package of solutions will do.\n\nNow, it's worth Members knowing that 25 million km—25 million km—of new road will be built around the world between now and 2050. The M4 black route would have amounted to less than one-millionth of that amount. And that doesn't relieve us of our responsibilities to meet net-zero targets and to promote biodiversity, but it does show that even the most environmentally sensitive nations are building roads. The key is building better, and in suitable places, rather than in not building at all. Ecologists from around the world, from Cairns to Cambridge, are now agreeing that, built in the right way, roads can actually help nature and the environment. And this is why our motion states that a relief road must be appropriate. The policy and consenting environment has changed substantially since 2019, and a relief road would rightly have to meet far more stretching environmental challenges. Revising existing plans would provide an opportunity to include dedicated bus rapid transport and active travel routes along the M4. That would save more than £300 million from the proposed stand-alone bus rapid transport road from Newport to Cardiff. It could also be used as a global exemplar in the use of low-carbon materials, modular construction techniques, and world-leading environmental benefits. The world is building 25 million km of new road. In my view, we must help them build better by leading on sustainable infrastructure.\n\nNow, pages 27-29 of the independent report published this month show how economic growth and investment in road transport infrastructure are tightly coupled together—this is a fact—where an economy is weighted towards manufacturing, logistics, agriculture, construction, automotive and aerospace sectors, the very sectors that drive the future of the Welsh economy. So, whether we like it or not, unless the economy of Wales is changed dramatically and fast, its future growth or contraction is inextricably linked to road transport. Where we are today is a world away from 2019. We have greater economic stability—",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=16598"
+        },
+        {
+          "id": "contribution-780816",
+          "item_id": "item-16318-261021-9",
+          "item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+          "lang": "en",
+          "t_start": 16843,
+          "text_english": "—in a moment—a UK Government that's growing, more Welsh Government borrowing powers, more finance options available, and, of course, an established corporate joint committee in the region to make a decision on the M4 for the region. And we now have an indisputable, independent expert evidence-led study that concludes that only an appropriate relief road will meet the needs of the people we serve.\n\nNow, it's my firm belief that tackling climate change and tackling economic decline are not mutually exclusive objectives for a Government. To claim that they are is to promote an absolutist argument that divides and damages society. And, as leading ecologists are now agreeing, building better roads can actually help the planet as well as the economy. Let's be open minded, evidence based, ambitious and responsible and unite in building better infrastructure that combats climate change and economic decline. Diolch.",
+          "text_original": "—in a moment—a UK Government that's growing, more Welsh Government borrowing powers, more finance options available, and, of course, an established corporate joint committee in the region to make a decision on the M4 for the region. And we now have an indisputable, independent expert evidence-led study that concludes that only an appropriate relief road will meet the needs of the people we serve.\n\nNow, it's my firm belief that tackling climate change and tackling economic decline are not mutually exclusive objectives for a Government. To claim that they are is to promote an absolutist argument that divides and damages society. And, as leading ecologists are now agreeing, building better roads can actually help the planet as well as the economy. Let's be open minded, evidence based, ambitious and responsible and unite in building better infrastructure that combats climate change and economic decline. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=16843"
+        },
+        {
+          "id": "contribution-780830",
+          "item_id": "item-16318-261021-9",
+          "item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+          "lang": "en",
+          "t_start": 17260,
+          "text_english": "Will you take an intervention?",
+          "text_original": "Will you take an intervention?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=17260"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-779921",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 1083,
+          "text_english": "Diolch, Lywydd. I'd also like to pay tribute to the community of Aberfan, as we remember one of Wales's worst ever tragedies.\n\nFirst Minister, our democracy is facing unprecedented attacks through the spread of misinformation and disinformation. So-called bots and algorithms are a threat to open-mindedness, and I'd urge you to ask UK intelligence chiefs whether there's any evidence emerging of any recent interference in Welsh democracy. But, of course, the greatest defence against this is the objective truth provided by truly independent journalism. The BBC in Wales must be protected from the recently announced cuts. Our democracy needs impartial and independent news more than ever before, and I'm amazed that we haven't had an opportunity to debate or discuss the threats posed to the BBC in Wales. First Minister, what are you doing to save jobs at BBC Wales?",
+          "text_original": "Diolch, Lywydd. I'd also like to pay tribute to the community of Aberfan, as we remember one of Wales's worst ever tragedies.\n\nFirst Minister, our democracy is facing unprecedented attacks through the spread of misinformation and disinformation. So-called bots and algorithms are a threat to open-mindedness, and I'd urge you to ask UK intelligence chiefs whether there's any evidence emerging of any recent interference in Welsh democracy. But, of course, the greatest defence against this is the objective truth provided by truly independent journalism. The BBC in Wales must be protected from the recently announced cuts. Our democracy needs impartial and independent news more than ever before, and I'm amazed that we haven't had an opportunity to debate or discuss the threats posed to the BBC in Wales. First Minister, what are you doing to save jobs at BBC Wales?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=1083"
+        },
         {
           "id": "contribution-779736",
           "item_id": "item-16317-261020-1",
           "item_title_en": "1. Questions to the First Minister",
           "lang": "en",
-          "t_start": 1200,
-          "text_english": "First Minister, I don't think we can wait for the devolution of broadcasting, and, indeed, devolution of broadcasting in itself will not protect BBC Wales from cuts being imposed by the board centrally in London. It needs protection right now. We shouldn't have radio silence from the Welsh Government over what's happening at the BBC. It's as though Ministers are content to sit on their hands whilst our democracy is weakened. \n\nNow another issue over which Plaid Cymru members sat on their hands is the Hillsborough law. In the last Senedd term, your party abstained on a crucial consent motion. When the matter returns to this Chamber, will you commit to vote with Welsh Labour and support the fight for justice for the 97 and their families?",
-          "text_original": "First Minister, I don't think we can wait for the devolution of broadcasting, and, indeed, devolution of broadcasting in itself will not protect BBC Wales from cuts being imposed by the board centrally in London. It needs protection right now. We shouldn't have radio silence from the Welsh Government over what's happening at the BBC. It's as though Ministers are content to sit on their hands whilst our democracy is weakened. \n\nNow another issue over which Plaid Cymru members sat on their hands is the Hillsborough law. In the last Senedd term, your party abstained on a crucial consent motion. When the matter returns to this Chamber, will you commit to vote with Welsh Labour and support the fight for justice for the 97 and their families?",
-          "tv_url": "http://www.senedd.tv/en/16317?startPos=1200"
+          "t_start": 1202,
+          "text_english": "First Minister, I don't think we can wait for the devolution of broadcasting, and, indeed, devolution of broadcasting in itself will not protect BBC Wales from cuts being imposed by the board centrally in London. It needs protection right now. We shouldn't have radio silence from the Welsh Government over what's happening at the BBC. It's as though Ministers are content to sit on their hands whilst our democracy is weakened.\n\nNow, another issue over which Plaid Cymru Members sat on their hands is the Hillsborough law. In the last Senedd term, your party abstained on a crucial consent motion. When the matter returns to this Chamber, will you commit to vote with Welsh Labour and support the fight for justice for the 97 and their families?",
+          "text_original": "First Minister, I don't think we can wait for the devolution of broadcasting, and, indeed, devolution of broadcasting in itself will not protect BBC Wales from cuts being imposed by the board centrally in London. It needs protection right now. We shouldn't have radio silence from the Welsh Government over what's happening at the BBC. It's as though Ministers are content to sit on their hands whilst our democracy is weakened.\n\nNow, another issue over which Plaid Cymru Members sat on their hands is the Hillsborough law. In the last Senedd term, your party abstained on a crucial consent motion. When the matter returns to this Chamber, will you commit to vote with Welsh Labour and support the fight for justice for the 97 and their families?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=1202"
+        },
+        {
+          "id": "contribution-779998",
+          "item_id": "item-16317-261020-4",
+          "item_title_en": "4. Statement by the First Minister: 60th Anniversary of the Aberfan Disaster",
+          "lang": "en",
+          "t_start": 10160,
+          "text_english": "First Minister, I commend and thank you for your statement today and all Members for their powerful contributions. To their credit, and to this day, leaders from across Wales, across the UK and from around the world continue to visit Aberfan to commemorate our loss and to give comfort to the community. The visit of the Prime Minister yesterday had a special resonance for him given his experience of the Hillsborough disaster. Hillsborough was a formative experience for him, because officialdom contributed to the making of the disaster and then sought to cover up the cause. It's with great regret that we reflect that the Aberfan disaster could have been averted if officialdom had listened to the local community. May we never forget the lives that were lost. May we never forget the families who continue to carry their memory and may the story of Aberfan continue to remind us of the value of every life, the strength of community and the importance of compassion. Their memory remains part of the story of Wales and their loss will never be forgotten.\n\nFirst Minister, in your view, how else, what more can we do to remember them through the curriculum and through wider civic society? Would you agree perhaps to invite ideas and suggestions for deepening our remembrance from members of the public? Diolch.",
+          "text_original": "First Minister, I commend and thank you for your statement today and all Members for their powerful contributions. To their credit, and to this day, leaders from across Wales, across the UK and from around the world continue to visit Aberfan to commemorate our loss and to give comfort to the community. The visit of the Prime Minister yesterday had a special resonance for him given his experience of the Hillsborough disaster. Hillsborough was a formative experience for him, because officialdom contributed to the making of the disaster and then sought to cover up the cause. It's with great regret that we reflect that the Aberfan disaster could have been averted if officialdom had listened to the local community. May we never forget the lives that were lost. May we never forget the families who continue to carry their memory and may the story of Aberfan continue to remind us of the value of every life, the strength of community and the importance of compassion. Their memory remains part of the story of Wales and their loss will never be forgotten.\n\nFirst Minister, in your view, how else, what more can we do to remember them through the curriculum and through wider civic society? Would you agree perhaps to invite ideas and suggestions for deepening our remembrance from members of the public? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=10160"
         }
       ],
       "date": "2026-10-20",

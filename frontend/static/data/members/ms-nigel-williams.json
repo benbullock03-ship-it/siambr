@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "abstain"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,34 @@
   "canonical_name": "Nigel Williams",
   "constituency_name_cy": "Fflint Wrecsam",
   "constituency_name_en": "Fflint Wrecsam",
-  "contribution_count": 25,
+  "contribution_count": 27,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-779925",
+          "item_id": "item-16317-261020-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 6924,
+          "text_english": "I ask the Welsh Government for a statement on capital investment into north Wales's civic and sporting infrastructure, specifically regarding the urgent need for a 50m Olympic-sized swimming pool. Currently, Wales has just two 50m facilities—one in Cardiff and one in Swansea; and from Holyhead right along the A55 corridor there is not a single one. Our young, talented athletes and their families are forced to make multi-hour round trips across the border into England several times a week just to train on equal terms with their peers. With 80 per cent of Welsh public pools over 20 years old—and I can tell you that for a fact because I worked in one many years ago—and Betsi Cadwaladr under immense strain, a modern aquatics hub would deliver a vital preventative health dividend and teach life-saving skills.\n\nWill the Trefnydd arrange for the Welsh Government, alongside Sport Wales, Swim Wales and local authorities, to commission a formal feasibility study to finally deliver regional equity for north Wales and commit the Welsh Government to putting an end to years of regional underinvestment, get this project on the table and deliver the fair funding and preventative healthcare infrastructure that the people of north Wales deserve? Diolch.",
+          "text_original": "I ask the Welsh Government for a statement on capital investment into north Wales's civic and sporting infrastructure, specifically regarding the urgent need for a 50m Olympic-sized swimming pool. Currently, Wales has just two 50m facilities—one in Cardiff and one in Swansea; and from Holyhead right along the A55 corridor there is not a single one. Our young, talented athletes and their families are forced to make multi-hour round trips across the border into England several times a week just to train on equal terms with their peers. With 80 per cent of Welsh public pools over 20 years old—and I can tell you that for a fact because I worked in one many years ago—and Betsi Cadwaladr under immense strain, a modern aquatics hub would deliver a vital preventative health dividend and teach life-saving skills.\n\nWill the Trefnydd arrange for the Welsh Government, alongside Sport Wales, Swim Wales and local authorities, to commission a formal feasibility study to finally deliver regional equity for north Wales and commit the Welsh Government to putting an end to years of regional underinvestment, get this project on the table and deliver the fair funding and preventative healthcare infrastructure that the people of north Wales deserve? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=6924"
+        },
+        {
+          "id": "contribution-780058",
+          "item_id": "item-16317-261020-6",
+          "item_title_en": "6. Statement by the Deputy Minister for Social Care, Mental Health and Women’s Health: Update on the National Care Service Programme",
+          "lang": "en",
+          "t_start": 14839,
+          "text_english": "I'd like to reiterate my praise for the hard work of carers right across Wales, and unpaid carers as well. We keep hearing ambitious promises about a national care and support service, yet front-line social care in places such as Flintshire and Wrexham remains under severe pressure. Around 1,300 to 1,400 patients across Wales are waiting in hospital despite being medically fit for discharge because the care packages and supported accommodation they need are simply not available. In north Wales, those pressures are felt particularly acutely as Betsi Cadwaladr continues to face significant challenges. While care providers struggle with workforce shortages, rising demand and commissioning pressures cause problems.\n\nDeputy Minister, much of your statement, as stated by Natasha Asghar, focuses on new structures, leadership arrangements, intelligence hubs, academies and national conversations, but for the families waiting for support and patients stuck in hospital beds, those initiatives will mean little unless they deliver real improvements on the ground. So, my question is: given that you say success should be measured not by structures you created, but by whether people can access the right support at the right time, when can older and vulnerable people across Wales expect to see a measurable increase in the front-line care capacity, a reduction in delayed hospital discharges and better access to the care and support they need, rather than more administration, new bodies and further planning?",
+          "text_original": "I'd like to reiterate my praise for the hard work of carers right across Wales, and unpaid carers as well. We keep hearing ambitious promises about a national care and support service, yet front-line social care in places such as Flintshire and Wrexham remains under severe pressure. Around 1,300 to 1,400 patients across Wales are waiting in hospital despite being medically fit for discharge because the care packages and supported accommodation they need are simply not available. In north Wales, those pressures are felt particularly acutely as Betsi Cadwaladr continues to face significant challenges. While care providers struggle with workforce shortages, rising demand and commissioning pressures cause problems.\n\nDeputy Minister, much of your statement, as stated by Natasha Asghar, focuses on new structures, leadership arrangements, intelligence hubs, academies and national conversations, but for the families waiting for support and patients stuck in hospital beds, those initiatives will mean little unless they deliver real improvements on the ground. So, my question is: given that you say success should be measured not by structures you created, but by whether people can access the right support at the right time, when can older and vulnerable people across Wales expect to see a measurable increase in the front-line care capacity, a reduction in delayed hospital discharges and better access to the care and support they need, rather than more administration, new bodies and further planning?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=14839"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
+    },
     {
       "contributions": [
         {

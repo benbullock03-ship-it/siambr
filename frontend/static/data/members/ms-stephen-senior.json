@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,64 @@
   "canonical_name": "Stephen Senior",
   "constituency_name_cy": "Sir Fynwy Torfaen",
   "constituency_name_en": "Sir Fynwy Torfaen",
-  "contribution_count": 20,
+  "contribution_count": 25,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780546",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "en",
+          "t_start": 3793,
+          "text_english": "Thank you, Deputy Presiding Officer. Cabinet Minister, additional learning needs funding remains a contentious issue, with a debate scheduled next month in response to a petition. ALN funding by the Welsh Government is up 14 per cent on last year, and has more than doubled in eight years. Inflation over that period has been around 35 per cent. The percentage of the education budget assigned to ALN has risen from just below 15 per cent to nearly 19 per cent over the same period. At local authority level, there have been huge variations, with increases over the last decade ranging from 65 per cent to 297 per cent. One authority now spends more than a quarter of its education budget on ALN. These figures suggest that there has been a rapid change within Welsh education. Whatever is happening looks unsustainable in terms of funding. Minister, what are your thoughts on the reasons for this ALN spending trajectory?",
+          "text_original": "Thank you, Deputy Presiding Officer. Cabinet Minister, additional learning needs funding remains a contentious issue, with a debate scheduled next month in response to a petition. ALN funding by the Welsh Government is up 14 per cent on last year, and has more than doubled in eight years. Inflation over that period has been around 35 per cent. The percentage of the education budget assigned to ALN has risen from just below 15 per cent to nearly 19 per cent over the same period. At local authority level, there have been huge variations, with increases over the last decade ranging from 65 per cent to 297 per cent. One authority now spends more than a quarter of its education budget on ALN. These figures suggest that there has been a rapid change within Welsh education. Whatever is happening looks unsustainable in terms of funding. Minister, what are your thoughts on the reasons for this ALN spending trajectory?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=3793"
+        },
+        {
+          "id": "contribution-780533",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "en",
+          "t_start": 3978,
+          "text_english": "Okay, thank you, Minister. I see that later on there's a question regarding teachers leaving the profession. Surveys show that poor pupil behaviour is a factor. However, Plaid's recent programme for government, whilst acknowledging workload concerns, makes no mention of behaviour.\n\nStaff working in schools have a legal right to use reasonable force to control or restrain pupils. Welsh Government guidance explicitly states that no school should have a 'no physical contact' policy. However, there are still occasions when school staff face lengthy investigations and possible suspension for having operated within the law. This can have a devastating impact on both them and pupil behaviour in the school, whenever staff, unsurprisingly, decide that no physical intervention is their best policy.\n\nMinister, will you ask your officials to establish whether schools are advising staff on their legal right to use reasonable force and whether disciplinary processes are being initiated despite staff having operated within the law?",
+          "text_original": "Okay, thank you, Minister. I see that later on there's a question regarding teachers leaving the profession. Surveys show that poor pupil behaviour is a factor. However, Plaid's recent programme for government, whilst acknowledging workload concerns, makes no mention of behaviour.\n\nStaff working in schools have a legal right to use reasonable force to control or restrain pupils. Welsh Government guidance explicitly states that no school should have a 'no physical contact' policy. However, there are still occasions when school staff face lengthy investigations and possible suspension for having operated within the law. This can have a devastating impact on both them and pupil behaviour in the school, whenever staff, unsurprisingly, decide that no physical intervention is their best policy.\n\nMinister, will you ask your officials to establish whether schools are advising staff on their legal right to use reasonable force and whether disciplinary processes are being initiated despite staff having operated within the law?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=3978"
+        },
+        {
+          "id": "contribution-780547",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "en",
+          "t_start": 4124,
+          "text_english": "Okay, thank you, Minister. Finally, the national literacy and numeracy assessments are online and personalised to each pupil. So, they're rather like a flow chart, where the next question depends on the answers to the last one. These tests can be taken whenever the school feels it's appropriate. Pupils can take time out during the assessments, and pupils are permitted to repeat the exercise any time. This is not a standardised test where all pupils in a cohort take the same test at the same time of the year so that judgments can be made about pupil and school standards, including progress.\n\nThis is what the tests were originally designed to do when Leighton Andrews introduced them, and that is what happened when the tests were introduced in 2014. This adaptive system, as it's called, has been in place for a decade, but has clearly not led to any improvements in the Programme for International Student Assessment results. Minister, will you reintroduce standardised literacy and numeracy tests to be used by all pupils annually at the end of year 2 to year 9?",
+          "text_original": "Okay, thank you, Minister. Finally, the national literacy and numeracy assessments are online and personalised to each pupil. So, they're rather like a flow chart, where the next question depends on the answers to the last one. These tests can be taken whenever the school feels it's appropriate. Pupils can take time out during the assessments, and pupils are permitted to repeat the exercise any time. This is not a standardised test where all pupils in a cohort take the same test at the same time of the year so that judgments can be made about pupil and school standards, including progress.\n\nThis is what the tests were originally designed to do when Leighton Andrews introduced them, and that is what happened when the tests were introduced in 2014. This adaptive system, as it's called, has been in place for a decade, but has clearly not led to any improvements in the Programme for International Student Assessment results. Minister, will you reintroduce standardised literacy and numeracy tests to be used by all pupils annually at the end of year 2 to year 9?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=4124"
+        },
+        {
+          "id": "contribution-780895",
+          "item_id": "item-16318-261021-9",
+          "item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+          "lang": "en",
+          "t_start": 18362,
+          "text_english": "Will you take an intervention?",
+          "text_original": "Will you take an intervention?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=18362"
+        },
+        {
+          "id": "contribution-781027",
+          "item_id": "item-16318-261021-11",
+          "item_title_en": "10. Short Debate: Full-face coverings are against British values",
+          "lang": "en",
+          "t_start": 20585,
+          "text_english": "Just a point of order, Presiding Officer—[Inaudible.]—review, after what's been said in the last 60 seconds or so, to decide whether that's appropriate for the Chamber.",
+          "text_original": "Just a point of order, Presiding Officer—[Inaudible.]—review, after what's been said in the last 60 seconds or so, to decide whether that's appropriate for the Chamber.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=20585"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
     {
       "contributions": [
         {

@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,34 @@
   "canonical_name": "Marc Jones",
   "constituency_name_cy": "Fflint Wrecsam",
   "constituency_name_en": "Fflint Wrecsam",
-  "contribution_count": 22,
+  "contribution_count": 24,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-779775",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "6. What action is the Welsh Government taking to improve public transport services in rural areas of Fflint Wrecsam? OQ64787",
+          "text_original": "6. Pa gamau mae Llywodraeth Cymru yn eu cymryd i wella gwasanaethau trafnidiaeth gyhoeddus mewn ardaloedd gwledig yn Fflint Wrecsam? OQ64787",
+          "tv_url": "http://www.senedd.tv/en/16317"
+        },
+        {
+          "id": "contribution-779781",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 2689,
+          "text_english": "Diolch, Lywydd. Diolch, Brif Weinidog. Residents in rural Flintshire villages such as Llanfynydd and Penyffordd feel increasingly frustrated by the lack of reliable bus services. They're sporadic at best, and they're also under threat. For any vibrant community, that simply isn't good enough. This is about more than bus timetables; this is about people's independence, it's their ability to get to hospital, to get to work, to see friends and family, to live their day-to-day lives. Some of you might think that Fflint Wrecsam is an urban area, but I can tell you there are rural pockets in my constituency that feel as excluded and isolated as any in Wales. For some, especially the elderly, these barriers of transport can leave them feeling isolated with limited options to get around. So, will the First Minister outline what work is being done with Transport for Wales to protect and improve rural bus services to ensure these communities can access public transport easily and effectively?",
+          "text_original": "Diolch, Lywydd. Diolch, Brif Weinidog. Residents in rural Flintshire villages such as Llanfynydd and Penyffordd feel increasingly frustrated by the lack of reliable bus services. They're sporadic at best, and they're also under threat. For any vibrant community, that simply isn't good enough. This is about more than bus timetables; this is about people's independence, it's their ability to get to hospital, to get to work, to see friends and family, to live their day-to-day lives. Some of you might think that Fflint Wrecsam is an urban area, but I can tell you there are rural pockets in my constituency that feel as excluded and isolated as any in Wales. For some, especially the elderly, these barriers of transport can leave them feeling isolated with limited options to get around. So, will the First Minister outline what work is being done with Transport for Wales to protect and improve rural bus services to ensure these communities can access public transport easily and effectively?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=2689"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
+    },
     {
       "contributions": [
         {

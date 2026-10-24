@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,24 @@
   "canonical_name": "Gareth Beer",
   "constituency_name_cy": "Sir Gaerfyrddin",
   "constituency_name_en": "Sir Gaerfyrddin",
-  "contribution_count": 20,
+  "contribution_count": 21,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780727",
+          "item_id": "item-16318-261021-7",
+          "item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+          "lang": "en",
+          "t_start": 10104,
+          "text_english": "I believe that the NHS first Bill has worthy ambitions, as long as the NHS is able to deliver the care when required. All my constituents ask for is a local medical centre or a hospital that can treat them quickly, with local expertise.\n\nGwyn Williams has often talked about how health board boundaries stop the movement of patients, staff and experts. This means that services are fragmented, duplicated and delayed. Patients should not be refused access simply because they live on the wrong side of a health board boundary. There must be no postcode lottery in treatment or outcomes. The ministerial advisory group recognised last year that de facto regional arrangements are already widely established and called for stronger regional working.\n\nTo support the Bill, there is clear need for more medical staff. I welcome the Government's announcement of 253 additional graduate nursing jobs recently, but the Royal College of Nursing has said that the uncertainty has caused a huge reduction in people accepting nursing degrees in Wales.\n\nThis Bill should also call for greater transparency. Health boards should publish clear information about the use of private providers, including costs, activities and outcomes. That would allow the public to judge whether spending leads to permanent NHS capacity or just short-term solutions. An NHS first approach must have stronger accountability. For too long, the Welsh Government has taken a hands-off approach to NHS management. Ministers must exercise firmer oversight and set clear expectations when performance, decision making or patient safety falls short. Successful practices should be shared across Wales. Our NHS needs management that is results driven, not process driven. We must allow our front-line health professionals to concentrate on what matters most: their patients.\n\nWhat's needed is faster treatment, safer care and better use of public money. It is about building capacity and resilience within a national health service that belongs to us all. Let us put the NHS first, break down the barriers that delay care, strengthen democratic oversight and ensure that every decision begins and ends with what is best for the patients in Wales. Diolch yn fawr.",
+          "text_original": "I believe that the NHS first Bill has worthy ambitions, as long as the NHS is able to deliver the care when required. All my constituents ask for is a local medical centre or a hospital that can treat them quickly, with local expertise.\n\nGwyn Williams has often talked about how health board boundaries stop the movement of patients, staff and experts. This means that services are fragmented, duplicated and delayed. Patients should not be refused access simply because they live on the wrong side of a health board boundary. There must be no postcode lottery in treatment or outcomes. The ministerial advisory group recognised last year that de facto regional arrangements are already widely established and called for stronger regional working.\n\nTo support the Bill, there is clear need for more medical staff. I welcome the Government's announcement of 253 additional graduate nursing jobs recently, but the Royal College of Nursing has said that the uncertainty has caused a huge reduction in people accepting nursing degrees in Wales.\n\nThis Bill should also call for greater transparency. Health boards should publish clear information about the use of private providers, including costs, activities and outcomes. That would allow the public to judge whether spending leads to permanent NHS capacity or just short-term solutions. An NHS first approach must have stronger accountability. For too long, the Welsh Government has taken a hands-off approach to NHS management. Ministers must exercise firmer oversight and set clear expectations when performance, decision making or patient safety falls short. Successful practices should be shared across Wales. Our NHS needs management that is results driven, not process driven. We must allow our front-line health professionals to concentrate on what matters most: their patients.\n\nWhat's needed is faster treatment, safer care and better use of public money. It is about building capacity and resilience within a national health service that belongs to us all. Let us put the NHS first, break down the barriers that delay care, strengthen democratic oversight and ensure that every decision begins and ends with what is best for the patients in Wales. Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=10104"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
     {
       "contributions": [
         {

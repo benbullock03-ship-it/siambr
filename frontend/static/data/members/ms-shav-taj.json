@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,7 +774,7 @@
   "canonical_name": "Shav Taj",
   "constituency_name_cy": "Caerdydd Ffynnon Taf",
   "constituency_name_en": "Caerdydd Ffynnon Taf",
-  "contribution_count": 59,
+  "contribution_count": 62,
   "contributions_by_date": [
     {
       "contributions": [
@@ -750,10 +783,40 @@
           "item_id": "item-16318-261021-2",
           "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
           "lang": "en",
-          "t_start": 1382,
-          "text_english": "We've been talking about data, and of course data centres have been in the news quite a lot recently. The planning Minister recently responded to a written question of mine stating that the current system for approving data centres has robust checks and balances in place to ensure their environmental and community impacts are properly considered. Does the Cabinet Minister agree with the planning Minister? If the current system is robust for all data centre applications, why is his Government writing a data centre framework?",
-          "text_original": "We've been talking about data, and of course data centres have been in the news quite a lot recently. The planning Minister recently responded to a written question of mine stating that the current system for approving data centres has robust checks and balances in place to ensure their environmental and community impacts are properly considered. Does the Cabinet Minister agree with the planning Minister? If the current system is robust for all data centre applications, why is his Government writing a data centre framework?",
-          "tv_url": "http://www.senedd.tv/en/16318?startPos=1382"
+          "t_start": 1383,
+          "text_english": "We've been talking about data, and of course data centres have been in the news quite a lot recently. The planning Minister recently responded to a written question of mine stating that the current system for approving data centres has robust checks and balances in place to ensure that their environmental and community impacts are properly considered. Now, does the Cabinet Minister agree with the planning Minister? And, if the current system is robust for all data centre applications, why is his Government then writing a data centre framework?",
+          "text_original": "We've been talking about data, and of course data centres have been in the news quite a lot recently. The planning Minister recently responded to a written question of mine stating that the current system for approving data centres has robust checks and balances in place to ensure that their environmental and community impacts are properly considered. Now, does the Cabinet Minister agree with the planning Minister? And, if the current system is robust for all data centre applications, why is his Government then writing a data centre framework?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=1383"
+        },
+        {
+          "id": "contribution-780673",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 6847,
+          "text_english": "As Sera clearly points out, Welsh Government policy is very clear that safeguarding is everyone's responsibility. So, if safeguarding training is expected across so many other areas of public service, why should those seeking help from their elected representatives expect anything less? Therefore, does the Commission agree that safeguarding training is essential not only to help Members and their staff recognise the signs of abuse, neglect or exploitation, but also to give the public confidence that they will be treated safely, fairly and consistently by any Member, as elected representatives, and their staff, of course, too?",
+          "text_original": "As Sera clearly points out, Welsh Government policy is very clear that safeguarding is everyone's responsibility. So, if safeguarding training is expected across so many other areas of public service, why should those seeking help from their elected representatives expect anything less? Therefore, does the Commission agree that safeguarding training is essential not only to help Members and their staff recognise the signs of abuse, neglect or exploitation, but also to give the public confidence that they will be treated safely, fairly and consistently by any Member, as elected representatives, and their staff, of course, too?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=6847"
+        },
+        {
+          "id": "contribution-780680",
+          "item_id": "item-16318-261021-5",
+          "item_title_en": "4. Topical Questions",
+          "lang": "en",
+          "t_start": 8254,
+          "text_english": "In addition to the questions that have already been raised—this is a constituency that I also represent, Caerdydd Ffynnon Taf—we've seen a number of authorities involved in the immediate response, including Natural Resources Wales and Public Health Wales: could the Minister therefore confirm actually which body is ultimately responsible for co-ordinating clear and effective messaging for the public, and also any signs of warnings in advance? Also, building on what Nick said around safeguarding, what safeguards are in place to make sure that residents who live near the river, and the many, many visitors, of course, to the Taff trail, are informed about the potential health risks before they come into contact with contaminated water? Not everyone looks at Facebook, for example. Not everyone is going to get an alert on their phone. How are we going to make sure that the public know, especially if they've got children or dogs, for example, not to go into the river?",
+          "text_original": "In addition to the questions that have already been raised—this is a constituency that I also represent, Caerdydd Ffynnon Taf—we've seen a number of authorities involved in the immediate response, including Natural Resources Wales and Public Health Wales: could the Minister therefore confirm actually which body is ultimately responsible for co-ordinating clear and effective messaging for the public, and also any signs of warnings in advance? Also, building on what Nick said around safeguarding, what safeguards are in place to make sure that residents who live near the river, and the many, many visitors, of course, to the Taff trail, are informed about the potential health risks before they come into contact with contaminated water? Not everyone looks at Facebook, for example. Not everyone is going to get an alert on their phone. How are we going to make sure that the public know, especially if they've got children or dogs, for example, not to go into the river?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=8254"
+        },
+        {
+          "id": "contribution-780725",
+          "item_id": "item-16318-261021-7",
+          "item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+          "lang": "en",
+          "t_start": 10256,
+          "text_english": "Deputy Llywydd, nobody in this Chamber, obviously, wants patients to have to wait any longer for treatment. And if capacity is available that can safely get somebody their operation done sooner, I understand why Governments, including the previous Welsh Government, have looked at the private sector. But I think today's debate asks us to look beyond the immediate waiting lists and consider what kind of NHS we actually are wanting to build for the future. And that is where I believe the workforce has to be at the heart of this discussion.\n\nHere in Wales, 'Agenda for Change' provides the framework for pay and important terms and conditions for most directly employed NHS staff. Unison Cymru has warned that health boards cannot expect to recruit and retain staff without addressing NHS pay. It has also been absolutely explicit in calling for the NHS in Wales to be protected from privatisation. So, when public money is spent buying additional services and capacity outside of NHS Wales, we should ask not only, 'How many patients will this treat today?' but also, 'What does this actually do in terms of the capacity and workforce issues of our NHS for tomorrow?'\n\nThis doesn't need to be an ideological argument. Where private capacity is absolutely necessary to get patients treated sooner, we should be pragmatic. This is why I support the principle of NHS first, but NHS first doesn't, obviously, have to mean NHS only. But our longer term ambition should always be much bigger; it should mean building the strength and capacity of our NHS and the public services around it. It means our NHS and our community care working together rather than treating health and social care as separate systems. It means recognising that health does not begin at the hospital door. It means addressing the socioeconomic inequalities that drive poor health. It means tackling mental health earlier before people reach crisis. And it means confronting some of the deepest causes of trauma and ill health in our communities, including violence against women and children, domestic abuse, and other forms of abuse. Because NHS first cannot simply mean asking where we treat somebody once they become ill. It must also mean creating the conditions in which fewer people become ill, fewer people reach crisis, and fewer families need emergency intervention.\n\nSo for me, that is also about holding on to the founding principle of our NHS that healthcare is a public good, there for people when they need it, regardless of their means or their backgrounds. And as, of course, Aneurin Bevan put that principle simply:\n\n'No society can legitimately call itself civilized if a sick person is denied medical aid because of lack of means.'\n\nDeputy Llywydd, our responsibility is obviously not simply to defend that principle, but to make it work for the challenges that Wales faces today. Bringing waiting lists down matters, but so does building the NHS, the workforce, the community services and that healthier society that ensures that we leave our NHS stronger than we first found it.",
+          "text_original": "Deputy Llywydd, nobody in this Chamber, obviously, wants patients to have to wait any longer for treatment. And if capacity is available that can safely get somebody their operation done sooner, I understand why Governments, including the previous Welsh Government, have looked at the private sector. But I think today's debate asks us to look beyond the immediate waiting lists and consider what kind of NHS we actually are wanting to build for the future. And that is where I believe the workforce has to be at the heart of this discussion.\n\nHere in Wales, 'Agenda for Change' provides the framework for pay and important terms and conditions for most directly employed NHS staff. Unison Cymru has warned that health boards cannot expect to recruit and retain staff without addressing NHS pay. It has also been absolutely explicit in calling for the NHS in Wales to be protected from privatisation. So, when public money is spent buying additional services and capacity outside of NHS Wales, we should ask not only, 'How many patients will this treat today?' but also, 'What does this actually do in terms of the capacity and workforce issues of our NHS for tomorrow?'\n\nThis doesn't need to be an ideological argument. Where private capacity is absolutely necessary to get patients treated sooner, we should be pragmatic. This is why I support the principle of NHS first, but NHS first doesn't, obviously, have to mean NHS only. But our longer term ambition should always be much bigger; it should mean building the strength and capacity of our NHS and the public services around it. It means our NHS and our community care working together rather than treating health and social care as separate systems. It means recognising that health does not begin at the hospital door. It means addressing the socioeconomic inequalities that drive poor health. It means tackling mental health earlier before people reach crisis. And it means confronting some of the deepest causes of trauma and ill health in our communities, including violence against women and children, domestic abuse, and other forms of abuse. Because NHS first cannot simply mean asking where we treat somebody once they become ill. It must also mean creating the conditions in which fewer people become ill, fewer people reach crisis, and fewer families need emergency intervention.\n\nSo for me, that is also about holding on to the founding principle of our NHS that healthcare is a public good, there for people when they need it, regardless of their means or their backgrounds. And as, of course, Aneurin Bevan put that principle simply:\n\n'No society can legitimately call itself civilized if a sick person is denied medical aid because of lack of means.'\n\nDeputy Llywydd, our responsibility is obviously not simply to defend that principle, but to make it work for the challenges that Wales faces today. Bringing waiting lists down matters, but so does building the NHS, the workforce, the community services and that healthier society that ensures that we leave our NHS stronger than we first found it.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=10256"
         }
       ],
       "date": "2026-10-21",

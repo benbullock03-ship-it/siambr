@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,64 @@
   "canonical_name": "John Clark",
   "constituency_name_cy": "Bangor Conwy Môn",
   "constituency_name_en": "Bangor Conwy Môn",
-  "contribution_count": 20,
+  "contribution_count": 25,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-779888",
+          "item_id": "item-16317-261020-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "8. What legal advice has the Counsel General provided to the Welsh Government regarding Welsh Ministers’ powers to call in planning applications for large-scale data-centre developments, including the statutory criteria under the relevant planning legislation and the legal duties that apply when such a request is received? OQ64745",
+          "text_original": "8. Pa gyngor cyfreithiol y mae'r Cwnsler Cyffredinol wedi'i roi i Lywodraeth Cymru ynghylch pwerau Gweinidogion Cymru i alw ceisiadau cynllunio i mewn ar gyfer datblygiadau canolfannau data ar raddfa fawr, gan gynnwys y meini prawf statudol o dan y ddeddfwriaeth gynllunio berthnasol a'r dyletswyddau cyfreithiol sy'n gymwys pan geir cais o'r fath? OQ64745",
+          "tv_url": "http://www.senedd.tv/en/16317"
+        },
+        {
+          "id": "contribution-779890",
+          "item_id": "item-16317-261020-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "en",
+          "t_start": 5844,
+          "text_english": "Given that several call-in requests for data centre schemes, including the one at the former Ferodo site near Caernarfon, are currently under consideration, what does the legal advice say about the statutory criteria under section 77 of the Town and Country Planning Act and the threshold of 'more than local importance', when issues such as grid capacity, energy demand or the absence of a specific national data centre policy are raised?",
+          "text_original": "Given that several call-in requests for data centre schemes, including the one at the former Ferodo site near Caernarfon, are currently under consideration, what does the legal advice say about the statutory criteria under section 77 of the Town and Country Planning Act and the threshold of 'more than local importance', when issues such as grid capacity, energy demand or the absence of a specific national data centre policy are raised?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=5844"
+        },
+        {
+          "id": "contribution-779915",
+          "item_id": "item-16317-261020-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "11. What legal advice has the Counsel General provided to the Welsh Government on the legal implications of establishing a distinct or separate legal jurisdiction for Wales? OQ64744",
+          "text_original": "11. Pa gyngor cyfreithiol y mae'r Cwnsler Cyffredinol wedi'i roi i Lywodraeth Cymru ynghylch goblygiadau cyfreithiol sefydlu awdurdodaeth gyfreithiol benodol neu ar wahân i Gymru? OQ64744",
+          "tv_url": "http://www.senedd.tv/en/16317"
+        },
+        {
+          "id": "contribution-779949",
+          "item_id": "item-16317-261020-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "en",
+          "t_start": 6335,
+          "text_english": "What legal advice has the Counsel General provided on the practical implications of moving from the existing distinct body of Welsh law to a fully separate jurisdiction, specifically for the single England and Wales legal profession, cross-border practices, access to justice, and legal certainty for businesses operating on both sides of the border?",
+          "text_original": "What legal advice has the Counsel General provided on the practical implications of moving from the existing distinct body of Welsh law to a fully separate jurisdiction, specifically for the single England and Wales legal profession, cross-border practices, access to justice, and legal certainty for businesses operating on both sides of the border?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=6335"
+        },
+        {
+          "id": "contribution-780032",
+          "item_id": "item-16317-261020-5",
+          "item_title_en": "5. Statement by the Cabinet Minister for Finance: Taxation (Wales) Bill",
+          "lang": "en",
+          "t_start": 12155,
+          "text_english": "Minister, thank you for your statement today. Section 4 would allow the Welsh Revenue Authority to withhold certain tax repayments while an inquiry is ongoing. Your own explanatory memorandum acknowledges that some inquiries can take months, or even years, potentially creating cash flow difficulties for taxpayers. Beyond the existing appeal right, will you commit to clear, published service standards for these inquiries, and to reporting how long repayments are being withheld, so that small businesses and taxpayers are not left facing prolonged uncertainty?",
+          "text_original": "Minister, thank you for your statement today. Section 4 would allow the Welsh Revenue Authority to withhold certain tax repayments while an inquiry is ongoing. Your own explanatory memorandum acknowledges that some inquiries can take months, or even years, potentially creating cash flow difficulties for taxpayers. Beyond the existing appeal right, will you commit to clear, published service standards for these inquiries, and to reporting how long repayments are being withheld, so that small businesses and taxpayers are not left facing prolonged uncertainty?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=12155"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
+    },
     {
       "contributions": [
         {

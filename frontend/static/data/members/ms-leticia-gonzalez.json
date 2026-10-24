@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,34 @@
   "canonical_name": "Leticia Gonzalez",
   "constituency_name_cy": "Caerdydd Penarth",
   "constituency_name_en": "Caerdydd Penarth",
-  "contribution_count": 16,
+  "contribution_count": 18,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780682",
+          "item_id": "item-16318-261021-5",
+          "item_title_en": "4. Topical Questions",
+          "lang": "en",
+          "t_start": 8571,
+          "text_english": "Thank you, Llywydd. There has been a lot of attention recently on the legacy of industrial contamination in Wales and its devastating impact on local communities and the environment. But this week's shocking news demonstrates that it's not just an issue from our past that we're dealing with, but something from our present too. Can the Cabinet Minister confirm that you're working closely with the Cabinet Minister for health and with Public Health Wales on providing assurance to residents across my constituency of Caerdydd Penarth impacted by this leak?",
+          "text_original": "Thank you, Llywydd. There has been a lot of attention recently on the legacy of industrial contamination in Wales and its devastating impact on local communities and the environment. But this week's shocking news demonstrates that it's not just an issue from our past that we're dealing with, but something from our present too. Can the Cabinet Minister confirm that you're working closely with the Cabinet Minister for health and with Public Health Wales on providing assurance to residents across my constituency of Caerdydd Penarth impacted by this leak?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=8571"
+        },
+        {
+          "id": "contribution-780686",
+          "item_id": "item-16318-261021-5",
+          "item_title_en": "4. Topical Questions",
+          "lang": "en",
+          "t_start": 8603,
+          "text_english": "Sorry. And does the Welsh Government reaffirm its stance on the polluter-pays principle, ensuring that those responsible bear the cost of addressing its remediation?",
+          "text_original": "Sorry. And does the Welsh Government reaffirm its stance on the polluter-pays principle, ensuring that those responsible bear the cost of addressing its remediation?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=8603"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
     {
       "contributions": [
         {

@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,50 @@
   "canonical_name": "Beca Brown",
   "constituency_name_cy": "Gwynedd Maldwyn",
   "constituency_name_en": "Gwynedd Maldwyn",
-  "contribution_count": 29,
+  "contribution_count": 32,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780591",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "cy",
+          "t_start": 5072,
+          "text_english": "The challenges facing rural schools like those in my constituency are a symptom of the broader challenges facing our rural areas, with an ageing population, families moving away and local authority services that are more expensive to run and more difficult to administer. For rural schools to flourish, we need high-quality jobs, adequate housing and effective public transport, and I'm very pleased to see the Government taking action on these matters. If rural communities prosper, then rural schools will prosper too. How, then, will the Community Schools Plus plan empower our rural schools, as well as empowering the communities to which they belong?",
+          "text_original": "Mae heriau ysgolion gwledig fel y rhai yn fy etholaeth i yn symptom o heriau ehangach ein hardaloedd gwledig, gyda'r boblogaeth yn heneiddio, teuluoedd yn symud i ffwrdd, a gwasanaethau llywodraeth leol yn ddrutach i'w rhedeg ac yn anoddach i'w gweithredu. Er mwyn i ysgolion gwledig ffynnu, mae angen swyddi o ansawdd, cartrefi digonol a thrafnidiaeth gyhoeddus effeithiol, a dwi'n falch o weld y Llywodraeth yn gweithredu ar y materion hyn. Os bydd cymunedau gwledig yn ffynnu, yna bydd ysgolion gwledig yn ffynnu. Sut, felly, bydd y cynllun Ysgolion Cymunedol a Mwy yn grymuso’n hysgolion gwledig, yn ogystal â grymuso'r cymunedau maen nhw’n perthyn iddynt?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=5072"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-779876",
+          "item_id": "item-16317-261020-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "5. What legal advice has the Counsel General provided to the Welsh Government on the devolution of broadcasting to Wales? OQ64746",
+          "text_original": "5. Pa gyngor cyfreithiol y mae'r Cwnsler Cyffredinol wedi'i roi i Lywodraeth Cymru ynghylch datganoli darlledu i Gymru? OQ64746",
+          "tv_url": "http://www.senedd.tv/en/16317"
+        },
+        {
+          "id": "contribution-779880",
+          "item_id": "item-16317-261020-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "cy",
+          "t_start": 5248,
+          "text_english": "Thank you very much for that answer. I would like to think that we can all agree that it is important that we have a strong broadcasting sector that reflects our country and our systems. We know that most people in Wales get their news from sources outside Wales, and it's important for democracy here in Wales that people are aware of what happens here. But it's also important to hear a Welsh voice and perspective on external affairs. Do you agree with me about the need to devolve broadcasting and that this would be an important step towards strengthening civic life in Wales?",
+          "text_original": "Diolch yn fawr iawn i chi am yr ateb. Mi fuaswn i'n hoffi meddwl y gallem ni i gyd gytuno ei bod hi'n bwysig i gael sector darlledu cryf sy'n adlewyrchu ein gwlad a'n systemau ni. Mae'n hysbys i ni fod y rhan fwyaf o bobl yng Nghymru yn cael eu newyddion o du allan i Gymru, ac mae'n bwysig i ddemocratiaeth yma yng Nghymru fod pobl yn ymwybodol o beth sy'n digwydd yma. Ond mae hefyd yn bwysig i gael llais a safbwynt Cymreig ar faterion allanol. A ydych chi'n cytuno efo fi am yr angen i ddatganoli darlledu a'i fod yn gam pwysig wrth gryfhau bywyd sifig yng Nghymru?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=5248"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
+    },
     {
       "contributions": [
         {

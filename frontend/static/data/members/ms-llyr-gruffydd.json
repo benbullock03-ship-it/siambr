@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,84 @@
   "canonical_name": "Llyr Gruffydd",
   "constituency_name_cy": "Clwyd",
   "constituency_name_en": "Clwyd",
-  "contribution_count": 158,
+  "contribution_count": 165,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780711",
+          "item_id": "item-16318-261021-5",
+          "item_title_en": "4. Topical Questions",
+          "lang": "en",
+          "t_start": 7771,
+          "text_english": "Diolch yn fawr iawn. Natural Resources Wales has confirmed that the fuel discharge has now stopped, with mitigation measures preventing residual fuel from reaching the River Taff. Clean-up and assessment of potential environmental impacts on the river habitat and wildlife continue, and NRW will of course continue to monitor developments closely.",
+          "text_original": "Diolch yn fawr iawn. Natural Resources Wales has confirmed that the fuel discharge has now stopped, with mitigation measures preventing residual fuel from reaching the River Taff. Clean-up and assessment of potential environmental impacts on the river habitat and wildlife continue, and NRW will of course continue to monitor developments closely.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=7771"
+        },
+        {
+          "id": "contribution-780708",
+          "item_id": "item-16318-261021-5",
+          "item_title_en": "4. Topical Questions",
+          "lang": "en",
+          "t_start": 7891,
+          "text_english": "Diolch yn fawr for your question—or for your questions, I should say; there are a number of questions there, but rightly need responding to.\n\nThe first thing I would say is that I have spoken directly with Natural Resources Wales about this significant incident and the ongoing response. I fully recognise the concern that it has caused for local communities and for those with an interest in or an involvement with or living nearby the River Taff. NRW have confirmed to me, as I said in my initial answer, that fuel discharge has now stopped and that current mitigation measures are preventing residual fuel in the tributary from reaching the River Taff, and clean-up and environmental assessments are continuing.\n\nYou asked about the volume particularly, but also the source and maybe a little bit about the precise circumstances of the release. Those remain matters for NRW's ongoing investigation, but you're right: early reporting made claims that a considerable amount, estimated at up to 25,000 litres, may have been lost into the site's surface water drainage system. But I wouldn't want to present that estimate as some sort of final confirmed figure, because, as I say, investigations continue. For example, my understanding is that the tank could potentially contain that much; it's not clear yet how much was in it. And, of course, not all of it would have found its way into the river—some of it would have been contained or collected on site before reaching there. So, we need to be mindful of that, but, obviously, this will become clearer over time. The pollutant has, though, been identified as kerosene.\n\nI've discussed the ongoing response with NRW, and I'll continue to keep closely sighted on developments there. The site operator's specialist contractor, who they brought in very early on, continue recovery and clean-up activity, including maintaining and replacing containment booms, whilst NRW continues to assess the environmental impact. NRW officers have observed impacts on aquatic invertebrates, which may be linked to this incident. The information currently available doesn't provide a firm timescale for completion of the clean-up—which is another question you asked—or any subsequent habitat restoration that might follow as a consequence. Again, I wouldn't want to speculate on that today, but that work is ongoing. NRW will continue to work with the site operator to establish the cause, and they will ensure that all possible steps are taken to prevent further spills.\n\nThe circumstances of the incident and its environmental impacts remain under investigation, and it would therefore not be appropriate for me to speculate on who is responsible, or anticipate any regulatory or enforcement action that might follow. But, again, I would reiterate—I'm sure, on behalf of everyone here—our thanks to all of those who have been involved in the response effort, which, I have to say, happened promptly and in a very effective manner.",
+          "text_original": "Diolch yn fawr for your question—or for your questions, I should say; there are a number of questions there, but rightly need responding to.\n\nThe first thing I would say is that I have spoken directly with Natural Resources Wales about this significant incident and the ongoing response. I fully recognise the concern that it has caused for local communities and for those with an interest in or an involvement with or living nearby the River Taff. NRW have confirmed to me, as I said in my initial answer, that fuel discharge has now stopped and that current mitigation measures are preventing residual fuel in the tributary from reaching the River Taff, and clean-up and environmental assessments are continuing.\n\nYou asked about the volume particularly, but also the source and maybe a little bit about the precise circumstances of the release. Those remain matters for NRW's ongoing investigation, but you're right: early reporting made claims that a considerable amount, estimated at up to 25,000 litres, may have been lost into the site's surface water drainage system. But I wouldn't want to present that estimate as some sort of final confirmed figure, because, as I say, investigations continue. For example, my understanding is that the tank could potentially contain that much; it's not clear yet how much was in it. And, of course, not all of it would have found its way into the river—some of it would have been contained or collected on site before reaching there. So, we need to be mindful of that, but, obviously, this will become clearer over time. The pollutant has, though, been identified as kerosene.\n\nI've discussed the ongoing response with NRW, and I'll continue to keep closely sighted on developments there. The site operator's specialist contractor, who they brought in very early on, continue recovery and clean-up activity, including maintaining and replacing containment booms, whilst NRW continues to assess the environmental impact. NRW officers have observed impacts on aquatic invertebrates, which may be linked to this incident. The information currently available doesn't provide a firm timescale for completion of the clean-up—which is another question you asked—or any subsequent habitat restoration that might follow as a consequence. Again, I wouldn't want to speculate on that today, but that work is ongoing. NRW will continue to work with the site operator to establish the cause, and they will ensure that all possible steps are taken to prevent further spills.\n\nThe circumstances of the incident and its environmental impacts remain under investigation, and it would therefore not be appropriate for me to speculate on who is responsible, or anticipate any regulatory or enforcement action that might follow. But, again, I would reiterate—I'm sure, on behalf of everyone here—our thanks to all of those who have been involved in the response effort, which, I have to say, happened promptly and in a very effective manner.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=7891"
+        },
+        {
+          "id": "contribution-780676",
+          "item_id": "item-16318-261021-5",
+          "item_title_en": "4. Topical Questions",
+          "lang": "en",
+          "t_start": 8219,
+          "text_english": "Thank you for the question. Frankly, everything you've asked for is in train. It will be the responsibility of NRW to provide all of that information. On cost recovery, clearly, they will need to establish liability, if there is liability, and then they will proceed in the appropriate manner, either through the courts or whichever way they believe is most appropriate. I have to question, if you dismantle NRW, as you describe it, the question remains, who would actually be dealing with these situations when they arise? Maybe that's something that you may wish to ponder.",
+          "text_original": "Thank you for the question. Frankly, everything you've asked for is in train. It will be the responsibility of NRW to provide all of that information. On cost recovery, clearly, they will need to establish liability, if there is liability, and then they will proceed in the appropriate manner, either through the courts or whichever way they believe is most appropriate. I have to question, if you dismantle NRW, as you describe it, the question remains, who would actually be dealing with these situations when they arise? Maybe that's something that you may wish to ponder.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=8219"
+        },
+        {
+          "id": "contribution-780687",
+          "item_id": "item-16318-261021-5",
+          "item_title_en": "4. Topical Questions",
+          "lang": "en",
+          "t_start": 8317,
+          "text_english": "Thank you for those questions. NRW are leading the effort in that environmental context, that is their role, but they are also liaising very closely with Public Health Wales and fire and rescue services as well. In terms of public health, you're right, there have been messages put out there by Public Health Wales; some will see them, others, unfortunately, will not. That's a constant challenge in these situations, and any learning that can be taken from any event is taken on board, I hope, and reflected upon. The advice has been clear. Obviously, if you can smell kerosene, then the advice is to keep windows and doors closed and avoid contact with any affected water—that goes for pets and children particularly. Anyone who does consequently feel unwell or concerned needs to contact NHS Wales 111, and the system will respond to that in the best way it can. I think public bodies have been providing that information as best they can, but there will always be room for improvement in that sphere.",
+          "text_original": "Thank you for those questions. NRW are leading the effort in that environmental context, that is their role, but they are also liaising very closely with Public Health Wales and fire and rescue services as well. In terms of public health, you're right, there have been messages put out there by Public Health Wales; some will see them, others, unfortunately, will not. That's a constant challenge in these situations, and any learning that can be taken from any event is taken on board, I hope, and reflected upon. The advice has been clear. Obviously, if you can smell kerosene, then the advice is to keep windows and doors closed and avoid contact with any affected water—that goes for pets and children particularly. Anyone who does consequently feel unwell or concerned needs to contact NHS Wales 111, and the system will respond to that in the best way it can. I think public bodies have been providing that information as best they can, but there will always be room for improvement in that sphere.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=8317"
+        },
+        {
+          "id": "contribution-780675",
+          "item_id": "item-16318-261021-5",
+          "item_title_en": "4. Topical Questions",
+          "lang": "en",
+          "t_start": 8465,
+          "text_english": "Look, until the investigations have been completed, I am loath to point the finger as much as Members would like me to. Clearly, where liability is identified—let's put it that way—then NRW will take appropriate action. That is their role and that is what we all expect of them.\n\nIn terms of seeking the source of the incident, my understanding is that whilst maybe it had been identified early on, once it was in the drainage system, which can be very complex, it's very difficult then to know exactly where that goes. So, maybe there's a bit of confusion around the source as opposed to the numbers of ways that that water could actually escape the site. But again, all of this will come out in the wash once the initial response and recovery has taken place. There will be a process then to make sure that we look at the results of all of that.\n\nIn terms of the environmental impact, of course—and that is clearly an important factor here—NRW are waiting for results of samples for biological and ecological investigations. Drone surveys have been conducted so that they can visually assess the impact as well. I am told that 10 dead fish have been recovered from the river as a consequence of this. Ten dead fish. But, of course, impacts on invertebrates will mean greater ecological impacts as well, and I'm not downplaying that for a second.",
+          "text_original": "Look, until the investigations have been completed, I am loath to point the finger as much as Members would like me to. Clearly, where liability is identified—let's put it that way—then NRW will take appropriate action. That is their role and that is what we all expect of them.\n\nIn terms of seeking the source of the incident, my understanding is that whilst maybe it had been identified early on, once it was in the drainage system, which can be very complex, it's very difficult then to know exactly where that goes. So, maybe there's a bit of confusion around the source as opposed to the numbers of ways that that water could actually escape the site. But again, all of this will come out in the wash once the initial response and recovery has taken place. There will be a process then to make sure that we look at the results of all of that.\n\nIn terms of the environmental impact, of course—and that is clearly an important factor here—NRW are waiting for results of samples for biological and ecological investigations. Drone surveys have been conducted so that they can visually assess the impact as well. I am told that 10 dead fish have been recovered from the river as a consequence of this. Ten dead fish. But, of course, impacts on invertebrates will mean greater ecological impacts as well, and I'm not downplaying that for a second.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=8465"
+        },
+        {
+          "id": "contribution-780685",
+          "item_id": "item-16318-261021-5",
+          "item_title_en": "4. Topical Questions",
+          "lang": "en",
+          "t_start": 8602,
+          "text_english": "Yes. And? [Laughter.]",
+          "text_original": "Yes. And? [Laughter.]",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=8602"
+        },
+        {
+          "id": "contribution-780691",
+          "item_id": "item-16318-261021-5",
+          "item_title_en": "4. Topical Questions",
+          "lang": "en",
+          "t_start": 8614,
+          "text_english": "Yes and yes. And you will note, of course, that the Deputy Minister with responsibility for public health is here to make sure that all of Members' concerns are fully taken on board. This is an ongoing issue, not just particularly in relation to this incident. These are the challenges that we will continually have to face. A changing climate makes that battle more difficult as well, as we experience more extreme weather events, which no doubt will test infrastructure and these kinds of facilities to a greater extent in years to come.\n\nIt does remind us that we always need to be vigilant, always need to be diligent, and I would encourage, by the way, members of the public to make full use of NRW's hotline. There is a hotline there. People can go to their MSs, they can go and put stuff on social media, but ultimately, if you want a swift response, you need to let NRW know first. That would be another plea of mine today. Diolch.",
+          "text_original": "Yes and yes. And you will note, of course, that the Deputy Minister with responsibility for public health is here to make sure that all of Members' concerns are fully taken on board. This is an ongoing issue, not just particularly in relation to this incident. These are the challenges that we will continually have to face. A changing climate makes that battle more difficult as well, as we experience more extreme weather events, which no doubt will test infrastructure and these kinds of facilities to a greater extent in years to come.\n\nIt does remind us that we always need to be vigilant, always need to be diligent, and I would encourage, by the way, members of the public to make full use of NRW's hotline. There is a hotline there. People can go to their MSs, they can go and put stuff on social media, but ultimately, if you want a swift response, you need to let NRW know first. That would be another plea of mine today. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=8614"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
     {
       "contributions": [
         {

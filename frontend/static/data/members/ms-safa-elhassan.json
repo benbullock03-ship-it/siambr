@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,24 @@
   "canonical_name": "Safa Elhassan",
   "constituency_name_cy": "Gŵyr Abertawe",
   "constituency_name_en": "Gŵyr Abertawe",
-  "contribution_count": 23,
+  "contribution_count": 24,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780718",
+          "item_id": "item-16318-261021-7",
+          "item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+          "lang": "en",
+          "t_start": 9933,
+          "text_english": "I, too, declare an interest as a consultant ophthalmologist working in the NHS in Swansea.\n\nExpensive contracts, fragmented care, lost opportunities to strengthen our NHS: these are the concerns that I recognise not just as a Member of the Senedd, but also a treating clinician. I thank my colleague Gwyn for bringing forth this proposal, which I support. We all want shorter waiting lists. We all want patients to be treated sooner. And we all recognise the extraordinary work that NHS staff are doing to make that happen. But the question is not simply how many patients we can treat today, but whether we can build the capacity to treat patients tomorrow. \n\nLet me explain what I have witnessed. Patients that have had cataract pre-assessment by an external provider, that arrangement ends, the patient returns to the NHS, sometimes requiring another assessment before surgery proceeds. That's another appointment, another cost, and another delay. And when complications occur, patients rightly return to the NHS teams, adding to the workload of a service already under pressure. Colleagues in other specialties have reported similar frustrations.\n\nDeputy Llywydd, this is not about criticising individual providers. It's about questioning whether our system is making the best use of public money and clinical expertise, because waiting lists can appear shorter without the NHS becoming stronger. So, that's at the heart of this debate.\n\nIn Swansea bay, our performance report identifies gaps in cataract pre-assessment capacity and opportunities to improve theatre utilisations. We have the clinicians, we have the expertise, and what we need is the capacity to deliver. And that means investing in assessment clinics, our theatres, our workforce, and the clinical leadership needed to redesign services. That means asking our front-line teams what they can achieve with the right support. And it means ensuring that our clinical leads are involved in decisions about external contracts, patient safety and continuity of care. And we also must be transparent about costs, outcomes and who remains responsible for patients when contracts end.\n\nDeputy Llywydd, I'm not arguing that external provision should never have a role. I'm arguing that temporary solutions must not be a substitute for permanent NHS capacity. Every pound that we spend should do more than reduce today's waiting list. Where possible, it should strengthen tomorrow's service. We're treating patients today, we're training the clinicians for tomorrow, and we're building our NHS for the future. And this principle is why I believe that this proposal should be advanced, and that's why I support it. Diolch.",
+          "text_original": "I, too, declare an interest as a consultant ophthalmologist working in the NHS in Swansea.\n\nExpensive contracts, fragmented care, lost opportunities to strengthen our NHS: these are the concerns that I recognise not just as a Member of the Senedd, but also a treating clinician. I thank my colleague Gwyn for bringing forth this proposal, which I support. We all want shorter waiting lists. We all want patients to be treated sooner. And we all recognise the extraordinary work that NHS staff are doing to make that happen. But the question is not simply how many patients we can treat today, but whether we can build the capacity to treat patients tomorrow. \n\nLet me explain what I have witnessed. Patients that have had cataract pre-assessment by an external provider, that arrangement ends, the patient returns to the NHS, sometimes requiring another assessment before surgery proceeds. That's another appointment, another cost, and another delay. And when complications occur, patients rightly return to the NHS teams, adding to the workload of a service already under pressure. Colleagues in other specialties have reported similar frustrations.\n\nDeputy Llywydd, this is not about criticising individual providers. It's about questioning whether our system is making the best use of public money and clinical expertise, because waiting lists can appear shorter without the NHS becoming stronger. So, that's at the heart of this debate.\n\nIn Swansea bay, our performance report identifies gaps in cataract pre-assessment capacity and opportunities to improve theatre utilisations. We have the clinicians, we have the expertise, and what we need is the capacity to deliver. And that means investing in assessment clinics, our theatres, our workforce, and the clinical leadership needed to redesign services. That means asking our front-line teams what they can achieve with the right support. And it means ensuring that our clinical leads are involved in decisions about external contracts, patient safety and continuity of care. And we also must be transparent about costs, outcomes and who remains responsible for patients when contracts end.\n\nDeputy Llywydd, I'm not arguing that external provision should never have a role. I'm arguing that temporary solutions must not be a substitute for permanent NHS capacity. Every pound that we spend should do more than reduce today's waiting list. Where possible, it should strengthen tomorrow's service. We're treating patients today, we're training the clinicians for tomorrow, and we're building our NHS for the future. And this principle is why I believe that this proposal should be advanced, and that's why I support it. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=9933"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
     {
       "contributions": [
         {

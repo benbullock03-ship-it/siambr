@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,39 +774,875 @@
   "canonical_name": "Huw Irranca-Davies",
   "constituency_name_cy": "Afan Ogwr Rhondda",
   "constituency_name_en": "Afan Ogwr Rhondda",
-  "contribution_count": 750,
+  "contribution_count": 833,
   "contributions_by_date": [
     {
       "contributions": [
+        {
+          "id": "contribution-780605",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 5838,
+          "text_english": "The Commission supports Welsh businesses by making procurement opportunities both visible and accessible. All suppliers are treated fairly and consistently under procurement law. Contracts worth more than £30,000 are advertised on Sell2Wales, allowing companies to express an interest and to tender. We also explore the market; we identify potential Welsh suppliers and alert them to suitable opportunities. We monitor spending with Wales-based suppliers through a corporate key performance indicator reported annually. At present, that is being exceeded—it's 55 per cent against our target of 50 per cent. For larger contracts involving subcontractors, we seek opportunities for Welsh businesses to join supply chains. These measures strengthen participation while maintaining an open, transparent and legally compliant procurement process for all involved.",
+          "text_original": "The Commission supports Welsh businesses by making procurement opportunities both visible and accessible. All suppliers are treated fairly and consistently under procurement law. Contracts worth more than £30,000 are advertised on Sell2Wales, allowing companies to express an interest and to tender. We also explore the market; we identify potential Welsh suppliers and alert them to suitable opportunities. We monitor spending with Wales-based suppliers through a corporate key performance indicator reported annually. At present, that is being exceeded—it's 55 per cent against our target of 50 per cent. For larger contracts involving subcontractors, we seek opportunities for Welsh businesses to join supply chains. These measures strengthen participation while maintaining an open, transparent and legally compliant procurement process for all involved.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=5838"
+        },
+        {
+          "id": "contribution-780609",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 5965,
+          "text_english": "Indeed. Well, one of the good illustrations of this is, of course, what we do in terms of the contract we have here with the public food suppliers. Interestingly, I noted that we're exceeding the KPI in aggregate by 55 per cent against our target of 50 per cent, but actually the food procurement by our catering suppliers here, using good Welsh suppliers that do, indeed, break down the individual contracts to really favour smaller suppliers within the Welsh food supply chain, they are achieving in excess of 70 per cent with Welsh suppliers. So, we're actually doing well. But we're always open to more ideas. I'll take away the thoughts that you've given us and see whether we can disaggregate the data even more. But I have to say the story is one of positive success.",
+          "text_original": "Indeed. Well, one of the good illustrations of this is, of course, what we do in terms of the contract we have here with the public food suppliers. Interestingly, I noted that we're exceeding the KPI in aggregate by 55 per cent against our target of 50 per cent, but actually the food procurement by our catering suppliers here, using good Welsh suppliers that do, indeed, break down the individual contracts to really favour smaller suppliers within the Welsh food supply chain, they are achieving in excess of 70 per cent with Welsh suppliers. So, we're actually doing well. But we're always open to more ideas. I'll take away the thoughts that you've given us and see whether we can disaggregate the data even more. But I have to say the story is one of positive success.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=5965"
+        },
+        {
+          "id": "contribution-780589",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 6022,
+          "text_english": "Diolch. The Commission already has safeguards in place that restrict filming and recording on the Senedd estate without relevant authorisation. Importantly, those restrictions are technology neutral, and they apply regardless of whether recording is undertaken using conventional equipment, a phone, smartglasses or any other device.\n\nHowever, we recognise that wearable and AI-enabled technologies are developing rapidly. I've therefore commissioned a review of our policies and guidance to ensure that they remain effective and keep pace with these developments. Our aim is to ensure that Members and their staff, Commission officials and the Senedd estate are properly protected, while allowing the legitimate benefits of new technologies, including, by the way, accessibility benefits, to be realised where their use is appropriate and properly authorised.",
+          "text_original": "Diolch. The Commission already has safeguards in place that restrict filming and recording on the Senedd estate without relevant authorisation. Importantly, those restrictions are technology neutral, and they apply regardless of whether recording is undertaken using conventional equipment, a phone, smartglasses or any other device.\n\nHowever, we recognise that wearable and AI-enabled technologies are developing rapidly. I've therefore commissioned a review of our policies and guidance to ensure that they remain effective and keep pace with these developments. Our aim is to ensure that Members and their staff, Commission officials and the Senedd estate are properly protected, while allowing the legitimate benefits of new technologies, including, by the way, accessibility benefits, to be realised where their use is appropriate and properly authorised.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=6022"
+        },
+        {
+          "id": "contribution-780607",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 6127,
+          "text_english": "Thank you very much. First of all, on the Cabinet Office, the Cabinet Office may have made a decision on this, and it's perfectly open to Welsh Government to make a decision on how they pursue this policy as well. Also, courts and tribunals have banned the use of film and recording devices outright. Just to reiterate, there is a clear ruling here already, in a technology-neutral way, on any filming and recording device on the Senedd premises. I shouldn't need to remind Members of that. They're fully aware, they went through induction, everybody's aware. I've written out subsequently as well.\n\nOn the issue of equity, that's a valid point. It's been raised by other Members. I've actually had some very good written representations about ideas that could be fed into the review. So, I would strongly suggest that all Members, actually, contribute to this review going forward, but recognising that some of this assistive technology has benefits, not least that it has been identified by many within the disability lobby as well to say, 'We want to see the proper, appropriate, authorised use of this in the right situation.'\n\nSo, I can just give a further brief update. The initial review of smartglasses and other advancing technologies is now well advanced. I'll be writing to Members before recess to set out further explanation of the way in which the review will carry out its work, including the ways in which Members will be able to participate so that all views can then be taken into account. Just to say, if we get to this point at the speed that we are going, we will be ahead of other Parliaments in actually putting the right procedures in place for this technology.",
+          "text_original": "Thank you very much. First of all, on the Cabinet Office, the Cabinet Office may have made a decision on this, and it's perfectly open to Welsh Government to make a decision on how they pursue this policy as well. Also, courts and tribunals have banned the use of film and recording devices outright. Just to reiterate, there is a clear ruling here already, in a technology-neutral way, on any filming and recording device on the Senedd premises. I shouldn't need to remind Members of that. They're fully aware, they went through induction, everybody's aware. I've written out subsequently as well.\n\nOn the issue of equity, that's a valid point. It's been raised by other Members. I've actually had some very good written representations about ideas that could be fed into the review. So, I would strongly suggest that all Members, actually, contribute to this review going forward, but recognising that some of this assistive technology has benefits, not least that it has been identified by many within the disability lobby as well to say, 'We want to see the proper, appropriate, authorised use of this in the right situation.'\n\nSo, I can just give a further brief update. The initial review of smartglasses and other advancing technologies is now well advanced. I'll be writing to Members before recess to set out further explanation of the way in which the review will carry out its work, including the ways in which Members will be able to participate so that all views can then be taken into account. Just to say, if we get to this point at the speed that we are going, we will be ahead of other Parliaments in actually putting the right procedures in place for this technology.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=6127"
+        },
+        {
+          "id": "contribution-780611",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 6283,
+          "text_english": "Simply to add to what I was saying, I think all views are welcome in this. That does include those from organisations outside who do see legitimate use of assistive technology. However, we also need those views about, where any filming and recording devices are used, whether our rules are currently fit for purpose or not, and where these devices may be used in future. So, I'm not pre-empting any outcome of that review, but we're moving on at pace and we do want all views to be heard.\n\nMeanwhile, as I said in the opening part of my answer, the issue here is the integrity of this place, both for Members, staff, visitors and all others who use this, to know that we can do our business in the way that we want it to be done properly.",
+          "text_original": "Simply to add to what I was saying, I think all views are welcome in this. That does include those from organisations outside who do see legitimate use of assistive technology. However, we also need those views about, where any filming and recording devices are used, whether our rules are currently fit for purpose or not, and where these devices may be used in future. So, I'm not pre-empting any outcome of that review, but we're moving on at pace and we do want all views to be heard.\n\nMeanwhile, as I said in the opening part of my answer, the issue here is the integrity of this place, both for Members, staff, visitors and all others who use this, to know that we can do our business in the way that we want it to be done properly.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=6283"
+        },
+        {
+          "id": "contribution-780631",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 6346,
+          "text_english": "Thank you. The Commission’s broadcasting policy drew on a report by an independent adviser, which examined the Senedd’s historical position, looked at five other legislatures and considered relevant policy principles. I recently agreed that this policy could be reviewed. In September, Commissioners were asked to consider four options. It was determined that further consultation was required between the Commission and party groups, and this is now under way, with officials already having met or briefed most party groups.",
+          "text_original": "Thank you. The Commission’s broadcasting policy drew on a report by an independent adviser, which examined the Senedd’s historical position, looked at five other legislatures and considered relevant policy principles. I recently agreed that this policy could be reviewed. In September, Commissioners were asked to consider four options. It was determined that further consultation was required between the Commission and party groups, and this is now under way, with officials already having met or briefed most party groups.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=6346"
+        },
+        {
+          "id": "contribution-780633",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 6444,
+          "text_english": "So, Catherine, we are keeping consistency here that this is appearing in every Commissioner's questions, but simply to say the independent adviser's report remained part of the evidence that was also presented to Commissioners. That included, by the way, comparison with Australia, Canada, New Zealand, Westminster and Victoria and other parliaments. But the framework we're now using is one that looks at transparent, objective criteria rather than judgments about individual broadcasters' particular viewpoints and so on.\n\nThe original policy, by the way, that stands at the moment to amend what channels were available on internal tvs was agreed by the majority of the previous Commissioners, and in answer to your point, it ensures access to channels that have public service obligations and also provides one additional news channel, Sky News, to ensure plurality of news stations. You asked whether we're getting on with it: yes, as I said in my opening remarks, we're already engaging with political groups.",
+          "text_original": "So, Catherine, we are keeping consistency here that this is appearing in every Commissioner's questions, but simply to say the independent adviser's report remained part of the evidence that was also presented to Commissioners. That included, by the way, comparison with Australia, Canada, New Zealand, Westminster and Victoria and other parliaments. But the framework we're now using is one that looks at transparent, objective criteria rather than judgments about individual broadcasters' particular viewpoints and so on.\n\nThe original policy, by the way, that stands at the moment to amend what channels were available on internal tvs was agreed by the majority of the previous Commissioners, and in answer to your point, it ensures access to channels that have public service obligations and also provides one additional news channel, Sky News, to ensure plurality of news stations. You asked whether we're getting on with it: yes, as I said in my opening remarks, we're already engaging with political groups.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=6444"
+        },
+        {
+          "id": "contribution-780628",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 6607,
+          "text_english": "The Member tempts me to pre-empt where the review is going and also to pre-empt the views of individual Commissioners. There are four Commissioners that sit with me in deliberation on this and I think, out of respect for them, I have to wait to see the views of Members being put forward. They'll have heard the views put forward by all Members and will come to, I'm sure, a good and fair and reasonable decision on the four options that have been put in front of them.\n\nBy the way, just to remind Members, one of those options is, of course, focusing on the primary use of parliamentary monitors on the estate, which is to inform Members of what is going on in this place. However, there are also alternative views that say that Members should have ready access to breaking news and so on. We're comparing with other Parliaments as well as to what is currently done there. So, all views are genuinely welcomed.",
+          "text_original": "The Member tempts me to pre-empt where the review is going and also to pre-empt the views of individual Commissioners. There are four Commissioners that sit with me in deliberation on this and I think, out of respect for them, I have to wait to see the views of Members being put forward. They'll have heard the views put forward by all Members and will come to, I'm sure, a good and fair and reasonable decision on the four options that have been put in front of them.\n\nBy the way, just to remind Members, one of those options is, of course, focusing on the primary use of parliamentary monitors on the estate, which is to inform Members of what is going on in this place. However, there are also alternative views that say that Members should have ready access to breaking news and so on. We're comparing with other Parliaments as well as to what is currently done there. So, all views are genuinely welcomed.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=6607"
+        },
+        {
+          "id": "contribution-780642",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 6666,
+          "text_english": "Diolch. The Commission cannot formally mandate training for Members, who are of course elected office holders, or their staff, who are employed by those individual Members. However, the Commission treats learning or briefings that inform and protect Members, their staff and the Senedd from legal, regulatory or reputational risk as necessary and recommend them as essential.\n\nWe provide training and support to help Members understand their responsibilities and ensure their staff are appropriately trained, and we continue to promote participation through accessible, appropriately sequenced provision. Participation by Members and Member support staff is vital. It has been particularly helpful in the past when party groups have required their Members to attend particular training, while employing Members may require—and, depending on the subject, may be responsible for ensuring—that their staff complete appropriate training.",
+          "text_original": "Diolch. The Commission cannot formally mandate training for Members, who are of course elected office holders, or their staff, who are employed by those individual Members. However, the Commission treats learning or briefings that inform and protect Members, their staff and the Senedd from legal, regulatory or reputational risk as necessary and recommend them as essential.\n\nWe provide training and support to help Members understand their responsibilities and ensure their staff are appropriately trained, and we continue to promote participation through accessible, appropriately sequenced provision. Participation by Members and Member support staff is vital. It has been particularly helpful in the past when party groups have required their Members to attend particular training, while employing Members may require—and, depending on the subject, may be responsible for ensuring—that their staff complete appropriate training.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=6666"
+        },
+        {
+          "id": "contribution-780648",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 6775,
+          "text_english": "Diolch yn fawr. I think I've mentioned the point in terms of mandatory training. Members are elected office holders, so we cannot formally mandate training for Members, but you rightly raise the issue of the role of group offices. In the interests of their Members and their staff, we've stressed how critical we see these opportunities that are provided. If it is of help to Members, once again, I can happily write out to Members and business managers to explain to them how they can direct their Members to safeguarding training.\n\nThe safeguarding policy statement is on the hwb online and includes, by the way, matters such as appointing a safeguarding lead, safer recruitment, secure record keeping, reporting arrangements, safe physical and digital environments, and much more as well. So, we're providing every possible opportunity that there can be, both for Members' benefit and for their staff's benefit. I'll take away and consider, Sera, from the question whether it would be helpful to write out once again to business managers and Members to remind them of how they can do this.",
+          "text_original": "Diolch yn fawr. I think I've mentioned the point in terms of mandatory training. Members are elected office holders, so we cannot formally mandate training for Members, but you rightly raise the issue of the role of group offices. In the interests of their Members and their staff, we've stressed how critical we see these opportunities that are provided. If it is of help to Members, once again, I can happily write out to Members and business managers to explain to them how they can direct their Members to safeguarding training.\n\nThe safeguarding policy statement is on the hwb online and includes, by the way, matters such as appointing a safeguarding lead, safer recruitment, secure record keeping, reporting arrangements, safe physical and digital environments, and much more as well. So, we're providing every possible opportunity that there can be, both for Members' benefit and for their staff's benefit. I'll take away and consider, Sera, from the question whether it would be helpful to write out once again to business managers and Members to remind them of how they can do this.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=6775"
+        },
+        {
+          "id": "contribution-780677",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 6886,
+          "text_english": "Yes, we've stressed—I stressed in my opening remarks—how we consider that this training that we offer is vital. It really is. And it's also vital for the protection of the individual Members as well, because they know that if they've undertaken the training, they are better protected themselves, and so are their staff. And also the public then can have confidence. But, again, I come back to the point here: we can do a lot through business managers, we can do a lot through individual Members. We are making this very easily accessible to Members, but perhaps I could stress how critical this training is, to then appeal to all Members and business managers to take it back to their groups and encourage their Members to do it.",
+          "text_original": "Yes, we've stressed—I stressed in my opening remarks—how we consider that this training that we offer is vital. It really is. And it's also vital for the protection of the individual Members as well, because they know that if they've undertaken the training, they are better protected themselves, and so are their staff. And also the public then can have confidence. But, again, I come back to the point here: we can do a lot through business managers, we can do a lot through individual Members. We are making this very easily accessible to Members, but perhaps I could stress how critical this training is, to then appeal to all Members and business managers to take it back to their groups and encourage their Members to do it.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=6886"
+        },
+        {
+          "id": "contribution-780651",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 7296,
+          "text_english": "Commission officials are responsible for deciding what products are available in the Senedd shop. Products stocked are regularly reviewed and updated. Goods for sale in the shop range from, but are not exclusive to, branded souvenirs, local artisan goods, Welsh food and drink, and products that inform and engage on a broad range of topics. A comprehensive review to inform a refreshed shop strategy has been under way since July and has included support from an independent retail consultant. A refreshed shop strategy will go to Commissioners for consideration in the coming months.",
+          "text_original": "Commission officials are responsible for deciding what products are available in the Senedd shop. Products stocked are regularly reviewed and updated. Goods for sale in the shop range from, but are not exclusive to, branded souvenirs, local artisan goods, Welsh food and drink, and products that inform and engage on a broad range of topics. A comprehensive review to inform a refreshed shop strategy has been under way since July and has included support from an independent retail consultant. A refreshed shop strategy will go to Commissioners for consideration in the coming months.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=7296"
+        },
+        {
+          "id": "contribution-780660",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 7355,
+          "text_english": "Like most parliamentary gift shops, the Senedd shop sells a broad mix of products. We're always looking for ways to improve the gift shop and we welcome Members' and customers' feedback. But the Senedd Commission is also firmly committed to advancing diversity and inclusion, ensuring that the Senedd is welcoming and accessible and representative of the people of Wales. So, it's no surprise that that approach may be reflected in some of the items available for purchase.",
+          "text_original": "Like most parliamentary gift shops, the Senedd shop sells a broad mix of products. We're always looking for ways to improve the gift shop and we welcome Members' and customers' feedback. But the Senedd Commission is also firmly committed to advancing diversity and inclusion, ensuring that the Senedd is welcoming and accessible and representative of the people of Wales. So, it's no surprise that that approach may be reflected in some of the items available for purchase.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=7355"
+        },
+        {
+          "id": "contribution-780672",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "cy",
+          "t_start": 7589,
+          "text_english": "Thank you, Lindsay. We recognise how important community outreach work is in supporting and understanding the work of the Senedd. During the last year, our education and youth engagement team has delivered 29 outreach sessions in schools, colleges and youth groups in the area, working with more than 2,000 young people. A further 11 education sessions have been held here in Cardiff Bay, involving 337 young people from that area. \n\nDuring the election period, we took our outreach into communities across all constituencies, using pop-ups and conversations in familiar community settings to engage directly with local people, to answer their questions, and to increase understanding of the Senedd's role. This included activity in Blaenau Gwent Caerffili Rhymni.",
+          "text_original": "Diolch, Lindsay. Rydym yn cydnabod pa mor bwysig yw gwaith allgymorth cymunedol o ran helpu pobl i ddeall gwaith y Senedd. Yn ystod y flwyddyn ddiwethaf, mae ein tîm addysg ac ymgysylltu â phobl ifanc wedi cyflwyno 29 o sesiynau allgymorth mewn ysgolion, colegau a grwpiau ieuenctid yn yr ardal, gan weithio gyda mwy na 2,000 o bobl ifanc. Mae 11 o sesiynau addysg eraill wedi’u cynnal yma ym Mae Caerdydd, a hynny gyda 337 o bobl ifanc o’r ardal.  \n\nYn ystod cyfnod yr etholiad, fe wnaethom ni waith allgymorth mewn cymunedau ar draws pob etholaeth, gan ddefnyddio sesiynau sydyn a sgyrsiau mewn lleoliadau cymunedol cyfarwydd i ymgysylltu’n uniongyrchol â phobl leol, ateb eu cwestiynau, a gwella’u dealltwriaeth o rôl y Senedd. Roedd hwn yn cynnwys gweithgarwch ym Mlaenau Gwent Caerffili Rhymni.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=7589"
+        },
+        {
+          "id": "contribution-780693",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 7713,
+          "text_english": "We've received a fair bit of recognition in the Senedd, actually, for our outreach work. I mentioned in my opening response the 29 outreach sessions within that local area—within your constituency—within the last year. We could always do more, of course, and our team is keen to get out there, and invites Members along as well, because we think Members here, across the Siambr, are an important part of that engagement process.",
+          "text_original": "We've received a fair bit of recognition in the Senedd, actually, for our outreach work. I mentioned in my opening response the 29 outreach sessions within that local area—within your constituency—within the last year. We could always do more, of course, and our team is keen to get out there, and invites Members along as well, because we think Members here, across the Siambr, are an important part of that engagement process.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=7713"
+        },
+        {
+          "id": "contribution-780696",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "cy",
+          "t_start": 7739,
+          "text_english": "It is very important.",
+          "text_original": "Mae'n bwysig iawn.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=7739"
+        },
+        {
+          "id": "contribution-780701",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 7741,
+          "text_english": "We'll continue with that. I think it's a very important part of spreading the message and the understanding of what we do here, and how schools can engage, and how their voice can be heard as well, bringing it back to the Siambr. Thank you for the question; it's very helpful indeed.",
+          "text_original": "We'll continue with that. I think it's a very important part of spreading the message and the understanding of what we do here, and how schools can engage, and how their voice can be heard as well, bringing it back to the Siambr. Thank you for the question; it's very helpful indeed.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=7741"
+        },
+        {
+          "id": "contribution-780750",
+          "item_id": "item-16318-261021-7",
+          "item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+          "lang": "cy",
+          "t_start": 11084,
+          "text_english": "Thank you, Cabinet Minister. I call on Gwyn Williams to reply to the debate.",
+          "text_original": "Diolch, Weinidog Cabinet. Galwaf ar Gwyn Williams i ymateb i'r ddadl.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=11084"
+        },
+        {
+          "id": "contribution-780736",
+          "item_id": "item-16318-261021-7",
+          "item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+          "lang": "cy",
+          "t_start": 11222,
+          "text_english": "The proposal is to agree the motion. Does any Member object? [Objection.] There is objection. I will defer voting under this item until voting time.",
+          "text_original": "Y cwestiwn yw: a ddylid derbyn y cynnig? A oes unrhyw Aelod yn gwrthwynebu? [Gwrthwynebiad.] Gohiriaf y bleidlais o dan yr eitem hon tan y cyfnod pleidleisio.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=11222"
+        },
+        {
+          "id": "contribution-780741",
+          "item_id": "item-16318-261021-8",
+          "item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+          "lang": "cy",
+          "t_start": 11237,
+          "text_english": "We will now move to our next item, the Reform UK debate, prostate cancer strategy. I call on Benjamin Hodge Mckenna to move the motion.",
+          "text_original": "Symudwn ymlaen nawr at yr eitem nesaf, dadl Reform UK, strategaeth canser y prostad. Galwaf ar Benjamin Hodge Mckenna i wneud y cynnig.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=11237"
+        },
+        {
+          "id": "contribution-780756",
+          "item_id": "item-16318-261021-8",
+          "item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+          "lang": "cy",
+          "t_start": 11631,
+          "text_english": "I have selected the amendment to the motion. I call on Paul Davies to move amendment 1 tabled in his own name.",
+          "text_original": "Rwyf wedi dethol y gwelliant i'r cynnig. Galwaf ar Paul Davies i gynnig gwelliant 1 a gyflwynwyd yn ei enw ei hun.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=11631"
+        },
+        {
+          "id": "contribution-780769",
+          "item_id": "item-16318-261021-8",
+          "item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+          "lang": "cy",
+          "t_start": 13831,
+          "text_english": "I call on the Cabinet Minister for Health and Care, Mabon ap Gwynfor.",
+          "text_original": "Galwaf ar y Gweinidog Cabinet dros Iechyd a Gofal, Mabon ap Gwynfor.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=13831"
+        },
+        {
+          "id": "contribution-780780",
+          "item_id": "item-16318-261021-8",
+          "item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+          "lang": "cy",
+          "t_start": 14311,
+          "text_english": "I call on James Evans to respond to the debate.",
+          "text_original": "Galwaf ar James Evans i ymateb i'r ddadl.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=14311"
+        },
+        {
+          "id": "contribution-780801",
+          "item_id": "item-16318-261021-8",
+          "item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+          "lang": "cy",
+          "t_start": 14881,
+          "text_english": "The proposal is to agree the motion without amendment. Does any Member object? [Objection.] I will therefore will defer voting under this item until voting time.",
+          "text_original": "Y cwestiwn yw: a ddylid derbyn y cynnig heb ei ddiwygio? A oes unrhyw Aelod yn gwrthwynebu? [Gwrthwynebiad.] Gohiriaf y bleidlais o dan yr eitem hon tan y cyfnod pleidleisio.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=14881"
+        },
+        {
+          "id": "contribution-780809",
+          "item_id": "item-16318-261021-9",
+          "item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+          "lang": "cy",
+          "t_start": 14895,
+          "text_english": "The next item is the Welsh Labour debate, the M4 around Newport. I call on Jayne Bryant to move the motion.",
+          "text_original": "Yr eitem nesaf yw dadl Llafur Cymru, yr M4 o amgylch Casnewydd. Galwaf ar Jayne Bryant i wneud y cynnig.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=14895"
+        },
+        {
+          "id": "contribution-780785",
+          "item_id": "item-16318-261021-9",
+          "item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+          "lang": "cy",
+          "t_start": 15420,
+          "text_english": "I have selected the amendments to the motion. I call on the Deputy Minister for Transport to move formally amendment 1, tabled in the name of Heledd Fychan.",
+          "text_original": "Rwyf wedi dethol y gwelliant i'r cynnig. Galwaf ar y Dirprwy Weinidog dros Drafnidiaeth i gynnig yn ffurfiol welliant 1 a gyflwynwyd yn enw Heledd Fychan.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=15420"
+        },
+        {
+          "id": "contribution-780794",
+          "item_id": "item-16318-261021-9",
+          "item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+          "lang": "cy",
+          "t_start": 15432,
+          "text_english": "Thank you very much. Lyn Ackerman.",
+          "text_original": "Diolch yn fawr iawn. Lyn Ackerman.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=15432"
+        },
+        {
+          "id": "contribution-780817",
+          "item_id": "item-16318-261021-9",
+          "item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+          "lang": "en",
+          "t_start": 16560,
+          "text_english": "Could you conclude now, please, Natasha?",
+          "text_original": "Could you conclude now, please, Natasha?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=16560"
+        },
+        {
+          "id": "contribution-780821",
+          "item_id": "item-16318-261021-9",
+          "item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+          "lang": "en",
+          "t_start": 16573,
+          "text_english": "Ken Skates.",
+          "text_original": "Ken Skates.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=16573"
+        },
+        {
+          "id": "contribution-781001",
+          "item_id": "item-16318-261021-9",
+          "item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+          "lang": "en",
+          "t_start": 16577,
+          "text_english": "Ken Skates.",
+          "text_original": "Ken Skates.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=16577"
+        },
+        {
+          "id": "contribution-780828",
+          "item_id": "item-16318-261021-9",
+          "item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+          "lang": "en",
+          "t_start": 16592,
+          "text_english": "[Inaudible.]—going, but I said loud enough, please, to conclude the remarks. Ken Skates.",
+          "text_original": "[Inaudible.]—going, but I said loud enough, please, to conclude the remarks. Ken Skates.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=16592"
+        },
+        {
+          "id": "contribution-780820",
+          "item_id": "item-16318-261021-9",
+          "item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+          "lang": "en",
+          "t_start": 16910,
+          "text_english": "Could I forewarn Members that there are many names down in this debate? I don't think I'll be able to call everyone, but let's do our best. Paul Rock.",
+          "text_original": "Could I forewarn Members that there are many names down in this debate? I don't think I'll be able to call everyone, but let's do our best. Paul Rock.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=16910"
+        },
+        {
+          "id": "contribution-780897",
+          "item_id": "item-16318-261021-9",
+          "item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+          "lang": "en",
+          "t_start": 17579,
+          "text_english": "Diolch, Mike. I'm going to call one last person for a short contribution. Art Wright.",
+          "text_original": "Diolch, Mike. I'm going to call one last person for a short contribution. Art Wright.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=17579"
+        },
+        {
+          "id": "contribution-780882",
+          "item_id": "item-16318-261021-9",
+          "item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+          "lang": "cy",
+          "t_start": 17896,
+          "text_english": "I call on the Deputy Minister for Transport, Mark Hooper.",
+          "text_original": "Galwaf ar y Dirprwy Weinidog dros Drafnidiaeth, Mark Hooper.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=17896"
+        },
+        {
+          "id": "contribution-780902",
+          "item_id": "item-16318-261021-9",
+          "item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+          "lang": "en",
+          "t_start": 18455,
+          "text_english": "Could you conclude now, please?",
+          "text_original": "Could you conclude now, please?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=18455"
+        },
+        {
+          "id": "contribution-780905",
+          "item_id": "item-16318-261021-9",
+          "item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+          "lang": "cy",
+          "t_start": 18461,
+          "text_english": "I call on Jayne Bryant to reply to the debate.",
+          "text_original": "Galwaf ar Jayne Bryant i ymateb i'r ddadl.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=18461"
+        },
+        {
+          "id": "contribution-780893",
+          "item_id": "item-16318-261021-9",
+          "item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+          "lang": "cy",
+          "t_start": 18897,
+          "text_english": "The proposal is to agree the motion without amendment. Does any Member object? [Objection.] There are objections. I will therefore defer voting under this item until voting time.",
+          "text_original": "Y cwestiwn yw: a ddylid derbyn y cynnig heb ei ddiwygio? A oes unrhyw Aelod yn gwrthwynebu? [Gwrthwynebiad.] Oes. Gohiriaf y bleidlais o dan yr eitem hon tan y cyfnod pleidleisio.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=18897"
+        },
+        {
+          "id": "contribution-780838",
+          "item_id": "item-16318-261021-9",
+          "item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+          "lang": "en",
+          "t_start": 18913,
+          "text_english": "Unless there are five Members who wish for the bell to be rung, we will proceed straight to voting.",
+          "text_original": "Unless there are five Members who wish for the bell to be rung, we will proceed straight to voting.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=18913"
+        },
+        {
+          "id": "contribution-780840",
+          "item_id": "item-16318-261021-10",
+          "item_title_en": "9. Voting Time",
+          "lang": "cy",
+          "t_start": 18930,
+          "text_english": "We will first vote on the Members' legislative debate under Standing Order 11.21(iv), an NHS first Bill. I call for a vote on the motion tabled in the name of Gwyn Williams. Open the vote. Close the vote. The result of the vote is as follows: in favour 64, 24 abstentions, 2 against. Therefore, the motion is agreed.",
+          "text_original": "Yn gyntaf, dadl ddeddfwriaethol Aelodau o dan Reol Sefydlog 11.21(iv), Bil y GIG yn gyntaf. Galwaf am bleidlais ar y cynnig a gyflwynwyd yn enw Gwyn Williams. Agorwch y bleidlais. Cau'r bleidlais. Dyma ganlyniad y bleidlais: o blaid 64, yn ymatal 24, yn erbyn 2. Mae'r cynnig wedi ei dderbyn.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=18930"
+        },
+        {
+          "id": "contribution-780842",
+          "item_id": "item-16318-261021-10",
+          "item_title_en": "9. Voting Time",
+          "lang": "cy",
+          "t_start": 18997,
+          "text_english": "We will now move to the Reform UK debate, a prostate cancer strategy. I call for a vote on the motion tabled in the name of Llŷr Powell. If the proposal is not agreed, we will vote on the amendment tabled to the motion. Open the vote. Close the vote. The result of the vote is as follows: in favour 90, no abstentions, none against. The motion is therefore agreed.",
+          "text_original": "Symudwn nawr at bleidleisio ar ddadl Reform UK, strategaeth canser y prostad. Galwaf am bleidlais ar y cynnig a gyflwynwyd yn enw Llŷr Powell. Os gwrthodir y cynnig, byddwn yn pleidleisio ar y gwelliant a gyflwynwyd i'r cynnig. Agorwch y bleidlais. Cau'r bleidlais. Dyma ganlyniad y bleidlais: o blaid 90, neb yn ymatal, neb yn erbyn. Mae'r cynnig wedi ei dderbyn.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=18997"
+        },
+        {
+          "id": "contribution-780844",
+          "item_id": "item-16318-261021-10",
+          "item_title_en": "9. Voting Time",
+          "lang": "cy",
+          "t_start": 19059,
+          "text_english": "We'll now vote on the Welsh Labour debate, the M4 around Newport. I call for a vote on the motion tabled in the name of Lynne Neagle. If the proposal is not agreed, we will vote on the amendment tabled to the motion. Open the Vote. Close the vote. The result of the vote is as follows: in favour 46, no abstentions, 44 against. The motion is therefore agreed.",
+          "text_original": "Nesaf, pleidleisiwn ar ddadl Llafur Cymru, yr M4 o amgylch Casnewydd. Galwaf am bleidlais ar y cynnig a gyflwynwyd yn enw Lynne Neagle. Os gwrthodir y cynnig, byddwn yn pleidleisio ar y gwelliant a gyflwynwyd i'r cynnig. Agorwch y bleidlais. Cau'r bleidlais. Dyma ganlyniad y bleidlais: o blaid 46, neb yn ymatal, yn erbyn 44. Mae'r cynnig wedi ei dderbyn.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=19059"
+        },
+        {
+          "id": "contribution-780878",
+          "item_id": "item-16318-261021-10",
+          "item_title_en": "9. Voting Time",
+          "lang": "en",
+          "t_start": 19132,
+          "text_english": "If Members are leaving, if they could do so quickly and quietly, please.",
+          "text_original": "If Members are leaving, if they could do so quickly and quietly, please.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=19132"
+        },
+        {
+          "id": "contribution-780881",
+          "item_id": "item-16318-261021-11",
+          "item_title_en": "10. Short Debate: Full-face coverings are against British values",
+          "lang": "cy",
+          "t_start": 19174,
+          "text_english": "The next item is the short debate. Jason O'Connell.",
+          "text_original": "Yr eitem nesaf yw'r ddadl fer. Jason O'Connell.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=19174"
+        },
+        {
+          "id": "contribution-781065",
+          "item_id": "item-16318-261021-11",
+          "item_title_en": "10. Short Debate: Full-face coverings are against British values",
+          "lang": "en",
+          "t_start": 19602,
+          "text_english": "[Inaudible.]—different from the list that we have here. Could you give me the list again, please?",
+          "text_original": "[Inaudible.]—different from the list that we have here. Could you give me the list again, please?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=19602"
+        },
+        {
+          "id": "contribution-781071",
+          "item_id": "item-16318-261021-11",
+          "item_title_en": "10. Short Debate: Full-face coverings are against British values",
+          "lang": "en",
+          "t_start": 19558,
+          "text_english": "Carrie Harper.",
+          "text_original": "Carrie Harper.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=19558"
+        },
+        {
+          "id": "contribution-780858",
+          "item_id": "item-16318-261021-11",
+          "item_title_en": "10. Short Debate: Full-face coverings are against British values",
+          "lang": "en",
+          "t_start": 20085,
+          "text_english": "David Mills.",
+          "text_original": "David Mills.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=20085"
+        },
+        {
+          "id": "contribution-780886",
+          "item_id": "item-16318-261021-11",
+          "item_title_en": "10. Short Debate: Full-face coverings are against British values",
+          "lang": "cy",
+          "t_start": 20195,
+          "text_english": "I call on the Deputy First Minister and Cabinet Minister for Social Justice and Equality to reply to the debate—Sioned Williams.",
+          "text_original": "Galwaf ar y Dirprwy Brif Weinidog a Gweinidog Cabinet dros Gyfiawnder Cymdeithasol a Chydraddoldeb i ymateb i'r ddadl—Sioned Williams.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=20195"
+        },
+        {
+          "id": "contribution-781024",
+          "item_id": "item-16318-261021-11",
+          "item_title_en": "10. Short Debate: Full-face coverings are against British values",
+          "lang": "en",
+          "t_start": 20581,
+          "text_english": "Could I ask the Minister to pause for a moment, please? There's a point of order being raised.",
+          "text_original": "Could I ask the Minister to pause for a moment, please? There's a point of order being raised.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=20581"
+        },
+        {
+          "id": "contribution-781036",
+          "item_id": "item-16318-261021-11",
+          "item_title_en": "10. Short Debate: Full-face coverings are against British values",
+          "lang": "en",
+          "t_start": 20604,
+          "text_english": "I am always happy to review the Record of Proceedings and return to the matter if—if—I consider a ruling is necessary. But the Minister can respond.",
+          "text_original": "I am always happy to review the Record of Proceedings and return to the matter if—if—I consider a ruling is necessary. But the Minister can respond.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=20604"
+        },
+        {
+          "id": "contribution-780908",
+          "item_id": "item-16318-261021-11",
+          "item_title_en": "10. Short Debate: Full-face coverings are against British values",
+          "lang": "cy",
+          "t_start": 20960,
+          "text_english": "That brings today's proceedings to a close. Thank you.",
+          "text_original": "Daw hynny â thrafodion heddiw i ben. Diolch yn fawr iawn.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=20960"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-779826",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 3,
+          "text_english": "Good afternoon, everybody.",
+          "text_original": "Prynhawn da, bawb.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=3"
+        },
+        {
+          "id": "contribution-779831",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 5,
+          "text_english": "Good afternoon, everybody.",
+          "text_original": "Good afternoon, everybody.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=5"
+        },
         {
           "id": "contribution-779719",
           "item_id": "item-16317-261020-1",
           "item_title_en": "1. Questions to the First Minister",
           "lang": "cy",
-          "t_start": 1,
-          "text_english": "Good afternoon, everybody. We will begin this afternoon with questions to the First Minister. Question 1, Lyn Ackerman.",
-          "text_original": "Prynhawn da, bawb. Rydyn ni'n dechrau nawr gyda cwestiynau i'r Prif Weinidog. Cwestiwn 1, Lyn Ackerman.",
-          "tv_url": "http://www.senedd.tv/en/16317?startPos=1"
+          "t_start": 7,
+          "text_english": "We will begin this afternoon with questions to the First Minister. Question 1, Lyn Ackerman.",
+          "text_original": "Rydyn ni'n dechrau nawr gyda chwestiynau i'r Prif Weinidog. Cwestiwn 1, Lyn Ackerman.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=7"
         },
         {
           "id": "contribution-779749",
           "item_id": "item-16317-261020-1",
           "item_title_en": "1. Questions to the First Minister",
           "lang": "cy",
-          "t_start": 780,
-          "text_english": "I now call on the party leaders to question the First Minister. First, leader of Reform UK, Helen Jenner.",
+          "t_start": 783,
+          "text_english": "I now call on the party leaders to question the First Minister. First, the leader of Reform UK, Helen Jenner.",
           "text_original": "Galwaf yn awr ar arweinwyr y pleidiau i holi'r Prif Weinidog. Yn gyntaf, arweinydd Reform UK, Helen Jenner.",
-          "tv_url": "http://www.senedd.tv/en/16317?startPos=780"
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=783"
+        },
+        {
+          "id": "contribution-779920",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 1081,
+          "text_english": "The leader of Welsh Labour, Ken Skates.",
+          "text_original": "Arweinydd Llafur Cymru, Ken Skates.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=1081"
         },
         {
           "id": "contribution-779750",
           "item_id": "item-16317-261020-1",
           "item_title_en": "1. Questions to the First Minister",
           "lang": "cy",
-          "t_start": 1315,
+          "t_start": 1318,
           "text_english": "The leader of the Welsh Conservatives, Darren Millar.",
           "text_original": "Arweinydd y Ceidwadwyr Cymreig, Darren Millar.",
-          "tv_url": "http://www.senedd.tv/en/16317?startPos=1315"
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=1318"
+        },
+        {
+          "id": "contribution-779816",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 3483,
+          "text_english": "Finally, First Minister, question 11, Gareth Thomas.",
+          "text_original": "Yn olaf, Brif Weinidog, cwestiwn 11, Gareth Thomas.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=3483"
+        },
+        {
+          "id": "contribution-779815",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": 3683,
+          "text_english": "Thank you, First Minister.",
+          "text_original": "Diolch, Brif Weinidog.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=3683"
+        },
+        {
+          "id": "contribution-779821",
+          "item_id": "item-16317-261020-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "cy",
+          "t_start": 3684,
+          "text_english": "Questions now to the Counsel General. Question 1, Catherine Cullen.",
+          "text_original": "Cwestiynau nawr i'r Cwnsler Cyffredinol. Cwestiwn 1, Catherine Cullen.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=3684"
+        },
+        {
+          "id": "contribution-779839",
+          "item_id": "item-16317-261020-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "cy",
+          "t_start": 3975,
+          "text_english": "Question 2 [OQ64747] has been withdrawn. Question 3, Jane Dodds.",
+          "text_original": "Tynnwyd cwestiwn 2 [OQ64747] yn ôl. Cwestiwn 3, Jane Dodds.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=3975"
+        },
+        {
+          "id": "contribution-779851",
+          "item_id": "item-16317-261020-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "cy",
+          "t_start": 4404,
+          "text_english": "I now call the party spokespeople to question the Counsel General. Reform UK spokesperson, Adrian Mason.",
+          "text_original": "Galwaf yn awr ar lefarwyr y pleidiau i holi'r Cwnsler Cyffredinol. Llefarydd Reform UK, Adrian Mason.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=4404"
+        },
+        {
+          "id": "contribution-779861",
+          "item_id": "item-16317-261020-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "cy",
+          "t_start": 4708,
+          "text_english": "The Welsh Labour spokesperson, Mike Hedges.",
+          "text_original": "Llefarydd Llafur Cymru, Mike Hedges.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=4708"
+        },
+        {
+          "id": "contribution-779854",
+          "item_id": "item-16317-261020-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "cy",
+          "t_start": 4874,
+          "text_english": "The Welsh Conservatives' spokesperson, Natasha Asghar.",
+          "text_original": "Llefarydd y Ceidwadwyr Cymreig, Natasha Asghar.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=4874"
+        },
+        {
+          "id": "contribution-779926",
+          "item_id": "item-16317-261020-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "cy",
+          "t_start": 5379,
+          "text_english": "[Inaudible.]—answer the question.",
+          "text_original": "[Anghlywadwy.]—ateb y cwestiwn.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=5379"
+        },
+        {
+          "id": "contribution-779913",
+          "item_id": "item-16317-261020-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "cy",
+          "t_start": 6255,
+          "text_english": "Finally, question 11. John Clark.",
+          "text_original": "Yn olaf, cwestiwn 11. John Clark.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=6255"
+        },
+        {
+          "id": "contribution-779956",
+          "item_id": "item-16317-261020-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "cy",
+          "t_start": 6440,
+          "text_english": "Thank you, Counsel General.",
+          "text_original": "Diolch, Gwnsler Cyffredinol.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=6440"
+        },
+        {
+          "id": "contribution-779958",
+          "item_id": "item-16317-261020-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "cy",
+          "t_start": 6442,
+          "text_english": "We'll now move to the business statement and announcement. I call on the Trefnydd, Heledd Fychan.",
+          "text_original": "Symudwn yn nawr at y datganiad a chyhoeddiad busnes. Galwaf ar y Trefnydd, Heledd Fychan.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=6442"
+        },
+        {
+          "id": "contribution-779961",
+          "item_id": "item-16317-261020-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "cy",
+          "t_start": 7642,
+          "text_english": "Finally on this item, Steven Rodaway.",
+          "text_original": "Yn olaf ar yr eitem yma, Steven Rodaway.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=7642"
+        },
+        {
+          "id": "contribution-780013",
+          "item_id": "item-16317-261020-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "cy",
+          "t_start": 7761,
+          "text_english": "Thanks, Trefnydd.",
+          "text_original": "Diolch, Drefnydd.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=7761"
+        },
+        {
+          "id": "contribution-779976",
+          "item_id": "item-16317-261020-4",
+          "item_title_en": "4. Statement by the First Minister: 60th Anniversary of the Aberfan Disaster",
+          "lang": "cy",
+          "t_start": 7763,
+          "text_english": "We'll now move to our next item, a statement by the First Minister noting the sixtieth anniversary of the Aberfan disaster. And I call on the First Minister, Rhun ap Iorwerth.",
+          "text_original": "Symudwn nawr at yr eitem nesaf, datganiad gan y Prif Weinidog: nodi 60 mlynedd ers trychineb Aberfan. Galwaf ar y Prif Weinidog, Rhun ap Iorwerth.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=7763"
+        },
+        {
+          "id": "contribution-779974",
+          "item_id": "item-16317-261020-4",
+          "item_title_en": "4. Statement by the First Minister: 60th Anniversary of the Aberfan Disaster",
+          "lang": "en",
+          "t_start": 9179,
+          "text_english": "The First Minister to respond to the opening contributions.",
+          "text_original": "The First Minister to respond to the opening contributions.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=9179"
+        },
+        {
+          "id": "contribution-780001",
+          "item_id": "item-16317-261020-4",
+          "item_title_en": "4. Statement by the First Minister: 60th Anniversary of the Aberfan Disaster",
+          "lang": "cy",
+          "t_start": 10318,
+          "text_english": "Thank you, First Minister. Thank you, everyone.",
+          "text_original": "Diolch, Brif Weinidog. Diolch, bawb.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=10318"
+        },
+        {
+          "id": "contribution-780002",
+          "item_id": "item-16317-261020-5",
+          "item_title_en": "5. Statement by the Cabinet Minister for Finance: Taxation (Wales) Bill",
+          "lang": "cy",
+          "t_start": 10323,
+          "text_english": "We now move to the next item, a statement by the Cabinet Minister for Finance, the Taxation (Wales) Bill. I call on the Cabinet Minister for Finance, Elin Jones.",
+          "text_original": "Symudwn nawr at yr eitem nesaf, datganiad y Gweinidog Cabinet dros Gyllid, Bil trethiant. Galwaf ar y Gweinidog Cabinet dros Gyllid, Elin Jones.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=10323"
+        },
+        {
+          "id": "contribution-780033",
+          "item_id": "item-16317-261020-5",
+          "item_title_en": "5. Statement by the Cabinet Minister for Finance: Taxation (Wales) Bill",
+          "lang": "cy",
+          "t_start": 11951,
+          "text_english": "We now move to one-minute contributions. First of all, Peredur Owen Griffiths.",
+          "text_original": "Symudwn yn awr at gyfraniadau un funud. Yn gyntaf, Peredur Owen Griffiths.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=11951"
+        },
+        {
+          "id": "contribution-780037",
+          "item_id": "item-16317-261020-5",
+          "item_title_en": "5. Statement by the Cabinet Minister for Finance: Taxation (Wales) Bill",
+          "lang": "cy",
+          "t_start": 12195,
+          "text_english": "And finally, Iain McIntosh.",
+          "text_original": "Ac yn olaf, Iain McIntosh.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=12195"
+        },
+        {
+          "id": "contribution-780364",
+          "item_id": "item-16317-261020-8",
+          "item_title_en": "8. Statement by the Cabinet Minister for Enterprise, Connectivity and Energy: Update on the National Energy Strategy",
+          "lang": "en",
+          "t_start": 19694,
+          "text_english": "Not at all.",
+          "text_original": "Not at all.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=19694"
+        },
+        {
+          "id": "contribution-780130",
+          "item_id": "item-16317-261020-8",
+          "item_title_en": "8. Statement by the Cabinet Minister for Enterprise, Connectivity and Energy: Update on the National Energy Strategy",
+          "lang": "cy",
+          "t_start": 20034,
+          "text_english": "We'll now move to one-minute contributions. First, John Davies.",
+          "text_original": "Symudwn at gyfraniadau un funud nawr. Yn gyntaf, John Davies.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=20034"
+        },
+        {
+          "id": "contribution-780154",
+          "item_id": "item-16317-261020-8",
+          "item_title_en": "8. Statement by the Cabinet Minister for Enterprise, Connectivity and Energy: Update on the National Energy Strategy",
+          "lang": "en",
+          "t_start": 20126,
+          "text_english": "Could you ask a question, please?",
+          "text_original": "Could you ask a question, please?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=20126"
+        },
+        {
+          "id": "contribution-780087",
+          "item_id": "item-16317-261020-8",
+          "item_title_en": "8. Statement by the Cabinet Minister for Enterprise, Connectivity and Energy: Update on the National Energy Strategy",
+          "lang": "cy",
+          "t_start": 20564,
+          "text_english": "And finally, Sarah Edwards.",
+          "text_original": "Ac yn olaf, Sarah Edwards.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=20564"
+        },
+        {
+          "id": "contribution-780117",
+          "item_id": "item-16317-261020-8",
+          "item_title_en": "8. Statement by the Cabinet Minister for Enterprise, Connectivity and Energy: Update on the National Energy Strategy",
+          "lang": "cy",
+          "t_start": 20713,
+          "text_english": "Thank you, Cabinet Secretary.",
+          "text_original": "Diolch, Weinidog Cabinet.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=20713"
+        },
+        {
+          "id": "contribution-780119",
+          "item_id": "item-16317-261020-9",
+          "item_title_en": "9. Legislative Consent Motion: The Cyber Security and Resilience (Network Information Systems) Bill",
+          "lang": "cy",
+          "t_start": 20715,
+          "text_english": "We'll move now to our next item, the legislative consent motion on the Cyber Security and Resilience (Network Information Systems) Bill. I call on the Cabinet Minister for Enterprise, Connectivity and Energy to move the motion—Adam Price.",
+          "text_original": "Symudwn at yr eitem nesaf, cynnig cydsyniad deddfwriaethol y Bil Seiberddiogelwch a Seiberwydnwch (Systemau Rhwydwaith a Gwybodaeth). Galwaf ar y Gweinidog Cabinet dros Fenter, Cysylltedd ac Ynni i wneud y cynnig—Adam Price.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=20715"
+        },
+        {
+          "id": "contribution-780112",
+          "item_id": "item-16317-261020-9",
+          "item_title_en": "9. Legislative Consent Motion: The Cyber Security and Resilience (Network Information Systems) Bill",
+          "lang": "cy",
+          "t_start": 21061,
+          "text_english": "Thank you. I call on the chair of the Legislation Committee, Cristiana Emsley.",
+          "text_original": "Diolch. Galwaf ar Gadeirydd y Pwyllgor Deddfwriaeth, Cristiana Emsley.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=21061"
+        },
+        {
+          "id": "contribution-780134",
+          "item_id": "item-16317-261020-9",
+          "item_title_en": "9. Legislative Consent Motion: The Cyber Security and Resilience (Network Information Systems) Bill",
+          "lang": "cy",
+          "t_start": 21369,
+          "text_english": "Thank you. Jason O'Connell.",
+          "text_original": "Diolch yn fawr. Jason O'Connell.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=21369"
+        },
+        {
+          "id": "contribution-780136",
+          "item_id": "item-16317-261020-9",
+          "item_title_en": "9. Legislative Consent Motion: The Cyber Security and Resilience (Network Information Systems) Bill",
+          "lang": "cy",
+          "t_start": 21419,
+          "text_english": "Thank you. I now call on the Cabinet Minister to reply to the debate.",
+          "text_original": "Diolch yn fawr. Galwaf nawr ar y Gweinidog Cabinet i ymateb i'r ddadl.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=21419"
+        },
+        {
+          "id": "contribution-780138",
+          "item_id": "item-16317-261020-9",
+          "item_title_en": "9. Legislative Consent Motion: The Cyber Security and Resilience (Network Information Systems) Bill",
+          "lang": "cy",
+          "t_start": 21491,
+          "text_english": "The proposal is to agree the motion. Does any Member object? No. Therefore, the motion is agreed in accordance with Standing Order 12.36.",
+          "text_original": "Felly, y cwestiwn yw: a ddylid derbyn y cynnig? A oes unrhyw Aelod yn gwrthwynebu? Nac oes. Felly, derbynnir y cynnig yn unol â Rheol Sefydlog 12.36.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=21491"
+        },
+        {
+          "id": "contribution-780145",
+          "item_id": "item-16317-261020-9",
+          "item_title_en": "9. Legislative Consent Motion: The Cyber Security and Resilience (Network Information Systems) Bill",
+          "lang": "cy",
+          "t_start": 21507,
+          "text_english": "Thank you very much. That brings today's proceedings to a close.",
+          "text_original": "Diolch yn fawr. Daw hynny â thrafodion heddiw i ben.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=21507"
         }
       ],
       "date": "2026-10-20",

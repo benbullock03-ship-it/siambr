@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "abstain"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,34 @@
   "canonical_name": "Steven Rodaway",
   "constituency_name_cy": "Gŵyr Abertawe",
   "constituency_name_en": "Gŵyr Abertawe",
-  "contribution_count": 28,
+  "contribution_count": 31,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780534",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "en",
+          "t_start": 3616,
+          "text_english": "Thank you, Mike, for the question. Improving further education in Swansea must mean providing the skills local industry needs. Employers need courses shaped around their businesses, reliable partnerships with colleges and practical help. For a small business, taking on an apprentice requires a financial and resource-heavy commitment. Announcing an audit does nothing on its own to meet these costs. Since your Government took office, another group of young people have left school hoping to secure an apprenticeship and employment. Employers need immediate funding. Your manifesto promises better use of existing city and regional growth deal funding to support apprenticeships. Your Government is happy to waste our money to fund international projects like tree planting in Uganda, but it seems Welsh employers are being left to shoulder apprenticeship costs. These are our young people, they are our future. What new funding has Plaid made available to help businesses, particularly smaller employers, take on apprentices?",
+          "text_original": "Thank you, Mike, for the question. Improving further education in Swansea must mean providing the skills local industry needs. Employers need courses shaped around their businesses, reliable partnerships with colleges and practical help. For a small business, taking on an apprentice requires a financial and resource-heavy commitment. Announcing an audit does nothing on its own to meet these costs. Since your Government took office, another group of young people have left school hoping to secure an apprenticeship and employment. Employers need immediate funding. Your manifesto promises better use of existing city and regional growth deal funding to support apprenticeships. Your Government is happy to waste our money to fund international projects like tree planting in Uganda, but it seems Welsh employers are being left to shoulder apprenticeship costs. These are our young people, they are our future. What new funding has Plaid made available to help businesses, particularly smaller employers, take on apprentices?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=3616"
+        },
+        {
+          "id": "contribution-780855",
+          "item_id": "item-16318-261021-11",
+          "item_title_en": "10. Short Debate: Full-face coverings are against British values",
+          "lang": "en",
+          "t_start": 19923,
+          "text_english": "I am proud to be Welsh, proud to be British, and unapologetic in defending our culture. In Britain we show our faces. It builds trust and, more importantly, it keeps us safe. In certain Islamic countries, under Islamic law, girls from puberty must cover their faces, and some countries will arrest females above the age of nine for showing too much hair. Whether balaclava or burqa, face coverings have no place on our streets here in Wales. It is oppressive, and it is a risk to Welsh public safety. We have written to the First Minister urging him to make a much-needed representation to the UK Government.\n\nThis summer, the Prime Minister and the First Minister managed to meet together to ban the barbecue. While those on the left want us to ban the barbecue, we in Reform want to ban the burqa, or the balaclava. Face coverings are incompatible with our British way of life. It is an outright betrayal of the dignity and freedom of women.\n\nBeyond this, we must look at banning cousin marriages and address religious attitudes towards women and homosexuals. Women's freedom and their safety here in Wales deserve urgency, which is why we must, at the very first possible opportunity, ban face coverings in public, and I urge every Member across this house to support this motion. Thank you.",
+          "text_original": "I am proud to be Welsh, proud to be British, and unapologetic in defending our culture. In Britain we show our faces. It builds trust and, more importantly, it keeps us safe. In certain Islamic countries, under Islamic law, girls from puberty must cover their faces, and some countries will arrest females above the age of nine for showing too much hair. Whether balaclava or burqa, face coverings have no place on our streets here in Wales. It is oppressive, and it is a risk to Welsh public safety. We have written to the First Minister urging him to make a much-needed representation to the UK Government.\n\nThis summer, the Prime Minister and the First Minister managed to meet together to ban the barbecue. While those on the left want us to ban the barbecue, we in Reform want to ban the burqa, or the balaclava. Face coverings are incompatible with our British way of life. It is an outright betrayal of the dignity and freedom of women.\n\nBeyond this, we must look at banning cousin marriages and address religious attitudes towards women and homosexuals. Women's freedom and their safety here in Wales deserve urgency, which is why we must, at the very first possible opportunity, ban face coverings in public, and I urge every Member across this house to support this motion. Thank you.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=19923"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
     {
       "contributions": [
         {
@@ -750,10 +809,20 @@
           "item_id": "item-16317-261020-1",
           "item_title_en": "1. Questions to the First Minister",
           "lang": "en",
-          "t_start": 122,
-          "text_english": "First Minister, once an annual health check identifies a need, responsibility should not fall on the individual to fight for treatment. People with learning disabilities need a clear, funded pathway to further test, specialist assessment and treatment. Welsh Labour's Lynne Neagle cited £550 million over three years from Westminster for ALN. We know not all this money will be allocated to ALN, and much will go to other manifesto commitments and pledges. Last week, your finance Minister didn't, couldn't or wouldn't answer my question on Cynnal, but delivered another Plaid word salad with no answers. Show some transparency on what the rest of the £550 million is being used for. Will it support treatment protocols for people with learning disabilities? If not, please identify the specific NHS budget that funds this pathway. Thank you.",
-          "text_original": "First Minister, once an annual health check identifies a need, responsibility should not fall on the individual to fight for treatment. People with learning disabilities need a clear, funded pathway to further test, specialist assessment and treatment. Welsh Labour's Lynne Neagle cited £550 million over three years from Westminster for ALN. We know not all this money will be allocated to ALN, and much will go to other manifesto commitments and pledges. Last week, your finance Minister didn't, couldn't or wouldn't answer my question on Cynnal, but delivered another Plaid word salad with no answers. Show some transparency on what the rest of the £550 million is being used for. Will it support treatment protocols for people with learning disabilities? If not, please identify the specific NHS budget that funds this pathway. Thank you.",
-          "tv_url": "http://www.senedd.tv/en/16317?startPos=122"
+          "t_start": 124,
+          "text_english": "First Minister, once an annual health check identifies a need, responsibility should not fall on the individual to fight for treatment. People with learning disabilities need a clear, funded pathway to further tests, specialist assessment and treatment. Welsh Labour's Lynne Neagle cited £550 million over three years from Westminster for ALN. We know not all this money will be allocated to ALN, and much will go to other manifesto commitments and pledges. Last week, your finance Minister didn't, couldn't or wouldn't answer my question on Cynnal, but delivered another Plaid word salad with no answers. Show some transparency on what the rest of the £550 million is being used for. Will it support treatment protocols for people with learning disabilities? If not, please identify the specific NHS budget that funds this pathway. Thank you.",
+          "text_original": "First Minister, once an annual health check identifies a need, responsibility should not fall on the individual to fight for treatment. People with learning disabilities need a clear, funded pathway to further tests, specialist assessment and treatment. Welsh Labour's Lynne Neagle cited £550 million over three years from Westminster for ALN. We know not all this money will be allocated to ALN, and much will go to other manifesto commitments and pledges. Last week, your finance Minister didn't, couldn't or wouldn't answer my question on Cynnal, but delivered another Plaid word salad with no answers. Show some transparency on what the rest of the £550 million is being used for. Will it support treatment protocols for people with learning disabilities? If not, please identify the specific NHS budget that funds this pathway. Thank you.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=124"
+        },
+        {
+          "id": "contribution-779963",
+          "item_id": "item-16317-261020-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 7647,
+          "text_english": "Thank you, Llywydd. Trefnydd, at a recent meeting, I heard that delays over Morriston Hospital's access road are holding back proposals for a proposed new emergency department. We understand that much of the planning sits with local government, but where is the ministerial leadership? What has Plaid done to bring the health board, the planning authority, and Natural Resources Wales around one table, agree what remains outstanding for major projects, and set deadlines for resolving them?\n\nDelays have consequences beyond the hospital. Construction work means jobs and spending with local suppliers. Every delay postpones these benefits. The local economy needs investment moving, not paperwork circulating. Plaid promised tangible action from day one. One hundred and sixty-one days later, where is that action for Morriston? Your delivery efforts appear to need resuscitation, just like those of your Labour predecessors, who are now your partners in this cozy budget deal. \n\nWill the Minister schedule a statement setting out the meetings Ministers have convened, the obstacles still outstanding, and a clear timetable for action? The NHS, its patients, and my constituents need action. Thank you.",
+          "text_original": "Thank you, Llywydd. Trefnydd, at a recent meeting, I heard that delays over Morriston Hospital's access road are holding back proposals for a proposed new emergency department. We understand that much of the planning sits with local government, but where is the ministerial leadership? What has Plaid done to bring the health board, the planning authority, and Natural Resources Wales around one table, agree what remains outstanding for major projects, and set deadlines for resolving them?\n\nDelays have consequences beyond the hospital. Construction work means jobs and spending with local suppliers. Every delay postpones these benefits. The local economy needs investment moving, not paperwork circulating. Plaid promised tangible action from day one. One hundred and sixty-one days later, where is that action for Morriston? Your delivery efforts appear to need resuscitation, just like those of your Labour predecessors, who are now your partners in this cozy budget deal. \n\nWill the Minister schedule a statement setting out the meetings Ministers have convened, the obstacles still outstanding, and a clear timetable for action? The NHS, its patients, and my constituents need action. Thank you.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=7647"
         }
       ],
       "date": "2026-10-20",

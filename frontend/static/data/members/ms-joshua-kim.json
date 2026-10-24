@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "abstain"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -750,10 +783,10 @@
           "item_id": "item-16318-261021-2",
           "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
           "lang": "en",
-          "t_start": 817,
-          "text_english": "Minister, traditionally, entry-level roles have allowed young people to gain the experience needed to progress into more skilled employment. But AI now threatens to automate some of those opportunities.\n\nWhat assessment, therefore, has the Welsh Government made of the impact of AI on entry-level employment opportunities for young people in Blaenau Gwent Caerffili Rhymni, and what discussions has the Cabinet Minister had with the Deputy Minister for skills about ensuring that training provision in our constituency prepares young people for the jobs likely to be available in five to 10 years' time?",
-          "text_original": "Minister, traditionally, entry-level roles have allowed young people to gain the experience needed to progress into more skilled employment. But AI now threatens to automate some of those opportunities.\n\nWhat assessment, therefore, has the Welsh Government made of the impact of AI on entry-level employment opportunities for young people in Blaenau Gwent Caerffili Rhymni, and what discussions has the Cabinet Minister had with the Deputy Minister for skills about ensuring that training provision in our constituency prepares young people for the jobs likely to be available in five to 10 years' time?",
-          "tv_url": "http://www.senedd.tv/en/16318?startPos=817"
+          "t_start": 819,
+          "text_english": "Minister, traditionally, entry-level roles have allowed young people to gain the experience needed to progress into more skilled employment. But artificial intelligence now threatens to automate some of those opportunities. What assessment, therefore, has the Welsh Government made of the impact of AI on entry-level employment opportunities for young people in Blaenau Gwent Caerffili Rhymni, and what discussions has the Cabinet Minister had with the Deputy Minister for skills about ensuring that training provision in our constituency prepares young people for the jobs likely to be available in five to 10 years' time?",
+          "text_original": "Minister, traditionally, entry-level roles have allowed young people to gain the experience needed to progress into more skilled employment. But artificial intelligence now threatens to automate some of those opportunities. What assessment, therefore, has the Welsh Government made of the impact of AI on entry-level employment opportunities for young people in Blaenau Gwent Caerffili Rhymni, and what discussions has the Cabinet Minister had with the Deputy Minister for skills about ensuring that training provision in our constituency prepares young people for the jobs likely to be available in five to 10 years' time?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=819"
         }
       ],
       "date": "2026-10-21",

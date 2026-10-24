@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,44 @@
   "canonical_name": "Nick Carter",
   "constituency_name_cy": "Caerdydd Ffynnon Taf",
   "constituency_name_en": "Caerdydd Ffynnon Taf",
-  "contribution_count": 15,
+  "contribution_count": 18,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780659",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 7152,
+          "text_english": "Firstly, I should declare an interest in so far as I've spent over 30 years working in the commercial property market.\n\nI fully understand that a decision needs to be made on the future of Tŷ Hywel, and that during the sixth Senedd, under the previous Welsh Government, the current proposal for Bay 32 was agreed by the Commission to be significantly cheaper than the only other alternative. Doing nothing is not an option and, unfortunately, it looks like it will fall on Members of this Senedd to deal with the issues around Tŷ Hywel's lease expiring. Therefore, I think that it is important that every Member recognises the potential disruption coming next summer, based on the current programme, as our offices are moved offsite for the rest of the Senedd term.\n\nSo, before the final decision is made, can more detailed proposals be presented to Members on the temporary relocation plan, especially on how our new offices will be arranged, and how they will link with this Siambr, so that the implications for our work here can be fully understood?",
+          "text_original": "Firstly, I should declare an interest in so far as I've spent over 30 years working in the commercial property market.\n\nI fully understand that a decision needs to be made on the future of Tŷ Hywel, and that during the sixth Senedd, under the previous Welsh Government, the current proposal for Bay 32 was agreed by the Commission to be significantly cheaper than the only other alternative. Doing nothing is not an option and, unfortunately, it looks like it will fall on Members of this Senedd to deal with the issues around Tŷ Hywel's lease expiring. Therefore, I think that it is important that every Member recognises the potential disruption coming next summer, based on the current programme, as our offices are moved offsite for the rest of the Senedd term.\n\nSo, before the final decision is made, can more detailed proposals be presented to Members on the temporary relocation plan, especially on how our new offices will be arranged, and how they will link with this Siambr, so that the implications for our work here can be fully understood?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=7152"
+        },
+        {
+          "id": "contribution-780710",
+          "item_id": "item-16318-261021-5",
+          "item_title_en": "4. Topical Questions",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "1. Will the Cabinet Minister make a statement on the widespread fuel leak in the River Taff? TQ1507",
+          "text_original": "1. A wnaiff y Gweinidog Cabinet ddatganiad am y gollyngiad tanwydd eang yn Afon Taf? TQ1507",
+          "tv_url": "http://www.senedd.tv/en/16318"
+        },
+        {
+          "id": "contribution-780716",
+          "item_id": "item-16318-261021-5",
+          "item_title_en": "4. Topical Questions",
+          "lang": "en",
+          "t_start": 7791,
+          "text_english": "Cabinet Minister, last Friday evening, residents of Caerdydd Ffynnon Taf in Nantgarw and Taff's Well, as well as communities in Tongwynlais and Gwaelod-y-garth, alerted NRW to a pollution incident in the River Taff, following a toxic leak from GE Aerosapce Wales's engine maintenance plant. We have been told that up to 25,000 litres of kerosene spilled into the river. The impact on people's health and the environmental damage, at least 2 miles downstream, was immediate. Members of the community we have met have spoken of unbearable conditions, which cause headaches, sickness and drowsiness. And then there has been the deadly impact on wildlife and the natural environment all along the river.\n\nWe have spoken to South Wales Fire and Rescue Service, who were called by NRW, and were first on the scene. They suggested that an incident occurred on the site sometime before they arrived. Finally, we have met with GE Aerospace, who have confirmed that they were the source of the leak and have assured us that the fuel lines have now been isolated to prevent any further spillage. We welcome the ongoing work being undertaken by Natural Resources Wales, Public Health Wales and the emergency services to assess and respond to this extremely serious incident, but many questions remain to be answered.\n\nWhat assurance have you received regarding the volume and chemical make-up of the fuel released, and what further risk is there given that this is an area prone to flooding? What discussions have you had with Natural Resources Wales regarding the next steps being taken around the clean-up operation and habitat restoration, and how long this is likely to last? When can we expect a full and transparent review to identify how, why and when exactly this incident occurred, what safeguards are in place, and what is being done to ensure that this won't happen again? Diolch.",
+          "text_original": "Cabinet Minister, last Friday evening, residents of Caerdydd Ffynnon Taf in Nantgarw and Taff's Well, as well as communities in Tongwynlais and Gwaelod-y-garth, alerted NRW to a pollution incident in the River Taff, following a toxic leak from GE Aerosapce Wales's engine maintenance plant. We have been told that up to 25,000 litres of kerosene spilled into the river. The impact on people's health and the environmental damage, at least 2 miles downstream, was immediate. Members of the community we have met have spoken of unbearable conditions, which cause headaches, sickness and drowsiness. And then there has been the deadly impact on wildlife and the natural environment all along the river.\n\nWe have spoken to South Wales Fire and Rescue Service, who were called by NRW, and were first on the scene. They suggested that an incident occurred on the site sometime before they arrived. Finally, we have met with GE Aerospace, who have confirmed that they were the source of the leak and have assured us that the fuel lines have now been isolated to prevent any further spillage. We welcome the ongoing work being undertaken by Natural Resources Wales, Public Health Wales and the emergency services to assess and respond to this extremely serious incident, but many questions remain to be answered.\n\nWhat assurance have you received regarding the volume and chemical make-up of the fuel released, and what further risk is there given that this is an area prone to flooding? What discussions have you had with Natural Resources Wales regarding the next steps being taken around the clean-up operation and habitat restoration, and how long this is likely to last? When can we expect a full and transparent review to identify how, why and when exactly this incident occurred, what safeguards are in place, and what is being done to ensure that this won't happen again? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=7791"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
     {
       "contributions": [
         {

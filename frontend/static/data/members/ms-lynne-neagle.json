@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "abstain"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,7 +774,7 @@
   "canonical_name": "Lynne Neagle",
   "constituency_name_cy": "Sir Fynwy Torfaen",
   "constituency_name_en": "Sir Fynwy Torfaen",
-  "contribution_count": 48,
+  "contribution_count": 52,
   "contributions_by_date": [
     {
       "contributions": [
@@ -760,24 +793,70 @@
           "item_id": "item-16318-261021-2",
           "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
           "lang": "en",
-          "t_start": 130,
-          "text_english": "Thank you, Cabinet Minister. As you are aware, we are facing a not in education, employment or training crisis in Wales, with everything that that means for young people's life chances, their employment and, of particular concern to me, their mental health and well-being. However, we're not now just facing the prospect of cuts in further education funding, but, as I've highlighted to you in correspondence, providers of services to young people through Jobs Growth Wales+, which is effectively a post-16 provision, are also seeing significant cuts. I'm grateful to you for your correspondence, but I have written back to you explaining that ACT, which has been praised across this Chamber for their transformative work with young people, has currently gone from a confirmed contract value of £18.8 million last year to £13.9 million in 2026-27.",
-          "text_original": "Thank you, Cabinet Minister. As you are aware, we are facing a not in education, employment or training crisis in Wales, with everything that that means for young people's life chances, their employment and, of particular concern to me, their mental health and well-being. However, we're not now just facing the prospect of cuts in further education funding, but, as I've highlighted to you in correspondence, providers of services to young people through Jobs Growth Wales+, which is effectively a post-16 provision, are also seeing significant cuts. I'm grateful to you for your correspondence, but I have written back to you explaining that ACT, which has been praised across this Chamber for their transformative work with young people, has currently gone from a confirmed contract value of £18.8 million last year to £13.9 million in 2026-27.",
-          "tv_url": "http://www.senedd.tv/en/16318?startPos=130"
+          "t_start": 132,
+          "text_english": "Thank you, Cabinet Minister. As you are aware, we are facing a 'not in education, employment or training' crisis in Wales, with everything that that means for young people's life chances, their employment and, of particular concern to me, their mental health and well-being. However, we're not now just facing the prospect of cuts in further education funding, but, as I've highlighted to you in correspondence, providers of services to young people through Jobs Growth Wales+, which is effectively a post-16 provision, are also seeing significant cuts. I'm grateful to you for your correspondence, but I have written back to you explaining that ACT, which has been praised across this Chamber for their transformative work with young people, has currently gone from a confirmed contract value of £18.8 million last year to £13.9 million in 2026-27.",
+          "text_original": "Thank you, Cabinet Minister. As you are aware, we are facing a 'not in education, employment or training' crisis in Wales, with everything that that means for young people's life chances, their employment and, of particular concern to me, their mental health and well-being. However, we're not now just facing the prospect of cuts in further education funding, but, as I've highlighted to you in correspondence, providers of services to young people through Jobs Growth Wales+, which is effectively a post-16 provision, are also seeing significant cuts. I'm grateful to you for your correspondence, but I have written back to you explaining that ACT, which has been praised across this Chamber for their transformative work with young people, has currently gone from a confirmed contract value of £18.8 million last year to £13.9 million in 2026-27.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=132"
         },
         {
           "id": "contribution-780452",
           "item_id": "item-16318-261021-2",
           "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
           "lang": "en",
-          "t_start": 198,
+          "t_start": 200,
           "text_english": "That is a 26 per cent cut. On the basis of these figures, can we accept that the Plaid Cymru Government is committed to tackling the NEET crisis, and, if that is the case, what are you going to do to reverse these cuts and ensure that all learners have an opportunity to have their education?",
           "text_original": "That is a 26 per cent cut. On the basis of these figures, can we accept that the Plaid Cymru Government is committed to tackling the NEET crisis, and, if that is the case, what are you going to do to reverse these cuts and ensure that all learners have an opportunity to have their education?",
-          "tv_url": "http://www.senedd.tv/en/16318?startPos=198"
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=200"
+        },
+        {
+          "id": "contribution-780538",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "en",
+          "t_start": 4245,
+          "text_english": "Thank you. Last week, as we've heard from Sera Evans, you announced a teacher pay award of 3.5 per cent following the consultation on the independent Welsh pay review body report. That announcement was made during an active industrial dispute, and the National Association of Head Teachers have now withdrawn from talks with the Government and announced that they are moving to a statutory industrial ballot. \n\nWhy did you make that announcement while talks were ongoing, and do you think that is in keeping with the principles of social partnership?",
+          "text_original": "Thank you. Last week, as we've heard from Sera Evans, you announced a teacher pay award of 3.5 per cent following the consultation on the independent Welsh pay review body report. That announcement was made during an active industrial dispute, and the National Association of Head Teachers have now withdrawn from talks with the Government and announced that they are moving to a statutory industrial ballot. \n\nWhy did you make that announcement while talks were ongoing, and do you think that is in keeping with the principles of social partnership?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=4245"
+        },
+        {
+          "id": "contribution-780553",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "en",
+          "t_start": 4380,
+          "text_english": "Well, thank you for that answer, and I'm fully in support of no detriment myself. And I do understand the financial constraints, but would point out that the Government still has a significant amount of unallocated resource as a result of the consequentials that were received by the UK Government. \n\nSo, since May, we've had an industrial dispute with the Association of School and College Leaders, an escalating dispute with the National Association of Head Teachers, and the National Education Union have previously gone out to indicative ballot. I hear what you're saying about being willing to talk to partners, but it doesn't seem to me like those talks are going as well as we would want them to go, really. So, in light of that, what are you going to do to get social partnership with the education trade unions back on line?",
+          "text_original": "Well, thank you for that answer, and I'm fully in support of no detriment myself. And I do understand the financial constraints, but would point out that the Government still has a significant amount of unallocated resource as a result of the consequentials that were received by the UK Government. \n\nSo, since May, we've had an industrial dispute with the Association of School and College Leaders, an escalating dispute with the National Association of Head Teachers, and the National Education Union have previously gone out to indicative ballot. I hear what you're saying about being willing to talk to partners, but it doesn't seem to me like those talks are going as well as we would want them to go, really. So, in light of that, what are you going to do to get social partnership with the education trade unions back on line?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=4380"
         }
       ],
       "date": "2026-10-21",
       "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-779783",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 1846,
+          "text_english": "First Minister, the previous Government had a programme of radical reform of care for care-experienced children and young people. That programme made progress, but I would argue that there is much more work still to be done. The programme benefited from the proactive involvement of successive First Ministers. Can I ask whether it is the Government's intention to continue that programme and whether you will personally be involved in it? Because I think that is a vital thing, that we all recognise that care-experienced children are all our children.",
+          "text_original": "First Minister, the previous Government had a programme of radical reform of care for care-experienced children and young people. That programme made progress, but I would argue that there is much more work still to be done. The programme benefited from the proactive involvement of successive First Ministers. Can I ask whether it is the Government's intention to continue that programme and whether you will personally be involved in it? Because I think that is a vital thing, that we all recognise that care-experienced children are all our children.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=1846"
+        },
+        {
+          "id": "contribution-779936",
+          "item_id": "item-16317-261020-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 7064,
+          "text_english": "Trefnydd, 4 November marks a year since the publication of 'Our Bravery Brought Justice'. I know that you will remember how united the whole Chamber was in shock at the failings exposed in that report. So, can I ask that a statement is brought forward by the Cabinet Minister for education, as I'm sure you would agree with me that we all have a duty to make sure—and we owe it to the young people affected to ensure—that all 27 of those recommendations are fully implemented?\n\nCan I note as well the wildfire summit on Thursday? This is of great importance, particularly to those of us who were affected by wildfires in the summer. So, can I ask that the First Minister brings forward a statement after recess to update us on the outcomes and findings of the summit?",
+          "text_original": "Trefnydd, 4 November marks a year since the publication of 'Our Bravery Brought Justice'. I know that you will remember how united the whole Chamber was in shock at the failings exposed in that report. So, can I ask that a statement is brought forward by the Cabinet Minister for education, as I'm sure you would agree with me that we all have a duty to make sure—and we owe it to the young people affected to ensure—that all 27 of those recommendations are fully implemented?\n\nCan I note as well the wildfire summit on Thursday? This is of great importance, particularly to those of us who were affected by wildfires in the summer. So, can I ask that the First Minister brings forward a statement after recess to update us on the outcomes and findings of the summit?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=7064"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
     },
     {
       "contributions": [

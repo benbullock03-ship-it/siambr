@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,34 @@
   "canonical_name": "Iain McIntosh",
   "constituency_name_cy": "Brycheiniog Tawe Nedd",
   "constituency_name_en": "Brycheiniog Tawe Nedd",
-  "contribution_count": 30,
+  "contribution_count": 32,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-779842",
+          "item_id": "item-16317-261020-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "en",
+          "t_start": 4266,
+          "text_english": "It's probably no surprise, but as a Member with Powys in my constituency, I'm going to be asking the same kinds of questions. Counsel General, when a health board proposes cutting hospital beds in rural communities, despite serious concerns from patients, families and local representatives, surely Welsh Ministers should have the power to step in and stop it. That's exactly what we're seeing here with Powys Teaching Health Board at the moment and their proposals affecting hospitals in Ystradgynlais and Llandrindod Wells. These decisions can have devastating consequences for communities that already struggle to access healthcare. If Ministers don't have sufficient powers to intervene, isn't it time they were given them? This Welsh Government cannot keep ducking and diving and telling people that health boards make these decisions independently while expecting the public to hold you to account for the NHS. Surely accountability must come with the power to act.",
+          "text_original": "It's probably no surprise, but as a Member with Powys in my constituency, I'm going to be asking the same kinds of questions. Counsel General, when a health board proposes cutting hospital beds in rural communities, despite serious concerns from patients, families and local representatives, surely Welsh Ministers should have the power to step in and stop it. That's exactly what we're seeing here with Powys Teaching Health Board at the moment and their proposals affecting hospitals in Ystradgynlais and Llandrindod Wells. These decisions can have devastating consequences for communities that already struggle to access healthcare. If Ministers don't have sufficient powers to intervene, isn't it time they were given them? This Welsh Government cannot keep ducking and diving and telling people that health boards make these decisions independently while expecting the public to hold you to account for the NHS. Surely accountability must come with the power to act.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=4266"
+        },
+        {
+          "id": "contribution-780038",
+          "item_id": "item-16317-261020-5",
+          "item_title_en": "5. Statement by the Cabinet Minister for Finance: Taxation (Wales) Bill",
+          "lang": "en",
+          "t_start": 12196,
+          "text_english": "Diolch, Lywydd. Cabinet Minister, your Government's own impact assessment estimates that this Bill will cost an additional £422,000 over 10 years, while claiming only £2.6 million in benefits. But much of those supposed savings are simply staff time being freed up, rather than actual money being saved for taxpayers. And when it comes to additional inspections of businesses, your assessment dismisses the disruption as negligible, without even putting a financial figure on it.\n\nCan you tell us how much of that £2.6 million will actually translate into reduced public spending? What assessment have you made of whether those additional powers and administrative costs are genuinely necessary? Because taxpayers deserve real savings, not just theoretical efficiencies on what appears to be a spreadsheet whilst the cost of government keeps growing.",
+          "text_original": "Diolch, Lywydd. Cabinet Minister, your Government's own impact assessment estimates that this Bill will cost an additional £422,000 over 10 years, while claiming only £2.6 million in benefits. But much of those supposed savings are simply staff time being freed up, rather than actual money being saved for taxpayers. And when it comes to additional inspections of businesses, your assessment dismisses the disruption as negligible, without even putting a financial figure on it.\n\nCan you tell us how much of that £2.6 million will actually translate into reduced public spending? What assessment have you made of whether those additional powers and administrative costs are genuinely necessary? Because taxpayers deserve real savings, not just theoretical efficiencies on what appears to be a spreadsheet whilst the cost of government keeps growing.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=12196"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
+    },
     {
       "contributions": [
         {

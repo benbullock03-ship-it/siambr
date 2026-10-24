@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,100 @@
   "canonical_name": "Francesca O'Brien",
   "constituency_name_cy": "Gŵyr Abertawe",
   "constituency_name_en": "Gŵyr Abertawe",
-  "contribution_count": 58,
+  "contribution_count": 66,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780863",
+          "item_id": "item-16318-261021-11",
+          "item_title_en": "10. Short Debate: Full-face coverings are against British values",
+          "lang": "en",
+          "t_start": 19536,
+          "text_english": "Face coverings, including the burqa, are anti British. Not all cultures are equal. We can't continue to import alien cultures into this country and expect integration. These oppressive beliefs are totally at odds with our history and culture. Banning these coverings is simple common sense. European countries like Denmark, Belgium and Austria have already banned them. We should do the same. Muslim countries like Kazakhstan and Tunisia have already banned face veils. France is currently on fire; this country could be next. We can't allow a parallel society to develop in this country, or we could be facing the consequences sooner than we think.",
+          "text_original": "Face coverings, including the burqa, are anti British. Not all cultures are equal. We can't continue to import alien cultures into this country and expect integration. These oppressive beliefs are totally at odds with our history and culture. Banning these coverings is simple common sense. European countries like Denmark, Belgium and Austria have already banned them. We should do the same. Muslim countries like Kazakhstan and Tunisia have already banned face veils. France is currently on fire; this country could be next. We can't allow a parallel society to develop in this country, or we could be facing the consequences sooner than we think.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=19536"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-779778",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "7. What action is the Welsh Government taking to support high-street businesses in Gŵyr Abertawe? OQ64730",
+          "text_original": "7. Pa gamau mae Llywodraeth Cymru yn eu cymryd i gefnogi busnesau'r stryd fawr yng Ngŵyr Abertawe? OQ64730",
+          "tv_url": "http://www.senedd.tv/en/16317"
+        },
+        {
+          "id": "contribution-779782",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 2871,
+          "text_english": "Thank you, First Minister. Our high streets are being taken over by dodgy vape and barbershops. Last week, in my constituency, two vape shops were shut down due to their suspected involvement in trading illegal goods, including drugs. It's also come to my attention that many similar businesses have been placed on the visa sponsor list, which allows them to bring in so-called skilled workers into this country. What is the Welsh Government doing to support councils, trading standards and immigration enforcement to finally take action on this crisis, which is destroying our local high streets?",
+          "text_original": "Thank you, First Minister. Our high streets are being taken over by dodgy vape and barbershops. Last week, in my constituency, two vape shops were shut down due to their suspected involvement in trading illegal goods, including drugs. It's also come to my attention that many similar businesses have been placed on the visa sponsor list, which allows them to bring in so-called skilled workers into this country. What is the Welsh Government doing to support councils, trading standards and immigration enforcement to finally take action on this crisis, which is destroying our local high streets?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=2871"
+        },
+        {
+          "id": "contribution-779893",
+          "item_id": "item-16317-261020-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "7. What legal advice has the Counsel General provided to the Welsh Government on the compatibility of its policymaking with the Equality Act 2010? OQ64736",
+          "text_original": "7. Pa gyngor cyfreithiol y mae'r Cwnsler Cyffredinol wedi'i roi i Lywodraeth Cymru ynghylch cydnawsedd llunio polisïau Llywodraeth Cymru â Deddf Cydraddoldeb 2010? OQ64736",
+          "tv_url": "http://www.senedd.tv/en/16317"
+        },
+        {
+          "id": "contribution-779879",
+          "item_id": "item-16317-261020-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "en",
+          "t_start": 5703,
+          "text_english": "Thank you, Counsel General. The last Labour Government introduced a £5,000 grant for teacher training, but it was only available to student teachers from ethnic minorities, not on merit, but purely based on their skin colour. The current Plaid Cymru Government has carried on this scheme. Will the Counsel General agree to publish any legal advice given to the Welsh Government that they've received on this policy, and will he commit to ensuring that the Welsh Government makes any advice public, so that the people of Wales can see how their money has been spent on this piece of anti-white discrimination?",
+          "text_original": "Thank you, Counsel General. The last Labour Government introduced a £5,000 grant for teacher training, but it was only available to student teachers from ethnic minorities, not on merit, but purely based on their skin colour. The current Plaid Cymru Government has carried on this scheme. Will the Counsel General agree to publish any legal advice given to the Welsh Government that they've received on this policy, and will he commit to ensuring that the Welsh Government makes any advice public, so that the people of Wales can see how their money has been spent on this piece of anti-white discrimination?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=5703"
+        },
+        {
+          "id": "contribution-779899",
+          "item_id": "item-16317-261020-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "10. What legal advice has the Counsel General provided to the Welsh Government regarding its role within the national inquiry into grooming gangs? OQ64737",
+          "text_original": "10. Pa gyngor cyfreithiol y mae'r Cwnsler Cyffredinol wedi'i roi i Lywodraeth Cymru ynghylch ei rôl yn yr ymchwiliad cenedlaethol i gangiau grŵmio? OQ64737",
+          "tv_url": "http://www.senedd.tv/en/16317"
+        },
+        {
+          "id": "contribution-779902",
+          "item_id": "item-16317-261020-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "en",
+          "t_start": 6139,
+          "text_english": "Thank you, Counsel General. Young white women and children in this country were groomed, raped and trafficked, often by groups of mainly Pakistani men over decades. The worst injustice this country has seen, in my opinion. Wales needs its own inquiry. There are strong suspicions that it happened in Swansea, in my constituency, along with many other places in Wales. Section 29 of the Inquiries Act lets Welsh Ministers hold an inquiry into anything they have functions over. So, my question is simple, Counsel General: does the Welsh Government have the legal power to hold its own inquiry into how devolved services in Wales failed these children and young women—'yes' or 'no'?",
+          "text_original": "Thank you, Counsel General. Young white women and children in this country were groomed, raped and trafficked, often by groups of mainly Pakistani men over decades. The worst injustice this country has seen, in my opinion. Wales needs its own inquiry. There are strong suspicions that it happened in Swansea, in my constituency, along with many other places in Wales. Section 29 of the Inquiries Act lets Welsh Ministers hold an inquiry into anything they have functions over. So, my question is simple, Counsel General: does the Welsh Government have the legal power to hold its own inquiry into how devolved services in Wales failed these children and young women—'yes' or 'no'?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=6139"
+        },
+        {
+          "id": "contribution-780235",
+          "item_id": "item-16317-261020-7",
+          "item_title_en": "7. Statement by the Cabinet Minister for Finance: An Update on Council Tax",
+          "lang": "en",
+          "t_start": 15865,
+          "text_english": "Can I thank the Cabinet Minister for her statement? I do welcome this u-turn. It's not often we do welcome a u-turn, but we do on this occasion. Families have waited with uncertainty for months, Minister, to find out what this Government plans to do with their council tax. In that time, we had the First Minister say revaluation would go ahead, and the Minister for local government said Ministers were still actively looking at it. So, I'm glad to see you've changed your mind.\n\nThis is the second time a Welsh Government has pushed this back, and I'm pleased to see the Welsh Government will be removing the 2028 date from the legislation instead of leaving this hanging over Welsh families' heads for any longer. I note that this legislation will come forward next month and we will wait to see the finer details. When people are struggling and we have a UK Government budget looming, families can't afford the risk that they'll be dragged into higher tax bands, because Wales already suffers from higher bills. Council tax in Wales has risen by an average of 5 per cent every year since 1999, against 4 per cent in England, and just 2 per cent in Scotland.\n\nThis year, 16 out of 22 councils in Wales put their bills up by more than 5 per cent. And that is why, last week, Reform brought forward their debate on the council tax referendum to the Senedd on exactly this topic. We believe that residents should have the final say in a referendum on any rise above 4.99 per cent. This would have protected households whatever the bands may look like in the future. \n\nThe issue is clear for anyone who's looked at the numbers. Last time Wales revalued, more than 20 years ago, a third of homes moved up at least one band, and only 8 per cent moved down. In Cardiff, 64 per cent went up. Some of the poorest communities were the hardest hit and the total rise in council tax that year reached over 9 per cent. In Swansea at the moment, for an average band D property, we are already paying higher council tax than those living in Kensington. In the Government's own research, around a quarter of households would have seen their band go up, and protecting them would have cost up to £80 million in the first year alone, and that is confirmed by your statement there. That tells you the scale of the increase families were facing under the current plans.\n\nHow many households would have moved up a band, council by council, and will that be published with the Institute for Fiscal Studies analysis before the Senedd votes on any regulations? Will you also, Minister, commit to protecting the single person discount for those living alone, whatever changes you bring forward? And furthermore, Minister, will you guarantee today that any new policies this Senedd term won't increase bills in Wales relative to England, making the gap even wider?\n\nIn your statement, you said you still want to look at adding more bands to higher-value homes. Creating higher new bands on 2003 values is a tax rise by another name. How much would new top bands rise by? Would that money bring bills down for everyone else, or will it simply go into councils' budgets? Because a home valued in 2003 could be anyone's—a friend, a family member, a farmer trying to run their business. It's not their fault the value has increased. House prices have skyrocketed purely because of the housing crisis.\n\nCabinet Minister, you may point to the council tax reduction scheme, but the people I am worried about are those just above that line. Ordinary working families and pensioners on modest incomes and fixed incomes are paying the full price. What assessment have you done, Minister, on how the Welsh Government policies will affect them specifically?\n\nAnd finally, people in Wales want a fair council tax bill, as you suggested in your statement, and a democratic say before their bills go up is what the people would want. With revaluation now dead for this term, your Government will be judged on whether it delivers these goals, and I look forward to the Cabinet Minister's answers to these questions.",
+          "text_original": "Can I thank the Cabinet Minister for her statement? I do welcome this u-turn. It's not often we do welcome a u-turn, but we do on this occasion. Families have waited with uncertainty for months, Minister, to find out what this Government plans to do with their council tax. In that time, we had the First Minister say revaluation would go ahead, and the Minister for local government said Ministers were still actively looking at it. So, I'm glad to see you've changed your mind.\n\nThis is the second time a Welsh Government has pushed this back, and I'm pleased to see the Welsh Government will be removing the 2028 date from the legislation instead of leaving this hanging over Welsh families' heads for any longer. I note that this legislation will come forward next month and we will wait to see the finer details. When people are struggling and we have a UK Government budget looming, families can't afford the risk that they'll be dragged into higher tax bands, because Wales already suffers from higher bills. Council tax in Wales has risen by an average of 5 per cent every year since 1999, against 4 per cent in England, and just 2 per cent in Scotland.\n\nThis year, 16 out of 22 councils in Wales put their bills up by more than 5 per cent. And that is why, last week, Reform brought forward their debate on the council tax referendum to the Senedd on exactly this topic. We believe that residents should have the final say in a referendum on any rise above 4.99 per cent. This would have protected households whatever the bands may look like in the future. \n\nThe issue is clear for anyone who's looked at the numbers. Last time Wales revalued, more than 20 years ago, a third of homes moved up at least one band, and only 8 per cent moved down. In Cardiff, 64 per cent went up. Some of the poorest communities were the hardest hit and the total rise in council tax that year reached over 9 per cent. In Swansea at the moment, for an average band D property, we are already paying higher council tax than those living in Kensington. In the Government's own research, around a quarter of households would have seen their band go up, and protecting them would have cost up to £80 million in the first year alone, and that is confirmed by your statement there. That tells you the scale of the increase families were facing under the current plans.\n\nHow many households would have moved up a band, council by council, and will that be published with the Institute for Fiscal Studies analysis before the Senedd votes on any regulations? Will you also, Minister, commit to protecting the single person discount for those living alone, whatever changes you bring forward? And furthermore, Minister, will you guarantee today that any new policies this Senedd term won't increase bills in Wales relative to England, making the gap even wider?\n\nIn your statement, you said you still want to look at adding more bands to higher-value homes. Creating higher new bands on 2003 values is a tax rise by another name. How much would new top bands rise by? Would that money bring bills down for everyone else, or will it simply go into councils' budgets? Because a home valued in 2003 could be anyone's—a friend, a family member, a farmer trying to run their business. It's not their fault the value has increased. House prices have skyrocketed purely because of the housing crisis.\n\nCabinet Minister, you may point to the council tax reduction scheme, but the people I am worried about are those just above that line. Ordinary working families and pensioners on modest incomes and fixed incomes are paying the full price. What assessment have you done, Minister, on how the Welsh Government policies will affect them specifically?\n\nAnd finally, people in Wales want a fair council tax bill, as you suggested in your statement, and a democratic say before their bills go up is what the people would want. With revaluation now dead for this term, your Government will be judged on whether it delivers these goals, and I look forward to the Cabinet Minister's answers to these questions.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=15865"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
+    },
     {
       "contributions": [
         {

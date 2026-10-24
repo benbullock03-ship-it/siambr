@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "abstain"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,50 @@
   "canonical_name": "Cai Parry-Jones",
   "constituency_name_cy": "Caerdydd Ffynnon Taf",
   "constituency_name_en": "Caerdydd Ffynnon Taf",
-  "contribution_count": 40,
+  "contribution_count": 43,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780573",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "7. What action is the Welsh Government taking to establish the reasons for teachers leaving the profession? OQ64775",
+          "text_original": "7. Pa gamau y mae Llywodraeth Cymru yn eu cymryd i ganfod y rhesymau pam y mae athrawon yn gadael y proffesiwn? OQ64775",
+          "tv_url": "http://www.senedd.tv/en/16318"
+        },
+        {
+          "id": "contribution-780577",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "cy",
+          "t_start": 5504,
+          "text_english": "Thank you, Minister. In March, the Welsh Government workforce plan admitted that they did not have data as to why teachers leave the profession. Estyn noted exactly the same concern 19 years ago. The latest figures from the Education Workforce Council show that more than 3,000 schoolteachers have left the register in the year up to March, the highest number in five years. But we don't know why. There is no national system in place to ask the teachers themselves why they have left. England and Scotland do that. Why doesn't Wales? Will the Minister ask the Education Workforce Council to start asking teachers who are leaving the register why they did so, so that we can understand how we can stop more teachers from leaving in the future?",
+          "text_original": "Diolch, Weinidog. Ym mis Mawrth, cyfaddefodd cynllun gweithlu Llywodraeth Cymru nad oedd ganddyn nhw ddata ynghylch pam mae athrawon yn gadael. Nododd Estyn yn union yr un broblem 19 mlynedd yn ôl. Mae ffigurau diweddaraf Cyngor y Gweithlu Addysg yn dangos bod mwy na 3,000 o athrawon ysgol wedi gadael y gofrestr yn y flwyddyn hyd at fis Mawrth, y nifer uchaf mewn pum mlynedd. Ond dydyn ni ddim yn gwybod pam. Does yna ddim system genedlaethol i ofyn i’r athrawon eu hunain pam maen nhw wedi gadael. Mae Lloegr a’r Alban yn gwneud hynny. Pan nad yw Cymru? A wnaiff y Gweinidog ofyn i Gyngor y Gweithlu Addysg ddechrau gofyn i athrawon sy’n gadael y gofrestr pam yr aethant, er mwyn inni ddeall sut fedrwn ni stopio mwy o athrawon rhag gadael yn y dyfodol?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=5504"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-780017",
+          "item_id": "item-16317-261020-5",
+          "item_title_en": "5. Statement by the Cabinet Minister for Finance: Taxation (Wales) Bill",
+          "lang": "en",
+          "t_start": 10757,
+          "text_english": "Thank you, Minister, for introducing this Bill. In your statement you say that the consultation received detailed responses from taxpayers, professional bodies and industry representatives. However you didn't say how many responses the public consultation received. I have the answer—it was nine. And of those nine, up to only four were individual Welsh taxpayers—four—four in a population of 3.2 million. This is hardly the wide-ranging ringing endorsement your statement would have us believe. I got more responses from exposing the Welsh Government's whisky-tasting trip to France.\n\nMoving on to the details of this legislation, I am concerned about the new powers being gifted to the Welsh Revenue Authority. Under current rules, the Welsh Revenue Authority generally needs either the owner's agreement or approval from an independent tribunal before inspecting private premises, however, this Bill would allow the Welsh Revenue Authority to carry out certain landfill tax inspections without either form of approval. We are talking about Welsh officials without independent approval entering privately owned land and premises, potentially without the occupier having prior knowledge of the inspection. Removing an existing layer of independent scrutiny is a big change and one that needs justification. Could you explain what evidence demonstrates that removing prior tribunal approval is necessary? Also, what safeguards will ensure that inspections are justified and proportionate and stay within the limits of their powers, especially when carrying out unannounced inspections on private land when the occupier may not be present? \n\nBeyond the inspections, the Bill would also allow the Welsh Revenue Authority to share more taxpayer information with local authorities and their service providers, withhold certain tax repayments during inquiries, and request information after property transactions. While the Bill includes safeguards and appeal rights, questions remain about how these additional powers will operate in practice. What safeguards will ensure that confidential taxpayer information is only shared where necessary?\n\nThe Bill will also allow the Welsh Revenue Authority to withhold certain tax repayments to people while an inquiry is ongoing. If the Welsh Revenue Authority is meant to pay tax back to someone, they have wider powers to withhold that payment, potentially for years, before actually having to pay it out. It would also allow the Welsh Revenue Authority to request information about certain property transactions years after they have taken place. How will taxpayers be protected from lengthy delays to legitimate repayments, and how will the Welsh Revenue Authority ensure that information requests remain proportionate? Diolch, Lywydd.",
+          "text_original": "Thank you, Minister, for introducing this Bill. In your statement you say that the consultation received detailed responses from taxpayers, professional bodies and industry representatives. However you didn't say how many responses the public consultation received. I have the answer—it was nine. And of those nine, up to only four were individual Welsh taxpayers—four—four in a population of 3.2 million. This is hardly the wide-ranging ringing endorsement your statement would have us believe. I got more responses from exposing the Welsh Government's whisky-tasting trip to France.\n\nMoving on to the details of this legislation, I am concerned about the new powers being gifted to the Welsh Revenue Authority. Under current rules, the Welsh Revenue Authority generally needs either the owner's agreement or approval from an independent tribunal before inspecting private premises, however, this Bill would allow the Welsh Revenue Authority to carry out certain landfill tax inspections without either form of approval. We are talking about Welsh officials without independent approval entering privately owned land and premises, potentially without the occupier having prior knowledge of the inspection. Removing an existing layer of independent scrutiny is a big change and one that needs justification. Could you explain what evidence demonstrates that removing prior tribunal approval is necessary? Also, what safeguards will ensure that inspections are justified and proportionate and stay within the limits of their powers, especially when carrying out unannounced inspections on private land when the occupier may not be present? \n\nBeyond the inspections, the Bill would also allow the Welsh Revenue Authority to share more taxpayer information with local authorities and their service providers, withhold certain tax repayments during inquiries, and request information after property transactions. While the Bill includes safeguards and appeal rights, questions remain about how these additional powers will operate in practice. What safeguards will ensure that confidential taxpayer information is only shared where necessary?\n\nThe Bill will also allow the Welsh Revenue Authority to withhold certain tax repayments to people while an inquiry is ongoing. If the Welsh Revenue Authority is meant to pay tax back to someone, they have wider powers to withhold that payment, potentially for years, before actually having to pay it out. It would also allow the Welsh Revenue Authority to request information about certain property transactions years after they have taken place. How will taxpayers be protected from lengthy delays to legitimate repayments, and how will the Welsh Revenue Authority ensure that information requests remain proportionate? Diolch, Lywydd.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=10757"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
+    },
     {
       "contributions": [
         {

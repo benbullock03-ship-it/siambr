@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "abstain"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,60 @@
   "canonical_name": "Steve Bayliss",
   "constituency_name_cy": "Afan Ogwr Rhondda",
   "constituency_name_en": "Afan Ogwr Rhondda",
-  "contribution_count": 14,
+  "contribution_count": 18,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780666",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "7. Will the Commission publish the whole-life costs and options appraisal for the future of Tŷ Hywel before signing any further binding contracts? OQ64760",
+          "text_original": "7. A wnaiff y Comisiwn gyhoeddi'r arfarniad o gostau oes gyfan ac opsiynau ar gyfer dyfodol Tŷ Hywel cyn llofnodi unrhyw gontractau rhwymol pellach? OQ64760",
+          "tv_url": "http://www.senedd.tv/en/16318"
+        },
+        {
+          "id": "contribution-780678",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 7462,
+          "text_english": "Thank you for that. This decision will commit public money for decades, and Members need to see the figures before the Commission commits to the deal. On 8 October, officials told the Finance Committee that the business case uses a 50-year appraisal period. The Commission has also confirmed a right to renew the existing Tŷ Hywel lease for a further 25 years. That option must be tested on a like-for-like basis against the preferred proposal.\n\nWill the Commissioner publish a comparison of the whole-life costs of both options, covering rent, refurbishment, temporary accommodation and maintenance? Will it use the same appraisal period and set out the assumptions made beyond the renewal term? And will Members have sufficient time to scrutinise that comparison before any further binding contractual commitment is made? Diolch.",
+          "text_original": "Thank you for that. This decision will commit public money for decades, and Members need to see the figures before the Commission commits to the deal. On 8 October, officials told the Finance Committee that the business case uses a 50-year appraisal period. The Commission has also confirmed a right to renew the existing Tŷ Hywel lease for a further 25 years. That option must be tested on a like-for-like basis against the preferred proposal.\n\nWill the Commissioner publish a comparison of the whole-life costs of both options, covering rent, refurbishment, temporary accommodation and maintenance? Will it use the same appraisal period and set out the assumptions made beyond the renewal term? And will Members have sufficient time to scrutinise that comparison before any further binding contractual commitment is made? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=7462"
+        },
+        {
+          "id": "contribution-780720",
+          "item_id": "item-16318-261021-5",
+          "item_title_en": "4. Topical Questions",
+          "lang": "en",
+          "t_start": 8084,
+          "text_english": "Thank you to the Member for raising this. Cabinet Minister, I spent over 20 years with South Wales Fire and Rescue Service, so I recognise the efforts of crews, Natural Resources Wales officers, and everyone containing pollution. But the facts are deeply concerning: kerosene from GE Aerospace's Nantgarw site has affected around 4 km of the Taff. Dead fish have been recovered, residents have been advised to close windows and doors, and fumes are present. GE Aerospace said it isolated the source on Friday, yet on Monday Natural Resources Wales said it was still investigating the drainage system to stop further pollution. Stopping the original leak is not the same as stopping pollution reaching the river. And this is not the first time; in 2024, pollution from PB Gelatins UK in Treforest killed fish. The outcome announced this June was the enforcement undertaking, including a £50,000 donation and nearly £15,000 in costs.\n\nCabinet Minister, you chaired the committee that reported Natural Resources Wales's own concerns that its fines and sanctions weren't enough to deter polluters. You now oversee Natural Resources Wales. Our Reform manifesto commits us to dismantling and fundamentally restructuring Natural Resources Wales, bringing strategic policy under ministerial oversight while environmental protections continue without interruptions.\n\nThe public deserve to know what went wrong, who is accountable and who will pay to put it right. So, Cabinet Minister, will you commit to a written statement to this Senedd within 14 days, setting out how much fuel was released, the damage identified so far, the timetable for Natural Resources Wales's investigation and any enforcement decision, and how all legal recoverable costs will be pursued from those found responsible and not the Welsh taxpayer? Diolch.",
+          "text_original": "Thank you to the Member for raising this. Cabinet Minister, I spent over 20 years with South Wales Fire and Rescue Service, so I recognise the efforts of crews, Natural Resources Wales officers, and everyone containing pollution. But the facts are deeply concerning: kerosene from GE Aerospace's Nantgarw site has affected around 4 km of the Taff. Dead fish have been recovered, residents have been advised to close windows and doors, and fumes are present. GE Aerospace said it isolated the source on Friday, yet on Monday Natural Resources Wales said it was still investigating the drainage system to stop further pollution. Stopping the original leak is not the same as stopping pollution reaching the river. And this is not the first time; in 2024, pollution from PB Gelatins UK in Treforest killed fish. The outcome announced this June was the enforcement undertaking, including a £50,000 donation and nearly £15,000 in costs.\n\nCabinet Minister, you chaired the committee that reported Natural Resources Wales's own concerns that its fines and sanctions weren't enough to deter polluters. You now oversee Natural Resources Wales. Our Reform manifesto commits us to dismantling and fundamentally restructuring Natural Resources Wales, bringing strategic policy under ministerial oversight while environmental protections continue without interruptions.\n\nThe public deserve to know what went wrong, who is accountable and who will pay to put it right. So, Cabinet Minister, will you commit to a written statement to this Senedd within 14 days, setting out how much fuel was released, the damage identified so far, the timetable for Natural Resources Wales's investigation and any enforcement decision, and how all legal recoverable costs will be pursued from those found responsible and not the Welsh taxpayer? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=8084"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-780102",
+          "item_id": "item-16317-261020-7",
+          "item_title_en": "7. Statement by the Cabinet Minister for Finance: An Update on Council Tax",
+          "lang": "en",
+          "t_start": 17871,
+          "text_english": "Diolch, Ddirprwy Lywydd. Cabinet Minister, families across Afan Ogwr Rhondda needed certainty, and so I give you credit for finally giving them the answer. But when the previous Government put 2028 into law, the Institute for Fiscal Studies hoped that would prevent further delays. Today, you're proposing 2032, beyond another Senedd election. So, you say protecting households that face higher bills could cost up to £80 million in the first year. The previous Government estimated £11.7 million to implement revaluation over 2026-27 and 2027-28. So, before asking this Senedd to approve another four-year delay, will you publish exactly how much taxpayers' money has already been spent or committed, including with the Valuation Office Agency, and what postponing the programme will cost? Diolch.",
+          "text_original": "Diolch, Ddirprwy Lywydd. Cabinet Minister, families across Afan Ogwr Rhondda needed certainty, and so I give you credit for finally giving them the answer. But when the previous Government put 2028 into law, the Institute for Fiscal Studies hoped that would prevent further delays. Today, you're proposing 2032, beyond another Senedd election. So, you say protecting households that face higher bills could cost up to £80 million in the first year. The previous Government estimated £11.7 million to implement revaluation over 2026-27 and 2027-28. So, before asking this Senedd to approve another four-year delay, will you publish exactly how much taxpayers' money has already been spent or committed, including with the Valuation Office Agency, and what postponing the programme will cost? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=17871"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
+    },
     {
       "contributions": [
         {

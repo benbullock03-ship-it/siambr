@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "abstain"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,50 @@
   "canonical_name": "Gareth Thomas",
   "constituency_name_cy": "Pen-y-bont Bro Morgannwg",
   "constituency_name_en": "Pen-y-bont Bro Morgannwg",
-  "contribution_count": 19,
+  "contribution_count": 22,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780767",
+          "item_id": "item-16318-261021-8",
+          "item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+          "lang": "en",
+          "t_start": 13086,
+          "text_english": "Every Member here will have met a constituent who has lived with prostate cancer or a family who has lost someone to it. A man who put off seeing the GP because he felt fine. A wife who noticed something was wrong before he did. A son who now gets himself checked because his father was diagnosed too late. These are not abstract cases. They are our neighbours, our friends and, for some of us, our own families.\n\nProstate cancer does not affect all communities equally. In our most deprived communities, most men, or more men, are now diagnosed at a later stage than at an earlier one, while men in more affluent areas are more often caught early. In practice, that means that a man's postcode can decide whether his cancer is found while it can still be treated.\n\nAccording to the 'National Prostate Cancer Audit State of the Nation Report 2026', diagnoses in Wales rose by 12 per cent between 2023 and 2024 to around 2,500 men. That is 2,500 men in a single year who heard the words, 'You have cancer', and 2,500 families whose lives changed in that moment. The same audit found that only 54 per cent of men in Wales with high-risk or locally advanced disease received radical treatment, compared with 69 per cent in England. Those are the men whose cancer is the most dangerous, and too many of them do not appear to have received the treatment that could have saved their lives.\n\nAt the same time, 11 per cent of men in Wales with low-risk disease received radical treatment that may not have been needed, compared with 7 per cent in England, with all the lasting consequences that that can bring. The audit urges caution about the Welsh figures because of problems with data quality. Think about what that means. We cannot even say with confidence how many men with prostate cancer are being treated in Wales. That should trouble every one of us, and should be put right.\n\nWe also know how hard it is for many men to come forward. Too many have grown up believing that talking about their health is a weakness, and prostate cancer often gives no warning in its early stages. Members of the Senedd have spoken with real courage about their personal experiences, and I pay tribute to them, Paul. Our party leader in Scotland has done the same. But we cannot ask men to be brave enough to come forward and then fail to have a clear plan waiting for them when they do.\n\nMen account for 54 per cent of cancer deaths in Wales. That is why Reform Wales has called for a 10-year cancer strategy, investment in modern diagnostics, targeted screening where need is greatest, and a men's health framework for Wales. So, I call on the Government to name prostate cancer in the strategy, with clear and measurable objectives included, to fix the data, so that we know what is happening to men diagnosed with prostate cancer, and to close the gap between our richest and poorest communities, so that no man is diagnosed too late because of where he lives. I urge all Members to support this motion. Diolch.",
+          "text_original": "Every Member here will have met a constituent who has lived with prostate cancer or a family who has lost someone to it. A man who put off seeing the GP because he felt fine. A wife who noticed something was wrong before he did. A son who now gets himself checked because his father was diagnosed too late. These are not abstract cases. They are our neighbours, our friends and, for some of us, our own families.\n\nProstate cancer does not affect all communities equally. In our most deprived communities, most men, or more men, are now diagnosed at a later stage than at an earlier one, while men in more affluent areas are more often caught early. In practice, that means that a man's postcode can decide whether his cancer is found while it can still be treated.\n\nAccording to the 'National Prostate Cancer Audit State of the Nation Report 2026', diagnoses in Wales rose by 12 per cent between 2023 and 2024 to around 2,500 men. That is 2,500 men in a single year who heard the words, 'You have cancer', and 2,500 families whose lives changed in that moment. The same audit found that only 54 per cent of men in Wales with high-risk or locally advanced disease received radical treatment, compared with 69 per cent in England. Those are the men whose cancer is the most dangerous, and too many of them do not appear to have received the treatment that could have saved their lives.\n\nAt the same time, 11 per cent of men in Wales with low-risk disease received radical treatment that may not have been needed, compared with 7 per cent in England, with all the lasting consequences that that can bring. The audit urges caution about the Welsh figures because of problems with data quality. Think about what that means. We cannot even say with confidence how many men with prostate cancer are being treated in Wales. That should trouble every one of us, and should be put right.\n\nWe also know how hard it is for many men to come forward. Too many have grown up believing that talking about their health is a weakness, and prostate cancer often gives no warning in its early stages. Members of the Senedd have spoken with real courage about their personal experiences, and I pay tribute to them, Paul. Our party leader in Scotland has done the same. But we cannot ask men to be brave enough to come forward and then fail to have a clear plan waiting for them when they do.\n\nMen account for 54 per cent of cancer deaths in Wales. That is why Reform Wales has called for a 10-year cancer strategy, investment in modern diagnostics, targeted screening where need is greatest, and a men's health framework for Wales. So, I call on the Government to name prostate cancer in the strategy, with clear and measurable objectives included, to fix the data, so that we know what is happening to men diagnosed with prostate cancer, and to close the gap between our richest and poorest communities, so that no man is diagnosed too late because of where he lives. I urge all Members to support this motion. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=13086"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-779823",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "11. How is the Welsh Government supporting the mental health of veterans in Wales who face investigation or prosecution relating to their service in Northern Ireland? OQ64774",
+          "text_original": "11. Sut mae Llywodraeth Cymru yn cefnogi iechyd meddwl cyn-filwyr yng Nghymru sy'n wynebu ymchwiliad neu erlyniad mewn perthynas â'u gwasanaeth yng Ngogledd Iwerddon? OQ64774",
+          "tv_url": "http://www.senedd.tv/en/16317"
+        },
+        {
+          "id": "contribution-779829",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 3529,
+          "text_english": "First Minister, soldiers from Wales answered their country's call in Northern Ireland. Some never came home, and this Remembrance Day we will rightly honour their memory. Those deployed as part of Operation Banner witnessed violence, experienced loss and lived under constant threat. For some reason, the scars, both physical and mental, have lasted a lifetime. Today, veterans face investigation or prosecution for events that did or did not take place decades ago. They are asked to account for a split-second decision when memories have faded, records have been lost and fellow soldiers, who could speak to them, have passed away. They've lived with years of uncertainty, questioning and public scrutiny. Those who served this country deserve to know that they will not face this ordeal alone. Yet Veterans' NHS Wales receives only £8 per veteran. Will the Welsh Government review the funding of Veterans' NHS Wales, so that the Welsh veterans receive the support they deserve? And will the First Minister take this opportunity to recognise the service and sacrifice of Welsh veterans who served in Northern Ireland?",
+          "text_original": "First Minister, soldiers from Wales answered their country's call in Northern Ireland. Some never came home, and this Remembrance Day we will rightly honour their memory. Those deployed as part of Operation Banner witnessed violence, experienced loss and lived under constant threat. For some reason, the scars, both physical and mental, have lasted a lifetime. Today, veterans face investigation or prosecution for events that did or did not take place decades ago. They are asked to account for a split-second decision when memories have faded, records have been lost and fellow soldiers, who could speak to them, have passed away. They've lived with years of uncertainty, questioning and public scrutiny. Those who served this country deserve to know that they will not face this ordeal alone. Yet Veterans' NHS Wales receives only £8 per veteran. Will the Welsh Government review the funding of Veterans' NHS Wales, so that the Welsh veterans receive the support they deserve? And will the First Minister take this opportunity to recognise the service and sacrifice of Welsh veterans who served in Northern Ireland?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=3529"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
+    },
     {
       "contributions": [
         {

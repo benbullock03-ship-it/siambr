@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,40 @@
   "canonical_name": "Peter Fox",
   "constituency_name_cy": "Sir Fynwy Torfaen",
   "constituency_name_en": "Sir Fynwy Torfaen",
-  "contribution_count": 40,
+  "contribution_count": 42,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780705",
+          "item_id": "item-16318-261021-6",
+          "item_title_en": "5. 90-second Statements",
+          "lang": "en",
+          "t_start": 8690,
+          "text_english": "Diolch, Ddirprwy Lywydd. I recently had the pleasure of visiting Big Pit National Coal Museum in Blaenavon, where I met with staff and learnt about the excellent work they are doing to preserve and promote Wales's rich industrial heritage. What impressed me most was the museum's commitment not only to protecting our history, but to engaging people of all ages, through education, community outreach and innovative exhibitions. Big Pit continues to play a vital role in ensuring that future generations understand the sacrifices and achievements of those who built our coalfield communities.\n\nDuring my visit, I also had the opportunity to see the Stories from Aberfan exhibition. And as we mark the sixtieth anniversary of the Aberfan disaster today, this exhibition is a poignant and powerful reminder of the 144 lives lost, the devastating impact on the community and the extraordinary courage and resilience shown in the decades since. The personal stories and artefacts on display help ensure that the memory of Aberfan endures and that the lessons of that tragedy are never forgotten. I would like to thank everyone in Big Pit for their dedication to preserving these important stories and sharing them with future generations, and I encourage all people to visit.",
+          "text_original": "Diolch, Ddirprwy Lywydd. I recently had the pleasure of visiting Big Pit National Coal Museum in Blaenavon, where I met with staff and learnt about the excellent work they are doing to preserve and promote Wales's rich industrial heritage. What impressed me most was the museum's commitment not only to protecting our history, but to engaging people of all ages, through education, community outreach and innovative exhibitions. Big Pit continues to play a vital role in ensuring that future generations understand the sacrifices and achievements of those who built our coalfield communities.\n\nDuring my visit, I also had the opportunity to see the Stories from Aberfan exhibition. And as we mark the sixtieth anniversary of the Aberfan disaster today, this exhibition is a poignant and powerful reminder of the 144 lives lost, the devastating impact on the community and the extraordinary courage and resilience shown in the decades since. The personal stories and artefacts on display help ensure that the memory of Aberfan endures and that the lessons of that tragedy are never forgotten. I would like to thank everyone in Big Pit for their dedication to preserving these important stories and sharing them with future generations, and I encourage all people to visit.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=8690"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-779944",
+          "item_id": "item-16317-261020-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 7458,
+          "text_english": "Trefnydd, could I request a statement from the Deputy Minister for Transport on the role and future of Great British Railways Cymru? GBR is progressing in England, but while GBR Cymru exists as an entity, there remains a lack of clarity over its purpose, responsibilities and, crucially, how it will fit into Wales's wider transport landscape. We already have Transport for Wales, a wholly Welsh Government-owned operator, that not only runs the Wales and borders rail network, but is also assuming an increasingly significant role in bus franchising. There is also uncertainty amongst rail operators running cross-border services into Wales, many of whom appear unclear about GBR Cymru and how it will interact with both Great British Railways and Transport for Wales, and where the responsibilities ultimately sit.\n\nSo, I'd therefore welcome a statement from the Deputy Minister, setting out the intended role of GBR Cymru, how it will align with Great British Railways, and how it will interact with Transport for Wales and rail operators, and whether its creation will result in any changes to the governance, branding or operation of rail services in Wales.",
+          "text_original": "Trefnydd, could I request a statement from the Deputy Minister for Transport on the role and future of Great British Railways Cymru? GBR is progressing in England, but while GBR Cymru exists as an entity, there remains a lack of clarity over its purpose, responsibilities and, crucially, how it will fit into Wales's wider transport landscape. We already have Transport for Wales, a wholly Welsh Government-owned operator, that not only runs the Wales and borders rail network, but is also assuming an increasingly significant role in bus franchising. There is also uncertainty amongst rail operators running cross-border services into Wales, many of whom appear unclear about GBR Cymru and how it will interact with both Great British Railways and Transport for Wales, and where the responsibilities ultimately sit.\n\nSo, I'd therefore welcome a statement from the Deputy Minister, setting out the intended role of GBR Cymru, how it will align with Great British Railways, and how it will interact with Transport for Wales and rail operators, and whether its creation will result in any changes to the governance, branding or operation of rail services in Wales.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=7458"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
+    },
     {
       "contributions": [
         {

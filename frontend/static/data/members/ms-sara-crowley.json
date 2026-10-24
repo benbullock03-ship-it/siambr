@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,50 @@
   "canonical_name": "Sara Crowley",
   "constituency_name_cy": "Pontypridd Cynon Merthyr",
   "constituency_name_en": "Pontypridd Cynon Merthyr",
-  "contribution_count": 22,
+  "contribution_count": 25,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780704",
+          "item_id": "item-16318-261021-6",
+          "item_title_en": "5. 90-second Statements",
+          "lang": "en",
+          "t_start": 8876,
+          "text_english": "Dirprwy Lywydd, this month marks Menopause Awareness Month, and on Sunday just gone, we recognised World Menopause Day. Until recently, when I thought about menopause, I naively pictured what I assume many people do: women of a certain age, hot flushes and many a conversation about the temperature of a room. Perhaps that highlights a lack of appropriate education around menopause growing up. I was wrong, and I'm learning that the hard way.\n\nMenopause can cause chronic pain, but also cognitive and mental health challenges that can affect work, relationships and everyday life. And for women who are neurodivergent, in particular those with attention deficit hyperactivity disorder, those changes can bring additional challenges that we need to understand and talk about too. We also need to challenge the assumption that menopause only happens to women of a certain age. I want to take this moment to acknowledge premature ovarian insufficiency, or POI—something I had never heard of until I was diagnosed with it at 36. This coming Sunday marks the second-ever World POI Day, which in itself shows how much more awareness and understanding is still needed.\n\nDirprwy Lywydd, I'll say it again: this Chamber works best when we use our time to shine a light on aspects of people's lives that too often go under the radar. So, to those living with menopause and POI, you deserve to be listened to, understood and supported. And during my time here, I will do what I can to make sure these experiences are seen, heard and taken seriously. Diolch yn fawr.",
+          "text_original": "Dirprwy Lywydd, this month marks Menopause Awareness Month, and on Sunday just gone, we recognised World Menopause Day. Until recently, when I thought about menopause, I naively pictured what I assume many people do: women of a certain age, hot flushes and many a conversation about the temperature of a room. Perhaps that highlights a lack of appropriate education around menopause growing up. I was wrong, and I'm learning that the hard way.\n\nMenopause can cause chronic pain, but also cognitive and mental health challenges that can affect work, relationships and everyday life. And for women who are neurodivergent, in particular those with attention deficit hyperactivity disorder, those changes can bring additional challenges that we need to understand and talk about too. We also need to challenge the assumption that menopause only happens to women of a certain age. I want to take this moment to acknowledge premature ovarian insufficiency, or POI—something I had never heard of until I was diagnosed with it at 36. This coming Sunday marks the second-ever World POI Day, which in itself shows how much more awareness and understanding is still needed.\n\nDirprwy Lywydd, I'll say it again: this Chamber works best when we use our time to shine a light on aspects of people's lives that too often go under the radar. So, to those living with menopause and POI, you deserve to be listened to, understood and supported. And during my time here, I will do what I can to make sure these experiences are seen, heard and taken seriously. Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=8876"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-779757",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 2195,
+          "text_english": "I declare an interest as somebody who lives with diabetes and has worked in diabetes care. Our specialist diabetes teams in Wales deserve enormous credit for the progress they've made in giving people access to new diabetes technology. What we need to appreciate is that Wales has made that progress without the same dedicated injection of implementation funding that we have seen in England. That is a success story for Wales and, above all, for our NHS staff, but we must be careful that their success is not used as evidence that they can simply continue to do more with the same resources. First Minister, how will the Welsh Government build on that success and ensure that our specialist workforce has the investment it needs so that Wales can continue to improve access to life-changing diabetes technology? Diolch.",
+          "text_original": "I declare an interest as somebody who lives with diabetes and has worked in diabetes care. Our specialist diabetes teams in Wales deserve enormous credit for the progress they've made in giving people access to new diabetes technology. What we need to appreciate is that Wales has made that progress without the same dedicated injection of implementation funding that we have seen in England. That is a success story for Wales and, above all, for our NHS staff, but we must be careful that their success is not used as evidence that they can simply continue to do more with the same resources. First Minister, how will the Welsh Government build on that success and ensure that our specialist workforce has the investment it needs so that Wales can continue to improve access to life-changing diabetes technology? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=2195"
+        },
+        {
+          "id": "contribution-779992",
+          "item_id": "item-16317-261020-4",
+          "item_title_en": "4. Statement by the First Minister: 60th Anniversary of the Aberfan Disaster",
+          "lang": "en",
+          "t_start": 9881,
+          "text_english": "Llywydd, the story of Aberfan is woven into the collective memory of our Valleys. My grandfather, like so many others, walked over the mountains from Penrhiwceiber that day to help. That instinct to come together, to care for one another and to act when people need help has shaped how I think of Aberfan. Recent pieces this week, such as Aberfan: The Village That Fought Back, The Silent Volunteer and Aberfan: A Family Story are powerful reminders across different mediums that Aberfan is not only a story of tragedy, but of a community that fought and fights for justice and refused to be ignored.\n\nYesterday, speaking at the University of South Wales, Jeff Edwards, as we mentioned, the last schoolchild rescued from the rubble, spoke powerfully about his experience and the lessons that could never be forgotten. The courage and resilience of survivors, families and campaigners and the determination to hold powerful institutions to account are the extraordinary part of Aberfan's legacy. First Minister, do you agree that one of Aberfan's most enduring lessons is the power of communities standing together, not only in the face of tragedy, but in the pursuit of justice?",
+          "text_original": "Llywydd, the story of Aberfan is woven into the collective memory of our Valleys. My grandfather, like so many others, walked over the mountains from Penrhiwceiber that day to help. That instinct to come together, to care for one another and to act when people need help has shaped how I think of Aberfan. Recent pieces this week, such as Aberfan: The Village That Fought Back, The Silent Volunteer and Aberfan: A Family Story are powerful reminders across different mediums that Aberfan is not only a story of tragedy, but of a community that fought and fights for justice and refused to be ignored.\n\nYesterday, speaking at the University of South Wales, Jeff Edwards, as we mentioned, the last schoolchild rescued from the rubble, spoke powerfully about his experience and the lessons that could never be forgotten. The courage and resilience of survivors, families and campaigners and the determination to hold powerful institutions to account are the extraordinary part of Aberfan's legacy. First Minister, do you agree that one of Aberfan's most enduring lessons is the power of communities standing together, not only in the face of tragedy, but in the pursuit of justice?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=9881"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
+    },
     {
       "contributions": [
         {

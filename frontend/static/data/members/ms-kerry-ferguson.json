@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,7 +774,7 @@
   "canonical_name": "Kerry Ferguson",
   "constituency_name_cy": "Ceredigion Penfro",
   "constituency_name_en": "Ceredigion Penfro",
-  "contribution_count": 442,
+  "contribution_count": 474,
   "contributions_by_date": [
     {
       "contributions": [
@@ -750,84 +783,410 @@
           "item_id": "item-16318-261021-1",
           "item_title_en": "Statement by the Deputy Presiding Officer",
           "lang": "cy",
-          "t_start": 1,
-          "text_english": "Good afternoon, Members. Today, we mark the sixtieth anniversary of the Aberfan disaster, in which 116 children and 28 adults lost their lives on 21 October 1966. Before we begin this afternoon's business, I invite Members to observe a minute's silence in rememberance of Aberfan.",
+          "t_start": 3,
+          "text_english": "Good afternoon, Members. Today, we mark the sixtieth anniversary of the Aberfan disaster, in which 116 children and 28 adults lost their lives on 21 October 1966. Before we begin this afternoon's business, I invite Members to observe a minute's silence in remembrance of Aberfan.",
           "text_original": "Prynhawn da, Aelodau. Heddiw, rydym yn nodi 60 mlynedd ers trychineb Aberfan, pan gollodd 116 o blant a 28 o oedolion eu bywydau ar 21 Hydref 1966. Cyn i ni ddechrau busnes y prynhawn yma, gwahoddaf yr Aelodau i nodi munud o dawelwch i gofio am Aberfan.",
-          "tv_url": "http://www.senedd.tv/en/16318?startPos=1"
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=3"
         },
         {
           "id": "contribution-780437",
           "item_id": "item-16318-261021-1",
           "item_title_en": "Statement by the Deputy Presiding Officer",
           "lang": "cy",
-          "t_start": 92,
-          "text_english": "",
+          "t_start": 94,
+          "text_english": "Thank you very much.",
           "text_original": "Diolch yn fawr iawn.",
-          "tv_url": "http://www.senedd.tv/en/16318?startPos=92"
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=94"
         },
         {
           "id": "contribution-780436",
           "item_id": "item-16318-261021-2",
           "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
           "lang": "cy",
-          "t_start": 96,
-          "text_english": "Item 1 on our agenda today is questions to the Cabinet Minister for Enterprise, Connectivity and Energy. And the first question is from Lynne Neagle.",
+          "t_start": 98,
+          "text_english": "Item 1 on our agenda today is questions to the Cabinet Minister for Enterprise, Connectivity and Energy, and the first question is from Lynne Neagle.",
           "text_original": "Eitem 1 ar yr agenda heddiw, cwestiynau i’r Gweinidog Cabinet dros Fenter, Cysylltedd ac Ynni. Cwestiwn 1, Lynne Neagle.",
-          "tv_url": "http://www.senedd.tv/en/16318?startPos=96"
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=98"
         },
         {
           "id": "contribution-780451",
           "item_id": "item-16318-261021-2",
           "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
           "lang": "en",
-          "t_start": 196,
-          "text_english": "Can you come to the question, please, Lynne?",
-          "text_original": "Can you come to the question, please, Lynne?",
-          "tv_url": "http://www.senedd.tv/en/16318?startPos=196"
+          "t_start": 198,
+          "text_english": "Can we have the question, please, Lynne?",
+          "text_original": "Can we have the question, please, Lynne?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=198"
         },
         {
           "id": "contribution-780458",
           "item_id": "item-16318-261021-2",
           "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
           "lang": "cy",
-          "t_start": 950,
+          "t_start": 952,
           "text_english": "I now call the party spokespeople to question the Cabinet Minister. Reform UK spokesperson, Jason O'Connell.",
           "text_original": "Galwaf ar lefarwyr y pleidiau i holi'r Gweinidog Cabinet. Llefarydd Reform UK, Jason O'Connell.",
-          "tv_url": "http://www.senedd.tv/en/16318?startPos=950"
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=952"
         },
         {
           "id": "contribution-780464",
           "item_id": "item-16318-261021-2",
           "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
           "lang": "cy",
-          "t_start": 1377,
+          "t_start": 1379,
           "text_english": "Welsh Labour spokesperson, Shav Taj.",
           "text_original": "Llefarydd Llafur Cymru, Shav Taj.",
-          "tv_url": "http://www.senedd.tv/en/16318?startPos=1377"
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=1379"
         },
         {
           "id": "contribution-780468",
           "item_id": "item-16318-261021-2",
           "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
           "lang": "cy",
-          "t_start": 1475,
-          "text_english": "Welsh Conservative spokesperson, Janet Finch-Saunders.",
+          "t_start": 1477,
+          "text_english": "Welsh Conservatives spokesperson, Janet Finch-Saunders.",
           "text_original": "Llefarydd y Ceidwadwyr Cymreig, Janet Finch-Saunders.",
-          "tv_url": "http://www.senedd.tv/en/16318?startPos=1475"
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=1477"
         },
         {
           "id": "contribution-780484",
           "item_id": "item-16318-261021-2",
           "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
           "lang": "en",
-          "t_start": 1541,
+          "t_start": 1542,
           "text_english": "Can we have the question, please?",
           "text_original": "Can we have the question, please?",
-          "tv_url": "http://www.senedd.tv/en/16318?startPos=1541"
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=1542"
+        },
+        {
+          "id": "contribution-780495",
+          "item_id": "item-16318-261021-2",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "cy",
+          "t_start": 2718,
+          "text_english": "And the final question, Minister, question 7, Becca Martin.",
+          "text_original": "A'r cwestiwn olaf, Weinidog, cwestiwn 7, Becca Martin.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=2718"
+        },
+        {
+          "id": "contribution-780511",
+          "item_id": "item-16318-261021-2",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "cy",
+          "t_start": 2873,
+          "text_english": "Thank you very much, Minister.",
+          "text_original": "Diolch yn fawr iawn i chi, Weinidog.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=2873"
+        },
+        {
+          "id": "contribution-780515",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "cy",
+          "t_start": 2876,
+          "text_english": "Item 2, questions to the Cabinet Minister for Education and the Welsh Language. Question 1, Darren Millar.",
+          "text_original": "Eitem 2, cwestiynau i'r Gweinidog Cabinet dros Addysg a'r Gymraeg. Cwestiwn 1, Darren Millar.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=2876"
+        },
+        {
+          "id": "contribution-780543",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "cy",
+          "t_start": 3785,
+          "text_english": "I now call on the party spokespeople to question the Cabinet Minister. Reform UK spokesperson, Stephen Senior.",
+          "text_original": "Galwaf yn awr ar lefarwyr y pleidiau i holi'r Gweinidog Cabinet. Llefarydd Reform UK, Stephen Senior.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=3785"
+        },
+        {
+          "id": "contribution-780537",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "cy",
+          "t_start": 4241,
+          "text_english": "Welsh Labour spokesperson, Lynne Neagle.",
+          "text_original": "Llefarydd Llafur Cymru, Lynne Neagle.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=4241"
+        },
+        {
+          "id": "contribution-780558",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "cy",
+          "t_start": 4517,
+          "text_english": "The Welsh Conservatives' spokesperson, Paul Davies.",
+          "text_original": "Llefarydd y Ceidwadwyr Cymreig, Paul Davies.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=4517"
+        },
+        {
+          "id": "contribution-780592",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "cy",
+          "t_start": 4736,
+          "text_english": "Question 3 [OQ64738] is from Vikki Howells. Unfortunately, the Member has been delayed on her way back from an event at Aberfan, so I'll move on to question 4, Anna Nicholl.",
+          "text_original": "Mae cwestiwn 3 [OQ64738] gan Vikki Howells. Yn anffodus, mae'r Aelod wedi'i hoedi ar y ffordd nôl o ddigwyddiad yn Aberfan, felly symudaf ymlaen i gwestiwn 4, Anna Nicholl.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=4736"
+        },
+        {
+          "id": "contribution-780614",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "cy",
+          "t_start": 5682,
+          "text_english": "And the final question, question 8—Llŷr Powell.",
+          "text_original": "A'r cwestiwn olaf, cwestiwn 8—Llŷr Powell.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=5682"
+        },
+        {
+          "id": "contribution-780593",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "cy",
+          "t_start": 5820,
+          "text_english": "Thank you very much, Minister and Deputy Minister.",
+          "text_original": "Diolch yn fawr iawn i chi, Weinidog a Dirprwy Weinidog.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=5820"
+        },
+        {
+          "id": "contribution-780598",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "cy",
+          "t_start": 5823,
+          "text_english": "We move on to item 3, questions to the Senedd Commission. Question 1, Carmelo Colasanto.",
+          "text_original": "Awn ymlaen i eitem 3, cwestiynau i Gomisiwn y Senedd. Cwestiwn 1, Carmelo Colasanto.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=5823"
+        },
+        {
+          "id": "contribution-780653",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 6567,
+          "text_english": "Jane, have you got a question for the Llywydd?",
+          "text_original": "Jane, have you got a question for the Llywydd?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=6567"
+        },
+        {
+          "id": "contribution-780658",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 6589,
+          "text_english": "Can we have the question for the Llywydd, please?",
+          "text_original": "Can we have the question for the Llywydd, please?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=6589"
+        },
+        {
+          "id": "contribution-780643",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 7069,
+          "text_english": "Can we have the question, please?",
+          "text_original": "Can we have the question, please?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=7069"
+        },
+        {
+          "id": "contribution-780668",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "cy",
+          "t_start": 7566,
+          "text_english": "The final question, question 8, Lindsay Whittle.",
+          "text_original": "Y cwestiwn olaf, cwestiwn 8, Lindsay Whittle.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=7566"
+        },
+        {
+          "id": "contribution-780707",
+          "item_id": "item-16318-261021-5",
+          "item_title_en": "4. Topical Questions",
+          "lang": "cy",
+          "t_start": 7757,
+          "text_english": "We'll move on to item 4, the topical questions. Nick Carter.",
+          "text_original": "Symudwn ymlaen i eitem 4, cwestiynau amserol. Nick Carter.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=7757"
+        },
+        {
+          "id": "contribution-780681",
+          "item_id": "item-16318-261021-5",
+          "item_title_en": "4. Topical Questions",
+          "lang": "cy",
+          "t_start": 8568,
+          "text_english": "And finally, Minister, Leticia Gonzalez.",
+          "text_original": "Ac yn olaf, Weinidog, Leticia Gonzalez.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=8568"
+        },
+        {
+          "id": "contribution-780694",
+          "item_id": "item-16318-261021-5",
+          "item_title_en": "4. Topical Questions",
+          "lang": "cy",
+          "t_start": 8675,
+          "text_english": "Thank you very much, Cabinet Minister. I was waiting for you to rattle off the phone number for that hotline there. [Laughter.] Thank you very much.",
+          "text_original": "Diolch yn fawr iawn, Weinidog. Roeddwn i'n disgwyl i chi ratlo off y rhif ffôn am yr hotline yna. [Chwerthin.] Diolch yn fawr iawn.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=8675"
+        },
+        {
+          "id": "contribution-780702",
+          "item_id": "item-16318-261021-6",
+          "item_title_en": "5. 90-second Statements",
+          "lang": "cy",
+          "t_start": 8682,
+          "text_english": "We'll move on now to the 90-second statements. First of all, Peter Fox.",
+          "text_original": "Symudwn ymlaen ar gyfer y datganiadau 90 eiliad. Yn gyntaf, Peter Fox.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=8682"
+        },
+        {
+          "id": "contribution-780712",
+          "item_id": "item-16318-261021-6",
+          "item_title_en": "5. 90-second Statements",
+          "lang": "cy",
+          "t_start": 8966,
+          "text_english": "Thank you. And finally, Alun Cox.",
+          "text_original": "Diolch. Ac yn olaf, Alun Cox.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=8966"
+        },
+        {
+          "id": "contribution-780688",
+          "item_id": "item-16318-261021-6",
+          "item_title_en": "5. 90-second Statements",
+          "lang": "cy",
+          "t_start": 9043,
+          "text_english": "Thank you very much.",
+          "text_original": "Diolch yn fawr iawn.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=9043"
+        },
+        {
+          "id": "contribution-780690",
+          "item_id": "item-16318-261021-7",
+          "item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+          "lang": "cy",
+          "t_start": 9044,
+          "text_english": "Item 6 on the agenda today is the Members' legislative debate under Standing Order 11.21(iv), an NHS first Bill. Before I call on Gwyn Williams, there are many speakers who wish to be called today. I'm going to ask you if you can keep your contributions as succinct as possible to ensure that I can call as many Members as possible in the half an hour allocated. I call on Gwyn Williams to move the motion.",
+          "text_original": "Eitem 6 ar yr agenda heddiw, dadl ddeddfwriaethol Aelodau o dan Reol Sefydlog 11.21(iv), Bil y GIG yn gyntaf. Cyn i mi alw ar Gwyn Williams, mae nifer fawr o siaradwyr yn gobeithio dod i mewn heddiw. Dwi'n mynd i ofyn i chi a ydych chi'n fodlon trio cwtogi er mwyn bod yn deg i'ch cyd-Aelodau er mwyn i mi drio galw cymaint â dwi'n gallu mewn hanner awr. Galwaf ar Gwyn Williams i wneud y cynnig.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=9044"
+        },
+        {
+          "id": "contribution-780728",
+          "item_id": "item-16318-261021-7",
+          "item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+          "lang": "cy",
+          "t_start": 10572,
+          "text_english": "Thank you. I call on the Cabinet Minister for Health and Care, Mabon ap Gwynfor.",
+          "text_original": "Diolch. Galwaf ar y Gweinidog Cabinet dros Iechyd a Gofal, Mabon ap Gwynfor.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=10572"
         }
       ],
       "date": "2026-10-21",
       "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-780020",
+          "item_id": "item-16317-261020-5",
+          "item_title_en": "5. Statement by the Cabinet Minister for Finance: Taxation (Wales) Bill",
+          "lang": "cy",
+          "t_start": 12470,
+          "text_english": "Thank you very much, Minister.",
+          "text_original": "Diolch yn fawr iawn i chi, Weinidog.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=12470"
+        },
+        {
+          "id": "contribution-780023",
+          "item_id": "item-16317-261020-6",
+          "item_title_en": "6. Statement by the Deputy Minister for Social Care, Mental Health and Women’s Health: Update on the National Care Service Programme",
+          "lang": "cy",
+          "t_start": 12472,
+          "text_english": "Item 6, a statement by the Deputy Minister for Social Care, Mental Health and Women’s Health, an update on the national care service programme. I call on the Deputy Minister for Social Care, Mental Health and Women’s Health, Delyth Jewell.",
+          "text_original": "Eitem 6, datganiad gan y Dirprwy Weinidog dros Ofal Cymdeithasol, Iechyd Meddwl ac Iechyd Menywod, diweddariad ar y rhaglen gwasanaeth gofal cenedlaethol. Galwaf ar y Dirprwy Weinidog dros Ofal Cymdeithasol, Iechyd Meddwl ac Iechyd Menywod, Delyth Jewell.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=12472"
+        },
+        {
+          "id": "contribution-780075",
+          "item_id": "item-16317-261020-6",
+          "item_title_en": "6. Statement by the Deputy Minister for Social Care, Mental Health and Women’s Health: Update on the National Care Service Programme",
+          "lang": "cy",
+          "t_start": 13091,
+          "text_english": "Thank you, Deputy Minister. James Evans.",
+          "text_original": "Diolch, Ddirprwy Weinidog. James Evans.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=13091"
+        },
+        {
+          "id": "contribution-780047",
+          "item_id": "item-16317-261020-6",
+          "item_title_en": "6. Statement by the Deputy Minister for Social Care, Mental Health and Women’s Health: Update on the National Care Service Programme",
+          "lang": "en",
+          "t_start": 13999,
+          "text_english": "Can I ask you to conclude, please?",
+          "text_original": "Can I ask you to conclude, please?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=13999"
+        },
+        {
+          "id": "contribution-780071",
+          "item_id": "item-16317-261020-6",
+          "item_title_en": "6. Statement by the Deputy Minister for Social Care, Mental Health and Women’s Health: Update on the National Care Service Programme",
+          "lang": "cy",
+          "t_start": 15214,
+          "text_english": "And finally, Deputy Minister, Catherine Cullen.",
+          "text_original": "Ac yn olaf, Ddirprwy Weinidog, Catherine Cullen.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=15214"
+        },
+        {
+          "id": "contribution-780061",
+          "item_id": "item-16317-261020-6",
+          "item_title_en": "6. Statement by the Deputy Minister for Social Care, Mental Health and Women’s Health: Update on the National Care Service Programme",
+          "lang": "cy",
+          "t_start": 15340,
+          "text_english": "Thank you, Deputy Minister.",
+          "text_original": "Diolch, Ddirprwy Weinidog.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=15340"
+        },
+        {
+          "id": "contribution-780064",
+          "item_id": "item-16317-261020-7",
+          "item_title_en": "7. Statement by the Cabinet Minister for Finance: An Update on Council Tax",
+          "lang": "cy",
+          "t_start": 15341,
+          "text_english": "We will move now to item 7, a statement by the Cabinet Minister for Finance, an update on council tax. I call on the Cabinet Minister for Finance, Elin Jones.",
+          "text_original": "Symudwn ymlaen, felly, i eitem 7, datganiad gan y Gweinidog Cabinet dros Gyllid, diweddariad ar y dreth gyngor. Galwaf ar y Gweinidog Cabinet dros Gyllid, Elin Jones.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=15341"
+        },
+        {
+          "id": "contribution-780101",
+          "item_id": "item-16317-261020-7",
+          "item_title_en": "7. Statement by the Cabinet Minister for Finance: An Update on Council Tax",
+          "lang": "cy",
+          "t_start": 17868,
+          "text_english": "Thank you. And finally, Minister, Steve Bayliss.",
+          "text_original": "Diolch. Ac yn olaf, Weinidog, Steve Bayliss.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=17868"
+        },
+        {
+          "id": "contribution-780106",
+          "item_id": "item-16317-261020-7",
+          "item_title_en": "7. Statement by the Cabinet Minister for Finance: An Update on Council Tax",
+          "lang": "cy",
+          "t_start": 17985,
+          "text_english": "Thank you very much, Minister.",
+          "text_original": "Diolch yn fawr iawn, Weinidog.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=17985"
+        },
+        {
+          "id": "contribution-780109",
+          "item_id": "item-16317-261020-8",
+          "item_title_en": "8. Statement by the Cabinet Minister for Enterprise, Connectivity and Energy: Update on the National Energy Strategy",
+          "lang": "cy",
+          "t_start": 17987,
+          "text_english": "We'll move now to a statement by the Cabinet Minister for Enterprise, Connectivity and Energy: update on the national energy strategy. I call on the Cabinet Minister for Enterprise, Connectivity and Energy, Adam Price.",
+          "text_original": "Symudwn ymlaen at ddatganiad gan y Gweinidog Cabinet dros Fenter, Cysylltedd ac Ynni: diweddariad ar y strategaeth ynni genedlaethol. Galwaf ar y Gweinidog Cabinet dros Fenter, Cysylltedd ac Ynni, Adam Price.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=17987"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
     },
     {
       "contributions": [

@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,7 +774,7 @@
   "canonical_name": "Niamh Salkeld",
   "constituency_name_cy": "Blaenau Gwent Caerffili Rhymni",
   "constituency_name_en": "Blaenau Gwent Caerffili Rhymni",
-  "contribution_count": 32,
+  "contribution_count": 34,
   "contributions_by_date": [
     {
       "contributions": [
@@ -760,14 +793,40 @@
           "item_id": "item-16318-261021-2",
           "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
           "lang": "en",
-          "t_start": 650,
-          "text_english": "Diolch, Cabinet Minister. In Blaenau Gwent, nearly three in 10 residents aged 16 and over have no formal qualifications, which is the highest proportion in the whole of Wales, while neighbouring Caerphilly has the fourth highest. I've seen first-hand the vital role that organisations such as ACT Training has in Ebbw Vale. They play such an important role in supporting young people facing really complex needs, and barriers to education, training and employment.\n\nFor many of these young people, progress can mean overcoming mental health challenges, gaining qualifications after leaving school without any, finding secure housing, or even turning away from crime as well. They need to have a system that can respond to the full range of barriers they face as an individual, and gives them the best opportunity as well to fulfil their potential. \n\nSo, Cabinet Minister, how will the Welsh Government ensure we have a fit-for-purpose system, with the flexibility and stability needed to support young people to fulfil their potential, particularly those facing extreme barriers?",
-          "text_original": "Diolch, Cabinet Minister. In Blaenau Gwent, nearly three in 10 residents aged 16 and over have no formal qualifications, which is the highest proportion in the whole of Wales, while neighbouring Caerphilly has the fourth highest. I've seen first-hand the vital role that organisations such as ACT Training has in Ebbw Vale. They play such an important role in supporting young people facing really complex needs, and barriers to education, training and employment.\n\nFor many of these young people, progress can mean overcoming mental health challenges, gaining qualifications after leaving school without any, finding secure housing, or even turning away from crime as well. They need to have a system that can respond to the full range of barriers they face as an individual, and gives them the best opportunity as well to fulfil their potential. \n\nSo, Cabinet Minister, how will the Welsh Government ensure we have a fit-for-purpose system, with the flexibility and stability needed to support young people to fulfil their potential, particularly those facing extreme barriers?",
-          "tv_url": "http://www.senedd.tv/en/16318?startPos=650"
+          "t_start": 652,
+          "text_english": "Diolch, Cabinet Minister. In Blaenau Gwent, nearly three in 10 residents aged 16 and over have no formal qualifications, which is the highest proportion in the whole of Wales, while neighbouring Caerphilly has the fourth highest. I've seen first-hand the vital role that organisations such as ACT has in Ebbw Vale. They play such an important role in supporting young people facing really complex needs and barriers to education, training and employment. For many of these young people, progress can mean overcoming mental health challenges, gaining qualifications after leaving school without any, finding secure housing or even turning away from crime as well. They need to have a system that can respond to the full range of barriers they face as an individual and gives them the best opportunity as well to fulfil their potential. So, Cabinet Minister, how will the Welsh Government ensure we have a fit-for-purpose system, with the flexibility and stability needed to support young people to fulfil their potential, particularly those facing extreme barriers?",
+          "text_original": "Diolch, Cabinet Minister. In Blaenau Gwent, nearly three in 10 residents aged 16 and over have no formal qualifications, which is the highest proportion in the whole of Wales, while neighbouring Caerphilly has the fourth highest. I've seen first-hand the vital role that organisations such as ACT has in Ebbw Vale. They play such an important role in supporting young people facing really complex needs and barriers to education, training and employment. For many of these young people, progress can mean overcoming mental health challenges, gaining qualifications after leaving school without any, finding secure housing or even turning away from crime as well. They need to have a system that can respond to the full range of barriers they face as an individual and gives them the best opportunity as well to fulfil their potential. So, Cabinet Minister, how will the Welsh Government ensure we have a fit-for-purpose system, with the flexibility and stability needed to support young people to fulfil their potential, particularly those facing extreme barriers?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=652"
         }
       ],
       "date": "2026-10-21",
       "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-779768",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "5. What steps is the Welsh Government taking to support people living with motor neurone disease in Blaenau Gwent Caerffili Rhymni? OQ64781",
+          "text_original": "5. Pa gamau y mae Llywodraeth Cymru yn eu cymryd i gefnogi pobl sy’n byw gyda chlefyd niwronau motor ym Mlaenau Gwent Caerffili Rhymni? OQ64781",
+          "tv_url": "http://www.senedd.tv/en/16317"
+        },
+        {
+          "id": "contribution-779772",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 2503,
+          "text_english": "Diolch, Brif Weinidog. Motor neurone disease, as you said, is such a devastating, rapidly progressing condition, and, for those people who are living with it, time is really critical. I lost my auntie to MND a couple of years ago, and I saw first-hand the devastating impact that that had on her and our family as well. Around a third of people who are diagnosed with MND die within a year of that diagnosis, yet the MND Association tells us that securing funding for vital home adaptation can take just as long. And that funding is about so much more than just home improvements. It's about preserving people's independence, their dignity and also their quality of life. Constituents have contacted me about the difficulties that they face in securing these adaptations. People with MND shouldn't have to spend their precious time waiting for their homes to be made safe and accessible for them. So, Prif Weinidog, what steps are the Welsh Government taking to address the critical housing challenges faced by people living with MND in Wales?",
+          "text_original": "Diolch, Brif Weinidog. Motor neurone disease, as you said, is such a devastating, rapidly progressing condition, and, for those people who are living with it, time is really critical. I lost my auntie to MND a couple of years ago, and I saw first-hand the devastating impact that that had on her and our family as well. Around a third of people who are diagnosed with MND die within a year of that diagnosis, yet the MND Association tells us that securing funding for vital home adaptation can take just as long. And that funding is about so much more than just home improvements. It's about preserving people's independence, their dignity and also their quality of life. Constituents have contacted me about the difficulties that they face in securing these adaptations. People with MND shouldn't have to spend their precious time waiting for their homes to be made safe and accessible for them. So, Prif Weinidog, what steps are the Welsh Government taking to address the critical housing challenges faced by people living with MND in Wales?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=2503"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
     },
     {
       "contributions": [

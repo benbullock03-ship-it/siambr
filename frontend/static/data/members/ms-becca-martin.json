@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,60 @@
   "canonical_name": "Becca Martin",
   "constituency_name_cy": "Clwyd",
   "constituency_name_en": "Clwyd",
-  "contribution_count": 20,
+  "contribution_count": 24,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780492",
+          "item_id": "item-16318-261021-2",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "7. What work is the Cabinet Minister undertaking to ensure the ethical adoption of AI in Wales? OQ64785",
+          "text_original": "7. Pa waith y mae'r Gweinidog Cabinet yn ei wneud i sicrhau bod deallusrwydd artiffisial yn cael ei fabwysiadu'n foesegol yng Nghymru? OQ64785",
+          "tv_url": "http://www.senedd.tv/en/16318"
+        },
+        {
+          "id": "contribution-780505",
+          "item_id": "item-16318-261021-2",
+          "item_title_en": "1. Questions to the Cabinet Minister for Enterprise, Connectivity and Energy",
+          "lang": "en",
+          "t_start": 2756,
+          "text_english": "Diolch. AI-driven automation is having a growing impact on the labour market and especially on entry-level employment and on workplace learning, and is widening already existing inequalities. Young people at the start of their careers are particularly vulnerable to things like job displacement and a lack of fair access to opportunities and face the collapse of those traditional pathways that let graduates and early-career workers gain that essential experience in learning. I know we did touch on this earlier, but what measures is the Cabinet Minister taking to establish clear frameworks for the responsible, ethical and transparent use of AI when it comes to employment, and what is being done to protect and help workers to adapt to changing role requirements and the changing jobs market?",
+          "text_original": "Diolch. AI-driven automation is having a growing impact on the labour market and especially on entry-level employment and on workplace learning, and is widening already existing inequalities. Young people at the start of their careers are particularly vulnerable to things like job displacement and a lack of fair access to opportunities and face the collapse of those traditional pathways that let graduates and early-career workers gain that essential experience in learning. I know we did touch on this earlier, but what measures is the Cabinet Minister taking to establish clear frameworks for the responsible, ethical and transparent use of AI when it comes to employment, and what is being done to protect and help workers to adapt to changing role requirements and the changing jobs market?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=2756"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-779806",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "10. Will the First Minister provide an update on the Government's plan to deliver 20,000 new social homes by 2030? OQ64783",
+          "text_original": "10. A wnaiff y Prif Weinidog roi'r wybodaeth ddiweddaraf am gynllun y Llywodraeth i ddarparu 20,000 o gartrefi cymdeithasol newydd erbyn 2030? OQ64783",
+          "tv_url": "http://www.senedd.tv/en/16317"
+        },
+        {
+          "id": "contribution-779811",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 3321,
+          "text_english": "Diolch. It was really, really good to hear you speak about Clwyd then, which is the constituency that I represent and where I have used available data to calculate that there are approximately 4,000 households on waiting lists for social homes there alone. So, it's evidently clear that we've got a severe lack of affordable housing here in Wales, and the plans to build 20,000 new social homes by 2030 is amazing and really welcome. However, it's really important to note that housing need varies widely by community, and even within communities, both in terms of volume and the type needed. Could the First Minister confirm that assessments of current housing stocks and needs across the different communities will be undertaken, and give assurances that those developments are to be aligned with the specific community needs?",
+          "text_original": "Diolch. It was really, really good to hear you speak about Clwyd then, which is the constituency that I represent and where I have used available data to calculate that there are approximately 4,000 households on waiting lists for social homes there alone. So, it's evidently clear that we've got a severe lack of affordable housing here in Wales, and the plans to build 20,000 new social homes by 2030 is amazing and really welcome. However, it's really important to note that housing need varies widely by community, and even within communities, both in terms of volume and the type needed. Could the First Minister confirm that assessments of current housing stocks and needs across the different communities will be undertaken, and give assurances that those developments are to be aligned with the specific community needs?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=3321"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
+    },
     {
       "contributions": [
         {

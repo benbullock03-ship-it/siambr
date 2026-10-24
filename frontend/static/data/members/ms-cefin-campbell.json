@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,74 @@
   "canonical_name": "Cefin Campbell",
   "constituency_name_cy": "Sir Gaerfyrddin",
   "constituency_name_en": "Sir Gaerfyrddin",
-  "contribution_count": 52,
+  "contribution_count": 58,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780542",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "en",
+          "t_start": 3396,
+          "text_english": "Thank you for the question. We are investing more than £26 million through the Sustainable Communities for Learning programme to deliver modern, high-quality further education facilities across Swansea. This includes the refurbishment of Gower College Swansea’s Tycoch campus and the redevelopment of Ysgol Gyfun Gymraeg Bryn Tawe for both secondary and further education learners.",
+          "text_original": "Thank you for the question. We are investing more than £26 million through the Sustainable Communities for Learning programme to deliver modern, high-quality further education facilities across Swansea. This includes the refurbishment of Gower College Swansea’s Tycoch campus and the redevelopment of Ysgol Gyfun Gymraeg Bryn Tawe for both secondary and further education learners.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=3396"
+        },
+        {
+          "id": "contribution-780555",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "en",
+          "t_start": 3485,
+          "text_english": "There are two points there, Mike. The first one is around NEETs. This is an area of great concern for me and the Government. We know the NEET cohort in Wales is increasing. Roughly 17 per cent of the 16 to 24-year-old age group are NEET. That's clearly not where we want to be. We have to put interventions in place to stop them becoming NEET. That takes different approaches. The Alan Milburn report showed that about 70 per cent of those who are NEET are economically inactive—that is, they are not ready for work. That is because they have several barriers in their own personal lives that stop them becoming employable. That could be around mental health issues, it could be additional learning needs, it could be childcare, transport, disabilities, and so on. I am going to lead an inter-ministerial group of people to look at the NEETs agenda and how we can bring different policy areas to play, which would obviously involve health, social services, transport and so on. So, that's the first part.\n\nThe second part is ensuring that no young person will be turned away from the course that they want to study. I am increasingly aware of the significant increases in learner numbers in FE in recent years, and I recognise that that adds funding challenges to FE colleges. I am committed to reviewing that increased level of participation and the financial pressures over the next month, as we have final figures coming through. We will consider providing additional funding over and above what Medr have already provided, £6.25 million, should that money be available, given the budgetary constraints that we are under.",
+          "text_original": "There are two points there, Mike. The first one is around NEETs. This is an area of great concern for me and the Government. We know the NEET cohort in Wales is increasing. Roughly 17 per cent of the 16 to 24-year-old age group are NEET. That's clearly not where we want to be. We have to put interventions in place to stop them becoming NEET. That takes different approaches. The Alan Milburn report showed that about 70 per cent of those who are NEET are economically inactive—that is, they are not ready for work. That is because they have several barriers in their own personal lives that stop them becoming employable. That could be around mental health issues, it could be additional learning needs, it could be childcare, transport, disabilities, and so on. I am going to lead an inter-ministerial group of people to look at the NEETs agenda and how we can bring different policy areas to play, which would obviously involve health, social services, transport and so on. So, that's the first part.\n\nThe second part is ensuring that no young person will be turned away from the course that they want to study. I am increasingly aware of the significant increases in learner numbers in FE in recent years, and I recognise that that adds funding challenges to FE colleges. I am committed to reviewing that increased level of participation and the financial pressures over the next month, as we have final figures coming through. We will consider providing additional funding over and above what Medr have already provided, £6.25 million, should that money be available, given the budgetary constraints that we are under.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=3485"
+        },
+        {
+          "id": "contribution-780536",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "en",
+          "t_start": 3674,
+          "text_english": "I'll deal with the main and the most important parts of that question, if I may. If I can refer back to a skills summit we organised on 8 October in the Swansea.com Stadium, for the first time ever we brought employers, small and medium-sized and large companies together with education providers. It was a hugely successful event, where employers were telling us that they need to forge a better relationship with apprenticeship providers and vocational skills providers. Employers know what the emerging sectors are. They know what skills they need for the future. So, we need to develop a mechanism where they are telling providers what they need and that we match them both together.\n\nNow, I heard my colleague the Minister for enterprise explain earlier on that we need to create more demand as well. And you heard him explain how we are going to do that through setting up a Welsh development agency and other programmes as well to support industry and SMEs to take on more apprenticeships. I believe that apprenticeships are a great pathway into work and into further and higher education as well. You can earn and learn at the same time. So, we are committed to supporting the apprenticeship scheme, and we will be working with employers to make sure that what they need, in terms of the skills level, matches what education providers can put on in FE colleges, universities and also through apprenticeship schemes.",
+          "text_original": "I'll deal with the main and the most important parts of that question, if I may. If I can refer back to a skills summit we organised on 8 October in the Swansea.com Stadium, for the first time ever we brought employers, small and medium-sized and large companies together with education providers. It was a hugely successful event, where employers were telling us that they need to forge a better relationship with apprenticeship providers and vocational skills providers. Employers know what the emerging sectors are. They know what skills they need for the future. So, we need to develop a mechanism where they are telling providers what they need and that we match them both together.\n\nNow, I heard my colleague the Minister for enterprise explain earlier on that we need to create more demand as well. And you heard him explain how we are going to do that through setting up a Welsh development agency and other programmes as well to support industry and SMEs to take on more apprenticeships. I believe that apprenticeships are a great pathway into work and into further and higher education as well. You can earn and learn at the same time. So, we are committed to supporting the apprenticeship scheme, and we will be working with employers to make sure that what they need, in terms of the skills level, matches what education providers can put on in FE colleges, universities and also through apprenticeship schemes.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=3674"
+        },
+        {
+          "id": "contribution-780581",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "cy",
+          "t_start": 5217,
+          "text_english": "Thank you for the question.",
+          "text_original": "Diolch am y cwestiwn.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=5217"
+        },
+        {
+          "id": "contribution-780580",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "en",
+          "t_start": 5218,
+          "text_english": "The Welsh Government is committed to lifelong learning and ensuring that adults can access opportunities to develop new skills, retrain and progress throughout their lives. Through personal learning accounts, employability programmes and further education opportunities, we support adults retraining for new careers to realise their potential and progress into sustainable employment.",
+          "text_original": "The Welsh Government is committed to lifelong learning and ensuring that adults can access opportunities to develop new skills, retrain and progress throughout their lives. Through personal learning accounts, employability programmes and further education opportunities, we support adults retraining for new careers to realise their potential and progress into sustainable employment.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=5218"
+        },
+        {
+          "id": "contribution-780595",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "en",
+          "t_start": 5315,
+          "text_english": "Well, like you, I was there in the Inspire! adult learning awards, and what a terrific night it was, to hear the remarkable stories of adult learners across Wales, many who have overcome very personal barriers to achieve in their learning. It really was an inspirational evening and, for me, it's one of the highlights of the year to go to that event. What it shows is that adult learning is about more than just gaining qualifications or skills. It builds confidence, it increases resilience and it improves well-being, and I was delighted to be there to share in Yassmein's success that evening.\n\nIn terms of your direct question, the Welsh Government is committed to ensuring that people of all ages have opportunities to learn throughout their lives. We do provide Medr with funding streams, which is allocated to further education colleges and other providers to support learners facing particular barriers. They may relate to disabilities, financial hardship, transport issues, childcare, mental health and well-being. This can include additional learning support, disability-related support, transport assistance, childcare, well-being services and so on, because we want to remove those barriers that stand in their way. Now, in particular, there is a community learning grant worth £6.5 million available to fund adult community learning in general, adult basic education, employability, English for speakers of other languages and well-being courses. These actually help people back into skills and work.\n\nThere is also a learning grant for learners over the age of 19, and also a personal learning account programme, which aims to help individuals upskill or reskill, as you mentioned, in priority sectors. So, the Welsh Government is absolutely clear that we do support adults in their retraining and upskilling, and want to be as supportive as we can. Because lifelong learning means exactly that: it never stops. So, we are 100 per cent committed to that programme.",
+          "text_original": "Well, like you, I was there in the Inspire! adult learning awards, and what a terrific night it was, to hear the remarkable stories of adult learners across Wales, many who have overcome very personal barriers to achieve in their learning. It really was an inspirational evening and, for me, it's one of the highlights of the year to go to that event. What it shows is that adult learning is about more than just gaining qualifications or skills. It builds confidence, it increases resilience and it improves well-being, and I was delighted to be there to share in Yassmein's success that evening.\n\nIn terms of your direct question, the Welsh Government is committed to ensuring that people of all ages have opportunities to learn throughout their lives. We do provide Medr with funding streams, which is allocated to further education colleges and other providers to support learners facing particular barriers. They may relate to disabilities, financial hardship, transport issues, childcare, mental health and well-being. This can include additional learning support, disability-related support, transport assistance, childcare, well-being services and so on, because we want to remove those barriers that stand in their way. Now, in particular, there is a community learning grant worth £6.5 million available to fund adult community learning in general, adult basic education, employability, English for speakers of other languages and well-being courses. These actually help people back into skills and work.\n\nThere is also a learning grant for learners over the age of 19, and also a personal learning account programme, which aims to help individuals upskill or reskill, as you mentioned, in priority sectors. So, the Welsh Government is absolutely clear that we do support adults in their retraining and upskilling, and want to be as supportive as we can. Because lifelong learning means exactly that: it never stops. So, we are 100 per cent committed to that programme.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=5315"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
     {
       "contributions": [
         {

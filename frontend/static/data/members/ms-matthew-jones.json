@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,34 @@
   "canonical_name": "Matthew Jones",
   "constituency_name_cy": "Sir Fynwy Torfaen",
   "constituency_name_en": "Sir Fynwy Torfaen",
-  "contribution_count": 31,
+  "contribution_count": 33,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780748",
+          "item_id": "item-16318-261021-8",
+          "item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+          "lang": "en",
+          "t_start": 11952,
+          "text_english": "I'm grateful for the opportunity to speak on this really important issue today. There's real excitement across the cancer charity sector and the cancer workforce because a long-term cancer strategy is a chance to set a new course for patients in Wales. This is a critical moment for how we want to see cancer outcomes improve over the coming years, and I welcome every opportunity to discuss what the strategy should look like, because we will all know someone who is told that they have cancer in their lifetime, if not ourselves.\n\nCancer will affect one in two people. The figures for prostate cancer are particularly shocking. Prostate cancer will affect one in eight men. For black men, it's one in four. And for men who have a family history of particular cancers or who carry the BRCA2 gene variant, they face a significantly higher risk. Reducing this inequality and the many other inequalities in cancer diagnosis and care must be a focus of the strategy.\n\nThe Welsh Government has set itself an ambitious timetable, aiming to publish the strategy on World Cancer Day next year. That is commendable and shows the urgency that is needed. It will be Wales's first national cancer strategy since 2006. And as chair of the cross-party group on cancer, which everyone here is welcome to join—I've e-mailed some of you separately; you're all welcome—I'm not aware of any plans for the strategy, as it is at the moment, to focus on any site-specific cancers, which the debate tabled today calls for, but with such a tight deadline, the strategy must build on existing groundwork. There are already national optimal pathways shaped by clinical specialists and best practice that set out how people with suspected site-specific cancers, including prostate cancer, should be treated and supported, but too many people are not being served quickly and effectively by these pathways. There's often a backlog for diagnosis and waits for treatment often depend on surgical space and workforce availability. As a result, only one in three people with prostate cancer start treatment within 62 days, when the target is 75 per cent.\n\nThe strategy must not be a 'one and done'. Too many quality statements and short-term plans have sat on the shelf after publication. This strategy must be a living thing. It must give every national optimal pathway, including for prostate cancer, the chance to work to its full potential and actively unblock the barriers holding them back. Alongside this, it must improve access to clinical trials, awareness of signs and symptoms and so much more, like data and workforce. All these things are vital.\n\nI'd like to acknowledge the amendment tabled by Paul Davies, and I share the urgency behind it. General screening for all men is still not recommended by the UK National Screening Committee based on the evidence currently available, but that evidence is moving. In May, the committee recommended targeted screening every two years for men aged 45 to 61 who carry the BRCA gene variant and have a family history of breast, ovarian, pancreatic or prostate cancer, and the UK Government has accepted that. So, I'd like to ask the Minister: when will this be in place in Wales and will the new strategy commit to it?\n\nI also stand with colleagues in calling for research to go further and faster and for more men to know of their family history. For men facing a prostate cancer diagnosis, support and time to make decisions about their care are essential, but time is not always a luxury patients have. The earlier a diagnosis is made, the more treatment options are available. I hope today's discussion can focus our minds on a near future where prostate cancer is diagnosed quickly and early, where innovative treatments are available and where patients can look forward to life after cancer or to live well for decades to come. Diolch yn fawr.",
+          "text_original": "I'm grateful for the opportunity to speak on this really important issue today. There's real excitement across the cancer charity sector and the cancer workforce because a long-term cancer strategy is a chance to set a new course for patients in Wales. This is a critical moment for how we want to see cancer outcomes improve over the coming years, and I welcome every opportunity to discuss what the strategy should look like, because we will all know someone who is told that they have cancer in their lifetime, if not ourselves.\n\nCancer will affect one in two people. The figures for prostate cancer are particularly shocking. Prostate cancer will affect one in eight men. For black men, it's one in four. And for men who have a family history of particular cancers or who carry the BRCA2 gene variant, they face a significantly higher risk. Reducing this inequality and the many other inequalities in cancer diagnosis and care must be a focus of the strategy.\n\nThe Welsh Government has set itself an ambitious timetable, aiming to publish the strategy on World Cancer Day next year. That is commendable and shows the urgency that is needed. It will be Wales's first national cancer strategy since 2006. And as chair of the cross-party group on cancer, which everyone here is welcome to join—I've e-mailed some of you separately; you're all welcome—I'm not aware of any plans for the strategy, as it is at the moment, to focus on any site-specific cancers, which the debate tabled today calls for, but with such a tight deadline, the strategy must build on existing groundwork. There are already national optimal pathways shaped by clinical specialists and best practice that set out how people with suspected site-specific cancers, including prostate cancer, should be treated and supported, but too many people are not being served quickly and effectively by these pathways. There's often a backlog for diagnosis and waits for treatment often depend on surgical space and workforce availability. As a result, only one in three people with prostate cancer start treatment within 62 days, when the target is 75 per cent.\n\nThe strategy must not be a 'one and done'. Too many quality statements and short-term plans have sat on the shelf after publication. This strategy must be a living thing. It must give every national optimal pathway, including for prostate cancer, the chance to work to its full potential and actively unblock the barriers holding them back. Alongside this, it must improve access to clinical trials, awareness of signs and symptoms and so much more, like data and workforce. All these things are vital.\n\nI'd like to acknowledge the amendment tabled by Paul Davies, and I share the urgency behind it. General screening for all men is still not recommended by the UK National Screening Committee based on the evidence currently available, but that evidence is moving. In May, the committee recommended targeted screening every two years for men aged 45 to 61 who carry the BRCA gene variant and have a family history of breast, ovarian, pancreatic or prostate cancer, and the UK Government has accepted that. So, I'd like to ask the Minister: when will this be in place in Wales and will the new strategy commit to it?\n\nI also stand with colleagues in calling for research to go further and faster and for more men to know of their family history. For men facing a prostate cancer diagnosis, support and time to make decisions about their care are essential, but time is not always a luxury patients have. The earlier a diagnosis is made, the more treatment options are available. I hope today's discussion can focus our minds on a near future where prostate cancer is diagnosed quickly and early, where innovative treatments are available and where patients can look forward to life after cancer or to live well for decades to come. Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=11952"
+        },
+        {
+          "id": "contribution-780877",
+          "item_id": "item-16318-261021-9",
+          "item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+          "lang": "en",
+          "t_start": 17469,
+          "text_english": "What made you personally change your mind from June last year, when you voted against it, and January this year when you voted against an M4 relief road?",
+          "text_original": "What made you personally change your mind from June last year, when you voted against it, and January this year when you voted against an M4 relief road?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=17469"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
     {
       "contributions": [
         {

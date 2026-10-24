@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,100 @@
   "canonical_name": "Peredur Owen Griffiths",
   "constituency_name_cy": "Casnewydd Islwyn",
   "constituency_name_en": "Casnewydd Islwyn",
-  "contribution_count": 40,
+  "contribution_count": 48,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780636",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 6938,
+          "text_english": "Diolch yn fawr, Janet, for your question. The Commission is currently in discussion with landlords in the Cardiff Bay area to secure suitable temporary accommodation while the refurbishment of Tŷ Hywel takes place. Clearly, there will be costs involved. These include rent, fitting out the offices, service charges, utilities, and any costs associated with returning the buildings at the end of leases. Those costs are still being negotiated, so I'm not in a position to give you a precise figure at this point in time, but I think it's important to point out here that moving Members and staff out of Tŷ Hywel will allow for refurbishment to be completed much more quickly, and that brings significant savings as well. In fact, all the options we're currently considering are expected to be at least cost neutral compared with keeping Members in Tŷ Hywel while work takes place. So, I want to reassure you, Janet, that we're looking carefully at the costs, with value for money very much at the heart of our considerations.",
+          "text_original": "Diolch yn fawr, Janet, for your question. The Commission is currently in discussion with landlords in the Cardiff Bay area to secure suitable temporary accommodation while the refurbishment of Tŷ Hywel takes place. Clearly, there will be costs involved. These include rent, fitting out the offices, service charges, utilities, and any costs associated with returning the buildings at the end of leases. Those costs are still being negotiated, so I'm not in a position to give you a precise figure at this point in time, but I think it's important to point out here that moving Members and staff out of Tŷ Hywel will allow for refurbishment to be completed much more quickly, and that brings significant savings as well. In fact, all the options we're currently considering are expected to be at least cost neutral compared with keeping Members in Tŷ Hywel while work takes place. So, I want to reassure you, Janet, that we're looking carefully at the costs, with value for money very much at the heart of our considerations.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=6938"
+        },
+        {
+          "id": "contribution-780652",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 7089,
+          "text_english": "Diolch, Janet, for your supplementary question, and I appreciate the importance of keeping costs to a minimum, particularly when we're talking about temporary accommodation. I think, in my initial answer, I did state that what we currently expect is for it to be at least cost neutral, if we were to stay in Tŷ Hywel or to move out, because, obviously, the timescale of the project would be reduced because contractors could get on with the work. So, that's certainly under consideration at the moment. And whilst we're still in commercially sensitive negotiations on the precise costs, I want to assure you that it's about delivering the project most efficiently, minimising disruption and securing the best possible value for public money. And all those details will be available in due course, once those negotiations have been finalised.",
+          "text_original": "Diolch, Janet, for your supplementary question, and I appreciate the importance of keeping costs to a minimum, particularly when we're talking about temporary accommodation. I think, in my initial answer, I did state that what we currently expect is for it to be at least cost neutral, if we were to stay in Tŷ Hywel or to move out, because, obviously, the timescale of the project would be reduced because contractors could get on with the work. So, that's certainly under consideration at the moment. And whilst we're still in commercially sensitive negotiations on the precise costs, I want to assure you that it's about delivering the project most efficiently, minimising disruption and securing the best possible value for public money. And all those details will be available in due course, once those negotiations have been finalised.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=7089"
+        },
+        {
+          "id": "contribution-780637",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 7207,
+          "text_english": "Diolch, Nick. I think that's a very fair point. I absolutely recognise the concerns that Members will have about the potential disruption to work. The original intention was to keep Members in Tŷ Hywel while the refurbishment took place, precisely to minimise those disruptions. However, having tested the options carefully, it became clear that the risks from noise, vibration, dust and potential delays were simply too great. We could have ended up with far more disruption and much less certainty for Members and for staff.\n\nWe're now working to secure high-quality alternative accommodation very close to the Senedd, which will retain the full range of support services that Members need to do their jobs efficiently. Importantly, moving everyone out temporarily will also allow for refurbishment work to progress much more quickly. The savings from that should at least offset the additional accommodation costs and could potentially deliver an overall saving.\n\nA detailed relocation plan is being developed, and I agree with Nick that Members need to understand exactly what those arrangements will mean for them and their staff. Our priority must be to make the transition as smooth as possible, minimise disruption to the work of the Senedd, and ensure that Members can return to a refurbished Tŷ Hywel under the current programme by April 2030.",
+          "text_original": "Diolch, Nick. I think that's a very fair point. I absolutely recognise the concerns that Members will have about the potential disruption to work. The original intention was to keep Members in Tŷ Hywel while the refurbishment took place, precisely to minimise those disruptions. However, having tested the options carefully, it became clear that the risks from noise, vibration, dust and potential delays were simply too great. We could have ended up with far more disruption and much less certainty for Members and for staff.\n\nWe're now working to secure high-quality alternative accommodation very close to the Senedd, which will retain the full range of support services that Members need to do their jobs efficiently. Importantly, moving everyone out temporarily will also allow for refurbishment work to progress much more quickly. The savings from that should at least offset the additional accommodation costs and could potentially deliver an overall saving.\n\nA detailed relocation plan is being developed, and I agree with Nick that Members need to understand exactly what those arrangements will mean for them and their staff. Our priority must be to make the transition as smooth as possible, minimise disruption to the work of the Senedd, and ensure that Members can return to a refurbished Tŷ Hywel under the current programme by April 2030.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=7207"
+        },
+        {
+          "id": "contribution-780667",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 7399,
+          "text_english": "Diolch, Steve, for your question. The Commission has undertaken a public, open and competitive procurement process to look at the options available to us when the current lease of Tŷ Hywel comes to an end in 2032. Throughout that process, value for money has been absolutely central to our considerations. We've looked not just at immediate costs, but at the longer term financial implications of each option, including the cost of doing the bare minimum and remaining in Tŷ Hywel under the current arrangements. That work identified the options we're now taking forward as offering the best value for money and at a considerable margin.\n\nThe final financial details are still being worked through and will form part of the full business case, which will inform the Commission's decision in December on whether to proceed. I fully appreciate that the Member will want to see those figures, and rightly so. However, we're dealing with commercially sensitive information, and publishing it before contracts are signed could undermine our negotiating position. But I want to reassure Members that we will share that information with them as soon as we're in a position to do so.",
+          "text_original": "Diolch, Steve, for your question. The Commission has undertaken a public, open and competitive procurement process to look at the options available to us when the current lease of Tŷ Hywel comes to an end in 2032. Throughout that process, value for money has been absolutely central to our considerations. We've looked not just at immediate costs, but at the longer term financial implications of each option, including the cost of doing the bare minimum and remaining in Tŷ Hywel under the current arrangements. That work identified the options we're now taking forward as offering the best value for money and at a considerable margin.\n\nThe final financial details are still being worked through and will form part of the full business case, which will inform the Commission's decision in December on whether to proceed. I fully appreciate that the Member will want to see those figures, and rightly so. However, we're dealing with commercially sensitive information, and publishing it before contracts are signed could undermine our negotiating position. But I want to reassure Members that we will share that information with them as soon as we're in a position to do so.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=7399"
+        },
+        {
+          "id": "contribution-780661",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 7521,
+          "text_english": "Diolch for that supplementary question. I fully appreciate that Members want the reassurance that we're getting the best value for public money, and rightly so. It's also important to recognise that doing nothing is not a cost-free option. Staying in Tŷ Hywel under the current arrangements would mean increasing maintenance costs, significant investment in an ageing building, and potential rent increases. \n\nA full business case will examine all of these costs alongside the proposed development, so that the Commission can make an informed decision in December. It also recognises the importance of transparency, and while we must protect commercially sensitive information during negotiations, we are committed to sharing the financial details with the Finance Committee and Members as soon as we're able to do so.",
+          "text_original": "Diolch for that supplementary question. I fully appreciate that Members want the reassurance that we're getting the best value for public money, and rightly so. It's also important to recognise that doing nothing is not a cost-free option. Staying in Tŷ Hywel under the current arrangements would mean increasing maintenance costs, significant investment in an ageing building, and potential rent increases. \n\nA full business case will examine all of these costs alongside the proposed development, so that the Commission can make an informed decision in December. It also recognises the importance of transparency, and while we must protect commercially sensitive information during negotiations, we are committed to sharing the financial details with the Finance Committee and Members as soon as we're able to do so.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=7521"
+        },
+        {
+          "id": "contribution-780823",
+          "item_id": "item-16318-261021-9",
+          "item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+          "lang": "en",
+          "t_start": 17163,
+          "text_english": "On paper, we're debating the M4 relief road, but scratch the surface of this debate and it's about something else entirely: political credibility, consistency and a spectacular example of political opportunism. When I saw this debate on the agenda, I wondered whether the scriptwriters from The Thick of It had taken over the Labour group, because, Llywydd, you can't make this up. Do Labour Members think we've forgotten who cancelled the M4 relief road?\n\nLet's remind ourselves of the fact that a Labour Government spent over £100 million developing the plans and buying land along the route. A Labour Government commissioned an expensive public inquiry. A Labour Government cancelled the project in June 2019. As we've heard, we know who the transport Minister at the time was—none other than the Labour leader himself. But we don't need to go back seven years to find a contradiction. Seven months will do. In March, speaking as the transport Secretary, he told us this in this Chamber, and I quote:\n\n'When it comes to the M4, this debate has been and gone, and we are ploughing ahead with hugely ambitious plans to improve connectivity by public transport, sustainable connectivity. The cost of building an M4 relief road right now would be enormous, and it does need to be a costed proposition, I believe, and it can't be, whether it's from yourselves or the Conservatives, a back-of-the-fag-packet proposal.'\n\nSeven months ago, Llywydd. So what's changed? Has the cost come down? Is there new evidence, or is the scheme that was unaffordable in Government—",
+          "text_original": "On paper, we're debating the M4 relief road, but scratch the surface of this debate and it's about something else entirely: political credibility, consistency and a spectacular example of political opportunism. When I saw this debate on the agenda, I wondered whether the scriptwriters from The Thick of It had taken over the Labour group, because, Llywydd, you can't make this up. Do Labour Members think we've forgotten who cancelled the M4 relief road?\n\nLet's remind ourselves of the fact that a Labour Government spent over £100 million developing the plans and buying land along the route. A Labour Government commissioned an expensive public inquiry. A Labour Government cancelled the project in June 2019. As we've heard, we know who the transport Minister at the time was—none other than the Labour leader himself. But we don't need to go back seven years to find a contradiction. Seven months will do. In March, speaking as the transport Secretary, he told us this in this Chamber, and I quote:\n\n'When it comes to the M4, this debate has been and gone, and we are ploughing ahead with hugely ambitious plans to improve connectivity by public transport, sustainable connectivity. The cost of building an M4 relief road right now would be enormous, and it does need to be a costed proposition, I believe, and it can't be, whether it's from yourselves or the Conservatives, a back-of-the-fag-packet proposal.'\n\nSeven months ago, Llywydd. So what's changed? Has the cost come down? Is there new evidence, or is the scheme that was unaffordable in Government—",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=17163"
+        },
+        {
+          "id": "contribution-780832",
+          "item_id": "item-16318-261021-9",
+          "item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+          "lang": "en",
+          "t_start": 17263,
+          "text_english": "No, I've got to make headway, because the Llywydd has told me. Or has the scheme that wasn't affordable in Government become a brilliant idea in opposition? Apparently, a few months on the opposition benches can work wonders.\n\nBut, beyond the political theatre, there's a serious problem for the communities I represent. People in Casnewydd Islwyn want to get to work on time. They want reliable trains and buses and an end to the daily frustration of M4 congestion. I know how badly the congestion affects residents and businesses. There's no simple, single solution. If there was one, Labour might have found it during all those years in Government.\n\nWe need credible proposals, proper evidence and meaningful consultation with local communities. If Labour want to help, they could start with their colleagues in Westminster. Wales is still being short-changed on rail funding, not least through HS2. Labour once agreed with us. Indeed, the current leader said in 2020 that Wales could be owed as much as £5 billion. Imagine the difference that could make. Yet, since Labour took office in Westminster, those demands have gone remarkably quiet.\n\nSo, I'll finish with questions for the Minister when he responds to this debate. If Wales received the rail funding that we're owed, what improvements would he prioritise for Newport and the surrounding area? Would those include the Burns stations in Newport? Our communities deserve more than political theatre. They deserve investment, better transport and a Government prepared to deliver. Diolch yn fawr.",
+          "text_original": "No, I've got to make headway, because the Llywydd has told me. Or has the scheme that wasn't affordable in Government become a brilliant idea in opposition? Apparently, a few months on the opposition benches can work wonders.\n\nBut, beyond the political theatre, there's a serious problem for the communities I represent. People in Casnewydd Islwyn want to get to work on time. They want reliable trains and buses and an end to the daily frustration of M4 congestion. I know how badly the congestion affects residents and businesses. There's no simple, single solution. If there was one, Labour might have found it during all those years in Government.\n\nWe need credible proposals, proper evidence and meaningful consultation with local communities. If Labour want to help, they could start with their colleagues in Westminster. Wales is still being short-changed on rail funding, not least through HS2. Labour once agreed with us. Indeed, the current leader said in 2020 that Wales could be owed as much as £5 billion. Imagine the difference that could make. Yet, since Labour took office in Westminster, those demands have gone remarkably quiet.\n\nSo, I'll finish with questions for the Minister when he responds to this debate. If Wales received the rail funding that we're owed, what improvements would he prioritise for Newport and the surrounding area? Would those include the Burns stations in Newport? Our communities deserve more than political theatre. They deserve investment, better transport and a Government prepared to deliver. Diolch yn fawr.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=17263"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-780035",
+          "item_id": "item-16317-261020-5",
+          "item_title_en": "5. Statement by the Cabinet Minister for Finance: Taxation (Wales) Bill",
+          "lang": "cy",
+          "t_start": 11957,
+          "text_english": "Thank you very much, Llywydd. I welcome this Bill and the steps to modernise and strengthen the system of devolved taxes in Wales. As former Chair of the Finance Committee, I'm aware of the importance of effective governance and legislation that is responsive to practical experience. So, I do have a couple of questions. One of those has been covered by Huw, so I don't want to ask that again, because you have responded to it. But I have a couple of other questions. What work has been done with HMRC to ensure that the WRA now aligns with the systems over the border in England, to ensure that those systems are aligned? And secondly, we have been calling for several years for the devolution of powers to enable us to introduce a vacant land tax. Is there an update on this, and will the new legislation facilitate the administration of other devolved taxes such as these when they come down the line?",
+          "text_original": "Diolch yn fawr, Lywydd. Dwi'n croesawu'r Bil yma a'r camau i foderneiddio a chryfhau'r system drethi datganoledig yng Nghymru. Fel cyn-Gadeirydd y Pwyllgor Cyllid, dwi'n ymwybodol o bwysigrwydd llywodraethu effeithiol a deddfwriaeth sydd yn ymateb i brofiad ymarferol. Felly, mae gennyf gwpl o gwestiynau. Un o'r cwestiynau yna roedd Huw wedi'i ofyn yn barod, felly dwi ddim am ailofyn hwnna, gan eich bod chi wedi'i ateb yn barod. Mae gen i ddau gwestiwn arall. Pa waith sydd wedi cael ei wneud gydag HMRC i wneud yn siŵr bod y WRA rŵan yn alinio efo systemau yn Lloegr, i wneud yn siŵr bod y systemau hynny yn alinio? Ac wedyn, yn ail, rydyn ni wedi galw ers blynyddoedd am ddatganoli pwerau i gyflwyno treth ar dir gwag—vacant land tax. A oes diweddariad ar hwn, ac a fydd y ddeddfwriaeth newydd yn hwyluso gweinyddu trethi datganoledig fel y rheini pan ddôn nhw i lawr y lein?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=11957"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
+    },
     {
       "contributions": [
         {

@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "did_not_vote"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,154 @@
   "canonical_name": "Heledd Fychan",
   "constituency_name_cy": "Pontypridd Cynon Merthyr",
   "constituency_name_en": "Pontypridd Cynon Merthyr",
-  "contribution_count": 296,
+  "contribution_count": 310,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-779960",
+          "item_id": "item-16317-261020-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "cy",
+          "t_start": 6447,
+          "text_english": "Thank you, Llywydd. There are no changes to this week's business, and draft Plenary business for the next three weeks is shown on the business statement, which is available to Members electronically, as usual.",
+          "text_original": "Diolch, Lywydd. Nid oes unrhyw newidiadau i fusnes yr wythnos hon. Mae busnes drafft y tair wythnos nesaf wedi'i nodi yn y datganiad busnes sydd ar gael fel arfer i'r Aelodau yn electronig.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=6447"
+        },
+        {
+          "id": "contribution-779969",
+          "item_id": "item-16317-261020-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "cy",
+          "t_start": 6487,
+          "text_english": "Thank you for raising a matter that will be of great importance to a number of us, if not every Member here. I will certainly make the Cabinet Minister aware that you have raised this issue, namely Siân Gwenllian, and see what updates are available for all Members.",
+          "text_original": "Diolch am godi mater fydd o bwys i nifer fawr ohonom ni, os nad pob Aelod yma. Mi fyddaf i'n sicr o wneud y Gweinidog Cabinet yn ymwneud eich bod chi wedi codi hyn, sef Siân Gwenllian, a gweld pa ddiweddariadau sydd ar gael i'r holl Aelodau.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=6487"
+        },
+        {
+          "id": "contribution-779981",
+          "item_id": "item-16317-261020-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "cy",
+          "t_start": 6548,
+          "text_english": "Thank you. I'm sure the Member will be aware that work was done between your party and my party through the co-operation agreement on this issue, and a number of measures were put in place that are within the gift of local authorities to implement. Certainly, this is a very live issue; it's also pertinent to the report presented to the previous Government, but we will be implementing those recommendations, in terms of, specifically, Welsh-speaking communities, but I do acknowledge that it is a problem, and that's why there has been co-operation to look for solutions in this area, and we will continue to look at that.",
+          "text_original": "Diolch. Dwi'n siŵr y bydd yr Aelod yn ymwybodol bod yna waith wedi'i wneud rhwng eich plaid chi a'm plaid i drwy'r cytundeb cydweithio ar y mater hwn, a nifer o fesurau wedi'u rhoi mewn lle sydd o fewn gallu awdurdodau lleol i fod yn medru eu gweithredu. Yn sicr, mae hwn yn fater byw iawn; mae o'n berthnasol hefyd wrth gwrs i'r adroddiad sydd wedi'i gyflwyno i'r Llywodraeth flaenorol, ond rydym ni'n mynd i fod yn gweithredu'r argymhellion hynny, o ran cymunedau Cymraeg yn benodol, ond dwi'n cydnabod mae hi yn broblem, a dyna pam mae yna gydweithio wedi bod i edrych am ddatrysiadau yn y maes hwn, a byddwn ni'n parhau i edrych ar hynny.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=6548"
+        },
+        {
+          "id": "contribution-779931",
+          "item_id": "item-16317-261020-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "cy",
+          "t_start": 6665,
+          "text_english": "I thank the Member for those questions and those requests. You will have heard the response of the First Minister earlier on today, but also you will be aware of the commitment of the Deputy First Minister and Cabinet Minister for Social Justice and Equality in terms of these areas. She, in the previous Senedd, was the chair of cross-party groups that did look at a number of the issues that you've raised. I will ensure that she is aware that you have raised these further issues today and ensure that there is an update given to you on the work that is under way.",
+          "text_original": "Diolch i'r Aelod am y cwestiynau hynny a'r ceisiadau hynny. Mi fyddwch chi wedi clywed ymateb y Prif Weinidog yn flaenorol, ond hefyd mi fyddwch chi yn ymwybodol o ymrwymiad y Dirprwy Brif Weinidog a Gweinidog Cabinet dros Gyfiawnder Cymdeithasol a Chydraddoldeb o ran y meysydd hyn. Mi oedd hi, yn y Senedd ddiwethaf, yn gadeirydd grwpiau trawsbleidiol oedd yn edrych ar nifer o'r pethau rydych chi wedi'u codi. Mi wnaf i sicrhau ei bod hi yn ymwybodol eich bod chi wedi codi'r materion pellach hyn heddiw a sicrhau bod yna ddiweddariad i chi o ran y gwaith sy'n mynd rhagddo.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=6665"
+        },
+        {
+          "id": "contribution-779935",
+          "item_id": "item-16317-261020-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "cy",
+          "t_start": 6772,
+          "text_english": "I thank the Member for raising that issue. I would ask you, because there were a number of questions to the Minister in what you raised with me, to write to the Minister so that you can get a full response on those specific points. But what I can tell you is that animal welfare is something that's very important to this Government, and we will act in accordance with that.",
+          "text_original": "Diolch i'r Aelod am godi'r mater hwnnw. Mi fyddwn i'n gofyn i chi, gan fod yna nifer o gwestiynau i'r Gweinidog yn yr hyn wnaethoch chi'n ei godi efo fi, ysgrifennu at y Gweinidog fel eich bod chi'n gallu cael ymateb llawn ar y pwyntiau penodol hynny. Ond yr hyn fedraf i ddweud ydy bod lles anifeiliaid yn rhywbeth sydd o bwys mawr i'r Llywodraeth hon, a byddwn ni yn gweithredu yn unol â hynny.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=6772"
+        },
+        {
+          "id": "contribution-779946",
+          "item_id": "item-16317-261020-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "cy",
+          "t_start": 6854,
+          "text_english": "I thank the Member for raising those two issues. In terms of the coracle, certainly, that is something that is part of our tradition as a nation, isn't it? It's unique, and, certainly, I would suggest that you do write specifically to the Minister, but, in terms of the heritage aspect, which I'm responsible for, I'll see what is relevant in terms of my portfolio.\n\nIn terms of the second point, with regard to physiotherapy, clearly we do acknowledge how concerning the situation is. You will see that there was an announcement made yesterday in terms of some of the posts with regard to nurses specifically. But we do acknowledge that there are other roles where the situation has been very concerning, and the lack of planning comes over clearly in that regard. We are committed to helping graduates to gain employment and to keep their skills within the health service here in Wales. They are skills that are very much needed. So, I acknowledge and recognise what you've raised and I will certainly be making the Cabinet Minister for Health and Care aware of the points that you've raised this afternoon.",
+          "text_original": "Diolch yn fawr iawn i'r Aelod am godi'r ddau fater yna. O ran y cwrwgl, yn sicr, mae hwnna yn rhywbeth sy'n rhan o'n traddodiad ni fel cenedl, onid ydy? Rhywbeth unigryw yw, ac, yn sicr, byddwn i yn awgrymu eich bod chi yn ysgrifennu yn benodol at y Gweinidog, ond, o ran yr ochr treftadaeth dwi'n gyfrifol amdano fo hefyd, mi wnaf i weld beth ydy'r hyn sydd yn berthnasol o ran fy mhortffolio i.\n\nO ran yr ail beth hefyd, efo ffisiotherapi, yn amlwg rydym ni yn cydnabod pa mor bryderus ydy'r sefyllfa hon. Byddwch chi yn gweld bod yna gyhoeddiad ddoe o ran rhai o'r swyddi o ran nyrsys yn benodol. Ond rydym ni yn cydnabod bod yna rai eraill lle mae'r sefyllfa wedi bod yn ofnadwy o bryderus iddyn nhw, a'r diffyg cynllunio hwnnw yn dod drosodd yn gryf. Mi ydym ni'n ymrwymo i helpu graddedigion i gael cyflogaeth a chadw eu sgiliau o fewn y gwasanaeth iechyd yma yng Nghymru. Maen nhw'n sgiliau sydd dirfawr eu hangen. Felly, dwi'n cydnabod yr hyn yr ydych chi'n ei godi ac mi fyddaf yn sicr yn gwneud y Gweinidog Cabinet dros Iechyd a Gofal yn ymwybodol eich bod chi wedi codi'r pwyntiau hyn y prynhawn yma.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=6854"
+        },
+        {
+          "id": "contribution-779930",
+          "item_id": "item-16317-261020-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "cy",
+          "t_start": 6999,
+          "text_english": "Well, the issue the Member raised was for a statement; as the Minister with responsibility for that, I have already made statements that talk about the work that I have already commissioned in relation to looking at the whole range of structures in sport, including swimming pools, in order to understand what the situation across Wales is, the scale of investment that's required and where the gaps exist, including, of course, swimming pools of an adequate size to stage competitions or for those who want to train at a professional level. We saw a number of athletes representing Wales in the Commonwealth Games in Glasgow, for example, and they won a number of medals.\n\nI do understand and recognise the issues that the Member raised, but I do have to do that thorough work first in carrying out that evaluation in order to understand what the needs are across Wales—in all parts of Wales, including north Wales—in order to ensure that we have a long-term capital programme for investing in facilities of that kind.",
+          "text_original": "Wel, yr hyn oedd yr Aelod yn ei godi oedd am ddatganiad; fel y Gweinidog efo'r cyfrifoldeb am hynny, dwi eisoes wedi gwneud datganiadau sydd yn sôn am y gwaith dwi wedi'i gomisiynu ynghylch edrych ar yr holl strwythurau o ran chwaraeon, gan gynnwys pyllau nofio, i ddeall beth ydy'r sefyllfa ledled Cymru, beth ydy maint y buddsoddiad sydd ei angen a lle mae'r bylchau yn bodoli, gan gynnwys, wrth gwrs, ar gyfer pyllau nofio o faint y byddai'n gallu cynnal cystadlaethau, neu ar gyfer y rhai sydd yn mynd ati'n broffesiynol. Mi welsom ni nifer fawr o athletwyr yn cynrychioli Cymru yng Ngemau'r Gymanwlad yng Nglasgow, er enghraifft, ac ennill nifer o fedalau.\n\nDwi'n deall ac yn cydnabod y materion y mae'r Aelod wedi eu codi, ond mae'n rhaid i fi gael gwneud y gwaith trylwyr hwnnw ar y funud o wneud y gwerthuso hwnnw i ddeall beth ydy'r angen ledled Cymru—ym mhob rhan o Gymru, gan gynnwys y gogledd—i sicrhau bod gennym ni gynllun cyfalaf hirdymor ar gyfer buddsoddi mewn cyfleusterau o'r fath.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=6999"
+        },
+        {
+          "id": "contribution-779941",
+          "item_id": "item-16317-261020-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "cy",
+          "t_start": 7119,
+          "text_english": "Well, I thank the Member for raising those two issues. In terms of the wildfire summit, we will be publishing the agenda, papers and the minutes of the summit once it has taken place—and, of course, Ministers will be keeping the Senedd informed fully of progress made. This will be cross-party work, with several partners involved, so, certainly, there will be updates given.",
+          "text_original": "Wel, diolch i'r Aelod am godi'r ddau fater yna. O ran yr uwchgynhadledd tanau gwyllt, mi fyddwn ni'n cyhoeddi'r agenda, papurau a chofnodion yr uwchgynhadledd unwaith y bydd hi wedi digwydd—ac, wrth gwrs, bydd Gweinidogion yn hysbysu'r Senedd yn llawn am gynnydd. Mi fydd hwn yn waith trawsbleidiol, efo nifer o bartneriaid, felly, yn sicr, mi fydd yna ddiweddariadau.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=7119"
+        },
+        {
+          "id": "contribution-779943",
+          "item_id": "item-16317-261020-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 7142,
+          "text_english": "The point you make around the 'Our Bravery Brought Justice' report—I hope we can retain that unity that we found a year ago, because, as all of us will recollect, the report reflects the courage of those who contributed to the review, and we recognise the significance as well of the first anniversary of the report. We are working with partners to deliver the outcomes of the review, and progress is being made on ensuring the findings strengthen and improve safeguarding arrangements in education across Wales. And, of course, we will continue to update the Senedd. I'm grateful to the Member for raising this.",
+          "text_original": "The point you make around the 'Our Bravery Brought Justice' report—I hope we can retain that unity that we found a year ago, because, as all of us will recollect, the report reflects the courage of those who contributed to the review, and we recognise the significance as well of the first anniversary of the report. We are working with partners to deliver the outcomes of the review, and progress is being made on ensuring the findings strengthen and improve safeguarding arrangements in education across Wales. And, of course, we will continue to update the Senedd. I'm grateful to the Member for raising this.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=7142"
+        },
+        {
+          "id": "contribution-779934",
+          "item_id": "item-16317-261020-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 7252,
+          "text_english": "I thank the Member for raising an issue that was also raised by Niamh Salkeld. It's an issue that I campaigned on during the last Senedd term, and an issue that many Members will have supported people and their families with, who have been impacted by MND. You will have heard the First Minister's response earlier. Certainly, the Cabinet Minister for housing and local government is also present here and will ensure that—. If there are any constituents in particular, if you can write to the Cabinet Minister, that would be appreciated, because we do have processes in place. The support should be there, as outlined by the First Minister, but we know, as you mentioned, that there is inconsistency there in how quickly those adaptations can be in place. Therefore, any Member that has any further information, so that we can look at this further, I would be grateful if you could share. I think it's a fact that there is cross-party support for such campaigns. Also, I would encourage it, if there is an opportunity for any further scrutiny through, perhaps, committee work. It seems that there are many people who want to see progress in this area in this Chamber.",
+          "text_original": "I thank the Member for raising an issue that was also raised by Niamh Salkeld. It's an issue that I campaigned on during the last Senedd term, and an issue that many Members will have supported people and their families with, who have been impacted by MND. You will have heard the First Minister's response earlier. Certainly, the Cabinet Minister for housing and local government is also present here and will ensure that—. If there are any constituents in particular, if you can write to the Cabinet Minister, that would be appreciated, because we do have processes in place. The support should be there, as outlined by the First Minister, but we know, as you mentioned, that there is inconsistency there in how quickly those adaptations can be in place. Therefore, any Member that has any further information, so that we can look at this further, I would be grateful if you could share. I think it's a fact that there is cross-party support for such campaigns. Also, I would encourage it, if there is an opportunity for any further scrutiny through, perhaps, committee work. It seems that there are many people who want to see progress in this area in this Chamber.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=7252"
+        },
+        {
+          "id": "contribution-779939",
+          "item_id": "item-16317-261020-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "cy",
+          "t_start": 7389,
+          "text_english": "Thank you. I hope that every Member of this Senedd is committed to eradicating poverty and wants to see what Trussell itself is campaigning for, namely to get rid of foodbanks. We have been very clear as a Government, and I know that the Deputy First Minister has been very clear, on eradicating poverty and ensuring that everyone has access to those fundamental basics. But, in the meantime, we will have a food strategy. We are working with Trussell and other foodbanks in order to ensure that the investment that has already been announced is targeted. But, certainly, there is a commitment to work together, and I hope to see every Member supporting us in that work. There are a number of powers that we would like to have within this Government. We are reliant, for example, on the welfare system that is run from Westminster, a system that doesn't work for people here in Wales. So, I would hope to see support for what we are calling for from those who also want to eradicate poverty and the need for foodbanks in our communities.",
+          "text_original": "Diolch. Dwi'n gobeithio bod pob Aelod yn y Senedd hon yn ymrwymo i ddileu tlodi ac eisiau gweld yr hyn y mae Trussell ei hun yn ymgyrchu arno fo, sef cael gwared ar fanciau bwyd. Rydyn ni wedi bod yn glir iawn fel Llywodraeth, a dwi'n gwybod bod y Dirprwy Brif Weinidog yn glir iawn, am ddileu tlodi a sicrhau bod gan bawb fynediad at yr anghenion hanfodol hynny. Ond, yn y cyfamser, mi fydd gennym ni strategaeth fwyd. Rydyn ni'n cydweithio gyda Trussell a banciau bwyd eraill i sicrhau bod y buddsoddiad sydd eisoes wedi'i gyhoeddi yn cael ei dargedu. Ond, yn sicr, mae yna ymrwymiad i gydweithio, a dwi'n gobeithio gweld pob Aelod yn ein cefnogi ni yn ein gwaith. Mae yna amryw o rymoedd y byddem ni'n hoffi eu cael o fewn grym y Llywodraeth hon. Rydyn ni'n ddibynnol, er enghraifft, ar y system lles yn San Steffan, system sydd ddim yn gweithio i bobl yma yng Nghymru. Felly, byddwn i yn gobeithio gweld cefnogaeth i'r hyn rydyn ni'n galw amdano fo gan y rheini sydd hefyd eisiau dileu tlodi a dileu'r angen am fanciau bwyd yn ein cymunedau ni.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=7389"
+        },
+        {
+          "id": "contribution-779947",
+          "item_id": "item-16317-261020-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "cy",
+          "t_start": 7528,
+          "text_english": "Well, I thank the Member for those questions. I think, because you have several questions there, I would encourage you to write to the Deputy Minister for Transport. And, certainly, if an update is needed for the whole Senedd, then I will discuss that with him. It's rare that the Deputy Minister for Transport isn't here; he's usually here for these sessions. But I would ask you to outline those questions to him in a letter too.",
+          "text_original": "Wel, diolch i’r Aelod am y cwestiynau hynny. Dwi’n meddwl, oherwydd bod gennych chi amryw o gwestiynau, byddwn i yn eich annog chi i ysgrifennu at y Dirprwy Weinidog dros Drafnidiaeth. Ac yn sicr, os bydd angen diweddariad i’r Senedd oll, mi fyddaf i yn trafod hynny efo fo. Mae’n beth prin fod y Dirprwy Weinidog dros Drafnidiaeth ddim yma; mae o fel arfer mewn ar gyfer y sesiynau hyn. Ond byddwn i yn gofyn i chi amlinellu’r cwestiynau hynny iddo fo mewn llythyr hefyd.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=7528"
+        },
+        {
+          "id": "contribution-779954",
+          "item_id": "item-16317-261020-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "cy",
+          "t_start": 7610,
+          "text_english": "In relation to your first request, there will be questions to the Minister on 4 November. There have been a number of statements made by the Minister too, but I would encourage you to put those questions to the Minister on 4 November. So, there will be an opportunity on the floor of the Senedd for you to question the Minister directly. \n\nIn terms of the second statement that you requested, you will be aware that we as a Government have committed to act in accordance with the law and expect all public bodies to act in accordance with the law.",
+          "text_original": "O ran y cais cyntaf, mae yna gwestiynau i’r Gweinidog ar 4 Tachwedd. Mae yna nifer o ddatganiadau wedi bod gan y Gweinidog hefyd, ond byddwn i yn eich annog chi i fod yn rhoi y cwestiynau hynny gerbron y Gweinidog ar 4 Tachwedd. Felly, mi fydd yna gyfle ar lawr y Senedd i chi fod yn holi’n uniongyrchol.\n\nO ran yr ail ddatganiad rydych chi wedi’i godi, mi fyddwch chi’n ymwybodol ein bod ni wedi ymrwymo fel Llywodraeth i fod yn gweithredu yn unol â’r gyfraith ac yn disgwyl i bob un o’r cyrff cyhoeddus i fod yn gweithredu yn unol â’r gyfraith.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=7610"
+        },
+        {
+          "id": "contribution-779967",
+          "item_id": "item-16317-261020-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "cy",
+          "t_start": 7717,
+          "text_english": "Thank you. I appreciate that there was a request at the end of what you said there for some kind of statement, but that's not the kind of information that would be included in a statement. If you have concerns of that kind, clearly there are options to ask questions of the Cabinet Minister for Health and Care on 11 November. You could also write to him. But I would also suggest that a number of the issues you raised are ones that are relevant to the health board, and that they are questions for the health board. I think that scrutiny of the activities of the health board is the responsibility of all of us, but it's important to be clear in terms of where the responsibility lies—what is the responsibility of the Minister for health, and what we expect health boards to be responsible for.",
+          "text_original": "Diolch. Dwi’n gwerthfawrogi bod yna gais ar ddiwedd hynny am ryw fath o ddatganiad, ond nid dyna’r math o wybodaeth a fyddai mewn datganiad. Os oes gennych chi bryderon o’r fath, yn amlwg mae yna opsiynau i ofyn cwestiwn i’r Gweinidog Cabinet dros Iechyd a Gofal ar 11 Tachwedd. Mi fedrwch chi hefyd ysgrifennu ato fo. Ond byddwn i'n awgrymu hefyd fod nifer o’r materion a godoch chi yn rhai perthnasol i’r bwrdd iechyd, ac mai cwestiynau i’r bwrdd iechyd ydynt. Dwi’n credu bod craffu ar weithredoedd y bwrdd iechyd yn gyfrifoldeb i bob un ohonom ni, ond mae’n bwysig bod yn glir o ran lle mae’r cyfrifoldeb yn bodoli—beth sydd yn gyfrifoldeb i’r Gweinidog iechyd, a beth rydyn ni’n ei ddisgwyl i fyrddau iechyd fod yn gyfrifol amdano.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=7717"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
+    },
     {
       "contributions": [
         {

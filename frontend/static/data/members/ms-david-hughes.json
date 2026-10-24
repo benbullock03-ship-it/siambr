@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,44 @@
   "canonical_name": "David Hughes",
   "constituency_name_cy": "Pontypridd Cynon Merthyr",
   "constituency_name_en": "Pontypridd Cynon Merthyr",
-  "contribution_count": 17,
+  "contribution_count": 20,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-779787",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "8. What action is the Welsh Government taking to ensure efficiency and waste reduction when delivering public services to achieve better value for money for taxpayers? OQ64796",
+          "text_original": "8. Pa gamau y mae Llywodraeth Cymru yn eu cymryd i sicrhau effeithlonrwydd a gostyngiad mewn gwastraff wrth ddarparu gwasanaethau cyhoeddus er mwyn sicrhau gwell gwerth am arian i drethdalwyr? OQ64796",
+          "tv_url": "http://www.senedd.tv/en/16317"
+        },
+        {
+          "id": "contribution-779793",
+          "item_id": "item-16317-261020-1",
+          "item_title_en": "1. Questions to the First Minister",
+          "lang": "en",
+          "t_start": 3019,
+          "text_english": "Minister, Welsh taxpayers are continually being asked to pay more, yet many feel they are receiving less in return. Does the Minister agree that rather than continually demanding more from Welsh taxpayers, the Welsh Government should first demonstrate that it can spend the money it receives responsibly? And will the Minister commit to an independent, comprehensive audit of Welsh Government spending, identifying wasteful projects, unnecessary bureaucracy and duplication of services, with a clear commitment to redirect those savings towards front-line NHS services, education and local communities, because surely the priority should be delivering value for taxpayers, not simply spending more money?",
+          "text_original": "Minister, Welsh taxpayers are continually being asked to pay more, yet many feel they are receiving less in return. Does the Minister agree that rather than continually demanding more from Welsh taxpayers, the Welsh Government should first demonstrate that it can spend the money it receives responsibly? And will the Minister commit to an independent, comprehensive audit of Welsh Government spending, identifying wasteful projects, unnecessary bureaucracy and duplication of services, with a clear commitment to redirect those savings towards front-line NHS services, education and local communities, because surely the priority should be delivering value for taxpayers, not simply spending more money?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=3019"
+        },
+        {
+          "id": "contribution-779996",
+          "item_id": "item-16317-261020-4",
+          "item_title_en": "4. Statement by the First Minister: 60th Anniversary of the Aberfan Disaster",
+          "lang": "en",
+          "t_start": 10039,
+          "text_english": "Like Lis, I was brought up in Aberfan and had many friends who were there that day. So, today, we pause with heavy hearts to remember the lives lost in Aberfan's disaster. Sixty years on, the pain of that terrible day remains deeply felt by families, friends and the community whose lives were forever changed. We remember the children whose lives were taken far too soon, the adults who lost their lives and all those who witnessed such unimaginable grief. Aberfan was not simply a tragedy in history; it was a community's heartbreak and a reminder of how precious every life is.\n\nToday we honour those who were lost, remember all those who carry on and hold the families and people of Aberfan in our thoughts. May the memories never fade, may the compassion, courage and strength shown in the aftermath continue to inspire us. We will remember them, we will grieve and we will never forget. That's all I ask of this place: that we never forget. Thank you.",
+          "text_original": "Like Lis, I was brought up in Aberfan and had many friends who were there that day. So, today, we pause with heavy hearts to remember the lives lost in Aberfan's disaster. Sixty years on, the pain of that terrible day remains deeply felt by families, friends and the community whose lives were forever changed. We remember the children whose lives were taken far too soon, the adults who lost their lives and all those who witnessed such unimaginable grief. Aberfan was not simply a tragedy in history; it was a community's heartbreak and a reminder of how precious every life is.\n\nToday we honour those who were lost, remember all those who carry on and hold the families and people of Aberfan in our thoughts. May the memories never fade, may the compassion, courage and strength shown in the aftermath continue to inspire us. We will remember them, we will grieve and we will never forget. That's all I ask of this place: that we never forget. Thank you.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=10039"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
+    },
     {
       "contributions": [
         {

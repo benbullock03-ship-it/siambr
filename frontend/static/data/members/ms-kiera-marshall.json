@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,50 @@
   "canonical_name": "Kiera Marshall",
   "constituency_name_cy": "Caerdydd Penarth",
   "constituency_name_en": "Caerdydd Penarth",
-  "contribution_count": 42,
+  "contribution_count": 45,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780856",
+          "item_id": "item-16318-261021-11",
+          "item_title_en": "10. Short Debate: Full-face coverings are against British values",
+          "lang": "en",
+          "t_start": 20007,
+          "text_english": "This summer, a Muslim woman in my constituency in Cardiff was subject to a physical violent attack in broad daylight. The attacker shouted at her about removing her headscarf, and continued to do exactly this while physically assaulting her. And this is just one example of an increasingly common occurrence where Muslim women are being targeted. This is exactly what the rhetoric that Reform is peddling is doing.\n\nReform claims to protect women and girls, but they don't really, do they? Because only over the weekend did we hear about one of Reform's own MPs say that Reform is chauvinistic and has a male issue. And today, they're trying to control what women wear, and it's quite frankly disgusting and creepy that they're trying to do this. Meanwhile in Wales, 31 per cent of our children live in poverty, the unemployment rate has consistently remained above the UK average, and in this context, it's bizarre that they've chosen to focus their taxpayer-funded time on a debate like this today.\n\nTo all the Muslim women—to all the Muslim women—who might be watching today, who might be feeling afraid and let down by this debate, Reform may claim that this attack on your faith is in line with British values, but it is not in line with Welsh values. Plaid Cymru stands with you, we will stand up for you, and we will always call out this hate where we see it.",
+          "text_original": "This summer, a Muslim woman in my constituency in Cardiff was subject to a physical violent attack in broad daylight. The attacker shouted at her about removing her headscarf, and continued to do exactly this while physically assaulting her. And this is just one example of an increasingly common occurrence where Muslim women are being targeted. This is exactly what the rhetoric that Reform is peddling is doing.\n\nReform claims to protect women and girls, but they don't really, do they? Because only over the weekend did we hear about one of Reform's own MPs say that Reform is chauvinistic and has a male issue. And today, they're trying to control what women wear, and it's quite frankly disgusting and creepy that they're trying to do this. Meanwhile in Wales, 31 per cent of our children live in poverty, the unemployment rate has consistently remained above the UK average, and in this context, it's bizarre that they've chosen to focus their taxpayer-funded time on a debate like this today.\n\nTo all the Muslim women—to all the Muslim women—who might be watching today, who might be feeling afraid and let down by this debate, Reform may claim that this attack on your faith is in line with British values, but it is not in line with Welsh values. Plaid Cymru stands with you, we will stand up for you, and we will always call out this hate where we see it.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=20007"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-779841",
+          "item_id": "item-16317-261020-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "en",
+          "t_start": 3879,
+          "text_english": "I'd like to thank the Member for raising this question and raise a similar issue. Too often, foster children leaving care are not aware of their rights. I recently hosted care-experienced campaigner Sam Gardner to give a question and answer session with Senedd Members here. Sam shared his experience of the foster system, moving between 15 different foster placements and having to research and advocate for his own rights. Sam has six asks of the Welsh Government, and one is for young people leaving care to be made aware of their legal and local entitlement in a clear and accessible way. Currently, this information is a postcode lottery, leaving some care leavers more vulnerable to homelessness or problems with unsupported mental health. What legal advice could the Counsel General give to the Welsh Government on ensuring that there is a legal obligation to make sure that care leavers are aware of their rights and the support services that they can access?",
+          "text_original": "I'd like to thank the Member for raising this question and raise a similar issue. Too often, foster children leaving care are not aware of their rights. I recently hosted care-experienced campaigner Sam Gardner to give a question and answer session with Senedd Members here. Sam shared his experience of the foster system, moving between 15 different foster placements and having to research and advocate for his own rights. Sam has six asks of the Welsh Government, and one is for young people leaving care to be made aware of their legal and local entitlement in a clear and accessible way. Currently, this information is a postcode lottery, leaving some care leavers more vulnerable to homelessness or problems with unsupported mental health. What legal advice could the Counsel General give to the Welsh Government on ensuring that there is a legal obligation to make sure that care leavers are aware of their rights and the support services that they can access?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=3879"
+        },
+        {
+          "id": "contribution-780066",
+          "item_id": "item-16317-261020-6",
+          "item_title_en": "6. Statement by the Deputy Minister for Social Care, Mental Health and Women’s Health: Update on the National Care Service Programme",
+          "lang": "en",
+          "t_start": 15081,
+          "text_english": "Deputy Minister, I am concerned that constituents of mine are being, quite frankly, exploited. I met with some homecare workers in my constituency who are sometimes working 12-hour shifts for as little as four hours of pay. They are expected to drive from home to home, from one side of Cardiff to the other, and they are not getting paid for any of that driving time. They are sometimes forced to work weeks on end without a day off, delivering care to our most vulnerable while stressed and exhausted.\n\nThese workers are on the health and care skilled worker visas, and when they raise their working conditions with their employers, whom their visas are tied to, the employers threaten their visa status to try and coerce and control the workers. When I heard this, I was actually at a loss for words at how disgusting and shocking this is. These migrant workers are being forced to work without getting paid for their labour.\n\nSo, would the Deputy Minister work with counterparts in the UK Government and in local authorities to try and root out these exploitative practices associated with this type of visa, to ensure that working conditions reflect the values that she has set out, rightly so, in today's statement, for both domestic and migrant workers in our social care sector?",
+          "text_original": "Deputy Minister, I am concerned that constituents of mine are being, quite frankly, exploited. I met with some homecare workers in my constituency who are sometimes working 12-hour shifts for as little as four hours of pay. They are expected to drive from home to home, from one side of Cardiff to the other, and they are not getting paid for any of that driving time. They are sometimes forced to work weeks on end without a day off, delivering care to our most vulnerable while stressed and exhausted.\n\nThese workers are on the health and care skilled worker visas, and when they raise their working conditions with their employers, whom their visas are tied to, the employers threaten their visa status to try and coerce and control the workers. When I heard this, I was actually at a loss for words at how disgusting and shocking this is. These migrant workers are being forced to work without getting paid for their labour.\n\nSo, would the Deputy Minister work with counterparts in the UK Government and in local authorities to try and root out these exploitative practices associated with this type of visa, to ensure that working conditions reflect the values that she has set out, rightly so, in today's statement, for both domestic and migrant workers in our social care sector?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=15081"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
+    },
     {
       "contributions": [
         {

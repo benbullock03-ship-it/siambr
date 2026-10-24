@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "abstain"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,44 @@
   "canonical_name": "Joe Martin",
   "constituency_name_cy": "Caerdydd Penarth",
   "constituency_name_en": "Caerdydd Penarth",
-  "contribution_count": 19,
+  "contribution_count": 22,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780650",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "6. What is the Commission's process for deciding what is available for sale to the public from Senedd retail outlets? OQ64769",
+          "text_original": "6. Beth yw proses y Comisiwn ar gyfer penderfynu pa eitemau sydd ar gael i'w gwerthu i'r cyhoedd ym mannau manwerthu'r Senedd? OQ64769",
+          "tv_url": "http://www.senedd.tv/en/16318"
+        },
+        {
+          "id": "contribution-780657",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 7332,
+          "text_english": "Thank you, Commissioner. In the Welsh Parliament's bookshop, there are several books that promote the immensely harmful trans ideology to children. This is all the more concerning given that the Welsh Government supports children's access to puberty blockers. Children can't be born in the wrong body and they shouldn't be injected with cross-sex hormones. Those two statements should not be controversial. Commissioner, will you have those books removed from the Welsh Parliament's bookshop?",
+          "text_original": "Thank you, Commissioner. In the Welsh Parliament's bookshop, there are several books that promote the immensely harmful trans ideology to children. This is all the more concerning given that the Welsh Government supports children's access to puberty blockers. Children can't be born in the wrong body and they shouldn't be injected with cross-sex hormones. Those two statements should not be controversial. Commissioner, will you have those books removed from the Welsh Parliament's bookshop?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=7332"
+        },
+        {
+          "id": "contribution-780871",
+          "item_id": "item-16318-261021-11",
+          "item_title_en": "10. Short Debate: Full-face coverings are against British values",
+          "lang": "en",
+          "t_start": 19737,
+          "text_english": "The burqa and niqab are two of the many ways in which fundamentalist Islam is uniquely incompatible with western civilisation. They represent ideas that are oppressive, misogynistic and anti-British. Mass immigration was sold to the public with the assertion that those arriving would assimilate into British culture. That was a lie—we can't even see the faces of thousands of people who've moved here. If two Muslim women live in the same street and they both wear burqas, how are we meant to tell them apart? I can't believe this needs to be said, but being able to tell people apart is an important part of British culture.\n\nProponents will argue that they promote modesty and stop women from being sexualised. For thousands of years, the west achieved the same result—not by oppressing women, but by requiring men to employ an ounce of self-control. If the people who've moved here can't do that, they should live in countries where it's accepted that men can't control themselves. I've also seen children wearing face coverings; anyone who struggles not to feel lust when looking at a child should not be free to walk around in our society. There are countries where that might be normal. This is not one of them. Assimilation means losing religious face coverings, and to encourage that, they should be banned.",
+          "text_original": "The burqa and niqab are two of the many ways in which fundamentalist Islam is uniquely incompatible with western civilisation. They represent ideas that are oppressive, misogynistic and anti-British. Mass immigration was sold to the public with the assertion that those arriving would assimilate into British culture. That was a lie—we can't even see the faces of thousands of people who've moved here. If two Muslim women live in the same street and they both wear burqas, how are we meant to tell them apart? I can't believe this needs to be said, but being able to tell people apart is an important part of British culture.\n\nProponents will argue that they promote modesty and stop women from being sexualised. For thousands of years, the west achieved the same result—not by oppressing women, but by requiring men to employ an ounce of self-control. If the people who've moved here can't do that, they should live in countries where it's accepted that men can't control themselves. I've also seen children wearing face coverings; anyone who struggles not to feel lust when looking at a child should not be free to walk around in our society. There are countries where that might be normal. This is not one of them. Assimilation means losing religious face coverings, and to encourage that, they should be banned.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=19737"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
     {
       "contributions": [
         {

@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "abstain"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,54 @@
   "canonical_name": "Louise Emery",
   "constituency_name_cy": "Clwyd",
   "constituency_name_en": "Clwyd",
-  "contribution_count": 33,
+  "contribution_count": 37,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-779922",
+          "item_id": "item-16317-261020-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "en",
+          "t_start": 5362,
+          "text_english": "I'm sure you just made a political statement about the strong broadcasting sector required to be devolved, but, okay, I'll forgive you on that one.",
+          "text_original": "I'm sure you just made a political statement about the strong broadcasting sector required to be devolved, but, okay, I'll forgive you on that one.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=5362"
+        },
+        {
+          "id": "contribution-780019",
+          "item_id": "item-16317-261020-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "en",
+          "t_start": 5371,
+          "text_english": "Yes, I thought you'd just made quite a political statement, because she asked you whether you agreed it should be devolved, and you said you did.",
+          "text_original": "Yes, I thought you'd just made quite a political statement, because she asked you whether you agreed it should be devolved, and you said you did.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=5371"
+        },
+        {
+          "id": "contribution-779928",
+          "item_id": "item-16317-261020-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "en",
+          "t_start": 5382,
+          "text_english": "Okay, fair enough. It's obviously currently largely reserved to the UK Parliament, so the question is: how do you assess the implications of such a change with broadcasting to the overall existing constitutional settlement? So, how does that work by taking something out of the constitutional settlement?",
+          "text_original": "Okay, fair enough. It's obviously currently largely reserved to the UK Parliament, so the question is: how do you assess the implications of such a change with broadcasting to the overall existing constitutional settlement? So, how does that work by taking something out of the constitutional settlement?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=5382"
+        },
+        {
+          "id": "contribution-780203",
+          "item_id": "item-16317-261020-8",
+          "item_title_en": "8. Statement by the Cabinet Minister for Enterprise, Connectivity and Energy: Update on the National Energy Strategy",
+          "lang": "en",
+          "t_start": 20230,
+          "text_english": "Thank you, Minister, for your statement. I want to ask you a question specifically about energy being more affordable from this strategy—and maybe I'm misunderstanding it. I appreciate single home owners can go and purchase solar panels with a grant, possibly, and then they can see their energy bills reduced for that household. I also get about communities that can perhaps put a panel of solar panels on a nearby field and feed into that, and they get their own reduction in energy. But we are part of the national grid, so any energy that we produce, whether it's clean or fossil fuel, goes into a national grid. We're part of an energy market across the UK. We've got household prices fixed by the UK Government. We've got international fuel fossil markets that dictate that. So I'm trying to understand, with the community ownership and the national public energy company, what is the actual mechanism by which this strategy will eventually lower bills for the majority of Welsh people that go onto comparison sites and just choose a provider? The majority of people. How is that mechanism going to work when we have a national grid and the UK Government dictating energy prices? Diolch.",
+          "text_original": "Thank you, Minister, for your statement. I want to ask you a question specifically about energy being more affordable from this strategy—and maybe I'm misunderstanding it. I appreciate single home owners can go and purchase solar panels with a grant, possibly, and then they can see their energy bills reduced for that household. I also get about communities that can perhaps put a panel of solar panels on a nearby field and feed into that, and they get their own reduction in energy. But we are part of the national grid, so any energy that we produce, whether it's clean or fossil fuel, goes into a national grid. We're part of an energy market across the UK. We've got household prices fixed by the UK Government. We've got international fuel fossil markets that dictate that. So I'm trying to understand, with the community ownership and the national public energy company, what is the actual mechanism by which this strategy will eventually lower bills for the majority of Welsh people that go onto comparison sites and just choose a provider? The majority of people. How is that mechanism going to work when we have a national grid and the UK Government dictating energy prices? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=20230"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
+    },
     {
       "contributions": [
         {

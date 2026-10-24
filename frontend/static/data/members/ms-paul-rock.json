@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,50 @@
   "canonical_name": "Paul Rock",
   "constituency_name_cy": "Caerdydd Ffynnon Taf",
   "constituency_name_en": "Caerdydd Ffynnon Taf",
-  "contribution_count": 28,
+  "contribution_count": 31,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780692",
+          "item_id": "item-16318-261021-5",
+          "item_title_en": "4. Topical Questions",
+          "lang": "en",
+          "t_start": 8393,
+          "text_english": "I was appalled at the weekend to learn about the kerosene leak from the GE Aerospace site in Nantgarw in my constituency. I'm really concerned about the environmental impact of this pollution as it seeps into the waterways and into the River Taff that runs right through the heart of our city, right down to this place. I understand Natural Resources Wales were made aware of the incident on Friday and have been taking action with fuel-absorbing barriers at the confluence between the tributary and the Taff, but there are some discrepancies between the two organisations' public statements that we've seen. GE Aerospace claimed that the source of the spill was fully identified and isolated on Friday, but NRW have said that they're still seeking to confirm the source.\n\nCabinet Minister, I'm glad to hear that you're being briefed by NRW. Could you confirm whether or not GE Aerospace are fully co-operating with the investigation? Will GE Aerospace be held fully accountable for their failures, which allowed this to happen? And what will be done to assess and remediate impacts on the fish and animals that live in and around the River Taff, and how will that be paid for?",
+          "text_original": "I was appalled at the weekend to learn about the kerosene leak from the GE Aerospace site in Nantgarw in my constituency. I'm really concerned about the environmental impact of this pollution as it seeps into the waterways and into the River Taff that runs right through the heart of our city, right down to this place. I understand Natural Resources Wales were made aware of the incident on Friday and have been taking action with fuel-absorbing barriers at the confluence between the tributary and the Taff, but there are some discrepancies between the two organisations' public statements that we've seen. GE Aerospace claimed that the source of the spill was fully identified and isolated on Friday, but NRW have said that they're still seeking to confirm the source.\n\nCabinet Minister, I'm glad to hear that you're being briefed by NRW. Could you confirm whether or not GE Aerospace are fully co-operating with the investigation? Will GE Aerospace be held fully accountable for their failures, which allowed this to happen? And what will be done to assess and remediate impacts on the fish and animals that live in and around the River Taff, and how will that be paid for?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=8393"
+        },
+        {
+          "id": "contribution-780822",
+          "item_id": "item-16318-261021-9",
+          "item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+          "lang": "en",
+          "t_start": 16921,
+          "text_english": "Diolch, Lywydd. In his resignation statement to the Senedd in 2024, the former First Minister, Mark Drakeford, reflected on his first major decision, which was to not proceed with the M4 relief road. He said,\n\n'The easy decision would have been to say, \"Go ahead\". The powerful voices in Wales were lined up in support of it. My decision, having spent many, many days reading and thinking about it, was that that was not in the long-term interests of Wales.' \n\nWelsh Labour were also responsible for passing our groundbreaking Well-being of Future Generations (Wales) Act 2015 and many other world-leading initiatives. I guess that's why I find this motion quite sad. The black route is no longer an option; the land is no longer available. But even if it were an option, concreting over the Gwent levels is an option that no serious Government or Parliament could consider, given the environmental devastation it would cause. There is no magic green floating motorway. But I do agree that doing nothing is not an option.\n\nThe most important part of the solution to the M4 congestion is further investment in public transport to encourage more drivers to leave their cars at home and take a train or a bus. So, I really welcome the announcement that the new railway stations recommended—[Interruption.]—no, it's all right—by the Burns commission will be brought forward and delivered sooner than originally planned. Increasing accessibility and the number of services on the main line between Cardiff and Severn Tunnel Junction will be incredibly valuable for people across the region, and I look forward to using them myself in the not-too-distant future.\n\nNow, looking at the Government's proposals, lorries travelling between the north of England and west Wales are currently inhibited from using the Heads of the Valleys road due to the lack of rest facilities, which they are, of course, legally required to use. The Government's proposal to invest in rest facilities is common sense, cost-effective, and can remove substantial freight traffic from the M4. \n\nThe people of Newport will be more likely to take the bus if they have confidence that a bus goes where they need it to, will arrive at their stop when the timetable says it will, and will get them to their destination on time. So, again, the Government's proposed bus network improvements are sensible and cost-effective and have the capacity to reduce the number of private cars using both the M4 and the surrounding roads.\n\nThe railway stations recommended by Lord Burns are, as I said, welcome. Experience shows that new railway stations always outperform the passenger number modelling, so these stations could really make a difference to traffic on the M4 around Newport. It won't surprise Members that I feel the Burns stations don't go far enough. In my own constituency, the long-anticipated, but currently unfunded, stations at Gabalfa and Roath park, as well as others like Caerleon, would encourage more people to use public transport, helping to reduce congestion across the whole road network. Rather than spending the entire Welsh Government capital budget on a single new motorway that would devastate a fragile ecosystem, public money is far better spent on making cost-effective improvements more quickly to our existing road network and public transport that, together, can produce considerable benefits for all road users, including freight, private cars, buses, cyclists and pedestrians. Diolch.",
+          "text_original": "Diolch, Lywydd. In his resignation statement to the Senedd in 2024, the former First Minister, Mark Drakeford, reflected on his first major decision, which was to not proceed with the M4 relief road. He said,\n\n'The easy decision would have been to say, \"Go ahead\". The powerful voices in Wales were lined up in support of it. My decision, having spent many, many days reading and thinking about it, was that that was not in the long-term interests of Wales.' \n\nWelsh Labour were also responsible for passing our groundbreaking Well-being of Future Generations (Wales) Act 2015 and many other world-leading initiatives. I guess that's why I find this motion quite sad. The black route is no longer an option; the land is no longer available. But even if it were an option, concreting over the Gwent levels is an option that no serious Government or Parliament could consider, given the environmental devastation it would cause. There is no magic green floating motorway. But I do agree that doing nothing is not an option.\n\nThe most important part of the solution to the M4 congestion is further investment in public transport to encourage more drivers to leave their cars at home and take a train or a bus. So, I really welcome the announcement that the new railway stations recommended—[Interruption.]—no, it's all right—by the Burns commission will be brought forward and delivered sooner than originally planned. Increasing accessibility and the number of services on the main line between Cardiff and Severn Tunnel Junction will be incredibly valuable for people across the region, and I look forward to using them myself in the not-too-distant future.\n\nNow, looking at the Government's proposals, lorries travelling between the north of England and west Wales are currently inhibited from using the Heads of the Valleys road due to the lack of rest facilities, which they are, of course, legally required to use. The Government's proposal to invest in rest facilities is common sense, cost-effective, and can remove substantial freight traffic from the M4. \n\nThe people of Newport will be more likely to take the bus if they have confidence that a bus goes where they need it to, will arrive at their stop when the timetable says it will, and will get them to their destination on time. So, again, the Government's proposed bus network improvements are sensible and cost-effective and have the capacity to reduce the number of private cars using both the M4 and the surrounding roads.\n\nThe railway stations recommended by Lord Burns are, as I said, welcome. Experience shows that new railway stations always outperform the passenger number modelling, so these stations could really make a difference to traffic on the M4 around Newport. It won't surprise Members that I feel the Burns stations don't go far enough. In my own constituency, the long-anticipated, but currently unfunded, stations at Gabalfa and Roath park, as well as others like Caerleon, would encourage more people to use public transport, helping to reduce congestion across the whole road network. Rather than spending the entire Welsh Government capital budget on a single new motorway that would devastate a fragile ecosystem, public money is far better spent on making cost-effective improvements more quickly to our existing road network and public transport that, together, can produce considerable benefits for all road users, including freight, private cars, buses, cyclists and pedestrians. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=16921"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-780219",
+          "item_id": "item-16317-261020-8",
+          "item_title_en": "8. Statement by the Cabinet Minister for Enterprise, Connectivity and Energy: Update on the National Energy Strategy",
+          "lang": "en",
+          "t_start": 20395,
+          "text_english": "I thank the Cabinet Minister for his statement. I'm delighted that the Welsh Government agrees with us Greens that Wales has a huge untapped potential to be completely self-sufficient in green, safe, resilient energy generation, owned by our communities and our nation. We believe that Wales must aim to meet all of our energy needs from renewables by 2035, to reduce our carbon emissions and tackle global heating, but also to ensure energy independence from global price shocks, and to protect the poorest in our society from continuing energy poverty.547\n\nI do have a concern about the loss of the explicit mention of renewables from targets. Because if we reduce carbon emissions, but create other problems, future generations won't thank us. And I would remind the Reform spokesman that nuclear power is expensive, won't deliver in time, and creates terrible risks for future generations. Can the Cabinet Minister provide reassurance that the shift in focus from renewable energy targets to reducing emissions will not lead to other significant environmental consequences for our children and grandchildren?",
+          "text_original": "I thank the Cabinet Minister for his statement. I'm delighted that the Welsh Government agrees with us Greens that Wales has a huge untapped potential to be completely self-sufficient in green, safe, resilient energy generation, owned by our communities and our nation. We believe that Wales must aim to meet all of our energy needs from renewables by 2035, to reduce our carbon emissions and tackle global heating, but also to ensure energy independence from global price shocks, and to protect the poorest in our society from continuing energy poverty.547\n\nI do have a concern about the loss of the explicit mention of renewables from targets. Because if we reduce carbon emissions, but create other problems, future generations won't thank us. And I would remind the Reform spokesman that nuclear power is expensive, won't deliver in time, and creates terrible risks for future generations. Can the Cabinet Minister provide reassurance that the shift in focus from renewable energy targets to reducing emissions will not lead to other significant environmental consequences for our children and grandchildren?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=20395"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
+    },
     {
       "contributions": [
         {

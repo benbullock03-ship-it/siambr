@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "against"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,54 @@
   "canonical_name": "Sera Evans",
   "constituency_name_cy": "Afan Ogwr Rhondda",
   "constituency_name_en": "Afan Ogwr Rhondda",
-  "contribution_count": 51,
+  "contribution_count": 55,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780529",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "cy",
+          "t_start": 3249,
+          "text_english": "Cabinet Minister, we know that an education workforce that is supported and valued is essential for raising standards and improving outcomes for our learners. Therefore, I welcome the 3.5 per cent pay award, which is fully funded and ensures parity with England, as well as the additional investment that you've just mentioned to alleviate pressures associated with ALN. ASCL Cymru, which also represents school leaders, has accepted the 3.5 per cent pay award. Does the Minister agree that it is in the interests of both school staff and pupils for those who remain in dispute to engage constructively with these proposals and seek to find a resolution without resorting to industrial action?",
+          "text_original": "Weinidog, rydym yn gwybod bod gweithlu addysg sy'n cael ei gefnogi a'i werthfawrogi yn hanfodol er mwyn codi safonau a gwella canlyniadau ein dysgwyr. Felly, rwy'n croesawu’r dyfarniad cyflog o 3.5 y cant, sydd wedi'i ariannu'n llawn ac yn sicrhau cydraddoldeb â Lloegr, yn ogystal â'r buddsoddiad ychwanegol rŷch chi newydd sôn amdano fe i leddfu'r pwysau sy'n gysylltiedig ag ADY. Mae ASCL Cymru, sydd hefyd yn cynrychioli arweinwyr ysgolion, wedi derbyn y dyfarniad cyflog o 3.5 y cant. A yw'r Gweinidog yn cytuno gyda fi ei bod hi er budd staff ysgolion a disgyblion fel ei gilydd i'r rheini sydd yn parhau mewn anghydfod i ymgysylltu'n adeiladol â'r cynigion hyn a cheisio dod o hyd i ddatrysiad heb weithredu diwydiannol? Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=3249"
+        },
+        {
+          "id": "contribution-780641",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "4. What consideration has the Commission given to introducing mandatory safeguarding training for all Members of the Senedd and their support staff? OQ64741",
+          "text_original": "4. Pa ystyriaeth y mae'r Comisiwn wedi'i roi i gyflwyno hyfforddiant diogelu gorfodol ar gyfer yr holl Aelodau o'r Senedd a'u staff cymorth? OQ64741",
+          "tv_url": "http://www.senedd.tv/en/16318"
+        },
+        {
+          "id": "contribution-780645",
+          "item_id": "item-16318-261021-4",
+          "item_title_en": "3. Questions to the Senedd Commission",
+          "lang": "en",
+          "t_start": 6721,
+          "text_english": "Diolch, Lywydd. The Commission's own guidance makes clear that while safeguarding is everyone's responsibility, it has designated safeguarding officers who act as a central point of contact for managing concerns. This is standard practice. However, individual Members are responsible for safeguarding arrangements within their own offices, and although the Commission advises Members and their staff to mirror its safeguarding policy, there really isn't an equivalent safeguarding structure, as it were, or central point of contact for Members themselves. You mentioned political groups, Llywydd, but what consideration has the Commission seriously given to how safeguarding arrangements for Members and their support staff could be strengthened, including through that mandatory training I mentioned and clearer procedures to ensure that everyone knows how to raise concerns and that both the people we represent and those working to represent them are properly protected?",
+          "text_original": "Diolch, Lywydd. The Commission's own guidance makes clear that while safeguarding is everyone's responsibility, it has designated safeguarding officers who act as a central point of contact for managing concerns. This is standard practice. However, individual Members are responsible for safeguarding arrangements within their own offices, and although the Commission advises Members and their staff to mirror its safeguarding policy, there really isn't an equivalent safeguarding structure, as it were, or central point of contact for Members themselves. You mentioned political groups, Llywydd, but what consideration has the Commission seriously given to how safeguarding arrangements for Members and their support staff could be strengthened, including through that mandatory training I mentioned and clearer procedures to ensure that everyone knows how to raise concerns and that both the people we represent and those working to represent them are properly protected?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=6721"
+        },
+        {
+          "id": "contribution-780684",
+          "item_id": "item-16318-261021-6",
+          "item_title_en": "5. 90-second Statements",
+          "lang": "en",
+          "t_start": 8774,
+          "text_english": "Last week, I was, along with you and other cross-party colleagues, delighted to welcome Danielle Webb to the Senedd women's caucus. Danielle is an inspirational woman and I am fortunate to call her a friend and know her as a former colleague. As vice-chair of Little People UK, she spoke passionately about her experiences as a little person as part of Dwarfism Awareness Month. She highlighted the everyday challenges that many little people face—as students, when entering employment, commuting or simply navigating spaces that too often fail to accommodate them.\n\nThere are between 3,000 and 7,000 people with dwarfism in the UK and over 200 different types of dwarfism. Depending on the condition, people may experience significant medical complications, including spinal stenosis, hydrocephalus and arthritis. Diagnosis and treatment can require genetic testing, scans and x-rays, as well as a co-ordinated team of medical specialists. Dwarfism Awareness Month is an opportunity to challenge misconceptions, raise understanding and confront the barriers that people with dwarfism face every day. We must listen to people like Danielle, champion their experiences and ensure our public spaces, workplaces and services are accessible and inclusive. Greater awareness must be matched by practical action so that people with dwarfism can participate fully in every aspect of life in Wales. Diolch.",
+          "text_original": "Last week, I was, along with you and other cross-party colleagues, delighted to welcome Danielle Webb to the Senedd women's caucus. Danielle is an inspirational woman and I am fortunate to call her a friend and know her as a former colleague. As vice-chair of Little People UK, she spoke passionately about her experiences as a little person as part of Dwarfism Awareness Month. She highlighted the everyday challenges that many little people face—as students, when entering employment, commuting or simply navigating spaces that too often fail to accommodate them.\n\nThere are between 3,000 and 7,000 people with dwarfism in the UK and over 200 different types of dwarfism. Depending on the condition, people may experience significant medical complications, including spinal stenosis, hydrocephalus and arthritis. Diagnosis and treatment can require genetic testing, scans and x-rays, as well as a co-ordinated team of medical specialists. Dwarfism Awareness Month is an opportunity to challenge misconceptions, raise understanding and confront the barriers that people with dwarfism face every day. We must listen to people like Danielle, champion their experiences and ensure our public spaces, workplaces and services are accessible and inclusive. Greater awareness must be matched by practical action so that people with dwarfism can participate fully in every aspect of life in Wales. Diolch.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=8774"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
     {
       "contributions": [
         {

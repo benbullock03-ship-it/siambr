@@ -1,6 +1,39 @@
 {
   "ballots": [
     {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-7",
+      "debate_item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+      "division_id": "division-16318-780841",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 6. Members Legislative Debate under Standing Order 11.21(iv) - an NHS first Bill.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-8",
+      "debate_item_title_en": "7. Reform UK Debate: Prostate cancer strategy",
+      "division_id": "division-16318-780843",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 7. Reform UK Debate - Prostate cancer strategy. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
+      "date": "2026-10-21",
+      "debate_item_id": "item-16318-261021-9",
+      "debate_item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+      "division_id": "division-16318-780875",
+      "item_id": "item-16318-261021-10",
+      "item_title_en": "9. Voting Time",
+      "motion_text": "Item 8. Welsh Labour Debate - the M4 around Newport. Motion without amendment.",
+      "result": "agreed",
+      "vote_cast": "for"
+    },
+    {
       "date": "2026-10-14",
       "debate_item_id": "item-16316-261014-7",
       "debate_item_title_en": "6. Reform UK Debate: Local referendums on council tax rises",
@@ -741,8 +774,140 @@
   "canonical_name": "Mike Hedges",
   "constituency_name_cy": "Gŵyr Abertawe",
   "constituency_name_en": "Gŵyr Abertawe",
-  "contribution_count": 71,
+  "contribution_count": 83,
   "contributions_by_date": [
+    {
+      "contributions": [
+        {
+          "id": "contribution-780612",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "en",
+          "t_start": 2981,
+          "text_english": "It's because they have a Labour Government.",
+          "text_original": "It's because they have a Labour Government.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=2981"
+        },
+        {
+          "id": "contribution-780541",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "cy",
+          "t_start": null,
+          "text_english": "2. What is the Welsh Government doing to improve further education provision in Swansea? OQ64724",
+          "text_original": "2. Beth mae Llywodraeth Cymru yn ei wneud i wella'r ddarpariaeth addysg bellach yn Abertawe? OQ64724",
+          "tv_url": "http://www.senedd.tv/en/16318"
+        },
+        {
+          "id": "contribution-780548",
+          "item_id": "item-16318-261021-3",
+          "item_title_en": "2. Questions to the Cabinet Minister for Education and the Welsh Language",
+          "lang": "en",
+          "t_start": 3420,
+          "text_english": "Can I thank the Minister for that reply? Perhaps I ought to say that I used to be a governor at Tycoch and my grandchild goes to Bryn Tawe, so I've got an interest, though not necessarily a financial one. I thought I'd bring that up for the record.\n\nOne of the issues I think we are all in agreement on is that we do not want young people at 16 to become not in education, employment or training. That means we must have adequate availability of courses in the further education sector. If young people do not continue in education or training at 16, then many will face a life of unemployment. Getting them at 18 to go back into taking up a course is going to be very difficult.\n\nGower College Swansea is doing its best to provide opportunities. I really would like to commend them, and I hope the Minister will as well. Gower College has over-recruited against the numbers funded, but they still have a waiting list for some areas. Will the Minister commit to funding further education so that there is a place in college for every young person who wants it in Swansea, so that we don't have people sitting at home who want to be learning?",
+          "text_original": "Can I thank the Minister for that reply? Perhaps I ought to say that I used to be a governor at Tycoch and my grandchild goes to Bryn Tawe, so I've got an interest, though not necessarily a financial one. I thought I'd bring that up for the record.\n\nOne of the issues I think we are all in agreement on is that we do not want young people at 16 to become not in education, employment or training. That means we must have adequate availability of courses in the further education sector. If young people do not continue in education or training at 16, then many will face a life of unemployment. Getting them at 18 to go back into taking up a course is going to be very difficult.\n\nGower College Swansea is doing its best to provide opportunities. I really would like to commend them, and I hope the Minister will as well. Gower College has over-recruited against the numbers funded, but they still have a waiting list for some areas. Will the Minister commit to funding further education so that there is a place in college for every young person who wants it in Swansea, so that we don't have people sitting at home who want to be learning?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=3420"
+        },
+        {
+          "id": "contribution-780717",
+          "item_id": "item-16318-261021-7",
+          "item_title_en": "6. Members' Legislative Debate under Standing Order 11.21(iv): An NHS first Bill",
+          "lang": "en",
+          "t_start": 9623,
+          "text_english": "Can I thank Gwyn for bringing this before us today? I'm a member of the Socialist Health Association, and committed to a publicly funded and publicly provided health service. The NHS, despite the waiting times and financial pressures, is supported by the vast majority of people in Wales. When you consider the cost of health provision in the USA, the NHS is excellent value for money. In the USA, medical costs are the major cause of personal bankruptcy.\n\nI believe in the direct provision of a publicly funded health service by publicly funded and employed health professionals. The private sector see opportunities to profit from the health service, taking the easy-to-provide services, not providing the expensive and difficult-to-provide. I support, wherever possible, delivery of waiting-list initiatives, surgeries and clinics within the NHS rather than through the private sector. The private sector is looking for opportunities to make a profit out of publicly funded health. My aim is a completely directly provided health service with no publicly funded health expenditure leaking out to the private sector.\n\nI support increasing surgical activity through weekend and evening clinics, opening new diagnostic and treatment centres and creating more community-based services to reduce hospital demand. We also have the advances in AI giving us analysis and treatment. All health boards should develop costed plans for additional clinic activity from departments within their organisations before considering entering into contracts with private providers. They must empower and trust clinical staff. I think that's one of the big problems we have: a lack of being prepared to trust the clinical staff.\n\nThe BMA has expressed concern about the increasing role of private healthcare provision in the NHS, particularly regarding the privatisation of NHS services. They argue that private healthcare companies should be held to the same standards as NHS providers, including transparent reporting of patient safety incidents and performance. The BMA supports a new NHS provider selection regime to limit procurement arrangements with independent sector providers and ensure the sustainability of the NHS. They also advocate for better oversight of privatisation and recommend that independent sector providers for NHS services should be subject to the same requirements as NHS providers.\n\nI share the concern of many in the health service that increasing the reliance on private providers will erode the NHS's long-term sustainability and will end with us not having a national health service, but a publicly funded health service being used by the public in private hospitals and private areas. And the problem then becomes that the private sector won't want to do accident and emergency. They won't want to do anything that is difficult. They'll want to do the easier-to-deal-with. I think it really is important that we stand up for the NHS, which is what I'm doing now. Can I just, finally, say that the health service is funded to provide services, not as a cash point for the private sector?",
+          "text_original": "Can I thank Gwyn for bringing this before us today? I'm a member of the Socialist Health Association, and committed to a publicly funded and publicly provided health service. The NHS, despite the waiting times and financial pressures, is supported by the vast majority of people in Wales. When you consider the cost of health provision in the USA, the NHS is excellent value for money. In the USA, medical costs are the major cause of personal bankruptcy.\n\nI believe in the direct provision of a publicly funded health service by publicly funded and employed health professionals. The private sector see opportunities to profit from the health service, taking the easy-to-provide services, not providing the expensive and difficult-to-provide. I support, wherever possible, delivery of waiting-list initiatives, surgeries and clinics within the NHS rather than through the private sector. The private sector is looking for opportunities to make a profit out of publicly funded health. My aim is a completely directly provided health service with no publicly funded health expenditure leaking out to the private sector.\n\nI support increasing surgical activity through weekend and evening clinics, opening new diagnostic and treatment centres and creating more community-based services to reduce hospital demand. We also have the advances in AI giving us analysis and treatment. All health boards should develop costed plans for additional clinic activity from departments within their organisations before considering entering into contracts with private providers. They must empower and trust clinical staff. I think that's one of the big problems we have: a lack of being prepared to trust the clinical staff.\n\nThe BMA has expressed concern about the increasing role of private healthcare provision in the NHS, particularly regarding the privatisation of NHS services. They argue that private healthcare companies should be held to the same standards as NHS providers, including transparent reporting of patient safety incidents and performance. The BMA supports a new NHS provider selection regime to limit procurement arrangements with independent sector providers and ensure the sustainability of the NHS. They also advocate for better oversight of privatisation and recommend that independent sector providers for NHS services should be subject to the same requirements as NHS providers.\n\nI share the concern of many in the health service that increasing the reliance on private providers will erode the NHS's long-term sustainability and will end with us not having a national health service, but a publicly funded health service being used by the public in private hospitals and private areas. And the problem then becomes that the private sector won't want to do accident and emergency. They won't want to do anything that is difficult. They'll want to do the easier-to-deal-with. I think it really is important that we stand up for the NHS, which is what I'm doing now. Can I just, finally, say that the health service is funded to provide services, not as a cash point for the private sector?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=9623"
+        },
+        {
+          "id": "contribution-780833",
+          "item_id": "item-16318-261021-9",
+          "item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+          "lang": "en",
+          "t_start": 17365,
+          "text_english": "If we were starting from scratch now, the M4 would stretch from the bridge over the Severn estuary to Fishguard. The motorway would be three lanes wide for the whole of its length. There would be fewer junctions, and they would be further apart. It was built piecemeal. But we're not starting from scratch, are we? So, what do we intend to do? It's not just around the Brynglas tunnels that we have problems on the M4. For those of us coming in from the west, we have problems around Port Talbot. We have problems around the junction going on to the Heads of Valleys, and then we all join—and I'm sure, if you're driving here, Presiding Officer, you do—coming off the M4 at junction 33. We have all these traffic jams that affect us. So, I'm asking the Welsh Government: why do we always think we're unique? Why do we think that no other country has ever dealt with these sorts of problems? It's happening all the time.\n\nCan I mention what's happened in Italy? There's a technique known as the Nazzano method, which allows tunnels to be widened while traffic continues to run through them. Originally developed and successfully implemented in Italy, the Nazzano method allows an existing tunnel to be widened while remaining open to traffic. This technique involves constructing a new, larger tunnel shell around the existing bore, maintaining traffic flows through the works, and then removing the old lining once the new structure is complete. This method has been used internationally on busy motorway tunnels where closure was not feasible, and it has consistently delivered increased capacity. Can I urge the Welsh Government to give some serious thought to that?\n\nAnd it's not just that, is it? [Interruption.] Certainly.",
+          "text_original": "If we were starting from scratch now, the M4 would stretch from the bridge over the Severn estuary to Fishguard. The motorway would be three lanes wide for the whole of its length. There would be fewer junctions, and they would be further apart. It was built piecemeal. But we're not starting from scratch, are we? So, what do we intend to do? It's not just around the Brynglas tunnels that we have problems on the M4. For those of us coming in from the west, we have problems around Port Talbot. We have problems around the junction going on to the Heads of Valleys, and then we all join—and I'm sure, if you're driving here, Presiding Officer, you do—coming off the M4 at junction 33. We have all these traffic jams that affect us. So, I'm asking the Welsh Government: why do we always think we're unique? Why do we think that no other country has ever dealt with these sorts of problems? It's happening all the time.\n\nCan I mention what's happened in Italy? There's a technique known as the Nazzano method, which allows tunnels to be widened while traffic continues to run through them. Originally developed and successfully implemented in Italy, the Nazzano method allows an existing tunnel to be widened while remaining open to traffic. This technique involves constructing a new, larger tunnel shell around the existing bore, maintaining traffic flows through the works, and then removing the old lining once the new structure is complete. This method has been used internationally on busy motorway tunnels where closure was not feasible, and it has consistently delivered increased capacity. Can I urge the Welsh Government to give some serious thought to that?\n\nAnd it's not just that, is it? [Interruption.] Certainly.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=17365"
+        },
+        {
+          "id": "contribution-780888",
+          "item_id": "item-16318-261021-9",
+          "item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+          "lang": "en",
+          "t_start": 17477,
+          "text_english": "Can I just ask you when the Nazzano method was put forward? I don't remember anybody apart from me having mentioned it. I envisage only widening the tunnels and two short lane carriageways either side. There are other methods—I mean, in Japan, they have the world's first large-scale tunnel widening—[Interruption.] Can I just finish this bit? In Japan, they have the world's first large-scale tunnel widening by shield machines. The rest of the world is widening tunnels. Why can't we? Certainly, Darren.",
+          "text_original": "Can I just ask you when the Nazzano method was put forward? I don't remember anybody apart from me having mentioned it. I envisage only widening the tunnels and two short lane carriageways either side. There are other methods—I mean, in Japan, they have the world's first large-scale tunnel widening—[Interruption.] Can I just finish this bit? In Japan, they have the world's first large-scale tunnel widening by shield machines. The rest of the world is widening tunnels. Why can't we? Certainly, Darren.",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=17477"
+        },
+        {
+          "id": "contribution-780891",
+          "item_id": "item-16318-261021-9",
+          "item_title_en": "8. Welsh Labour Debate: The M4 around Newport",
+          "lang": "en",
+          "t_start": 17533,
+          "text_english": "Well, can I just say, Darren, that you and I would both agree that what happened on the road to Damascus with Saul, who became Paul, was one of the greatest things that ever happened in world history? [Interruption.] So, I wouldn't go criticising that, but I'm just saying, and I've said this several times in the past, and I know Natasha has also talked about widening the tunnels—and without much support around, from you, Darren, for example—but widening the tunnels is an answer. It ought to be given a serious consideration. It doesn't mean driving kilometres through the Gwent levels. It just means widening the motorway going through those tunnels. It's happened in the rest of the world—why can't it happen here?",
+          "text_original": "Well, can I just say, Darren, that you and I would both agree that what happened on the road to Damascus with Saul, who became Paul, was one of the greatest things that ever happened in world history? [Interruption.] So, I wouldn't go criticising that, but I'm just saying, and I've said this several times in the past, and I know Natasha has also talked about widening the tunnels—and without much support around, from you, Darren, for example—but widening the tunnels is an answer. It ought to be given a serious consideration. It doesn't mean driving kilometres through the Gwent levels. It just means widening the motorway going through those tunnels. It's happened in the rest of the world—why can't it happen here?",
+          "tv_url": "http://www.senedd.tv/en/16318?startPos=17533"
+        }
+      ],
+      "date": "2026-10-21",
+      "record_page_url": "https://record.senedd.wales/Plenary/16318"
+    },
+    {
+      "contributions": [
+        {
+          "id": "contribution-779863",
+          "item_id": "item-16317-261020-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "en",
+          "t_start": 4710,
+          "text_english": "Diolch. Counsel General, last month, on level 7 apprenticeships, you said,\n\n'What I can tell him, which may cheer him up slightly, is that level 7 apprenticeships at the bar and also solicitors are uppermost in this Government's mind. We are pushing forward on them and, indeed, I shall be making a speech on them in about a fortnight's time, during the Legal Wales conference.'\n\nWhat progress has been made?",
+          "text_original": "Diolch. Counsel General, last month, on level 7 apprenticeships, you said,\n\n'What I can tell him, which may cheer him up slightly, is that level 7 apprenticeships at the bar and also solicitors are uppermost in this Government's mind. We are pushing forward on them and, indeed, I shall be making a speech on them in about a fortnight's time, during the Legal Wales conference.'\n\nWhat progress has been made?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=4710"
+        },
+        {
+          "id": "contribution-779869",
+          "item_id": "item-16317-261020-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "en",
+          "t_start": 4785,
+          "text_english": "Thank you for that answer. I'm sure we'll return to that next month. What I'll also say, of course, on that, is that you've got approximately £200 million underspent, sitting there available, so you could be looking to use some of that.\n\nBut I want to move on to the tribunal system. I know you said it is also high in your priorities, Counsel General. The proposed new Welsh tribunal structure is intended not only to bring existing devolved tribunals into a more coherent system, but also be capable of taking on additional jurisdiction in the future. Before any additional jurisdiction is transferred into the Welsh tribunal system, what safeguards do you believe need to be in place?",
+          "text_original": "Thank you for that answer. I'm sure we'll return to that next month. What I'll also say, of course, on that, is that you've got approximately £200 million underspent, sitting there available, so you could be looking to use some of that.\n\nBut I want to move on to the tribunal system. I know you said it is also high in your priorities, Counsel General. The proposed new Welsh tribunal structure is intended not only to bring existing devolved tribunals into a more coherent system, but also be capable of taking on additional jurisdiction in the future. Before any additional jurisdiction is transferred into the Welsh tribunal system, what safeguards do you believe need to be in place?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=4785"
+        },
+        {
+          "id": "contribution-779852",
+          "item_id": "item-16317-261020-2",
+          "item_title_en": "2. Questions to the Counsel General",
+          "lang": "en",
+          "t_start": 4872,
+          "text_english": "Thank you.",
+          "text_original": "Thank you.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=4872"
+        },
+        {
+          "id": "contribution-779972",
+          "item_id": "item-16317-261020-3",
+          "item_title_en": "3. Business Statement and Announcement",
+          "lang": "en",
+          "t_start": 6504,
+          "text_english": "We have a shortage of housing available for rent. Houses that were previously privately rented have been converted into Airbnb properties. This housing shortage is made worse by the growth of Airbnb properties. These Airbnb properties take business away from guest houses and hotels; they create parking problems. It's not just a problem of tourist areas; it affects areas with older terraced housing, as well as properties at the seaside. There is control over houses in multiple occupation concentrations to stop areas becoming HMO areas. We need the same for Airbnb. I'm asking for a Government statement on what action they intend to take to control the growth of Airbnb, or are they going to let it just grow and grow?",
+          "text_original": "We have a shortage of housing available for rent. Houses that were previously privately rented have been converted into Airbnb properties. This housing shortage is made worse by the growth of Airbnb properties. These Airbnb properties take business away from guest houses and hotels; they create parking problems. It's not just a problem of tourist areas; it affects areas with older terraced housing, as well as properties at the seaside. There is control over houses in multiple occupation concentrations to stop areas becoming HMO areas. We need the same for Airbnb. I'm asking for a Government statement on what action they intend to take to control the growth of Airbnb, or are they going to let it just grow and grow?",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=6504"
+        },
+        {
+          "id": "contribution-780098",
+          "item_id": "item-16317-261020-7",
+          "item_title_en": "7. Statement by the Cabinet Minister for Finance: An Update on Council Tax",
+          "lang": "en",
+          "t_start": 17762,
+          "text_english": "All property prices do not move at the same rate; if they did, there would be no problem. No change is baking in unfairness. I've asked previously to base council tax on actual value. I've also previously asked, if we have to have bands, for more at the top and splitting band A. What will happen in the next four years? Why will waiting four years not mean the changes will be bigger? Many of the people who would have had their bands decreased will continue paying at the higher rate. Is that fair? To Reform: bring a debate on council structure.",
+          "text_original": "All property prices do not move at the same rate; if they did, there would be no problem. No change is baking in unfairness. I've asked previously to base council tax on actual value. I've also previously asked, if we have to have bands, for more at the top and splitting band A. What will happen in the next four years? Why will waiting four years not mean the changes will be bigger? Many of the people who would have had their bands decreased will continue paying at the higher rate. Is that fair? To Reform: bring a debate on council structure.",
+          "tv_url": "http://www.senedd.tv/en/16317?startPos=17762"
+        }
+      ],
+      "date": "2026-10-20",
+      "record_page_url": "https://record.senedd.wales/Plenary/16317"
+    },
     {
       "contributions": [
         {
